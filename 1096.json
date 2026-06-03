@@ -1,197 +1,198 @@
 {
-    "scientificName": "",
-    "synonyms": [
-        "Paliurus mairei H.Lév.",
-        "Rhamnus jujuba L.",
-        "Sarcomphalus mauritianus (Lam.) Raf.",
-        "Ziziphus insularis C.Sm.",
-        "Ziziphus jujuba (L.) Gaertn.",
-        "Ziziphus jujuba var. stenocarpa Kuntze",
-        "Ziziphus mairei (H.Lév.) Browicz & Lauener",
-        "Ziziphus mauritiana subsp. orthacantha (DC.) A.Chev.",
-        "Ziziphus mauritiana var. deserticola A.Chev.",
-        "Ziziphus mauritiana var. muratiana (Maire) A.Chev.",
-        "Ziziphus mauritiana var. orthacantha (DC.) A.Chev.",
-        "Ziziphus muratiana Maire",
-        "Ziziphus orthacantha DC.",
-        "Ziziphus poiretii G.Don",
-        "Ziziphus rotundata DC.",
-        "Ziziphus tomentosa Poir."
-    ],
-    "familyName": "",
-    "englishNames": [
-        "Indian Plum"
-    ],
-    "sinhalaName": "Masan (මසන්)",
-    "description": "ඉක්මනින් ලබාගත හැක",
-    "treatments": [
-        {
-            "treatment": "Dysentery",
-            "sinhala": "ලේ අතීසාරය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Diarrhea",
-            "sinhala": "අතීසාරය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Fever",
-            "sinhala": "උණ රෝග",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Infectious & Febrile Diseases",
-                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-            }
-        },
-        {
-            "treatment": "Ulcers",
-            "sinhala": "වණ / තුවාල",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Dermatological & Skin Conditions",
-                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-            }
-        },
-        {
-            "treatment": "Wounds",
-            "sinhala": "තුවාල",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Dermatological & Skin Conditions",
-                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-            }
-        },
-        {
-            "treatment": "Cough",
-            "sinhala": "කැස්ස",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Respiratory System Diseases",
-                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Anorexia",
-            "sinhala": "කෑම අරුචිය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Blood Disorders",
-            "sinhala": "රුධිරය ආශ්‍රිත රෝග",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Cardiovascular & Circulatory Diseases",
-                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-            }
-        },
-        {
-            "treatment": "Heart Diseases",
-            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Cardiovascular & Circulatory Diseases",
-                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-            }
-        },
-        {
-            "treatment": "Asthma",
-            "sinhala": "ඇදුම",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Respiratory System Diseases",
-                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Hiccups",
-            "sinhala": "හිකිකාව",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Leukorrhea",
-            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Reproductive & Gynecological Disorders",
-                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-            }
-        },
-        {
-            "treatment": "Dysuria",
-            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Urinary & Renal System Diseases",
-                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Skin Disorders",
-            "sinhala": "චර්ම රෝග (Skin Disorders)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Dermatological & Skin Conditions",
-                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-            }
-        }
-    ],
-    "partsUsed": [
-        "Leaves",
-        "Bark",
-        "Root",
-        "Fruits"
-    ],
-    "images": [
-        {
-            "image_id": "528",
-            "caption": "Habit of the species",
-            "url": "https://i.ibb.co/QjPvMHYy/plant01096-00528.jpg"
-        },
-        {
-            "image_id": "1239",
-            "caption": "Flowers",
-            "url": "https://i.ibb.co/Xfs7cx8s/plant01096-01239.jpg"
-        },
-        {
-            "image_id": "529",
-            "caption": "Fruit",
-            "url": "https://i.ibb.co/d0sNpcV3/plant01096-00529.jpg"
-        },
-        {
-            "image_id": "1240",
-            "caption": "Fruits",
-            "url": "https://i.ibb.co/DDTHcT63/plant01096-01240.jpg"
-        }
-    ]
+  "scientificName": "",
+  "synonyms": [
+    "Paliurus mairei H.Lév.",
+    "Rhamnus jujuba L.",
+    "Sarcomphalus mauritianus (Lam.) Raf.",
+    "Ziziphus insularis C.Sm.",
+    "Ziziphus jujuba (L.) Gaertn.",
+    "Ziziphus jujuba var. stenocarpa Kuntze",
+    "Ziziphus mairei (H.Lév.) Browicz & Lauener",
+    "Ziziphus mauritiana subsp. orthacantha (DC.) A.Chev.",
+    "Ziziphus mauritiana var. deserticola A.Chev.",
+    "Ziziphus mauritiana var. muratiana (Maire) A.Chev.",
+    "Ziziphus mauritiana var. orthacantha (DC.) A.Chev.",
+    "Ziziphus muratiana Maire",
+    "Ziziphus orthacantha DC.",
+    "Ziziphus poiretii G.Don",
+    "Ziziphus rotundata DC.",
+    "Ziziphus tomentosa Poir."
+  ],
+  "familyName": "",
+  "englishNames": [
+    "Indian Plum"
+  ],
+  "sinhalaName": "Masan (මසන්)",
+  "description": "ඉක්මනින් ලබාගත හැක",
+  "treatments": [
+    {
+      "treatment": "Dysentery",
+      "sinhala": "ලේ අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Diarrhea",
+      "sinhala": "අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Fever",
+      "sinhala": "උණ රෝග",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Infectious & Febrile Diseases",
+        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+      }
+    },
+    {
+      "treatment": "Ulcers",
+      "sinhala": "වණ / තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Wounds",
+      "sinhala": "තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Cough",
+      "sinhala": "කැස්ස",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Anorexia",
+      "sinhala": "කෑම අරුචිය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Blood Disorders",
+      "sinhala": "රුධිරය ආශ්‍රිත රෝග",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Cardiovascular & Circulatory Diseases",
+        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+      }
+    },
+    {
+      "treatment": "Heart Diseases",
+      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Cardiovascular & Circulatory Diseases",
+        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+      }
+    },
+    {
+      "treatment": "Asthma",
+      "sinhala": "ඇදුම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Hiccups",
+      "sinhala": "හිකිකාව",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Leukorrhea",
+      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Dysuria",
+      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Urinary & Renal System Diseases",
+        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Skin Disorders",
+      "sinhala": "චර්ම රෝග (Skin Disorders)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Leaves",
+    "Bark",
+    "Root",
+    "Fruits"
+  ],
+  "images": [
+    {
+      "image_id": "528",
+      "caption": "Habit of the species",
+      "url": "https://i.ibb.co/QjPvMHYy/plant01096-00528.jpg"
+    },
+    {
+      "image_id": "1239",
+      "caption": "Flowers",
+      "url": "https://i.ibb.co/Xfs7cx8s/plant01096-01239.jpg"
+    },
+    {
+      "image_id": "529",
+      "caption": "Fruit",
+      "url": "https://i.ibb.co/d0sNpcV3/plant01096-00529.jpg"
+    },
+    {
+      "image_id": "1240",
+      "caption": "Fruits",
+      "url": "https://i.ibb.co/DDTHcT63/plant01096-01240.jpg"
+    }
+  ],
+  "special": []
 }

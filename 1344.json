@@ -1,139 +1,140 @@
 {
-    "scientificName": "Kaempferia galanga L.",
-    "synonyms": [
-        "Alpinia sessilis J.Koenig",
-        "Kaempferia galanga var. latifolia (Donn ex Hornem.) Donn",
-        "Kaempferia humilis Salisb.",
-        "Kaempferia latifolia Donn ex Hornem.",
-        "Kaempferia marginata Carey ex Roscoe",
-        "Kaempferia plantaginifolia Salisb.",
-        "Kaempferia procumbens Noronha",
-        "Kaempferia rotunda Blanco"
-    ],
-    "familyName": "ZINGIBERACEAE",
-    "englishNames": [
-        "Aromatic Ginger",
-        "Resurrection Lily",
-        "Lesser Galangal",
-        "Sand Ginger"
-    ],
-    "sinhalaName": "Inguru piyali (ඉඟුරු පියළි )",
-    "description": "රයිසෝම සහිත (rhizomatous) පැළෑටි වේ. කඳ කෙටි හෝ බොහෝ දුරට නොපවතී. පත්‍ර ස්වල්පයකි, පත්‍ර කොපු එක් පැත්තකින් විවෘත වේ; පත්‍ර තල ද්විපේන්ති ලෙස (distichously) සැකසී ඇති අතර, 15 x 10 සෙ.මී. දක්වා විශාල වේ, බොහෝ විට ඉහළින් පටු රතු පැහැති දාරයක් සහිත වන අතර යටින් ලා පැහැතිය. පුෂ්ප මංජරිය වෘන්ත රහිත (sessile) වන අතර මල් 12ක් පමණ අඩංගු වේ. උප පත්‍ර (bracts) 4 x 1 සෙ.මී. දක්වා වේ. කොරොල්ලා නාලය (corolla-tube) 4.5-5 සෙ.මී. දිගු වේ; පෙති සුදු පැහැතිය, අවම වශයෙන් 2 සෙ.මී. දිගු වේ; ලැබෙලම (labellum) සෙ.මී. 2.5ක් පමණ පළල වන අතර, පෙති සුදු පැහැතිය, පාදස්ථ භාගයේ දම් පැහැති පටි දක්නට ලැබේ.",
-    "treatments": [
-        {
-            "treatment": "Wounds",
-            "sinhala": "තුවාල",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Dermatological & Skin Conditions",
-                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-            }
-        },
-        {
-            "treatment": "Dandruff",
-            "sinhala": "හිස්හොරි",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Dermatological & Skin Conditions",
-                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-            }
-        },
-        {
-            "treatment": "Cough",
-            "sinhala": "කැස්ස",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Respiratory System Diseases",
-                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Pectoral Ailments",
-            "sinhala": "පපුව ආශ්‍රිත රෝග සහ ආබාධ",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Respiratory System Diseases",
-                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Dyspepsia",
-            "sinhala": "අජීර්ණය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Headache",
-            "sinhala": "හිසරදය (ශිරෝ රෝග)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Nervous System & Mental Health Disorders",
-                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Malaria",
-            "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Infectious & Febrile Diseases",
-                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-            }
-        },
-        {
-            "treatment": "Fever",
-            "sinhala": "උණ රෝග",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Infectious & Febrile Diseases",
-                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-            }
-        },
-        {
-            "treatment": "Edema/Swelling",
-            "sinhala": "ඉදිමීම/ශෝථය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Pediatrics & General Symptoms",
-                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-            }
-        },
-        {
-            "treatment": "Oral Diseases",
-            "sinhala": "මුඛය ආශ්‍රිත රෝග (මුඛ රෝග)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Dental & Oral Cavity Diseases",
-                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-            }
-        }
-    ],
-    "partsUsed": [
-        "Rhizome"
-    ],
-    "images": [
-        {
-            "image_id": "309",
-            "caption": "Habit of the species",
-            "url": "https://i.ibb.co/Q3PWcD71/plant01344-00309.jpg"
-        },
-        {
-            "image_id": "310",
-            "caption": "Rhizome",
-            "url": "https://i.ibb.co/Nd1gpkYL/plant01344-00310.jpg"
-        }
-    ]
+  "scientificName": "Kaempferia galanga L.",
+  "synonyms": [
+    "Alpinia sessilis J.Koenig",
+    "Kaempferia galanga var. latifolia (Donn ex Hornem.) Donn",
+    "Kaempferia humilis Salisb.",
+    "Kaempferia latifolia Donn ex Hornem.",
+    "Kaempferia marginata Carey ex Roscoe",
+    "Kaempferia plantaginifolia Salisb.",
+    "Kaempferia procumbens Noronha",
+    "Kaempferia rotunda Blanco"
+  ],
+  "familyName": "ZINGIBERACEAE",
+  "englishNames": [
+    "Aromatic Ginger",
+    "Resurrection Lily",
+    "Lesser Galangal",
+    "Sand Ginger"
+  ],
+  "sinhalaName": "Inguru piyali (ඉඟුරු පියළි )",
+  "description": "රයිසෝම සහිත (rhizomatous) පැළෑටි වේ. කඳ කෙටි හෝ බොහෝ දුරට නොපවතී. පත්‍ර ස්වල්පයකි, පත්‍ර කොපු එක් පැත්තකින් විවෘත වේ; පත්‍ර තල ද්විපේන්ති ලෙස (distichously) සැකසී ඇති අතර, 15 x 10 සෙ.මී. දක්වා විශාල වේ, බොහෝ විට ඉහළින් පටු රතු පැහැති දාරයක් සහිත වන අතර යටින් ලා පැහැතිය. පුෂ්ප මංජරිය වෘන්ත රහිත (sessile) වන අතර මල් 12ක් පමණ අඩංගු වේ. උප පත්‍ර (bracts) 4 x 1 සෙ.මී. දක්වා වේ. කොරොල්ලා නාලය (corolla-tube) 4.5-5 සෙ.මී. දිගු වේ; පෙති සුදු පැහැතිය, අවම වශයෙන් 2 සෙ.මී. දිගු වේ; ලැබෙලම (labellum) සෙ.මී. 2.5ක් පමණ පළල වන අතර, පෙති සුදු පැහැතිය, පාදස්ථ භාගයේ දම් පැහැති පටි දක්නට ලැබේ.",
+  "treatments": [
+    {
+      "treatment": "Wounds",
+      "sinhala": "තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Dandruff",
+      "sinhala": "හිස්හොරි",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Cough",
+      "sinhala": "කැස්ස",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Pectoral Ailments",
+      "sinhala": "පපුව ආශ්‍රිත රෝග සහ ආබාධ",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Dyspepsia",
+      "sinhala": "අජීර්ණය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Headache",
+      "sinhala": "හිසරදය (ශිරෝ රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Nervous System & Mental Health Disorders",
+        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Malaria",
+      "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Infectious & Febrile Diseases",
+        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+      }
+    },
+    {
+      "treatment": "Fever",
+      "sinhala": "උණ රෝග",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Infectious & Febrile Diseases",
+        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+      }
+    },
+    {
+      "treatment": "Edema/Swelling",
+      "sinhala": "ඉදිමීම/ශෝථය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    },
+    {
+      "treatment": "Oral Diseases",
+      "sinhala": "මුඛය ආශ්‍රිත රෝග (මුඛ රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dental & Oral Cavity Diseases",
+        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Rhizome"
+  ],
+  "images": [
+    {
+      "image_id": "309",
+      "caption": "Habit of the species",
+      "url": "https://i.ibb.co/Q3PWcD71/plant01344-00309.jpg"
+    },
+    {
+      "image_id": "310",
+      "caption": "Rhizome",
+      "url": "https://i.ibb.co/Nd1gpkYL/plant01344-00310.jpg"
+    }
+  ],
+  "special": []
 }

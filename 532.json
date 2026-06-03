@@ -1,197 +1,198 @@
 {
-    "scientificName": "Phyllanthus debilis J.G.Klein ex Willd.",
-    "synonyms": [
-        "Diasperus debilis (J.G.Klein ex Willd.) Kuntze",
-        "Phyllanthus boninsimae Nakai",
-        "Phyllanthus leai S.Moore",
-        "Phyllanthus mukerjeeanus D.Mitra & Bennet",
-        "Phyllanthus niruri var. debilis (J.G.Klein ex Willd.) Müll.Arg.",
-        "Phyllanthus niruri var. javanicus Müll.Arg."
-    ],
-    "familyName": "PHYLLANTHACEAE",
-    "englishNames": [],
-    "sinhalaName": "Ela pitawakka (එළ පිටවක්කා)",
-    "description": "සෙන්ටිමීටර 10-80ක් උසැති, ඒකලිංගික (monoecious), රෝම රහිත (glabrous) වාර්ෂික පැළෑටියකි; ප්‍රධාන කඳේ පත්‍ර කොරපොතු මෙන් කුඩාවී ඇත. පතනශීලී අතු සෙන්ටිමීටර 4-10ක් දිග වන අතර, ඒවායේ පත්‍ර 15-35ක් පමණ පිහිටයි. උපපත්‍ර (stipules) මිලිමීටර 0.9-1.5ක් දිගය. පත්‍ර තලය බොහෝ විට මිලිමීටර 8-20 x 2.5-5 ප්‍රමාණයෙන් යුක්ත වේ. පුෂ්ප මංජරිය පතනශීලී අතුවල පත්‍ර කක්ෂවල හටගන්නා සයිම (cymules) වේ. ඵල කරල් (capsular) ආකාර වන අතර, ඒවා පැතලි ගෝලාකාර (oblate) හැඩයක් ගනී, විෂ්කම්භය මිලිමීටර 2-2.2කි. බීජ ත්‍රිකෝණාකාර (trigonous) වන අතර, කහ පැහැති හෝ ලා දුඹුරු පැහැයෙන් යුක්ත වේ, දිග මිලිමීටර 1-1.1කි.",
-    "treatments": [
-        {
-            "treatment": "Edema/Swelling",
-            "sinhala": "ඉදිමීම/ශෝථය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Pediatrics & General Symptoms",
-                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-            }
-        },
-        {
-            "treatment": "Skin Rashes",
-            "sinhala": "සමේ පළු දැමීම / කුෂ්ඨ",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Dermatological & Skin Conditions",
-                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-            }
-        },
-        {
-            "treatment": "Wounds",
-            "sinhala": "තුවාල",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Dermatological & Skin Conditions",
-                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-            }
-        },
-        {
-            "treatment": "Cough",
-            "sinhala": "කැස්ස",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Respiratory System Diseases",
-                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Asthma",
-            "sinhala": "ඇදුම",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Respiratory System Diseases",
-                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Polydipsia",
-            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Endocrine, Metabolic & Nutritional Disorders",
-                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Liver Diseases",
-            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Hepatic & Biliary Disorders",
-                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Constipation",
-            "sinhala": "මලබද්ධය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Endometritis",
-            "sinhala": "ගර්භාෂ අභ්‍යන්තර පටල ප්‍රදාහය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Reproductive & Gynecological Disorders",
-                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-            }
-        },
-        {
-            "treatment": "Fever",
-            "sinhala": "උණ රෝග",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Infectious & Febrile Diseases",
-                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-            }
-        },
-        {
-            "treatment": "Jaundice",
-            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Hepatic & Biliary Disorders",
-                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Gastritis",
-            "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Urinary Difficulties",
-            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුතා",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Urinary & Renal System Diseases",
-                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Bone Fractures",
-            "sinhala": "අස්ථි බිඳීම්",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Musculoskeletal & Orthopedic Disorders",
-                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Menorrhagia",
-            "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Reproductive & Gynecological Disorders",
-                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-            }
-        },
-        {
-            "treatment": "Leukorrhea",
-            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Reproductive & Gynecological Disorders",
-                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-            }
-        }
-    ],
-    "partsUsed": [
-        "Roots"
-    ],
-    "images": [
-        {
-            "image_id": "1366",
-            "caption": "Habit",
-            "url": "https://i.ibb.co/MDCFffcR/plant00532-01366.jpg"
-        },
-        {
-            "image_id": "1367",
-            "caption": "Flowers",
-            "url": "https://i.ibb.co/VpYbBwpR/plant00532-01367.jpg"
-        },
-        {
-            "image_id": "1368",
-            "caption": "Fruits",
-            "url": "https://i.ibb.co/rPPDydD/plant00532-01368.jpg"
-        }
-    ]
+  "scientificName": "Phyllanthus debilis J.G.Klein ex Willd.",
+  "synonyms": [
+    "Diasperus debilis (J.G.Klein ex Willd.) Kuntze",
+    "Phyllanthus boninsimae Nakai",
+    "Phyllanthus leai S.Moore",
+    "Phyllanthus mukerjeeanus D.Mitra & Bennet",
+    "Phyllanthus niruri var. debilis (J.G.Klein ex Willd.) Müll.Arg.",
+    "Phyllanthus niruri var. javanicus Müll.Arg."
+  ],
+  "familyName": "PHYLLANTHACEAE",
+  "englishNames": [],
+  "sinhalaName": "Ela pitawakka (එළ පිටවක්කා)",
+  "description": "සෙන්ටිමීටර 10-80ක් උසැති, ඒකලිංගික (monoecious), රෝම රහිත (glabrous) වාර්ෂික පැළෑටියකි; ප්‍රධාන කඳේ පත්‍ර කොරපොතු මෙන් කුඩාවී ඇත. පතනශීලී අතු සෙන්ටිමීටර 4-10ක් දිග වන අතර, ඒවායේ පත්‍ර 15-35ක් පමණ පිහිටයි. උපපත්‍ර (stipules) මිලිමීටර 0.9-1.5ක් දිගය. පත්‍ර තලය බොහෝ විට මිලිමීටර 8-20 x 2.5-5 ප්‍රමාණයෙන් යුක්ත වේ. පුෂ්ප මංජරිය පතනශීලී අතුවල පත්‍ර කක්ෂවල හටගන්නා සයිම (cymules) වේ. ඵල කරල් (capsular) ආකාර වන අතර, ඒවා පැතලි ගෝලාකාර (oblate) හැඩයක් ගනී, විෂ්කම්භය මිලිමීටර 2-2.2කි. බීජ ත්‍රිකෝණාකාර (trigonous) වන අතර, කහ පැහැති හෝ ලා දුඹුරු පැහැයෙන් යුක්ත වේ, දිග මිලිමීටර 1-1.1කි.",
+  "treatments": [
+    {
+      "treatment": "Edema/Swelling",
+      "sinhala": "ඉදිමීම/ශෝථය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    },
+    {
+      "treatment": "Skin Rashes",
+      "sinhala": "සමේ පළු දැමීම / කුෂ්ඨ",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Wounds",
+      "sinhala": "තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Cough",
+      "sinhala": "කැස්ස",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Asthma",
+      "sinhala": "ඇදුම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Polydipsia",
+      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Liver Diseases",
+      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Hepatic & Biliary Disorders",
+        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Constipation",
+      "sinhala": "මලබද්ධය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Endometritis",
+      "sinhala": "ගර්භාෂ අභ්‍යන්තර පටල ප්‍රදාහය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Fever",
+      "sinhala": "උණ රෝග",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Infectious & Febrile Diseases",
+        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+      }
+    },
+    {
+      "treatment": "Jaundice",
+      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Hepatic & Biliary Disorders",
+        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Gastritis",
+      "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Urinary Difficulties",
+      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුතා",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Urinary & Renal System Diseases",
+        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Bone Fractures",
+      "sinhala": "අස්ථි බිඳීම්",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Menorrhagia",
+      "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Leukorrhea",
+      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Roots"
+  ],
+  "images": [
+    {
+      "image_id": "1366",
+      "caption": "Habit",
+      "url": "https://i.ibb.co/MDCFffcR/plant00532-01366.jpg"
+    },
+    {
+      "image_id": "1367",
+      "caption": "Flowers",
+      "url": "https://i.ibb.co/VpYbBwpR/plant00532-01367.jpg"
+    },
+    {
+      "image_id": "1368",
+      "caption": "Fruits",
+      "url": "https://i.ibb.co/rPPDydD/plant00532-01368.jpg"
+    }
+  ],
+  "special": []
 }

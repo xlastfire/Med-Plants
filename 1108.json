@@ -1,242 +1,243 @@
 {
-    "scientificName": "Fragaria vesca L.",
-    "synonyms": [
-        "Dactylophyllum fragaria Spenn.",
-        "Fragaria abnormis Tratt.",
-        "Fragaria aliena Weihe",
-        "Fragaria alpina (Weston) Steud.",
-        "Fragaria botryformis Duchesne",
-        "Fragaria concolor Kitag.",
-        "Fragaria efflagellis Duchesne",
-        "Fragaria eflagellis (Weston) Duchesne ex Rozier",
-        "Fragaria elatior var. muricata (L.) Willd.",
-        "Fragaria florentina Poit. & Turpin",
-        "Fragaria gillmanii Clinton",
-        "Fragaria hortensis (Weston) Duchesne ex Rozier",
-        "Fragaria hortensis Duchesne",
-        "Fragaria insularis Rydb.",
-        "Fragaria minor Duchesne",
-        "Fragaria monophylla L.",
-        "Fragaria multiplex Duchesne",
-        "Fragaria multiplex Duchesne ex Poit. & Turpin",
-        "Fragaria muricata Duchesne",
-        "Fragaria muricata L.",
-        "Fragaria nemoralis Salisb.",
-        "Fragaria nuda Pers.",
-        "Fragaria portentosa Poit. & Turpin",
-        "Fragaria retrorsa Greene",
-        "Fragaria roseiflora Boulay",
-        "Fragaria semperflorens Duchesne ex Rozier",
-        "Fragaria silvestris Duchesne",
-        "Fragaria succulenta Gilib.",
-        "Fragaria sylvestris (L.) Duchesne",
-        "Fragaria sylvestris (L.) Weston",
-        "Fragaria sylvestris var. alba Duchesne",
-        "Fragaria sylvestris var. alba Weston",
-        "Fragaria sylvestris var. alpina Weston",
-        "Fragaria sylvestris var. argenteovariegata Weston",
-        "Fragaria sylvestris var. eflagellis Weston",
-        "Fragaria sylvestris var. hortensis Weston",
-        "Fragaria sylvestris var. minor Weston",
-        "Fragaria sylvestris var. monophylla (L.) Weston",
-        "Fragaria sylvestris var. muricata (L.) Weston",
-        "Fragaria sylvestris var. nigricans Weston",
-        "Fragaria unifolia Steud.",
-        "Fragaria vesca ananassa Desf.",
-        "Fragaria vesca chiloensis Desf.",
-        "Fragaria vesca f. alba (Duchesne) Staudt",
-        "Fragaria vesca f. albida Staudt",
-        "Fragaria vesca f. bracteata (A.Heller) Staudt",
-        "Fragaria vesca f. crenata (Schur) Buia",
-        "Fragaria vesca f. crenata (Schur) Nyár.",
-        "Fragaria vesca f. eflagellis (Weston) Staudt",
-        "Fragaria vesca f. helleri (Holz.) B.Boivin",
-        "Fragaria vesca f. helleri (Holz.) Scoggan",
-        "Fragaria vesca f. helleri (Holz.) Staudt",
-        "Fragaria vesca f. hortensis (Duchesne) Nyár.",
-        "Fragaria vesca f. landonii B.Boivin",
-        "Fragaria vesca f. roseiflora (Boulay) Staudt",
-        "Fragaria vesca f. semperflorens (Duchesne ex Rozier) Staudt",
-        "Fragaria vesca f. typica Asch. & Graebn.",
-        "Fragaria vesca proles eflagellis (Weston) Focke",
-        "Fragaria vesca proles semperflorens (Duchesne ex Rozier) Focke",
-        "Fragaria vesca proles sylvestris (L.) Asch. & Graebn.",
-        "Fragaria vesca subsp. monophylla (L.) Nyman",
-        "Fragaria vesca subsp. semperflorens (Duchesne ex Rozier) Bertsch & F.Bertsch",
-        "Fragaria vesca subsp. sylvestris (L.) Ehrh.",
-        "Fragaria vesca subvar. crenata (Schur) Asch. & Graebn.",
-        "Fragaria vesca subvar. hauchecornei Graebn.",
-        "Fragaria vesca subvar. minor (Duchesne) Asch. & Graebn.",
-        "Fragaria vesca subvar. monophylla (Duchesne) Asch. & Graebn.",
-        "Fragaria vesca subvar. muricata (L.) Asch. & Graebn.",
-        "Fragaria vesca var. alba (Weston) Rydb.",
-        "Fragaria vesca var. alba Stokes",
-        "Fragaria vesca var. albocarpa Britton",
-        "Fragaria vesca var. alpina (Weston) Pers.",
-        "Fragaria vesca var. americana A.Nelson",
-        "Fragaria vesca var. americana Rydb.",
-        "Fragaria vesca var. aprica Raf.",
-        "Fragaria vesca var. botryformis (Duchesne) Ser.",
-        "Fragaria vesca var. clandestina Raf.",
-        "Fragaria vesca var. collina (Ehrh.) Fiori",
-        "Fragaria vesca var. collina Hook.f.",
-        "Fragaria vesca var. corsica Briq.",
-        "Fragaria vesca var. crenata Schur",
-        "Fragaria vesca var. dybowskiana Zalewski",
-        "Fragaria vesca var. eflagellis (Weston) Ser.",
-        "Fragaria vesca var. elatior (Thuill.) Fiori",
-        "Fragaria vesca var. elatior Thuill.",
-        "Fragaria vesca var. florepleno P.Vilm.",
-        "Fragaria vesca var. glabra Raf.",
-        "Fragaria vesca var. grandiflora (Ehrh.) Fiori",
-        "Fragaria vesca var. hortensis (Duchesne) Asch. & Graebn.",
-        "Fragaria vesca var. hortensis (Duchesne) Ser.",
-        "Fragaria vesca var. hortensis (Weston) Sm.",
-        "Fragaria vesca var. minor (Duchesne) Ser.",
-        "Fragaria vesca var. minor (Weston) Sm.",
-        "Fragaria vesca var. minor Hayata",
-        "Fragaria vesca var. monophylla (Duchesne) P.Vilm.",
-        "Fragaria vesca var. monophylla (Duchesne) Ser.",
-        "Fragaria vesca var. monophylla (L.) Pers.",
-        "Fragaria vesca var. multiplex (Duchesne ex Poit. & Turpin) Ser.",
-        "Fragaria vesca var. muricata (Duchesne) Ser.",
-        "Fragaria vesca var. muricata (L.) L.",
-        "Fragaria vesca var. nuda (Pers.) Mérat",
-        "Fragaria vesca var. pendula Raf.",
-        "Fragaria vesca var. pratensis Aiton",
-        "Fragaria vesca var. pumila Raf.",
-        "Fragaria vesca var. rosea (Rostr.) Asch. & Graebn.",
-        "Fragaria vesca var. rosea Rostr.",
-        "Fragaria vesca var. roseiflora (Boulay) P.Vilm.",
-        "Fragaria vesca var. roseiflora (Boulay) Rouy & E.G.Camus",
-        "Fragaria vesca var. sativa L.",
-        "Fragaria vesca var. semperflorens (Duchesne ex Rozier) Sm.",
-        "Fragaria vesca var. sylvatica Raf.",
-        "Fragaria vesca var. sylvestris L.",
-        "Fragaria vesca var. typica Asch. & Graebn.",
-        "Fragaria vesca var. typica Fiori",
-        "Fragaria vesca var. uniflora Raf.",
-        "Fragaria vesca var. virescens Anon.",
-        "Fragaria vesca virginiana Aiton",
-        "Fragaria vesca virginiana Desf.",
-        "Fragaria vulgaris Ehrh.",
-        "Fragaria vulgaris var. alba (Weston) Ehrh.",
-        "Fragaria vulgaris var. eflagellis (Weston) Duchesne ex Chevall.",
-        "Fragaria vulgaris var. hortensis (Weston) Chevall.",
-        "Fragaria vulgaris var. minor (Weston) Duchesne ex Chevall.",
-        "Fragaria vulgaris var. monophylla (L.) Chevall.",
-        "Fragaria vulgaris var. muricata (L.) Chevall.",
-        "Fragaria vulgaris var. rubra Ehrh.",
-        "Fragaria vulgaris var. semperflorens (Duchesne ex Rozier) Chevall.",
-        "Potentilla vesca (L.) Scop."
-    ],
-    "familyName": "ROSACEAE",
-    "englishNames": [
-        "Strawberry",
-        "Woodland strawberry"
-    ],
-    "sinhalaName": "Stroberi (ස්ට්‍රෝබෙරි )",
-    "description": "ඉක්මනින් ලබාගත හැක",
-    "treatments": [
-        {
-            "treatment": "Anemia",
-            "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Endocrine, Metabolic & Nutritional Disorders",
-                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Calculi",
-            "sinhala": "ශරීරයේ ඇතිවන ගල් තත්ත්වයන් (අශ්මරී)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Urinary & Renal System Diseases",
-                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Diarrhea",
-            "sinhala": "අතීසාරය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Dysentery",
-            "sinhala": "ලේ අතීසාරය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Sore Throat",
-            "sinhala": "උගුරේ බැරැන්ඩිය / කැක්කුම",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "ENT & Ophthalmic Diseases",
-                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Rheumatism",
-            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Musculoskeletal & Orthopedic Disorders",
-                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Tumors",
-            "sinhala": "ගෙඩි / අර්බුද",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Pediatrics & General Symptoms",
-                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-            }
-        },
-        {
-            "treatment": "Tuberculosis",
-            "sinhala": "ක්ෂය රෝගය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Respiratory System Diseases",
-                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-            }
-        }
-    ],
-    "partsUsed": [
-        "Fruits"
-    ],
-    "images": [
-        {
-            "image_id": "2625",
-            "caption": "Flower (PMR)",
-            "url": "https://i.ibb.co/m5pkSPNP/plant01108-02625.jpg"
-        },
-        {
-            "image_id": "2626",
-            "caption": "Fruit (PMR)",
-            "url": "https://i.ibb.co/Q7hZsGMW/plant01108-02626.jpg"
-        },
-        {
-            "image_id": "2627",
-            "caption": "Leaves (PMR)",
-            "url": "https://i.ibb.co/1JdWyM0D/plant01108-02627.jpg"
-        }
-    ]
+  "scientificName": "Fragaria vesca L.",
+  "synonyms": [
+    "Dactylophyllum fragaria Spenn.",
+    "Fragaria abnormis Tratt.",
+    "Fragaria aliena Weihe",
+    "Fragaria alpina (Weston) Steud.",
+    "Fragaria botryformis Duchesne",
+    "Fragaria concolor Kitag.",
+    "Fragaria efflagellis Duchesne",
+    "Fragaria eflagellis (Weston) Duchesne ex Rozier",
+    "Fragaria elatior var. muricata (L.) Willd.",
+    "Fragaria florentina Poit. & Turpin",
+    "Fragaria gillmanii Clinton",
+    "Fragaria hortensis (Weston) Duchesne ex Rozier",
+    "Fragaria hortensis Duchesne",
+    "Fragaria insularis Rydb.",
+    "Fragaria minor Duchesne",
+    "Fragaria monophylla L.",
+    "Fragaria multiplex Duchesne",
+    "Fragaria multiplex Duchesne ex Poit. & Turpin",
+    "Fragaria muricata Duchesne",
+    "Fragaria muricata L.",
+    "Fragaria nemoralis Salisb.",
+    "Fragaria nuda Pers.",
+    "Fragaria portentosa Poit. & Turpin",
+    "Fragaria retrorsa Greene",
+    "Fragaria roseiflora Boulay",
+    "Fragaria semperflorens Duchesne ex Rozier",
+    "Fragaria silvestris Duchesne",
+    "Fragaria succulenta Gilib.",
+    "Fragaria sylvestris (L.) Duchesne",
+    "Fragaria sylvestris (L.) Weston",
+    "Fragaria sylvestris var. alba Duchesne",
+    "Fragaria sylvestris var. alba Weston",
+    "Fragaria sylvestris var. alpina Weston",
+    "Fragaria sylvestris var. argenteovariegata Weston",
+    "Fragaria sylvestris var. eflagellis Weston",
+    "Fragaria sylvestris var. hortensis Weston",
+    "Fragaria sylvestris var. minor Weston",
+    "Fragaria sylvestris var. monophylla (L.) Weston",
+    "Fragaria sylvestris var. muricata (L.) Weston",
+    "Fragaria sylvestris var. nigricans Weston",
+    "Fragaria unifolia Steud.",
+    "Fragaria vesca ananassa Desf.",
+    "Fragaria vesca chiloensis Desf.",
+    "Fragaria vesca f. alba (Duchesne) Staudt",
+    "Fragaria vesca f. albida Staudt",
+    "Fragaria vesca f. bracteata (A.Heller) Staudt",
+    "Fragaria vesca f. crenata (Schur) Buia",
+    "Fragaria vesca f. crenata (Schur) Nyár.",
+    "Fragaria vesca f. eflagellis (Weston) Staudt",
+    "Fragaria vesca f. helleri (Holz.) B.Boivin",
+    "Fragaria vesca f. helleri (Holz.) Scoggan",
+    "Fragaria vesca f. helleri (Holz.) Staudt",
+    "Fragaria vesca f. hortensis (Duchesne) Nyár.",
+    "Fragaria vesca f. landonii B.Boivin",
+    "Fragaria vesca f. roseiflora (Boulay) Staudt",
+    "Fragaria vesca f. semperflorens (Duchesne ex Rozier) Staudt",
+    "Fragaria vesca f. typica Asch. & Graebn.",
+    "Fragaria vesca proles eflagellis (Weston) Focke",
+    "Fragaria vesca proles semperflorens (Duchesne ex Rozier) Focke",
+    "Fragaria vesca proles sylvestris (L.) Asch. & Graebn.",
+    "Fragaria vesca subsp. monophylla (L.) Nyman",
+    "Fragaria vesca subsp. semperflorens (Duchesne ex Rozier) Bertsch & F.Bertsch",
+    "Fragaria vesca subsp. sylvestris (L.) Ehrh.",
+    "Fragaria vesca subvar. crenata (Schur) Asch. & Graebn.",
+    "Fragaria vesca subvar. hauchecornei Graebn.",
+    "Fragaria vesca subvar. minor (Duchesne) Asch. & Graebn.",
+    "Fragaria vesca subvar. monophylla (Duchesne) Asch. & Graebn.",
+    "Fragaria vesca subvar. muricata (L.) Asch. & Graebn.",
+    "Fragaria vesca var. alba (Weston) Rydb.",
+    "Fragaria vesca var. alba Stokes",
+    "Fragaria vesca var. albocarpa Britton",
+    "Fragaria vesca var. alpina (Weston) Pers.",
+    "Fragaria vesca var. americana A.Nelson",
+    "Fragaria vesca var. americana Rydb.",
+    "Fragaria vesca var. aprica Raf.",
+    "Fragaria vesca var. botryformis (Duchesne) Ser.",
+    "Fragaria vesca var. clandestina Raf.",
+    "Fragaria vesca var. collina (Ehrh.) Fiori",
+    "Fragaria vesca var. collina Hook.f.",
+    "Fragaria vesca var. corsica Briq.",
+    "Fragaria vesca var. crenata Schur",
+    "Fragaria vesca var. dybowskiana Zalewski",
+    "Fragaria vesca var. eflagellis (Weston) Ser.",
+    "Fragaria vesca var. elatior (Thuill.) Fiori",
+    "Fragaria vesca var. elatior Thuill.",
+    "Fragaria vesca var. florepleno P.Vilm.",
+    "Fragaria vesca var. glabra Raf.",
+    "Fragaria vesca var. grandiflora (Ehrh.) Fiori",
+    "Fragaria vesca var. hortensis (Duchesne) Asch. & Graebn.",
+    "Fragaria vesca var. hortensis (Duchesne) Ser.",
+    "Fragaria vesca var. hortensis (Weston) Sm.",
+    "Fragaria vesca var. minor (Duchesne) Ser.",
+    "Fragaria vesca var. minor (Weston) Sm.",
+    "Fragaria vesca var. minor Hayata",
+    "Fragaria vesca var. monophylla (Duchesne) P.Vilm.",
+    "Fragaria vesca var. monophylla (Duchesne) Ser.",
+    "Fragaria vesca var. monophylla (L.) Pers.",
+    "Fragaria vesca var. multiplex (Duchesne ex Poit. & Turpin) Ser.",
+    "Fragaria vesca var. muricata (Duchesne) Ser.",
+    "Fragaria vesca var. muricata (L.) L.",
+    "Fragaria vesca var. nuda (Pers.) Mérat",
+    "Fragaria vesca var. pendula Raf.",
+    "Fragaria vesca var. pratensis Aiton",
+    "Fragaria vesca var. pumila Raf.",
+    "Fragaria vesca var. rosea (Rostr.) Asch. & Graebn.",
+    "Fragaria vesca var. rosea Rostr.",
+    "Fragaria vesca var. roseiflora (Boulay) P.Vilm.",
+    "Fragaria vesca var. roseiflora (Boulay) Rouy & E.G.Camus",
+    "Fragaria vesca var. sativa L.",
+    "Fragaria vesca var. semperflorens (Duchesne ex Rozier) Sm.",
+    "Fragaria vesca var. sylvatica Raf.",
+    "Fragaria vesca var. sylvestris L.",
+    "Fragaria vesca var. typica Asch. & Graebn.",
+    "Fragaria vesca var. typica Fiori",
+    "Fragaria vesca var. uniflora Raf.",
+    "Fragaria vesca var. virescens Anon.",
+    "Fragaria vesca virginiana Aiton",
+    "Fragaria vesca virginiana Desf.",
+    "Fragaria vulgaris Ehrh.",
+    "Fragaria vulgaris var. alba (Weston) Ehrh.",
+    "Fragaria vulgaris var. eflagellis (Weston) Duchesne ex Chevall.",
+    "Fragaria vulgaris var. hortensis (Weston) Chevall.",
+    "Fragaria vulgaris var. minor (Weston) Duchesne ex Chevall.",
+    "Fragaria vulgaris var. monophylla (L.) Chevall.",
+    "Fragaria vulgaris var. muricata (L.) Chevall.",
+    "Fragaria vulgaris var. rubra Ehrh.",
+    "Fragaria vulgaris var. semperflorens (Duchesne ex Rozier) Chevall.",
+    "Potentilla vesca (L.) Scop."
+  ],
+  "familyName": "ROSACEAE",
+  "englishNames": [
+    "Strawberry",
+    "Woodland strawberry"
+  ],
+  "sinhalaName": "Stroberi (ස්ට්‍රෝබෙරි )",
+  "description": "ඉක්මනින් ලබාගත හැක",
+  "treatments": [
+    {
+      "treatment": "Anemia",
+      "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Calculi",
+      "sinhala": "ශරීරයේ ඇතිවන ගල් තත්ත්වයන් (අශ්මරී)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Urinary & Renal System Diseases",
+        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Diarrhea",
+      "sinhala": "අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Dysentery",
+      "sinhala": "ලේ අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Sore Throat",
+      "sinhala": "උගුරේ බැරැන්ඩිය / කැක්කුම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "ENT & Ophthalmic Diseases",
+        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Rheumatism",
+      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Tumors",
+      "sinhala": "ගෙඩි / අර්බුද",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    },
+    {
+      "treatment": "Tuberculosis",
+      "sinhala": "ක්ෂය රෝගය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Fruits"
+  ],
+  "images": [
+    {
+      "image_id": "2625",
+      "caption": "Flower (PMR)",
+      "url": "https://i.ibb.co/m5pkSPNP/plant01108-02625.jpg"
+    },
+    {
+      "image_id": "2626",
+      "caption": "Fruit (PMR)",
+      "url": "https://i.ibb.co/Q7hZsGMW/plant01108-02626.jpg"
+    },
+    {
+      "image_id": "2627",
+      "caption": "Leaves (PMR)",
+      "url": "https://i.ibb.co/1JdWyM0D/plant01108-02627.jpg"
+    }
+  ],
+  "special": []
 }

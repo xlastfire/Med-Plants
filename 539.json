@@ -1,448 +1,449 @@
 {
-    "scientificName": "Ricinus communis L.",
-    "synonyms": [
-        "Cataputia major Ludw.",
-        "Cataputia minor Ludw.",
-        "Croton spinosus L.",
-        "Ricinus africanus Mill.",
-        "Ricinus angulatus Thunb.",
-        "Ricinus armatus Andrews",
-        "Ricinus atropurpureus Pax & K.Hoffm.",
-        "Ricinus badius Rchb.",
-        "Ricinus borboniensis Pax & K.Hoffm.",
-        "Ricinus cambodgensis Benary",
-        "Ricinus communis f. americanus Müll.Arg.",
-        "Ricinus communis f. argentatus T.Carvalho",
-        "Ricinus communis f. argyratus T.Carvalho",
-        "Ricinus communis f. atratus T.Carvalho",
-        "Ricinus communis f. atrobrunneatus T.Carvalho",
-        "Ricinus communis f. atrofulvatus T.Carvalho",
-        "Ricinus communis f. atrofuscatus T.Carvalho",
-        "Ricinus communis f. atrophoeniceus T.Carvalho",
-        "Ricinus communis f. atropunicatus T.Carvalho",
-        "Ricinus communis f. atropurpureatus T.Carvalho",
-        "Ricinus communis f. avellanatus T.Carvalho",
-        "Ricinus communis f. blumeanus Müll.Arg.",
-        "Ricinus communis f. canatus T.Carvalho",
-        "Ricinus communis f. canescens T.Carvalho",
-        "Ricinus communis f. carneatus T.Carvalho",
-        "Ricinus communis f. cervatus T.Carvalho",
-        "Ricinus communis f. cinerascens T.Carvalho",
-        "Ricinus communis f. cinereatus T.Carvalho",
-        "Ricinus communis f. denudatus Müll.Arg.",
-        "Ricinus communis f. epiglaucus Müll.Arg.",
-        "Ricinus communis f. erythrocladus Müll.Arg.",
-        "Ricinus communis f. exiguus T.Carvalho",
-        "Ricinus communis f. fulvatus T.Carvalho",
-        "Ricinus communis f. fumatus T.Carvalho",
-        "Ricinus communis f. fuscatus T.Carvalho",
-        "Ricinus communis f. gilvus T.Carvalho",
-        "Ricinus communis f. glaucus (Hoffmanns.) Müll.Arg.",
-        "Ricinus communis f. gracilis Müll.Arg.",
-        "Ricinus communis f. guttatus T.Carvalho",
-        "Ricinus communis f. hybridus (Besser) Müll.Arg.",
-        "Ricinus communis f. incarnatus T.Carvalho",
-        "Ricinus communis f. inermis (Mill.) Müll.Arg.",
-        "Ricinus communis f. intermedius Müll.Arg.",
-        "Ricinus communis f. laevis (DC.) Müll.Arg.",
-        "Ricinus communis f. macrophyllus Müll.Arg.",
-        "Ricinus communis f. maculatus T.Carvalho",
-        "Ricinus communis f. marmoreatus T.Carvalho",
-        "Ricinus communis f. murinatus T.Carvalho",
-        "Ricinus communis f. nigellus T.Carvalho",
-        "Ricinus communis f. nigrescens T.Carvalho",
-        "Ricinus communis f. niveatus T.Carvalho",
-        "Ricinus communis f. oblongus T.Carvalho",
-        "Ricinus communis f. obscurus T.Carvalho",
-        "Ricinus communis f. oligacanthus Müll.Arg.",
-        "Ricinus communis f. ostrinatus T.Carvalho",
-        "Ricinus communis f. pardalinus T.Carvalho",
-        "Ricinus communis f. picturatus T.Carvalho",
-        "Ricinus communis f. plumbeatus T.Carvalho",
-        "Ricinus communis f. pruinosus Müll.Arg.",
-        "Ricinus communis f. pullatus T.Carvalho",
-        "Ricinus communis f. punctatus T.Carvalho",
-        "Ricinus communis f. punctulatus T.Carvalho",
-        "Ricinus communis f. punicans T.Carvalho",
-        "Ricinus communis f. purpurascens (Bertol.) Pax",
-        "Ricinus communis f. radiatus T.Carvalho",
-        "Ricinus communis f. rufescens T.Carvalho",
-        "Ricinus communis f. russatus T.Carvalho",
-        "Ricinus communis f. rutilans Müll.Arg.",
-        "Ricinus communis f. scaber (Bertol. ex Moris) Müll.Arg.",
-        "Ricinus communis f. scriptus T.Carvalho",
-        "Ricinus communis f. sordidus T.Carvalho",
-        "Ricinus communis f. stigmosus T.Carvalho",
-        "Ricinus communis f. striatus T.Carvalho",
-        "Ricinus communis f. subpurpurascens Müll.Arg.",
-        "Ricinus communis f. subrotundus T.Carvalho",
-        "Ricinus communis f. subviridus Müll.Arg.",
-        "Ricinus communis f. sulcatus T.Carvalho",
-        "Ricinus communis f. tigrinus T.Carvalho",
-        "Ricinus communis f. umbrinus T.Carvalho",
-        "Ricinus communis f. venosus T.Carvalho",
-        "Ricinus communis f. vinatus T.Carvalho",
-        "Ricinus communis f. viridis (Willd.) Müll.Arg.",
-        "Ricinus communis f. zebrinus T.Carvalho",
-        "Ricinus communis f. zollingeri Müll.Arg.",
-        "Ricinus communis f. zonatus T.Carvalho",
-        "Ricinus communis proles persicus Popova",
-        "Ricinus communis subsp. africanus (Mill.) Nyman",
-        "Ricinus communis subsp. indicus Popova & Moshkin",
-        "Ricinus communis subsp. manshuricus V.Bork.",
-        "Ricinus communis subsp. mexicanus Popova",
-        "Ricinus communis subsp. persicus Popova",
-        "Ricinus communis subsp. ruderalis Popova & Moshkin",
-        "Ricinus communis subsp. sanguineus Popova",
-        "Ricinus communis subsp. scaber (Bertol. ex Moris) Nyman",
-        "Ricinus communis subsp. sinensis Hiltebr.",
-        "Ricinus communis subsp. sinensis Popova & Moshkin",
-        "Ricinus communis subsp. zanzibarinus Popova",
-        "Ricinus communis subvar. almeidae T.Carvalho",
-        "Ricinus communis subvar. americanus (Müll.Arg.) T.Carvalho",
-        "Ricinus communis subvar. blumeanus (Müll.Arg.) T.Carvalho",
-        "Ricinus communis subvar. epruinosus T.Carvalho",
-        "Ricinus communis subvar. erythrocladus (Müll.Arg.) T.Carvalho",
-        "Ricinus communis subvar. glauceus T.Carvalho",
-        "Ricinus communis subvar. gracilis (Müll.Arg.) T.Carvalho",
-        "Ricinus communis subvar. griseus T.Carvalho",
-        "Ricinus communis subvar. macrophyllus (Müll.Arg.) T.Carvalho",
-        "Ricinus communis subvar. pruinosus (Müll.Arg.) T.Carvalho",
-        "Ricinus communis subvar. purpurascens (Bertol.) T.Carvalho",
-        "Ricinus communis subvar. roseus T.Carvalho",
-        "Ricinus communis subvar. rutilans (Müll.Arg.) T.Carvalho",
-        "Ricinus communis subvar. subviridus (Müll.Arg.) T.Carvalho",
-        "Ricinus communis subvar. violaceus T.Carvalho",
-        "Ricinus communis subvar. violeus T.Carvalho",
-        "Ricinus communis subvar. viridus (Willd.) T.Carvalho",
-        "Ricinus communis var. aegyptiaceus (Popova) Moshkin",
-        "Ricinus communis var. africanus Müll.Arg.",
-        "Ricinus communis var. amblyocalyx Müll.Arg.",
-        "Ricinus communis var. americanus Müll.Arg.",
-        "Ricinus communis var. armatus (Andrews) Steud.",
-        "Ricinus communis var. badius (Rchb.) Müll.Arg.",
-        "Ricinus communis var. bailundensis J.M.Coult.",
-        "Ricinus communis var. benguelensis Müll.Arg.",
-        "Ricinus communis var. borboniensis André",
-        "Ricinus communis var. brasiliensis Müll.Arg.",
-        "Ricinus communis var. brevinodis Moshkin",
-        "Ricinus communis var. caesius Popova",
-        "Ricinus communis var. genuinus Müll.Arg.",
-        "Ricinus communis var. giganteus André",
-        "Ricinus communis var. glaucus Popova & Moshkin",
-        "Ricinus communis var. griseofolius Moshkin",
-        "Ricinus communis var. hybridus (Besser) Müll.Arg.",
-        "Ricinus communis var. indehiscens Moshkin",
-        "Ricinus communis var. inermis (Mill.) Pax & K.Hoffm.",
-        "Ricinus communis var. japonicus Popova & Moshkin",
-        "Ricinus communis var. krappa Steud.",
-        "Ricinus communis var. leucocarpus (Bertol.) Müll.Arg.",
-        "Ricinus communis var. lividus (Jacq.) Müll.Arg.",
-        "Ricinus communis var. macrocarpus T.Carvalho",
-        "Ricinus communis var. macrophyllus Müll.Arg.",
-        "Ricinus communis var. megalospermus (Delile) Müll.Arg.",
-        "Ricinus communis var. mexicanus (Popova) Moshkin",
-        "Ricinus communis var. microcarpus Müll.Arg.",
-        "Ricinus communis var. microspermus Moshkin",
-        "Ricinus communis var. minor (Mill.) Steud.",
-        "Ricinus communis var. nanus Moshkin",
-        "Ricinus communis var. purpurascens (Bertol.) Müll.Arg.",
-        "Ricinus communis var. reichenbachianus Müll.Arg.",
-        "Ricinus communis var. rheedianus Müll.Arg.",
-        "Ricinus communis var. roseus Popova & Moshkin",
-        "Ricinus communis var. rubescens Herder",
-        "Ricinus communis var. rugosus Müll.Arg.",
-        "Ricinus communis var. sanguineus Baill.",
-        "Ricinus communis var. speciosus (Burm.f.) Müll.Arg.",
-        "Ricinus communis var. spontaneus Popova & Moshkin",
-        "Ricinus communis var. subpurpurascens Müll.Arg.",
-        "Ricinus communis var. typicus Fiori",
-        "Ricinus communis var. undulatus (Besser) Steud.",
-        "Ricinus communis var. vasconcellosii T.Carvalho",
-        "Ricinus communis var. violaceocaulis Moshkin",
-        "Ricinus communis var. virens Popova",
-        "Ricinus communis var. viridis Popova & Moshkin",
-        "Ricinus compactus Huber",
-        "Ricinus digitatus Noronha",
-        "Ricinus europaeus T.Nees",
-        "Ricinus gibsonii H.J.Veitch",
-        "Ricinus giganteus Pax & K.Hoffm.",
-        "Ricinus glaucus Hoffmanns.",
-        "Ricinus hybridus Besser",
-        "Ricinus inermis Mill.",
-        "Ricinus japonicus Thunb.",
-        "Ricinus krappa Steud.",
-        "Ricinus laevis DC.",
-        "Ricinus leucocarpus Bertol.",
-        "Ricinus lividus Jacq.",
-        "Ricinus macrocarpus Popova",
-        "Ricinus macrocarpus proles indicus Popova",
-        "Ricinus macrocarpus proles japonicus Popova",
-        "Ricinus macrocarpus proles sanguineus Popova",
-        "Ricinus macrocarpus var. nudus Popova",
-        "Ricinus macrophyllus Bertol.",
-        "Ricinus medicus Forssk.",
-        "Ricinus medius J.F.Gmel.",
-        "Ricinus megalosperma Delile",
-        "Ricinus messeniacus Heldr.",
-        "Ricinus metallicus Pax & K.Hoffm.",
-        "Ricinus microcarpus Popova",
-        "Ricinus microcarpus proles aegypticus Popova",
-        "Ricinus microcarpus proles indostanicus Popova",
-        "Ricinus microcarpus var. atrovirens Popova",
-        "Ricinus microcarpus var. spontaneus Popova",
-        "Ricinus minor Mill.",
-        "Ricinus nanus Balb.",
-        "Ricinus obermannii Groenland",
-        "Ricinus peltatus Noronha",
-        "Ricinus perennis Steud.",
-        "Ricinus persicus Popova",
-        "Ricinus purpurascens Bertol.",
-        "Ricinus ruber Miq.",
-        "Ricinus rugosus Mill.",
-        "Ricinus rutilans Müll.Arg.",
-        "Ricinus sanguineus Groenland",
-        "Ricinus scaber Bertol. ex Moris",
-        "Ricinus speciosus Burm.f.",
-        "Ricinus spectabilis Blume",
-        "Ricinus tunisensis Desf.",
-        "Ricinus undulatus Besser",
-        "Ricinus urens Mill.",
-        "Ricinus viridis Willd.",
-        "Ricinus vulgaris Garsault",
-        "Ricinus vulgaris Mill.",
-        "Ricinus zanzibarensis Anon.",
-        "Ricinus zanzibarinus Popova"
-    ],
-    "familyName": "EUPHORBIACEAE",
-    "englishNames": [
-        "Castor",
-        "African Wonder Tree",
-        "Castor Bean",
-        "Castor Bean Plant",
-        "Castor Oil Plant",
-        "Mole Bean Plant"
-    ],
-    "sinhalaName": "Endaru (එඬරු)",
-    "description": "මෙම ශාකය ස්වභාවයෙන් සහ පෙනුමෙන් ඉතා විචල්‍ය වේ; වාර්ෂික හෝ බහුවාර්ෂික ශාකයක් වන මෙය මීටර් 2.5-3.5 ක් උසට වැඩේ; කඳ කුහර සහිත සහ සිලින්ඩරාකාර (cylindrical) වේ. පත්‍ර සරල වන අතර වක්‍ර වූ, දම් පැහැති හෝ කොළ පැහැති පත්‍ර වෘන්ත (petioles) මත පිහිටයි, අර්ධ පලිහක හැඩැති (subpeltate) සහ පහළට නැඹුරු වේ; උපපත්‍ර (stipules) විශාල වන අතර කොළ හෝ කහ පැහැතිය; පත්‍ර තලය සෙන්ටිමීටර 15-45 ක් පළල වන අතර, අත්ලක හැඩයට (palmately) 7-11 දක්වා වූ දාර සහිත (serrate) නිල්-කොළ පැහැති ඛණ්ඩවලට බෙදී ඇත. පුෂ්ප මංජරිය කරල් වැනි මධ්‍ය මංජරියකි (spicate panicles). මල් ඒකලිංගික (monoecious) සහ විශාල වේ. ඵලය මොට, කොළ පැහැති, ගැඹුරු වලවල් සහිත, ත්‍රි-කෝෂීය (tricoccus) කරලක් වන අතර, එය සෙන්ටිමීටර 2 ක් පමණ දිග වන අතර කොටස් 6 කට (septicidally) බෙදී යයි. බීජ බිත්තරාකාර (ovoid) වන අතර, දිග සෙන්ටිමීටර 0.8-1.2 ක් සහ පළල සෙන්ටිමීටර 0.6 ක් වේ; තද දුඹුරු පැහැති ලප සහිත අලංකාර බීජ වන අතර, ඒවායේ භ්‍රෑණ පෝෂකය (albuminous) අඩංගු වේ.",
-    "treatments": [
-        {
-            "treatment": "Rheumatoid Arthritis",
-            "sinhala": "ආමවාතය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Musculoskeletal & Orthopedic Disorders",
-                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Osteoarthritis",
-            "sinhala": "ඔස්ටියෝ ආතරයිටිස් (සන්ධි ගෙවීම/ප්‍රදාහය)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Musculoskeletal & Orthopedic Disorders",
-                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Chest Pain",
-            "sinhala": "පපුවේ වේදනාව",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Respiratory System Diseases",
-                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Edema",
-            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Pediatrics & General Symptoms",
-                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-            }
-        },
-        {
-            "treatment": "Fever",
-            "sinhala": "උණ රෝග",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Infectious & Febrile Diseases",
-                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-            }
-        },
-        {
-            "treatment": "Nervous System Disorders",
-            "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Nervous System & Mental Health Disorders",
-                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "General Pain",
-            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Pediatrics & General Symptoms",
-                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-            }
-        },
-        {
-            "treatment": "Bleeding Gums",
-            "sinhala": "විදුරුමස්වලින් ලේ ගැලීම",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Dental & Oral Cavity Diseases",
-                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Eczema",
-            "sinhala": "දද (එක්සීමා)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Dermatological & Skin Conditions",
-                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-            }
-        },
-        {
-            "treatment": "Constipation",
-            "sinhala": "මලබද්ධය",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Worm diseases",
-            "sinhala": "පණු රෝග",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Hemorrhoids",
-            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Splenomegaly",
-            "sinhala": "ප්ලීහාව විශාල වීම",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Gastrointestinal & Digestive Disorders",
-                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Hydrocele",
-            "sinhala": "වෘෂණ කෝෂවල දියර පිරීම / ඉදිමීම (වෘෂණ වෘද්ධිය)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Reproductive & Gynecological Disorders",
-                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-            }
-        },
-        {
-            "treatment": "Cough",
-            "sinhala": "කැස්ස",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Respiratory System Diseases",
-                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-            }
-        },
-        {
-            "treatment": "Edema",
-            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Pediatrics & General Symptoms",
-                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-            }
-        },
-        {
-            "treatment": "Dysmenorrhea",
-            "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Reproductive & Gynecological Disorders",
-                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-            }
-        },
-        {
-            "treatment": "Hyperlipidemia",
-            "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "Endocrine, Metabolic & Nutritional Disorders",
-                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-            }
-        },
-        {
-            "treatment": "Earache",
-            "sinhala": "කන් කැක්කුම",
-            "procedure": "",
-            "links": [],
-            "mainCategory": {
-                "english": "ENT & Ophthalmic Diseases",
-                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-            }
-        }
-    ],
-    "partsUsed": [
-        "Roots",
-        "Bark",
-        "Leaves",
-        "Seeds"
-    ],
-    "images": [
-        {
-            "image_id": "254",
-            "caption": "Habit of the species",
-            "url": "https://i.ibb.co/dsHWWsHx/plant00539-00254.jpg"
-        },
-        {
-            "image_id": "255",
-            "caption": "Inflorescence",
-            "url": "https://i.ibb.co/wZJZVw6p/plant00539-00255.jpg"
-        },
-        {
-            "image_id": "256",
-            "caption": "Young  & Mature Fruits",
-            "url": "https://i.ibb.co/PsXwsVwK/plant00539-00256.jpg"
-        },
-        {
-            "image_id": "257",
-            "caption": "Young  & Mature Fruits",
-            "url": "https://i.ibb.co/MDMCQf2X/plant00539-00257.jpg"
-        }
-    ]
+  "scientificName": "Ricinus communis L.",
+  "synonyms": [
+    "Cataputia major Ludw.",
+    "Cataputia minor Ludw.",
+    "Croton spinosus L.",
+    "Ricinus africanus Mill.",
+    "Ricinus angulatus Thunb.",
+    "Ricinus armatus Andrews",
+    "Ricinus atropurpureus Pax & K.Hoffm.",
+    "Ricinus badius Rchb.",
+    "Ricinus borboniensis Pax & K.Hoffm.",
+    "Ricinus cambodgensis Benary",
+    "Ricinus communis f. americanus Müll.Arg.",
+    "Ricinus communis f. argentatus T.Carvalho",
+    "Ricinus communis f. argyratus T.Carvalho",
+    "Ricinus communis f. atratus T.Carvalho",
+    "Ricinus communis f. atrobrunneatus T.Carvalho",
+    "Ricinus communis f. atrofulvatus T.Carvalho",
+    "Ricinus communis f. atrofuscatus T.Carvalho",
+    "Ricinus communis f. atrophoeniceus T.Carvalho",
+    "Ricinus communis f. atropunicatus T.Carvalho",
+    "Ricinus communis f. atropurpureatus T.Carvalho",
+    "Ricinus communis f. avellanatus T.Carvalho",
+    "Ricinus communis f. blumeanus Müll.Arg.",
+    "Ricinus communis f. canatus T.Carvalho",
+    "Ricinus communis f. canescens T.Carvalho",
+    "Ricinus communis f. carneatus T.Carvalho",
+    "Ricinus communis f. cervatus T.Carvalho",
+    "Ricinus communis f. cinerascens T.Carvalho",
+    "Ricinus communis f. cinereatus T.Carvalho",
+    "Ricinus communis f. denudatus Müll.Arg.",
+    "Ricinus communis f. epiglaucus Müll.Arg.",
+    "Ricinus communis f. erythrocladus Müll.Arg.",
+    "Ricinus communis f. exiguus T.Carvalho",
+    "Ricinus communis f. fulvatus T.Carvalho",
+    "Ricinus communis f. fumatus T.Carvalho",
+    "Ricinus communis f. fuscatus T.Carvalho",
+    "Ricinus communis f. gilvus T.Carvalho",
+    "Ricinus communis f. glaucus (Hoffmanns.) Müll.Arg.",
+    "Ricinus communis f. gracilis Müll.Arg.",
+    "Ricinus communis f. guttatus T.Carvalho",
+    "Ricinus communis f. hybridus (Besser) Müll.Arg.",
+    "Ricinus communis f. incarnatus T.Carvalho",
+    "Ricinus communis f. inermis (Mill.) Müll.Arg.",
+    "Ricinus communis f. intermedius Müll.Arg.",
+    "Ricinus communis f. laevis (DC.) Müll.Arg.",
+    "Ricinus communis f. macrophyllus Müll.Arg.",
+    "Ricinus communis f. maculatus T.Carvalho",
+    "Ricinus communis f. marmoreatus T.Carvalho",
+    "Ricinus communis f. murinatus T.Carvalho",
+    "Ricinus communis f. nigellus T.Carvalho",
+    "Ricinus communis f. nigrescens T.Carvalho",
+    "Ricinus communis f. niveatus T.Carvalho",
+    "Ricinus communis f. oblongus T.Carvalho",
+    "Ricinus communis f. obscurus T.Carvalho",
+    "Ricinus communis f. oligacanthus Müll.Arg.",
+    "Ricinus communis f. ostrinatus T.Carvalho",
+    "Ricinus communis f. pardalinus T.Carvalho",
+    "Ricinus communis f. picturatus T.Carvalho",
+    "Ricinus communis f. plumbeatus T.Carvalho",
+    "Ricinus communis f. pruinosus Müll.Arg.",
+    "Ricinus communis f. pullatus T.Carvalho",
+    "Ricinus communis f. punctatus T.Carvalho",
+    "Ricinus communis f. punctulatus T.Carvalho",
+    "Ricinus communis f. punicans T.Carvalho",
+    "Ricinus communis f. purpurascens (Bertol.) Pax",
+    "Ricinus communis f. radiatus T.Carvalho",
+    "Ricinus communis f. rufescens T.Carvalho",
+    "Ricinus communis f. russatus T.Carvalho",
+    "Ricinus communis f. rutilans Müll.Arg.",
+    "Ricinus communis f. scaber (Bertol. ex Moris) Müll.Arg.",
+    "Ricinus communis f. scriptus T.Carvalho",
+    "Ricinus communis f. sordidus T.Carvalho",
+    "Ricinus communis f. stigmosus T.Carvalho",
+    "Ricinus communis f. striatus T.Carvalho",
+    "Ricinus communis f. subpurpurascens Müll.Arg.",
+    "Ricinus communis f. subrotundus T.Carvalho",
+    "Ricinus communis f. subviridus Müll.Arg.",
+    "Ricinus communis f. sulcatus T.Carvalho",
+    "Ricinus communis f. tigrinus T.Carvalho",
+    "Ricinus communis f. umbrinus T.Carvalho",
+    "Ricinus communis f. venosus T.Carvalho",
+    "Ricinus communis f. vinatus T.Carvalho",
+    "Ricinus communis f. viridis (Willd.) Müll.Arg.",
+    "Ricinus communis f. zebrinus T.Carvalho",
+    "Ricinus communis f. zollingeri Müll.Arg.",
+    "Ricinus communis f. zonatus T.Carvalho",
+    "Ricinus communis proles persicus Popova",
+    "Ricinus communis subsp. africanus (Mill.) Nyman",
+    "Ricinus communis subsp. indicus Popova & Moshkin",
+    "Ricinus communis subsp. manshuricus V.Bork.",
+    "Ricinus communis subsp. mexicanus Popova",
+    "Ricinus communis subsp. persicus Popova",
+    "Ricinus communis subsp. ruderalis Popova & Moshkin",
+    "Ricinus communis subsp. sanguineus Popova",
+    "Ricinus communis subsp. scaber (Bertol. ex Moris) Nyman",
+    "Ricinus communis subsp. sinensis Hiltebr.",
+    "Ricinus communis subsp. sinensis Popova & Moshkin",
+    "Ricinus communis subsp. zanzibarinus Popova",
+    "Ricinus communis subvar. almeidae T.Carvalho",
+    "Ricinus communis subvar. americanus (Müll.Arg.) T.Carvalho",
+    "Ricinus communis subvar. blumeanus (Müll.Arg.) T.Carvalho",
+    "Ricinus communis subvar. epruinosus T.Carvalho",
+    "Ricinus communis subvar. erythrocladus (Müll.Arg.) T.Carvalho",
+    "Ricinus communis subvar. glauceus T.Carvalho",
+    "Ricinus communis subvar. gracilis (Müll.Arg.) T.Carvalho",
+    "Ricinus communis subvar. griseus T.Carvalho",
+    "Ricinus communis subvar. macrophyllus (Müll.Arg.) T.Carvalho",
+    "Ricinus communis subvar. pruinosus (Müll.Arg.) T.Carvalho",
+    "Ricinus communis subvar. purpurascens (Bertol.) T.Carvalho",
+    "Ricinus communis subvar. roseus T.Carvalho",
+    "Ricinus communis subvar. rutilans (Müll.Arg.) T.Carvalho",
+    "Ricinus communis subvar. subviridus (Müll.Arg.) T.Carvalho",
+    "Ricinus communis subvar. violaceus T.Carvalho",
+    "Ricinus communis subvar. violeus T.Carvalho",
+    "Ricinus communis subvar. viridus (Willd.) T.Carvalho",
+    "Ricinus communis var. aegyptiaceus (Popova) Moshkin",
+    "Ricinus communis var. africanus Müll.Arg.",
+    "Ricinus communis var. amblyocalyx Müll.Arg.",
+    "Ricinus communis var. americanus Müll.Arg.",
+    "Ricinus communis var. armatus (Andrews) Steud.",
+    "Ricinus communis var. badius (Rchb.) Müll.Arg.",
+    "Ricinus communis var. bailundensis J.M.Coult.",
+    "Ricinus communis var. benguelensis Müll.Arg.",
+    "Ricinus communis var. borboniensis André",
+    "Ricinus communis var. brasiliensis Müll.Arg.",
+    "Ricinus communis var. brevinodis Moshkin",
+    "Ricinus communis var. caesius Popova",
+    "Ricinus communis var. genuinus Müll.Arg.",
+    "Ricinus communis var. giganteus André",
+    "Ricinus communis var. glaucus Popova & Moshkin",
+    "Ricinus communis var. griseofolius Moshkin",
+    "Ricinus communis var. hybridus (Besser) Müll.Arg.",
+    "Ricinus communis var. indehiscens Moshkin",
+    "Ricinus communis var. inermis (Mill.) Pax & K.Hoffm.",
+    "Ricinus communis var. japonicus Popova & Moshkin",
+    "Ricinus communis var. krappa Steud.",
+    "Ricinus communis var. leucocarpus (Bertol.) Müll.Arg.",
+    "Ricinus communis var. lividus (Jacq.) Müll.Arg.",
+    "Ricinus communis var. macrocarpus T.Carvalho",
+    "Ricinus communis var. macrophyllus Müll.Arg.",
+    "Ricinus communis var. megalospermus (Delile) Müll.Arg.",
+    "Ricinus communis var. mexicanus (Popova) Moshkin",
+    "Ricinus communis var. microcarpus Müll.Arg.",
+    "Ricinus communis var. microspermus Moshkin",
+    "Ricinus communis var. minor (Mill.) Steud.",
+    "Ricinus communis var. nanus Moshkin",
+    "Ricinus communis var. purpurascens (Bertol.) Müll.Arg.",
+    "Ricinus communis var. reichenbachianus Müll.Arg.",
+    "Ricinus communis var. rheedianus Müll.Arg.",
+    "Ricinus communis var. roseus Popova & Moshkin",
+    "Ricinus communis var. rubescens Herder",
+    "Ricinus communis var. rugosus Müll.Arg.",
+    "Ricinus communis var. sanguineus Baill.",
+    "Ricinus communis var. speciosus (Burm.f.) Müll.Arg.",
+    "Ricinus communis var. spontaneus Popova & Moshkin",
+    "Ricinus communis var. subpurpurascens Müll.Arg.",
+    "Ricinus communis var. typicus Fiori",
+    "Ricinus communis var. undulatus (Besser) Steud.",
+    "Ricinus communis var. vasconcellosii T.Carvalho",
+    "Ricinus communis var. violaceocaulis Moshkin",
+    "Ricinus communis var. virens Popova",
+    "Ricinus communis var. viridis Popova & Moshkin",
+    "Ricinus compactus Huber",
+    "Ricinus digitatus Noronha",
+    "Ricinus europaeus T.Nees",
+    "Ricinus gibsonii H.J.Veitch",
+    "Ricinus giganteus Pax & K.Hoffm.",
+    "Ricinus glaucus Hoffmanns.",
+    "Ricinus hybridus Besser",
+    "Ricinus inermis Mill.",
+    "Ricinus japonicus Thunb.",
+    "Ricinus krappa Steud.",
+    "Ricinus laevis DC.",
+    "Ricinus leucocarpus Bertol.",
+    "Ricinus lividus Jacq.",
+    "Ricinus macrocarpus Popova",
+    "Ricinus macrocarpus proles indicus Popova",
+    "Ricinus macrocarpus proles japonicus Popova",
+    "Ricinus macrocarpus proles sanguineus Popova",
+    "Ricinus macrocarpus var. nudus Popova",
+    "Ricinus macrophyllus Bertol.",
+    "Ricinus medicus Forssk.",
+    "Ricinus medius J.F.Gmel.",
+    "Ricinus megalosperma Delile",
+    "Ricinus messeniacus Heldr.",
+    "Ricinus metallicus Pax & K.Hoffm.",
+    "Ricinus microcarpus Popova",
+    "Ricinus microcarpus proles aegypticus Popova",
+    "Ricinus microcarpus proles indostanicus Popova",
+    "Ricinus microcarpus var. atrovirens Popova",
+    "Ricinus microcarpus var. spontaneus Popova",
+    "Ricinus minor Mill.",
+    "Ricinus nanus Balb.",
+    "Ricinus obermannii Groenland",
+    "Ricinus peltatus Noronha",
+    "Ricinus perennis Steud.",
+    "Ricinus persicus Popova",
+    "Ricinus purpurascens Bertol.",
+    "Ricinus ruber Miq.",
+    "Ricinus rugosus Mill.",
+    "Ricinus rutilans Müll.Arg.",
+    "Ricinus sanguineus Groenland",
+    "Ricinus scaber Bertol. ex Moris",
+    "Ricinus speciosus Burm.f.",
+    "Ricinus spectabilis Blume",
+    "Ricinus tunisensis Desf.",
+    "Ricinus undulatus Besser",
+    "Ricinus urens Mill.",
+    "Ricinus viridis Willd.",
+    "Ricinus vulgaris Garsault",
+    "Ricinus vulgaris Mill.",
+    "Ricinus zanzibarensis Anon.",
+    "Ricinus zanzibarinus Popova"
+  ],
+  "familyName": "EUPHORBIACEAE",
+  "englishNames": [
+    "Castor",
+    "African Wonder Tree",
+    "Castor Bean",
+    "Castor Bean Plant",
+    "Castor Oil Plant",
+    "Mole Bean Plant"
+  ],
+  "sinhalaName": "Endaru (එඬරු)",
+  "description": "මෙම ශාකය ස්වභාවයෙන් සහ පෙනුමෙන් ඉතා විචල්‍ය වේ; වාර්ෂික හෝ බහුවාර්ෂික ශාකයක් වන මෙය මීටර් 2.5-3.5 ක් උසට වැඩේ; කඳ කුහර සහිත සහ සිලින්ඩරාකාර (cylindrical) වේ. පත්‍ර සරල වන අතර වක්‍ර වූ, දම් පැහැති හෝ කොළ පැහැති පත්‍ර වෘන්ත (petioles) මත පිහිටයි, අර්ධ පලිහක හැඩැති (subpeltate) සහ පහළට නැඹුරු වේ; උපපත්‍ර (stipules) විශාල වන අතර කොළ හෝ කහ පැහැතිය; පත්‍ර තලය සෙන්ටිමීටර 15-45 ක් පළල වන අතර, අත්ලක හැඩයට (palmately) 7-11 දක්වා වූ දාර සහිත (serrate) නිල්-කොළ පැහැති ඛණ්ඩවලට බෙදී ඇත. පුෂ්ප මංජරිය කරල් වැනි මධ්‍ය මංජරියකි (spicate panicles). මල් ඒකලිංගික (monoecious) සහ විශාල වේ. ඵලය මොට, කොළ පැහැති, ගැඹුරු වලවල් සහිත, ත්‍රි-කෝෂීය (tricoccus) කරලක් වන අතර, එය සෙන්ටිමීටර 2 ක් පමණ දිග වන අතර කොටස් 6 කට (septicidally) බෙදී යයි. බීජ බිත්තරාකාර (ovoid) වන අතර, දිග සෙන්ටිමීටර 0.8-1.2 ක් සහ පළල සෙන්ටිමීටර 0.6 ක් වේ; තද දුඹුරු පැහැති ලප සහිත අලංකාර බීජ වන අතර, ඒවායේ භ්‍රෑණ පෝෂකය (albuminous) අඩංගු වේ.",
+  "treatments": [
+    {
+      "treatment": "Rheumatoid Arthritis",
+      "sinhala": "ආමවාතය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Osteoarthritis",
+      "sinhala": "ඔස්ටියෝ ආතරයිටිස් (සන්ධි ගෙවීම/ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Chest Pain",
+      "sinhala": "පපුවේ වේදනාව",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Edema",
+      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    },
+    {
+      "treatment": "Fever",
+      "sinhala": "උණ රෝග",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Infectious & Febrile Diseases",
+        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+      }
+    },
+    {
+      "treatment": "Nervous System Disorders",
+      "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Nervous System & Mental Health Disorders",
+        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "General Pain",
+      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    },
+    {
+      "treatment": "Bleeding Gums",
+      "sinhala": "විදුරුමස්වලින් ලේ ගැලීම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dental & Oral Cavity Diseases",
+        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Eczema",
+      "sinhala": "දද (එක්සීමා)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Constipation",
+      "sinhala": "මලබද්ධය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Worm diseases",
+      "sinhala": "පණු රෝග",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Hemorrhoids",
+      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Splenomegaly",
+      "sinhala": "ප්ලීහාව විශාල වීම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Hydrocele",
+      "sinhala": "වෘෂණ කෝෂවල දියර පිරීම / ඉදිමීම (වෘෂණ වෘද්ධිය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Cough",
+      "sinhala": "කැස්ස",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Edema",
+      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    },
+    {
+      "treatment": "Dysmenorrhea",
+      "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Hyperlipidemia",
+      "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Earache",
+      "sinhala": "කන් කැක්කුම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "ENT & Ophthalmic Diseases",
+        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Roots",
+    "Bark",
+    "Leaves",
+    "Seeds"
+  ],
+  "images": [
+    {
+      "image_id": "254",
+      "caption": "Habit of the species",
+      "url": "https://i.ibb.co/dsHWWsHx/plant00539-00254.jpg"
+    },
+    {
+      "image_id": "255",
+      "caption": "Inflorescence",
+      "url": "https://i.ibb.co/wZJZVw6p/plant00539-00255.jpg"
+    },
+    {
+      "image_id": "256",
+      "caption": "Young  & Mature Fruits",
+      "url": "https://i.ibb.co/PsXwsVwK/plant00539-00256.jpg"
+    },
+    {
+      "image_id": "257",
+      "caption": "Young  & Mature Fruits",
+      "url": "https://i.ibb.co/MDMCQf2X/plant00539-00257.jpg"
+    }
+  ],
+  "special": []
 }
