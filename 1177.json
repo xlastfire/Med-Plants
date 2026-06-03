@@ -1,72 +1,108 @@
 {
-    "scientificName": "",
-    "synonyms": [],
-    "familyName": "",
-    "englishNames": [
-        "Sweet Orange",
-        "Orange"
-    ],
-    "sinhalaName": "Peni dodam (පැණි දොඩම්)",
-    "description": "",
-    "treatments": [
-        {
-            "treatment": "Cough",
-            "sinhala": "කැස්ස",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Bronchitis",
-            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Diabetes Mellitus",
-            "sinhala": "දියවැඩියාව",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Liver Diseases",
-            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Heart Diseases",
-            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Gout",
-            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Rheumatism",
-            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Skin Disorders",
-            "sinhala": "චර්ම රෝග (Skin Disorders)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Malaria",
-            "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Fruit",
-        "Leaves"
-    ],
-    "images": []
+  "scientificName": "",
+  "synonyms": [],
+  "familyName": "",
+  "englishNames": [
+    "Sweet Orange",
+    "Orange"
+  ],
+  "sinhalaName": "Peni dodam (පැණි දොඩම්)",
+  "description": "",
+  "treatments": [
+    {
+      "treatment": "Cough",
+      "sinhala": "කැස්ස",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Bronchitis",
+      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Diabetes Mellitus",
+      "sinhala": "දියවැඩියාව",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Liver Diseases",
+      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Hepatic & Biliary Disorders",
+        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Heart Diseases",
+      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Cardiovascular & Circulatory Diseases",
+        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+      }
+    },
+    {
+      "treatment": "Gout",
+      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Rheumatism",
+      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Skin Disorders",
+      "sinhala": "චර්ම රෝග (Skin Disorders)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Malaria",
+      "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Infectious & Febrile Diseases",
+        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Fruit",
+    "Leaves"
+  ],
+  "images": []
 }

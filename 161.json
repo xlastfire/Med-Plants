@@ -1,54 +1,78 @@
 {
-    "scientificName": "Calamus radiatus Thwaites",
-    "synonyms": [
-        "Palmijuncus radiatus (Thwaites) Kuntze"
-    ],
-    "familyName": "ARECACEAE",
-    "englishNames": [],
-    "sinhalaName": "Kukulu wel (කුකුළු වැල්)",
-    "description": "",
-    "treatments": [
-        {
-            "treatment": "Hemiplegia",
-            "sinhala": "අංශභාගය (එකාංගඝාත)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Lumbago (Back Pain)",
-            "sinhala": "තදබල කොන්දේ කැක්කුම",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Diabetes Mellitus",
-            "sinhala": "දියවැඩියාව",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Edema",
-            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Neuralgia",
-            "sinhala": "ස්නායු වේදනාව (ස්නායු ශූල)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Tetanus",
-            "sinhala": "පිටගැස්ම",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Roots",
-        "Leaves",
-        "Fruits"
-    ],
-    "images": []
+  "scientificName": "Calamus radiatus Thwaites",
+  "synonyms": [
+    "Palmijuncus radiatus (Thwaites) Kuntze"
+  ],
+  "familyName": "ARECACEAE",
+  "englishNames": [],
+  "sinhalaName": "Kukulu wel (කුකුළු වැල්)",
+  "description": "",
+  "treatments": [
+    {
+      "treatment": "Hemiplegia",
+      "sinhala": "අංශභාගය (එකාංගඝාත)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Nervous System & Mental Health Disorders",
+        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Lumbago (Back Pain)",
+      "sinhala": "තදබල කොන්දේ කැක්කුම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Diabetes Mellitus",
+      "sinhala": "දියවැඩියාව",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Edema",
+      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    },
+    {
+      "treatment": "Neuralgia",
+      "sinhala": "ස්නායු වේදනාව (ස්නායු ශූල)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Nervous System & Mental Health Disorders",
+        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Tetanus",
+      "sinhala": "පිටගැස්ම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Infectious & Febrile Diseases",
+        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Roots",
+    "Leaves",
+    "Fruits"
+  ],
+  "images": []
 }

@@ -1,102 +1,150 @@
 {
-    "scientificName": "Kalanchoe laciniata (L.) DC.",
-    "synonyms": [
-        "Cotyledon laciniata L.",
-        "Kalanchoe angustifolia A.Rich.",
-        "Kalanchoe biternata Wight ex Wall.",
-        "Kalanchoe gloveri Cufod.",
-        "Kalanchoe lentiginosa Cufod.",
-        "Kalanchoe petitiaesii Rich. ex Jacques",
-        "Kalanchoe rohlfsii Engl.",
-        "Kalanchoe rosea A.Chev.",
-        "Kalanchoe rosea C.B.Clarke",
-        "Kalanchoe schweinfurthii Penz.",
-        "Kalanchoe teretifolia Haw.",
-        "Vereia laciniata (L.) Willd."
-    ],
-    "familyName": "CRASSULACEAE",
-    "englishNames": [
-        "Cathedral Bells",
-        "Christmas Tree Plant"
-    ],
-    "sinhalaName": "Akkapana (අක්කපාන)",
-    "description": "මීටරයක් පමණ උසැති, රෝම රහිත (glabrous) බහුවාර්ෂික පැළෑටියකි; කඳ ශක්තිමත්ය. පත්‍ර ද්වි-පක්ෂව බෙදුණු (bipinnatifid), ඉතා මාංසල වන අතර, දිග සෙ.මී. 7.5-10(-18) ක් සහ පළල සෙ.මී. 20 ක් දක්වා වේ; පත්‍ර වෘන්තයක් වැනි පාදම සෙ.මී. 2-4(-6) ක් දිගය. පුෂ්ප මංජරිය සෙ.මී. 12-25 ක් දිගැති, සයිමෝස (cymose) ආකාර වේ; සයිම (cymes) ලිහිල් වන අතර මල් රාශියකින් සමන්විතය. මල් කහ පැහැතිය; මල් දඬුව (pedicel) මි.මී. 6-9 ක් දිගය; මල් කිරීට නාලය (corolla tube) මි.මී. 5-6 ක් දිගය. ඵලය ෆොලිකල් (follicle) වර්ගයේ එකක් වන අතර දිග සෙ.මී. 0.8-1 කි.",
-    "treatments": [
-        {
-            "treatment": "Menorrhagia",
-            "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Hemorrhoids",
-            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Ulcers",
-            "sinhala": "වණ / තුවාල",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Renal Calculi",
-            "sinhala": "වකුගඩු ගල්",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Abscesses",
-            "sinhala": "සැරව ගෙඩි",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Wounds",
-            "sinhala": "තුවාල",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Cuts and Wounds",
-            "sinhala": "කැපුම් තුවාල",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Boils and Abscesses",
-            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Ulcers",
-            "sinhala": "වණ / තුවාල",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Diarrhea",
-            "sinhala": "අතීසාරය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Vomiting",
-            "sinhala": "වමනය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Inflammatory Conditions",
-            "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Leaves"
-    ],
-    "images": []
+  "scientificName": "Kalanchoe laciniata (L.) DC.",
+  "synonyms": [
+    "Cotyledon laciniata L.",
+    "Kalanchoe angustifolia A.Rich.",
+    "Kalanchoe biternata Wight ex Wall.",
+    "Kalanchoe gloveri Cufod.",
+    "Kalanchoe lentiginosa Cufod.",
+    "Kalanchoe petitiaesii Rich. ex Jacques",
+    "Kalanchoe rohlfsii Engl.",
+    "Kalanchoe rosea A.Chev.",
+    "Kalanchoe rosea C.B.Clarke",
+    "Kalanchoe schweinfurthii Penz.",
+    "Kalanchoe teretifolia Haw.",
+    "Vereia laciniata (L.) Willd."
+  ],
+  "familyName": "CRASSULACEAE",
+  "englishNames": [
+    "Cathedral Bells",
+    "Christmas Tree Plant"
+  ],
+  "sinhalaName": "Akkapana (අක්කපාන)",
+  "description": "මීටරයක් පමණ උසැති, රෝම රහිත (glabrous) බහුවාර්ෂික පැළෑටියකි; කඳ ශක්තිමත්ය. පත්‍ර ද්වි-පක්ෂව බෙදුණු (bipinnatifid), ඉතා මාංසල වන අතර, දිග සෙ.මී. 7.5-10(-18) ක් සහ පළල සෙ.මී. 20 ක් දක්වා වේ; පත්‍ර වෘන්තයක් වැනි පාදම සෙ.මී. 2-4(-6) ක් දිගය. පුෂ්ප මංජරිය සෙ.මී. 12-25 ක් දිගැති, සයිමෝස (cymose) ආකාර වේ; සයිම (cymes) ලිහිල් වන අතර මල් රාශියකින් සමන්විතය. මල් කහ පැහැතිය; මල් දඬුව (pedicel) මි.මී. 6-9 ක් දිගය; මල් කිරීට නාලය (corolla tube) මි.මී. 5-6 ක් දිගය. ඵලය ෆොලිකල් (follicle) වර්ගයේ එකක් වන අතර දිග සෙ.මී. 0.8-1 කි.",
+  "treatments": [
+    {
+      "treatment": "Menorrhagia",
+      "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Hemorrhoids",
+      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Ulcers",
+      "sinhala": "වණ / තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Renal Calculi",
+      "sinhala": "වකුගඩු ගල්",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Urinary & Renal System Diseases",
+        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Abscesses",
+      "sinhala": "සැරව ගෙඩි",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Wounds",
+      "sinhala": "තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Cuts and Wounds",
+      "sinhala": "කැපුම් තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Boils and Abscesses",
+      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Ulcers",
+      "sinhala": "වණ / තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Diarrhea",
+      "sinhala": "අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Vomiting",
+      "sinhala": "වමනය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Inflammatory Conditions",
+      "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Leaves"
+  ],
+  "images": []
 }

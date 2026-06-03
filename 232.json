@@ -1,89 +1,121 @@
 {
-    "scientificName": "Sphagneticola calendulacea (L.) Pruski",
-    "synonyms": [
-        "Complaya chinensis (Osbeck) Strother",
-        "Jaegeria calendulacea Spreng.",
-        "Polymnia benghalensis Poir. ex Steud.",
-        "Polymnia calendulacea Poir.",
-        "Seruneum calendulaceum Kuntze",
-        "Solidago chinensis Osbeck",
-        "Thelechitonia chinensis (Osbeck) H.Rob. & Cuatrec.",
-        "Verbesina calendulacea L.",
-        "Wedelia bengalensis Rich.",
-        "Wedelia calendulacea Less.",
-        "Wedelia chinensis Merr.",
-        "Wedelia zollingeriana Sch.Bip. ex C.B.Clarke"
-    ],
-    "familyName": "ASTERACEAE",
-    "englishNames": [
-        "Chineese Wadelia",
-        "Yellow Dots",
-        "Creeping Daisy",
-        "Pseudo-arnica",
-        "Rabbit's Paw",
-        "Bay Biscayne",
-        "Creeping Oxeye",
-        "Trailing Wedelia",
-        "Creeping Wedelia",
-        "Gold Cup",
-        "Singapore Daisy",
-        "Trailing Daisy",
-        "Wild marigold"
-    ],
-    "sinhalaName": "Ranwan keekirindiya (රන්වන් කීකිරිඳිය)",
-    "description": "රළු (scabrid) බිම දිගේ පැතිරෙන හෝ ඉහළට වැඩෙන බහුවාර්ෂික පැළෑටි; කඳ බොහෝ විට රතු පැහැතිය. පත්‍ර සෙන්ටිමීටර 2.5-5.5 ක් දිග සහ සෙන්ටිමීටර 0.5-1.3 ක් පළල වන අතර, දෙපසම රළු රෝම සහිත (hispids) වේ. පුෂ්ප මංජරිය (capitula) මිලිමීටර 5 ක පමණ විෂ්කම්භයකින් යුක්තය; පුෂ්ප දණ්ඩ (peduncles) සෙන්ටිමීටර 3.5-7 ක් දිගය. බීජ (achenes) මිලිමීටර 4-4.5 ක් දිග සහ මිලිමීටර 2.5-2.75 ක් පළල වන අතර තද දුඹුරු පැහැතිය. පප්පසය (pappus) ඉතා කුඩාය.",
-    "treatments": [
-        {
-            "treatment": "Skin Disorders",
-            "sinhala": "චර්ම රෝග (Skin Disorders)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Cough",
-            "sinhala": "කැස්ස",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Headache",
-            "sinhala": "හිසරදය (ශිරෝ රෝග)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Hair Loss",
-            "sinhala": "කෙස් හැලී යාම (ඉන්ද්‍රලුප්ත)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Pediculosis",
-            "sinhala": "උකුණන් ආසාදනය (පෙඩිකුලෝසිස්)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Nervous System Disorders",
-            "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Anemia",
-            "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Digestive Disorders",
-            "sinhala": "පූරක/ජීරණ පද්ධතියේ ආබාධ",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Whole Plant"
-    ],
-    "images": []
+  "scientificName": "Sphagneticola calendulacea (L.) Pruski",
+  "synonyms": [
+    "Complaya chinensis (Osbeck) Strother",
+    "Jaegeria calendulacea Spreng.",
+    "Polymnia benghalensis Poir. ex Steud.",
+    "Polymnia calendulacea Poir.",
+    "Seruneum calendulaceum Kuntze",
+    "Solidago chinensis Osbeck",
+    "Thelechitonia chinensis (Osbeck) H.Rob. & Cuatrec.",
+    "Verbesina calendulacea L.",
+    "Wedelia bengalensis Rich.",
+    "Wedelia calendulacea Less.",
+    "Wedelia chinensis Merr.",
+    "Wedelia zollingeriana Sch.Bip. ex C.B.Clarke"
+  ],
+  "familyName": "ASTERACEAE",
+  "englishNames": [
+    "Chineese Wadelia",
+    "Yellow Dots",
+    "Creeping Daisy",
+    "Pseudo-arnica",
+    "Rabbit's Paw",
+    "Bay Biscayne",
+    "Creeping Oxeye",
+    "Trailing Wedelia",
+    "Creeping Wedelia",
+    "Gold Cup",
+    "Singapore Daisy",
+    "Trailing Daisy",
+    "Wild marigold"
+  ],
+  "sinhalaName": "Ranwan keekirindiya (රන්වන් කීකිරිඳිය)",
+  "description": "රළු (scabrid) බිම දිගේ පැතිරෙන හෝ ඉහළට වැඩෙන බහුවාර්ෂික පැළෑටි; කඳ බොහෝ විට රතු පැහැතිය. පත්‍ර සෙන්ටිමීටර 2.5-5.5 ක් දිග සහ සෙන්ටිමීටර 0.5-1.3 ක් පළල වන අතර, දෙපසම රළු රෝම සහිත (hispids) වේ. පුෂ්ප මංජරිය (capitula) මිලිමීටර 5 ක පමණ විෂ්කම්භයකින් යුක්තය; පුෂ්ප දණ්ඩ (peduncles) සෙන්ටිමීටර 3.5-7 ක් දිගය. බීජ (achenes) මිලිමීටර 4-4.5 ක් දිග සහ මිලිමීටර 2.5-2.75 ක් පළල වන අතර තද දුඹුරු පැහැතිය. පප්පසය (pappus) ඉතා කුඩාය.",
+  "treatments": [
+    {
+      "treatment": "Skin Disorders",
+      "sinhala": "චර්ම රෝග (Skin Disorders)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Cough",
+      "sinhala": "කැස්ස",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Headache",
+      "sinhala": "හිසරදය (ශිරෝ රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Nervous System & Mental Health Disorders",
+        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Hair Loss",
+      "sinhala": "කෙස් හැලී යාම (ඉන්ද්‍රලුප්ත)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Pediculosis",
+      "sinhala": "උකුණන් ආසාදනය (පෙඩිකුලෝසිස්)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Nervous System Disorders",
+      "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Nervous System & Mental Health Disorders",
+        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Anemia",
+      "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Digestive Disorders",
+      "sinhala": "පූරක/ජීරණ පද්ධතියේ ආබාධ",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Whole Plant"
+  ],
+  "images": []
 }

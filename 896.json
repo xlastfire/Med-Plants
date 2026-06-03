@@ -35,85 +35,141 @@
             "treatment": "Wounds",
             "sinhala": "තුවාල",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
         },
         {
             "treatment": "Fever",
             "sinhala": "උණ රෝග",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
         },
         {
             "treatment": "Endometritis",
             "sinhala": "ගර්භාෂ අභ්‍යන්තර පටල ප්‍රදාහය",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
         },
         {
             "treatment": "Dysentery",
             "sinhala": "ලේ අතීසාරය",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Leukorrhea",
             "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
         },
         {
             "treatment": "Menorrhagia",
             "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
         },
         {
             "treatment": "Cough",
             "sinhala": "කැස්ස",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
         },
         {
             "treatment": "Oral Diseases",
             "sinhala": "මුඛය ආශ්‍රිත රෝග (මුඛ රෝග)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
         },
         {
             "treatment": "Edema/Swelling",
             "sinhala": "ඉදිමීම/ශෝථය",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
         },
         {
             "treatment": "Eye Diseases",
             "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
         },
         {
             "treatment": "Skin Disorders",
             "sinhala": "චර්ම රෝග (Skin Disorders)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
         },
         {
             "treatment": "Ear Diseases",
             "sinhala": "කන් ආශ්‍රිත රෝග",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
         },
         {
             "treatment": "Rheumatism",
             "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Hysteria",
             "sinhala": "හිස්ටීරියාව (යෝෂාපස්මාරය)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
         }
     ],
     "partsUsed": [
@@ -123,12 +179,12 @@
         {
             "image_id": "3200",
             "caption": "Twig (PMR)",
-            "url": "http://www.instituteofayurveda.org/plants/images/plants/00896/plant00896-03200.jpg"
+            "url": "https://i.ibb.co/FSnkDS0/plant00896-03200.jpg"
         },
         {
             "image_id": "3201",
             "caption": "Stem (PMR)",
-            "url": "http://www.instituteofayurveda.org/plants/images/plants/00896/plant00896-03201.jpg"
+            "url": "https://i.ibb.co/X6D7T7j/plant00896-03201.jpg"
         }
     ]
 }

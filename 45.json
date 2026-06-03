@@ -1,72 +1,96 @@
 {
-    "scientificName": "Amaranthus viridis L.",
-    "synonyms": [
-        "Albersia caudata (Jacq.) Boiss.",
-        "Albersia gracilis (Desf.) Webb & Berthel.",
-        "Amaranthus blitum Moq.",
-        "Amaranthus fasciatus Roxb.",
-        "Amaranthus gracilis Desf. ex Poir.",
-        "Amaranthus littoralis Bernh. ex Moq.",
-        "Amaranthus polystachyus Buch.-Ham. ex Wall.",
-        "Chenopodium caudatum Jacq.",
-        "Euxolus caudatus (Jacq.) Moq.",
-        "Euxolus caudatus var. gracilis Moq.",
-        "Euxolus caudatus var. maximus Moq.",
-        "Euxolus viridis (L.) Moq.",
-        "Galliaria adscendens Bubani",
-        "Glomeraria viridis (L.) Cav.",
-        "Pyxidium viride (L.) Moq."
-    ],
-    "familyName": "AMARANTHACEAE",
-    "englishNames": [
-        "Pigweed",
-        "Green Amaranth",
-        "Prince of Wales Feather",
-        "Slender Amaranth",
-        "Tropical Green Amaranth"
-    ],
-    "sinhalaName": "Koora thampala (කූර තම්පලා)",
-    "description": "වාර්ෂික පැළෑටියකි, උස සෙ.මී. 10-75 (100) කි; කඳ තරමක් සිහින් සහ රෝම රහිත (glabrous) වේ. පත්‍ර අක්ෂවල යුගල වශයෙන් පිහිටි කටු නොමැත. පත්‍ර රෝම රහිත (glabrous) වේ; පත්‍ර වෘන්තය සෙ.මී. 10ක් දක්වා දිගය; පත්‍ර තලය සෙ.මී. 2-7 x 1.5-5.5 වේ. මල් ඒකලිංගික වන අතර කොළ පැහැතිය; සයිමස් (cymose) පොකුරු ලෙස පිහිටයි; මෙම පොකුරු සෙ.මී. 2.5-12ක් දිග සහ මි.මී. 2-5ක් පළල පැනිකියුලේට් (paniculate) කරල් ලෙස පවතී; පෙරියන්ත (perianth) ඛණ්ඩ 3ක් ඇත, ඉතා කලාතුරකින් 4ක් විය හැක, පිරිමි මල්වල ඒවා මි.මී. 1.5ක් පමණ වේ; ගැහැණු මල්වල ඒවා මි.මී. 1.25-1.75ක් වේ. කැප්සියුලය (capsule) අර්ධ ගෝලාකාර (subglobose) වන අතර මි.මී. 1.25-1.5ක් වේ. බීජ කළු හෝ දුඹුරු පැහැතිය, දිලිසෙන සුළුය, මි.මී. 1-1.25ක් වේ.",
-    "treatments": [
-        {
-            "treatment": "Menorrhagia",
-            "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Wounds",
-            "sinhala": "තුවාල",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Dysentery",
-            "sinhala": "ලේ අතීසාරය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Hypertension",
-            "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Poisoning",
-            "sinhala": "විෂ වීම (විෂ ශරීරගත වීම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Urinary Tract Infection",
-            "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Whole plant"
-    ],
-    "images": []
+  "scientificName": "Amaranthus viridis L.",
+  "synonyms": [
+    "Albersia caudata (Jacq.) Boiss.",
+    "Albersia gracilis (Desf.) Webb & Berthel.",
+    "Amaranthus blitum Moq.",
+    "Amaranthus fasciatus Roxb.",
+    "Amaranthus gracilis Desf. ex Poir.",
+    "Amaranthus littoralis Bernh. ex Moq.",
+    "Amaranthus polystachyus Buch.-Ham. ex Wall.",
+    "Chenopodium caudatum Jacq.",
+    "Euxolus caudatus (Jacq.) Moq.",
+    "Euxolus caudatus var. gracilis Moq.",
+    "Euxolus caudatus var. maximus Moq.",
+    "Euxolus viridis (L.) Moq.",
+    "Galliaria adscendens Bubani",
+    "Glomeraria viridis (L.) Cav.",
+    "Pyxidium viride (L.) Moq."
+  ],
+  "familyName": "AMARANTHACEAE",
+  "englishNames": [
+    "Pigweed",
+    "Green Amaranth",
+    "Prince of Wales Feather",
+    "Slender Amaranth",
+    "Tropical Green Amaranth"
+  ],
+  "sinhalaName": "Koora thampala (කූර තම්පලා)",
+  "description": "වාර්ෂික පැළෑටියකි, උස සෙ.මී. 10-75 (100) කි; කඳ තරමක් සිහින් සහ රෝම රහිත (glabrous) වේ. පත්‍ර අක්ෂවල යුගල වශයෙන් පිහිටි කටු නොමැත. පත්‍ර රෝම රහිත (glabrous) වේ; පත්‍ර වෘන්තය සෙ.මී. 10ක් දක්වා දිගය; පත්‍ර තලය සෙ.මී. 2-7 x 1.5-5.5 වේ. මල් ඒකලිංගික වන අතර කොළ පැහැතිය; සයිමස් (cymose) පොකුරු ලෙස පිහිටයි; මෙම පොකුරු සෙ.මී. 2.5-12ක් දිග සහ මි.මී. 2-5ක් පළල පැනිකියුලේට් (paniculate) කරල් ලෙස පවතී; පෙරියන්ත (perianth) ඛණ්ඩ 3ක් ඇත, ඉතා කලාතුරකින් 4ක් විය හැක, පිරිමි මල්වල ඒවා මි.මී. 1.5ක් පමණ වේ; ගැහැණු මල්වල ඒවා මි.මී. 1.25-1.75ක් වේ. කැප්සියුලය (capsule) අර්ධ ගෝලාකාර (subglobose) වන අතර මි.මී. 1.25-1.5ක් වේ. බීජ කළු හෝ දුඹුරු පැහැතිය, දිලිසෙන සුළුය, මි.මී. 1-1.25ක් වේ.",
+  "treatments": [
+    {
+      "treatment": "Menorrhagia",
+      "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Wounds",
+      "sinhala": "තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Dysentery",
+      "sinhala": "ලේ අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Hypertension",
+      "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Cardiovascular & Circulatory Diseases",
+        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+      }
+    },
+    {
+      "treatment": "Poisoning",
+      "sinhala": "විෂ වීම (විෂ ශරීරගත වීම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Toxicology, Bites & Poisonings",
+        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+      }
+    },
+    {
+      "treatment": "Urinary Tract Infection",
+      "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Urinary & Renal System Diseases",
+        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Whole plant"
+  ],
+  "images": []
 }

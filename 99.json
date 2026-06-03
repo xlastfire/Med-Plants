@@ -1,91 +1,123 @@
 {
-    "scientificName": "Hydrocotyle sibthorpioides Lam.",
-    "synonyms": [
-        "Chondrocarpus sibthorpioides (Lam.) Sweet",
-        "Hydrocotyle americana var. minima (Hochst. ex A.Rich.) Hiern",
-        "Hydrocotyle americana var. monticola (Hook.f.) Hiern",
-        "Hydrocotyle confusa H.Wolff",
-        "Hydrocotyle ecostata Collett & Hemsl.",
-        "Hydrocotyle gracilenta Hook.f.",
-        "Hydrocotyle hirsuta var. minuta Blume",
-        "Hydrocotyle keelungensis Tang S.Liu, C.Y.Chao & T.I.Chuang",
-        "Hydrocotyle latisecta Zoll.",
-        "Hydrocotyle minima Hochst. ex A.Rich.",
-        "Hydrocotyle monticola Hook.f.",
-        "Hydrocotyle nitidula A.Rich.",
-        "Hydrocotyle peduncularis R.Br. ex A.Rich.",
-        "Hydrocotyle peduncularis var. gracilenta (Hook.f.) Benth.",
-        "Hydrocotyle perexigua Hance",
-        "Hydrocotyle puncticulata Miq.",
-        "Hydrocotyle ranunculoides Blume",
-        "Hydrocotyle ranunculoides var. incisa Blume",
-        "Hydrocotyle ranunculoides var. sibthorpioides (Lam.) Spreng.",
-        "Hydrocotyle rotundifolia Roxb. ex DC.",
-        "Hydrocotyle splendens Blume",
-        "Hydrocotyle tenella D.Don",
-        "Hydrocotyle zollingeri Molk."
-    ],
-    "familyName": "ARALIACEAE",
-    "englishNames": [
-        "Lawn Marshpennywort",
-        "Lawn Pennywort",
-        "Crystal Confetti Pennywort"
-    ],
-    "sinhalaName": "Podi del (පොඩිදෙල්)",
-    "description": "",
-    "treatments": [
-        {
-            "treatment": "Arthritis",
-            "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Rheumatism",
-            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Kidney Diseases",
-            "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Pulmonary Disorders",
-            "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Skin Disorders",
-            "sinhala": "චර්ම රෝග (Skin Disorders)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Mucosal Disorders",
-            "sinhala": "ශ්ලේෂ්මල පටල ආශ්‍රිත රෝග සහ ආබාධ",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Gastric Disorders",
-            "sinhala": "ආමාශගත රෝග",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Liver Diseases",
-            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Root",
-        "Entire Plant"
-    ],
-    "images": []
+  "scientificName": "Hydrocotyle sibthorpioides Lam.",
+  "synonyms": [
+    "Chondrocarpus sibthorpioides (Lam.) Sweet",
+    "Hydrocotyle americana var. minima (Hochst. ex A.Rich.) Hiern",
+    "Hydrocotyle americana var. monticola (Hook.f.) Hiern",
+    "Hydrocotyle confusa H.Wolff",
+    "Hydrocotyle ecostata Collett & Hemsl.",
+    "Hydrocotyle gracilenta Hook.f.",
+    "Hydrocotyle hirsuta var. minuta Blume",
+    "Hydrocotyle keelungensis Tang S.Liu, C.Y.Chao & T.I.Chuang",
+    "Hydrocotyle latisecta Zoll.",
+    "Hydrocotyle minima Hochst. ex A.Rich.",
+    "Hydrocotyle monticola Hook.f.",
+    "Hydrocotyle nitidula A.Rich.",
+    "Hydrocotyle peduncularis R.Br. ex A.Rich.",
+    "Hydrocotyle peduncularis var. gracilenta (Hook.f.) Benth.",
+    "Hydrocotyle perexigua Hance",
+    "Hydrocotyle puncticulata Miq.",
+    "Hydrocotyle ranunculoides Blume",
+    "Hydrocotyle ranunculoides var. incisa Blume",
+    "Hydrocotyle ranunculoides var. sibthorpioides (Lam.) Spreng.",
+    "Hydrocotyle rotundifolia Roxb. ex DC.",
+    "Hydrocotyle splendens Blume",
+    "Hydrocotyle tenella D.Don",
+    "Hydrocotyle zollingeri Molk."
+  ],
+  "familyName": "ARALIACEAE",
+  "englishNames": [
+    "Lawn Marshpennywort",
+    "Lawn Pennywort",
+    "Crystal Confetti Pennywort"
+  ],
+  "sinhalaName": "Podi del (පොඩිදෙල්)",
+  "description": "",
+  "treatments": [
+    {
+      "treatment": "Arthritis",
+      "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Rheumatism",
+      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Kidney Diseases",
+      "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Urinary & Renal System Diseases",
+        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Pulmonary Disorders",
+      "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Skin Disorders",
+      "sinhala": "චර්ම රෝග (Skin Disorders)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Mucosal Disorders",
+      "sinhala": "ශ්ලේෂ්මල පටල ආශ්‍රිත රෝග සහ ආබාධ",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "ENT & Ophthalmic Diseases",
+        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Gastric Disorders",
+      "sinhala": "ආමාශගත රෝග",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Liver Diseases",
+      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Hepatic & Biliary Disorders",
+        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Root",
+    "Entire Plant"
+  ],
+  "images": []
 }

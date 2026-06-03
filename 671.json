@@ -1,135 +1,195 @@
 {
-    "scientificName": "Trigonella foenum-graecum L.",
-    "synonyms": [
-        "Buceras foenum-graecum (L.) All.",
-        "Buceras odoratissima Medik.",
-        "Fenugraecum officinale Czechov",
-        "Foenum-graecum officinale Moench",
-        "Foenum-graecum officinale var. cultum Alef.",
-        "Foenum-graecum officinale var. gladiatum Alef.",
-        "Foenum-graecum officinale var. prostratum Alef.",
-        "Foenum-graecum officinale var. rhodanthum Alef.",
-        "Foenum-graecum officinale var. tibetanum Alef.",
-        "Foenum-graecum sativum Medik.",
-        "Folliculigera graveolens Pasq.",
-        "Medicago foenugraeca (L.) E.H.L.Krause",
-        "Telis foenum-graecum (L.) Kuntze",
-        "Trigonella ensifera Trautv.",
-        "Trigonella foenum-graecum subsp. culta Gams",
-        "Trigonella foenum-graecum subsp. indica Sinskaya ex Soskov & Bairamov",
-        "Trigonella foenum-graecum subsp. jemenensis Serp.",
-        "Trigonella foenum-graecum var. haussknechtii irj.",
-        "Trigonella graeca St.-Lag.",
-        "Trigonella haussknechtii (irj.) Vassilcz.",
-        "Trigonella jemenensis (Serp.) Sinskaya",
-        "Trigonella rhodantha (Alef.) Vassilcz.",
-        "Trigonella tibetana (Alef.) Vassilcz.",
-        "Xiphostylis erectus Gasp."
-    ],
-    "familyName": "FABACEAE",
-    "englishNames": [
-        "Eugreok",
-        "Fenugreek",
-        "Greek-clover",
-        "Greek Hay"
-    ],
-    "sinhalaName": "Uluhal (උළුහාල්)",
-    "description": "",
-    "treatments": [
-        {
-            "treatment": "Arthritis",
-            "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Rheumatism",
-            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Menstrual Disorders",
-            "sinhala": "ඔසප් ආබාධ සහ අක්‍රමිකතා (කෂ්ටාර්තව / ආර්තව දෝෂ)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Leprosy",
-            "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Venereal Disease",
-            "sinhala": "ලිංගික රෝග",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Diarrhea",
-            "sinhala": "අතීසාරය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Dysentery",
-            "sinhala": "ලේ අතීසාරය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Gastric Disorders",
-            "sinhala": "ආමාශගත රෝග",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Edema",
-            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Hyperlipidemia",
-            "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Hemorrhoids",
-            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Diabetes Mellitus",
-            "sinhala": "දියවැඩියාව",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Eczema",
-            "sinhala": "දද (එක්සීමා)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Hydrocele",
-            "sinhala": "වෘෂණ කෝෂවල දියර පිරීම / ඉදිමීම (වෘෂණ වෘද්ධිය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Dandruff",
-            "sinhala": "හිස්හොරි",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Leaves",
-        "Seed"
-    ],
-    "images": []
+  "scientificName": "Trigonella foenum-graecum L.",
+  "synonyms": [
+    "Buceras foenum-graecum (L.) All.",
+    "Buceras odoratissima Medik.",
+    "Fenugraecum officinale Czechov",
+    "Foenum-graecum officinale Moench",
+    "Foenum-graecum officinale var. cultum Alef.",
+    "Foenum-graecum officinale var. gladiatum Alef.",
+    "Foenum-graecum officinale var. prostratum Alef.",
+    "Foenum-graecum officinale var. rhodanthum Alef.",
+    "Foenum-graecum officinale var. tibetanum Alef.",
+    "Foenum-graecum sativum Medik.",
+    "Folliculigera graveolens Pasq.",
+    "Medicago foenugraeca (L.) E.H.L.Krause",
+    "Telis foenum-graecum (L.) Kuntze",
+    "Trigonella ensifera Trautv.",
+    "Trigonella foenum-graecum subsp. culta Gams",
+    "Trigonella foenum-graecum subsp. indica Sinskaya ex Soskov & Bairamov",
+    "Trigonella foenum-graecum subsp. jemenensis Serp.",
+    "Trigonella foenum-graecum var. haussknechtii irj.",
+    "Trigonella graeca St.-Lag.",
+    "Trigonella haussknechtii (irj.) Vassilcz.",
+    "Trigonella jemenensis (Serp.) Sinskaya",
+    "Trigonella rhodantha (Alef.) Vassilcz.",
+    "Trigonella tibetana (Alef.) Vassilcz.",
+    "Xiphostylis erectus Gasp."
+  ],
+  "familyName": "FABACEAE",
+  "englishNames": [
+    "Eugreok",
+    "Fenugreek",
+    "Greek-clover",
+    "Greek Hay"
+  ],
+  "sinhalaName": "Uluhal (උළුහාල්)",
+  "description": "",
+  "treatments": [
+    {
+      "treatment": "Arthritis",
+      "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Rheumatism",
+      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Menstrual Disorders",
+      "sinhala": "ඔසප් ආබාධ සහ අක්‍රමිකතා (කෂ්ටාර්තව / ආර්තව දෝෂ)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Leprosy",
+      "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Venereal Disease",
+      "sinhala": "ලිංගික රෝග",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Diarrhea",
+      "sinhala": "අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Dysentery",
+      "sinhala": "ලේ අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Gastric Disorders",
+      "sinhala": "ආමාශගත රෝග",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Edema",
+      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    },
+    {
+      "treatment": "Hyperlipidemia",
+      "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Hemorrhoids",
+      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Diabetes Mellitus",
+      "sinhala": "දියවැඩියාව",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Eczema",
+      "sinhala": "දද (එක්සීමා)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Hydrocele",
+      "sinhala": "වෘෂණ කෝෂවල දියර පිරීම / ඉදිමීම (වෘෂණ වෘද්ධිය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Dandruff",
+      "sinhala": "හිස්හොරි",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Leaves",
+    "Seed"
+  ],
+  "images": []
 }

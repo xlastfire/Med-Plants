@@ -1,59 +1,87 @@
 {
-    "scientificName": "Baratranthus nodiflorus (Thwaites) Tiegh.",
-    "synonyms": [
-        "Cyathiscus nodiflorus (Thwaites) Tiegh.",
-        "Loranthus nodiflorus Thwaites"
-    ],
-    "familyName": "LORANTHACEAE",
-    "englishNames": [],
-    "sinhalaName": "Pilila (පිළිල)",
-    "description": "මධ්‍යම ප්‍රමාණයේ පඳුරු ලෙස වැඩෙන වායුගෝලීය අර්ධ පරපෝෂිත ශාක වේ. පත්‍ර ඒකාන්තර (alternate) වේ; පත්‍ර තලය ලාන්සාකාර-ඩිම්බාකාර (lanceolate-ovate) වන අතර, සෙන්ටිමීටර 5 - 8 ක් පමණ දිග සහ සෙන්ටිමීටර 2 - 3 ක් පමණ පළල වේ. පත්‍ර පාදය සාමාන්‍යයෙන් මොට (obtuse) වන අතර, අග්‍රය සිහින් වී තියුණු (attenuated, acute) වේ. පරිණත මල් පොහොට්ටු මුගුරු හැඩැති (clavate) වන අතර, මල් පිපෙන විට කොරොල්ලා (corolla) තද රතු පැහැයක් ගනී. පෙති මධ්‍ය ලක්ෂ්‍යයෙන් පමණ පසුපසට නැමී (reflexed) පවතී. ඵල පිළිබඳ තොරතුරු නොදනී.",
-    "treatments": [
-        {
-            "treatment": "Hiccups",
-            "sinhala": "හිකිකාව",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Bone Fractures",
-            "sinhala": "අස්ථි බිඳීම්",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Epilepsy",
-            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Nervous Disorders",
-            "sinhala": "ස්නායු පද්ධතිය ආශ්‍රිත ආබාධ සහ රෝග (වාත රෝග)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Urinary Calculi",
-            "sinhala": "මුත්‍රා ගල්",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Dysuria",
-            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Edema",
-            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Whole Plant"
-    ],
-    "images": []
+  "scientificName": "Baratranthus nodiflorus (Thwaites) Tiegh.",
+  "synonyms": [
+    "Cyathiscus nodiflorus (Thwaites) Tiegh.",
+    "Loranthus nodiflorus Thwaites"
+  ],
+  "familyName": "LORANTHACEAE",
+  "englishNames": [],
+  "sinhalaName": "Pilila (පිළිල)",
+  "description": "මධ්‍යම ප්‍රමාණයේ පඳුරු ලෙස වැඩෙන වායුගෝලීය අර්ධ පරපෝෂිත ශාක වේ. පත්‍ර ඒකාන්තර (alternate) වේ; පත්‍ර තලය ලාන්සාකාර-ඩිම්බාකාර (lanceolate-ovate) වන අතර, සෙන්ටිමීටර 5 - 8 ක් පමණ දිග සහ සෙන්ටිමීටර 2 - 3 ක් පමණ පළල වේ. පත්‍ර පාදය සාමාන්‍යයෙන් මොට (obtuse) වන අතර, අග්‍රය සිහින් වී තියුණු (attenuated, acute) වේ. පරිණත මල් පොහොට්ටු මුගුරු හැඩැති (clavate) වන අතර, මල් පිපෙන විට කොරොල්ලා (corolla) තද රතු පැහැයක් ගනී. පෙති මධ්‍ය ලක්ෂ්‍යයෙන් පමණ පසුපසට නැමී (reflexed) පවතී. ඵල පිළිබඳ තොරතුරු නොදනී.",
+  "treatments": [
+    {
+      "treatment": "Hiccups",
+      "sinhala": "හිකිකාව",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Bone Fractures",
+      "sinhala": "අස්ථි බිඳීම්",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Epilepsy",
+      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Nervous System & Mental Health Disorders",
+        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Nervous Disorders",
+      "sinhala": "ස්නායු පද්ධතිය ආශ්‍රිත ආබාධ සහ රෝග (වාත රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Nervous System & Mental Health Disorders",
+        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Urinary Calculi",
+      "sinhala": "මුත්‍රා ගල්",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Urinary & Renal System Diseases",
+        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Dysuria",
+      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Urinary & Renal System Diseases",
+        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Edema",
+      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Whole Plant"
+  ],
+  "images": []
 }

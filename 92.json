@@ -1,134 +1,174 @@
 {
-    "scientificName": "Apium graveolens L.",
-    "synonyms": [
-        "Apium australe var. latisectum H.Wolff",
-        "Apium celleri Gaertn.",
-        "Apium decumbens Eckl. & Zeyh.",
-        "Apium dulce Mill.",
-        "Apium graveolens convar. dulce (Mill.) Alef.",
-        "Apium graveolens convar. rapaceum (Mill.) Alef.",
-        "Apium graveolens f. lusitanicum (Mill.) J.Helm",
-        "Apium graveolens f. rapaceum (Mill.) Gaudin",
-        "Apium graveolens subsp. butronense (D.Gómez & G.Monts.) Aizpuru",
-        "Apium graveolens subsp. rapaceum (Mill.) P.D.Sell",
-        "Apium graveolens var. album Alef.",
-        "Apium graveolens var. aromaticum Alef.",
-        "Apium graveolens var. bashmense Hosni",
-        "Apium graveolens var. butronense D.Gómez & G.Monts.",
-        "Apium graveolens var. crispum Nois.",
-        "Apium graveolens var. dulce (Mill.) Gray",
-        "Apium graveolens var. dulce (Mill.) Pers.",
-        "Apium graveolens var. erfurtense Alef.",
-        "Apium graveolens var. humile Alef.",
-        "Apium graveolens var. juglandinum Alef.",
-        "Apium graveolens var. laeve Alef.",
-        "Apium graveolens var. latifolium Nois.",
-        "Apium graveolens var. lusitanicum (Mill.) DC.",
-        "Apium graveolens var. maritimum Dumort.",
-        "Apium graveolens var. praecox Alef.",
-        "Apium graveolens var. rapaceum (Mill.) Poir.",
-        "Apium graveolens var. rubrum Alef.",
-        "Apium graveolens var. sativum Gaudin",
-        "Apium graveolens var. secalinum Alef.",
-        "Apium graveolens var. silvestre Alef.",
-        "Apium graveolens var. tuberosum Nois.",
-        "Apium graveolens var. variegatum Nois.",
-        "Apium graveolens var. venosum Alef.",
-        "Apium graveolens var. violaceum Alef.",
-        "Apium graveolens var. vulgare Nois.",
-        "Apium integrilobum Hayata",
-        "Apium lobatum Gilib.",
-        "Apium lusitanicum Mill.",
-        "Apium maritimum Salisb.",
-        "Apium palustre Thore",
-        "Apium rapaceum Mill.",
-        "Apium vulgare Bubani",
-        "Carum graveolens (L.) Koso-Pol.",
-        "Celeri graveolens (L.) Britton",
-        "Helosciadium graveolens (L.) Rojas Acosta",
-        "Helosciadium ruta DC.",
-        "Helosciadium rutaceum St.-Lag.",
-        "Selinum graveolens (L.) E.H.L.Krause",
-        "Seseli graveolens (L.) Scop.",
-        "Sison ruta Burm.f.",
-        "Sison trifidum Burm. ex DC.",
-        "Sium apium Roth",
-        "Sium graveolens (L.) Vest",
-        "Smyrnium laterale Thunb."
-    ],
-    "familyName": "APIACEAE",
-    "englishNames": [
-        "Celery",
-        "Wild Celery"
-    ],
-    "sinhalaName": "Saldiri (සැල්දිරි)",
-    "description": "",
-    "treatments": [
-        {
-            "treatment": "Hyperlipidemia",
-            "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Heart Diseases",
-            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Rheumatism",
-            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Cellulitis",
-            "sinhala": "සෛල ප්‍රදාහය (සම යට පටක ඉදිමීම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Jaundice",
-            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Kidney Diseases",
-            "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Diabetes Mellitus",
-            "sinhala": "දියවැඩියාව",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Dermatitis",
-            "sinhala": "චර්ම ප්‍රදාහය (සමේ ප්‍රදාහය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Obesity",
-            "sinhala": "ස්ථූලතාවය (අධික තරබාරුව)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Inflammatory Conditions",
-            "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Roots",
-        "Seeds",
-        "Whole plants"
-    ],
-    "images": []
+  "scientificName": "Apium graveolens L.",
+  "synonyms": [
+    "Apium australe var. latisectum H.Wolff",
+    "Apium celleri Gaertn.",
+    "Apium decumbens Eckl. & Zeyh.",
+    "Apium dulce Mill.",
+    "Apium graveolens convar. dulce (Mill.) Alef.",
+    "Apium graveolens convar. rapaceum (Mill.) Alef.",
+    "Apium graveolens f. lusitanicum (Mill.) J.Helm",
+    "Apium graveolens f. rapaceum (Mill.) Gaudin",
+    "Apium graveolens subsp. butronense (D.Gómez & G.Monts.) Aizpuru",
+    "Apium graveolens subsp. rapaceum (Mill.) P.D.Sell",
+    "Apium graveolens var. album Alef.",
+    "Apium graveolens var. aromaticum Alef.",
+    "Apium graveolens var. bashmense Hosni",
+    "Apium graveolens var. butronense D.Gómez & G.Monts.",
+    "Apium graveolens var. crispum Nois.",
+    "Apium graveolens var. dulce (Mill.) Gray",
+    "Apium graveolens var. dulce (Mill.) Pers.",
+    "Apium graveolens var. erfurtense Alef.",
+    "Apium graveolens var. humile Alef.",
+    "Apium graveolens var. juglandinum Alef.",
+    "Apium graveolens var. laeve Alef.",
+    "Apium graveolens var. latifolium Nois.",
+    "Apium graveolens var. lusitanicum (Mill.) DC.",
+    "Apium graveolens var. maritimum Dumort.",
+    "Apium graveolens var. praecox Alef.",
+    "Apium graveolens var. rapaceum (Mill.) Poir.",
+    "Apium graveolens var. rubrum Alef.",
+    "Apium graveolens var. sativum Gaudin",
+    "Apium graveolens var. secalinum Alef.",
+    "Apium graveolens var. silvestre Alef.",
+    "Apium graveolens var. tuberosum Nois.",
+    "Apium graveolens var. variegatum Nois.",
+    "Apium graveolens var. venosum Alef.",
+    "Apium graveolens var. violaceum Alef.",
+    "Apium graveolens var. vulgare Nois.",
+    "Apium integrilobum Hayata",
+    "Apium lobatum Gilib.",
+    "Apium lusitanicum Mill.",
+    "Apium maritimum Salisb.",
+    "Apium palustre Thore",
+    "Apium rapaceum Mill.",
+    "Apium vulgare Bubani",
+    "Carum graveolens (L.) Koso-Pol.",
+    "Celeri graveolens (L.) Britton",
+    "Helosciadium graveolens (L.) Rojas Acosta",
+    "Helosciadium ruta DC.",
+    "Helosciadium rutaceum St.-Lag.",
+    "Selinum graveolens (L.) E.H.L.Krause",
+    "Seseli graveolens (L.) Scop.",
+    "Sison ruta Burm.f.",
+    "Sison trifidum Burm. ex DC.",
+    "Sium apium Roth",
+    "Sium graveolens (L.) Vest",
+    "Smyrnium laterale Thunb."
+  ],
+  "familyName": "APIACEAE",
+  "englishNames": [
+    "Celery",
+    "Wild Celery"
+  ],
+  "sinhalaName": "Saldiri (සැල්දිරි)",
+  "description": "",
+  "treatments": [
+    {
+      "treatment": "Hyperlipidemia",
+      "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Heart Diseases",
+      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Cardiovascular & Circulatory Diseases",
+        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+      }
+    },
+    {
+      "treatment": "Rheumatism",
+      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Cellulitis",
+      "sinhala": "සෛල ප්‍රදාහය (සම යට පටක ඉදිමීම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Jaundice",
+      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Hepatic & Biliary Disorders",
+        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Kidney Diseases",
+      "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Urinary & Renal System Diseases",
+        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Diabetes Mellitus",
+      "sinhala": "දියවැඩියාව",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Dermatitis",
+      "sinhala": "චර්ම ප්‍රදාහය (සමේ ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Obesity",
+      "sinhala": "ස්ථූලතාවය (අධික තරබාරුව)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Inflammatory Conditions",
+      "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Roots",
+    "Seeds",
+    "Whole plants"
+  ],
+  "images": []
 }

@@ -1,65 +1,89 @@
 {
-    "scientificName": "Trianthema portulacastrum L.",
-    "synonyms": [
-        "Portulaca axilliflora Blanco",
-        "Portulaca toston Blanco",
-        "Portulacastrum monogynum Medik.",
-        "Tetragonia chisimajensis Chiov.",
-        "Trianthema flexuosum Schumach. & Thonn.",
-        "Trianthema littorale Cordem.",
-        "Trianthema monogynum L.",
-        "Trianthema obcordatum Roxb.",
-        "Trianthema procumbens Mill."
-    ],
-    "familyName": "AIZOACEAE",
-    "englishNames": [
-        "Puncture Vine",
-        "Desert Horse Purslane",
-        "Giant Pigweed",
-        "Horse Purslane"
-    ],
-    "sinhalaName": "Heen sarana (හීන් සාරණ)",
-    "description": "වාර්ෂික පැළෑටියකි, කඳන් ඉහළට නැඹුරු වූ හෝ බිම දිගේ පැතිරෙන (prostrate), ලිහිල් පලසක් මෙන් වැඩේ. පත්‍ර අභිමුඛ වේ (opposite); පත්‍ර වෘන්ත (petioles) සෙ.මී. 0.5-3 ක් දිගය, පත්‍ර පාද අතර පිහිටි උපපත්‍ර (interpetiolar stipules) මගින් කෙටි මල්ලක් වැනි කොපුවක් සාදයි. උපපත්‍ර කොපුවේ පතුලේ වෘන්ත රහිත (sessile) මල පිහිටා ඇත. කරලෙහි (capsule) පියනෙහි (operculum) බීජ 1-2 ක් ද, ඉතිරි වන පාදස්ථ කොටසේ බීජ 2-9 ක් ද අඩංගු වේ.",
-    "treatments": [
-        {
-            "treatment": "Edema/Swelling",
-            "sinhala": "ඉදිමීම/ශෝථය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Constipation",
-            "sinhala": "මලබද්ධය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Jaundice",
-            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Dysuria",
-            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Liver Diseases",
-            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Asthma",
-            "sinhala": "ඇදුම",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Roots"
-    ],
-    "images": []
+  "scientificName": "Trianthema portulacastrum L.",
+  "synonyms": [
+    "Portulaca axilliflora Blanco",
+    "Portulaca toston Blanco",
+    "Portulacastrum monogynum Medik.",
+    "Tetragonia chisimajensis Chiov.",
+    "Trianthema flexuosum Schumach. & Thonn.",
+    "Trianthema littorale Cordem.",
+    "Trianthema monogynum L.",
+    "Trianthema obcordatum Roxb.",
+    "Trianthema procumbens Mill."
+  ],
+  "familyName": "AIZOACEAE",
+  "englishNames": [
+    "Puncture Vine",
+    "Desert Horse Purslane",
+    "Giant Pigweed",
+    "Horse Purslane"
+  ],
+  "sinhalaName": "Heen sarana (හීන් සාරණ)",
+  "description": "වාර්ෂික පැළෑටියකි, කඳන් ඉහළට නැඹුරු වූ හෝ බිම දිගේ පැතිරෙන (prostrate), ලිහිල් පලසක් මෙන් වැඩේ. පත්‍ර අභිමුඛ වේ (opposite); පත්‍ර වෘන්ත (petioles) සෙ.මී. 0.5-3 ක් දිගය, පත්‍ර පාද අතර පිහිටි උපපත්‍ර (interpetiolar stipules) මගින් කෙටි මල්ලක් වැනි කොපුවක් සාදයි. උපපත්‍ර කොපුවේ පතුලේ වෘන්ත රහිත (sessile) මල පිහිටා ඇත. කරලෙහි (capsule) පියනෙහි (operculum) බීජ 1-2 ක් ද, ඉතිරි වන පාදස්ථ කොටසේ බීජ 2-9 ක් ද අඩංගු වේ.",
+  "treatments": [
+    {
+      "treatment": "Edema/Swelling",
+      "sinhala": "ඉදිමීම/ශෝථය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Pediatrics & General Symptoms",
+        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+      }
+    },
+    {
+      "treatment": "Constipation",
+      "sinhala": "මලබද්ධය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Jaundice",
+      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Hepatic & Biliary Disorders",
+        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Dysuria",
+      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Urinary & Renal System Diseases",
+        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Liver Diseases",
+      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Hepatic & Biliary Disorders",
+        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Asthma",
+      "sinhala": "ඇදුම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Roots"
+  ],
+  "images": []
 }

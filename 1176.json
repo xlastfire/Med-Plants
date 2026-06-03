@@ -1,37 +1,49 @@
 {
-    "scientificName": "",
-    "synonyms": [],
-    "familyName": "",
-    "englishNames": [
-        "Mandarin",
-        "Tangerine",
-        "Orange"
-    ],
-    "sinhalaName": "Heen naran (හීන් නාරං)",
-    "description": "",
-    "treatments": [
-        {
-            "treatment": "Vomiting",
-            "sinhala": "වමනය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Nausea and Vomiting",
-            "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Liver Diseases",
-            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Leaves",
-        "Fruits"
-    ],
-    "images": []
+  "scientificName": "",
+  "synonyms": [],
+  "familyName": "",
+  "englishNames": [
+    "Mandarin",
+    "Tangerine",
+    "Orange"
+  ],
+  "sinhalaName": "Heen naran (හීන් නාරං)",
+  "description": "",
+  "treatments": [
+    {
+      "treatment": "Vomiting",
+      "sinhala": "වමනය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Nausea and Vomiting",
+      "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Liver Diseases",
+      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Hepatic & Biliary Disorders",
+        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Leaves",
+    "Fruits"
+  ],
+  "images": []
 }

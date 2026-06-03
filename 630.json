@@ -1,115 +1,163 @@
 {
-    "scientificName": "Glycyrrhiza glabra L.",
-    "synonyms": [
-        "Glycyrrhiza brachycarpa Boiss.",
-        "Glycyrrhiza echinata Lepech.",
-        "Glycyrrhiza glabra subsp. glandulifera (Waldst. & Kit.) Ponert",
-        "Glycyrrhiza glabra var. asperula Regel & Herder",
-        "Glycyrrhiza glabra var. brachycarpa (Boiss.) Boiss.",
-        "Glycyrrhiza glabra var. caduca X.Y.Li",
-        "Glycyrrhiza glabra var. echinata Regel & Herder",
-        "Glycyrrhiza glabra var. glandulifera (Waldst. & Kit.) Regel & Herder",
-        "Glycyrrhiza glabra var. hispidula Regel & Herder",
-        "Glycyrrhiza glabra var. laxifoliolata X.Y.Li",
-        "Glycyrrhiza glabra var. pubescens Litv.",
-        "Glycyrrhiza glabra var. violacea (Boiss.) Boiss.",
-        "Glycyrrhiza glandulifera var. parviflora Ledeb.",
-        "Glycyrrhiza glandulifera Waldst. & Kit.",
-        "Glycyrrhiza hirsuta L.",
-        "Glycyrrhiza laevis Pall.",
-        "Glycyrrhiza officinalis Lepech.",
-        "Glycyrrhiza pallida Boiss. & Noë",
-        "Glycyrrhiza violacea Boiss.",
-        "Glycyrrhiza vulgaris Gueldenst. ex Ledeb.",
-        "Liquiritia officinalis Moench",
-        "Liquiritia officinarum Medik."
-    ],
-    "familyName": "FABACEAE",
-    "englishNames": [
-        "Licorice",
-        "Liquorice",
-        "Sweetwood",
-        "Common Liqourice",
-        "Black Sugar"
-    ],
-    "sinhalaName": "Welmee (වැල්මී )",
-    "description": "",
-    "treatments": [
-        {
-            "treatment": "Stomatitis",
-            "sinhala": "මුඛ ප්‍රදාහය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Pharyngitis",
-            "sinhala": "ග්‍රසනිකා ප්‍රදාහය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Conjunctivitis",
-            "sinhala": "ඇස් ලෙඩ (අක්ෂි පටල ප්‍රදාහය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Liver Diseases",
-            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Chronic Dysentery",
-            "sinhala": "නිදන්ගත ලේ අතීසාරය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Laryngitis",
-            "sinhala": "ස්වරාලය ප්‍රදාහයට පත්වීම",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Bronchitis",
-            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Menstrual Disorders",
-            "sinhala": "ඔසප් ආබාධ සහ අක්‍රමිකතා (කෂ්ටාර්තව / ආර්තව දෝෂ)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Infertility",
-            "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Appendicitis",
-            "sinhala": "උණ්ඩුකපුච්ඡ ප්‍රදාහය (ඇපෙන්ඩිසයිටිස්)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Pulmonary Tuberculosis",
-            "sinhala": "පෙනහළු ක්ෂය රෝගය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Eye Diseases",
-            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Root"
-    ],
-    "images": []
+  "scientificName": "Glycyrrhiza glabra L.",
+  "synonyms": [
+    "Glycyrrhiza brachycarpa Boiss.",
+    "Glycyrrhiza echinata Lepech.",
+    "Glycyrrhiza glabra subsp. glandulifera (Waldst. & Kit.) Ponert",
+    "Glycyrrhiza glabra var. asperula Regel & Herder",
+    "Glycyrrhiza glabra var. brachycarpa (Boiss.) Boiss.",
+    "Glycyrrhiza glabra var. caduca X.Y.Li",
+    "Glycyrrhiza glabra var. echinata Regel & Herder",
+    "Glycyrrhiza glabra var. glandulifera (Waldst. & Kit.) Regel & Herder",
+    "Glycyrrhiza glabra var. hispidula Regel & Herder",
+    "Glycyrrhiza glabra var. laxifoliolata X.Y.Li",
+    "Glycyrrhiza glabra var. pubescens Litv.",
+    "Glycyrrhiza glabra var. violacea (Boiss.) Boiss.",
+    "Glycyrrhiza glandulifera var. parviflora Ledeb.",
+    "Glycyrrhiza glandulifera Waldst. & Kit.",
+    "Glycyrrhiza hirsuta L.",
+    "Glycyrrhiza laevis Pall.",
+    "Glycyrrhiza officinalis Lepech.",
+    "Glycyrrhiza pallida Boiss. & Noë",
+    "Glycyrrhiza violacea Boiss.",
+    "Glycyrrhiza vulgaris Gueldenst. ex Ledeb.",
+    "Liquiritia officinalis Moench",
+    "Liquiritia officinarum Medik."
+  ],
+  "familyName": "FABACEAE",
+  "englishNames": [
+    "Licorice",
+    "Liquorice",
+    "Sweetwood",
+    "Common Liqourice",
+    "Black Sugar"
+  ],
+  "sinhalaName": "Welmee (වැල්මී )",
+  "description": "",
+  "treatments": [
+    {
+      "treatment": "Stomatitis",
+      "sinhala": "මුඛ ප්‍රදාහය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dental & Oral Cavity Diseases",
+        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Pharyngitis",
+      "sinhala": "ග්‍රසනිකා ප්‍රදාහය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "ENT & Ophthalmic Diseases",
+        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Conjunctivitis",
+      "sinhala": "ඇස් ලෙඩ (අක්ෂි පටල ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "ENT & Ophthalmic Diseases",
+        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Liver Diseases",
+      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Hepatic & Biliary Disorders",
+        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Chronic Dysentery",
+      "sinhala": "නිදන්ගත ලේ අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Laryngitis",
+      "sinhala": "ස්වරාලය ප්‍රදාහයට පත්වීම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "ENT & Ophthalmic Diseases",
+        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Bronchitis",
+      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Menstrual Disorders",
+      "sinhala": "ඔසප් ආබාධ සහ අක්‍රමිකතා (කෂ්ටාර්තව / ආර්තව දෝෂ)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Infertility",
+      "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Appendicitis",
+      "sinhala": "උණ්ඩුකපුච්ඡ ප්‍රදාහය (ඇපෙන්ඩිසයිටිස්)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Pulmonary Tuberculosis",
+      "sinhala": "පෙනහළු ක්ෂය රෝගය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Eye Diseases",
+      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "ENT & Ophthalmic Diseases",
+        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Root"
+  ],
+  "images": []
 }

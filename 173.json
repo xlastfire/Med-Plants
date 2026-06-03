@@ -1,123 +1,187 @@
 {
-    "scientificName": "Phoenix sylvestris (L.) Roxb.",
-    "synonyms": [
-        "Elate sylvestris L.",
-        "Elate versicolor Salisb."
-    ],
-    "familyName": "ARECACEAE",
-    "englishNames": [
-        "Palm Sugar",
-        "Wild Date Palm",
-        "India Date",
-        "Silver Date Palm",
-        "Sugar Date Palm",
-        "Toddy Palm"
-    ],
-    "sinhalaName": "Maha indi (මහ ඉඳි)",
-    "description": "",
-    "treatments": [
-        {
-            "treatment": "Bronchial Asthma",
-            "sinhala": "ශ්වාසනාල ඇදුම",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Toothache",
-            "sinhala": "දත් කැක්කුම",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Sciatica",
-            "sinhala": "ගෘධ්‍රසී වාතය (Sciatica)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Hepatitis",
-            "sinhala": "හෙපටයිටිස් (අක්මා ප්‍රදාහය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Stye",
-            "sinhala": "ඇස් ගෙඩි (Stye)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Splenomegaly",
-            "sinhala": "ප්ලීහාව විශාල වීම",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Anemia",
-            "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Rheumatoid Arthritis",
-            "sinhala": "ආමවාතය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Cardiac Disorders",
-            "sinhala": "හෘද ආශ්‍රිත ආබාධ",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Hemorrhoids",
-            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Sexual Weakness",
-            "sinhala": "ලිංගික දුර්වලතාවය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Diabetes Mellitus",
-            "sinhala": "දියවැඩියාව",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Lumbago",
-            "sinhala": "කොන්දේ පහළ ප්‍රදේශයේ කැක්කුම (කටි ශූල)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Vomiting",
-            "sinhala": "වමනය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Hiccups",
-            "sinhala": "හිකිකාව",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Tuberculosis",
-            "sinhala": "ක්ෂය රෝගය",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Fruits",
-        "Leaves",
-        "Roots",
-        "Seeds"
-    ],
-    "images": []
+  "scientificName": "Phoenix sylvestris (L.) Roxb.",
+  "synonyms": [
+    "Elate sylvestris L.",
+    "Elate versicolor Salisb."
+  ],
+  "familyName": "ARECACEAE",
+  "englishNames": [
+    "Palm Sugar",
+    "Wild Date Palm",
+    "India Date",
+    "Silver Date Palm",
+    "Sugar Date Palm",
+    "Toddy Palm"
+  ],
+  "sinhalaName": "Maha indi (මහ ඉඳි)",
+  "description": "",
+  "treatments": [
+    {
+      "treatment": "Bronchial Asthma",
+      "sinhala": "ශ්වාසනාල ඇදුම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Toothache",
+      "sinhala": "දත් කැක්කුම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dental & Oral Cavity Diseases",
+        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Sciatica",
+      "sinhala": "ගෘධ්‍රසී වාතය (Sciatica)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Hepatitis",
+      "sinhala": "හෙපටයිටිස් (අක්මා ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Hepatic & Biliary Disorders",
+        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Stye",
+      "sinhala": "ඇස් ගෙඩි (Stye)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "ENT & Ophthalmic Diseases",
+        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Splenomegaly",
+      "sinhala": "ප්ලීහාව විශාල වීම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Anemia",
+      "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Rheumatoid Arthritis",
+      "sinhala": "ආමවාතය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Cardiac Disorders",
+      "sinhala": "හෘද ආශ්‍රිත ආබාධ",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Cardiovascular & Circulatory Diseases",
+        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+      }
+    },
+    {
+      "treatment": "Hemorrhoids",
+      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Sexual Weakness",
+      "sinhala": "ලිංගික දුර්වලතාවය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Diabetes Mellitus",
+      "sinhala": "දියවැඩියාව",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Lumbago",
+      "sinhala": "කොන්දේ පහළ ප්‍රදේශයේ කැක්කුම (කටි ශූල)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Vomiting",
+      "sinhala": "වමනය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Hiccups",
+      "sinhala": "හිකිකාව",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Tuberculosis",
+      "sinhala": "ක්ෂය රෝගය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Respiratory System Diseases",
+        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds"
+  ],
+  "images": []
 }

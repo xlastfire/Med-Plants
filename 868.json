@@ -1,118 +1,158 @@
 {
-    "scientificName": "Ficus microcarpa L.f.",
-    "synonyms": [
-        "Ficus amblyphylla (Miq.) Miq.",
-        "Ficus cairnsii Warb.",
-        "Ficus condaravia Buch.-Ham.",
-        "Ficus dahlii K.Schum.",
-        "Ficus dictyophleba Miq.",
-        "Ficus dilatata Miq.",
-        "Ficus dyctiophleba F.Muell. ex Miq.",
-        "Ficus littoralis Blume",
-        "Ficus microcarpa f. pubescens Corner",
-        "Ficus microcarpa var. crassifolia (W.C.Shieh) J.C.Liao",
-        "Ficus microcarpa var. fuyuensis J.C.Liao",
-        "Ficus microcarpa var. latifolia (Miq.) Corner",
-        "Ficus microcarpa var. naumannii (Engl.) Corner",
-        "Ficus microcarpa var. nitida F.C.Ho",
-        "Ficus microcarpa var. oluangpiensis J.C.Liao",
-        "Ficus microcarpa var. pusillifolia J.C.Liao",
-        "Ficus naumannii Engl.",
-        "Ficus regnans Diels",
-        "Ficus retusa f. parvifolia Miq.",
-        "Ficus retusa f. pubescens Miq.",
-        "Ficus retusa var. crassifolia W.C.Shieh",
-        "Ficus retusa var. nitida King",
-        "Ficus retusa var. pisifera (Miq.) Miq.",
-        "Ficus retusiformis H.Lév.",
-        "Ficus rubra Roth",
-        "Ficus thynneana F.M.Bailey",
-        "Ficus thynneana var. minor Domin",
-        "Ficus thynneana var. typica Domin",
-        "Urostigma accedens var. latifolia Miq.",
-        "Urostigma amblyphyllum Miq.",
-        "Urostigma littorale (Blume) Miq.",
-        "Urostigma microcarpum (L.f.) Miq.",
-        "Urostigma pisiferum Miq."
-    ],
-    "familyName": "MORACEAE",
-    "englishNames": [
-        "Laurel Fig",
-        "Malayan Banyan",
-        "Curtain Fig",
-        "Chinese Banyan",
-        "Glossy-leaf Fig",
-        "Small-Fruited Fig",
-        "Indian Laurel Fig"
-    ],
-    "sinhalaName": "Panu nuga (පණු නුග)",
-    "description": "",
-    "treatments": [
-        {
-            "treatment": "Wounds",
-            "sinhala": "තුවාල",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Ulcers",
-            "sinhala": "වණ / තුවාල",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Bruises",
-            "sinhala": "තැලීම් තුවාල",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Liver Diseases",
-            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Diarrhea",
-            "sinhala": "අතීසාරය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Dysentery",
-            "sinhala": "ලේ අතීසාරය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Diabetes Mellitus",
-            "sinhala": "දියවැඩියාව",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Ulcerative Stomatitis",
-            "sinhala": "මුඛයේ හටගන්නා වණ",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Leukorrhea",
-            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Dental Caries",
-            "sinhala": "දත් දිරායාම",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Bark",
-        "Roots",
-        "Leaves"
-    ],
-    "images": []
+  "scientificName": "Ficus microcarpa L.f.",
+  "synonyms": [
+    "Ficus amblyphylla (Miq.) Miq.",
+    "Ficus cairnsii Warb.",
+    "Ficus condaravia Buch.-Ham.",
+    "Ficus dahlii K.Schum.",
+    "Ficus dictyophleba Miq.",
+    "Ficus dilatata Miq.",
+    "Ficus dyctiophleba F.Muell. ex Miq.",
+    "Ficus littoralis Blume",
+    "Ficus microcarpa f. pubescens Corner",
+    "Ficus microcarpa var. crassifolia (W.C.Shieh) J.C.Liao",
+    "Ficus microcarpa var. fuyuensis J.C.Liao",
+    "Ficus microcarpa var. latifolia (Miq.) Corner",
+    "Ficus microcarpa var. naumannii (Engl.) Corner",
+    "Ficus microcarpa var. nitida F.C.Ho",
+    "Ficus microcarpa var. oluangpiensis J.C.Liao",
+    "Ficus microcarpa var. pusillifolia J.C.Liao",
+    "Ficus naumannii Engl.",
+    "Ficus regnans Diels",
+    "Ficus retusa f. parvifolia Miq.",
+    "Ficus retusa f. pubescens Miq.",
+    "Ficus retusa var. crassifolia W.C.Shieh",
+    "Ficus retusa var. nitida King",
+    "Ficus retusa var. pisifera (Miq.) Miq.",
+    "Ficus retusiformis H.Lév.",
+    "Ficus rubra Roth",
+    "Ficus thynneana F.M.Bailey",
+    "Ficus thynneana var. minor Domin",
+    "Ficus thynneana var. typica Domin",
+    "Urostigma accedens var. latifolia Miq.",
+    "Urostigma amblyphyllum Miq.",
+    "Urostigma littorale (Blume) Miq.",
+    "Urostigma microcarpum (L.f.) Miq.",
+    "Urostigma pisiferum Miq."
+  ],
+  "familyName": "MORACEAE",
+  "englishNames": [
+    "Laurel Fig",
+    "Malayan Banyan",
+    "Curtain Fig",
+    "Chinese Banyan",
+    "Glossy-leaf Fig",
+    "Small-Fruited Fig",
+    "Indian Laurel Fig"
+  ],
+  "sinhalaName": "Panu nuga (පණු නුග)",
+  "description": "",
+  "treatments": [
+    {
+      "treatment": "Wounds",
+      "sinhala": "තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Ulcers",
+      "sinhala": "වණ / තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Bruises",
+      "sinhala": "තැලීම් තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Musculoskeletal & Orthopedic Disorders",
+        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Liver Diseases",
+      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Hepatic & Biliary Disorders",
+        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Diarrhea",
+      "sinhala": "අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Dysentery",
+      "sinhala": "ලේ අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Diabetes Mellitus",
+      "sinhala": "දියවැඩියාව",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Endocrine, Metabolic & Nutritional Disorders",
+        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Ulcerative Stomatitis",
+      "sinhala": "මුඛයේ හටගන්නා වණ",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dental & Oral Cavity Diseases",
+        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Leukorrhea",
+      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Reproductive & Gynecological Disorders",
+        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+      }
+    },
+    {
+      "treatment": "Dental Caries",
+      "sinhala": "දත් දිරායාම",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dental & Oral Cavity Diseases",
+        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Bark",
+    "Roots",
+    "Leaves"
+  ],
+  "images": []
 }

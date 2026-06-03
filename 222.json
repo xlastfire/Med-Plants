@@ -1,79 +1,107 @@
 {
-    "scientificName": "Tagetes erecta L.",
-    "synonyms": [
-        "Tagetes corymbosa Sweet",
-        "Tagetes corymbosa Sweet",
-        "Tagetes elongata Willd.",
-        "Tagetes elongata Willd.",
-        "Tagetes heterocarpha Rydb.",
-        "Tagetes heterocarpha Rydb.",
-        "Tagetes major Gaertn.",
-        "Tagetes major Gaertn.",
-        "Tagetes patula L.",
-        "Tagetes patula L.",
-        "Tagetes remotiflora Kunze",
-        "Tagetes remotiflora Kunze",
-        "Tagetes tenuifolia Kunth",
-        "Tagetes tenuifolia Kunth"
-    ],
-    "familyName": "ASTERACEAE",
-    "englishNames": [
-        "Marigold Yellow",
-        "Marigold",
-        "African Marigold",
-        "Aztec Marigold",
-        "Big Marigold",
-        "American Marigold"
-    ],
-    "sinhalaName": "Mahayak mal (මහයක් මල්)",
-    "description": "සෘජු වාර්ෂික පැළෑටි, සෙ.මී. 15 - 60 ක් උසැතිය. පත්‍ර පක්ෂ්මව පිහිටි (pinnate) අතර සෙ.මී. 2.5 - 15 ක් දිගය; පත්‍රිකා 11 - 17 ක් සහිත වන අතර ඒවා ලාන්සාකාර (lanceolate) වේ, සෙ.මී. 1 - 5 ක් දිග සහ මි.මී. 2 - 10 ක් පළලය, පාදම ක්ෂීණ (attenuate) වේ, අග්‍රය තියුණු (acute) හෝ උල් වූ (acuminate) වේ, දාරය කියත් දත් සහිත (serrate) වේ, ඉහළ පත්‍රවල දත් සාමාන්‍යයෙන් සියුම් කටු සහිත (setose) අග්‍රයකින් යුක්ත වේ, ග්‍රන්ථි ස්වල්පයක් පවතින අතර ඒවා සාමාන්‍යයෙන් දත්වල පාදමේ පිහිටයි. පුෂ්ප මංජරිය (capitula) තනිව පිහිටන අතර ඒවා ඉදිමුණු පුෂ්ප දණ්ඩක් (peduncle) මත සෙ.මී. 5 - 15 ක් දිගට පිහිටයි. ආවෘත පත්‍ර (involucre) සෙ.මී. 1.75 - 2 ක් දිග සහ මි.මී. 7 - 12 ක් පළල වන අතර රෝම රහිත (glabrous) වේ. පැපස් (pappus) කොරපොතු එකිනෙක සම්බන්ධ වී මි.මී. 4 - 4.5 ක් දිගට පිහිටන අතර, මි.මී. 6 - 10 ක් දිගැති දිගු කටු වැනි (aristate) කොරපොතු 1 - 2 ක් ද පවතී.",
-    "treatments": [
-        {
-            "treatment": "Epilepsy",
-            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Eye Diseases",
-            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Ulcers",
-            "sinhala": "වණ / තුවාල",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Hemorrhoids",
-            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Boils and Abscesses",
-            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Carbuncles",
-            "sinhala": "රාජ ගෙඩි",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Wounds",
-            "sinhala": "තුවාල",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Leaves",
-        "Flowers"
-    ],
-    "images": []
+  "scientificName": "Tagetes erecta L.",
+  "synonyms": [
+    "Tagetes corymbosa Sweet",
+    "Tagetes corymbosa Sweet",
+    "Tagetes elongata Willd.",
+    "Tagetes elongata Willd.",
+    "Tagetes heterocarpha Rydb.",
+    "Tagetes heterocarpha Rydb.",
+    "Tagetes major Gaertn.",
+    "Tagetes major Gaertn.",
+    "Tagetes patula L.",
+    "Tagetes patula L.",
+    "Tagetes remotiflora Kunze",
+    "Tagetes remotiflora Kunze",
+    "Tagetes tenuifolia Kunth",
+    "Tagetes tenuifolia Kunth"
+  ],
+  "familyName": "ASTERACEAE",
+  "englishNames": [
+    "Marigold Yellow",
+    "Marigold",
+    "African Marigold",
+    "Aztec Marigold",
+    "Big Marigold",
+    "American Marigold"
+  ],
+  "sinhalaName": "Mahayak mal (මහයක් මල්)",
+  "description": "සෘජු වාර්ෂික පැළෑටි, සෙ.මී. 15 - 60 ක් උසැතිය. පත්‍ර පක්ෂ්මව පිහිටි (pinnate) අතර සෙ.මී. 2.5 - 15 ක් දිගය; පත්‍රිකා 11 - 17 ක් සහිත වන අතර ඒවා ලාන්සාකාර (lanceolate) වේ, සෙ.මී. 1 - 5 ක් දිග සහ මි.මී. 2 - 10 ක් පළලය, පාදම ක්ෂීණ (attenuate) වේ, අග්‍රය තියුණු (acute) හෝ උල් වූ (acuminate) වේ, දාරය කියත් දත් සහිත (serrate) වේ, ඉහළ පත්‍රවල දත් සාමාන්‍යයෙන් සියුම් කටු සහිත (setose) අග්‍රයකින් යුක්ත වේ, ග්‍රන්ථි ස්වල්පයක් පවතින අතර ඒවා සාමාන්‍යයෙන් දත්වල පාදමේ පිහිටයි. පුෂ්ප මංජරිය (capitula) තනිව පිහිටන අතර ඒවා ඉදිමුණු පුෂ්ප දණ්ඩක් (peduncle) මත සෙ.මී. 5 - 15 ක් දිගට පිහිටයි. ආවෘත පත්‍ර (involucre) සෙ.මී. 1.75 - 2 ක් දිග සහ මි.මී. 7 - 12 ක් පළල වන අතර රෝම රහිත (glabrous) වේ. පැපස් (pappus) කොරපොතු එකිනෙක සම්බන්ධ වී මි.මී. 4 - 4.5 ක් දිගට පිහිටන අතර, මි.මී. 6 - 10 ක් දිගැති දිගු කටු වැනි (aristate) කොරපොතු 1 - 2 ක් ද පවතී.",
+  "treatments": [
+    {
+      "treatment": "Epilepsy",
+      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Nervous System & Mental Health Disorders",
+        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Eye Diseases",
+      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "ENT & Ophthalmic Diseases",
+        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Ulcers",
+      "sinhala": "වණ / තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Hemorrhoids",
+      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Boils and Abscesses",
+      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Carbuncles",
+      "sinhala": "රාජ ගෙඩි",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Wounds",
+      "sinhala": "තුවාල",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Leaves",
+    "Flowers"
+  ],
+  "images": []
 }

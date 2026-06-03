@@ -30,79 +30,131 @@
             "treatment": "Arthritis",
             "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Rheumatism",
             "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Eye Diseases",
             "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
         },
         {
             "treatment": "Nasopharyngeal Disorders",
             "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
         },
         {
             "treatment": "Paralysis",
             "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Epilepsy",
             "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Convulsions",
             "sinhala": "වලිප්පුව / වෙවුලීම",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Skin Disorders",
             "sinhala": "චර්ම රෝග (Skin Disorders)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
         },
         {
             "treatment": "Diarrhea",
             "sinhala": "අතීසාරය",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Dysentery",
             "sinhala": "ලේ අතීසාරය",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Tumors",
             "sinhala": "ගෙඩි / අර්බුද",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
         },
         {
             "treatment": "Cancer",
             "sinhala": "පිළිකා",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
         },
         {
             "treatment": "Venereal Disease",
             "sinhala": "ලිංගික රෝග",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
         }
     ],
     "partsUsed": [
@@ -113,12 +165,12 @@
         {
             "image_id": "852",
             "caption": "Habit of the species",
-            "url": "http://www.instituteofayurveda.org/plants/images/plants/00260/plant00260-00852.jpg"
+            "url": "https://i.ibb.co/wh18sM0h/plant00260-00852.jpg"
         },
         {
             "image_id": "853",
             "caption": "Flowers and Fruits",
-            "url": "http://www.instituteofayurveda.org/plants/images/plants/00260/plant00260-00853.jpg"
+            "url": "https://i.ibb.co/twC11Fm7/plant00260-00853.jpg"
         }
     ]
 }

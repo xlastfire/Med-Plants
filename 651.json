@@ -349,85 +349,141 @@
             "treatment": "Acne",
             "sinhala": "කුරුලෑ",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
         },
         {
             "treatment": "Bladder Disorders",
             "sinhala": "මුත්‍රාශය ආශ්‍රිත ආබාධ",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
         },
         {
             "treatment": "Cardiac Disorders",
             "sinhala": "හෘද ආශ්‍රිත ආබාධ",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
         },
         {
             "treatment": "Diabetes Mellitus",
             "sinhala": "දියවැඩියාව",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Diarrhea",
             "sinhala": "අතීසාරය",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Edema",
             "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
         },
         {
             "treatment": "Dysentery",
             "sinhala": "ලේ අතීසාරය",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Eczema",
             "sinhala": "දද (එක්සීමා)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
         },
         {
             "treatment": "Hiccups",
             "sinhala": "හිකිකාව",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Pruritus",
             "sinhala": "චර්ම රෝග නිසා ඇතිවන කැසීම",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
         },
         {
             "treatment": "Kidney Diseases",
             "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
         },
         {
             "treatment": "Rheumatism",
             "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Sciatica",
             "sinhala": "ගෘධ්‍රසී වාතය (Sciatica)",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
         },
         {
             "treatment": "Tenesmus",
             "sinhala": "මලපහ කිරීමේදී ඇතිවන තැටමීමේ වේදනාව",
             "procedure": "",
-            "links": []
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
         }
     ],
     "partsUsed": [
@@ -437,27 +493,27 @@
         {
             "image_id": "830",
             "caption": "Habit of the species",
-            "url": "http://www.instituteofayurveda.org/plants/images/plants/00651/plant00651-00830.jpg"
+            "url": "https://i.ibb.co/WvfVtSL8/plant00651-00830.jpg"
         },
         {
             "image_id": "1318",
             "caption": "Habit",
-            "url": "http://www.instituteofayurveda.org/plants/images/plants/00651/plant00651-01318.jpg"
+            "url": "https://i.ibb.co/wFmjLt1f/plant00651-01318.jpg"
         },
         {
             "image_id": "831",
             "caption": "Flower and Fruit",
-            "url": "http://www.instituteofayurveda.org/plants/images/plants/00651/plant00651-00831.jpg"
+            "url": "https://i.ibb.co/B5PtHmqj/plant00651-00831.jpg"
         },
         {
             "image_id": "1319",
             "caption": "Flower",
-            "url": "http://www.instituteofayurveda.org/plants/images/plants/00651/plant00651-01319.jpg"
+            "url": "https://i.ibb.co/vvsffzL8/plant00651-01319.jpg"
         },
         {
             "image_id": "1320",
             "caption": "Fruits",
-            "url": "http://www.instituteofayurveda.org/plants/images/plants/00651/plant00651-01320.jpg"
+            "url": "https://i.ibb.co/ZzK05NyL/plant00651-01320.jpg"
         }
     ]
 }

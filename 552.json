@@ -1,103 +1,155 @@
 {
-    "scientificName": "Senegalia chundra (Roxb. ex Rottler) Maslin",
-    "synonyms": [
-        "Acacia catechu Brandis",
-        "Acacia catechu subsp. sundra (Roxb.) Roberty",
-        "Acacia catechu var. sundra (Roxb.) Kurz",
-        "Acacia chundra (Roxb. ex Rottler) Willd.",
-        "Acacia sandra Bedd.",
-        "Acacia sundra (Roxb.) DC.",
-        "Mimosa chundra Roxb. ex Rottler",
-        "Mimosa sundra Roxb."
-    ],
-    "familyName": "FABACEAE",
-    "englishNames": [
-        "Red Cutch"
-    ],
-    "sinhalaName": "Rath kihiriya (රත් කිහිරිය)",
-    "description": "",
-    "treatments": [
-        {
-            "treatment": "Diarrhea",
-            "sinhala": "අතීසාරය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Worm infestation",
-            "sinhala": "පණු රෝග",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Eczema",
-            "sinhala": "දද (එක්සීමා)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Insanity",
-            "sinhala": "උන්මාදය (චිත්ත විකෘතිය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Poisoning",
-            "sinhala": "විෂ වීම (විෂ ශරීරගත වීම)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Stomatitis",
-            "sinhala": "මුඛ ප්‍රදාහය",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Acne",
-            "sinhala": "කුරුලෑ",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Dermatitis",
-            "sinhala": "චර්ම ප්‍රදාහය (සමේ ප්‍රදාහය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Psoriasis",
-            "sinhala": "සොරායසිස් (පොතු කබර රෝගය)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Bleeding Gums",
-            "sinhala": "විදුරුමස්වලින් ලේ ගැලීම (දන්ත රක්තපිත්ත)",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Boils and Abscesses",
-            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Abscesses",
-            "sinhala": "සැරව ගෙඩි",
-            "procedure": "",
-            "links": []
-        },
-        {
-            "treatment": "Mouth Ulcers",
-            "sinhala": "මුඛයේ ඇතිවන වණ (මුඛ පාක)",
-            "procedure": "",
-            "links": []
-        }
-    ],
-    "partsUsed": [
-        "Heartwood"
-    ],
-    "images": []
+  "scientificName": "Senegalia chundra (Roxb. ex Rottler) Maslin",
+  "synonyms": [
+    "Acacia catechu Brandis",
+    "Acacia catechu subsp. sundra (Roxb.) Roberty",
+    "Acacia catechu var. sundra (Roxb.) Kurz",
+    "Acacia chundra (Roxb. ex Rottler) Willd.",
+    "Acacia sandra Bedd.",
+    "Acacia sundra (Roxb.) DC.",
+    "Mimosa chundra Roxb. ex Rottler",
+    "Mimosa sundra Roxb."
+  ],
+  "familyName": "FABACEAE",
+  "englishNames": [
+    "Red Cutch"
+  ],
+  "sinhalaName": "Rath kihiriya (රත් කිහිරිය)",
+  "description": "",
+  "treatments": [
+    {
+      "treatment": "Diarrhea",
+      "sinhala": "අතීසාරය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Worm infestation",
+      "sinhala": "පණු රෝග",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Gastrointestinal & Digestive Disorders",
+        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Eczema",
+      "sinhala": "දද (එක්සීමා)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Insanity",
+      "sinhala": "උන්මාදය (චිත්ත විකෘතිය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Nervous System & Mental Health Disorders",
+        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+      }
+    },
+    {
+      "treatment": "Poisoning",
+      "sinhala": "විෂ වීම (විෂ ශරීරගත වීම)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Toxicology, Bites & Poisonings",
+        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+      }
+    },
+    {
+      "treatment": "Stomatitis",
+      "sinhala": "මුඛ ප්‍රදාහය",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dental & Oral Cavity Diseases",
+        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Acne",
+      "sinhala": "කුරුලෑ",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Dermatitis",
+      "sinhala": "චර්ම ප්‍රදාහය (සමේ ප්‍රදාහය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Psoriasis",
+      "sinhala": "සොරායසිස් (පොතු කබර රෝගය)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Bleeding Gums",
+      "sinhala": "විදුරුමස්වලින් ලේ ගැලීම (දන්ත රක්තපිත්ත)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dental & Oral Cavity Diseases",
+        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+      }
+    },
+    {
+      "treatment": "Boils and Abscesses",
+      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Abscesses",
+      "sinhala": "සැරව ගෙඩි",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dermatological & Skin Conditions",
+        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+      }
+    },
+    {
+      "treatment": "Mouth Ulcers",
+      "sinhala": "මුඛයේ ඇතිවන වණ (මුඛ පාක)",
+      "procedure": "",
+      "links": [],
+      "mainCategory": {
+        "english": "Dental & Oral Cavity Diseases",
+        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+      }
+    }
+  ],
+  "partsUsed": [
+    "Heartwood"
+  ],
+  "images": []
 }
