@@ -1,163 +1,306 @@
 {
-  "scientificName": "Flacourtia indica (Burm.f.) Merr.",
-  "synonyms": [
-    "Flacourtia afra Pic.Serm.",
-    "Flacourtia balansae Gagnep.",
-    "Flacourtia elliptica (Tul.) Warb.",
-    "Flacourtia frondosa Clos",
-    "Flacourtia gambecola Clos",
-    "Flacourtia heterophylla Turcz.",
-    "Flacourtia hilsenbergii C.Presl",
-    "Flacourtia hirtiuscula Oliv.",
-    "Flacourtia indica var. innocua (Haines) H.O.Saxena & Brahmam",
-    "Flacourtia kirkiana H.M.Gardner",
-    "Flacourtia lenis Craib",
-    "Flacourtia lucida Salisb.",
-    "Flacourtia obcordata Roxb.",
-    "Flacourtia parvifolia Merr.",
-    "Flacourtia perrottetiana Clos",
-    "Flacourtia ramontchi var. renvoizei Fosberg",
-    "Flacourtia rotundifolia Clos",
-    "Flacourtia rotundifolia Roxb.",
-    "Flacourtia sapida Roxb.",
-    "Flacourtia sepiaria Roxb.",
-    "Flacourtia sepiaria var. innocua Haines",
-    "Flacourtia thorelii Gagnep.",
-    "Myroxylon dicline Blanco",
-    "Stigmarota africana Lour.",
-    "Stigmarota edulis Blanco",
-    "Xylosma elliptica Tul."
-  ],
-  "familyName": "SALICACEAE",
-  "englishNames": [
-    "Governor's Plum",
-    "Indian Plum",
-    "Madagascar Plum"
-  ],
-  "sinhalaName": "Uguressa (උගුරැස්ස)",
-  "description": "පඳුරක් හෝ ගසක්, සාමාන්‍යයෙන් කටු සහිත, මීටර් 2-10 (-15) ක් උසය. පත්‍ර රතු හෝ රෝස පැහැතිය, දිග සෙන්ටිමීටර 2.5-12 (-16) ක් සහ පළල සෙන්ටිමීටර 1.2-8 ක් වේ; පත්‍ර වෘන්තය (petiole) සෙන්ටිමීටර 0.3-2 ක් දිගය. මල් ඒකලිංගික වන අතර සෙන්ටිමීටර 0.5-2 ක් දිගු මල් පොකුරු (racemes) ලෙස පිහිටයි. පලතුර ගෝලාකාර (globular) වේ, ඉදුණු විට රතු පැහැයේ සිට රතු-කළු හෝ දම් පැහැයට හුරු වේ, මාංසල (fleshy) වේ, විෂ්කම්භය සෙන්ටිමීටර 2.5 දක්වා වන අතර, නොනැසී පවතින රූපක (persistent styles) සහිතය, බීජ 10 ක් දක්වා අඩංගු වේ. බීජ 5-8 ක් පවතී, දිග මිලිමීටර 8-10 ක් සහ පළල මිලිමීටර 4-7 ක් වන අතර, ලා දුඹුරු පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Hoarseness of Voice",
-      "sinhala": "කටහඬ බැරැන්ඩි වීම (ස්වරභේද)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Flacourtia indica (Burm.f.) Merr.",
+    "synonyms": [
+        "Flacourtia afra Pic.Serm.",
+        "Flacourtia balansae Gagnep.",
+        "Flacourtia elliptica (Tul.) Warb.",
+        "Flacourtia frondosa Clos",
+        "Flacourtia gambecola Clos",
+        "Flacourtia heterophylla Turcz.",
+        "Flacourtia hilsenbergii C.Presl",
+        "Flacourtia hirtiuscula Oliv.",
+        "Flacourtia indica var. innocua (Haines) H.O.Saxena & Brahmam",
+        "Flacourtia kirkiana H.M.Gardner",
+        "Flacourtia lenis Craib",
+        "Flacourtia lucida Salisb.",
+        "Flacourtia obcordata Roxb.",
+        "Flacourtia parvifolia Merr.",
+        "Flacourtia perrottetiana Clos",
+        "Flacourtia ramontchi var. renvoizei Fosberg",
+        "Flacourtia rotundifolia Clos",
+        "Flacourtia rotundifolia Roxb.",
+        "Flacourtia sapida Roxb.",
+        "Flacourtia sepiaria Roxb.",
+        "Flacourtia sepiaria var. innocua Haines",
+        "Flacourtia thorelii Gagnep.",
+        "Myroxylon dicline Blanco",
+        "Stigmarota africana Lour.",
+        "Stigmarota edulis Blanco",
+        "Xylosma elliptica Tul."
+    ],
+    "familyName": "SALICACEAE",
+    "englishNames": [
+        "Governor's Plum",
+        "Indian Plum",
+        "Madagascar Plum"
+    ],
+    "sinhalaName": "Uguressa (උගුරැස්ස)",
+    "description": "පඳුරක් හෝ ගසක්, සාමාන්‍යයෙන් කටු සහිත, මීටර් 2-10 (-15) ක් උසය. පත්‍ර රතු හෝ රෝස පැහැතිය, දිග සෙන්ටිමීටර 2.5-12 (-16) ක් සහ පළල සෙන්ටිමීටර 1.2-8 ක් වේ; පත්‍ර වෘන්තය (petiole) සෙන්ටිමීටර 0.3-2 ක් දිගය. මල් ඒකලිංගික වන අතර සෙන්ටිමීටර 0.5-2 ක් දිගු මල් පොකුරු (racemes) ලෙස පිහිටයි. පලතුර ගෝලාකාර (globular) වේ, ඉදුණු විට රතු පැහැයේ සිට රතු-කළු හෝ දම් පැහැයට හුරු වේ, මාංසල (fleshy) වේ, විෂ්කම්භය සෙන්ටිමීටර 2.5 දක්වා වන අතර, නොනැසී පවතින රූපක (persistent styles) සහිතය, බීජ 10 ක් දක්වා අඩංගු වේ. බීජ 5-8 ක් පවතී, දිග මිලිමීටර 8-10 ක් සහ පළල මිලිමීටර 4-7 ක් වන අතර, ලා දුඹුරු පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Hoarseness of Voice",
+            "sinhala": "කටහඬ බැරැන්ඩි වීම (ස්වරභේද)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Rheumatic Disorders",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tuberculosis (Phthisis)",
+            "sinhala": "ක්ෂය රෝගය (රාජයක්ෂ්ම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nausea and Vomiting",
+            "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "3241",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/8LyFt4sB/plant00684-03241.jpg"
+        },
+        {
+            "image_id": "3242",
+            "caption": "Under Side of Leaves  (PMR)",
+            "url": "https://i.ibb.co/4wynmt6B/plant00684-03242.jpg"
+        },
+        {
+            "image_id": "3243",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/XZrQZk2B/plant00684-03243.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Governor's Plum Benefits : උගුරැස්ස කෑවම වෙන දේ",
+                "url": "https://youtube.com/watch?v=ErlVygF6r58",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/ErlVygF6r58/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස ගස් වල ගෙඩි නැද්ද? | uguressa | Ceylon Agri Episode 408",
+                "url": "https://youtube.com/watch?v=I3lTc5V4Xlo",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/I3lTc5V4Xlo/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වල විශ්මිත ගුණ. Ugurassa fruit.",
+                "url": "https://youtube.com/watch?v=aW2FO176HVU",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/aW2FO176HVU/hq720.jpg"
+            },
+            {
+                "title": "මේ Video එක බැලුවට පස්සෙ උගුරැස්ස හොය හොයා කයි / අෂ්ඨපාන වලින් එකක් වන උගුරැස්ස වල විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=CYnNC24N6J8",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/CYnNC24N6J8/hq720.jpg"
+            },
+            {
+                "title": "118 ඇපල් වගේ ගෙඩි මවන යෝධ උගුරැස්ස පෝච්චියක වවමු Sri Lankan Plum or Cherries",
+                "url": "https://youtube.com/watch?v=5FcznG-9UCU",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/5FcznG-9UCU/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා රෝගීන්ට දිව්‍යමය ඔසුවක් වූ උගුරැස්ස | Uguressa | උගුරැස්ස",
+                "url": "https://youtube.com/watch?v=pOPg4N_DDzU",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/pOPg4N_DDzU/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වලට කම්බියක් ගැට ගහලා ඵලදාව ගන්න පුළුවන්ද ? Ceylon Agri | Episode 179",
+                "url": "https://youtube.com/watch?v=tY09N4eROsA",
+                "duration": "17:56",
+                "thumbnail": "https://i.ytimg.com/vi/tY09N4eROsA/hq720.jpg"
+            },
+            {
+                "title": "Governor's Plum Benefits : උගුරැස්ස කෑවම වෙන දේ",
+                "url": "https://youtube.com/watch?v=eJdJoHjBpAc",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/eJdJoHjBpAc/frame0.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වල ඖෂධීය වැදගත්කම : ආයුර්වේද වෛද්‍ය තාරක සමන්ත ශ්‍රී මහතා ගේ විවරණය",
+                "url": "https://youtube.com/watch?v=DneQ-Mpd2q8",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/DneQ-Mpd2q8/hq720.jpg"
+            },
+            {
+                "title": "ugurassa | දියවැඩියාවට සුව සලසන උගුරැස්ස| හදවතට ඔසු | @osu-1380",
+                "url": "https://youtube.com/watch?v=QzMOj4OHYHg",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/QzMOj4OHYHg/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වල ඇති ඖෂධීය ගුණ 😱😱",
+                "url": "https://youtube.com/watch?v=hTSranxw5Ro",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/hTSranxw5Ro/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා දැවිල්ලට සහ තවත් රෝග රැසකට ගුණ දෙන උගුරැස්ස | ugurassa | කටුලොවි🍒",
+                "url": "https://youtube.com/watch?v=UfPyWIyYVaE",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/UfPyWIyYVaE/hqdefault.jpg"
+            },
+            {
+                "title": "සර්ප විෂ පවා නසන උගුරැස්ස ශාකයේ විශ්මිත ඖෂධීය ගුණ | Ugurassa | flacourtia indica benefits🌿",
+                "url": "https://youtube.com/watch?v=bTyObV-6jkI",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/bTyObV-6jkI/hqdefault.jpg"
+            },
+            {
+                "title": "✔ මතකය වැඩි කරන,ගැස්ට්‍රයිටිස්ට් සුවයට උගුරැස්ස Governor's plum for gastritis cure by Apé Amma",
+                "url": "https://youtube.com/watch?v=m6H7mQ_LSRA",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/m6H7mQ_LSRA/hq720.jpg"
+            },
+            {
+                "title": "Interesting And Important About Uguressa Fruit ( උගුරැස්ස පලතුරේ රසවත් සහ වැදගත් කරුනු )",
+                "url": "https://youtube.com/watch?v=W7_T8k21s8o",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/W7_T8k21s8o/hq720.jpg"
+            },
+            {
+                "title": "Uguressa Tree / උගුරැස්ස ශාකය /Governer's Plum",
+                "url": "https://youtube.com/watch?v=Hp3edA4N754",
+                "duration": "3:25",
+                "thumbnail": "https://i.ytimg.com/vi/Hp3edA4N754/hqdefault.jpg"
+            },
+            {
+                "title": "උගුරැස්ස, කටුලොවි, Flacourtia, Uguressa, Katulovi",
+                "url": "https://youtube.com/watch?v=cjUkRqhzTgA",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/cjUkRqhzTgA/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව තියන කෙනෙක් උගුරැස්ස කෑවොත්? | Uguressa | Ceylon Green Market",
+                "url": "https://youtube.com/watch?v=0vnAwd22VsQ",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/0vnAwd22VsQ/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස ශාකයක නිවැරදි කප්පාදුව | How to prune Uguressa trees |Agri Life with Dilupa Akalanka",
+                "url": "https://youtube.com/watch?v=cpoTrm3lw9Q",
+                "duration": "9:55",
+                "thumbnail": "https://i.ytimg.com/vi/cpoTrm3lw9Q/hqdefault.jpg"
+            },
+            {
+                "title": "ශරීර ප්‍රතිශක්තිය වැඩි කරන උගුරැස්ස I Dr. Swarna Hapuarachchi I Ayurweda Prathikara I 2021.07.12",
+                "url": "https://youtube.com/watch?v=wVPEvBfG1zw",
+                "duration": "44:01",
+                "thumbnail": "https://i.ytimg.com/vi/wVPEvBfG1zw/hq720.jpg"
+            },
+            {
+                "title": "ආයුෂ වඩන පළතුර | වසරපුරා ගෙඩි ගන්න | Uguressa Wagawa | Ceylon Agri | Episode 210",
+                "url": "https://youtube.com/watch?v=5dv47O5zWO8",
+                "duration": "13:26",
+                "thumbnail": "https://i.ytimg.com/vi/5dv47O5zWO8/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ පිරි උගුරැස්ස | ගන්නොරුව උගුරැස්ස | බතලවත්ත යාය ගොවිපල | Agri Life with Dilupa Akalanka",
+                "url": "https://youtube.com/watch?v=j_NxHxlo_js",
+                "duration": "7:14",
+                "thumbnail": "https://i.ytimg.com/vi/j_NxHxlo_js/hq720.jpg"
+            },
+            {
+                "title": "ගහ පිරෙන්න ගෙඩි එන උගුරැස්ස |How to Grow Governor Plum in a Pot | Ceylon Agri | Epi.458",
+                "url": "https://youtube.com/watch?v=whglqK-FhKM",
+                "duration": "5:40",
+                "thumbnail": "https://i.ytimg.com/vi/whglqK-FhKM/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Rheumatic Disorders",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tuberculosis (Phthisis)",
-      "sinhala": "ක්ෂය රෝගය (රාජයක්ෂ්ම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nausea and Vomiting",
-      "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "3241",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/8LyFt4sB/plant00684-03241.jpg"
-    },
-    {
-      "image_id": "3242",
-      "caption": "Under Side of Leaves  (PMR)",
-      "url": "https://i.ibb.co/4wynmt6B/plant00684-03242.jpg"
-    },
-    {
-      "image_id": "3243",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/XZrQZk2B/plant00684-03243.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

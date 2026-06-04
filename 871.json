@@ -1,211 +1,396 @@
 {
-  "scientificName": "Ficus racemosa L.",
-  "synonyms": [
-    "Covellia glomerata (Roxb.) Miq.",
-    "Covellia lanceolata (Buch.-Ham. ex Roxb.) Miq.",
-    "Covellia mollis Miq.",
-    "Ficus acidula King",
-    "Ficus chittagonga Miq.",
-    "Ficus glomerata Roxb.",
-    "Ficus glomerata var. chittagonga (Miq.) King",
-    "Ficus glomerata var. elongata King",
-    "Ficus glomerata var. miquelii King",
-    "Ficus glomerata var. mollis (Miq.) King",
-    "Ficus goolereea Roxb.",
-    "Ficus henrici King",
-    "Ficus lanceolata Buch.-Ham. ex Roxb.",
-    "Ficus leucocarpa (Miq.) Miq.",
-    "Ficus lucescens Blume",
-    "Ficus mollis (Miq.) Miq.",
-    "Ficus racemosa var. elongata (King) M.F.Barrett",
-    "Ficus racemosa var. miquelii (King) Corner",
-    "Ficus racemosa var. mollis (Miq.) M.F.Barrett",
-    "Ficus racemosa var. vesca (F.Muell. ex Miq.) M.F.Barrett",
-    "Ficus semicostata F.M.Bailey",
-    "Ficus trichocarpa f. glabrescens Engl.",
-    "Ficus vesca F.Muell. ex Miq.",
-    "Urostigma leucocarpum Miq.",
-    "Urostigma lucescens (Blume) Miq."
-  ],
-  "familyName": "MORACEAE",
-  "englishNames": [
-    "Cluster Fig"
-  ],
-  "sinhalaName": "Attikka (අට්ටික්කා)",
-  "description": "මීටර් 30ක් පමණ උසැති, කඳ පාමුල පුවරු මුල් (buttressed) සහිත, විටෙක පත්‍ර හැලෙන ගසකි. උප පත්‍ර (stipules) මි.මී. 12ක් පමණ දිග වන අතර, අංකුර විවෘත වන විට මි.මී. 30ක් පමණ දිග වේ. පත්‍ර තලය (lamina) සෙන්ටිමීටර 6-19 x 3.5-8.5 වේ; පත්‍ර වෘන්තය (petiole) මි.මී. 15-70ක් දිගය. අත්තික්කා ගෙඩි ප්‍රධාන අතු සහ කඳ මත විශාල පොකුරු ලෙස හටගනී; ඒවා සෙන්ටිමීටර 25ක් පමණ දිග, පාමුල සෙන්ටිමීටර 2.5ක් ඝනකම ඇති, පත්‍ර රහිත අතු මත පිහිටා ඇති අතර ඉදුණු විට රෝස-රතු පැහැ ගනී; ගෙඩියේ දේහය මි.මී. 20-30ක් පළල වේ (ජීවී තත්ත්වයේදී මි.මී. 35-50). පිරිමි මල් අස්ථි මුව දොර (ostiolar) ආශ්‍රිතව වළලු 2-3ක පිහිටා ඇති අතර වෘන්ත රහිත (sessile) වේ. පිත්ත මල් (gall-flowers) දිගු වෘන්ත සහිත වේ. ගැහැණු මල් වෘන්ත රහිත වන අතර රතු පැහැති ලප සහිතය. පත්‍ර තලයෙහි සිස්ටොලිත (cystoliths) දක්නට ලැබෙන්නේ යටි පැත්තේ පමණි.",
-  "treatments": [
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Ficus racemosa L.",
+    "synonyms": [
+        "Covellia glomerata (Roxb.) Miq.",
+        "Covellia lanceolata (Buch.-Ham. ex Roxb.) Miq.",
+        "Covellia mollis Miq.",
+        "Ficus acidula King",
+        "Ficus chittagonga Miq.",
+        "Ficus glomerata Roxb.",
+        "Ficus glomerata var. chittagonga (Miq.) King",
+        "Ficus glomerata var. elongata King",
+        "Ficus glomerata var. miquelii King",
+        "Ficus glomerata var. mollis (Miq.) King",
+        "Ficus goolereea Roxb.",
+        "Ficus henrici King",
+        "Ficus lanceolata Buch.-Ham. ex Roxb.",
+        "Ficus leucocarpa (Miq.) Miq.",
+        "Ficus lucescens Blume",
+        "Ficus mollis (Miq.) Miq.",
+        "Ficus racemosa var. elongata (King) M.F.Barrett",
+        "Ficus racemosa var. miquelii (King) Corner",
+        "Ficus racemosa var. mollis (Miq.) M.F.Barrett",
+        "Ficus racemosa var. vesca (F.Muell. ex Miq.) M.F.Barrett",
+        "Ficus semicostata F.M.Bailey",
+        "Ficus trichocarpa f. glabrescens Engl.",
+        "Ficus vesca F.Muell. ex Miq.",
+        "Urostigma leucocarpum Miq.",
+        "Urostigma lucescens (Blume) Miq."
+    ],
+    "familyName": "MORACEAE",
+    "englishNames": [
+        "Cluster Fig"
+    ],
+    "sinhalaName": "Attikka (අට්ටික්කා)",
+    "description": "මීටර් 30ක් පමණ උසැති, කඳ පාමුල පුවරු මුල් (buttressed) සහිත, විටෙක පත්‍ර හැලෙන ගසකි. උප පත්‍ර (stipules) මි.මී. 12ක් පමණ දිග වන අතර, අංකුර විවෘත වන විට මි.මී. 30ක් පමණ දිග වේ. පත්‍ර තලය (lamina) සෙන්ටිමීටර 6-19 x 3.5-8.5 වේ; පත්‍ර වෘන්තය (petiole) මි.මී. 15-70ක් දිගය. අත්තික්කා ගෙඩි ප්‍රධාන අතු සහ කඳ මත විශාල පොකුරු ලෙස හටගනී; ඒවා සෙන්ටිමීටර 25ක් පමණ දිග, පාමුල සෙන්ටිමීටර 2.5ක් ඝනකම ඇති, පත්‍ර රහිත අතු මත පිහිටා ඇති අතර ඉදුණු විට රෝස-රතු පැහැ ගනී; ගෙඩියේ දේහය මි.මී. 20-30ක් පළල වේ (ජීවී තත්ත්වයේදී මි.මී. 35-50). පිරිමි මල් අස්ථි මුව දොර (ostiolar) ආශ්‍රිතව වළලු 2-3ක පිහිටා ඇති අතර වෘන්ත රහිත (sessile) වේ. පිත්ත මල් (gall-flowers) දිගු වෘන්ත සහිත වේ. ගැහැණු මල් වෘන්ත රහිත වන අතර රතු පැහැති ලප සහිතය. පත්‍ර තලයෙහි සිස්ටොලිත (cystoliths) දක්නට ලැබෙන්නේ යටි පැත්තේ පමණි.",
+    "treatments": [
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Menorrhagia",
+            "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Polydipsia",
+            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Rectal Prolapse",
+            "sinhala": "ගුද මාර්ගය පිටතට පැමිණීම (ගුද භ්‍රංශය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Oral Diseases",
+            "sinhala": "මුඛය ආශ්‍රිත රෝග (මුඛ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark",
+        "Leaves",
+        "Fruit"
+    ],
+    "images": [
+        {
+            "image_id": "343",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/RTTxHwPb/plant00871-00343.jpg"
+        },
+        {
+            "image_id": "344",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/7t119kTJ/plant00871-00344.jpg"
+        },
+        {
+            "image_id": "3781",
+            "caption": "Young Fruits (PMR)",
+            "url": "https://i.ibb.co/WW8tmmCF/plant00871-03781.jpg"
+        },
+        {
+            "image_id": "3782",
+            "caption": "Mature Fruits (PMR)",
+            "url": "https://i.ibb.co/Wp5Dhzzr/plant00871-03782.jpg"
+        },
+        {
+            "image_id": "3783",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/sdgnM3HZ/plant00871-03783.jpg"
+        },
+        {
+            "image_id": "3784",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/0VrcYWHJ/plant00871-03784.jpg"
+        },
+        {
+            "image_id": "3785",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/dwrx7C9Q/plant00871-03785.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මොනවද මේ අට්ටික්කා හෙවත් දිඹුල් කියන්නේ..",
+                "url": "https://youtube.com/watch?v=On71o0pVc5g",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/On71o0pVc5g/hq720.jpg"
+            },
+            {
+                "title": "වල් අට්ටික්කා නොහොත් කොට ඩිම්බුල ගසේ ගුණ බලය | Kotadimbula | Ficus Hispida | Hairy Fig | wal attikka",
+                "url": "https://youtube.com/watch?v=yE9OCacTNUU",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/yE9OCacTNUU/hq720.jpg"
+            },
+            {
+                "title": "ගමේ හදන අට්ටික්කා ගෙඩි ඇඹුල . Cluster fig curry.",
+                "url": "https://youtube.com/watch?v=2XijRrKAU6E",
+                "duration": "8:09",
+                "thumbnail": "https://i.ytimg.com/vi/2XijRrKAU6E/hq720.jpg"
+            },
+            {
+                "title": "අට්ටික්කා ශාකය",
+                "url": "https://youtube.com/watch?v=zCzaeKpcoNg",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/zCzaeKpcoNg/hq720.jpg"
+            },
+            {
+                "title": "Attikka / අට්ටික්කා - Thunkal U Tv",
+                "url": "https://youtube.com/watch?v=KETbo_Zh-2g",
+                "duration": "8:07",
+                "thumbnail": "https://i.ytimg.com/vi/KETbo_Zh-2g/hq720.jpg"
+            },
+            {
+                "title": "අට්ටික්කා ගහේ මල් | FG music",
+                "url": "https://youtube.com/watch?v=qvlRII3x_nk",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/qvlRII3x_nk/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ අට්ටික්කා ගෙඩි මැල්ලුම",
+                "url": "https://youtube.com/watch?v=v_EW7eAcw6c",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/v_EW7eAcw6c/hqdefault.jpg"
+            },
+            {
+                "title": "ගෙඩිය ඇතුලේ සතෙක් ඉන්න පළතුරක් \" මේක බෙහෙතක් \"  / Ayurvedic medicines @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=QKv-W4Wo-cY",
+                "duration": "6:52",
+                "thumbnail": "https://i.ytimg.com/vi/QKv-W4Wo-cY/hq720.jpg"
+            },
+            {
+                "title": "හදවත් රෝග වලක්වන, දියවැඩියාවට ගුණ විශ්මිත පළතුර | How to plant Fig Tres | Ceylon Agri | Episode 217",
+                "url": "https://youtube.com/watch?v=TfW-9GFznHs",
+                "duration": "17:15",
+                "thumbnail": "https://i.ytimg.com/vi/TfW-9GFznHs/hq720.jpg"
+            },
+            {
+                "title": "මුඛ රෝග නසන අට්ටික්කා - Ficus racemosa",
+                "url": "https://youtube.com/watch?v=3L80xjlIRVI",
+                "duration": "6:29",
+                "thumbnail": "https://i.ytimg.com/vi/3L80xjlIRVI/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා සහ අර්ශස් රෝගීන්ට නැතුවම බැරි තුන්දොස් සමනය කරන අට්ටික්කා ශාකය",
+                "url": "https://youtube.com/watch?v=RYe9iHWA7Gw",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/RYe9iHWA7Gw/hq720.jpg"
+            },
+            {
+                "title": "\"Vietnamese Bonsai Artistry: Fusing Nature and Culture\" වියට්නාමයේ පොච්චිවල හිටවන අට්ටික්කා/බොන්සායි",
+                "url": "https://youtube.com/watch?v=idnkZ9F_hoQ",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/idnkZ9F_hoQ/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට ගුණ දෙන අට්ටික්කා ව්‍යංජනය | Attikka curry is beneficial for diabetes #foodrecipe #news",
+                "url": "https://youtube.com/watch?v=A7NNkm5DcqY",
+                "duration": "8:12",
+                "thumbnail": "https://i.ytimg.com/vi/A7NNkm5DcqY/hq720.jpg"
+            },
+            {
+                "title": "අට්ටික්කා ගහකට නිවැරදි බොන්සායි පුහුනුව හා අතු කප්පාදුව..***..how to meke a attikka bonsai tree..*..",
+                "url": "https://youtube.com/watch?v=rzS9VGLASP0",
+                "duration": "10:05",
+                "thumbnail": "https://i.ytimg.com/vi/rzS9VGLASP0/hq720.jpg"
+            },
+            {
+                "title": "අට්ටික්කා (Atticka)වල ඖෂධීය ගුණ 😱😱😱",
+                "url": "https://youtube.com/watch?v=MKgjPaM8Zjk",
+                "duration": "8:50",
+                "thumbnail": "https://i.ytimg.com/vi/MKgjPaM8Zjk/hq720.jpg"
+            },
+            {
+                "title": "රහස් පලාව | කවුරුත් භාවිතාවට නොගන්නා පලාවක්  | අත්තික්කා වල ගුණ",
+                "url": "https://youtube.com/watch?v=6AnI_jkTa3I",
+                "duration": "11:46",
+                "thumbnail": "https://i.ytimg.com/vi/6AnI_jkTa3I/hqdefault.jpg"
+            },
+            {
+                "title": "අත්තික්කා වල ඹෟෂදීය ගුණ",
+                "url": "https://youtube.com/watch?v=Les4XJyLsPE",
+                "duration": "7:18",
+                "thumbnail": "https://i.ytimg.com/vi/Les4XJyLsPE/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට මහඟු ගුණ අට්ටික්කා",
+                "url": "https://youtube.com/watch?v=byUoI0FoodY",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/byUoI0FoodY/hq720.jpg"
+            },
+            {
+                "title": "අට්ටික්කා ශාකයේ වැදගත්කම ඔබ දන්නවද?   fig",
+                "url": "https://youtube.com/watch?v=AUPcDkfTVyI",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/AUPcDkfTVyI/hqdefault.jpg"
+            },
+            {
+                "title": "අත්තික්කා ශාකයේ වටිනාකම ගැන මේ දේවල් ඔබ දන්නවාද.?",
+                "url": "https://youtube.com/watch?v=2LHfxYfL_dM",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/2LHfxYfL_dM/hq720.jpg"
+            },
+            {
+                "title": "#අට්ටික්කා ගසේ බලය | Power of Attikka tree | village power",
+                "url": "https://youtube.com/watch?v=oMk4z2g3hZI",
+                "duration": "6:27",
+                "thumbnail": "https://i.ytimg.com/vi/oMk4z2g3hZI/hq720.jpg"
+            },
+            {
+                "title": "අත්තික්කා ශාකය | පූජනීය ලෝකය | Episode 01",
+                "url": "https://youtube.com/watch?v=szntYWqytbQ",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/szntYWqytbQ/hq720.jpg"
+            },
+            {
+                "title": "අත්තික්කා පොල් මැල්ලුම / Cluster Fig Coconut Mallum / එකපාරක් කෑවොත් වෙන දේ / අට්ටික්කා/කෝඳුරු ගෙඩි",
+                "url": "https://youtube.com/watch?v=20oSIgZD63o",
+                "duration": "6:54",
+                "thumbnail": "https://i.ytimg.com/vi/20oSIgZD63o/hq720.jpg"
+            },
+            {
+                "title": "අත්තික්කා දළු මැල්ලුම්, atticca dalu, aththikka dalu mallum, attikka dalu mallum, cluster fig leaves",
+                "url": "https://youtube.com/watch?v=2ZBAib6iAzg",
+                "duration": "3:46",
+                "thumbnail": "https://i.ytimg.com/vi/2ZBAib6iAzg/hq720.jpg"
+            },
+            {
+                "title": "ඉතාම වටිනා ඖෂධීය ශාකයක් අට්ටික්කා | Attikka | Ficus racemosa | MORACEAE | Cluster Fig",
+                "url": "https://youtube.com/watch?v=WHNaE5ukIpg",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/WHNaE5ukIpg/hq720.jpg"
+            },
+            {
+                "title": "Attikka අට්ටික්කා அத்தி",
+                "url": "https://youtube.com/watch?v=iO3_P8vyOJc",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/iO3_P8vyOJc/hq720.jpg"
+            },
+            {
+                "title": "phanika කොට ඉඹුල. කොට කිඹුලා. වල් අට්ටික්කා.හඳුනා ගන්න මේ බෙහෙත් පැලය අට්ටික්කා නෙවෙයි. හඳුනා ගන්න.",
+                "url": "https://youtube.com/watch?v=JS_JW-ZDKrM",
+                "duration": "9:02",
+                "thumbnail": "https://i.ytimg.com/vi/JS_JW-ZDKrM/hqdefault.jpg"
+            },
+            {
+                "title": "අත්තික්කා මාලුව/ ඇඹුල / Cluster Fig Curry / එක්වරක්වත් කාලම බලන්න ඕනා රසය / ඇබ්බැහි වෙනසුළුයි ..",
+                "url": "https://youtube.com/watch?v=zfo1zl7qI0I",
+                "duration": "5:49",
+                "thumbnail": "https://i.ytimg.com/vi/zfo1zl7qI0I/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා සහ අර්ශස් රෝගීන්ට නැතුවම බැරි තුන්දොස් සමනය කරන අට්ටික්කා ශාකය",
+                "url": "https://youtube.com/watch?v=63yIX8Mr7NM",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/63yIX8Mr7NM/frame0.jpg"
+            },
+            {
+                "title": "මහසෙන් අරණ Mahasen Arana සියලුම පාදවල වේදනා වලට ,අත්තික්කා ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=iHO593WN-d8",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/iHO593WN-d8/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Menorrhagia",
-      "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Polydipsia",
-      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Rectal Prolapse",
-      "sinhala": "ගුද මාර්ගය පිටතට පැමිණීම (ගුද භ්‍රංශය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Oral Diseases",
-      "sinhala": "මුඛය ආශ්‍රිත රෝග (මුඛ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark",
-    "Leaves",
-    "Fruit"
-  ],
-  "images": [
-    {
-      "image_id": "343",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/RTTxHwPb/plant00871-00343.jpg"
-    },
-    {
-      "image_id": "344",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/7t119kTJ/plant00871-00344.jpg"
-    },
-    {
-      "image_id": "3781",
-      "caption": "Young Fruits (PMR)",
-      "url": "https://i.ibb.co/WW8tmmCF/plant00871-03781.jpg"
-    },
-    {
-      "image_id": "3782",
-      "caption": "Mature Fruits (PMR)",
-      "url": "https://i.ibb.co/Wp5Dhzzr/plant00871-03782.jpg"
-    },
-    {
-      "image_id": "3783",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/sdgnM3HZ/plant00871-03783.jpg"
-    },
-    {
-      "image_id": "3784",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/0VrcYWHJ/plant00871-03784.jpg"
-    },
-    {
-      "image_id": "3785",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/dwrx7C9Q/plant00871-03785.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

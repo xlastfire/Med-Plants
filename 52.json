@@ -1,134 +1,265 @@
 {
-  "scientificName": "Crinum latifolium L.",
-  "synonyms": [
-    "Amaryllis insignis Ker Gawl.",
-    "Amaryllis littoralis Salisb.",
-    "Amaryllis moluccana Ker Gawl.",
-    "Crinum careyanum Herb.",
-    "Crinum cochinchinense M.Roem.",
-    "Crinum esquirolii H.Lév.",
-    "Crinum insigne (Ker Gawl.) Sweet",
-    "Crinum jemenicum Dammann",
-    "Crinum jemense Dammann",
-    "Crinum latifolium var. crilae Tram & Khánh",
-    "Crinum longistylum Herb. ex Steud.",
-    "Crinum moluccanum Roxb. ex Ker Gawl.",
-    "Crinum ornatum subvar. acutior Herb.",
-    "Crinum ornatum var. careyanum (Herb.) Herb.",
-    "Crinum ornatum var. insigne (Ker Gawl.) Herb.",
-    "Crinum ornatum var. latifolium (L.) Herb.",
-    "Crinum ornatum var. longistylum Herb.",
-    "Crinum ornatum var. moluccanum (Roxb. ex Ker Gawl.) Herb.",
-    "Crinum ornatum var. speciosum Herb.",
-    "Crinum speciosum Herb."
-  ],
-  "familyName": "AMARYLLIDACEAE",
-  "englishNames": [
-    "Wild Onion",
-    "Milk and Wine Lily",
-    "Pink-striped Trumpet Lily",
-    "Wide-leaved Pink-striped Trumpet Lily",
-    "Wide-leaved Crinum Lily",
-    "Crinum Lily"
-  ],
-  "sinhalaName": "Goda manel (ගොඩ මානෙල්)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Crinum latifolium L.",
+    "synonyms": [
+        "Amaryllis insignis Ker Gawl.",
+        "Amaryllis littoralis Salisb.",
+        "Amaryllis moluccana Ker Gawl.",
+        "Crinum careyanum Herb.",
+        "Crinum cochinchinense M.Roem.",
+        "Crinum esquirolii H.Lév.",
+        "Crinum insigne (Ker Gawl.) Sweet",
+        "Crinum jemenicum Dammann",
+        "Crinum jemense Dammann",
+        "Crinum latifolium var. crilae Tram & Khánh",
+        "Crinum longistylum Herb. ex Steud.",
+        "Crinum moluccanum Roxb. ex Ker Gawl.",
+        "Crinum ornatum subvar. acutior Herb.",
+        "Crinum ornatum var. careyanum (Herb.) Herb.",
+        "Crinum ornatum var. insigne (Ker Gawl.) Herb.",
+        "Crinum ornatum var. latifolium (L.) Herb.",
+        "Crinum ornatum var. longistylum Herb.",
+        "Crinum ornatum var. moluccanum (Roxb. ex Ker Gawl.) Herb.",
+        "Crinum ornatum var. speciosum Herb.",
+        "Crinum speciosum Herb."
+    ],
+    "familyName": "AMARYLLIDACEAE",
+    "englishNames": [
+        "Wild Onion",
+        "Milk and Wine Lily",
+        "Pink-striped Trumpet Lily",
+        "Wide-leaved Pink-striped Trumpet Lily",
+        "Wide-leaved Crinum Lily",
+        "Crinum Lily"
+    ],
+    "sinhalaName": "Goda manel (ගොඩ මානෙල්)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Osteoarthritis",
+            "sinhala": "ඔස්ටියෝ ආතරයිටිස් (සන්ධි ගෙවීම/ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Ear Diseases",
+            "sinhala": "කන් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dysmenorrhea",
+            "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Tubers and leaves"
+    ],
+    "images": [
+        {
+            "image_id": "878",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/bRzwFKKD/plant00052-00878.jpg"
+        },
+        {
+            "image_id": "879",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/dwJ3zcbM/plant00052-00879.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ගොඩ මානෙල්",
+                "url": "https://youtube.com/watch?v=q_VkkEDzNZs",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/q_VkkEDzNZs/hqdefault.jpg"
+            },
+            {
+                "title": "Goda manel ගොඩ මානෙල්",
+                "url": "https://youtube.com/watch?v=KNcK5H7E67o",
+                "duration": "1:24",
+                "thumbnail": "https://i.ytimg.com/vi/KNcK5H7E67o/hq720.jpg"
+            },
+            {
+                "title": "ගොඩ මානෙල් 🪴 Gardening  tricks 😁🌺🪴🥀",
+                "url": "https://youtube.com/watch?v=YsNuLsCYR30",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/YsNuLsCYR30/hq720.jpg"
+            },
+            {
+                "title": "ගොඩ මානෙල්",
+                "url": "https://youtube.com/watch?v=z2EZ1zCJT_s",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/z2EZ1zCJT_s/frame0.jpg"
+            },
+            {
+                "title": "ගොඩ මානෙල් 🪴 Gardening  tricks 😁🌺🪴🥀",
+                "url": "https://youtube.com/watch?v=Muvm6r_jqgo",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/Muvm6r_jqgo/frame0.jpg"
+            },
+            {
+                "title": "How to Hybridizing Water lilies | මානෙල් මල් දෙමුහුන් කරමු",
+                "url": "https://youtube.com/watch?v=QoKmGDaRrAE",
+                "duration": "10:33",
+                "thumbnail": "https://i.ytimg.com/vi/QoKmGDaRrAE/hq720.jpg"
+            },
+            {
+                "title": "බුදුන් පුදන පූජනීය මලේ මෙතරම් ගුණ ඇති බව ඔබ දන්නවාද ? / නිල් මානෙල් / Blue Lotus / Blue Water lily",
+                "url": "https://youtube.com/watch?v=XOMQd_TCHSE",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/XOMQd_TCHSE/hq720.jpg"
+            },
+            {
+                "title": "Dehydrate Blue Lilies ( විජලිත නිල් මානෙල් ) | 2023| @DilProducts",
+                "url": "https://youtube.com/watch?v=fpuN_c0qj7s",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/fpuN_c0qj7s/hqdefault.jpg"
+            },
+            {
+                "title": "මානෙල් මල් මඩ නැතිව සති 2කින් පිපෙන විදිහ 🌸 | Manel Flowers Bloom in 2 Weeks Without Mud",
+                "url": "https://youtube.com/watch?v=YZN01u4B5ug",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/YZN01u4B5ug/hqdefault.jpg"
+            },
+            {
+                "title": "මානෙල් වගාවේ පළිබෝධ හා පිළියම් | Manel roga |water lily flower care |water lily treatment",
+                "url": "https://youtube.com/watch?v=cEUUt0mgGkE",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/cEUUt0mgGkE/hq720.jpg"
+            },
+            {
+                "title": "මානෙල් මල් සුවදින් ම්දුල පුරවමු...life with sula",
+                "url": "https://youtube.com/watch?v=-nytVBWvzVM",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/-nytVBWvzVM/hq720.jpg"
+            },
+            {
+                "title": "manel mal pala wikineemata මානෙල් පැල මල් එක්ක අඩුවටම@malgomuplants #shorts",
+                "url": "https://youtube.com/watch?v=27m-hEGWh9c",
+                "duration": "0:29",
+                "thumbnail": "https://i.ytimg.com/vi/27m-hEGWh9c/hq720.jpg"
+            },
+            {
+                "title": "✔මානෙල් ඇට ස්වභාවික ලෙස පැලවෙන ආකාරය|How to grow waterlily seeds naturally|මානෙල් මල් රහස්",
+                "url": "https://youtube.com/watch?v=CRiX6eUxlUs",
+                "duration": "5:06",
+                "thumbnail": "https://i.ytimg.com/vi/CRiX6eUxlUs/hqdefault.jpg"
+            },
+            {
+                "title": "ඕලු/නෙලුම්/මානෙල් ස්වයං රැකියාවක් ලෙස. මුල සිට සරලව. මේ විදියට හැදුවොත් මාසෙන් මල් ගන්න පුලුවන්.",
+                "url": "https://youtube.com/watch?v=NqKYBRQM_dM",
+                "duration": "9:50",
+                "thumbnail": "https://i.ytimg.com/vi/NqKYBRQM_dM/hq720.jpg"
+            },
+            {
+                "title": "Nil Manel නිල් මානෙල් වගාව ගෙදරදී හරියටම කරමු | Nymphaea Nouchali plant| water lily Sri Lanka",
+                "url": "https://youtube.com/watch?v=2iMjkLelXn8",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/2iMjkLelXn8/hq720.jpg"
+            },
+            {
+                "title": "✔මානෙල් ඇට පැල කරමු| how to grow waterlilies from seeds in Sinhala|manel ata pala karana hati",
+                "url": "https://youtube.com/watch?v=vgg2WmSN2bQ",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/vgg2WmSN2bQ/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා මල් පිපෙන්න මානෙල්, ඔලු මෙහෙම හදන්න - How to perfectly grow water lily in Sinhala",
+                "url": "https://youtube.com/watch?v=9OVRIBQD9Jw",
+                "duration": "6:59",
+                "thumbnail": "https://i.ytimg.com/vi/9OVRIBQD9Jw/hq720.jpg"
+            },
+            {
+                "title": "මහා පරිමාණ මානෙල් වගාවක් හරියටම කරමු / Manel wagawa /Olu wagawa / Nelum wagawa/manel pokunak Arabamu",
+                "url": "https://youtube.com/watch?v=bbnXBDd4JfE",
+                "duration": "22:27",
+                "thumbnail": "https://i.ytimg.com/vi/bbnXBDd4JfE/hq720.jpg"
+            },
+            {
+                "title": "Fertilizers for Lotus & Waterlily ( නෙළුම් මානෙල් සඳහා යොදන පොහොර වර්ග ගැන දැන ගනිමු )",
+                "url": "https://youtube.com/watch?v=AOzILpKOdVg",
+                "duration": "7:46",
+                "thumbnail": "https://i.ytimg.com/vi/AOzILpKOdVg/hq720.jpg"
+            },
+            {
+                "title": "How to plant waterlily |  මානෙල් පැලයක් නිවැරදිව සිටුවමු",
+                "url": "https://youtube.com/watch?v=kX7E4INJz0s",
+                "duration": "13:36",
+                "thumbnail": "https://i.ytimg.com/vi/kX7E4INJz0s/hqdefault.jpg"
+            },
+            {
+                "title": "මානෙල් මේ විදිහට හිටවලා හැමදාම මල් ගන්න | How to perfectly grow water lily",
+                "url": "https://youtube.com/watch?v=h85ZeUios-M",
+                "duration": "6:48",
+                "thumbnail": "https://i.ytimg.com/vi/h85ZeUios-M/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Osteoarthritis",
-      "sinhala": "ඔස්ටියෝ ආතරයිටිස් (සන්ධි ගෙවීම/ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Ear Diseases",
-      "sinhala": "කන් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Dysmenorrhea",
-      "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Tubers and leaves"
-  ],
-  "images": [
-    {
-      "image_id": "878",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/bRzwFKKD/plant00052-00878.jpg"
-    },
-    {
-      "image_id": "879",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/dwJ3zcbM/plant00052-00879.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

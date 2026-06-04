@@ -1,103 +1,564 @@
 {
-  "scientificName": "Cenchrus americanus (L.) Morrone",
-  "synonyms": [
-    "Alopecurus typhoides Burm.f.",
-    "Andropogon racemosus (Forssk.) Poir. ex Steud.",
-    "Cenchrus paniceus B.Heyne ex Wall.",
-    "Cenchrus pycnostachyus Steud.",
-    "Cenchrus spicatus (L.) Cav.",
-    "Chaetochloa glauca (L.) Scribn.",
-    "Chaetochloa lutescens Stuntz",
-    "Chamaeraphis glauca (L.) Kuntze",
-    "Holcus paniciformis Roxb. ex Hook.f.",
-    "Holcus racemosus Forssk.",
-    "Holcus spicatus L.",
-    "Ixophorus glaucus (L.) Nash",
-    "Panicum alopecuroides J.Koenig ex Trin.",
-    "Panicum americanum L.",
-    "Panicum coeruleum Mill.",
-    "Panicum compressum Balb. ex Steud.",
-    "Panicum glaucum L.",
-    "Panicum holcoides Trin.",
-    "Panicum indicum Mill.",
-    "Panicum involucratum Roxb.",
-    "Panicum lutescens Weigel",
-    "Panicum sericeum Aiton",
-    "Panicum spicatum (L.) Roxb.",
-    "Penicillaria arabica A.Braun",
-    "Penicillaria deflexa Andersson ex A.Braun",
-    "Penicillaria elongata Schrad. ex Schltdl.",
-    "Penicillaria indica A.Braun",
-    "Penicillaria involucrata (Roxb.) Schult.",
-    "Penicillaria macrostachya Klotzsch ex A.Braun",
-    "Penicillaria mossambicensis A.Braun",
-    "Penicillaria nigritarum Schltdl.",
-    "Penicillaria plukenetii Link",
-    "Penicillaria roxburghii A.Braun",
-    "Penicillaria solitaria Stokes",
-    "Penicillaria spicata (L.) Willd.",
-    "Penicillaria typhoidea Schltdl.",
-    "Penicillaria willdenowii Klotzsch ex A.Braun",
-    "Pennisetum albicauda Stapf & C.E.Hubb.",
-    "Pennisetum americanum (L.) Leeke",
-    "Pennisetum americanum convar. spicatum (L.) Tzvelev",
-    "Pennisetum americanum convar. typhoides Tzvelev",
-    "Pennisetum americanum f. echinurus (K.Schum.) Leeke",
-    "Pennisetum americanum subsp. spicatum (L.) Maire & Weiller",
-    "Pennisetum americanum subsp. typhoideum Maire & Weiller",
-    "Pennisetum ancylochaete Stapf & C.E.Hubb.",
-    "Pennisetum aureum Link",
-    "Pennisetum cereale Trin.",
-    "Pennisetum cinereum Stapf & C.E.Hubb.",
-    "Pennisetum echinurus (K.Schum.) Stapf & C.E.Hubb.",
-    "Pennisetum gambiense Stapf & C.E.Hubb.",
-    "Pennisetum gibbosum Stapf & C.E.Hubb.",
-    "Pennisetum giganteum Ten. ex Steud.",
-    "Pennisetum glaucum (L.) R.Br.",
-    "Pennisetum indicum A.Braun",
-    "Pennisetum leonis Stapf & C.E.Hubb.",
-    "Pennisetum maiwa Stapf & C.E.Hubb.",
-    "Pennisetum malacochaete Stapf & C.E.Hubb.",
-    "Pennisetum megastachyum Steud.",
-    "Pennisetum nigritarum (Schltdl.) T.Durand & Schinz",
-    "Pennisetum nigritarum var. deflexum (Andersson ex A.Braun) T.Durand & Schinz",
-    "Pennisetum nigritarum var. macrostachyum T.Durand & Schinz",
-    "Pennisetum plukenetii (Link) T.Durand & Schinz",
-    "Pennisetum pycnostachyum Stapf & C.E.Hubb.",
-    "Pennisetum solitarium Stokes",
-    "Pennisetum spicatum (L.) Körn.",
-    "Pennisetum spicatum subsp. willdenowii (Klotzsch ex A.Braun) K.Schum.",
-    "Pennisetum spicatum var. echinurus K.Schum.",
-    "Pennisetum spicatum var. longipedunculatum K.Schum.",
-    "Pennisetum spicatum var. macrostachyum K.Schum.",
-    "Pennisetum spicatum var. typhoideum T.Durand & Schinz",
-    "Pennisetum typhoideum Rich.",
-    "Pennisetum typhoideum var. echinurus (K.Schum.) Rendle",
-    "Pennisetum typhoideum var. plukenetii (Link) Rendle",
-    "Phleum africanum Lour.",
-    "Setaria glauca (L.) P.Beauv.",
-    "Setaria lutescens F.T.Hubb.",
-    "Setaria lutescens var. macrocarpa Hook.f.",
-    "Setaria lutescens var. parviflora Munro ex Hook.f.",
-    "Setaria rufa Chevall.",
-    "Setaria sericea (Aiton) P.Beauv.",
-    "Setariopsis glauca (L.) Samp."
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Pear Millet",
-    "Bulrush Millet",
-    "Indian Millet",
-    "Bulrush Millet",
-    "Cattail Millet",
-    "Horse Millet",
-    "Pearl Millet",
-    "Yellow Bristlegrass"
-  ],
-  "sinhalaName": "Pollu (පොල්ලු)",
-  "description": "වාර්ෂික ශාකයකි. කඳන් කෙලින් පිහිටයි; ශක්තිමත්ය; සෙන්ටිමීටර 150-300ක් දිගය. කඳේ ගැට (nodes) රෝම සහිතය (bearded). පත්‍රිකා පටලය (ligule) රෝම මාලාවකින් සමන්විතය. පත්‍ර තල සෙන්ටිමීටර 50-100ක් දිගය; මිලිමීටර 8-70ක් පළලය. පුෂ්ප මංජරිය (panicle) රේඛීය, ඉලිප්සාකාර හෝ ඩිම්බාකාර (ovate) වේ; සෙන්ටිමීටර 4-200ක් දිගය; සෙන්ටිමීටර 0.8-5.5ක් පළලය. කරල් (spikelets) ආවරණ පත්‍ර වළල්ලකින් (involucre) වටවී ඇත. සරු කරල් වෘන්ත සහිතය; පොකුරකට 1-9 බැගින් පිහිටයි. ආවරණ පත්‍ර වළල්ල කටු වැනි කොටස් වලින් සමන්විතය; ආයතකාරය (oblong); මිලිමීටර 2-7ක් දිගය; පාදම මොට වෘන්ත සහිතය (stipitate) (මිලිමීටර 1.1-25). ආවරණ කටු ස්ථිරව පවතී; බොහෝ සංඛ්‍යාවක් ඇත; පිටතින් සිහින් කටු වළල්ලක් ඇත; ඇතුළත කටු පිටත කටුවලට වඩා දිගුය; දිගම කටුව යන්තමින් පිටතට නෙරා ඇත, නැතහොත් කැපී පෙනෙන ලෙස දිගු එක් කටුවක් ඇත; මිලිමීටර 12-26ක් දිගය; සිලින්ඩරාකාරය (terete); නම්‍යශීලීය; රෝම රහිතය (glabrous) හෝ පක්ෂ්මල (ciliate) වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Cenchrus americanus (L.) Morrone",
+    "synonyms": [
+        "Alopecurus typhoides Burm.f.",
+        "Andropogon racemosus (Forssk.) Poir. ex Steud.",
+        "Cenchrus paniceus B.Heyne ex Wall.",
+        "Cenchrus pycnostachyus Steud.",
+        "Cenchrus spicatus (L.) Cav.",
+        "Chaetochloa glauca (L.) Scribn.",
+        "Chaetochloa lutescens Stuntz",
+        "Chamaeraphis glauca (L.) Kuntze",
+        "Holcus paniciformis Roxb. ex Hook.f.",
+        "Holcus racemosus Forssk.",
+        "Holcus spicatus L.",
+        "Ixophorus glaucus (L.) Nash",
+        "Panicum alopecuroides J.Koenig ex Trin.",
+        "Panicum americanum L.",
+        "Panicum coeruleum Mill.",
+        "Panicum compressum Balb. ex Steud.",
+        "Panicum glaucum L.",
+        "Panicum holcoides Trin.",
+        "Panicum indicum Mill.",
+        "Panicum involucratum Roxb.",
+        "Panicum lutescens Weigel",
+        "Panicum sericeum Aiton",
+        "Panicum spicatum (L.) Roxb.",
+        "Penicillaria arabica A.Braun",
+        "Penicillaria deflexa Andersson ex A.Braun",
+        "Penicillaria elongata Schrad. ex Schltdl.",
+        "Penicillaria indica A.Braun",
+        "Penicillaria involucrata (Roxb.) Schult.",
+        "Penicillaria macrostachya Klotzsch ex A.Braun",
+        "Penicillaria mossambicensis A.Braun",
+        "Penicillaria nigritarum Schltdl.",
+        "Penicillaria plukenetii Link",
+        "Penicillaria roxburghii A.Braun",
+        "Penicillaria solitaria Stokes",
+        "Penicillaria spicata (L.) Willd.",
+        "Penicillaria typhoidea Schltdl.",
+        "Penicillaria willdenowii Klotzsch ex A.Braun",
+        "Pennisetum albicauda Stapf & C.E.Hubb.",
+        "Pennisetum americanum (L.) Leeke",
+        "Pennisetum americanum convar. spicatum (L.) Tzvelev",
+        "Pennisetum americanum convar. typhoides Tzvelev",
+        "Pennisetum americanum f. echinurus (K.Schum.) Leeke",
+        "Pennisetum americanum subsp. spicatum (L.) Maire & Weiller",
+        "Pennisetum americanum subsp. typhoideum Maire & Weiller",
+        "Pennisetum ancylochaete Stapf & C.E.Hubb.",
+        "Pennisetum aureum Link",
+        "Pennisetum cereale Trin.",
+        "Pennisetum cinereum Stapf & C.E.Hubb.",
+        "Pennisetum echinurus (K.Schum.) Stapf & C.E.Hubb.",
+        "Pennisetum gambiense Stapf & C.E.Hubb.",
+        "Pennisetum gibbosum Stapf & C.E.Hubb.",
+        "Pennisetum giganteum Ten. ex Steud.",
+        "Pennisetum glaucum (L.) R.Br.",
+        "Pennisetum indicum A.Braun",
+        "Pennisetum leonis Stapf & C.E.Hubb.",
+        "Pennisetum maiwa Stapf & C.E.Hubb.",
+        "Pennisetum malacochaete Stapf & C.E.Hubb.",
+        "Pennisetum megastachyum Steud.",
+        "Pennisetum nigritarum (Schltdl.) T.Durand & Schinz",
+        "Pennisetum nigritarum var. deflexum (Andersson ex A.Braun) T.Durand & Schinz",
+        "Pennisetum nigritarum var. macrostachyum T.Durand & Schinz",
+        "Pennisetum plukenetii (Link) T.Durand & Schinz",
+        "Pennisetum pycnostachyum Stapf & C.E.Hubb.",
+        "Pennisetum solitarium Stokes",
+        "Pennisetum spicatum (L.) Körn.",
+        "Pennisetum spicatum subsp. willdenowii (Klotzsch ex A.Braun) K.Schum.",
+        "Pennisetum spicatum var. echinurus K.Schum.",
+        "Pennisetum spicatum var. longipedunculatum K.Schum.",
+        "Pennisetum spicatum var. macrostachyum K.Schum.",
+        "Pennisetum spicatum var. typhoideum T.Durand & Schinz",
+        "Pennisetum typhoideum Rich.",
+        "Pennisetum typhoideum var. echinurus (K.Schum.) Rendle",
+        "Pennisetum typhoideum var. plukenetii (Link) Rendle",
+        "Phleum africanum Lour.",
+        "Setaria glauca (L.) P.Beauv.",
+        "Setaria lutescens F.T.Hubb.",
+        "Setaria lutescens var. macrocarpa Hook.f.",
+        "Setaria lutescens var. parviflora Munro ex Hook.f.",
+        "Setaria rufa Chevall.",
+        "Setaria sericea (Aiton) P.Beauv.",
+        "Setariopsis glauca (L.) Samp."
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Pear Millet",
+        "Bulrush Millet",
+        "Indian Millet",
+        "Bulrush Millet",
+        "Cattail Millet",
+        "Horse Millet",
+        "Pearl Millet",
+        "Yellow Bristlegrass"
+    ],
+    "sinhalaName": "Pollu (පොල්ලු)",
+    "description": "වාර්ෂික ශාකයකි. කඳන් කෙලින් පිහිටයි; ශක්තිමත්ය; සෙන්ටිමීටර 150-300ක් දිගය. කඳේ ගැට (nodes) රෝම සහිතය (bearded). පත්‍රිකා පටලය (ligule) රෝම මාලාවකින් සමන්විතය. පත්‍ර තල සෙන්ටිමීටර 50-100ක් දිගය; මිලිමීටර 8-70ක් පළලය. පුෂ්ප මංජරිය (panicle) රේඛීය, ඉලිප්සාකාර හෝ ඩිම්බාකාර (ovate) වේ; සෙන්ටිමීටර 4-200ක් දිගය; සෙන්ටිමීටර 0.8-5.5ක් පළලය. කරල් (spikelets) ආවරණ පත්‍ර වළල්ලකින් (involucre) වටවී ඇත. සරු කරල් වෘන්ත සහිතය; පොකුරකට 1-9 බැගින් පිහිටයි. ආවරණ පත්‍ර වළල්ල කටු වැනි කොටස් වලින් සමන්විතය; ආයතකාරය (oblong); මිලිමීටර 2-7ක් දිගය; පාදම මොට වෘන්ත සහිතය (stipitate) (මිලිමීටර 1.1-25). ආවරණ කටු ස්ථිරව පවතී; බොහෝ සංඛ්‍යාවක් ඇත; පිටතින් සිහින් කටු වළල්ලක් ඇත; ඇතුළත කටු පිටත කටුවලට වඩා දිගුය; දිගම කටුව යන්තමින් පිටතට නෙරා ඇත, නැතහොත් කැපී පෙනෙන ලෙස දිගු එක් කටුවක් ඇත; මිලිමීටර 12-26ක් දිගය; සිලින්ඩරාකාරය (terete); නම්‍යශීලීය; රෝම රහිතය (glabrous) හෝ පක්ෂ්මල (ciliate) වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "උලුහාල් වල ඇති විශ්මිත ගුණ ගැන ඔබ නොදත්දේ",
+                "url": "https://youtube.com/watch?v=9i7g1nKKljY",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/9i7g1nKKljY/hq720.jpg"
+            },
+            {
+                "title": "අලු පුහුල් - Alu Puhul",
+                "url": "https://youtube.com/watch?v=jpRwEwIE4E4",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/jpRwEwIE4E4/hq720.jpg"
+            },
+            {
+                "title": "පොල්පලා වල ඔබ නොදත් ගුණ | Polpalaa wala guana | Mountain Knotgrass | @Sakalawaga",
+                "url": "https://youtube.com/watch?v=5Vopo0b9Arg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/5Vopo0b9Arg/hqdefault.jpg"
+            },
+            {
+                "title": "පොල්පලා බොන අයට වෙන දේ මෙන්න : Benefits of Polpala - Aerva",
+                "url": "https://youtube.com/watch?v=8hoW2pidiEQ",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/8hoW2pidiEQ/hq720.jpg"
+            },
+            {
+                "title": "ඇයි ඔබේ ගෙදරටත් පොල්පළා පැලයක් අවශ්‍ය?_Health benefits of Aerva lanata #HealthyPodda",
+                "url": "https://youtube.com/watch?v=IhjbSMEqeO0",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/IhjbSMEqeO0/hq720.jpg"
+            },
+            {
+                "title": "පොලොස් වල ගුණ | Polos wala guna | Sakalawaga",
+                "url": "https://youtube.com/watch?v=mPh7ihfwxa0",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/mPh7ihfwxa0/hq720.jpg"
+            },
+            {
+                "title": "🟡පොලිස් නිල සුනඛයා ඉවක් පසුපස හඹා ගිහිං | රංගගේ ශරීරයේ පෙරහුරු කැපුම් දෙකක් | @MeeMassooTV",
+                "url": "https://youtube.com/watch?v=BMEeWX9K7-c",
+                "duration": "33:24",
+                "thumbnail": "https://i.ytimg.com/vi/BMEeWX9K7-c/hq720.jpg"
+            },
+            {
+                "title": "පොල්පලා භාවිතයට ගැනීමෙන් මේ තරම් ගුණ රාශියක් සිරුරට ලබාගත හැකි බව දැනසිටියද? ඔබ දැනගතයුතුම ගුණ රැසක්",
+                "url": "https://youtube.com/watch?v=Q6syYiMJQuY",
+                "duration": "16:32",
+                "thumbnail": "https://i.ytimg.com/vi/Q6syYiMJQuY/hq720.jpg"
+            },
+            {
+                "title": "පොල් පලා ශාක ඇති ගුණ",
+                "url": "https://youtube.com/watch?v=pFqcWrYIuh4",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/pFqcWrYIuh4/hqdefault.jpg"
+            },
+            {
+                "title": "පොල්පලා ශාකයේ කොච්චර ගුණ තියෙනවද ? බලන්නම වටිනවා polpala ( Aerva lanata )சிருபுலை",
+                "url": "https://youtube.com/watch?v=dY_5yrN48w4",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/dY_5yrN48w4/hqdefault.jpg"
+            },
+            {
+                "title": "පුපුල ශාකයේ ඇති විශ්මිත ගුණ 40 Vernonia zeylanica(L.) Lees.",
+                "url": "https://youtube.com/watch?v=FWR0Z8JxyLA",
+                "duration": "2:28",
+                "thumbnail": "https://i.ytimg.com/vi/FWR0Z8JxyLA/hqdefault.jpg"
+            },
+            {
+                "title": "🔴🌿සිංගප්පූරු කොළ කෑවොත් වෙන දේ|පුදුම හිතෙන සිංගප්පූරු කොල| ජපන් බටු කොළ#health#Japan batu#ayurveda",
+                "url": "https://youtube.com/watch?v=lgtyEGBNHrY",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/lgtyEGBNHrY/hq720.jpg"
+            },
+            {
+                "title": "පොල්පලා තොරතුරු | Aerva Lanata |Polapala | Mountain Knotgrass Pindi-kura | Pindi-chettu |poola poo",
+                "url": "https://youtube.com/watch?v=lOODd5COKqw",
+                "duration": "11:23",
+                "thumbnail": "https://i.ytimg.com/vi/lOODd5COKqw/hq720.jpg"
+            },
+            {
+                "title": "Aerva lanata | polpala | මූත්‍රා රෝග සුවයට පොල් පලා",
+                "url": "https://youtube.com/watch?v=FMcLk_3xAtI",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/FMcLk_3xAtI/hq720.jpg"
+            },
+            {
+                "title": "පලා වර්ග වල තියෙන ගුණ | Properties of leaves  - sinhala real",
+                "url": "https://youtube.com/watch?v=CjOBlU8F4r4",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/CjOBlU8F4r4/hqdefault.jpg"
+            },
+            {
+                "title": "Polpala|මුත්‍ර රෝග ඇතුළු රෝග රැසකට ගුණදෙන -පොල්පලා|Ouret lanata",
+                "url": "https://youtube.com/watch?v=iWT3-PK01yc",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/iWT3-PK01yc/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම සුදුළුණු අනුභව කරන අයගේ ශරීරයට සිදුවන පුදුම හිතෙන දේවල් 9ක් - 9 Health Benefits Of Raw Garlic",
+                "url": "https://youtube.com/watch?v=mtDUfuiqaQU",
+                "duration": "11:08",
+                "thumbnail": "https://i.ytimg.com/vi/mtDUfuiqaQU/hq720.jpg"
+            },
+            {
+                "title": "කොස් /පොලොස්  දියවැඩියාවට හොඳද ?| Blood Sugar Test with Jackfruit | Jackfruit Part- 01 and Diabetes",
+                "url": "https://youtube.com/watch?v=Z8RrQ2ycPDM",
+                "duration": "13:59",
+                "thumbnail": "https://i.ytimg.com/vi/Z8RrQ2ycPDM/hq720.jpg"
+            },
+            {
+                "title": "බොහෝ ලෙඩ දුක් වලින් අපිව ආරක්ෂා කරදුන් අපේ පැරැන්නන්ගේ ජනප්‍රියතම උදෑසන පානය | benefits of polpala",
+                "url": "https://youtube.com/watch?v=B6ezKvk8S6o",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/B6ezKvk8S6o/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල 10ක ගුණ දැනගමුද? | Benifits of 10 Herbal Plants | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=Cpdzcr3fXu0",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Cpdzcr3fXu0/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල 32ක් | වල් පැල කියල ගලවලා විසිකරන වටිනා ඔසු | Osu Pela 32 k Menna | ඖෂධීය ශාක හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=Fy5R3h2W1kw",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/Fy5R3h2W1kw/hq720.jpg"
+            },
+            {
+                "title": "⁣ඖෂධ පැලෑටි වර්ග සීයයක් එක වීඩියෝවකින් බලන්න meditation plants #dpeducation #meditation #plants",
+                "url": "https://youtube.com/watch?v=qYKBg3T1Qx0",
+                "duration": "7:30",
+                "thumbnail": "https://i.ytimg.com/vi/qYKBg3T1Qx0/hqdefault.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "පොල් මැල්ලුමක්ද ඔනි හරියටම හදන සුපිරිම රහස මෙන්න",
+                "url": "https://youtube.com/watch?v=PM07t_biv5Q",
+                "duration": "12:15",
+                "thumbnail": "https://i.ytimg.com/vi/PM07t_biv5Q/hq720.jpg"
+            },
+            {
+                "title": "පොල්පලා | පොල්පලා වල ගුන | polpala sinhala | පොල්පලා කැද | පොල්පලා මැල්ලුම | පොල්පලා ශාඛ ය 2021",
+                "url": "https://youtube.com/watch?v=rWXmfOkcd0c",
+                "duration": "6:01",
+                "thumbnail": "https://i.ytimg.com/vi/rWXmfOkcd0c/hqdefault.jpg"
+            },
+            {
+                "title": "අපේ අවසාන පුවාලු වගාව|puwalu|slfarmers |agriculture",
+                "url": "https://youtube.com/watch?v=kNz1wcTyfDE",
+                "duration": "12:21",
+                "thumbnail": "https://i.ytimg.com/vi/kNz1wcTyfDE/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "ඔයාට බේරෙන්න පුලුවන් නීතියෙන් විතරයි... පරිස්සමෙන් පල්ලේගම",
+                "url": "https://youtube.com/watch?v=KkaFGAOD6oY",
+                "duration": "5:23",
+                "thumbnail": "https://i.ytimg.com/vi/KkaFGAOD6oY/hq720.jpg"
+            },
+            {
+                "title": "හෝමියෝපති තුලින් කොදු ඇටපෙළ ආශ්‍රිත රෝග පූර්ණ සුවය ලබමු",
+                "url": "https://youtube.com/watch?v=Ebxco3bWuGY",
+                "duration": "56:06",
+                "thumbnail": "https://i.ytimg.com/vi/Ebxco3bWuGY/hqdefault.jpg"
+            },
+            {
+                "title": "කෙණ්ඩා පෙරලීම මෙතරම් භයානකද? The Hidden Danger of Leg Cramps!",
+                "url": "https://youtube.com/watch?v=DKFnTu2dVyI",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/DKFnTu2dVyI/hq720.jpg"
+            },
+            {
+                "title": "උදුපියළිය වල ඖෂධීය ගුණ | Desmodium Triflorum  | Sakala waga",
+                "url": "https://youtube.com/watch?v=3Z9Uc7pAGQc",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/3Z9Uc7pAGQc/hqdefault.jpg"
+            },
+            {
+                "title": "ආහාර විෂවීම්, පිළිකා, ඇදුම ආදී රෝග රැසකට ගුණ දෙන විශ්මිත ශාකය | පුපුල (Pupula)",
+                "url": "https://youtube.com/watch?v=GHOqY7JMxQk",
+                "duration": "4:49",
+                "thumbnail": "https://i.ytimg.com/vi/GHOqY7JMxQk/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය, පොල්පලා තියනවා නම් මූත්‍රා රෝගවලට තිත | ඖශධීය පාන වර්ග| ශ්‍රී ලංකාවේ ඖශධීය ශාක",
+                "url": "https://youtube.com/watch?v=WA-Rrbl4X4Y",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/WA-Rrbl4X4Y/hq720.jpg"
+            },
+            {
+                "title": "අටවිසි බොධීන්ගෙන් එකක් වෙන ලංකාවේ දුර්ලභ, පිළිකා ඇතුළු රෝග රැසකට ගුණ දෙන පලොල් | Palol",
+                "url": "https://youtube.com/watch?v=nSH2AcgcyFc",
+                "duration": "13:17",
+                "thumbnail": "https://i.ytimg.com/vi/nSH2AcgcyFc/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ආසාධන ඇතුළු රෝග රැසකට දිව්‍ය ඖශධයක් වූ පොල්පලා වල ඇති ඖශධිය ගුණය",
+                "url": "https://youtube.com/watch?v=uO-NmdVoEsw",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/uO-NmdVoEsw/hq720.jpg"
+            },
+            {
+                "title": "උඳුපියලිය වල ඇති සැඟවුණු ගුණ 50   Uadupiyaliya|",
+                "url": "https://youtube.com/watch?v=ulyHeu1EUag",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/ulyHeu1EUag/hqdefault.jpg"
+            },
+            {
+                "title": "සිරුරට ගුණ දෙන ඖෂධීය ශාක - Medicinal plants - Sanda Asapuwa",
+                "url": "https://youtube.com/watch?v=PsWgSyO64zM",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/PsWgSyO64zM/hqdefault.jpg"
+            },
+            {
+                "title": "නිරෝගී  සුව කැඳවන සිසිලකර ශාකය පොල්පලා",
+                "url": "https://youtube.com/watch?v=-V1o51PQejQ",
+                "duration": "9:08",
+                "thumbnail": "https://i.ytimg.com/vi/-V1o51PQejQ/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "අළු පුහුල් වගා කරන්නේ මෙහෙමයි",
+                "url": "https://youtube.com/watch?v=gj6i6W_hLVg",
+                "duration": "9:35",
+                "thumbnail": "https://i.ytimg.com/vi/gj6i6W_hLVg/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "පොලොස් හෙවත් කොස් ගැට කෑවොත් වෙන දේ මෙන්න : Raw Green Jackfruit Benefits",
+                "url": "https://youtube.com/watch?v=AUvFTMX56_4",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/AUvFTMX56_4/hq720.jpg"
+            },
+            {
+                "title": "polos for increase platelets !_මාරාන්තික ඩෙන්ගු සඳහා පොලොස් බාවිතයෙන් විශිෂ්ට ප්‍රතිකර්ම",
+                "url": "https://youtube.com/watch?v=fMlYEGaWpzU",
+                "duration": "6:15",
+                "thumbnail": "https://i.ytimg.com/vi/fMlYEGaWpzU/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "⛔ලංකාව ලෝකය හොල්ලයි! ලේ වල ඝනකම අඩුකරන සුපිරි පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=R03vVDIhLWs",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/R03vVDIhLWs/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "What Is A Polytunnel ?| Greenhouse | Protected house | හරිතාගාරයක් කියන්නේ මොකක්ද?",
+                "url": "https://youtube.com/watch?v=qYpkDZqkHS4",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/qYpkDZqkHS4/hq720.jpg"
+            },
+            {
+                "title": "ඇස් පෙනීම අඩු අය මේ පලාව කන්න | හිමොග් ලොභින් අඩු වෙනවට | මව් කිරි වර්ධනයට",
+                "url": "https://youtube.com/watch?v=GIiHVEfgLZQ",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/GIiHVEfgLZQ/hqdefault.jpg"
+            },
+            {
+                "title": "දියර පොහොරක්ලෙස  හා කෘමින් පලවා හැරිමට ළුණු  පොතු යොදාගන්න Use onion peels as liquid fertilizer",
+                "url": "https://youtube.com/watch?v=YfJG0S1YYeQ",
+                "duration": "8:50",
+                "thumbnail": "https://i.ytimg.com/vi/YfJG0S1YYeQ/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට ගුණදෙන පනාමල් සත්කාරය | Jackfruit Flower",
+                "url": "https://youtube.com/watch?v=VsTST6CFAK0",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/VsTST6CFAK0/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits to us from the coconut tree#jana agri#srilanka",
+                "url": "https://youtube.com/watch?v=O3S0onsKMRo",
+                "duration": "12:46",
+                "thumbnail": "https://i.ytimg.com/vi/O3S0onsKMRo/hq720.jpg"
+            },
+            {
+                "title": "🔴යකෝ මෙචිචර විටමින්😲? මේ පලා වර්ග කාලා නැත්තං ලැජ්ජ වෙන්ඩ",
+                "url": "https://youtube.com/watch?v=AHTl3nMAWZI",
+                "duration": "8:19",
+                "thumbnail": "https://i.ytimg.com/vi/AHTl3nMAWZI/hq720.jpg"
+            },
+            {
+                "title": "Purslane: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=AKjcsZRcuQY",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/AKjcsZRcuQY/hq720.jpg"
+            },
+            {
+                "title": "11 Benefits of Parsley You Should Know! | Health Benefits of Parsley",
+                "url": "https://youtube.com/watch?v=Cp5LIVk8k0s",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/Cp5LIVk8k0s/hq720.jpg"
+            },
+            {
+                "title": "Commonly Seen Purslane Benefits As A Medicine",
+                "url": "https://youtube.com/watch?v=JyX9FiYXQik",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/JyX9FiYXQik/hqdefault.jpg"
+            },
+            {
+                "title": "Welpenela Benefits : පිරිමි ගෙදරම තියාගන්න ගහපු වැල් පෙනෙල ගැටේ මෙන්න",
+                "url": "https://youtube.com/watch?v=gjqX33rzqng",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/gjqX33rzqng/hq720.jpg"
+            },
+            {
+                "title": "How to Make Purslane Tea | purslane tea benefits -  Health Tips",
+                "url": "https://youtube.com/watch?v=-v-KTcGaLvg",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/-v-KTcGaLvg/hqdefault.jpg"
+            },
+            {
+                "title": "Top 6 Health Benefits Of Blue Pea Flower!",
+                "url": "https://youtube.com/watch?v=xFWj3MP6ZaE",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/xFWj3MP6ZaE/hq720.jpg"
+            },
+            {
+                "title": "Purslane | The Most Powerful Medicinal Plant That Cures Many Diseases | Blissed Zone",
+                "url": "https://youtube.com/watch?v=N5_48k0gPHw",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/N5_48k0gPHw/hq720.jpg"
+            },
+            {
+                "title": "TRY PURSLANE NOW - Don't miss out on the powerful health benefits of this underrated superfood",
+                "url": "https://youtube.com/watch?v=8xyj9Kp1WIg",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/8xyj9Kp1WIg/hq720.jpg"
+            },
+            {
+                "title": "Discover the Surprising Health Benefits of Eating Purslane!",
+                "url": "https://youtube.com/watch?v=U0Jq_22mTxE",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/U0Jq_22mTxE/hq720.jpg"
+            },
+            {
+                "title": "The Health Benefits of Purslane: Nature's Superfood! #Purslane#Superfood#HolisticHealth#HealingFoods",
+                "url": "https://youtube.com/watch?v=ojbErbta7fU",
+                "duration": "17:03",
+                "thumbnail": "https://i.ytimg.com/vi/ojbErbta7fU/hq720.jpg"
+            },
+            {
+                "title": "Benefits Of Perilla leaves - What Are The Health Benefits Of Perilla?",
+                "url": "https://youtube.com/watch?v=4DVmCZ9H_KM",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/4DVmCZ9H_KM/hq720.jpg"
+            },
+            {
+                "title": "පේර කොළ තැම්බුවතුරින් ලැබෙන සෞඛ්‍යමය වාසි 10ක් |  Guava Leaves Health Benefits | Pera Kola Wala Guna",
+                "url": "https://youtube.com/watch?v=EPXBhA_Aquk",
+                "duration": "13:17",
+                "thumbnail": "https://i.ytimg.com/vi/EPXBhA_Aquk/hq720.jpg"
+            },
+            {
+                "title": "අළු පුහුල් දැක්කොත් අනිවා ගෙදර ගෙනියන්න - Health benefits of winter melon",
+                "url": "https://youtube.com/watch?v=BU6awgNdb7Q",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/BU6awgNdb7Q/hq720.jpg"
+            },
+            {
+                "title": "Purslane: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=bh-VNk28xS8",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/bh-VNk28xS8/frame0.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

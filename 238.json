@@ -1,115 +1,600 @@
 {
-  "scientificName": "Basella alba L.",
-  "synonyms": [
-    "Basella alba var. cordifolia (Lam.) M.R.Almeida",
-    "Basella alba var. subcordata Hassk.",
-    "Basella alba var. subrotunda Moq.",
-    "Basella cananifolia Buch.-Ham. ex Wall.",
-    "Basella cordifolia Lam.",
-    "Basella crassifolia Salisb.",
-    "Basella japonica Burm.f.",
-    "Basella lucida L.",
-    "Basella nigra Lour.",
-    "Basella oleracea Alef.",
-    "Basella oleracea var. alba (L.) Alef.",
-    "Basella oleracea var. cordifolia (Lam.) Alef.",
-    "Basella oleracea var. japonica (Burm.f.) Alef.",
-    "Basella oleracea var. nigra (Lour.) Alef.",
-    "Basella oleracea var. ramosa (J.Jacq. ex Spreng.) Alef.",
-    "Basella oleracea var. rubra (L.) Alef.",
-    "Basella ramosa J.Jacq. ex Spreng.",
-    "Basella rubra L.",
-    "Basella rubra var. virescens Moq.",
-    "Basella volubilis Salisb.",
-    "Gandola nigra (Lour.) Raf."
-  ],
-  "familyName": "BASELLACEAE",
-  "englishNames": [
-    "Malabar Spinach",
-    "Ceylon Spinach",
-    "Indian Spinach",
-    "Red Vine Spinach",
-    "Vine spinach"
-  ],
-  "sinhalaName": "Nivithi (නිවිති)",
-  "description": "මාංසල (fleshy), රෝම රහිත (glabrous), වැල් ලෙස වැඩෙන බහුවාර්ෂික පැළෑටි වේ. පත්‍ර සෙන්ටිමීටර 2-5ක් දිග සහ සෙන්ටිමීටර 0.8-2.5ක් පළල වේ; පත්‍ර වෘන්තය (petiole) සෙන්ටිමීටර 0.3-1ක් දිගය. මල් කොළ පැහැයට හුරු සුදු පැහැයක් ගන්නා අතර, සෙන්ටිමීටර 3ක් පමණ දිගය; ඒවා සෙන්ටිමීටර 5-8ක් දිගැති කරල් (spikes) ලෙස පිහිටයි. ඵල කුඩා වන අතර, එක් බීජයක් සහිතව විෂ්කම්භය සෙන්ටිමීටර 0.5ක් පමණ වේ.",
-  "treatments": [
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Basella alba L.",
+    "synonyms": [
+        "Basella alba var. cordifolia (Lam.) M.R.Almeida",
+        "Basella alba var. subcordata Hassk.",
+        "Basella alba var. subrotunda Moq.",
+        "Basella cananifolia Buch.-Ham. ex Wall.",
+        "Basella cordifolia Lam.",
+        "Basella crassifolia Salisb.",
+        "Basella japonica Burm.f.",
+        "Basella lucida L.",
+        "Basella nigra Lour.",
+        "Basella oleracea Alef.",
+        "Basella oleracea var. alba (L.) Alef.",
+        "Basella oleracea var. cordifolia (Lam.) Alef.",
+        "Basella oleracea var. japonica (Burm.f.) Alef.",
+        "Basella oleracea var. nigra (Lour.) Alef.",
+        "Basella oleracea var. ramosa (J.Jacq. ex Spreng.) Alef.",
+        "Basella oleracea var. rubra (L.) Alef.",
+        "Basella ramosa J.Jacq. ex Spreng.",
+        "Basella rubra L.",
+        "Basella rubra var. virescens Moq.",
+        "Basella volubilis Salisb.",
+        "Gandola nigra (Lour.) Raf."
+    ],
+    "familyName": "BASELLACEAE",
+    "englishNames": [
+        "Malabar Spinach",
+        "Ceylon Spinach",
+        "Indian Spinach",
+        "Red Vine Spinach",
+        "Vine spinach"
+    ],
+    "sinhalaName": "Nivithi (නිවිති)",
+    "description": "මාංසල (fleshy), රෝම රහිත (glabrous), වැල් ලෙස වැඩෙන බහුවාර්ෂික පැළෑටි වේ. පත්‍ර සෙන්ටිමීටර 2-5ක් දිග සහ සෙන්ටිමීටර 0.8-2.5ක් පළල වේ; පත්‍ර වෘන්තය (petiole) සෙන්ටිමීටර 0.3-1ක් දිගය. මල් කොළ පැහැයට හුරු සුදු පැහැයක් ගන්නා අතර, සෙන්ටිමීටර 3ක් පමණ දිගය; ඒවා සෙන්ටිමීටර 5-8ක් දිගැති කරල් (spikes) ලෙස පිහිටයි. ඵල කුඩා වන අතර, එක් බීජයක් සහිතව විෂ්කම්භය සෙන්ටිමීටර 0.5ක් පමණ වේ.",
+    "treatments": [
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Burns and Scalds",
+            "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Abscesses",
+            "sinhala": "සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Scalds",
+            "sinhala": "උණු දියරයෙන් වන පිළිස්සුම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Root"
+    ],
+    "images": [
+        {
+            "image_id": "547",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/kg5bGv45/plant00238-00547.jpg"
+        },
+        {
+            "image_id": "548",
+            "caption": "Flowers and Fruits",
+            "url": "https://i.ibb.co/ynC7p9Lr/plant00238-00548.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Niwithi Bath (නිවිති බත්) - Spinach Rice (w/ English sub + mit Deutschen Untertitel)",
+                "url": "https://youtube.com/watch?v=nEvX59yPCA4",
+                "duration": "4:19",
+                "thumbnail": "https://i.ytimg.com/vi/nEvX59yPCA4/hq720.jpg"
+            },
+            {
+                "title": "නිවිති සුපිරිම රසකට | Nivithi Recipe | Spinach Recipe | @mskitchen3708",
+                "url": "https://youtube.com/watch?v=-tBTG6ttDVc",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/-tBTG6ttDVc/hq720.jpg"
+            },
+            {
+                "title": "නිවිති වල ඔය කියන තරම් යකඩ නැහැ ,මේක වැරදීමක්!/Let's correct the science myth about spinach!",
+                "url": "https://youtube.com/watch?v=UVI5JylmZVw",
+                "duration": "6:23",
+                "thumbnail": "https://i.ytimg.com/vi/UVI5JylmZVw/hq720.jpg"
+            },
+            {
+                "title": "කන්න බැරි නිවිති කන්න පුලුවන් රසම විදියකට Niwirhi Spinach recipe from Kusala's Simple Life",
+                "url": "https://youtube.com/watch?v=qVS75VjpiTA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/qVS75VjpiTA/hqdefault.jpg"
+            },
+            {
+                "title": "නිවිති ස්ටු - Episode 441 - Spinach Stew",
+                "url": "https://youtube.com/watch?v=BGGbhopeWsI",
+                "duration": "6:40",
+                "thumbnail": "https://i.ytimg.com/vi/BGGbhopeWsI/hqdefault.jpg"
+            },
+            {
+                "title": "නිවිදි හදන රසම විදිය|  Spinach with egg scramble| nivithi recipe sinhala by hot kitchen",
+                "url": "https://youtube.com/watch?v=kkb1yKGP2qE",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/kkb1yKGP2qE/hq720.jpg"
+            },
+            {
+                "title": "නිවිති මෙහෙම උයල බලන්න ගොඩාක් රසයි Spinach recipe from Kusala's Simple Life",
+                "url": "https://youtube.com/watch?v=hR5wj-qAE50",
+                "duration": "5:21",
+                "thumbnail": "https://i.ytimg.com/vi/hR5wj-qAE50/hq720.jpg"
+            },
+            {
+                "title": "නිවිති වලට පරිප්පු දාලා කන්න අකමැති අයට | Nivithi Recipe | How to make spinach |Spinach Recipes",
+                "url": "https://youtube.com/watch?v=UwvkKlq6p70",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/UwvkKlq6p70/hq720.jpg"
+            },
+            {
+                "title": "නිවිති වල ගුණ Nivithi wala guna Health Benifits of Spinach by Vindy's Journey Kitchen",
+                "url": "https://youtube.com/watch?v=2LhDlFh89y4",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/2LhDlFh89y4/hqdefault.jpg"
+            },
+            {
+                "title": "මෙහෙම නිවිතියා හිටෙවුවොත් ආයෙත් කඩන් ගන්න වෙන එකක් නැහැ | How to Grow Spinach | Ceylon Agri |Epi.282",
+                "url": "https://youtube.com/watch?v=J4SQcNUW-to",
+                "duration": "11:57",
+                "thumbnail": "https://i.ytimg.com/vi/J4SQcNUW-to/hq720.jpg"
+            },
+            {
+                "title": "✔️ නිවිති සම්බෝලය (ලේ වඩන ) නිවිති වලින් කෑම | නිවිති recipe nivithi sambol nivithi spinach salad",
+                "url": "https://youtube.com/watch?v=wGLgJ68IiL0",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/wGLgJ68IiL0/hqdefault.jpg"
+            },
+            {
+                "title": "Niwithi Bath (නිවිති බත්) - Spinach Rice (w/ English sub + mit Deutschen Untertitel)",
+                "url": "https://youtube.com/watch?v=yA5_CmS1nsE",
+                "duration": "4:19",
+                "thumbnail": "https://i.ytimg.com/vi/yA5_CmS1nsE/frame0.jpg"
+            },
+            {
+                "title": "ගස් නිවිති | gas niviti curry | ගස් නිවිති වල ගුන | spinach | sinhala 2021",
+                "url": "https://youtube.com/watch?v=bOZH-s6VFYc",
+                "duration": "7:37",
+                "thumbnail": "https://i.ytimg.com/vi/bOZH-s6VFYc/hqdefault.jpg"
+            },
+            {
+                "title": "ජීවත්වන කල් හොඳට ඇස් පේන්න නම් නිවිති අමුවෙන් කන්න - Benefits of Spinach",
+                "url": "https://youtube.com/watch?v=TJrm5C34Evg",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/TJrm5C34Evg/hq720.jpg"
+            },
+            {
+                "title": "ගස් නිවිති|රෝග සමනය කර නිරෝගි දිවියකට ගස් නිවිති|gas nivithi|අස්ථි හා දත් ශක්තිමත් කරන ඔසු",
+                "url": "https://youtube.com/watch?v=iXgT2lVefZk",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/iXgT2lVefZk/hq720.jpg"
+            },
+            {
+                "title": "නිවිතිය කෑවොත් මොකද වෙන්නෙ? Spinach & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=SZr0a1JRl9A",
+                "duration": "8:52",
+                "thumbnail": "https://i.ytimg.com/vi/SZr0a1JRl9A/hq720.jpg"
+            },
+            {
+                "title": "නිවිති කන්න ඕන ඇයි benifits of spinach #spinach #healthyfood #healthy #diet #vegetables #glowingskin",
+                "url": "https://youtube.com/watch?v=HNdNm2onoVU",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/HNdNm2onoVU/hq720.jpg"
+            },
+            {
+                "title": "නිවිති වල තියෙන පුදුමාකාර රූපලාවණ්‍ය ගුණ ගැන දැනන් හිටියද?",
+                "url": "https://youtube.com/watch?v=Q624MPIM-dc",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/Q624MPIM-dc/hq720.jpg"
+            },
+            {
+                "title": "ගස් නිවිති වල ඇත ගුණ",
+                "url": "https://youtube.com/watch?v=iichOo4kH8c",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/iichOo4kH8c/hq720.jpg"
+            },
+            {
+                "title": "නිවිතිවල ඇති විශ්මිත ගුණ - Health Vedeo",
+                "url": "https://youtube.com/watch?v=HlXxIlhvGtY",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/HlXxIlhvGtY/hq720.jpg"
+            },
+            {
+                "title": "හිතාගන්න පුළුවන්ද නිවිති වලට පිළිකා නසන්න පුළුවන් - Health Benefits Of Spinach Leaves",
+                "url": "https://youtube.com/watch?v=N_KVrfBAcJA",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/N_KVrfBAcJA/hq720.jpg"
+            },
+            {
+                "title": "අඩු වියදමින් වැඩි සෞඛ්‍යක් | ගස් නිවිති ගුණ  @Knowdiet496",
+                "url": "https://youtube.com/watch?v=OYL6HHW1meo",
+                "duration": "6:26",
+                "thumbnail": "https://i.ytimg.com/vi/OYL6HHW1meo/hq720.jpg"
+            },
+            {
+                "title": "දිව පිනවන ගුණ වඩවන නිවිති ඇඹුල - Delicious Spinach Curry",
+                "url": "https://youtube.com/watch?v=En0uE5gM-p4",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/En0uE5gM-p4/hq720.jpg"
+            },
+            {
+                "title": "ඔබ නිවිති කෑමට ගැනීමට පෙර මේ වීඩියෝව බලන්න. | If you eat spinach watch this video!",
+                "url": "https://youtube.com/watch?v=owUtu_EHet0",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/owUtu_EHet0/hq720.jpg"
+            },
+            {
+                "title": "ගස් නිවිති | gas niviti curry | ගස් නිවිති වල ගුන | spinach | sinhala 2021",
+                "url": "https://youtube.com/watch?v=I9OlcEtmJd4",
+                "duration": "7:37",
+                "thumbnail": "https://i.ytimg.com/vi/I9OlcEtmJd4/frame0.jpg"
+            },
+            {
+                "title": "නිවිති දඩු වලින් පැලකරමු | Growing Spinach Sticks | Episode 1",
+                "url": "https://youtube.com/watch?v=LXPCMBjP_fw",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/LXPCMBjP_fw/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ පිරි නිවිති පරිප්පු - Nutritional Dhal Spinach Curry #food #foodie",
+                "url": "https://youtube.com/watch?v=khUCWd_9puc",
+                "duration": "4:20",
+                "thumbnail": "https://i.ytimg.com/vi/khUCWd_9puc/hq720.jpg"
+            },
+            {
+                "title": "අපුරු ගුණ රැසක් සගවාගත් - නිවිති  |Niwithi |Spinach 🍀🌱",
+                "url": "https://youtube.com/watch?v=0oJVVv2tnF0",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/0oJVVv2tnF0/hq720.jpg"
+            },
+            {
+                "title": "පුදුම රසක් දැනෙන  පෝෂ්‍යදායක නිවිති පපඩම් / Spinach recipes by Kusala's Simple Life",
+                "url": "https://youtube.com/watch?v=zhWpM124A-c",
+                "duration": "7:10",
+                "thumbnail": "https://i.ytimg.com/vi/zhWpM124A-c/hq720.jpg"
+            },
+            {
+                "title": "කර කුරු ගලා හපන්න නිවිති මෙහෙම හදන්න😮 | nivithi recipe sinhala | nivithi papadam | Spinach recipe",
+                "url": "https://youtube.com/watch?v=b2EmO0K_cw4",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/b2EmO0K_cw4/hqdefault.jpg"
+            },
+            {
+                "title": "ලොකු පොඩ් සැමට පෝෂණීය රසවත් සුප් එකක් හදමු| Nivithi soup| Spinach soup recipe",
+                "url": "https://youtube.com/watch?v=dJcNeGstNxQ",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/dJcNeGstNxQ/hq720.jpg"
+            },
+            {
+                "title": "උදර රෝග රැසකට දිව ඔසුවක්.  නිවිතිවල ගුණ.",
+                "url": "https://youtube.com/watch?v=Ug3MW1sI4EI",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/Ug3MW1sI4EI/hq720.jpg"
+            },
+            {
+                "title": "නික ගුණ වරුණ . සෙම් රෝග සහ වේදනා සමනයට. Health benefits of Nika.",
+                "url": "https://youtube.com/watch?v=YgOuPvji6N0",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgOuPvji6N0/hq720.jpg"
+            },
+            {
+                "title": "ජවය ශක්තිය සපිරි කොල්ලු පානය - වෛද්‍ය සුසීමා සේනානායක",
+                "url": "https://youtube.com/watch?v=BBlufzuvZvw",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/BBlufzuvZvw/hq720.jpg"
+            },
+            {
+                "title": "ගුණ දන්නවනම් අනිවාරයෙන්ම කෑමට ගන්න , දියවැඩියාව, පිළිකා පරදන ඔසු | Gas Nivithi | Talinum paniculatum",
+                "url": "https://youtube.com/watch?v=4r8ud83C0d8",
+                "duration": "9:47",
+                "thumbnail": "https://i.ytimg.com/vi/4r8ud83C0d8/hq720.jpg"
+            },
+            {
+                "title": "Spinach is a brain-rejuvenating storehouse of nutrients |  මොළය තරුණ කරන පෝෂණ ගබඩාව වැල් නිවිති 2022",
+                "url": "https://youtube.com/watch?v=P9qLOpWOsR4",
+                "duration": "6:14",
+                "thumbnail": "https://i.ytimg.com/vi/P9qLOpWOsR4/hq720.jpg"
+            },
+            {
+                "title": "Gasnivithi | ගස් නිවිති ශාකයේ ඔසු ගුණ | රෝග රැසකට සුව ගෙනෙන ගස් නිවිති ( @osu-1380 )",
+                "url": "https://youtube.com/watch?v=ZOtUKNIfQZY",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/ZOtUKNIfQZY/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල තිත්ත ඇත්ත | Heenbovitiya & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=lBsI67rHBnE",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/lBsI67rHBnE/hq720.jpg"
+            },
+            {
+                "title": "හැදෙන්න තියන පිළිකාවක් උනත් වලකන ලෙඩ 300කට ගුණ පානයක් | දියවැඩියාවට කොලෙස්ටරෝල් වලට බෙහෙත් nira S",
+                "url": "https://youtube.com/watch?v=5TmsOIyY_W8",
+                "duration": "6:33",
+                "thumbnail": "https://i.ytimg.com/vi/5TmsOIyY_W8/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රෝබයෝටික් මගින් ඔබට ලැබෙන පුදුම හිතෙන වාසි 5 ක්",
+                "url": "https://youtube.com/watch?v=9tB-7tGr4wU",
+                "duration": "9:54",
+                "thumbnail": "https://i.ytimg.com/vi/9tB-7tGr4wU/hqdefault.jpg"
+            },
+            {
+                "title": "පහසුවෙන්, අඩු වියදමෙන්,  දිව්‍ය ඖෂධය ගෙදරදී ම හදාගන්නා හැටි!",
+                "url": "https://youtube.com/watch?v=kXhWrN5RjUo",
+                "duration": "9:29",
+                "thumbnail": "https://i.ytimg.com/vi/kXhWrN5RjUo/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව කොලෙස්ටරෝල් නසන පෝෂණීය ආහාරයක් | diyawadiyawata kanna dewal | සීනි මට්ටම අඩු කරන ආහාර",
+                "url": "https://youtube.com/watch?v=mUd_gzS55ts",
+                "duration": "12:56",
+                "thumbnail": "https://i.ytimg.com/vi/mUd_gzS55ts/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "පුදුම තරම් ගුණ කෑමක් මේකනම් ඔයාගෙ බත් එකත් රසයෙන් ගුණයෙන් පුරවගන්න | gas nivithi | spinach",
+                "url": "https://youtube.com/watch?v=qi-ApZ-_DuI",
+                "duration": "6:34",
+                "thumbnail": "https://i.ytimg.com/vi/qi-ApZ-_DuI/hq720.jpg"
+            },
+            {
+                "title": "වයසට යෑම වලක්වාලන දිව්‍ය ඖෂධය නිවිති ශාකය | Spinacia oleracea | Niwithi",
+                "url": "https://youtube.com/watch?v=amZevE9h7iI",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/amZevE9h7iI/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "නෙල්ලි වල මෙච්චර ගුණයක්? 🍏 විශ්මිත සෞඛ්‍ය ප්‍රතිලාභ මෙන්න! |",
+                "url": "https://youtube.com/watch?v=rZyWK4LRjHE",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/rZyWK4LRjHE/hq720.jpg"
+            },
+            {
+                "title": "ජීවත් වෙනවා කියන්නේ මොකක්ද ?",
+                "url": "https://youtube.com/watch?v=ZEPHuL5UGIc",
+                "duration": "16:37",
+                "thumbnail": "https://i.ytimg.com/vi/ZEPHuL5UGIc/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "Seed Dispersal for Little Minds | Environment | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=ITTswKh04j0",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/ITTswKh04j0/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 6ක් | Health Benefits Of Butterfly Pea Tea",
+                "url": "https://youtube.com/watch?v=lwZGAN8NJaM",
+                "duration": "9:22",
+                "thumbnail": "https://i.ytimg.com/vi/lwZGAN8NJaM/hq720.jpg"
+            },
+            {
+                "title": "11 Remarkable Stinging Nettle Benefits For Hair, Body, Skin & Gout",
+                "url": "https://youtube.com/watch?v=ZjXXvKizC8A",
+                "duration": "5:50",
+                "thumbnail": "https://i.ytimg.com/vi/ZjXXvKizC8A/hq720.jpg"
+            },
+            {
+                "title": "එළවළු සහ පලතුරු කිලෝ ග්‍රෑම් 1000ක පෝශණය සමානයි ස්පිරුලිනා කිලෝ ග්‍රෑම් 1 කට",
+                "url": "https://youtube.com/watch?v=3C7CS6lQ-oE",
+                "duration": "9:00",
+                "thumbnail": "https://i.ytimg.com/vi/3C7CS6lQ-oE/hq720.jpg"
+            },
+            {
+                "title": "6 Health Benefits of Nettle | Benefits of Stinging Nettle Root to Know",
+                "url": "https://youtube.com/watch?v=A4fzFvmQWZM",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/A4fzFvmQWZM/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of NEEM",
+                "url": "https://youtube.com/watch?v=DsoPxPqmCQg",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/DsoPxPqmCQg/hq720.jpg"
+            },
+            {
+                "title": "10 POWERFUL Reasons Why You Need To Have Mint Leaves Every Day",
+                "url": "https://youtube.com/watch?v=YvFTDWc7x8U",
+                "duration": "7:00",
+                "thumbnail": "https://i.ytimg.com/vi/YvFTDWc7x8U/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Mint leaves | Boost Digestion Naturally | Mint for Bad Breath | Power of Mint |",
+                "url": "https://youtube.com/watch?v=6_3aM1QkWCY",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/6_3aM1QkWCY/hqdefault.jpg"
+            },
+            {
+                "title": "Herbal Plant  Secret Health Benefits of Phyllanthus Niruni",
+                "url": "https://youtube.com/watch?v=nPIq-h9MtA4",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/nPIq-h9MtA4/hq720.jpg"
+            },
+            {
+                "title": "15 health benefits of scent leaf",
+                "url": "https://youtube.com/watch?v=Di1iaGgKXlY",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/Di1iaGgKXlY/hqdefault.jpg"
+            },
+            {
+                "title": "Noni Leaf Benefits | Living Off Grid",
+                "url": "https://youtube.com/watch?v=r4xbCwJn9N4",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/r4xbCwJn9N4/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනයට, අධි රුධිර පීඩනයට ගුණ දෙන ඉනිසියුලින් පැල | චීන නිවිති | Longevity spinach Epi.285",
+                "url": "https://youtube.com/watch?v=T3P6LjLm98Y",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/T3P6LjLm98Y/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ පිරි නිවිති සමග පරිප්පු. HOW TO MAKE SPINACH DHAL CURRY. Cooking Show(Sri Lankan Chef)",
+                "url": "https://youtube.com/watch?v=d7mTlxbGudA",
+                "duration": "7:40",
+                "thumbnail": "https://i.ytimg.com/vi/d7mTlxbGudA/hq720.jpg"
+            },
+            {
+                "title": "Spinach Smoothie~නිවිති කොළ කැඳ~Healthy drink~Good for immunity system~Juices recipes~  Porridge",
+                "url": "https://youtube.com/watch?v=qY3Skab8bOc",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/qY3Skab8bOc/hq720.jpg"
+            },
+            {
+                "title": "Spinach | නිවිති",
+                "url": "https://youtube.com/watch?v=gOdc0KOJ54A",
+                "duration": "7:25",
+                "thumbnail": "https://i.ytimg.com/vi/gOdc0KOJ54A/hq720.jpg"
+            },
+            {
+                "title": "පෝෂ්‍යදායි චෛනීස් නිවිති / Chinese spinach",
+                "url": "https://youtube.com/watch?v=_KJ3gyjTKZE",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/_KJ3gyjTKZE/hq720.jpg"
+            },
+            {
+                "title": "නිවිති සුප් - Episode 526 -  Spinach Soup - Anoma's Kitchen",
+                "url": "https://youtube.com/watch?v=1dnKhSHuOQM",
+                "duration": "11:40",
+                "thumbnail": "https://i.ytimg.com/vi/1dnKhSHuOQM/hqdefault.jpg"
+            },
+            {
+                "title": "උදේට පාන් එපා මෙන්න රක්තහීනතාවයට ගුණ ලේ වඩවන පානයන් 2ක් | මේක බිව්වම කන්න ඕනත් නෑ | le wadawana kama",
+                "url": "https://youtube.com/watch?v=cl3XLpXplVQ",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/cl3XLpXplVQ/hq720.jpg"
+            },
+            {
+                "title": "මාසෙන් කොලෙස්ටරෝල් අඩු කරන මැජික් අත් බෙහෙත | home remedy for bad cholesterol | fat burn tea nira s",
+                "url": "https://youtube.com/watch?v=C4Tnxgxh1Lw",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/C4Tnxgxh1Lw/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසක් වළක්වන උළුහාල් වල විෂ්මිත ගුණ | Fenugreek seed) @Knowdiet496",
+                "url": "https://youtube.com/watch?v=-A6p3h3TE98",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/-A6p3h3TE98/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන 🐕#trending #viral #foryou #education #educational #animals",
+                "url": "https://youtube.com/watch?v=m_QLK68xX50",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/m_QLK68xX50/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් මිනිසාට ඇති ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=FqMozBBLWlE",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/FqMozBBLWlE/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Burns and Scalds",
-      "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Abscesses",
-      "sinhala": "සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Scalds",
-      "sinhala": "උණු දියරයෙන් වන පිළිස්සුම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Root"
-  ],
-  "images": [
-    {
-      "image_id": "547",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/kg5bGv45/plant00238-00547.jpg"
-    },
-    {
-      "image_id": "548",
-      "caption": "Flowers and Fruits",
-      "url": "https://i.ibb.co/ynC7p9Lr/plant00238-00548.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

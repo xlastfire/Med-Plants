@@ -1,71 +1,160 @@
 {
-  "scientificName": "Saccharum officinarum L.",
-  "synonyms": [
-    "Arundo saccharifera Garsault",
-    "Saccharifera officinalis Stokes",
-    "Saccharum atrorubens Cuzent & Pancher ex Drake",
-    "Saccharum bataviense André",
-    "Saccharum fragile Cuzent & Pancher ex Drake",
-    "Saccharum glabrum Cuzent & Pancher ex Drake",
-    "Saccharum hybridum R.M.Grey",
-    "Saccharum infirmum Steud.",
-    "Saccharum luzonicum Cuzent & Pancher ex Drake",
-    "Saccharum maddenii André",
-    "Saccharum monandrum Rottb.",
-    "Saccharum occidentale Sw.",
-    "Saccharum officinale Salisb.",
-    "Saccharum officinarum var. atrorubens Cuzent & Pancher ex Drake",
-    "Saccharum officinarum var. brevipedicellatum Hack.",
-    "Saccharum officinarum var. fragile Cuzent & Pancher ex Drake",
-    "Saccharum officinarum var. genuinum Hack.",
-    "Saccharum officinarum var. giganteum Kunth",
-    "Saccharum officinarum var. glabrum Cuzent & Pancher ex Drake",
-    "Saccharum officinarum var. jamaicense Sickenb.",
-    "Saccharum officinarum var. litteratum Hassk.",
-    "Saccharum officinarum var. litteratum-breve Hassk.",
-    "Saccharum officinarum var. luridum Hassk.",
-    "Saccharum officinarum var. luteum-durum Hassk.",
-    "Saccharum officinarum var. luzonicum Cuzent & Pancher ex Drake",
-    "Saccharum officinarum var. obscurum Cuzent & Pancher ex Drake",
-    "Saccharum officinarum var. oceanicum Endl.",
-    "Saccharum officinarum var. otaheitense Hassk.",
-    "Saccharum officinarum var. otaheitense Roem. & Schult.",
-    "Saccharum officinarum var. purpureum Kunth",
-    "Saccharum officinarum var. rubicundum Cuzent & Pancher ex Drake",
-    "Saccharum officinarum var. rubrum-altum Hassk.",
-    "Saccharum officinarum var. rubrum-humile Hassk.",
-    "Saccharum officinarum var. tahitense Andersson",
-    "Saccharum officinarum var. tahitense Kunth",
-    "Saccharum officinarum var. variegatum André",
-    "Saccharum officinarum var. violaceum Pers.",
-    "Saccharum rubicundum Cuzent & Pancher ex Drake",
-    "Saccharum spontaneum subsp. luzonicum Hack.",
-    "Saccharum violaceum Tussac"
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Sugarcane"
-  ],
-  "sinhalaName": "Uk (උක්)",
-  "description": "බහුවාර්ෂික ශාකයකි, කඳන් මීටර් 3 - 6 ක් උසැති අතර විෂ්කම්භය සෙන්ටිමීටර 2 - 5 කි. කඳන් සෘජු (erect) වන අතර අන්තර් පර්ව (internodes) කොළ, කහ, දුඹුරු, රතු, දම් හෝ ඉරි සහිත වර්ණවලින් යුක්ත වේ. ඒවා බොහෝ විට ඉටි සහිත (waxy), යුෂ බහුල, පැණි රසැති සහ රෝම රහිත (glabrous) වේ. පත්‍ර කොපු රෝම රහිත හෝ රෝම සහිත (pubescent) වන අතර පැරණි කොපු ගැලවී යයි. පත්‍ර කොපු මූලය (collar) විශාල සහ කැපී පෙනේ. පත්‍ර දිව (ligule) පටලමය ස්වභාවයක් ගන්නා අතර මිලිමීටර 5 ක් පමණ දිගය, සාමාන්‍යයෙන් කෙටි රෝම සහිත (ciliolate) වේ. පත්‍ර තල බොහෝ විට මීටර් 1 - 2 ක් දිග සහ සෙන්ටිමීටර 3 - 6 ක් පළල වන අතර, පත්‍ර දිවට මදක් ඉහළින් හැර අනෙක් කොටස් රෝම රහිත (glabrous) වේ. මල් කරල් (spikelets) මිලිමීටර 2.6 - 4 ක් දිගය. පහළ තුහින පත්‍රය (lower glume) මිලිමීටර 2.8 - 4 ක් දිගැති අතර ශාකමය (herbaceous) ස්වභාවයක් ගනී. පරාගධානි කහ පැහැති වන අතර කලංක (stigmas) දම් පැහැතිය.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "2572",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/JWHCQqhp/plant01057-02572.jpg"
+    "scientificName": "Saccharum officinarum L.",
+    "synonyms": [
+        "Arundo saccharifera Garsault",
+        "Saccharifera officinalis Stokes",
+        "Saccharum atrorubens Cuzent & Pancher ex Drake",
+        "Saccharum bataviense André",
+        "Saccharum fragile Cuzent & Pancher ex Drake",
+        "Saccharum glabrum Cuzent & Pancher ex Drake",
+        "Saccharum hybridum R.M.Grey",
+        "Saccharum infirmum Steud.",
+        "Saccharum luzonicum Cuzent & Pancher ex Drake",
+        "Saccharum maddenii André",
+        "Saccharum monandrum Rottb.",
+        "Saccharum occidentale Sw.",
+        "Saccharum officinale Salisb.",
+        "Saccharum officinarum var. atrorubens Cuzent & Pancher ex Drake",
+        "Saccharum officinarum var. brevipedicellatum Hack.",
+        "Saccharum officinarum var. fragile Cuzent & Pancher ex Drake",
+        "Saccharum officinarum var. genuinum Hack.",
+        "Saccharum officinarum var. giganteum Kunth",
+        "Saccharum officinarum var. glabrum Cuzent & Pancher ex Drake",
+        "Saccharum officinarum var. jamaicense Sickenb.",
+        "Saccharum officinarum var. litteratum Hassk.",
+        "Saccharum officinarum var. litteratum-breve Hassk.",
+        "Saccharum officinarum var. luridum Hassk.",
+        "Saccharum officinarum var. luteum-durum Hassk.",
+        "Saccharum officinarum var. luzonicum Cuzent & Pancher ex Drake",
+        "Saccharum officinarum var. obscurum Cuzent & Pancher ex Drake",
+        "Saccharum officinarum var. oceanicum Endl.",
+        "Saccharum officinarum var. otaheitense Hassk.",
+        "Saccharum officinarum var. otaheitense Roem. & Schult.",
+        "Saccharum officinarum var. purpureum Kunth",
+        "Saccharum officinarum var. rubicundum Cuzent & Pancher ex Drake",
+        "Saccharum officinarum var. rubrum-altum Hassk.",
+        "Saccharum officinarum var. rubrum-humile Hassk.",
+        "Saccharum officinarum var. tahitense Andersson",
+        "Saccharum officinarum var. tahitense Kunth",
+        "Saccharum officinarum var. variegatum André",
+        "Saccharum officinarum var. violaceum Pers.",
+        "Saccharum rubicundum Cuzent & Pancher ex Drake",
+        "Saccharum spontaneum subsp. luzonicum Hack.",
+        "Saccharum violaceum Tussac"
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Sugarcane"
+    ],
+    "sinhalaName": "Uk (උක්)",
+    "description": "බහුවාර්ෂික ශාකයකි, කඳන් මීටර් 3 - 6 ක් උසැති අතර විෂ්කම්භය සෙන්ටිමීටර 2 - 5 කි. කඳන් සෘජු (erect) වන අතර අන්තර් පර්ව (internodes) කොළ, කහ, දුඹුරු, රතු, දම් හෝ ඉරි සහිත වර්ණවලින් යුක්ත වේ. ඒවා බොහෝ විට ඉටි සහිත (waxy), යුෂ බහුල, පැණි රසැති සහ රෝම රහිත (glabrous) වේ. පත්‍ර කොපු රෝම රහිත හෝ රෝම සහිත (pubescent) වන අතර පැරණි කොපු ගැලවී යයි. පත්‍ර කොපු මූලය (collar) විශාල සහ කැපී පෙනේ. පත්‍ර දිව (ligule) පටලමය ස්වභාවයක් ගන්නා අතර මිලිමීටර 5 ක් පමණ දිගය, සාමාන්‍යයෙන් කෙටි රෝම සහිත (ciliolate) වේ. පත්‍ර තල බොහෝ විට මීටර් 1 - 2 ක් දිග සහ සෙන්ටිමීටර 3 - 6 ක් පළල වන අතර, පත්‍ර දිවට මදක් ඉහළින් හැර අනෙක් කොටස් රෝම රහිත (glabrous) වේ. මල් කරල් (spikelets) මිලිමීටර 2.6 - 4 ක් දිගය. පහළ තුහින පත්‍රය (lower glume) මිලිමීටර 2.8 - 4 ක් දිගැති අතර ශාකමය (herbaceous) ස්වභාවයක් ගනී. පරාගධානි කහ පැහැති වන අතර කලංක (stigmas) දම් පැහැතිය.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "2572",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/JWHCQqhp/plant01057-02572.jpg"
+        },
+        {
+            "image_id": "2573",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/cXJbvpBh/plant01057-02573.jpg"
+        },
+        {
+            "image_id": "2574",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/tPwf9Zk1/plant01057-02574.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "උක් දඬු කෑමෙන් වෙන දේ දැනගමු : Health benefits of Sugarcane",
+                "url": "https://youtube.com/watch?v=E1wdWpDzO_4",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/E1wdWpDzO_4/hq720.jpg"
+            },
+            {
+                "title": "සැමට සෞඛ්‍ය සම්පන්න ජීවිතයක් සඳහා උක් යුෂ ❤️😊 Refreshing Sugarcane Juice Recipe",
+                "url": "https://youtube.com/watch?v=KsR3aiJRhlY",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/KsR3aiJRhlY/hq720.jpg"
+            },
+            {
+                "title": "★Homemade sugarcane juice & it's health benefits | උක් ජූස් බිව්වහම වෙන දේ දන්නවද?",
+                "url": "https://youtube.com/watch?v=TKDACcLWZrk",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/TKDACcLWZrk/hq720.jpg"
+            },
+            {
+                "title": "උක් ගසේ ගුණ දැන ගනිමු",
+                "url": "https://youtube.com/watch?v=A7Szfp44RgM",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/A7Szfp44RgM/hqdefault.jpg"
+            },
+            {
+                "title": "උක් ශාකය ගැන දැන ගමුද.Let's know about the sugarcane plant.",
+                "url": "https://youtube.com/watch?v=4R9Su7El7Vg",
+                "duration": "7:27",
+                "thumbnail": "https://i.ytimg.com/vi/4R9Su7El7Vg/hqdefault.jpg"
+            },
+            {
+                "title": "The amazing quality of sugar cane ..    උක්ගස් වල ඇති පුදුම හිතෙන  විශ්මිත ගුණය....",
+                "url": "https://youtube.com/watch?v=ysLMTwruRLA",
+                "duration": "7:56",
+                "thumbnail": "https://i.ytimg.com/vi/ysLMTwruRLA/hqdefault.jpg"
+            },
+            {
+                "title": "Sugarcane bush / Sugarcane plant / Saccharum officinarum / උක් පඳුර / uk gasa / uk padura",
+                "url": "https://youtube.com/watch?v=logElFdw7zc",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/logElFdw7zc/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ පිරි උක්ගස් පානය 🍹  Black Sugarcane Drink",
+                "url": "https://youtube.com/watch?v=gq_ke1kFaos",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/gq_ke1kFaos/hq720.jpg"
+            },
+            {
+                "title": "✔ අපේ අම්මා සීනි නැතුව බොන්න රසම රස ස්වාභාවික කුල් ඩ්‍රින්ක් එක Homemade sugarcane juice by Apé Amma",
+                "url": "https://youtube.com/watch?v=vIIqyZJiCrs",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/vIIqyZJiCrs/hq720.jpg"
+            },
+            {
+                "title": "උක් යුෂ මේ පුද්ගල කාණ්ඩය නම් පානය කරන්න එපා",
+                "url": "https://youtube.com/watch?v=LrXoiRTW5n0",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/LrXoiRTW5n0/hq720.jpg"
+            },
+            {
+                "title": "උක්කන්න ආස  අයට|පුරුශයන්ගෙ ධාතු පෝෂණයට මහගු ඔසුවකි|ලෝකයේ තියෙන රස්වත්ම ගහ|sugar cane benefits|hrab",
+                "url": "https://youtube.com/watch?v=re0hurLLLss",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/re0hurLLLss/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්ත හැඩ කරන බෝග 10 - උක්",
+                "url": "https://youtube.com/watch?v=9pwoa3LGBRQ",
+                "duration": "1:10",
+                "thumbnail": "https://i.ytimg.com/vi/9pwoa3LGBRQ/hq720.jpg"
+            },
+            {
+                "title": "උක් සාකය තූළින් අපේ ශරිරයට ලබා දෙන සූවය | ukwagawa ikmanwaga",
+                "url": "https://youtube.com/watch?v=bSQm1ggtREA",
+                "duration": "8:12",
+                "thumbnail": "https://i.ytimg.com/vi/bSQm1ggtREA/hq720.jpg"
+            },
+            {
+                "title": "Sugar cane juice උක්ගස් ජූස්",
+                "url": "https://youtube.com/watch?v=xtKdj_nErPA",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/xtKdj_nErPA/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "2573",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/cXJbvpBh/plant01057-02573.jpg"
-    },
-    {
-      "image_id": "2574",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/tPwf9Zk1/plant01057-02574.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

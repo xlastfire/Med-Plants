@@ -1,180 +1,365 @@
 {
-  "scientificName": "Nelumbo nucifera Gaertn.",
-  "synonyms": [
-    "Nelumbium album Bercht. & J.Presl",
-    "Nelumbium asiaticum Rich.",
-    "Nelumbium caspicum Fisch. ex DC.",
-    "Nelumbium caspium Eichw.",
-    "Nelumbium discolor Steud.",
-    "Nelumbium indicum Poir.",
-    "Nelumbium javanicum Poir.",
-    "Nelumbium marginatum Steud.",
-    "Nelumbium nelumbo (L.) Druce",
-    "Nelumbium rheedii C.Presl",
-    "Nelumbium speciosum f. caspicum (DC.) Regel",
-    "Nelumbium speciosum var. caspicum DC.",
-    "Nelumbium speciosum var. tamara DC.",
-    "Nelumbium speciosum Willd.",
-    "Nelumbium tamara (DC.) Sweet",
-    "Nelumbium transversum C.Presl",
-    "Nelumbium turbinatum Blanco",
-    "Nelumbium venosum C.Presl",
-    "Nelumbo caspica (Fisch.) Schipcz.",
-    "Nelumbo indica Pers.",
-    "Nelumbo komarovii Grossh.",
-    "Nelumbo nelumbo (L.) H.Karst.",
-    "Nelumbo speciosa G.Lawson",
-    "Nelumbo speciosa var. alba F.M.Bailey",
-    "Nymphaea nelumbo L.",
-    "Tamara alba Roxb. ex Steud.",
-    "Tamara hemisphaerica Buch.-Ham. ex Pritz.",
-    "Tamara rubra Roxb. ex Steud."
-  ],
-  "familyName": "NELUMBONACEAE",
-  "englishNames": [
-    "Indian Lotus",
-    "Lotus",
-    "Sacred Bean",
-    "Sacred lotus",
-    "East Indian Lotus"
-  ],
-  "sinhalaName": "Nelum (නෙළුම්)",
-  "description": "ජලජ පැළෑටි; රයිසෝම (rhizome) බඩගා යන සුළුය, සෙ.මී. 5ක් පමණ පළල වේ, සුදු පැහැතිය, දුඹුරු පැහැති ලප සහිතය, අන්තර් පර්ව (internodes) සෙ.මී. 50ක් හෝ ඊට වැඩි වේ. පහළ කොරපොතු පත්‍ර සෙ.මී. 5-6.5ක් දිගය, ඉහළ ඒවා සෙ.මී. 12-15ක් දිගය; පත්‍ර තලය (lamina) සෙ.මී. 30-60ක් හරස් වේ; ජලය යට පවතින පත්‍ර දඬු (petiole) දුර්වලය, වාතයේ පවතින පත්‍ර දඬු තද ස්වභාවයක් ගනී, මි.මී. 10-12ක් පළලය, දුරින් පිහිටි කටු සහිතව රළු (scabrous) වේ. අංකුරය සෙ.මී. 9ක් පමණ දිගය; පිටත ටෙපල් (tepals) කොළ පැහැතිය, හෝ කොළ පැහැයට හුරු දම් පැහැතිය; ඇතුළත ටෙපල් රෝස, දම් පැහැයට හුරු රෝස, රෝස පැහැයට හුරු සුදු හෝ සුදු පැහැතිය. ඉදුණු රෙසෙප්ටකල් (receptacles) මුදුනේ සෙ.මී. 10ක් පමණ හරස් වේ, ස්පොන්ජි වැනි ස්වභාවයක් ගනී, කළු පැහැතිය. ඇට (nuts) මි.මී. 18ක් පමණ දිගය. බීජ දුඹුරු පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Bleeding Hemorrhoids",
-      "sinhala": "ලේ අර්ශස්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Nelumbo nucifera Gaertn.",
+    "synonyms": [
+        "Nelumbium album Bercht. & J.Presl",
+        "Nelumbium asiaticum Rich.",
+        "Nelumbium caspicum Fisch. ex DC.",
+        "Nelumbium caspium Eichw.",
+        "Nelumbium discolor Steud.",
+        "Nelumbium indicum Poir.",
+        "Nelumbium javanicum Poir.",
+        "Nelumbium marginatum Steud.",
+        "Nelumbium nelumbo (L.) Druce",
+        "Nelumbium rheedii C.Presl",
+        "Nelumbium speciosum f. caspicum (DC.) Regel",
+        "Nelumbium speciosum var. caspicum DC.",
+        "Nelumbium speciosum var. tamara DC.",
+        "Nelumbium speciosum Willd.",
+        "Nelumbium tamara (DC.) Sweet",
+        "Nelumbium transversum C.Presl",
+        "Nelumbium turbinatum Blanco",
+        "Nelumbium venosum C.Presl",
+        "Nelumbo caspica (Fisch.) Schipcz.",
+        "Nelumbo indica Pers.",
+        "Nelumbo komarovii Grossh.",
+        "Nelumbo nelumbo (L.) H.Karst.",
+        "Nelumbo speciosa G.Lawson",
+        "Nelumbo speciosa var. alba F.M.Bailey",
+        "Nymphaea nelumbo L.",
+        "Tamara alba Roxb. ex Steud.",
+        "Tamara hemisphaerica Buch.-Ham. ex Pritz.",
+        "Tamara rubra Roxb. ex Steud."
+    ],
+    "familyName": "NELUMBONACEAE",
+    "englishNames": [
+        "Indian Lotus",
+        "Lotus",
+        "Sacred Bean",
+        "Sacred lotus",
+        "East Indian Lotus"
+    ],
+    "sinhalaName": "Nelum (නෙළුම්)",
+    "description": "ජලජ පැළෑටි; රයිසෝම (rhizome) බඩගා යන සුළුය, සෙ.මී. 5ක් පමණ පළල වේ, සුදු පැහැතිය, දුඹුරු පැහැති ලප සහිතය, අන්තර් පර්ව (internodes) සෙ.මී. 50ක් හෝ ඊට වැඩි වේ. පහළ කොරපොතු පත්‍ර සෙ.මී. 5-6.5ක් දිගය, ඉහළ ඒවා සෙ.මී. 12-15ක් දිගය; පත්‍ර තලය (lamina) සෙ.මී. 30-60ක් හරස් වේ; ජලය යට පවතින පත්‍ර දඬු (petiole) දුර්වලය, වාතයේ පවතින පත්‍ර දඬු තද ස්වභාවයක් ගනී, මි.මී. 10-12ක් පළලය, දුරින් පිහිටි කටු සහිතව රළු (scabrous) වේ. අංකුරය සෙ.මී. 9ක් පමණ දිගය; පිටත ටෙපල් (tepals) කොළ පැහැතිය, හෝ කොළ පැහැයට හුරු දම් පැහැතිය; ඇතුළත ටෙපල් රෝස, දම් පැහැයට හුරු රෝස, රෝස පැහැයට හුරු සුදු හෝ සුදු පැහැතිය. ඉදුණු රෙසෙප්ටකල් (receptacles) මුදුනේ සෙ.මී. 10ක් පමණ හරස් වේ, ස්පොන්ජි වැනි ස්වභාවයක් ගනී, කළු පැහැතිය. ඇට (nuts) මි.මී. 18ක් පමණ දිගය. බීජ දුඹුරු පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Bleeding Hemorrhoids",
+            "sinhala": "ලේ අර්ශස්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cholera",
+            "sinhala": "කොලරාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Leprosy",
+            "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Stamens of the flower",
+        "Leaves",
+        "Flower",
+        "seeds",
+        "Rootstock"
+    ],
+    "images": [
+        {
+            "image_id": "542",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/8DhHpXY0/plant00917-00542.jpg"
+        },
+        {
+            "image_id": "543",
+            "caption": "Flower and Young Fruit",
+            "url": "https://i.ibb.co/gFWbpxb4/plant00917-00543.jpg"
+        },
+        {
+            "image_id": "3820",
+            "caption": "Flower Bud (PMR)",
+            "url": "https://i.ibb.co/5gFWzqCN/plant00917-03820.jpg"
+        },
+        {
+            "image_id": "3821",
+            "caption": "Mature Fruit (PMR)",
+            "url": "https://i.ibb.co/JjfCTy76/plant00917-03821.jpg"
+        },
+        {
+            "image_id": "3822",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/zhwgWD92/plant00917-03822.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "නෙළුම් මල් වලට කියන සමාන පද 🪷Lotus #foryou #nature #lotus #cute #viralvideo #trend #trending #viral",
+                "url": "https://youtube.com/watch?v=aVDQHzzqTZk",
+                "duration": "1:03",
+                "thumbnail": "https://i.ytimg.com/vi/aVDQHzzqTZk/hq720.jpg"
+            },
+            {
+                "title": "How to plant a Lotus tuber correctly  ( නෙළුම් පැලයක් නිවැරදිව සිටුවා ගනිමු )",
+                "url": "https://youtube.com/watch?v=MIpAvpiD8G8",
+                "duration": "8:10",
+                "thumbnail": "https://i.ytimg.com/vi/MIpAvpiD8G8/hq720.jpg"
+            },
+            {
+                "title": "ගෑවුණු තැන කන්න පුළුවන් මෙහෙම නෙළුම් අල උයල බලන්න Lotus Root Curry br Kusala's Simple Life",
+                "url": "https://youtube.com/watch?v=iyuL6DzDrLs",
+                "duration": "4:54",
+                "thumbnail": "https://i.ytimg.com/vi/iyuL6DzDrLs/hqdefault.jpg"
+            },
+            {
+                "title": "නෙළුම් - Hiru Tele සිනමා සිත්තම",
+                "url": "https://youtube.com/watch?v=t686zphPDHs",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/t686zphPDHs/hq720.jpg"
+            },
+            {
+                "title": "තද ගතිය නැතුව ලේසියෙන් සුපිරියට නෙළුම් අල කරිය හදන විදිහ | Lotus Root Curry",
+                "url": "https://youtube.com/watch?v=_YF88FsiA9M",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/_YF88FsiA9M/hq720.jpg"
+            },
+            {
+                "title": "Neluni (නෙලුනි)  Theme Song | Kalpana Kavindi | EBC Music",
+                "url": "https://youtube.com/watch?v=JuEl0Vo3vtE",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/JuEl0Vo3vtE/frame0.jpg"
+            },
+            {
+                "title": "නෙලුම් පැලයේ ඔසු ගුණ-Medicinal Benefits of Lotus",
+                "url": "https://youtube.com/watch?v=FDJ0mQc8RS4",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/FDJ0mQc8RS4/hq720.jpg"
+            },
+            {
+                "title": "නෙලුම් ගුණ බල්",
+                "url": "https://youtube.com/watch?v=D79Uiu-f6cI",
+                "duration": "1:10",
+                "thumbnail": "https://i.ytimg.com/vi/D79Uiu-f6cI/hq720.jpg"
+            },
+            {
+                "title": "නෙළුම් ඇට වල තියන ගුනාත්මක බව චීන ජාතිකයෙක්ගෙන් ඉගෙන ගමු | Nelum | Sheng Li",
+                "url": "https://youtube.com/watch?v=5hQPaGOiHFU",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/5hQPaGOiHFU/hq720.jpg"
+            },
+            {
+                "title": "නෙළුම් ඇට කරියක් හදන්නේ මෙහෙමයි. #lotus seeds",
+                "url": "https://youtube.com/watch?v=WHNt4L2tZeg",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/WHNt4L2tZeg/hqdefault.jpg"
+            },
+            {
+                "title": "නෙළුම් තෙල් හදන හරිම විදිහ. How to stop Hair fall",
+                "url": "https://youtube.com/watch?v=iCWTXwWk5SA",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/iCWTXwWk5SA/hqdefault.jpg"
+            },
+            {
+                "title": "රස වගේම ගුණ ඖෂධීය නෙලුම් අල කැඳ #ගමගෙදරකුස්සිය #gamagedarakussiya #villagefood #villagelife .",
+                "url": "https://youtube.com/watch?v=2TysyS14Ghg",
+                "duration": "3:33",
+                "thumbnail": "https://i.ytimg.com/vi/2TysyS14Ghg/hqdefault.jpg"
+            },
+            {
+                "title": "හිස් කබල සිසිල් කරන නෙළුම් තෙල්",
+                "url": "https://youtube.com/watch?v=qzz9j45_0lg",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/qzz9j45_0lg/hq720.jpg"
+            },
+            {
+                "title": "Lotus Root Recipe - නෙලුම් අල මැල්ලුම #lotus root#testy#simple#spicy",
+                "url": "https://youtube.com/watch?v=FOnjuNBRCr8",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/FOnjuNBRCr8/hq720.jpg"
+            },
+            {
+                "title": "පියවර හතරෙන් ගෙදරදීම නෙළුම් මල්  |LEADING LADY  EP 1 | Homemade Lotus Flower Plantation",
+                "url": "https://youtube.com/watch?v=VIVnW4gce8w",
+                "duration": "7:39",
+                "thumbnail": "https://i.ytimg.com/vi/VIVnW4gce8w/hq720.jpg"
+            },
+            {
+                "title": "දින 3න් නෙලුම් බීජ පැල කරගන්නා නිවරදි ක්‍රමය -  How To Grow Lotus  Plants From Seeds",
+                "url": "https://youtube.com/watch?v=j5cuhcTYL7g",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/j5cuhcTYL7g/hq720.jpg"
+            },
+            {
+                "title": "නෙලුම් අල රසට උයන හැටි - NELUM ALA RECIPE | NELUM ALA CURRY | LOTUS ROOT RECIPE",
+                "url": "https://youtube.com/watch?v=vUC4UUFqEwk",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/vUC4UUFqEwk/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම ලොකුවට මල් පිපෙන්න ඕලු නෙළුම් මානෙල් මේ විදියට හදල බලන්න  Planting Water Plant from  Kusala",
+                "url": "https://youtube.com/watch?v=HnJE4_QvyYY",
+                "duration": "8:16",
+                "thumbnail": "https://i.ytimg.com/vi/HnJE4_QvyYY/hqdefault.jpg"
+            },
+            {
+                "title": "How to grow lotus at home from seeds ගෙදරදීම නෙලුම් පැලයක් පහසුවෙන් හදාගමු",
+                "url": "https://youtube.com/watch?v=u253mcRJhfM",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/u253mcRJhfM/hq720.jpg"
+            },
+            {
+                "title": "මාසෙකින් මල් ඕනේ නම් ඕලු නෙළුම් මෙහෙම හදන්න || Secrets Of Growing waterlily and Lotus",
+                "url": "https://youtube.com/watch?v=eBdUprVj4MM",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/eBdUprVj4MM/hq720.jpg"
+            },
+            {
+                "title": "නෙලුම් මලේ පෙත්තෙන් ඔබේ මනසේ ශක්තිය කියවන හැටි මීට කලින් දැනසිටියාද . මහා හෙළිදරව්වක් මේක #nature",
+                "url": "https://youtube.com/watch?v=IKNaGoSkROc",
+                "duration": "39:54",
+                "thumbnail": "https://i.ytimg.com/vi/IKNaGoSkROc/hq720.jpg"
+            },
+            {
+                "title": "ඕලු නෙළුම් මල් බරක් ගන්න මේ පොහොර දාන්න/Mal wagawa/lotus",
+                "url": "https://youtube.com/watch?v=mxVZsJJmGPM",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/mxVZsJJmGPM/hq720.jpg"
+            },
+            {
+                "title": "How to grow lotus  from seeds in 10 days.step by step. දින 10කින් නෙලුම් ඇට මගින් පැල ලබා ගැනීම",
+                "url": "https://youtube.com/watch?v=rDTJXmhfXbk",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/rDTJXmhfXbk/hq720.jpg"
+            },
+            {
+                "title": "නෙලුම් මල් වල කුමි රෝගය මර්දනය",
+                "url": "https://youtube.com/watch?v=ZfCaw-OG-VI",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/ZfCaw-OG-VI/hqdefault.jpg"
+            },
+            {
+                "title": "බැංකොක් නෙළුම් මල් වගාවට අත්වැලක්  ( How to Grow Bangkok Lotus Flowers )",
+                "url": "https://youtube.com/watch?v=pypVkNY5egg",
+                "duration": "13:46",
+                "thumbnail": "https://i.ytimg.com/vi/pypVkNY5egg/hq720.jpg"
+            },
+            {
+                "title": "ඕලු/නෙලුම්/මානෙල් ස්වයං රැකියාවක් ලෙස. මුල සිට සරලව. මේ විදියට හැදුවොත් මාසෙන් මල් ගන්න පුලුවන්.",
+                "url": "https://youtube.com/watch?v=NqKYBRQM_dM",
+                "duration": "9:50",
+                "thumbnail": "https://i.ytimg.com/vi/NqKYBRQM_dM/hq720.jpg"
+            },
+            {
+                "title": "Fertilizers for Lotus & Waterlily ( නෙළුම් මානෙල් සඳහා යොදන පොහොර වර්ග ගැන දැන ගනිමු )",
+                "url": "https://youtube.com/watch?v=AOzILpKOdVg",
+                "duration": "7:46",
+                "thumbnail": "https://i.ytimg.com/vi/AOzILpKOdVg/hq720.jpg"
+            },
+            {
+                "title": "නෙළුම් මලේ අධ්‍යාත්මික ගුණය සහ ඖෂධ ගුණය",
+                "url": "https://youtube.com/watch?v=Rp8EG9j29e8",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/Rp8EG9j29e8/hq720.jpg"
+            },
+            {
+                "title": "නෙළු ශාකය",
+                "url": "https://youtube.com/watch?v=fmKd6UNAtP8",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/fmKd6UNAtP8/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ දැවිල්ලට, නෙළුම් දඬු වලින් ගෙදර හදාගන්න පුළුවන් රහස් බෙහෙතක් තියෙනවා | බුදුවෙදකම | EPISODE 42",
+                "url": "https://youtube.com/watch?v=sxQYpLmGzJo",
+                "duration": "20:35",
+                "thumbnail": "https://i.ytimg.com/vi/sxQYpLmGzJo/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cholera",
-      "sinhala": "කොලරාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Leprosy",
-      "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Stamens of the flower",
-    "Leaves",
-    "Flower",
-    "seeds",
-    "Rootstock"
-  ],
-  "images": [
-    {
-      "image_id": "542",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/8DhHpXY0/plant00917-00542.jpg"
-    },
-    {
-      "image_id": "543",
-      "caption": "Flower and Young Fruit",
-      "url": "https://i.ibb.co/gFWbpxb4/plant00917-00543.jpg"
-    },
-    {
-      "image_id": "3820",
-      "caption": "Flower Bud (PMR)",
-      "url": "https://i.ibb.co/5gFWzqCN/plant00917-03820.jpg"
-    },
-    {
-      "image_id": "3821",
-      "caption": "Mature Fruit (PMR)",
-      "url": "https://i.ibb.co/JjfCTy76/plant00917-03821.jpg"
-    },
-    {
-      "image_id": "3822",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/zhwgWD92/plant00917-03822.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

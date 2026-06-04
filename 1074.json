@@ -1,94 +1,104 @@
 {
-  "scientificName": "Persicaria barbata (L.) H.Hara",
-  "synonyms": [
-    "Persicaria barbata var. hirtella (Meisn.) M.A.Hassan",
-    "Persicaria kotoshoensis (Ohki) Sasaki",
-    "Persicaria omerostroma (Ohki) Sasaki",
-    "Pogalis barbata (L.) Raf.",
-    "Polygonum barbatum L.",
-    "Polygonum barbatum var. fischeri Dammer",
-    "Polygonum barbatum var. nicobaricum R.C.Srivast.",
-    "Polygonum erythrodes Miq.",
-    "Polygonum fissum Blume",
-    "Polygonum fluviatile Buch.-Ham. ex Endl.",
-    "Polygonum gramineum Noronha",
-    "Polygonum kotoshoense Ohki",
-    "Polygonum luxurians Danser",
-    "Polygonum manoraene Buch.-Ham. ex Endl.",
-    "Polygonum marmoramae Ham. ex Hook.f.",
-    "Polygonum omerostromum Ohki",
-    "Polygonum ooagariense Masam.",
-    "Polygonum raptae Buch.-Ham. ex Endl.",
-    "Polygonum rivulare J.Koenig ex Roxb.",
-    "Polygonum stoloniferum Blanco",
-    "Polygonum strigillosum Zipp. ex Miq."
-  ],
-  "familyName": "POLYGONACEAE",
-  "englishNames": [
-    "Bearded Knotweed",
-    "Water Milkwort",
-    "Bunchy Sedge",
-    "Field Sedge"
-  ],
-  "sinhalaName": "Ratu kimbulwenna (රතු කිඹුල්වැන්න)",
-  "description": "වාර්ෂික පැළෑටියකි, උස සෙ.මී. 30-60 (-75) කි; කඳ රෝම රහිතය (glabrous), සිහින් රේඛා සහිත සහ වලවල් සහිතය (lineolate-canaliculate). පත්‍ර සෙ.මී. 1.5-15 x 0.25-3.0 ප්‍රමාණයෙන් යුක්තය, පත්‍ර දාරය, මධ්‍ය නාරටිය සහ නහර වල ඇති පක්ෂ්ම (ciliate) හැර අනෙක් කොටස් රෝම රහිතය (glabrous); වෘන්ත රහිත (sessile) හෝ අර්ධ වෘන්ත සහිතය (subsessile); පත්‍ර වෘන්තය මි.මී. 2-4 (-6) දිගය. පත්‍ර පාදස්ථ ආවරණය (Ochrea) මි.මී. 1.0-3.5 දිග, නලයක හැඩැති, දුඹුරු පැහැතිය. පුෂ්ප මංජරිය සෙ.මී. 5-10 දිග, මල් රාශියක් සහිත, අතු බෙදුණු පොකුරු මල් (raceme) වන අතර එක් පොකුරක කරල් (spikes) 1-6 බැගින් පිහිටයි; පුෂ්ප මංජරිය දණ්ඩ (peduncle) සෙ.මී. 0.5-3.0 (-5.0) දිග, රෝම රහිතය (glabrous). මල් සුදු පැහැතිය, මි.මී. 1.0-2.0 පළල, මල් දඬුව (pedicel) මි.මී. 0.75-1.5 දිගය. උප පත්‍ර ආවරණ (Ochreolae) මි.මී. 1.5-3.5 දිග, නලයක හැඩැතිය. පුෂ්ප විවෘත (Tepals) 5 කි, මි.මී. 1.5-2.5 x 0.75-1.25 ප්‍රමාණයෙන් යුක්තය, හෙල්ලයක හැඩැති-පෙති හැඩැති (oblanceolate-obovate), අග මොටය (obtuse), පේළි දෙකකින් යුක්තය (biseriate).",
-  "treatments": [
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Persicaria barbata (L.) H.Hara",
+    "synonyms": [
+        "Persicaria barbata var. hirtella (Meisn.) M.A.Hassan",
+        "Persicaria kotoshoensis (Ohki) Sasaki",
+        "Persicaria omerostroma (Ohki) Sasaki",
+        "Pogalis barbata (L.) Raf.",
+        "Polygonum barbatum L.",
+        "Polygonum barbatum var. fischeri Dammer",
+        "Polygonum barbatum var. nicobaricum R.C.Srivast.",
+        "Polygonum erythrodes Miq.",
+        "Polygonum fissum Blume",
+        "Polygonum fluviatile Buch.-Ham. ex Endl.",
+        "Polygonum gramineum Noronha",
+        "Polygonum kotoshoense Ohki",
+        "Polygonum luxurians Danser",
+        "Polygonum manoraene Buch.-Ham. ex Endl.",
+        "Polygonum marmoramae Ham. ex Hook.f.",
+        "Polygonum omerostromum Ohki",
+        "Polygonum ooagariense Masam.",
+        "Polygonum raptae Buch.-Ham. ex Endl.",
+        "Polygonum rivulare J.Koenig ex Roxb.",
+        "Polygonum stoloniferum Blanco",
+        "Polygonum strigillosum Zipp. ex Miq."
+    ],
+    "familyName": "POLYGONACEAE",
+    "englishNames": [
+        "Bearded Knotweed",
+        "Water Milkwort",
+        "Bunchy Sedge",
+        "Field Sedge"
+    ],
+    "sinhalaName": "Ratu kimbulwenna (රතු කිඹුල්වැන්න)",
+    "description": "වාර්ෂික පැළෑටියකි, උස සෙ.මී. 30-60 (-75) කි; කඳ රෝම රහිතය (glabrous), සිහින් රේඛා සහිත සහ වලවල් සහිතය (lineolate-canaliculate). පත්‍ර සෙ.මී. 1.5-15 x 0.25-3.0 ප්‍රමාණයෙන් යුක්තය, පත්‍ර දාරය, මධ්‍ය නාරටිය සහ නහර වල ඇති පක්ෂ්ම (ciliate) හැර අනෙක් කොටස් රෝම රහිතය (glabrous); වෘන්ත රහිත (sessile) හෝ අර්ධ වෘන්ත සහිතය (subsessile); පත්‍ර වෘන්තය මි.මී. 2-4 (-6) දිගය. පත්‍ර පාදස්ථ ආවරණය (Ochrea) මි.මී. 1.0-3.5 දිග, නලයක හැඩැති, දුඹුරු පැහැතිය. පුෂ්ප මංජරිය සෙ.මී. 5-10 දිග, මල් රාශියක් සහිත, අතු බෙදුණු පොකුරු මල් (raceme) වන අතර එක් පොකුරක කරල් (spikes) 1-6 බැගින් පිහිටයි; පුෂ්ප මංජරිය දණ්ඩ (peduncle) සෙ.මී. 0.5-3.0 (-5.0) දිග, රෝම රහිතය (glabrous). මල් සුදු පැහැතිය, මි.මී. 1.0-2.0 පළල, මල් දඬුව (pedicel) මි.මී. 0.75-1.5 දිගය. උප පත්‍ර ආවරණ (Ochreolae) මි.මී. 1.5-3.5 දිග, නලයක හැඩැතිය. පුෂ්ප විවෘත (Tepals) 5 කි, මි.මී. 1.5-2.5 x 0.75-1.25 ප්‍රමාණයෙන් යුක්තය, හෙල්ලයක හැඩැති-පෙති හැඩැති (oblanceolate-obovate), අග මොටය (obtuse), පේළි දෙකකින් යුක්තය (biseriate).",
+    "treatments": [
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Strangury",
+            "sinhala": "මුත්‍රා බිංදු බිංදු පිටවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Root",
+        "seeds"
+    ],
+    "images": [
+        {
+            "image_id": "",
+            "caption": "",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQGxTL4ml8YJu8EqzWlSkXCCxW9QCwBBHQ7Zs58KvWtuAQKh2TmhokexvuhlpvjTm8PgWt25W7Dvm3_Cpw0KDe5dVErvSbD3l57y_oo_zF8LKdWwwvbG9EeTrTmBYUHNEky9cUPssR/s1600/Polygonum_glabrum_Willd..jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": []
     },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Strangury",
-      "sinhala": "මුත්‍රා බිංදු බිංදු පිටවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Root",
-    "seeds"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

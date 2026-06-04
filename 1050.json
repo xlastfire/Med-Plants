@@ -1,130 +1,603 @@
 {
-  "scientificName": "Paspalum scrobiculatum L.",
-  "synonyms": [
-    "Paspalum adelogaeum Steud.",
-    "Paspalum akoense Hayata",
-    "Paspalum amazonicum Trin.",
-    "Paspalum auriculatum J.Presl",
-    "Paspalum barbatum Schumach.",
-    "Paspalum borbonicum Steud.",
-    "Paspalum boscianum Flüggé",
-    "Paspalum cartilagineum J.Presl",
-    "Paspalum cartilagineum var. biglumaceum Fosberg & Sachet",
-    "Paspalum coloratum Rich. ex Döll",
-    "Paspalum commersonii Lam.",
-    "Paspalum commersonii var. hirsutum Jansen",
-    "Paspalum commersonii var. polystachyum (R.Br.) Stapf",
-    "Paspalum commersonii var. turgidum (Buse) Jansen",
-    "Paspalum commutatum Nees",
-    "Paspalum confertum Leconte",
-    "Paspalum coromandelinum Lam.",
-    "Paspalum deightonii (C.E.Hubb.) Clayton",
-    "Paspalum dissectum var. grande Nees",
-    "Paspalum firmum Trin.",
-    "Paspalum frumentaceum Rottler ex P.Beauv",
-    "Paspalum horneri Henrard",
-    "Paspalum jardinii Steud.",
-    "Paspalum kora Willd.",
-    "Paspalum ledermannii Mez",
-    "Paspalum longifolium var. pseudo-orbiculare Jansen",
-    "Paspalum mauritanicum Nees ex Steud.",
-    "Paspalum metabolon Steud.",
-    "Paspalum metzii Steud.",
-    "Paspalum moratii Toutain",
-    "Paspalum orbiculare G.Forst.",
-    "Paspalum orbiculare var. cartilagineum (J.Presl) Summerh. & C.E.Hubb.",
-    "Paspalum palustre Vanderyst",
-    "Paspalum polo F.M.Bailey",
-    "Paspalum polystachyum R.Br.",
-    "Paspalum puberulum Roem. & Schult.",
-    "Paspalum pubescens R.Br.",
-    "Paspalum purpurascens Elliott",
-    "Paspalum scrobiculatum var. auriculatum (J.Presl) Merr.",
-    "Paspalum scrobiculatum var. biscpicatum Hack. ex Merr.",
-    "Paspalum scrobiculatum var. bispiculatum Hack.",
-    "Paspalum scrobiculatum var. commersonii (Lam.) Stapf",
-    "Paspalum scrobiculatum var. deightonii C.E.Hubb.",
-    "Paspalum scrobiculatum var. frumentaceum Stapf",
-    "Paspalum scrobiculatum var. gracillimum Domin",
-    "Paspalum scrobiculatum var. horneri (Henrard) de Koning & Sosef",
-    "Paspalum scrobiculatum var. jardinii (Steud.) Franch.",
-    "Paspalum scrobiculatum var. orbiculare (G.Forst.) Hack.",
-    "Paspalum scrobiculatum var. polystachyum (R.Br.) A.Chev.",
-    "Paspalum scrobiculatum var. turgidum Buse",
-    "Paspalum scrobiculatum var. velutinum Hack.",
-    "Paspalum serpens J.Presl ex Trin.",
-    "Paspalum thunbergii var. minus Makino",
-    "Paspalum virgatum var. latifolium Alph.Wood",
-    "Paspalum virgatum var. purpurascens (Elliott) Alph.Wood",
-    "Paspalum virgatum Walter",
-    "Paspalum zollingeri Steud."
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "India Paspalum",
-    "Creeping Paspalum",
-    "Ditch Grass",
-    "Veld Paspalum",
-    "Kodo Millet",
-    "Water Couch"
-  ],
-  "sinhalaName": "Amu (අමු)",
-  "description": "ගුල්මමය (caespitose) බහුවාර්ෂික ශාකයකි; කඳන් බොහෝ විට සෙ.මී. 10-120 ක් උසය. පත්‍ර තල බොහෝ විට සෙ.මී. 5-30 ක් දිග සහ මි.මී. 2-8 ක් පළලය. පුෂ්ප මංජරිය (panicle) සෙ.මී. 2-10 ක් දිගය. කරල් (spikelets) මි.මී. 1.8-2.8 ක් දිග සහ මි.මී. 1.5-2.3 ක් පළලය. ධාන්‍ය ඵලය (caryopsis) මි.මී. 1.1-1.5 ක් දිග සහ මි.මී. 1-1.4 ක් පළලය.",
-  "treatments": [
-    {
-      "treatment": "Body Heat Relief",
-      "sinhala": "ශරීරයේ දැවිල්ල නිවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Paspalum scrobiculatum L.",
+    "synonyms": [
+        "Paspalum adelogaeum Steud.",
+        "Paspalum akoense Hayata",
+        "Paspalum amazonicum Trin.",
+        "Paspalum auriculatum J.Presl",
+        "Paspalum barbatum Schumach.",
+        "Paspalum borbonicum Steud.",
+        "Paspalum boscianum Flüggé",
+        "Paspalum cartilagineum J.Presl",
+        "Paspalum cartilagineum var. biglumaceum Fosberg & Sachet",
+        "Paspalum coloratum Rich. ex Döll",
+        "Paspalum commersonii Lam.",
+        "Paspalum commersonii var. hirsutum Jansen",
+        "Paspalum commersonii var. polystachyum (R.Br.) Stapf",
+        "Paspalum commersonii var. turgidum (Buse) Jansen",
+        "Paspalum commutatum Nees",
+        "Paspalum confertum Leconte",
+        "Paspalum coromandelinum Lam.",
+        "Paspalum deightonii (C.E.Hubb.) Clayton",
+        "Paspalum dissectum var. grande Nees",
+        "Paspalum firmum Trin.",
+        "Paspalum frumentaceum Rottler ex P.Beauv",
+        "Paspalum horneri Henrard",
+        "Paspalum jardinii Steud.",
+        "Paspalum kora Willd.",
+        "Paspalum ledermannii Mez",
+        "Paspalum longifolium var. pseudo-orbiculare Jansen",
+        "Paspalum mauritanicum Nees ex Steud.",
+        "Paspalum metabolon Steud.",
+        "Paspalum metzii Steud.",
+        "Paspalum moratii Toutain",
+        "Paspalum orbiculare G.Forst.",
+        "Paspalum orbiculare var. cartilagineum (J.Presl) Summerh. & C.E.Hubb.",
+        "Paspalum palustre Vanderyst",
+        "Paspalum polo F.M.Bailey",
+        "Paspalum polystachyum R.Br.",
+        "Paspalum puberulum Roem. & Schult.",
+        "Paspalum pubescens R.Br.",
+        "Paspalum purpurascens Elliott",
+        "Paspalum scrobiculatum var. auriculatum (J.Presl) Merr.",
+        "Paspalum scrobiculatum var. biscpicatum Hack. ex Merr.",
+        "Paspalum scrobiculatum var. bispiculatum Hack.",
+        "Paspalum scrobiculatum var. commersonii (Lam.) Stapf",
+        "Paspalum scrobiculatum var. deightonii C.E.Hubb.",
+        "Paspalum scrobiculatum var. frumentaceum Stapf",
+        "Paspalum scrobiculatum var. gracillimum Domin",
+        "Paspalum scrobiculatum var. horneri (Henrard) de Koning & Sosef",
+        "Paspalum scrobiculatum var. jardinii (Steud.) Franch.",
+        "Paspalum scrobiculatum var. orbiculare (G.Forst.) Hack.",
+        "Paspalum scrobiculatum var. polystachyum (R.Br.) A.Chev.",
+        "Paspalum scrobiculatum var. turgidum Buse",
+        "Paspalum scrobiculatum var. velutinum Hack.",
+        "Paspalum serpens J.Presl ex Trin.",
+        "Paspalum thunbergii var. minus Makino",
+        "Paspalum virgatum var. latifolium Alph.Wood",
+        "Paspalum virgatum var. purpurascens (Elliott) Alph.Wood",
+        "Paspalum virgatum Walter",
+        "Paspalum zollingeri Steud."
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "India Paspalum",
+        "Creeping Paspalum",
+        "Ditch Grass",
+        "Veld Paspalum",
+        "Kodo Millet",
+        "Water Couch"
+    ],
+    "sinhalaName": "Amu (අමු)",
+    "description": "ගුල්මමය (caespitose) බහුවාර්ෂික ශාකයකි; කඳන් බොහෝ විට සෙ.මී. 10-120 ක් උසය. පත්‍ර තල බොහෝ විට සෙ.මී. 5-30 ක් දිග සහ මි.මී. 2-8 ක් පළලය. පුෂ්ප මංජරිය (panicle) සෙ.මී. 2-10 ක් දිගය. කරල් (spikelets) මි.මී. 1.8-2.8 ක් දිග සහ මි.මී. 1.5-2.3 ක් පළලය. ධාන්‍ය ඵලය (caryopsis) මි.මී. 1.1-1.5 ක් දිග සහ මි.මී. 1-1.4 ක් පළලය.",
+    "treatments": [
+        {
+            "treatment": "Body Heat Relief",
+            "sinhala": "ශරීරයේ දැවිල්ල නිවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Pruritus",
+            "sinhala": "චර්ම රෝග නිසා ඇතිවන කැසීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Abscesses",
+            "sinhala": "සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කහවල ගුණ|Turmeric",
+                "url": "https://youtube.com/watch?v=B2JewPwa2fo",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/B2JewPwa2fo/hqdefault.jpg"
+            },
+            {
+                "title": "කහ වල ඇති ඔෳෂධිය ගුණ 15ක්|Turmeric15 medicinal properties of",
+                "url": "https://youtube.com/watch?v=_eRkyprVr4o",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/_eRkyprVr4o/hqdefault.jpg"
+            },
+            {
+                "title": "අමු කහ වලින් ඇත්තටම සුදු වෙනවද?  අපෙ හමට මොකද්ද වෙන්නෙ?",
+                "url": "https://youtube.com/watch?v=h3AyCS4lw0Y",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/h3AyCS4lw0Y/hq720.jpg"
+            },
+            {
+                "title": "කහවල ගුණ|Turmeric",
+                "url": "https://youtube.com/watch?v=kXgRqEzW4j4",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/kXgRqEzW4j4/frame0.jpg"
+            },
+            {
+                "title": "අමු කහ කෑල්ලකින් ඔබේ දිවියම පෙරළියක් කරගන්නේ මෙහෙමයි",
+                "url": "https://youtube.com/watch?v=qgPSnSwdK-8",
+                "duration": "31:15",
+                "thumbnail": "https://i.ytimg.com/vi/qgPSnSwdK-8/hq720.jpg"
+            },
+            {
+                "title": "අමූ ම්රිස් කෑවට මේ ගැන දැනගෙන හිටියද? | Green Chili By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=AyzwLUDmSXs",
+                "duration": "8:04",
+                "thumbnail": "https://i.ytimg.com/vi/AyzwLUDmSXs/hq720.jpg"
+            },
+            {
+                "title": "ඔබ කන්න ඕනේ ඉදුණු අඹ ද අමු අඹ ද තීරණය කරන්නේ මෙහෙමයි!|  Raw & Ripen Mango By Nutritionist Hiroshan",
+                "url": "https://youtube.com/watch?v=aGd2Kcyxs80",
+                "duration": "12:51",
+                "thumbnail": "https://i.ytimg.com/vi/aGd2Kcyxs80/hq720.jpg"
+            },
+            {
+                "title": "රට මිරිස් වල විශ්මිත ගුණ - Amazing properties of country chilies",
+                "url": "https://youtube.com/watch?v=C5NDSm11Dsk",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/C5NDSm11Dsk/hq720.jpg"
+            },
+            {
+                "title": "අමු, මෙනේරි සහ තණ සහල් කන අයට ලැබෙන දේවල් මෙන්න : Benefits of millet grain",
+                "url": "https://youtube.com/watch?v=egPfLQtF2Cg",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/egPfLQtF2Cg/hq720.jpg"
+            },
+            {
+                "title": "ඇහුවොත් ආසාවෙන් කන්න හිතෙන ගස්ලබු වල විශ්මිත ගුණ මෙන්න",
+                "url": "https://youtube.com/watch?v=h8QPCWSZTWw",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/h8QPCWSZTWw/hq720.jpg"
+            },
+            {
+                "title": "අඹ වල විශ්මිත ගුණ - Amazing properties of mangoes",
+                "url": "https://youtube.com/watch?v=NI175lZx2M0",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/NI175lZx2M0/hq720.jpg"
+            },
+            {
+                "title": "ඉඟුරු වල අරුම පුදුම ගුණ 7ක් මෙන්න | 7 Amazing Benefits Of Ginger",
+                "url": "https://youtube.com/watch?v=FPmSMqgXkcQ",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/FPmSMqgXkcQ/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු වල ඇති විශ්මිත ගුණ - Amazing properties of papaya for a healthy life",
+                "url": "https://youtube.com/watch?v=GC2vEEl4OzM",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/GC2vEEl4OzM/hq720.jpg"
+            },
+            {
+                "title": "'' නොරොච්චෝලේ ගල්අඟුරු අළුවලින් පළාතම විනාසයි...''🫵😎🤬🫵කල්පිටියේ මිගෙට්ටුවත්තේ හාමුදුරුවෝ කියන කතාව",
+                "url": "https://youtube.com/watch?v=wlkIzB6zI7E",
+                "duration": "50:54",
+                "thumbnail": "https://i.ytimg.com/vi/wlkIzB6zI7E/hq720.jpg"
+            },
+            {
+                "title": "මිරිස්වල ඇති නිරෝගී භාවයේ සහ දීර්ඝායු ලැබීමේ රහස්. | The secrets of health and longevity in chilies.",
+                "url": "https://youtube.com/watch?v=JnImMgbkdQ4",
+                "duration": "10:32",
+                "thumbnail": "https://i.ytimg.com/vi/JnImMgbkdQ4/hq720.jpg"
+            },
+            {
+                "title": "තක්කාලි වල විශ්මිත ගුණ - Amazing properties of tomatoes / Health",
+                "url": "https://youtube.com/watch?v=MySvE0CS0To",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/MySvE0CS0To/hq720.jpg"
+            },
+            {
+                "title": "ජාතියක් ආරක්ෂා කළ අමු ධාන්‍ය බෝගය",
+                "url": "https://youtube.com/watch?v=B8tsQ9-vs4w",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/B8tsQ9-vs4w/hq720.jpg"
+            },
+            {
+                "title": "දහම් ගුණ හදුනා ගනිමු Daham Guna Hadunaganimu",
+                "url": "https://youtube.com/watch?v=REHl8wH4DrA",
+                "duration": "1:30:28",
+                "thumbnail": "https://i.ytimg.com/vi/REHl8wH4DrA/hqdefault.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ පූජාව නිවැරදිව කරමු- ven.welimada saddaseela thero",
+                "url": "https://youtube.com/watch?v=4PV2aTzFqwU",
+                "duration": "5:26",
+                "thumbnail": "https://i.ytimg.com/vi/4PV2aTzFqwU/hq720.jpg"
+            },
+            {
+                "title": "අපි ඖෂධ වට්ටි හදන්නෙ මෙහෙමයි.Vatti Of Medicine Made By Our Hands (Shop Vlog#02) |SR DREAMS|",
+                "url": "https://youtube.com/watch?v=lmXAXi0x3kY",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/lmXAXi0x3kY/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍ර රෝග නසන, කොළ කැද වලට ඕනම ඔසුව | Iramusu | Ceylon Agri | Episode 147",
+                "url": "https://youtube.com/watch?v=jAHJVwmgqu8",
+                "duration": "8:41",
+                "thumbnail": "https://i.ytimg.com/vi/jAHJVwmgqu8/hq720.jpg"
+            },
+            {
+                "title": "🔴කිරි ආහාර හා ඖෂධ පූජා කරන ආකාරය",
+                "url": "https://youtube.com/watch?v=hgSDnHjmNN8",
+                "duration": "6:35",
+                "thumbnail": "https://i.ytimg.com/vi/hgSDnHjmNN8/hqdefault.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "🙏මහානුභාව සම්පන්න ඖෂධ පූජාව - රුවන්වැලි මහාසෑරදුන් උදෙසා☸️ | Aushada Pujawa ( කාලීනව ගැලපෙන විදියට )",
+                "url": "https://youtube.com/watch?v=jir0_skTFcw",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/jir0_skTFcw/hq720.jpg"
+            },
+            {
+                "title": "ආර්ථික වගාවකට හොඳම ඔසුවක් | Amukkara | Ceylon Agri | Gasaka Waruna Episode 09",
+                "url": "https://youtube.com/watch?v=k7Nvn7Jjhs0",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/k7Nvn7Jjhs0/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ 108 පූජාව | beheth poojawa | අෂ්ඨ ගිලන්පස පූජාව |  අෂ්ඨපාන පූජාව",
+                "url": "https://youtube.com/watch?v=7QNwtXApcC0",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/7QNwtXApcC0/hq720.jpg"
+            },
+            {
+                "title": "බෝධින් වහන්සේට ඖෂධ පූජා කරන්නෙ කොහොමද",
+                "url": "https://youtube.com/watch?v=4UrHlB0-QAI",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/4UrHlB0-QAI/hq720.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "\"නහය දිග, මුහුණේ ගෙඩි පිරුණු අමනුෂ්‍යයෙක් බුදුරැස් දිහා බලාගෙන ඉන්නවා\" | Episode 132",
+                "url": "https://youtube.com/watch?v=HDY000fuYgQ",
+                "duration": "21:44",
+                "thumbnail": "https://i.ytimg.com/vi/HDY000fuYgQ/hq720.jpg"
+            },
+            {
+                "title": "සවස සම්බුද්ධ පූජාවට ඖෂධ කඩන හැටි බලමු",
+                "url": "https://youtube.com/watch?v=6oI6XdUUXuI",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/6oI6XdUUXuI/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ධා - පුරුෂ ශක්තිය වඩවන අමුක්කරා ගැන දැනගෙන පාවිච්චි කරන්න. - Amukkara",
+                "url": "https://youtube.com/watch?v=oEiowRpTfkM",
+                "duration": "7:06",
+                "thumbnail": "https://i.ytimg.com/vi/oEiowRpTfkM/hq720.jpg"
+            },
+            {
+                "title": "News Alert  ඇමරිකාවෙන් ලැබුණු නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත් කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=QoxbefYPMS4",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/QoxbefYPMS4/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම ආමන්ඩ් 4ක් කෑවොත් ශරීරයට සිදුවන දෙවල් 8  | What Happens If You Eat 4 Almonds A Day",
+                "url": "https://youtube.com/watch?v=3O8KqSJUuKA",
+                "duration": "10:26",
+                "thumbnail": "https://i.ytimg.com/vi/3O8KqSJUuKA/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ආමන්ඩ් ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදු වෙන විශ්මිත දේවල් 12ක් | 12 Health Benefits of Almonds",
+                "url": "https://youtube.com/watch?v=Fd8_EKAo9QU",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/Fd8_EKAo9QU/hq720.jpg"
+            },
+            {
+                "title": "වාජීකරණ ගුණ සපිරි සුවිශේෂී  ඖෂධීය ශාකය අමුක්කරා - Ashwagandha Medicinal Herb #ashvagandha #herbs",
+                "url": "https://youtube.com/watch?v=l_v8BnWhLXg",
+                "duration": "20:58",
+                "thumbnail": "https://i.ytimg.com/vi/l_v8BnWhLXg/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ද|ashwagandha|අමුක්කරා|Amukkara|Dr.Chaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=vZt8nsZnG-8",
+                "duration": "18:32",
+                "thumbnail": "https://i.ytimg.com/vi/vZt8nsZnG-8/hq720.jpg"
+            },
+            {
+                "title": "අඹ ආහාරයට ගැනීමෙන් ලැබෙන ගුණ I Dr. Swarna Hapuarachchi I Ayurweda Prathikara I 2021.06.28",
+                "url": "https://youtube.com/watch?v=uDBazfHv8TE",
+                "duration": "51:26",
+                "thumbnail": "https://i.ytimg.com/vi/uDBazfHv8TE/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ධ පිළිබඳ ඔබ දැනගත යුතු සියලුම කරුනු | Ashwagandha best sinhala review On youtube",
+                "url": "https://youtube.com/watch?v=K6ilCuAo3jQ",
+                "duration": "12:07",
+                "thumbnail": "https://i.ytimg.com/vi/K6ilCuAo3jQ/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද වෛද්‍ය ක්‍රමයේ දක්නට ලැබෙන තවත් එක් සුපිරි ඖශධයක් වන වැල්මී, ඔබ නොදත් කරුනු රැසක්",
+                "url": "https://youtube.com/watch?v=vGKRA3RKadE",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/vGKRA3RKadE/hq720.jpg"
+            },
+            {
+                "title": "වාජීකරණ ගුණයෙන් අනූන අමුක්කරා හෙවත් අශ්වගන්ධ ශාකය | Ashwagandha - Medicinal Herb",
+                "url": "https://youtube.com/watch?v=a5AS1SEA1Q8",
+                "duration": "14:14",
+                "thumbnail": "https://i.ytimg.com/vi/a5AS1SEA1Q8/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "අගුණ කෑම ගුණ කරන රහස, සීනි, කොලෙස්ටරෝල් වැඩි කරන ආහාරත් ගුණදායක විදිහට කන්නේ මෙහෙමයි. Glycemic Index",
+                "url": "https://youtube.com/watch?v=17k_fDw6KLo",
+                "duration": "14:05",
+                "thumbnail": "https://i.ytimg.com/vi/17k_fDw6KLo/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල් වලින් මෙච්චර දෙයක්? උළුහාල් පාවිච්චි කරලා මේ තරම් ගුණ රැසක් ලබාගෙන රෝග රැසකින් බේරෙන්න",
+                "url": "https://youtube.com/watch?v=IF7JzzJCbYE",
+                "duration": "11:06",
+                "thumbnail": "https://i.ytimg.com/vi/IF7JzzJCbYE/hq720.jpg"
+            },
+            {
+                "title": "අක්මාව වේගයෙන් පිරිසුදු කරන හොදම ආහාර 10ක් | 10 Super Foods that Naturally Cleanse Your Liver",
+                "url": "https://youtube.com/watch?v=Mw2T2PeyGo4",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Mw2T2PeyGo4/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් මිනිසාට ඇති ප්‍රයෝජන, අප අවට සත්තු,sathungen minisata athi preyojana, Apa awata saththu,",
+                "url": "https://youtube.com/watch?v=QKzQ_lIBcr4",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/QKzQ_lIBcr4/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "සත්තුන්ගෙන් අපට ලැබෙන ප්‍රයෝජන  | 03 වන තේමාව  | 01 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=8tfTs8fo9pU",
+                "duration": "14:31",
+                "thumbnail": "https://i.ytimg.com/vi/8tfTs8fo9pU/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන 🐕#trending #viral #foryou #education #educational #animals",
+                "url": "https://youtube.com/watch?v=m_QLK68xX50",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/m_QLK68xX50/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "අපට යහපත් දේ කිආදෙන පුදගලයින්  | 3 ශ්‍රේණිය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=cQpLgp3JKU0",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/cQpLgp3JKU0/hq720.jpg"
+            },
+            {
+                "title": "මොහොතකින් කෙනෙකු රාගයෙන් උමතු කරන නගා මැරූ අල #sinhala",
+                "url": "https://youtube.com/watch?v=a80X9m32jDo",
+                "duration": "12:42",
+                "thumbnail": "https://i.ytimg.com/vi/a80X9m32jDo/hq720.jpg"
+            },
+            {
+                "title": "''ඉඟුරු ''ගුණ  අගුණ",
+                "url": "https://youtube.com/watch?v=xeUVyF6wBzQ",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/xeUVyF6wBzQ/hq720.jpg"
+            },
+            {
+                "title": "Ashitaba Plant: Health Benefits (Tomorrow Leaf)",
+                "url": "https://youtube.com/watch?v=pxJLhqXJS3Q",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/pxJLhqXJS3Q/hq720.jpg"
+            },
+            {
+                "title": "6 Benefits Of Amaranthus Spinosus The Healthiest Vegetables - Amaranthus Spinosus Health Benefits",
+                "url": "https://youtube.com/watch?v=JfWLARhGTYk",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/JfWLARhGTYk/hq720.jpg"
+            },
+            {
+                "title": "Benefits of mango leaves| Health benefits of mango leaves| Mango leaves for diabetes| Mango leaves",
+                "url": "https://youtube.com/watch?v=wEGe7uQt-zc",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/wEGe7uQt-zc/hq720.jpg"
+            },
+            {
+                "title": "Amla: Benefits (Indian Gooseberry)",
+                "url": "https://youtube.com/watch?v=GQE3nFdQBns",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/GQE3nFdQBns/hq720.jpg"
+            },
+            {
+                "title": "Plantain Uses and Benefits",
+                "url": "https://youtube.com/watch?v=-97NXHyxRjA",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/-97NXHyxRjA/hq720.jpg"
+            },
+            {
+                "title": "Yacon Fruit [Health Benefits and Plant Profile]",
+                "url": "https://youtube.com/watch?v=NcAB3BUZosI",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/NcAB3BUZosI/hqdefault.jpg"
+            },
+            {
+                "title": "AMARANTHUS: Surprising Health Benefits You Should Know / Medicinal Plants / The Rural Life",
+                "url": "https://youtube.com/watch?v=K8xZ-kjEU2w",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/K8xZ-kjEU2w/hq720.jpg"
+            },
+            {
+                "title": "Ashitaba Plant (Tomorrow Leaf) Uses and Benefits: How This Japanese Herb Can Transform Your Health",
+                "url": "https://youtube.com/watch?v=swC0qs2eze8",
+                "duration": "8:12",
+                "thumbnail": "https://i.ytimg.com/vi/swC0qs2eze8/hq720.jpg"
+            },
+            {
+                "title": "From Ancient Grain to Modern Superfood: 8 Amaranth Health Advantages",
+                "url": "https://youtube.com/watch?v=wVirBZsCsLw",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/wVirBZsCsLw/hq720.jpg"
+            },
+            {
+                "title": "13 BENEFITS OF AMARANTH - Explore the Versatility of Amaranth and Add it to Your Diet",
+                "url": "https://youtube.com/watch?v=R8s5cKQnU7c",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/R8s5cKQnU7c/hq720.jpg"
+            },
+            {
+                "title": "Indian Gooseberry ( Amla ) and Its Incredible Health Benefits",
+                "url": "https://youtube.com/watch?v=O21VWukqDSc",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/O21VWukqDSc/hq720.jpg"
+            },
+            {
+                "title": "Bitter Melon: Benefits and Uses (Ampalaya)",
+                "url": "https://youtube.com/watch?v=GVnNbcAtMRw",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/GVnNbcAtMRw/hq720.jpg"
+            },
+            {
+                "title": "Ashitaba Plant: Health Benefits (Tomorrow Leaf)",
+                "url": "https://youtube.com/watch?v=tYrPdvL4m8Q",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/tYrPdvL4m8Q/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Pruritus",
-      "sinhala": "චර්ම රෝග නිසා ඇතිවන කැසීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Abscesses",
-      "sinhala": "සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

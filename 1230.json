@@ -1,24 +1,743 @@
 {
-  "scientificName": "Adenosma indiana (Lour.) Merr.",
-  "synonyms": [
-    "Adenosma bilabiata (Roxb.) Merr.",
-    "Adenosma buchneroides Bonati",
-    "Adenosma capitata (Benth.) Benth. ex Hance",
-    "Adenosma capitata var. spicata Bonati",
-    "Erinus bilabiatus Roxb.",
-    "Manulea indiana Lour.",
-    "Manulea indica Willd.",
-    "Pterostigma capitatum Benth.",
-    "Pterostigma spicatum Benth.",
-    "Stemodia capitata Benth.",
-    "Stoechadomentha capitata Kuntze"
-  ],
-  "familyName": "PLANTAGINACEAE",
-  "englishNames": [],
-  "sinhalaName": "Gonakola (ගෝණකොළ)",
-  "description": "",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Adenosma indiana (Lour.) Merr.",
+    "synonyms": [
+        "Adenosma bilabiata (Roxb.) Merr.",
+        "Adenosma buchneroides Bonati",
+        "Adenosma capitata (Benth.) Benth. ex Hance",
+        "Adenosma capitata var. spicata Bonati",
+        "Erinus bilabiatus Roxb.",
+        "Manulea indiana Lour.",
+        "Manulea indica Willd.",
+        "Pterostigma capitatum Benth.",
+        "Pterostigma spicatum Benth.",
+        "Stemodia capitata Benth.",
+        "Stoechadomentha capitata Kuntze"
+    ],
+    "familyName": "PLANTAGINACEAE",
+    "englishNames": [],
+    "sinhalaName": "Gonakola (ගෝණකොළ)",
+    "description": "",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කොල්ලා ගුටි කෑවෙ එයා හින්දා! 🥺 #kolambakattiya #shorts",
+                "url": "https://youtube.com/watch?v=D3nIrQBkuB8",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/D3nIrQBkuB8/hq720_2.jpg"
+            },
+            {
+                "title": "දින 2යි මරණ 10යි | දන්සලක පෝලිමේ සිටි 6ක් නිමේෂයකින් මරු තුරුළට යැවූ මීගොඩ අනතුරේ බිහිසුණු කතාව",
+                "url": "https://youtube.com/watch?v=mbhuQAizeGw",
+                "duration": "15:11",
+                "thumbnail": "https://i.ytimg.com/vi/mbhuQAizeGw/hq720.jpg"
+            },
+            {
+                "title": "උබලා අපිව ඡන්දේ දාන්න එක්කන් ගියානේ කෝ වරෙන් දැන් වරෙන් | වනාතමුල්ල චංඩී ගෑනුටික පාරට බැහැලා",
+                "url": "https://youtube.com/watch?v=9dDbYJnFsCA",
+                "duration": "6:07",
+                "thumbnail": "https://i.ytimg.com/vi/9dDbYJnFsCA/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live | ඊලග ජනාධිපති රනිල් බවට තහවුරු කිරීමක් ? | පොදු ජන පෙරමුණ සමග සමගි ජන බලවේගය එක් වෙයි",
+                "url": "https://youtube.com/watch?v=lX8U97p3bzI",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/lX8U97p3bzI/hq720.jpg"
+            },
+            {
+                "title": "සලේ නිසා ලංකාවේ කොටුවූ ගෝඨා අධිකරණයෙන් දුන් ආන්දෝලනාත්මක තීන්දුව ?",
+                "url": "https://youtube.com/watch?v=i15duKjDJFM",
+                "duration": "1:29",
+                "thumbnail": "https://i.ytimg.com/vi/i15duKjDJFM/hq720.jpg"
+            },
+            {
+                "title": "සුරෙස් සලේ සි#දිවි නසාගන්න ගිහින් | සලේ නිසා ගෝඨා කොටුවෙයි ? | රංගගේ මරණය හෙළිවෙයි ? | කපිලගේ මරණය ?",
+                "url": "https://youtube.com/watch?v=AYdDswyEgDo",
+                "duration": "15:33",
+                "thumbnail": "https://i.ytimg.com/vi/AYdDswyEgDo/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live | ආණ්ඩුවේ දේශපාලන පළිගැනීම් මත හිටපු ජනපති ගෝටාගේ ටිකට් එක කැපෙද්දී රංගගේ මරණය ගැන අනාවරණයක්",
+                "url": "https://youtube.com/watch?v=yotq-9uxpbk",
+                "duration": "23:00",
+                "thumbnail": "https://i.ytimg.com/vi/yotq-9uxpbk/hq720.jpg"
+            },
+            {
+                "title": "\" Koල්leක් \" චිත්‍රපටයේ මුහුරත් උළෙල",
+                "url": "https://youtube.com/watch?v=kdwYX5xlHNs",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/kdwYX5xlHNs/hq720.jpg"
+            },
+            {
+                "title": "කළුතර වෙඩි තැබීම සිද්ධ කලේ බෝංචියා!වෙඩික්කරු හඳුනා ගැනේ!",
+                "url": "https://youtube.com/watch?v=jt5471Jl4xo",
+                "duration": "5:06",
+                "thumbnail": "https://i.ytimg.com/vi/jt5471Jl4xo/hqdefault.jpg"
+            },
+            {
+                "title": "කිලවුයා ගිනි කන්දට ඉහළින් ඇතිවූ සුළි කුණාටුව| Monara",
+                "url": "https://youtube.com/watch?v=9IgnLbcDT14",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/9IgnLbcDT14/hq720_2.jpg"
+            },
+            {
+                "title": "තම ජීවිතය දෙවෙනි කොට කුරුණෑගල ගින්න නිවපු ගිනි භටයන්| Monara",
+                "url": "https://youtube.com/watch?v=7NcTURUnDn0",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/7NcTURUnDn0/hq720_2.jpg"
+            },
+            {
+                "title": "සුරේෂ් සලේ සහ ගෝඨාභය නම් කළේ නැහැ...සලේ සහ ගෝඨා සම්බන්ධයෙන් නවතම තොරතුරු මෙන්න",
+                "url": "https://youtube.com/watch?v=8CCrWiFyG-s",
+                "duration": "1:55",
+                "thumbnail": "https://i.ytimg.com/vi/8CCrWiFyG-s/hq720.jpg"
+            },
+            {
+                "title": "කොහොමද පොල් කොළ ටික ගැලව්ව හැටි😲😲😲Godagama Rani #trending #viral #shorts #love #india #wildlife #fyp",
+                "url": "https://youtube.com/watch?v=AxFUYgviZYw",
+                "duration": "0:27",
+                "thumbnail": "https://i.ytimg.com/vi/AxFUYgviZYw/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live | තද සුළගක් එක්කම එන තද වැස්ස | තෙල් නැව් ගැන විමල්ගෙන් හෙළිදරව්වක්",
+                "url": "https://youtube.com/watch?v=im48cshESXQ",
+                "duration": "9:07",
+                "thumbnail": "https://i.ytimg.com/vi/im48cshESXQ/hq720.jpg"
+            },
+            {
+                "title": "ගුහාවේ සිරවූ ජීවිත අවදානමේ...ඔක්සිජන් හිඟය දරුණුවටම | Ada Derana",
+                "url": "https://youtube.com/watch?v=Uxy7HDqJPh4",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/Uxy7HDqJPh4/hq720.jpg"
+            },
+            {
+                "title": "ඔයාලත් එතනින් ගියොත් එන්න ඔනි හොදද කඩල ගොට්ටක් කාල යන්න...😃😃",
+                "url": "https://youtube.com/watch?v=jwNHQ36w4aA",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/jwNHQ36w4aA/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live | තෙල් මිල නිසා අසංවේදී වුණ ආණ්ඩුවට හතර අතින් දෙහි 29",
+                "url": "https://youtube.com/watch?v=h55I1fPJdbY",
+                "duration": "26:44",
+                "thumbnail": "https://i.ytimg.com/vi/h55I1fPJdbY/hq720.jpg"
+            },
+            {
+                "title": "King Coconutටුත් හොද බීමක් තමයි ගිනි අව්වට Cola ගහනවාට වඩා #viralvideo #reels #viral #youtubeshorts",
+                "url": "https://youtube.com/watch?v=9ENIxqjq7pU",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/9ENIxqjq7pU/hq720.jpg"
+            },
+            {
+                "title": "ගෝනි වලින් හදපු කැරකෙන කූඩුව #shortvideo #shorts  #buddha #love #嗡嗡嗡",
+                "url": "https://youtube.com/watch?v=QujcvjrdlNA",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/QujcvjrdlNA/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ගල් සියල්ලම එක වගේ නෑ... | සුව අරණ | Channel One",
+                "url": "https://youtube.com/watch?v=T_A0cRfWm6E",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/T_A0cRfWm6E/hq720_2.jpg"
+            },
+            {
+                "title": "මට ගැහුවොත් 1 vs 4 | ROAD TO 20k",
+                "url": "https://youtube.com/watch?v=jsZJIsub6CA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/jsZJIsub6CA/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ගල් ඇතිවෙන්නේ මෙහෙමයි... | සුව අරණ | Channel One",
+                "url": "https://youtube.com/watch?v=B_GT76Hp9nU",
+                "duration": "24:45",
+                "thumbnail": "https://i.ytimg.com/vi/B_GT76Hp9nU/hq720.jpg"
+            },
+            {
+                "title": "බලන්නකෝ මේ ගොටුකොල ටිකේ ලස්සන මෙයාලා තාම පොඩියී  Look at These Fresh Gotukola Leaves #home#gardening",
+                "url": "https://youtube.com/watch?v=A4tGSLohQMs",
+                "duration": "1:29",
+                "thumbnail": "https://i.ytimg.com/vi/A4tGSLohQMs/hq720_2.jpg"
+            },
+            {
+                "title": "ගුදමාර්ගයේ ලොකු තුවාලයක් ! | හාමුදුරුවෝ අවුරුදු 9 පොඩි කොල්ලෙක්ට කරපු දේ ?",
+                "url": "https://youtube.com/watch?v=zm33GMCZZUY",
+                "duration": "35:42",
+                "thumbnail": "https://i.ytimg.com/vi/zm33GMCZZUY/hq720.jpg"
+            },
+            {
+                "title": "ගොනා හැරෙනකොට මට කියන්න පුළුවන් පොල් පැලේ කාලම තමයි නතර වෙන්නේ කියලා.. | Channel One",
+                "url": "https://youtube.com/watch?v=wRm_v3YfUwc",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/wRm_v3YfUwc/hq720.jpg"
+            },
+            {
+                "title": "දුඹුරු පැහැ ගැන්වුණු කැලණි ගං කොමළිය | Ada Derana",
+                "url": "https://youtube.com/watch?v=BeeCxI3FLfU",
+                "duration": "0:37",
+                "thumbnail": "https://i.ytimg.com/vi/BeeCxI3FLfU/hq720_2.jpg"
+            },
+            {
+                "title": "සතාට ඕන විදියට නෙමෙයි අපිට ඕන විදියට හදාගන්න ඕනා ළමයි. #guntupalli #ysjaganmohanreddy #cmjagan ♥️♥️🙏",
+                "url": "https://youtube.com/watch?v=T_AWBfbF8Ew",
+                "duration": "0:06",
+                "thumbnail": "https://i.ytimg.com/vi/T_AWBfbF8Ew/hq720_2.jpg"
+            },
+            {
+                "title": "මීගොඩ දන්සල අසල සිදුවු අනතුරේ අලුත්ම තොරතුරු",
+                "url": "https://youtube.com/watch?v=52Cn3J0b0wY",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/52Cn3J0b0wY/hqdefault.jpg"
+            },
+            {
+                "title": "හොරණ වැඩිහිටි නිවාසයක මහා ගින්නක් වැඩිහිටියන් රැසක් නිරුපද්‍රිතව මුදාගනියි",
+                "url": "https://youtube.com/watch?v=_pT5q18jsX4",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/_pT5q18jsX4/hqdefault.jpg"
+            },
+            {
+                "title": "The Great Pandal of Angunukolapelasse, completed by a woman, is heading for a Guinness World Record",
+                "url": "https://youtube.com/watch?v=IMLk2b4KMjM",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/IMLk2b4KMjM/hq720.jpg"
+            },
+            {
+                "title": "\"කැලේ ගහෙන් කැලේ නසන්න හදනවා!\" - උඩමළුවේ සිද්ධිය අස්සෙන් ක්‍රියාත්මක වන NGO නඩයේ අලුත්ම ගේම් එක!‘‘",
+                "url": "https://youtube.com/watch?v=aL0wZPm2QEk",
+                "duration": "8:11",
+                "thumbnail": "https://i.ytimg.com/vi/aL0wZPm2QEk/hq720.jpg"
+            },
+            {
+                "title": "ගොනිකා ඔසුවක්ද  | ගොනු කෑ කොළ | Gonika | ගොනිකා කොළ | ගොනික | Gonu ke kola | Gonika Leaves Benefits",
+                "url": "https://youtube.com/watch?v=LvjHD26y2gg",
+                "duration": "6:40",
+                "thumbnail": "https://i.ytimg.com/vi/LvjHD26y2gg/hq720.jpg"
+            },
+            {
+                "title": "උයල කෑවත් කැඳක් බිව්වත් ගොණිකා කොළ ඔසුගුණ මනා",
+                "url": "https://youtube.com/watch?v=maSo_FRyWkg",
+                "duration": "1:22",
+                "thumbnail": "https://i.ytimg.com/vi/maSo_FRyWkg/hq720.jpg"
+            },
+            {
+                "title": "ගොනු කෑ කොළ හෙවත් ගොනිකා වල විශ්මිත සුව කිරීමේ ගුණ | @Sakalawaga | #gonika #ගොනිකා",
+                "url": "https://youtube.com/watch?v=y5dCYJS7zRE",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/y5dCYJS7zRE/hqdefault.jpg"
+            },
+            {
+                "title": "කංකුන් වල ගුණ | Water spinach | Kankun",
+                "url": "https://youtube.com/watch?v=G41zv5x18Yo",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/G41zv5x18Yo/hq720.jpg"
+            },
+            {
+                "title": "මතක ශක්තිය වර්දනය කරන ගොටුකොළ වල විශ්මිත ගුණ - A super food that boosts memory",
+                "url": "https://youtube.com/watch?v=jy8Zp6L_RZk",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/jy8Zp6L_RZk/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොල කැඳවල ඇති විස්මිත ගුණ Amazing properties of gotukola porridge",
+                "url": "https://youtube.com/watch?v=t2A24IOIobY",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/t2A24IOIobY/hqdefault.jpg"
+            },
+            {
+                "title": "#Aratuwa# Gotukola # ගොටුකොළවල ගුණ ඔබ දන්නවාද #",
+                "url": "https://youtube.com/watch?v=LatcXZZ0Dl4",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/LatcXZZ0Dl4/hq720.jpg"
+            },
+            {
+                "title": "ගොටු කොළවල තියෙන සුපිරිම ගුණ ඔයාලා දන්නවද?  ගොඩාක් ලෙඩවලට හොදම බෙහෙතක්. #ගොටුකොළ #gotukola",
+                "url": "https://youtube.com/watch?v=L15P4zMA-gI",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/L15P4zMA-gI/hq720.jpg"
+            },
+            {
+                "title": "advantages of eating gotukola centella acitika sinhala",
+                "url": "https://youtube.com/watch?v=tEJJJc2KcIo",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/tEJJJc2KcIo/hq720.jpg"
+            },
+            {
+                "title": "කොල්ලු කෑම අතහැරපු අපට වුණ දේ මෙන්න : Horse gram benefits",
+                "url": "https://youtube.com/watch?v=PabVc5_16l8",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/PabVc5_16l8/hq720.jpg"
+            },
+            {
+                "title": "ගොනිකා කොළ කෑවම වෙන දේ මෙන්න : Gonika plant benefits",
+                "url": "https://youtube.com/watch?v=mzliflu1z8A",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/mzliflu1z8A/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "උණට, පාචනයට, අතීසාරයට ගුණ වගේම ගොපලු ගුලියේ ප්‍රධානම බෙහෙත කොන්තාලම් Konthalam",
+                "url": "https://youtube.com/watch?v=L8YX0V02QZg",
+                "duration": "11:40",
+                "thumbnail": "https://i.ytimg.com/vi/L8YX0V02QZg/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ වැඩිපුර ආහාරයට ගත්තොත් මොකද වෙන්නේ - health benefits of gotu kola",
+                "url": "https://youtube.com/watch?v=lB6UVx25PCc",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lB6UVx25PCc/hqdefault.jpg"
+            },
+            {
+                "title": "තරුණ බව රැක දෙන, ආයුශ වඩන ගොටුකොල | ගුණ බහුල, රෝග දුරු කරන සහ ඔබ නොදන්නා තවත් ගුණ #gotukola",
+                "url": "https://youtube.com/watch?v=mwERMwsBry0",
+                "duration": "15:49",
+                "thumbnail": "https://i.ytimg.com/vi/mwERMwsBry0/hq720.jpg"
+            },
+            {
+                "title": "නම අගුණ වුණත් බොහෝ  ගුණ ඇති කිරි අඟුණ kiri aguna plant benefits මව්කිරි වඩවන ආහාර",
+                "url": "https://youtube.com/watch?v=N7SwafIqdZU",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/N7SwafIqdZU/hq720.jpg"
+            },
+            {
+                "title": "ගොනිකා ඔසුවක්ද  | ගොනු කෑ කොළ | Gonika | ගොනිකා කොළ | ගොනික | Gonu ke kola | Gonika Leaves Benefits",
+                "url": "https://youtube.com/watch?v=7PIqIbytSY8",
+                "duration": "6:40",
+                "thumbnail": "https://i.ytimg.com/vi/7PIqIbytSY8/frame0.jpg"
+            },
+            {
+                "title": "තරුණ වයසේම කොන්ද කැක්කුමද?",
+                "url": "https://youtube.com/watch?v=Ul0flMiqFQY",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/Ul0flMiqFQY/hq720_2.jpg"
+            },
+            {
+                "title": "උගුඩු කවිය ♥️🍃 ලංකාවට ආවේණික, උගුඩු හල් 🔴 Symplocos coronata Thwaites",
+                "url": "https://youtube.com/watch?v=ZD9oYpnF8Gc",
+                "duration": "0:39",
+                "thumbnail": "https://i.ytimg.com/vi/ZD9oYpnF8Gc/hq720_2.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "කොදු ඇට පෙළ ආශ්‍රිත රෝග සදහා හෝමියෝපතිකාර",
+                "url": "https://youtube.com/watch?v=Yhm3pFQBsww",
+                "duration": "14:01",
+                "thumbnail": "https://i.ytimg.com/vi/Yhm3pFQBsww/hqdefault.jpg"
+            },
+            {
+                "title": "ඔසු පැල 10ක ගුණ දැනගමුද? | Benifits of 10 Herbal Plants | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=Cpdzcr3fXu0",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Cpdzcr3fXu0/hq720.jpg"
+            },
+            {
+                "title": "ඔසු ගුණ පිරි අපේ ධාන්‍ය🌾 #kurahan #munaeta #thala #udu #kollu #aurweda beheth #athbeheth #danya",
+                "url": "https://youtube.com/watch?v=Qg95fd_uRK4",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/Qg95fd_uRK4/hq720_2.jpg"
+            },
+            {
+                "title": "ඔලුවේ උදුගොව්වා කෑම දින 7න් නවත්වන සුපිරිම ක්‍රම 10 | Udugovva Kema Treatment Sri Lanka",
+                "url": "https://youtube.com/watch?v=kw0UJcr0bLA",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/kw0UJcr0bLA/hq720.jpg"
+            },
+            {
+                "title": "අයුර්වේද කංසා ගෙනත් බෙහෙත් හදන්නේ බල්ලන්ටද?",
+                "url": "https://youtube.com/watch?v=z5tQyzX1Bvs",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/z5tQyzX1Bvs/hq720_2.jpg"
+            },
+            {
+                "title": "බෙහෙත් කොහිල හරිම ගුනයි රසයි #nature #love #lifelessons",
+                "url": "https://youtube.com/watch?v=BoTCzG2on_E",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/BoTCzG2on_E/hq720_2.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "අනුෂා ඩොක්ට මගේ දුවගේ වකුගඩුවල ගල් ඉවත් කර සුව කලේ එක මාසෙන්",
+                "url": "https://youtube.com/watch?v=tRUzDxKI24k",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/tRUzDxKI24k/hq720.jpg"
+            },
+            {
+                "title": "ස්වසන රෝග රැසකට ගුණ දෙන එළබටු #nature #health #tips #healthylifestyle #viral #shortvideo",
+                "url": "https://youtube.com/watch?v=bgdiOKU6Wkw",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/bgdiOKU6Wkw/hq720_2.jpg"
+            },
+            {
+                "title": "ලක්ෂ ගණන් වියදම් කරන්න කලින් මේක බලන්න - හදවත් රෝග නිට්ටාවටම සුවයි!",
+                "url": "https://youtube.com/watch?v=bSvbQ9Ndnz4",
+                "duration": "11:44",
+                "thumbnail": "https://i.ytimg.com/vi/bSvbQ9Ndnz4/hq720.jpg"
+            },
+            {
+                "title": "කෙණ්ඩා පෙරලීම මෙතරම් භයානකද? The Hidden Danger of Leg Cramps!",
+                "url": "https://youtube.com/watch?v=DKFnTu2dVyI",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/DKFnTu2dVyI/hq720.jpg"
+            },
+            {
+                "title": "දේශීය පාරම්පරික ගුලි, කල්ක හා චූරණ ගැන ඔබ නොදත් රහස් | local traditional guli, kalka and churana",
+                "url": "https://youtube.com/watch?v=TtdeEb5qj74",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/TtdeEb5qj74/hq720.jpg"
+            },
+            {
+                "title": "මේ කෑම හීනෙකින්වත් එකට කන්න එපා | පොතු කබර සහ පිළිකා සුව කරන හෙළ වෙදකමේ රහස්",
+                "url": "https://youtube.com/watch?v=Bb0gEY7pN-U",
+                "duration": "24:16",
+                "thumbnail": "https://i.ytimg.com/vi/Bb0gEY7pN-U/hq720.jpg"
+            },
+            {
+                "title": "ගල්කූර ශාකයේ ඇති විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=6WMO4IRJVqM",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/6WMO4IRJVqM/hqdefault.jpg"
+            },
+            {
+                "title": "තරබාරුව අඩු කරගන්න, දියවැඩියාව පාලනය ඇතුළු කොහිල වල ඇති විස්මිත ගුණ /Amazing Benefits of Kohila",
+                "url": "https://youtube.com/watch?v=SESSsCwUkCk",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/SESSsCwUkCk/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ගුණ. චර්ම රෝග ඇතුලු රෝගාබාධ රැසකට ගුණදෙන ආයුර්වේදීය ඔසු.",
+                "url": "https://youtube.com/watch?v=Uvb_M2tX2Ts",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/Uvb_M2tX2Ts/hq720.jpg"
+            },
+            {
+                "title": "ගෝව කෑවොත් ලගදිම තයිරොක්සීන් බොන්න වෙයිද? | Cabbage & Thyroxine By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=7HSM2YFmZq4",
+                "duration": "9:19",
+                "thumbnail": "https://i.ytimg.com/vi/7HSM2YFmZq4/hq720.jpg"
+            },
+            {
+                "title": "සූර්යාලෝකයෙන් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=eIAX-iPabsY",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/eIAX-iPabsY/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "අලුත් ක්‍රමයට ගොටුකොළ  විකුණන කෝටිපති ව්‍යාපරිකයා. 100% organic farm sri lanka 077 304 4203",
+                "url": "https://youtube.com/watch?v=tep9QXyWU0o",
+                "duration": "15:54",
+                "thumbnail": "https://i.ytimg.com/vi/tep9QXyWU0o/hq720.jpg"
+            },
+            {
+                "title": "ගිලන්පස සහ පාන වර්ග ගැන ඔබ නොදත් කතාව. මේ වැරැද්ද නිවරදි කරගන්න. Budu maga yanno #bana",
+                "url": "https://youtube.com/watch?v=6QSLh-beWUk",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/6QSLh-beWUk/hq720.jpg"
+            },
+            {
+                "title": "ගොලුබෙලි කරදරේට සාර්ථකම විසදුම් 03 ක්, පැත්ත පළාතේ එන් නෑ ආය /how to get rid snails in garden/2025",
+                "url": "https://youtube.com/watch?v=1A3j_NOrP5Q",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/1A3j_NOrP5Q/hq720.jpg"
+            },
+            {
+                "title": "People who have not seen the leaves of the Gonika | ගොනික කොල දැකපු නැති කට්ටියට |anamanmam tv",
+                "url": "https://youtube.com/watch?v=G-inFeRbGqI",
+                "duration": "1:03",
+                "thumbnail": "https://i.ytimg.com/vi/G-inFeRbGqI/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "ගෝනුස්සා ගැන විස්තර|details about scropion",
+                "url": "https://youtube.com/watch?v=WHEYpvmMt9A",
+                "duration": "0:29",
+                "thumbnail": "https://i.ytimg.com/vi/WHEYpvmMt9A/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "9 Surprising Health Benefits of Galangal",
+                "url": "https://youtube.com/watch?v=uGmQqjyNRH0",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/uGmQqjyNRH0/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Plant Benefits || Centella Asiatica Benefits || Beauty & Health Benefits || Homefoodgarden",
+                "url": "https://youtube.com/watch?v=hH1vglJ6UD4",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/hH1vglJ6UD4/hqdefault.jpg"
+            },
+            {
+                "title": "Gotukola Health Benefits",
+                "url": "https://youtube.com/watch?v=ZB1qgulIwMU",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/ZB1qgulIwMU/hq720.jpg"
+            },
+            {
+                "title": "කංකුං කෑවොත් මොකද වෙන්නෙ : Water Spinach Benefits",
+                "url": "https://youtube.com/watch?v=RxKSa0l8Fnk",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/RxKSa0l8Fnk/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola 🌿 The CHINESE Secret to ANTI AGING And Longevity | Ancient Herb with Modern Power",
+                "url": "https://youtube.com/watch?v=YBEbXwSSVa8",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/YBEbXwSSVa8/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Health Benefits and Possible Side Effects",
+                "url": "https://youtube.com/watch?v=gOwyQDgmJP0",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/gOwyQDgmJP0/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Benefits",
+                "url": "https://youtube.com/watch?v=iU9Enpt2hgc",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/iU9Enpt2hgc/hq720.jpg"
+            },
+            {
+                "title": "The Health Benefits of Gotu Kola are Rarely Revealed",
+                "url": "https://youtube.com/watch?v=jtUFaooMB68",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/jtUFaooMB68/hq720.jpg"
+            },
+            {
+                "title": "6 Amazing Benefits Of Gotu Kola For Your Skin, Hair And Health",
+                "url": "https://youtube.com/watch?v=6vFlsOHju-Y",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/6vFlsOHju-Y/hqdefault.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ කෑවම මොකද වෙන්නෙ : Health benefits of Kiri Aguna",
+                "url": "https://youtube.com/watch?v=o8vWzWsojxI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/o8vWzWsojxI/hq720.jpg"
+            },
+            {
+                "title": "8 Amazing Health Benefits of Gotu Kola Herb",
+                "url": "https://youtube.com/watch?v=ksFg2knJung",
+                "duration": "10:58",
+                "thumbnail": "https://i.ytimg.com/vi/ksFg2knJung/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=lrLD7ZN2838",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lrLD7ZN2838/frame0.jpg"
+            },
+            {
+                "title": "පොල්පලා වල ඔබ නොදත් ගුණ | Polpalaa wala guana | Mountain Knotgrass | @Sakalawaga",
+                "url": "https://youtube.com/watch?v=5Vopo0b9Arg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/5Vopo0b9Arg/hqdefault.jpg"
+            },
+            {
+                "title": "කොල්ලු ගුණ සහ කොල්ලුවලින් කෑම හදන විදිහ - උපුටා ගැනීමකි - ස්තුතියි Thank you.",
+                "url": "https://youtube.com/watch?v=nz0RRvn4rRw",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/nz0RRvn4rRw/hq720.jpg"
+            },
+            {
+                "title": "කිලෝ 5 අඩු කරන දියවැඩියාවට කොලෙස්ටරෝල් ගැස්ට්‍රයිටිස් වලට ගුණ  බඩ අඩු කරන පානය  | beli kola panaya",
+                "url": "https://youtube.com/watch?v=b4AgatQ08Qo",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/b4AgatQ08Qo/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ දවස් 14ක් කෑවොත් මොළයට සහ සමට වෙන මැජික් එක! | Science of Gotu Kola (Sinhala)",
+                "url": "https://youtube.com/watch?v=abZ4CG02CBQ",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/abZ4CG02CBQ/hq720.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "විශේෂ හාස්කම් දේවමෙහෙය / SPECIAL HEALING SERVICE 2026.06.04",
+                "url": "https://youtube.com/watch?v=AAAMrPYx1VI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/AAAMrPYx1VI/hq720.jpg"
+            },
+            {
+                "title": "ගංසුරිය(Gansuriya) ශාකයේ විශ්මිත ගුණ😱😱😱",
+                "url": "https://youtube.com/watch?v=5tNmjd694pg",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/5tNmjd694pg/hq720.jpg"
+            },
+            {
+                "title": "ගුල්ලො ප්‍රශ්නෙට මෙන්න විසඳුම | එක පාරින් ඔක්කොම ඉවරයි 😱 Food preservation",
+                "url": "https://youtube.com/watch?v=uiiwBPvXdZY",
+                "duration": "8:00",
+                "thumbnail": "https://i.ytimg.com/vi/uiiwBPvXdZY/hq720.jpg"
+            },
+            {
+                "title": "Tissa Jananayake - Episode 50 | ශාක සහ කඩොලාන වල වැදගත්කම",
+                "url": "https://youtube.com/watch?v=o1r4WBRH-2A",
+                "duration": "36:50",
+                "thumbnail": "https://i.ytimg.com/vi/o1r4WBRH-2A/hq720.jpg"
+            },
+            {
+                "title": "🔴යකෝ මෙචිචර විටමින්😲? මේ පලා වර්ග කාලා නැත්තං ලැජ්ජ වෙන්ඩ",
+                "url": "https://youtube.com/watch?v=AHTl3nMAWZI",
+                "duration": "8:19",
+                "thumbnail": "https://i.ytimg.com/vi/AHTl3nMAWZI/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "Benefits to us from the coconut tree#jana agri#srilanka",
+                "url": "https://youtube.com/watch?v=O3S0onsKMRo",
+                "duration": "12:46",
+                "thumbnail": "https://i.ytimg.com/vi/O3S0onsKMRo/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Benefits -12 Amazing Health Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=QVx5byve-EE",
+                "duration": "6:17",
+                "thumbnail": "https://i.ytimg.com/vi/QVx5byve-EE/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Benefits | Is It Worth the Hype?",
+                "url": "https://youtube.com/watch?v=Q61TrNc9COY",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/Q61TrNc9COY/hq720.jpg"
+            },
+            {
+                "title": "Gotukola and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LcQ_lwSLdIA",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/LcQ_lwSLdIA/hq720.jpg"
+            },
+            {
+                "title": "6 Effective Health Benefits of Galangal",
+                "url": "https://youtube.com/watch?v=OGMkaZSENIk",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/OGMkaZSENIk/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Pennywort or Gotu Kola",
+                "url": "https://youtube.com/watch?v=WQ0_2PzoZCM",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/WQ0_2PzoZCM/hqdefault.jpg"
+            },
+            {
+                "title": "Gotu Kola Leaf Benefits For Health and How to Make Gotu Kola Tea - Better home & Garden",
+                "url": "https://youtube.com/watch?v=n22eFycl_cI",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/n22eFycl_cI/hqdefault.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=wmXpq7tEhF4",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/wmXpq7tEhF4/frame0.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

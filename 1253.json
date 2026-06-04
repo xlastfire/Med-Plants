@@ -1,307 +1,840 @@
 {
-  "scientificName": "Datura metel L.",
-  "synonyms": [
-    "Brugmansia chlorantha (Hook.) Melliss",
-    "Brugmansia suaveolens var. flore-albo-pleno Reider",
-    "Brugmansia waymanii Paxton",
-    "Datura aegyptiaca Vis.",
-    "Datura alba F.Muell.",
-    "Datura alba Rumph. ex Nees",
-    "Datura alba var. africana Mattei",
-    "Datura bojeri Delile",
-    "Datura chlorantha atroviolacea-plenissima Barr & Sugden",
-    "Datura chlorantha Hook.",
-    "Datura cornucopaea Wilks",
-    "Datura cornucopia Pitcher & Manda",
-    "Datura dubia Bianca ex Tod.",
-    "Datura dubia Rich.",
-    "Datura fastuosa L.",
-    "Datura fastuosa var. alba Bernh.",
-    "Datura fastuosa var. alba C.B.Clarke",
-    "Datura fastuosa var. flaviflora O.E.Schulz ex O.C.Schmidt",
-    "Datura fastuosa var. glabra Bernh.",
-    "Datura fastuosa var. parviflora Nees",
-    "Datura fastuosa var. rubra Bernh.",
-    "Datura fastuosa var. tuberculata Bernh.",
-    "Datura fruticosa Hornem.",
-    "Datura humilis Desf.",
-    "Datura hummatu Bernh.",
-    "Datura hummatu var. fastuosa (L.) Bernh.",
-    "Datura hummatu var. muricata (Link) Bernh.",
-    "Datura hummatu var. rubra Bernh.",
-    "Datura laevis Schkuhr",
-    "Datura metel f. pleniflora O.Deg.",
-    "Datura metel var. dentata Schltdl. & Cham.",
-    "Datura metel var. fastuosa (L.) Saff.",
-    "Datura metel var. flaviflora (O.E.Schulz) Moldenke",
-    "Datura metel var. muricata (Link) Danert",
-    "Datura metel var. obscura Danert",
-    "Datura metel var. rubra (Bernh.) Danert",
-    "Datura metel var. viola Pandeya & A.B.Bhatt",
-    "Datura muricata Link",
-    "Datura nanakii Pandeya & A.B.Bhatt",
-    "Datura nigra Hassk.",
-    "Datura nilhummatu Dunal",
-    "Datura timoriensis Zipp. ex Span.",
-    "Datura trapezia Nees",
-    "Datura waymanii (Paxton) Steud.",
-    "Stramonium datura Noronha",
-    "Stramonium fastuosum (L.) Moench",
-    "Stramonium infernale Noronha",
-    "Stramonium metel (L.) Moench"
-  ],
-  "familyName": "SOLANACEAE",
-  "englishNames": [
-    "Thorn Apple",
-    "Angel's Trumpet",
-    "Hindu Datura",
-    "Horn of Plenty",
-    "Downy Thorn Apple",
-    "Hoary Thorn-Apple",
-    "Purple Thorn-Apple",
-    "Thorn-Apple",
-    "Devil's Trumpet"
-  ],
-  "sinhalaName": "Ela attana (එළ-අත්තන)",
-  "description": "සෘජු, වටකුරු, මෘදු කඳක් සහිත පඳුරකි, මීටර් 1(-2) ක් දක්වා උසට වැඩේ. පත්‍ර සම්පූර්ණ හෝ කෝණාකාර දාර සහිත වන අතර, දිග සෙන්ටිමීටර 29 ක් සහ පළල සෙන්ටිමීටර 16 ක් දක්වා වේ; පත්‍ර වෘන්ත (petioles) පත්‍ර තලයෙන් 1/3-1/2 ක් පමණ දිග වේ. මල් සෘජු වන අතර පත්‍ර අක්ෂවල තනිව පිහිටයි; මල් කිරීටය (corolla) සෙන්ටිමීටර 15 ක් පමණ දිග වන අතර ක්‍රීම් සුදු පැහැයෙන් හෝ රතු හෝ ලා දම් පැහැති ඉරි සහිත වේ. පලතුර ගෝලාකාර කරලක් (capsule) වන අතර එය ඝන ගැටිති හෝ කටු (prickles) වලින් වැසී ඇත. බීජ දුඹුරු පැහැති වන අතර මිලිමීටර 5 ක විෂ්කම්භයකින් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Datura metel L.",
+    "synonyms": [
+        "Brugmansia chlorantha (Hook.) Melliss",
+        "Brugmansia suaveolens var. flore-albo-pleno Reider",
+        "Brugmansia waymanii Paxton",
+        "Datura aegyptiaca Vis.",
+        "Datura alba F.Muell.",
+        "Datura alba Rumph. ex Nees",
+        "Datura alba var. africana Mattei",
+        "Datura bojeri Delile",
+        "Datura chlorantha atroviolacea-plenissima Barr & Sugden",
+        "Datura chlorantha Hook.",
+        "Datura cornucopaea Wilks",
+        "Datura cornucopia Pitcher & Manda",
+        "Datura dubia Bianca ex Tod.",
+        "Datura dubia Rich.",
+        "Datura fastuosa L.",
+        "Datura fastuosa var. alba Bernh.",
+        "Datura fastuosa var. alba C.B.Clarke",
+        "Datura fastuosa var. flaviflora O.E.Schulz ex O.C.Schmidt",
+        "Datura fastuosa var. glabra Bernh.",
+        "Datura fastuosa var. parviflora Nees",
+        "Datura fastuosa var. rubra Bernh.",
+        "Datura fastuosa var. tuberculata Bernh.",
+        "Datura fruticosa Hornem.",
+        "Datura humilis Desf.",
+        "Datura hummatu Bernh.",
+        "Datura hummatu var. fastuosa (L.) Bernh.",
+        "Datura hummatu var. muricata (Link) Bernh.",
+        "Datura hummatu var. rubra Bernh.",
+        "Datura laevis Schkuhr",
+        "Datura metel f. pleniflora O.Deg.",
+        "Datura metel var. dentata Schltdl. & Cham.",
+        "Datura metel var. fastuosa (L.) Saff.",
+        "Datura metel var. flaviflora (O.E.Schulz) Moldenke",
+        "Datura metel var. muricata (Link) Danert",
+        "Datura metel var. obscura Danert",
+        "Datura metel var. rubra (Bernh.) Danert",
+        "Datura metel var. viola Pandeya & A.B.Bhatt",
+        "Datura muricata Link",
+        "Datura nanakii Pandeya & A.B.Bhatt",
+        "Datura nigra Hassk.",
+        "Datura nilhummatu Dunal",
+        "Datura timoriensis Zipp. ex Span.",
+        "Datura trapezia Nees",
+        "Datura waymanii (Paxton) Steud.",
+        "Stramonium datura Noronha",
+        "Stramonium fastuosum (L.) Moench",
+        "Stramonium infernale Noronha",
+        "Stramonium metel (L.) Moench"
+    ],
+    "familyName": "SOLANACEAE",
+    "englishNames": [
+        "Thorn Apple",
+        "Angel's Trumpet",
+        "Hindu Datura",
+        "Horn of Plenty",
+        "Downy Thorn Apple",
+        "Hoary Thorn-Apple",
+        "Purple Thorn-Apple",
+        "Thorn-Apple",
+        "Devil's Trumpet"
+    ],
+    "sinhalaName": "Ela attana (එළ-අත්තන)",
+    "description": "සෘජු, වටකුරු, මෘදු කඳක් සහිත පඳුරකි, මීටර් 1(-2) ක් දක්වා උසට වැඩේ. පත්‍ර සම්පූර්ණ හෝ කෝණාකාර දාර සහිත වන අතර, දිග සෙන්ටිමීටර 29 ක් සහ පළල සෙන්ටිමීටර 16 ක් දක්වා වේ; පත්‍ර වෘන්ත (petioles) පත්‍ර තලයෙන් 1/3-1/2 ක් පමණ දිග වේ. මල් සෘජු වන අතර පත්‍ර අක්ෂවල තනිව පිහිටයි; මල් කිරීටය (corolla) සෙන්ටිමීටර 15 ක් පමණ දිග වන අතර ක්‍රීම් සුදු පැහැයෙන් හෝ රතු හෝ ලා දම් පැහැති ඉරි සහිත වේ. පලතුර ගෝලාකාර කරලක් (capsule) වන අතර එය ඝන ගැටිති හෝ කටු (prickles) වලින් වැසී ඇත. බීජ දුඹුරු පැහැති වන අතර මිලිමීටර 5 ක විෂ්කම්භයකින් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Lumbago",
+            "sinhala": "කොන්දේ පහළ ප්‍රදේශයේ කැක්කුම (කටි ශූල)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Tumors",
+            "sinhala": "ගෙඩි / අර්බුද",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Cataract",
+            "sinhala": "ඇසේ සුද",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Toothache",
+            "sinhala": "දත් කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Animal Bites",
+            "sinhala": "සත්ත්ව දෂ්ටන (බලු දෂ්ටනය ඇතුළුව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Rabies",
+            "sinhala": "ජලභීතිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Hydrocele",
+            "sinhala": "වෘෂණ කෝෂවල දියර පිරීම / ඉදිමීම (වෘෂණ වෘද්ධිය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Severe Cold",
+            "sinhala": "තදබල හෙම්බිරිස්සාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tuberculosis",
+            "sinhala": "ක්ෂය රෝගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Insanity",
+            "sinhala": "උන්මාදය (චිත්ත විකෘතිය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Abscesses",
+            "sinhala": "සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Sciatica",
+            "sinhala": "ගෘධ්‍රසී වාතය (Sciatica)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysmenorrhea",
+            "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Body Ache",
+            "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Rabies",
+            "sinhala": "ජලභීතිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Filariasis",
+            "sinhala": "බරවා රෝගය (අලිපාදය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds",
+        "Root"
+    ],
+    "images": [
+        {
+            "image_id": "340",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/pvZghgWC/plant01253-00340.jpg"
+        },
+        {
+            "image_id": "341",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/pr11mmfC/plant01253-00341.jpg"
+        },
+        {
+            "image_id": "342",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/dwsN6gYr/plant01253-00342.jpg"
+        },
+        {
+            "image_id": "3969",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/JRdNLCTn/plant01253-03969.jpg"
+        },
+        {
+            "image_id": "3970",
+            "caption": "Flower Bud (PMR)",
+            "url": "https://i.ibb.co/1pYSB21/plant01253-03970.jpg"
+        },
+        {
+            "image_id": "3971",
+            "caption": "Opened Fruit (PMR)",
+            "url": "https://i.ibb.co/Nd9vMg19/plant01253-03971.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "aththana/Datura/අත්තන/attana/ishan/",
+                "url": "https://youtube.com/watch?v=jGF63i9rwhM",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/jGF63i9rwhM/hq720.jpg"
+            },
+            {
+                "title": "දේශීය ඖෂධ අත්තන",
+                "url": "https://youtube.com/watch?v=LYW6iKQ45cA",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/LYW6iKQ45cA/hqdefault.jpg"
+            },
+            {
+                "title": "Datura metel/Ela attana/Herbal plants of Sri Lanka",
+                "url": "https://youtube.com/watch?v=bI0A3QX1EdA",
+                "duration": "1:03",
+                "thumbnail": "https://i.ytimg.com/vi/bI0A3QX1EdA/hq720.jpg"
+            },
+            {
+                "title": "Aththana-Datura metel Health benift අත්තන ශාකයේ ඔසු ගුණ ( osu -ඔසු )",
+                "url": "https://youtube.com/watch?v=UQpcUtPdnvI",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/UQpcUtPdnvI/hq720.jpg"
+            },
+            {
+                "title": "කළු අත්තන Datura metel",
+                "url": "https://youtube.com/watch?v=c4WXTnLuXuk",
+                "duration": "1:44",
+                "thumbnail": "https://i.ytimg.com/vi/c4WXTnLuXuk/hqdefault.jpg"
+            },
+            {
+                "title": "රුක්අත්තන ගසක් ඔබේ නිවස අසලත් තිබේද | Rukaththana tree | Alstonia scholaris",
+                "url": "https://youtube.com/watch?v=fib4dGok3Uk",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/fib4dGok3Uk/hqdefault.jpg"
+            },
+            {
+                "title": "ඇඹිලිපිටියේ ඇඟලුම් කම්හල් ගින්නෙන් 22 ක් රෝහලේ",
+                "url": "https://youtube.com/watch?v=_hCOGDy_R4A",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/_hCOGDy_R4A/hq720.jpg"
+            },
+            {
+                "title": "Ath Beheth Sinhala | Ela Olida | story eka",
+                "url": "https://youtube.com/watch?v=o245pMsCZ4k",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/o245pMsCZ4k/hq720.jpg"
+            },
+            {
+                "title": "Ath Beheth Sinhala | Kota Dibula | story eka",
+                "url": "https://youtube.com/watch?v=cb2Rb_ml2uE",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/cb2Rb_ml2uE/hq720.jpg"
+            },
+            {
+                "title": "Ath Beheth | Ela Katarolu | story eka",
+                "url": "https://youtube.com/watch?v=C2GOdF187EE",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/C2GOdF187EE/hq720.jpg"
+            },
+            {
+                "title": "නිවසේ ඉදිරිපිට මේ ගස් නම් සිටුවන්න එපා!!",
+                "url": "https://youtube.com/watch?v=Pyg1CSxcKpo",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/Pyg1CSxcKpo/hqdefault.jpg"
+            },
+            {
+                "title": "Wild Datura Plant | Moon flower Tree (Datura suaveolens)",
+                "url": "https://youtube.com/watch?v=em852W4I7Dk",
+                "duration": "6:07",
+                "thumbnail": "https://i.ytimg.com/vi/em852W4I7Dk/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "මේ ශාකය මේ දිසාවේ ස්ථාපිත කිරිමෙන් ඔබේ දියූණුව පුදුමාකාරලෙස වැඩ්වේ",
+                "url": "https://youtube.com/watch?v=EBj1dHtcL60",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/EBj1dHtcL60/hq720.jpg"
+            },
+            {
+                "title": "ඇත්දෙමට බලාගන්න Athdemata Plant",
+                "url": "https://youtube.com/watch?v=p6PjbmaRP7c",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/p6PjbmaRP7c/hq720.jpg"
+            },
+            {
+                "title": "aththana/Datura/අත්තන/attana/ishan/",
+                "url": "https://youtube.com/watch?v=jBn0yZiljs0",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/jBn0yZiljs0/frame0.jpg"
+            },
+            {
+                "title": "යාලුවනෙ, මේ හොඩල..දැකල තියෙද 🥔🥔",
+                "url": "https://youtube.com/watch?v=YA_8Y7AVGQs",
+                "duration": "0:55",
+                "thumbnail": "https://i.ytimg.com/vi/YA_8Y7AVGQs/hqdefault.jpg"
+            },
+            {
+                "title": "aththana/Datura/අත්තන/attana/ishan/",
+                "url": "https://youtube.com/watch?v=8H9TvqRk9eo",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/8H9TvqRk9eo/frame0.jpg"
+            },
+            {
+                "title": "ඉන්නල කන අයට ලැබෙන පුදුම හිතෙන දේවල් මෙන්න : Benefits of coleus tubers",
+                "url": "https://youtube.com/watch?v=J9ou1pwsZpc",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/J9ou1pwsZpc/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "Ath adiya|ඇත් අඩි ශාකය | ඔසු ගුණ | ඇත් අඩිය |Similar  Elephantopus | ඔසු-Osu",
+                "url": "https://youtube.com/watch?v=JDVM2UpeEJI",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/JDVM2UpeEJI/hq720.jpg"
+            },
+            {
+                "title": "කාලිගේ අනාවැකිය.. | මුතුගල මහ ඇමති පුටුවට..?  |Dinesh Muthugala | Episode 455",
+                "url": "https://youtube.com/watch?v=2GNiuSoLLl8",
+                "duration": "12:24",
+                "thumbnail": "https://i.ytimg.com/vi/2GNiuSoLLl8/hq720.jpg"
+            },
+            {
+                "title": "දධ කුෂ්ඨ අලුහම් සුව කරන ඇත්තෝර |eththora | aththora | cassia alata",
+                "url": "https://youtube.com/watch?v=haoEjG0IDDk",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/haoEjG0IDDk/hqdefault.jpg"
+            },
+            {
+                "title": "Ath Beheth Sinhala | Wel Thubbotu | story eka",
+                "url": "https://youtube.com/watch?v=loPJNmxclfs",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/loPJNmxclfs/hq720.jpg"
+            },
+            {
+                "title": "ලේ දෝෂ, පිළිකා ඇතුළු රෝග රැසකට ගුණ දෙන අපිට අගේ නැති වටිනා ඔසුව | ඇත්අඩි (Ethadi) | Athadi | ඇත්අඩි",
+                "url": "https://youtube.com/watch?v=XNxUl4njDsI",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/XNxUl4njDsI/hq720.jpg"
+            },
+            {
+                "title": "රහස් පලාව | කවුරුත් භාවිතාවට නොගන්නා පලාවක්  | අත්තික්කා වල ගුණ",
+                "url": "https://youtube.com/watch?v=6AnI_jkTa3I",
+                "duration": "11:46",
+                "thumbnail": "https://i.ytimg.com/vi/6AnI_jkTa3I/hqdefault.jpg"
+            },
+            {
+                "title": "හීං අරත්ත | heen Araththa | ඔසු ගුණ",
+                "url": "https://youtube.com/watch?v=O8-hUoMgxqs",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/O8-hUoMgxqs/hq720.jpg"
+            },
+            {
+                "title": "අරත්ත හොඳ ඖෂධීය ලිංගික උත්තේජක වලින් එකක්ද?.Is it good Herbal aphrodisiac ?",
+                "url": "https://youtube.com/watch?v=cwzzS5vBCj8",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/cwzzS5vBCj8/hqdefault.jpg"
+            },
+            {
+                "title": "බැලතණ ඔයත් කැවද නොදන්නා කමට | thuru tv",
+                "url": "https://youtube.com/watch?v=Xyr3d01byak",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/Xyr3d01byak/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ආමන්ඩ් ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදු වෙන විශ්මිත දේවල් 12ක් | 12 Health Benefits of Almonds",
+                "url": "https://youtube.com/watch?v=Fd8_EKAo9QU",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/Fd8_EKAo9QU/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා හණ ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 8ක් | 8 Health Benefits Of Eating Flaxseeds",
+                "url": "https://youtube.com/watch?v=Qb26INPmYAY",
+                "duration": "10:10",
+                "thumbnail": "https://i.ytimg.com/vi/Qb26INPmYAY/hq720.jpg"
+            },
+            {
+                "title": "අතිවිශිෂ්ඨ ගුණ වලින් හෙබි අපේ ඔසුව | Ithana | Ceylon Agri | Episode 142",
+                "url": "https://youtube.com/watch?v=SOCAHEP3yTA",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/SOCAHEP3yTA/hq720.jpg"
+            },
+            {
+                "title": "Datura metel/Kalu attana/Ela attana/Aththana/Herbal plants of Sri Lanka",
+                "url": "https://youtube.com/watch?v=A_Mcu8pLBIY",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/A_Mcu8pLBIY/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "මහසෙන් අරණ Mahasen Arana සියලුම පාදවල වේදනා වලට ,අත්තික්කා ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=iHO593WN-d8",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/iHO593WN-d8/hq720.jpg"
+            },
+            {
+                "title": "වයස 77යි තාම මල් මදිනවා | මෙලෝ ගුරුමුෂ්ටියක් නෑ | මෙන්න කිතුලට බෙහෙත් තියන විදිහ",
+                "url": "https://youtube.com/watch?v=6NY_X5FYSEE",
+                "duration": "1:15:05",
+                "thumbnail": "https://i.ytimg.com/vi/6NY_X5FYSEE/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙතට ගන්න හදා ගත්තට පාඩු නෑ / \" Endaru \" Medicinal plant in Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=ft45xN1OLAI",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/ft45xN1OLAI/hq720.jpg"
+            },
+            {
+                "title": "පහසුවෙන්, අඩු වියදමෙන්,  දිව්‍ය ඖෂධය ගෙදරදී ම හදාගන්නා හැටි!",
+                "url": "https://youtube.com/watch?v=kXhWrN5RjUo",
+                "duration": "9:29",
+                "thumbnail": "https://i.ytimg.com/vi/kXhWrN5RjUo/hq720.jpg"
+            },
+            {
+                "title": "Heen Araththa | Hela Osu Sinhala | Story Eka",
+                "url": "https://youtube.com/watch?v=Oh0-XZq-His",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/Oh0-XZq-His/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "මේ ගසේ කොළ ටිකක් කුඩු කරලා කෑවෙත් දියවැඩියාව සදහටම මට්ටුයි! - ඇගේ පටස් ගාලා ක්ෂණිකව සීනි බහිනවා!",
+                "url": "https://youtube.com/watch?v=juTMsxstz7k",
+                "duration": "23:43",
+                "thumbnail": "https://i.ytimg.com/vi/juTMsxstz7k/hq720.jpg"
+            },
+            {
+                "title": "Ellaya TV :-දුරකතන සංවාද රෝගියකු සමගින්.බෙහෙත් නොබී දිවි ගෙවමු.සුවපත් ජිවිතයක්.දැනුවත් කිරීම අංක 103",
+                "url": "https://youtube.com/watch?v=HxThtRvN9Ns",
+                "duration": "22:38",
+                "thumbnail": "https://i.ytimg.com/vi/HxThtRvN9Ns/hq720.jpg"
+            },
+            {
+                "title": "Cassia Alata | සමේ රෝග නසන \"ඇත්තෝර\" | Indika Koralage",
+                "url": "https://youtube.com/watch?v=uDPs-mNlCFc",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/uDPs-mNlCFc/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ එළබටු වල විශ්මිත ගුණ - Amazing properties of Batu Vegetable",
+                "url": "https://youtube.com/watch?v=krcNHcPh3Zk",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/krcNHcPh3Zk/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රැසක් සහිත වරා ශාකය | Calotropis gigantea / wara | Episode 30",
+                "url": "https://youtube.com/watch?v=3StW_-_5r9U",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/3StW_-_5r9U/hq720.jpg"
+            },
+            {
+                "title": "රත්පිත්, උගුරේ ආබාධ ඇතුළු රෝග රැසකට ගුණ විස්මිත ශාකය | මයිල වල නොදත් විස්තර | මයිල(Maila)",
+                "url": "https://youtube.com/watch?v=zKr35hW87g0",
+                "duration": "8:33",
+                "thumbnail": "https://i.ytimg.com/vi/zKr35hW87g0/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "Egg Plant |ඖෂධීය ගුණ ඇති එලබටු වවන අයුරු|Ceylon Agri | Episode 26",
+                "url": "https://youtube.com/watch?v=cICbIBtQ748",
+                "duration": "9:38",
+                "thumbnail": "https://i.ytimg.com/vi/cICbIBtQ748/hq720.jpg"
+            },
+            {
+                "title": "ගොඩ කදුරු ශාකයේ විශ්මිත ඖෂධීය ගුණ ඔබත් දැනසිට්යා ද? | Strychnos nux-vomica | Godakaduru🌿",
+                "url": "https://youtube.com/watch?v=7NdHPzFkrn4",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/7NdHPzFkrn4/hq720.jpg"
+            },
+            {
+                "title": "හැදුණොත් සීනි ලේසි නෑනි. ඔක්කොටම කළින් වෛද්‍යවරියගේ මේ කතාව බලන්න.",
+                "url": "https://youtube.com/watch?v=Vej58Ed6glI",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/Vej58Ed6glI/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ධ ගත්තොත් වැඩේ හරිද? | Ashwagandha - @behethbydrnamal",
+                "url": "https://youtube.com/watch?v=ccNLNsa3MSE",
+                "duration": "11:14",
+                "thumbnail": "https://i.ytimg.com/vi/ccNLNsa3MSE/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු කැදවල ඖෂධීය ගුණය |Medicinal properties of Iramusu pods @helaosuarana",
+                "url": "https://youtube.com/watch?v=cHKTCbrySfs",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/cHKTCbrySfs/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "ඔබ මවිතයට පත් කරන සිංහල බෙහෙත් පැලෑටි හා ඒවායේ ගුණ - Amazing herbs and their medicinal properties",
+                "url": "https://youtube.com/watch?v=i896z5EG4KU",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/i896z5EG4KU/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ලේ වඩවන ආහාර 20 ක් | රක්තහීනතාවය වලක්වන්න කන්න | Iron Rich Foods",
+                "url": "https://youtube.com/watch?v=Iwh34rqk7iA",
+                "duration": "16:24",
+                "thumbnail": "https://i.ytimg.com/vi/Iwh34rqk7iA/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණ-දද,අළුහම්,හිස්සොරි සහ තවත් දේවල් - උපුටගත්තකි.",
+                "url": "https://youtube.com/watch?v=RBB5_oyLdOc",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/RBB5_oyLdOc/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "උයනකොට විටමින් වැඩිවෙන එළවලු 10 ක්!",
+                "url": "https://youtube.com/watch?v=L9CaqwUOFHY",
+                "duration": "9:39",
+                "thumbnail": "https://i.ytimg.com/vi/L9CaqwUOFHY/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන, ලෙඩවීම වලක්වන, පිටි වර්ග 7 ක්!",
+                "url": "https://youtube.com/watch?v=S_RsfSLzUw8",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/S_RsfSLzUw8/hq720.jpg"
+            },
+            {
+                "title": "★ එළඟිතෙල් මෙපමණ ගුණදැයි ඔබ දැන සිටියාද? ★ Amazing benefits of Ghee by Apé Amma",
+                "url": "https://youtube.com/watch?v=n_TkVbWgwXI",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/n_TkVbWgwXI/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "ගිතෙල් වල විශ්මිත ප්‍රයෝජන 11 ක් - 11 Health Benefits Of Ghrita Oil",
+                "url": "https://youtube.com/watch?v=8DUvH3HQjJ0",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/8DUvH3HQjJ0/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "මිනිස් සිරුරේ රෝග ගණනකට සුවය ගෙනදෙන ඇහැල | Cassia fistula plant | ehela tree🌿",
+                "url": "https://youtube.com/watch?v=GK4j0XSQQAM",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/GK4j0XSQQAM/hqdefault.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "නිවසේ සියලු දෝෂ දුරු කරන එළවරා ශාකය | Wasthu Dosha Apala Walata Ela Wara",
+                "url": "https://youtube.com/watch?v=jVTONj_8UIU",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/jVTONj_8UIU/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "ලෝකයේ ප්‍රෝටීන් බහුල ආහාර ඔබේ ආහාර වේලටත් අදම එකතු කරගන්න | Flogram20",
+                "url": "https://youtube.com/watch?v=VnsjRA1sivI",
+                "duration": "1:05",
+                "thumbnail": "https://i.ytimg.com/vi/VnsjRA1sivI/hq720.jpg"
+            },
+            {
+                "title": "අල හදන අලුත්ම ක්‍රමය මෙන්න සුපිරිම රහස",
+                "url": "https://youtube.com/watch?v=9FGAxRhGZ4Y",
+                "duration": "11:17",
+                "thumbnail": "https://i.ytimg.com/vi/9FGAxRhGZ4Y/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "නීරෝගී ලස්සනටම හැදුනු පැල ඔයාලට ගන්න පුලුවන්#anthuriumwagawasinhala#fypviral#plants0765647812",
+                "url": "https://youtube.com/watch?v=5sUz5dj8UGM",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/5sUz5dj8UGM/hqdefault.jpg"
+            },
+            {
+                "title": "Ashitaba Plant: Health Benefits (Tomorrow Leaf)",
+                "url": "https://youtube.com/watch?v=pxJLhqXJS3Q",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/pxJLhqXJS3Q/hq720.jpg"
+            },
+            {
+                "title": "බැලතණ ශාකයේ ඇති  ඖෂධීය ප්‍රයෝජන | Medicinal Benefits of Balatana Plant | Indian goosegrass benefits🌿",
+                "url": "https://youtube.com/watch?v=WKMPrCnv0iQ",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/WKMPrCnv0iQ/hqdefault.jpg"
+            },
+            {
+                "title": "Heteropogon contortus /E thana/e-thana/ ඊ-තණ",
+                "url": "https://youtube.com/watch?v=XIc7JlQIZuw",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/XIc7JlQIZuw/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවේ ඖෂධ පැලෑටි | අරත්ත | #Medicinal plants of Sri Lanka | Isira Ayurveda",
+                "url": "https://youtube.com/watch?v=sLOiy-ZXIyE",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/sLOiy-ZXIyE/hq720.jpg"
+            },
+            {
+                "title": "තලන බටු වැඩපුර කන අයට වෙන දේ මෙන්න : Benefits of Thai Eggplant",
+                "url": "https://youtube.com/watch?v=Z-JZPsbUw4E",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/Z-JZPsbUw4E/hq720.jpg"
+            },
+            {
+                "title": "අසිරිමත් සිරුරේ විශ්මිත තතු | Important facts of human body | Medicine for life | Dr.Ajitha Iroshan",
+                "url": "https://youtube.com/watch?v=EkPO8zacEpY",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/EkPO8zacEpY/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලි කන අයට ලැබෙන විස්මිත ප්‍රතිලාභ |Amazing Benefits of Nelly Eaters @helaosuarana",
+                "url": "https://youtube.com/watch?v=AtDIG2kmVEg",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/AtDIG2kmVEg/hq720.jpg"
+            },
+            {
+                "title": "🔴යකෝ මේ \"දිව්‍ය මුල්\" සුද්දෝ කුඩු කරලා බොනවා! අපිට අගයක් නෑ මේ පදුර ගැන! බැලතණ හෙවත් Eleusine indica",
+                "url": "https://youtube.com/watch?v=wvDCu8lo3i8",
+                "duration": "8:20",
+                "thumbnail": "https://i.ytimg.com/vi/wvDCu8lo3i8/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "එළඟිතෙල් භාවිතය ඔබට මොනවා කරාවිද : Benefits of ghee",
+                "url": "https://youtube.com/watch?v=GrvqfrjXq1A",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/GrvqfrjXq1A/hq720.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "ආක්‍රමණශීලී ශාක විශේෂ හඳුනා ගනිමු|Annona glabra - වෙල් ආත්තා",
+                "url": "https://youtube.com/watch?v=BCDF2A-H538",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/BCDF2A-H538/hqdefault.jpg"
+            },
+            {
+                "title": "මොහොතකින් කෙනෙකු රාගයෙන් උමතු කරන නගා මැරූ අල #sinhala",
+                "url": "https://youtube.com/watch?v=a80X9m32jDo",
+                "duration": "12:42",
+                "thumbnail": "https://i.ytimg.com/vi/a80X9m32jDo/hq720.jpg"
+            },
+            {
+                "title": "Is the Rakattana tree so valuable?- රුක් අත්තන ගස මෙතරම් වටිනවාද? නිවසක මේම ගසක් තිබුනොත් ආයුෂ වැඩී",
+                "url": "https://youtube.com/watch?v=A2e3EPnisHI",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/A2e3EPnisHI/hqdefault.jpg"
+            },
+            {
+                "title": "Datura (Datura Metel) Benefits, Uses, Dosage & Side Effects | Is It Safe?",
+                "url": "https://youtube.com/watch?v=IqCfyxbWTnM",
+                "duration": "1:20",
+                "thumbnail": "https://i.ytimg.com/vi/IqCfyxbWTnM/hq720.jpg"
+            },
+            {
+                "title": "aththana/Datura/අත්තන/attana/ishan/",
+                "url": "https://youtube.com/watch?v=3Y8_GcubQlo",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/3Y8_GcubQlo/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Lumbago",
-      "sinhala": "කොන්දේ පහළ ප්‍රදේශයේ කැක්කුම (කටි ශූල)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Tumors",
-      "sinhala": "ගෙඩි / අර්බුද",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Cataract",
-      "sinhala": "ඇසේ සුද",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Toothache",
-      "sinhala": "දත් කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Animal Bites",
-      "sinhala": "සත්ත්ව දෂ්ටන (බලු දෂ්ටනය ඇතුළුව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Rabies",
-      "sinhala": "ජලභීතිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Hydrocele",
-      "sinhala": "වෘෂණ කෝෂවල දියර පිරීම / ඉදිමීම (වෘෂණ වෘද්ධිය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Severe Cold",
-      "sinhala": "තදබල හෙම්බිරිස්සාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tuberculosis",
-      "sinhala": "ක්ෂය රෝගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Insanity",
-      "sinhala": "උන්මාදය (චිත්ත විකෘතිය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Abscesses",
-      "sinhala": "සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Sciatica",
-      "sinhala": "ගෘධ්‍රසී වාතය (Sciatica)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysmenorrhea",
-      "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Body Ache",
-      "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Rabies",
-      "sinhala": "ජලභීතිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Filariasis",
-      "sinhala": "බරවා රෝගය (අලිපාදය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds",
-    "Root"
-  ],
-  "images": [
-    {
-      "image_id": "340",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/pvZghgWC/plant01253-00340.jpg"
-    },
-    {
-      "image_id": "341",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/pr11mmfC/plant01253-00341.jpg"
-    },
-    {
-      "image_id": "342",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/dwsN6gYr/plant01253-00342.jpg"
-    },
-    {
-      "image_id": "3969",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/JRdNLCTn/plant01253-03969.jpg"
-    },
-    {
-      "image_id": "3970",
-      "caption": "Flower Bud (PMR)",
-      "url": "https://i.ibb.co/1pYSB21/plant01253-03970.jpg"
-    },
-    {
-      "image_id": "3971",
-      "caption": "Opened Fruit (PMR)",
-      "url": "https://i.ibb.co/Nd9vMg19/plant01253-03971.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

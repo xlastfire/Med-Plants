@@ -1,60 +1,551 @@
 {
-  "scientificName": "Cyathula prostrata (L.) Blume",
-  "synonyms": [
-    "Achyranthes alternifolia L.f.",
-    "Achyranthes debilis Poir.",
-    "Achyranthes diffusa Moench",
-    "Achyranthes globosa Pers.",
-    "Achyranthes mollis Lepr. ex Seub.",
-    "Achyranthes prostrata L.",
-    "Achyranthes repens B.Heyne ex Roth",
-    "Cyathula alternifolia Druce",
-    "Cyathula geniculata Lour.",
-    "Cyathula globosa (Pers.) Moq.",
-    "Cyathula prostrata f. rubella Suess.",
-    "Cyathula prostrata var. debilis (Poir.) Miq.",
-    "Cyathula repens Moq.",
-    "Desmochaeta globosa (Pers.) Schult.",
-    "Desmochaeta micrantha DC.",
-    "Desmochaeta prostrata (L.) DC.",
-    "Desmochaeta repens Schult.",
-    "Pupalia prostrata (L.) Mart."
-  ],
-  "familyName": "AMARANTHACEAE",
-  "englishNames": [
-    "Pastureweed",
-    "Hookweed"
-  ],
-  "sinhalaName": "Bim karalheba (බිම්  කරල්හැබ)",
-  "description": "වාර්ෂික පැළෑටියකි. පත්‍ර 1.5 - 8 X 1 - 4.5 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, බොහෝ විට රොම්බොයිඩ (rhomboid) සිට රොම්බොයිඩ-ඕවෙට් (rhomboid-ovate) හැඩයක් ගනී. සමහර විට රොම්බොයිඩ-එලිප්ටික් (rhomboid-elliptic) සිට කෙටි ඕවෙට් (ovate) හෝ උප-වෘත්තාකාර (suborbicular) හැඩයක් ද ගත හැක. පත්‍ර දාරය මැදට පහළින් හෝ ඉහළින් කැපී පෙනෙන ලෙස අවතල (excavate) විය හැක. පත්‍ර අග්‍රය කෙටි අග්‍රස්ථ (acuminate) වන අතර, පත්‍ර පාදය තියුණු (acute) සිට තරමක් මොට (blunt) ස්වභාවයක් ගනී. පත්‍ර පාදය කෙටි කුනියේට් (cuneate) සිට කුනියේට්-ඇටෙනුවෙට් (cuneate-attenuate) හැඩයක් ගනී. පත්‍ර දෙපසම උප-ග්ලැබ්‍රස් (subglabrous) සිට මධ්‍යස්ථව රෝම සහිත (pilose) වේ. පුෂ්ප මංජරි කඳේ සහ අතු වල අග්‍රස්ථව පිහිටයි. කරල් (capsule) ඕවොයිඩ් (ovoid) හැඩැති වන අතර මි.මී. 1.5 ක් පමණ වේ. බීජ ඕවොයිඩ් (ovoid) හැඩැති, දිලිසෙන, දුඹුරු පැහැති සහ සිනිඳු වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "1308",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/r2dprkBV/plant00047-01308.jpg"
+    "scientificName": "Cyathula prostrata (L.) Blume",
+    "synonyms": [
+        "Achyranthes alternifolia L.f.",
+        "Achyranthes debilis Poir.",
+        "Achyranthes diffusa Moench",
+        "Achyranthes globosa Pers.",
+        "Achyranthes mollis Lepr. ex Seub.",
+        "Achyranthes prostrata L.",
+        "Achyranthes repens B.Heyne ex Roth",
+        "Cyathula alternifolia Druce",
+        "Cyathula geniculata Lour.",
+        "Cyathula globosa (Pers.) Moq.",
+        "Cyathula prostrata f. rubella Suess.",
+        "Cyathula prostrata var. debilis (Poir.) Miq.",
+        "Cyathula repens Moq.",
+        "Desmochaeta globosa (Pers.) Schult.",
+        "Desmochaeta micrantha DC.",
+        "Desmochaeta prostrata (L.) DC.",
+        "Desmochaeta repens Schult.",
+        "Pupalia prostrata (L.) Mart."
+    ],
+    "familyName": "AMARANTHACEAE",
+    "englishNames": [
+        "Pastureweed",
+        "Hookweed"
+    ],
+    "sinhalaName": "Bim karalheba (බිම්  කරල්හැබ)",
+    "description": "වාර්ෂික පැළෑටියකි. පත්‍ර 1.5 - 8 X 1 - 4.5 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, බොහෝ විට රොම්බොයිඩ (rhomboid) සිට රොම්බොයිඩ-ඕවෙට් (rhomboid-ovate) හැඩයක් ගනී. සමහර විට රොම්බොයිඩ-එලිප්ටික් (rhomboid-elliptic) සිට කෙටි ඕවෙට් (ovate) හෝ උප-වෘත්තාකාර (suborbicular) හැඩයක් ද ගත හැක. පත්‍ර දාරය මැදට පහළින් හෝ ඉහළින් කැපී පෙනෙන ලෙස අවතල (excavate) විය හැක. පත්‍ර අග්‍රය කෙටි අග්‍රස්ථ (acuminate) වන අතර, පත්‍ර පාදය තියුණු (acute) සිට තරමක් මොට (blunt) ස්වභාවයක් ගනී. පත්‍ර පාදය කෙටි කුනියේට් (cuneate) සිට කුනියේට්-ඇටෙනුවෙට් (cuneate-attenuate) හැඩයක් ගනී. පත්‍ර දෙපසම උප-ග්ලැබ්‍රස් (subglabrous) සිට මධ්‍යස්ථව රෝම සහිත (pilose) වේ. පුෂ්ප මංජරි කඳේ සහ අතු වල අග්‍රස්ථව පිහිටයි. කරල් (capsule) ඕවොයිඩ් (ovoid) හැඩැති වන අතර මි.මී. 1.5 ක් පමණ වේ. බීජ ඕවොයිඩ් (ovoid) හැඩැති, දිලිසෙන, දුඹුරු පැහැති සහ සිනිඳු වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "1308",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/r2dprkBV/plant00047-01308.jpg"
+        },
+        {
+            "image_id": "1309",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/7xTnxf63/plant00047-01309.jpg"
+        },
+        {
+            "image_id": "1310",
+            "caption": "A twig",
+            "url": "https://i.ibb.co/MDS358XM/plant00047-01310.jpg"
+        },
+        {
+            "image_id": "1312",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/0yhYjZt8/plant00047-01312.jpg"
+        },
+        {
+            "image_id": "1311",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/d48Wnrzf/plant00047-01311.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Bin karalheba",
+                "url": "https://youtube.com/watch?v=BRd4mFtSZ_g",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/BRd4mFtSZ_g/hq720.jpg"
+            },
+            {
+                "title": "ඔයලගෙ මිදුලෙ තියනවනම් කවදාවත් උගුලලා  විසිකරන්න එපා | thuru tv",
+                "url": "https://youtube.com/watch?v=TTGUWg_mRIY",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/TTGUWg_mRIY/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගය ට ගන්නා රත් කරල් හැබ (සැබෝ ) රත් කරල් සැබෝ",
+                "url": "https://youtube.com/watch?v=UIsIlz3EsJk",
+                "duration": "1:24",
+                "thumbnail": "https://i.ytimg.com/vi/UIsIlz3EsJk/hqdefault.jpg"
+            },
+            {
+                "title": "කරල් සැබෝ|කරල් හැබ|ගස් කරල් හැබ|රත් කරල් හැබ|karal heba|sinhala|2022",
+                "url": "https://youtube.com/watch?v=mqhI4CIigqw",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/mqhI4CIigqw/hq720.jpg"
+            },
+            {
+                "title": "බිම් බෝම්බ වෙනුවට, උතුරෙන් පූදින රන් කරල් | Harvest in the North | Rupavahini News",
+                "url": "https://youtube.com/watch?v=gMc3kqCgMhA",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/gMc3kqCgMhA/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙතට ගන්නා නියම  එල බිං තඹරු... එල බින් තඹරු bin thamburu adapangkodi ছাগলকুরী ChagalkuriGujarati",
+                "url": "https://youtube.com/watch?v=qlrntcoibEg",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/qlrntcoibEg/hqdefault.jpg"
+            },
+            {
+                "title": "බිම් සවිය 'අඹ පැළය ' හිටවන්න!",
+                "url": "https://youtube.com/watch?v=4CjKyI94O-s",
+                "duration": "26:56",
+                "thumbnail": "https://i.ytimg.com/vi/4CjKyI94O-s/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ගැන හැමෝම අහන ප්‍රශ්න | Bin Kohomba | Ceylon Agri | Episode 370",
+                "url": "https://youtube.com/watch?v=bsDV6DgOPZQ",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/bsDV6DgOPZQ/hq720.jpg"
+            },
+            {
+                "title": "කලා වැවේ වාන් දොරටු අඩි හයක් බැගින් විවෘත වෙයි | පහත් බිම් ජලයෙන් යටවෙයි | දෛනික ගමනාගමනයටත් බාධා",
+                "url": "https://youtube.com/watch?v=pSOvRxY1BEU",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/pSOvRxY1BEU/hq720.jpg"
+            },
+            {
+                "title": "ගැලෙව්වොත් පුපුරන බිම් බෝම්බ Largest stock of Bombs & Wepons",
+                "url": "https://youtube.com/watch?v=esLwENbSxMU",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/esLwENbSxMU/hqdefault.jpg"
+            },
+            {
+                "title": "ආමාශගත රෝගවලට ගුණ දෙන \"කරල් හැබ\" | Achyranthes aspera | Episode 32",
+                "url": "https://youtube.com/watch?v=nZcouWu9Xjw",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/nZcouWu9Xjw/hq720.jpg"
+            },
+            {
+                "title": "කරල් හැබ Rough chaff tree, Prickly chaff flower",
+                "url": "https://youtube.com/watch?v=W5PTLIP5LMY",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/W5PTLIP5LMY/hqdefault.jpg"
+            },
+            {
+                "title": "achyranthes aspera medicinal used/කරල් සෙපො/#newtop @new top",
+                "url": "https://youtube.com/watch?v=qvDD9Y_26kE",
+                "duration": "7:14",
+                "thumbnail": "https://i.ytimg.com/vi/qvDD9Y_26kE/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගය නිට්ටාවටම සුව කරන කාමරංගා | Carambola | Star fruit  - Episode 27",
+                "url": "https://youtube.com/watch?v=jU92-IXD9y0",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/jU92-IXD9y0/hq720.jpg"
+            },
+            {
+                "title": "වගුරු බිම් කුඹුරු බිම් කිරීමට වෙහෙසන කන්තලේ ගොවීන් | Rupavahini News",
+                "url": "https://youtube.com/watch?v=AoonLm06aQY",
+                "duration": "1:20",
+                "thumbnail": "https://i.ytimg.com/vi/AoonLm06aQY/hq720.jpg"
+            },
+            {
+                "title": "මිල අධික “බිං කොහොඹ “ නිවැරදිව ගෙවත්තෙ වවන්නෙ මෙහෙමයි | Binkohomba | Ceylon Agri | Episode 337",
+                "url": "https://youtube.com/watch?v=PrNeaCjs8m0",
+                "duration": "9:03",
+                "thumbnail": "https://i.ytimg.com/vi/PrNeaCjs8m0/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ප්‍රතිශක්තිය වැඩි කරන බිං කොහොඹ - Mumronia pinnata",
+                "url": "https://youtube.com/watch?v=J1CJ5jgcAYE",
+                "duration": "11:07",
+                "thumbnail": "https://i.ytimg.com/vi/J1CJ5jgcAYE/hq720.jpg"
+            },
+            {
+                "title": "ඉරානයේ කෙෂ්ම් දූපතට ඇමරිකාවෙන් දරුණුතම බෝම්බ ප්‍රහාරයක් !",
+                "url": "https://youtube.com/watch?v=N4ZgzP-yXPM",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/N4ZgzP-yXPM/hq720.jpg"
+            },
+            {
+                "title": "Kapparawalliya & Rath Karal Haba කප්පරවල්ලිය සහ රත් කරල් හැබ නිවැරිදිව හදුනාගමු/Medicinal Plants",
+                "url": "https://youtube.com/watch?v=hZIbTFyTIkc",
+                "duration": "9:18",
+                "thumbnail": "https://i.ytimg.com/vi/hZIbTFyTIkc/hq720.jpg"
+            },
+            {
+                "title": "Pressure mine explosion  සෙබළෙකු බිම් බෝම්බයකට හසු වු හැටි",
+                "url": "https://youtube.com/watch?v=ljoHQygw14Y",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/ljoHQygw14Y/hqdefault.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "හතුවල මේ ගුණ දන්නවනම් ඔබ කවදාවත් නොකා ඉන්නේ නැහැ - Health Benefits Of Mushrooms",
+                "url": "https://youtube.com/watch?v=ZpsTpbIwoO4",
+                "duration": "5:57",
+                "thumbnail": "https://i.ytimg.com/vi/ZpsTpbIwoO4/hq720.jpg"
+            },
+            {
+                "title": "⭕ බියර්වල ගුණ සහ අඟුණ හරියටම මෙන්නෙ | #dineshmuthugala #education #karma",
+                "url": "https://youtube.com/watch?v=rWBPXbIxXxY",
+                "duration": "9:56",
+                "thumbnail": "https://i.ytimg.com/vi/rWBPXbIxXxY/hqdefault.jpg"
+            },
+            {
+                "title": "බඩවැල් නිරෝගීව තියෙන තන්තු බහුල ආහාර 5ක්..#viral #viralvideo @DrKavindaJayawardenaMedia",
+                "url": "https://youtube.com/watch?v=ZBmu3eMSAdA",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/ZBmu3eMSAdA/hq720.jpg"
+            },
+            {
+                "title": "අපේ කරපිංචා, රම්පෙ, සේර වගේ බේ ලීෆ් ගැන නොදත් දේ මෙන්න : Benefits of bay leaf (2018)",
+                "url": "https://youtube.com/watch?v=x9HV3pbJTSk",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/x9HV3pbJTSk/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් ඇතූළු ඕනෑම රෝගයකට ගුණදායක ඖෂධීය කරල් සැබො කැද",
+                "url": "https://youtube.com/watch?v=RWFvpHGkyko",
+                "duration": "8:07",
+                "thumbnail": "https://i.ytimg.com/vi/RWFvpHGkyko/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ කරවිලවල ඇත්ත නැත්ත | Bitter Melon For Blood Sugar By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0SdTXNz-LDE",
+                "duration": "12:53",
+                "thumbnail": "https://i.ytimg.com/vi/0SdTXNz-LDE/hq720.jpg"
+            },
+            {
+                "title": "කරකැවිල්ල භයානකද?",
+                "url": "https://youtube.com/watch?v=Zs_wsxJI3xI",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/Zs_wsxJI3xI/hq720.jpg"
+            },
+            {
+                "title": "රම්ප පිළිකා කාරක  වෙන්නේ මෙහෙමයි, මේ විදියට රම්ප කෑම, අති භයානකයි | Rampe leaves",
+                "url": "https://youtube.com/watch?v=xGWtSqV5OD4",
+                "duration": "28:04",
+                "thumbnail": "https://i.ytimg.com/vi/xGWtSqV5OD4/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත🙏",
+                "url": "https://youtube.com/watch?v=qmaacjGSVU4",
+                "duration": "30:21",
+                "thumbnail": "https://i.ytimg.com/vi/qmaacjGSVU4/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රතිශක්තිය වඩවා මාරාන්තික රෝගවලින් අප ආරක්ෂා කරන විශ්මිත කළුදුරු - Episode 1",
+                "url": "https://youtube.com/watch?v=vCWCBBCYruc",
+                "duration": "29:58",
+                "thumbnail": "https://i.ytimg.com/vi/vCWCBBCYruc/hq720.jpg"
+            },
+            {
+                "title": "Bitter Gourd for Blood Sugar | Karavila By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=f45AC3K1NpI",
+                "duration": "15:33",
+                "thumbnail": "https://i.ytimg.com/vi/f45AC3K1NpI/hq720.jpg"
+            },
+            {
+                "title": "Cancer Treatments කරවිල ඇටවලින් පිළිකාවට ප‍්‍රත්‍යක්ෂ ඖෂධයක් Bitter Gourd Seed Can Eliminate Cancer",
+                "url": "https://youtube.com/watch?v=me3xaXWA9F8",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/me3xaXWA9F8/hqdefault.jpg"
+            },
+            {
+                "title": "මේ රෝගාබාධ 10 ම විටමින් වලින් සනීප කරගන්න පුළුවනි!",
+                "url": "https://youtube.com/watch?v=EPSfq7wZ7wc",
+                "duration": "13:33",
+                "thumbnail": "https://i.ytimg.com/vi/EPSfq7wZ7wc/hq720.jpg"
+            },
+            {
+                "title": "අක්මාවේ තෙල් වේගයෙන් දියකරන හොදම ස්වාභාවික පාන වර්ග 8. 8 Best Natural Drinks to Dissolve Liver Fat",
+                "url": "https://youtube.com/watch?v=IZc2T3eeYJs",
+                "duration": "8:46",
+                "thumbnail": "https://i.ytimg.com/vi/IZc2T3eeYJs/hqdefault.jpg"
+            },
+            {
+                "title": "උයනකොට විටමින් වැඩිවෙන එළවලු 10 ක්!",
+                "url": "https://youtube.com/watch?v=L9CaqwUOFHY",
+                "duration": "9:39",
+                "thumbnail": "https://i.ytimg.com/vi/L9CaqwUOFHY/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණයෙන් පිරි නව බීම් නිෂ්පාදන රැසක්  TO THE POINT  EP 171   @AdaDerana_24",
+                "url": "https://youtube.com/watch?v=0MPWDp1PjXo",
+                "duration": "50:35",
+                "thumbnail": "https://i.ytimg.com/vi/0MPWDp1PjXo/hq720.jpg"
+            },
+            {
+                "title": "Bitter Gourd & Diabetes By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=ZODs3lHJtVo",
+                "duration": "10:56",
+                "thumbnail": "https://i.ytimg.com/vi/ZODs3lHJtVo/hq720.jpg"
+            },
+            {
+                "title": "මේ සියළු රෝග සුවකර ඔබව පැහැපත් කර තරුණ කරන ලොව හොදම පානය.. Turmeric Tea Benefits & Recipe.",
+                "url": "https://youtube.com/watch?v=XnH1pCjnbNo",
+                "duration": "12:08",
+                "thumbnail": "https://i.ytimg.com/vi/XnH1pCjnbNo/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වල පුදුම ගුණ 6ක් 😲 | Sugar Control Natural! | Sinhala Health Tips",
+                "url": "https://youtube.com/watch?v=7IZpICoMrb0",
+                "duration": "19:34",
+                "thumbnail": "https://i.ytimg.com/vi/7IZpICoMrb0/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ සමේ තරුණ බව සහ දීප්තිය හැමදාම එක වගේ රඳවා ගන්න කැමතිද? -  @behethbydrnamal​",
+                "url": "https://youtube.com/watch?v=hIkB54ULYOc",
+                "duration": "9:24",
+                "thumbnail": "https://i.ytimg.com/vi/hIkB54ULYOc/hq720.jpg"
+            },
+            {
+                "title": "මෙච්චර කාලෙකට නොකියපු බෙහෙතෙන් සිරුරේ විෂ ඉවත් කරමු | Let's Detoxify Our Body With a Secret Medicine",
+                "url": "https://youtube.com/watch?v=S70La00Qsto",
+                "duration": "10:14",
+                "thumbnail": "https://i.ytimg.com/vi/S70La00Qsto/hq720.jpg"
+            },
+            {
+                "title": "The Healing Power of Bael Fruit for Gut Health",
+                "url": "https://youtube.com/watch?v=MLCxywMfZvs",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/MLCxywMfZvs/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රබල වාජීකරණ ගුණයක් සහ ශක්තිජනක ආහාරයක් වන බිංතල් ගැන දැනන් හිටියද? | බිංතල් (Bintal)",
+                "url": "https://youtube.com/watch?v=R9rUznWawCY",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/R9rUznWawCY/hq720.jpg"
+            },
+            {
+                "title": "හැම බිම් අඟලකම වගාකරමු | hama bim agalakama waga karamu",
+                "url": "https://youtube.com/watch?v=RTOa-ps3h2Y",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/RTOa-ps3h2Y/hq720.jpg"
+            },
+            {
+                "title": "ආලෝකය විහිදෙන බිම්මල් ගැන අහලා තියෙනවද ?😲| Bioluminescent Mushrooms",
+                "url": "https://youtube.com/watch?v=G7apFaITQ1A",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/G7apFaITQ1A/hq720.jpg"
+            },
+            {
+                "title": "බිම් සැකසීම 1 -  බිම් සැකසීමේ අවශ්‍යතාව, බිම් සැකසීමේ පියවර හා ක්‍රම - 12 ශ්‍රේණිය (කෘෂි විද්‍යාව)",
+                "url": "https://youtube.com/watch?v=W7vjuVBxwxE",
+                "duration": "57:14",
+                "thumbnail": "https://i.ytimg.com/vi/W7vjuVBxwxE/hq720.jpg"
+            },
+            {
+                "title": "බිම් සැකසීමට භාවිත උපකරණ | සිටුවීමට ගන්නා උක් බීජ සැකසීම | උනුදිය ප්‍රතිකාරය | වගාවට හානි කරන රෝග",
+                "url": "https://youtube.com/watch?v=4lNVWx3ESHE",
+                "duration": "11:28",
+                "thumbnail": "https://i.ytimg.com/vi/4lNVWx3ESHE/hq720.jpg"
+            },
+            {
+                "title": "agri science |බිම් සැකසීමේ උපකරණ|A/L|agriculture science|agri science sinhala | bst drive sinhala",
+                "url": "https://youtube.com/watch?v=pP156ekpfcY",
+                "duration": "40:23",
+                "thumbnail": "https://i.ytimg.com/vi/pP156ekpfcY/hq720.jpg"
+            },
+            {
+                "title": "බීජ සහ පැල සිටවිමට සුදුසු දවස් හා වේලාවන් Suitable days and times for planting seeds and seedlings",
+                "url": "https://youtube.com/watch?v=W5rtvMDxtf0",
+                "duration": "8:55",
+                "thumbnail": "https://i.ytimg.com/vi/W5rtvMDxtf0/hq720.jpg"
+            },
+            {
+                "title": "නිදිකුම්බා ඇති වගා බිම් සරු ඇයි? | Nalaka S Athukorala",
+                "url": "https://youtube.com/watch?v=sjFU8aD75yc",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/sjFU8aD75yc/hq720.jpg"
+            },
+            {
+                "title": "බිම් කෙසෙල් ප්‍රභේද යෙන් ඉතාම හොඳ කැනක් ගන්නේ මෙහෙමයි",
+                "url": "https://youtube.com/watch?v=FuI_6RuJtgw",
+                "duration": "8:11",
+                "thumbnail": "https://i.ytimg.com/vi/FuI_6RuJtgw/hq720.jpg"
+            },
+            {
+                "title": "බිම් කෙසෙල් වගාවට පොහොර යොදන කාලය සහ ප්‍රමාණය",
+                "url": "https://youtube.com/watch?v=xHVGrvk2Q8Q",
+                "duration": "7:18",
+                "thumbnail": "https://i.ytimg.com/vi/xHVGrvk2Q8Q/hq720.jpg"
+            },
+            {
+                "title": "ආසියාවේ වැඩිම වේගයකින් වර්ධනය වන බිම් මල් වෙළඳපළ -  ශ්‍රී ලංකාවට.",
+                "url": "https://youtube.com/watch?v=Ad4SactVS_4",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ad4SactVS_4/hqdefault.jpg"
+            },
+            {
+                "title": "ඩස්බින් එකක බිම් මල්  වවන්න පුලුවන් බිම් මල්  වගා කරන්නේ කොහොමද Mushrooms can be grown in a bin.",
+                "url": "https://youtube.com/watch?v=GOIvBQNkwXM",
+                "duration": "18:15",
+                "thumbnail": "https://i.ytimg.com/vi/GOIvBQNkwXM/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "වෙහෙස මහන්සියක් නැතුව වැඩකරන්න, ශරීර ශක්තිය වැඩිකරන අරුම පුදුම පැලය | බිංපොල් (Bimpol)",
+                "url": "https://youtube.com/watch?v=spuEpKXE9ns",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/spuEpKXE9ns/hq720.jpg"
+            },
+            {
+                "title": "අර්සස් සියලුම රෝග නසා ලන කරල් සැබෝ| roga/nasalana/ ashyranthes aspera",
+                "url": "https://youtube.com/watch?v=5B2IryOgGuQ",
+                "duration": "8:04",
+                "thumbnail": "https://i.ytimg.com/vi/5B2IryOgGuQ/hq720.jpg"
+            },
+            {
+                "title": "ඇත්දෙමට බලාගන්න Athdemata Plant",
+                "url": "https://youtube.com/watch?v=p6PjbmaRP7c",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/p6PjbmaRP7c/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ විශ්මිත ගුණ ගැන ඔබ මීට කලින් දැන සිටියාද?  |  වගා දැනුම   #agriculture #ලංකාවෙ",
+                "url": "https://youtube.com/watch?v=lHHfnKkF3DY",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lHHfnKkF3DY/hq720.jpg"
+            },
+            {
+                "title": "Sri Lankan Herbs - Binkohomba |නිතරම ලෙඩ වෙන අයට හොදම බෙහෙත “බිං කොහොඹ” | Ceylon Agri | Episode 34",
+                "url": "https://youtube.com/watch?v=lnJONJ6ou-U",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/lnJONJ6ou-U/hqdefault.jpg"
+            },
+            {
+                "title": "මුත්‍ර රෝග නසන, කොළ කැද වලට ඕනම ඔසුව | Iramusu | Ceylon Agri | Episode 147",
+                "url": "https://youtube.com/watch?v=jAHJVwmgqu8",
+                "duration": "8:41",
+                "thumbnail": "https://i.ytimg.com/vi/jAHJVwmgqu8/hq720.jpg"
+            },
+            {
+                "title": "බඩ පිපුම, වේලීම, බඩේ ඇසිඩ්, වාතය වැඩිවීම, ආහාර දිරවීම මද බව ආදී රෝග රැසකට ඇති ඖෂධය භාෂ්කර ලවණ චුර්ණය",
+                "url": "https://youtube.com/watch?v=XjQSNB1SXNw",
+                "duration": "12:57",
+                "thumbnail": "https://i.ytimg.com/vi/XjQSNB1SXNw/hq720.jpg"
+            },
+            {
+                "title": "මෙන්න මේ පානය හදලා උදේ හවස නිකමට බිලා බලන්න | අයේ ජිවිතේට අතරයිටීස් සන්ධි රෝග නම් හැදෙන්නේ නැහැ",
+                "url": "https://youtube.com/watch?v=CIuyuAHgdM4",
+                "duration": "13:56",
+                "thumbnail": "https://i.ytimg.com/vi/CIuyuAHgdM4/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ද|ashwagandha|අමුක්කරා|Amukkara|Dr.Chaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=vZt8nsZnG-8",
+                "duration": "18:32",
+                "thumbnail": "https://i.ytimg.com/vi/vZt8nsZnG-8/hq720.jpg"
+            },
+            {
+                "title": "දවස් 10 න් බඩ බහින්න පටන් ගනිවි | Recipes for Helthy | athal kitchen curry leaves|Karapincha sambole",
+                "url": "https://youtube.com/watch?v=l3e14IDzSLY",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/l3e14IDzSLY/hqdefault.jpg"
+            },
+            {
+                "title": "පහසුවෙන්, අඩු වියදමෙන්,  දිව්‍ය ඖෂධය ගෙදරදී ම හදාගන්නා හැටි!",
+                "url": "https://youtube.com/watch?v=kXhWrN5RjUo",
+                "duration": "9:29",
+                "thumbnail": "https://i.ytimg.com/vi/kXhWrN5RjUo/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ | Munronia pinnata - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=aLVxN65TEgg",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/aLVxN65TEgg/hq720.jpg"
+            },
+            {
+                "title": "හදා ගන්න ලේසියි! අමුදව්‍ය 3කින් මේ පානය හදලා උදේම බොන්න! - බරයි බඩයි මැජික් එකක් වගේ අඩු වෙනවා!",
+                "url": "https://youtube.com/watch?v=eg10R9qeW4A",
+                "duration": "21:38",
+                "thumbnail": "https://i.ytimg.com/vi/eg10R9qeW4A/hq720.jpg"
+            },
+            {
+                "title": "අමුද්‍රව්‍ය 3යි හරිම ලේසියි! මේ පානය හදලා බිලා බලන්න..සියලුම ස්නායු අස්ථි රෝග නිකන්ම සුව වෙනවා!",
+                "url": "https://youtube.com/watch?v=g-LYs4nVhPo",
+                "duration": "23:58",
+                "thumbnail": "https://i.ytimg.com/vi/g-LYs4nVhPo/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත - part 2🙏",
+                "url": "https://youtube.com/watch?v=IdQIkJpM5Ns",
+                "duration": "25:31",
+                "thumbnail": "https://i.ytimg.com/vi/IdQIkJpM5Ns/hq720.jpg"
+            },
+            {
+                "title": "බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය | Repair & Clean Your Gut Naturally",
+                "url": "https://youtube.com/watch?v=zsIr3khB3Ms",
+                "duration": "8:47",
+                "thumbnail": "https://i.ytimg.com/vi/zsIr3khB3Ms/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන, ලෙඩවීම වලක්වන, පිටි වර්ග 7 ක්!",
+                "url": "https://youtube.com/watch?v=S_RsfSLzUw8",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/S_RsfSLzUw8/hq720.jpg"
+            },
+            {
+                "title": "පවුලේ සෞඛ්‍යයත් ආර්ථිකයත්  2ම ගොඩ ගන්න බිම් මල් | Mushroom for Family  Health & Economy ByNutri Info",
+                "url": "https://youtube.com/watch?v=oi0uD_SWbYA",
+                "duration": "11:19",
+                "thumbnail": "https://i.ytimg.com/vi/oi0uD_SWbYA/hq720.jpg"
+            },
+            {
+                "title": "ගම් බිම් සරු කරන සංවර්ධන ව්‍යාපෘති | Rupavahini News",
+                "url": "https://youtube.com/watch?v=R6w4qoPXAl8",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/R6w4qoPXAl8/hq720.jpg"
+            },
+            {
+                "title": "ඉවතලන  බිම්මල් වගාමලුවලට මං කරන දේවල්||කාබනික එළවළු වගාව @WithChathurika-m6",
+                "url": "https://youtube.com/watch?v=Qh44Zo-r4tY",
+                "duration": "6:02",
+                "thumbnail": "https://i.ytimg.com/vi/Qh44Zo-r4tY/hqdefault.jpg"
+            },
+            {
+                "title": "මේ දේවල් වල ප්‍රයෝජන දැනගෙන කරමු (Sinhala) හැමෝම නොදන්න ගොඩක් දේ",
+                "url": "https://youtube.com/watch?v=6udAxTpJvv0",
+                "duration": "6:27",
+                "thumbnail": "https://i.ytimg.com/vi/6udAxTpJvv0/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සඳහා බෝංචි කොතරම් හොඳද? මෑ කරල්, දඹල වුනත් මෙහෙමයි පුදුම සහගතයි Green Beans bb5  ombined",
+                "url": "https://youtube.com/watch?v=o9o_4SVXiWc",
+                "duration": "12:14",
+                "thumbnail": "https://i.ytimg.com/vi/o9o_4SVXiWc/hq720.jpg"
+            },
+            {
+                "title": "PURPLE SPECKLED BEAN  - MEDICAL AND  HEALTH BENEFITS AND NUTRIENTS FACTS",
+                "url": "https://youtube.com/watch?v=LLrTo7DJODo",
+                "duration": "13:13",
+                "thumbnail": "https://i.ytimg.com/vi/LLrTo7DJODo/hqdefault.jpg"
+            },
+            {
+                "title": "Bitter Melon's Brilliant Health Benefits (Karela)",
+                "url": "https://youtube.com/watch?v=OHGeay4T85M",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/OHGeay4T85M/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "1309",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/7xTnxf63/plant00047-01309.jpg"
-    },
-    {
-      "image_id": "1310",
-      "caption": "A twig",
-      "url": "https://i.ibb.co/MDS358XM/plant00047-01310.jpg"
-    },
-    {
-      "image_id": "1312",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/0yhYjZt8/plant00047-01312.jpg"
-    },
-    {
-      "image_id": "1311",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/d48Wnrzf/plant00047-01311.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,144 +1,263 @@
 {
-  "scientificName": "Coleus hadiensis (Forssk.) A.J.Paton",
-  "synonyms": [
-    "Coleus forskalaei Briq.",
-    "Coleus personatus Lem.",
-    "Coleus rupestris Hochst. ex Briq.",
-    "Coleus schweinfurthii Vatke",
-    "Coleus zeylanicus (Benth.) L.H.Cramer",
-    "Germanea forskalaei Poir.",
-    "Germanea horrida Hiern",
-    "Majana forskalaei (Poir.) Kuntze",
-    "Ocimum hadiense Forssk.",
-    "Plectranthus cyaneus Gürke",
-    "Plectranthus draconis Briq.",
-    "Plectranthus erlangeri Gürke",
-    "Plectranthus forskalaei Vahl",
-    "Plectranthus fragrans Lebrun & L.Touss.",
-    "Plectranthus hadiensis (Forssk.) Schweinf. ex Sprenger",
-    "Plectranthus hadiensis var. tomentosus (Benth.) Codd",
-    "Plectranthus hadiensis var. woodii (Gürke) Codd",
-    "Plectranthus hararensis Gürke",
-    "Plectranthus horridus (Hiern) Baker",
-    "Plectranthus madagascariensis var. ramosior Benth.",
-    "Plectranthus pachyphyllus Gürke ex T.Cooke",
-    "Plectranthus paucicrenatus Franch.",
-    "Plectranthus petrensis S.Moore",
-    "Plectranthus ramosior (Benth.) van Jaarsv.",
-    "Plectranthus rupestris Vatke ex Baker",
-    "Plectranthus tomentosus Benth.",
-    "Plectranthus woodii Gürke",
-    "Plectranthus zatarhendi var. tomentosus (Benth.) Codd",
-    "Plectranthus zatarhendi var. woodii (Gürke) Codd",
-    "Plectranthus zeylanicus Benth."
-  ],
-  "familyName": "LAMIACEAE",
-  "englishNames": [
-    "Tulsi"
-  ],
-  "sinhalaName": "Iriveriya (ඉරිවේරිය)",
-  "description": "සෙන්ටිමීටර 60-90ක් පමණ උසැති බහුවාර්ෂික පැළෑටියකි; කඳන් තරමක් බිම දිගේ විහිදෙන (prostrating), මොට හතරැස් හැඩැති (quadrangular), රතු පැහැති සහ රෝම සහිතය. පත්‍ර අභිමුඛව පිහිටයි, සෙන්ටිමීටර 5.3-6.5ක් දිග සහ පළල වන අතර දෙපසම රෝම සහිතය; පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 2.5-3ක් දිග, රතු පැහැති සහ රෝම සහිතය. මල් ලා නිල් පැහැතිය, සෙන්ටිමීටර 1ක් දිග, පටුය, වළයාකාරව (whorls) පිහිටයි, අග්‍රස්ථ මල් පොකුරු (terminal racemes) තුළ මල් 8-10ක් පමණ ඇත. මල් පොකුරු සෙන්ටිමීටර 15-23ක් දිගය. කොරොල්ලා (corolla) කොටස් 5කින් සමන්විත තොල් දෙකක් සහිත (2-lipped) ව්‍යුහයකි. ඵලය එක් බීජයක් සහිත ඇකීන (achenes) 4කින් සමන්විත වේ.",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Coleus hadiensis (Forssk.) A.J.Paton",
+    "synonyms": [
+        "Coleus forskalaei Briq.",
+        "Coleus personatus Lem.",
+        "Coleus rupestris Hochst. ex Briq.",
+        "Coleus schweinfurthii Vatke",
+        "Coleus zeylanicus (Benth.) L.H.Cramer",
+        "Germanea forskalaei Poir.",
+        "Germanea horrida Hiern",
+        "Majana forskalaei (Poir.) Kuntze",
+        "Ocimum hadiense Forssk.",
+        "Plectranthus cyaneus Gürke",
+        "Plectranthus draconis Briq.",
+        "Plectranthus erlangeri Gürke",
+        "Plectranthus forskalaei Vahl",
+        "Plectranthus fragrans Lebrun & L.Touss.",
+        "Plectranthus hadiensis (Forssk.) Schweinf. ex Sprenger",
+        "Plectranthus hadiensis var. tomentosus (Benth.) Codd",
+        "Plectranthus hadiensis var. woodii (Gürke) Codd",
+        "Plectranthus hararensis Gürke",
+        "Plectranthus horridus (Hiern) Baker",
+        "Plectranthus madagascariensis var. ramosior Benth.",
+        "Plectranthus pachyphyllus Gürke ex T.Cooke",
+        "Plectranthus paucicrenatus Franch.",
+        "Plectranthus petrensis S.Moore",
+        "Plectranthus ramosior (Benth.) van Jaarsv.",
+        "Plectranthus rupestris Vatke ex Baker",
+        "Plectranthus tomentosus Benth.",
+        "Plectranthus woodii Gürke",
+        "Plectranthus zatarhendi var. tomentosus (Benth.) Codd",
+        "Plectranthus zatarhendi var. woodii (Gürke) Codd",
+        "Plectranthus zeylanicus Benth."
+    ],
+    "familyName": "LAMIACEAE",
+    "englishNames": [
+        "Tulsi"
+    ],
+    "sinhalaName": "Iriveriya (ඉරිවේරිය)",
+    "description": "සෙන්ටිමීටර 60-90ක් පමණ උසැති බහුවාර්ෂික පැළෑටියකි; කඳන් තරමක් බිම දිගේ විහිදෙන (prostrating), මොට හතරැස් හැඩැති (quadrangular), රතු පැහැති සහ රෝම සහිතය. පත්‍ර අභිමුඛව පිහිටයි, සෙන්ටිමීටර 5.3-6.5ක් දිග සහ පළල වන අතර දෙපසම රෝම සහිතය; පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 2.5-3ක් දිග, රතු පැහැති සහ රෝම සහිතය. මල් ලා නිල් පැහැතිය, සෙන්ටිමීටර 1ක් දිග, පටුය, වළයාකාරව (whorls) පිහිටයි, අග්‍රස්ථ මල් පොකුරු (terminal racemes) තුළ මල් 8-10ක් පමණ ඇත. මල් පොකුරු සෙන්ටිමීටර 15-23ක් දිගය. කොරොල්ලා (corolla) කොටස් 5කින් සමන්විත තොල් දෙකක් සහිත (2-lipped) ව්‍යුහයකි. ඵලය එක් බීජයක් සහිත ඇකීන (achenes) 4කින් සමන්විත වේ.",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Vomiting",
+            "sinhala": "වමනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Polydipsia",
+            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Spider Bites",
+            "sinhala": "විෂ සහිත මකුළු දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Abscesses",
+            "sinhala": "සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Heart Diseases",
+            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole plant"
+    ],
+    "images": [
+        {
+            "image_id": "458",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/0p3ZpmPS/plant00730-00458.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය [Iriweriya] | Indika Koralage",
+                "url": "https://youtube.com/watch?v=1OnYDbxrrV0",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/1OnYDbxrrV0/hq720.jpg"
+            },
+            {
+                "title": "Kapparawalliya & Iriweriya  | ගෙදරක හිටවගන්නම ඕන ඔසු පැල | කප්පරවල්ලිය සහ ඉරිවේරිය| Episode 69",
+                "url": "https://youtube.com/watch?v=B7sMPk7vVbM",
+                "duration": "6:16",
+                "thumbnail": "https://i.ytimg.com/vi/B7sMPk7vVbM/hq720.jpg"
+            },
+            {
+                "title": "ඔයාලා දන්නවද ඉරිවේරිය ගැන?",
+                "url": "https://youtube.com/watch?v=PTwBadcoKYE",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/PTwBadcoKYE/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ශාකය ඇති ගුණ",
+                "url": "https://youtube.com/watch?v=M_gYlyZub_E",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/M_gYlyZub_E/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ශාකයේ ගුන අගුන|Plectranthus zatarhendi plant|harbel plant in srilanka|හෙල ඔසු පැල",
+                "url": "https://youtube.com/watch?v=8q2CfYS9XtY",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/8q2CfYS9XtY/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය | Iriweriya | Ath Beheth Sinhala | story eka",
+                "url": "https://youtube.com/watch?v=v83KlPpb6dA",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/v83KlPpb6dA/hq720.jpg"
+            },
+            {
+                "title": "බඩේ රෝග රැසකට ගුණ දෙන ඉරිවේරිය - Tulsi",
+                "url": "https://youtube.com/watch?v=VnZtosSvw3I",
+                "duration": "5:41",
+                "thumbnail": "https://i.ytimg.com/vi/VnZtosSvw3I/hq720.jpg"
+            },
+            {
+                "title": "බඩේ අමාරුවට කියාපු බේතක් | Iriveriya | Tulsi | LAMIACEAE | ඉරිවේරිය",
+                "url": "https://youtube.com/watch?v=QfSXV3OO5D0",
+                "duration": "4:19",
+                "thumbnail": "https://i.ytimg.com/vi/QfSXV3OO5D0/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්තක තිබිය යුතුම දෙයක්..ඉරිවේරිය",
+                "url": "https://youtube.com/watch?v=5ICNxfITkJU",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/5ICNxfITkJU/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ශාකය සහ එහි ඇති වටිනා ගුණ | Iriweriya",
+                "url": "https://youtube.com/watch?v=jFJnW4Ta5EQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/jFJnW4Ta5EQ/hq720.jpg"
+            },
+            {
+                "title": "කොහොමද නිවැරදිව ඉරිවේරිය සහ කප්පරවල්ලිය ශාක හදුගන්නේ?(How to identify correctly iriveriya plant)",
+                "url": "https://youtube.com/watch?v=iWfCkXXDM_Q",
+                "duration": "3:55",
+                "thumbnail": "https://i.ytimg.com/vi/iWfCkXXDM_Q/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ශාකය/iriweriya",
+                "url": "https://youtube.com/watch?v=t3yTDxwL7gU",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/t3yTDxwL7gU/hqdefault.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය සතු ඖෂධිය ගුණ| Iriweriya 🌿🌿",
+                "url": "https://youtube.com/watch?v=E14BdoFapj0",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/E14BdoFapj0/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය",
+                "url": "https://youtube.com/watch?v=kZr1dstgkH4",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/kZr1dstgkH4/hqdefault.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගැන ඔබ නොදත් කරුණු | ශරීරය සිසිල් කරන අගනා ඖෂධීය ශාකය",
+                "url": "https://youtube.com/watch?v=_eU9N-T88Io",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/_eU9N-T88Io/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ´ Iriweriya",
+                "url": "https://youtube.com/watch?v=CSk04Ht8JdM",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/CSk04Ht8JdM/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ශාකය || Iriweeriya || Plectrantus zatarhendi (5)",
+                "url": "https://youtube.com/watch?v=QahSSE4Iwp4",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/QahSSE4Iwp4/hqdefault.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=SPSHr7cbTdY",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/SPSHr7cbTdY/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Vomiting",
-      "sinhala": "වමනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Polydipsia",
-      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Spider Bites",
-      "sinhala": "විෂ සහිත මකුළු දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Abscesses",
-      "sinhala": "සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Heart Diseases",
-      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole plant"
-  ],
-  "images": [
-    {
-      "image_id": "458",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/0p3ZpmPS/plant00730-00458.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

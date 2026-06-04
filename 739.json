@@ -1,173 +1,472 @@
 {
-  "scientificName": "Cinnamomum verum J.Presl",
-  "synonyms": [
-    "Camphora mauritiana Lukman.",
-    "Camphorina cinnamomum (L.) Farw.",
-    "Cinnamomum alexii Kosterm.",
-    "Cinnamomum antillanum Lukman.",
-    "Cinnamomum aromaticum J.Graham",
-    "Cinnamomum barthii Lukman.",
-    "Cinnamomum bengalense Lukman.",
-    "Cinnamomum biafranum Lukman.",
-    "Cinnamomum bonplandii Lukman.",
-    "Cinnamomum boutonii Lukman.",
-    "Cinnamomum capense Lukman.",
-    "Cinnamomum carolinense var. oblongum Kaneh.",
-    "Cinnamomum cayennense Lukman.",
-    "Cinnamomum cinnamomum (L.) H.Karst.",
-    "Cinnamomum commersonii Lukman.",
-    "Cinnamomum cordifolium Lukman.",
-    "Cinnamomum decandollei Lukman.",
-    "Cinnamomum delessertii Lukman.",
-    "Cinnamomum ellipticum Lukman.",
-    "Cinnamomum erectum Lukman.",
-    "Cinnamomum humboldtii Lukman.",
-    "Cinnamomum iners Wight",
-    "Cinnamomum karrouwa Lukman.",
-    "Cinnamomum leptopus A.C.Sm.",
-    "Cinnamomum leschenaultii Lukman.",
-    "Cinnamomum madrassicum Lukman.",
-    "Cinnamomum maheanum Lukman.",
-    "Cinnamomum maheanum var. karrouwa Lukman.",
-    "Cinnamomum mathewianum Remya Kr., E.S.S.Kumar, Radhamany, Valsalad. & R.Jagad.",
-    "Cinnamomum mauritianum Lukman.",
-    "Cinnamomum meissneri Lukman.",
-    "Cinnamomum ovatum Lukman.",
-    "Cinnamomum pallasii Lukman.",
-    "Cinnamomum pleei Lukman.",
-    "Cinnamomum pourretii Lukman.",
-    "Cinnamomum regelii Lukman.",
-    "Cinnamomum riedelii Lukman.",
-    "Cinnamomum roxburghii Lukman.",
-    "Cinnamomum sieberi Lukman.",
-    "Cinnamomum sonneratii Lukman.",
-    "Cinnamomum vaillantii Lukman.",
-    "Cinnamomum variabile Lukman.",
-    "Cinnamomum wolkensteinii Lukman.",
-    "Cinnamomum zeylanicum Blume",
-    "Cinnamomum zeylanicum var. cassia Meisn.",
-    "Cinnamomum zeylanicum var. commune Meisn.",
-    "Cinnamomum zeylanicum var. cordifolium Hayne",
-    "Cinnamomum zeylanicum var. foeniculaceum Meisn.",
-    "Cinnamomum zeylanicum var. inodorum Meisn.",
-    "Cinnamomum zeylanicum var. microphyllum Meisn.",
-    "Cinnamomum zeylanicum var. subcordatum Meisn.",
-    "Cinnamomum zeylanicum var. vulgare Hayne",
-    "Cinnamomum zollingeri Lukman.",
-    "Laurus cassia Burm.f.",
-    "Laurus cinnamifera Stokes",
-    "Laurus cinnamomea Salisb.",
-    "Laurus cinnamomum L.",
-    "Laurus culitlaban Buch.-Ham. ex Nees",
-    "Laurus montana Link ex Meisn.",
-    "Laurus rigida Wall.",
-    "Persea cinnamomum Spreng."
-  ],
-  "familyName": "LAURACEAE",
-  "englishNames": [
-    "Cinnamon",
-    "True Cinnamon",
-    "Cinnamon Bark Tree"
-  ],
-  "sinhalaName": "Kurundu (කුරුඳු)",
-  "description": "මධ්‍යම ප්‍රමාණයේ ගසකි; පොත්ත තරමක් ඝනකමකින් යුක්ත වන අතර රතු පැහැතිය; අංකුර සියුම් ලෙස සිල්ක් වැනි රෝමවලින් (silky) වැසී ඇත. පත්‍ර අභිමුඛ (opposite) හෝ අර්ධ අභිමුඛ (sub-opposite) ලෙස පිහිටයි, දිග සෙ.මී. 7.5-25 ක් වන අතර ප්‍රබල ලෙස නහර 3ක් හෝ 5ක් සහිතය; පත්‍ර වෘන්තය (petiole) සෙ.මී. 1.2-2.5 ක් දිගය. මල් රාශියක් ඇත; පුෂ්ප දේහය (perianth) මි.මී. 3ක පමණ විෂ්කම්භයකින් යුක්ත වන අතර සිල්ක් වැනි රෝමවලින් (silky) වැසී ඇත. පලතුර මි.මී. 6ක පමණ විෂ්කම්භයකින් යුක්ත වන අතර තද දම් පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Cinnamomum verum J.Presl",
+    "synonyms": [
+        "Camphora mauritiana Lukman.",
+        "Camphorina cinnamomum (L.) Farw.",
+        "Cinnamomum alexii Kosterm.",
+        "Cinnamomum antillanum Lukman.",
+        "Cinnamomum aromaticum J.Graham",
+        "Cinnamomum barthii Lukman.",
+        "Cinnamomum bengalense Lukman.",
+        "Cinnamomum biafranum Lukman.",
+        "Cinnamomum bonplandii Lukman.",
+        "Cinnamomum boutonii Lukman.",
+        "Cinnamomum capense Lukman.",
+        "Cinnamomum carolinense var. oblongum Kaneh.",
+        "Cinnamomum cayennense Lukman.",
+        "Cinnamomum cinnamomum (L.) H.Karst.",
+        "Cinnamomum commersonii Lukman.",
+        "Cinnamomum cordifolium Lukman.",
+        "Cinnamomum decandollei Lukman.",
+        "Cinnamomum delessertii Lukman.",
+        "Cinnamomum ellipticum Lukman.",
+        "Cinnamomum erectum Lukman.",
+        "Cinnamomum humboldtii Lukman.",
+        "Cinnamomum iners Wight",
+        "Cinnamomum karrouwa Lukman.",
+        "Cinnamomum leptopus A.C.Sm.",
+        "Cinnamomum leschenaultii Lukman.",
+        "Cinnamomum madrassicum Lukman.",
+        "Cinnamomum maheanum Lukman.",
+        "Cinnamomum maheanum var. karrouwa Lukman.",
+        "Cinnamomum mathewianum Remya Kr., E.S.S.Kumar, Radhamany, Valsalad. & R.Jagad.",
+        "Cinnamomum mauritianum Lukman.",
+        "Cinnamomum meissneri Lukman.",
+        "Cinnamomum ovatum Lukman.",
+        "Cinnamomum pallasii Lukman.",
+        "Cinnamomum pleei Lukman.",
+        "Cinnamomum pourretii Lukman.",
+        "Cinnamomum regelii Lukman.",
+        "Cinnamomum riedelii Lukman.",
+        "Cinnamomum roxburghii Lukman.",
+        "Cinnamomum sieberi Lukman.",
+        "Cinnamomum sonneratii Lukman.",
+        "Cinnamomum vaillantii Lukman.",
+        "Cinnamomum variabile Lukman.",
+        "Cinnamomum wolkensteinii Lukman.",
+        "Cinnamomum zeylanicum Blume",
+        "Cinnamomum zeylanicum var. cassia Meisn.",
+        "Cinnamomum zeylanicum var. commune Meisn.",
+        "Cinnamomum zeylanicum var. cordifolium Hayne",
+        "Cinnamomum zeylanicum var. foeniculaceum Meisn.",
+        "Cinnamomum zeylanicum var. inodorum Meisn.",
+        "Cinnamomum zeylanicum var. microphyllum Meisn.",
+        "Cinnamomum zeylanicum var. subcordatum Meisn.",
+        "Cinnamomum zeylanicum var. vulgare Hayne",
+        "Cinnamomum zollingeri Lukman.",
+        "Laurus cassia Burm.f.",
+        "Laurus cinnamifera Stokes",
+        "Laurus cinnamomea Salisb.",
+        "Laurus cinnamomum L.",
+        "Laurus culitlaban Buch.-Ham. ex Nees",
+        "Laurus montana Link ex Meisn.",
+        "Laurus rigida Wall.",
+        "Persea cinnamomum Spreng."
+    ],
+    "familyName": "LAURACEAE",
+    "englishNames": [
+        "Cinnamon",
+        "True Cinnamon",
+        "Cinnamon Bark Tree"
+    ],
+    "sinhalaName": "Kurundu (කුරුඳු)",
+    "description": "මධ්‍යම ප්‍රමාණයේ ගසකි; පොත්ත තරමක් ඝනකමකින් යුක්ත වන අතර රතු පැහැතිය; අංකුර සියුම් ලෙස සිල්ක් වැනි රෝමවලින් (silky) වැසී ඇත. පත්‍ර අභිමුඛ (opposite) හෝ අර්ධ අභිමුඛ (sub-opposite) ලෙස පිහිටයි, දිග සෙ.මී. 7.5-25 ක් වන අතර ප්‍රබල ලෙස නහර 3ක් හෝ 5ක් සහිතය; පත්‍ර වෘන්තය (petiole) සෙ.මී. 1.2-2.5 ක් දිගය. මල් රාශියක් ඇත; පුෂ්ප දේහය (perianth) මි.මී. 3ක පමණ විෂ්කම්භයකින් යුක්ත වන අතර සිල්ක් වැනි රෝමවලින් (silky) වැසී ඇත. පලතුර මි.මී. 6ක පමණ විෂ්කම්භයකින් යුක්ත වන අතර තද දම් පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Indigestion",
+            "sinhala": "අජීර්ණය සහ මන්දාග්නිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "vomiting",
+            "sinhala": "වමනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Abdominal Pain",
+            "sinhala": "බඩේ කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "667",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/prRY3SgB/plant00739-00667.jpg"
+        },
+        {
+            "image_id": "3688",
+            "caption": "Flower Buds (PMR)",
+            "url": "https://i.ibb.co/Zz0QVmdX/plant00739-03688.jpg"
+        },
+        {
+            "image_id": "3689",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/Q3fsDRNn/plant00739-03689.jpg"
+        },
+        {
+            "image_id": "3690",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/PGTZCZNP/plant00739-03690.jpg"
+        },
+        {
+            "image_id": "3691",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/WNhHYfV9/plant00739-03691.jpg"
+        },
+        {
+            "image_id": "3692",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/wNCJCGDR/plant00739-03692.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කුරුදු තැලීමේ නව්‍යකරණය New technology for cinnamon processing #agriculture #cinnamon #processing 🌳👣",
+                "url": "https://youtube.com/watch?v=ehQp-55vu6E",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/ehQp-55vu6E/hq720_2.jpg"
+            },
+            {
+                "title": "දන්නෙ නැතුවද කුරුදු බිවුවෙ? | Cinnamon for Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WlVF9YZgJQ8",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/WlVF9YZgJQ8/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු වලින් ලැබෙන ගුණ",
+                "url": "https://youtube.com/watch?v=P0AO9zih5XI",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/P0AO9zih5XI/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු තේ | Beam Cinnamon Tea  #herbaltea",
+                "url": "https://youtube.com/watch?v=CUfs_GU0J5w",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/CUfs_GU0J5w/hq720_2.jpg"
+            },
+            {
+                "title": "කුරුදු වලින් ලෙඩෙත් ජීවිතෙත් 2කම ගොඩගන්න | Cinnomen By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=6i55_2NGRI8",
+                "duration": "12:51",
+                "thumbnail": "https://i.ytimg.com/vi/6i55_2NGRI8/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු වල විශ්මිත ගුණ . Ayurvedic value of cinnamon.",
+                "url": "https://youtube.com/watch?v=HYqpafpiFWE",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/HYqpafpiFWE/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු කපන හරිම විදිය බලමුද? (Part 2) 💚 #ceylon #cinnamon #shortvideo #shorts #nature #trending",
+                "url": "https://youtube.com/watch?v=RsuEdYlU-xs",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/RsuEdYlU-xs/hq720_2.jpg"
+            },
+            {
+                "title": "කුරුඳු වගාවේ වැඩි අස්වනු රහස්",
+                "url": "https://youtube.com/watch?v=k-I_hutK6kg",
+                "duration": "13:02",
+                "thumbnail": "https://i.ytimg.com/vi/k-I_hutK6kg/hq720.jpg"
+            },
+            {
+                "title": "Cinnamon peeling - කුරුඳු තැලීම #shorts",
+                "url": "https://youtube.com/watch?v=76W2MH1YPf0",
+                "duration": "0:55",
+                "thumbnail": "https://i.ytimg.com/vi/76W2MH1YPf0/hq720_2.jpg"
+            },
+            {
+                "title": "කුරුඳු කපන හරිම විදිය බලමුද? (Part 1) 💚   #cinnamon #shortvideo #shorts #trending #nature #ceylon",
+                "url": "https://youtube.com/watch?v=0f_9zjT-418",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/0f_9zjT-418/hq720_2.jpg"
+            },
+            {
+                "title": "Cinnamon leaves - කුරුඳු දළු 🍁🌿🍁 #cinnamon",
+                "url": "https://youtube.com/watch?v=G1sw9VSy3WE",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/G1sw9VSy3WE/hq720.jpg"
+            },
+            {
+                "title": "විද්‍යාත්මකව තාහවුරු කල ශ්‍රී ලාංකික කුරුඳු සතු විශ්මිත ගුන 8 ක්",
+                "url": "https://youtube.com/watch?v=LskI19qCTMY",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/LskI19qCTMY/hqdefault.jpg"
+            },
+            {
+                "title": "Making Ceylon Cinnamon stick at home 🌱☀️ කුරුදු තලන්න දන්නවද? #shorts",
+                "url": "https://youtube.com/watch?v=eIVSTM1fVKc",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/eIVSTM1fVKc/hq720_2.jpg"
+            },
+            {
+                "title": "Cinnamon Cutting Style - කුරුඳු සුද්ද කරන විදිහ #cinnamon #cuttingskills  #spices #srilanka",
+                "url": "https://youtube.com/watch?v=Fxqxegjp-p0",
+                "duration": "0:47",
+                "thumbnail": "https://i.ytimg.com/vi/Fxqxegjp-p0/hq720_2.jpg"
+            },
+            {
+                "title": "කුරුදු තැලීමේ නව්‍යකරණය New technology for cinnamon processing #agriculture #cinnamon #processing 🌳👣",
+                "url": "https://youtube.com/watch?v=rI3uvDs4kK8",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/ehQp-55vu6E/hq720_2.jpg"
+            },
+            {
+                "title": "🪔🪔🪔ගෙදර සුවද කරවන කුරුඳු පහන",
+                "url": "https://youtube.com/watch?v=54XCRu3uU8I",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/54XCRu3uU8I/hq720.jpg"
+            },
+            {
+                "title": "සීනි අඩු කරන කුරුඳු Health benefits of cinnamon #cinnamon #කුරුඳු #සුව#නැණ #සිංහල#srilanka #diabetic",
+                "url": "https://youtube.com/watch?v=EVnYVlOxaSg",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/EVnYVlOxaSg/hq720.jpg"
+            },
+            {
+                "title": "නිවසේදීම කුරුදු පොතු පහසුවෙන් නිපදවා ගැනීම (කුරුදු තැලීම) how to make cinnamon  cinnamon harvesting)",
+                "url": "https://youtube.com/watch?v=IjUz0_qjcO4",
+                "duration": "9:33",
+                "thumbnail": "https://i.ytimg.com/vi/IjUz0_qjcO4/hq720.jpg"
+            },
+            {
+                "title": "කුරුදු මිටි බැදීම Cinnamon bundle #cinnamon #agriculture #srilanka #ceylon 🌳❤️",
+                "url": "https://youtube.com/watch?v=uiOGUEisb5c",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/uiOGUEisb5c/hq720_2.jpg"
+            },
+            {
+                "title": "කුරුදු වල ඇති ගුණ",
+                "url": "https://youtube.com/watch?v=WPpnVln7T6k",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/WPpnVln7T6k/hqdefault.jpg"
+            },
+            {
+                "title": "කුරුදු වලින් ලස්සන වෙන විදිහ cinnamon beauty tips",
+                "url": "https://youtube.com/watch?v=l4BnNfALmi8",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/l4BnNfALmi8/hq720.jpg"
+            },
+            {
+                "title": "මේ දේවල් නොදැන කුරුඳු ආහාරයට ගත්තොත් ඔබේ අක්මාවටත් හානියක්! ලංකාවේ කුරුඳු ඇත්තටම හොඳයිද?",
+                "url": "https://youtube.com/watch?v=24r7SJrkHzY",
+                "duration": "15:03",
+                "thumbnail": "https://i.ytimg.com/vi/24r7SJrkHzY/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල් නසන කුරැඳු පානය/Cinnamon drink that kills cholesterol / MY COOKING SYSTEM",
+                "url": "https://youtube.com/watch?v=n6KYm_aM2_c",
+                "duration": "1:48",
+                "thumbnail": "https://i.ytimg.com/vi/n6KYm_aM2_c/hqdefault.jpg"
+            },
+            {
+                "title": "ලංකාවේ කුරුදු කොළ ගැන විස්මිත අනාවරණයක්",
+                "url": "https://youtube.com/watch?v=Lla8dcqfNGc",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/Lla8dcqfNGc/hqdefault.jpg"
+            },
+            {
+                "title": "කුරුඳු වතුර නිතර බොන අයගේ සිරුරේ වෙනස | Cinnamon Water Health Benefits",
+                "url": "https://youtube.com/watch?v=Mu6AKvwBXT8",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/Mu6AKvwBXT8/hqdefault.jpg"
+            },
+            {
+                "title": "කුරුදුවල ගුණ දන්නේ නැත්තම් අනිවාර්යයෙන්ම බලන්න.🤩🤩benificial cinnamon #srilanka #trending",
+                "url": "https://youtube.com/watch?v=sscDLGt8b3Q",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/sscDLGt8b3Q/hqdefault.jpg"
+            },
+            {
+                "title": "කුරුඳු ගැන මුල සිට අගට බර අඩුකර කරගන්නත් පුළුවන් cinnamon benefits",
+                "url": "https://youtube.com/watch?v=d1q44536P-s",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/d1q44536P-s/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු බීලා බඩේ තෙල් දියකරන රහස! | Ceylon Cinnamon for Fat Loss (Sinhala)",
+                "url": "https://youtube.com/watch?v=Nu1iZWHHKlg",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/Nu1iZWHHKlg/hq720.jpg"
+            },
+            {
+                "title": "ජීවිතය හා සබැඳී කුරුඳු - දැනගන්න කුරුඳු වල ඇති විශ්මිත ගුණ - Cinnamon",
+                "url": "https://youtube.com/watch?v=tBZ4QlXiV7k",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/tBZ4QlXiV7k/hq720.jpg"
+            },
+            {
+                "title": "කුරුදු ගැන ඔබ නොදන්න රහස්🙀💰| දියවැඩියාව හා බර අඩු කර ගැනීමට කුරුදු තේ ☕ ceylon cinnamon 🇱🇰",
+                "url": "https://youtube.com/watch?v=kixEhphrsws",
+                "duration": "10:16",
+                "thumbnail": "https://i.ytimg.com/vi/kixEhphrsws/hq720.jpg"
+            },
+            {
+                "title": "පිගානේ තියෙන කුරුදු හපලා කෑවොත් ඔබේ ශරිරියට සිදුවන පුදුම දේවල් 11ක් | 11 Health Benefits Of Cinnamon",
+                "url": "https://youtube.com/watch?v=j6d2hpiw0r8",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/j6d2hpiw0r8/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත කුරුදු තේ |පානය කලොත් දින 7න් පුදුම හිතෙන වෙනසක් සිදු වෙයි|cinnamon tea|Healthy drink",
+                "url": "https://youtube.com/watch?v=9PPwjTXtRnc",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/9PPwjTXtRnc/hqdefault.jpg"
+            },
+            {
+                "title": "කුරුදු කැපිමෙන් පසු පදුරු බැද සති දෙකක් අැතුලත පොහොර දැමිමක් අනිවාර්යෙන් කරන්න",
+                "url": "https://youtube.com/watch?v=03Mj1J9jWWk",
+                "duration": "9:55",
+                "thumbnail": "https://i.ytimg.com/vi/03Mj1J9jWWk/hq720.jpg"
+            },
+            {
+                "title": "Processing of Cinnamon Leaf Oil කුරුදු කොලෙන් තෙල් එන අරුම පුදුම ශාස්ත්‍රය",
+                "url": "https://youtube.com/watch?v=XvrkmlUmZls",
+                "duration": "11:11",
+                "thumbnail": "https://i.ytimg.com/vi/XvrkmlUmZls/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු තලන්නේ මෙහෙමයි  l Cinnamon Cultivation",
+                "url": "https://youtube.com/watch?v=ZCDBAJQxQeg",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/ZCDBAJQxQeg/hqdefault.jpg"
+            },
+            {
+                "title": "කම්මැලිකම  දුරු කර ශක්තිය ලබාදෙන  දේශීය කුළුබඩු  තේ පානය",
+                "url": "https://youtube.com/watch?v=ZLoZvx-q85o",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/ZLoZvx-q85o/hqdefault.jpg"
+            },
+            {
+                "title": "කුරුදු තලන සම්පූර්ණ උපකරණ කට්ටලය | Cinnamon Tools in Sri Lanka",
+                "url": "https://youtube.com/watch?v=Pq6lt0MlGf0",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/Pq6lt0MlGf0/hq720.jpg"
+            },
+            {
+                "title": "Cinnamon Oil Distillation Plant- කුරුදු තෙල් නිස්සාරණය- Made in Sri Lanka -Cinnamon Leaf / Bark Oil",
+                "url": "https://youtube.com/watch?v=Dg6qd5oWgts",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/Dg6qd5oWgts/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු තැලීම ගෙදර දී නිවැරදිවම 5 secret tips about Cinnamon Processing at home",
+                "url": "https://youtube.com/watch?v=whsjYEaK40E",
+                "duration": "10:42",
+                "thumbnail": "https://i.ytimg.com/vi/whsjYEaK40E/hq720.jpg"
+            },
+            {
+                "title": "කුරුදු ගසේ ඔබ නොදත් රහස් | Cinnamon medical plant🌿",
+                "url": "https://youtube.com/watch?v=ufoQ5tmWTbw",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/ufoQ5tmWTbw/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රතිශක්තීකරනය වඩන කුරුදු වැඩිපුර ආහාරයට ගන්න | Evidence Based Health Benefits of Cinnamon",
+                "url": "https://youtube.com/watch?v=x1T1K1H2M84",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/x1T1K1H2M84/hqdefault.jpg"
+            },
+            {
+                "title": "කුරුඳු වල ඇති ඖෂධීය ගුණ 😱😱👍",
+                "url": "https://youtube.com/watch?v=NJH8XuesDcE",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/NJH8XuesDcE/hq720.jpg"
+            },
+            {
+                "title": "අපේ රටේ කුරුඳුවල ගුණ ඔබ දන්නවද? (cinnamon benefits)",
+                "url": "https://youtube.com/watch?v=ZNBzKh4NqZs",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/ZNBzKh4NqZs/hqdefault.jpg"
+            },
+            {
+                "title": "සාර්ථක ගෙවතු වගාවකට කුරුදු කුඩු වලින් අත්බෙහෙත් - Cinnamon powder used Gardening Tips",
+                "url": "https://youtube.com/watch?v=U1z3GQKDcAM",
+                "duration": "12:59",
+                "thumbnail": "https://i.ytimg.com/vi/U1z3GQKDcAM/hqdefault.jpg"
+            },
+            {
+                "title": "#Cinnamon benefits, #Health benefits of cinnamon in sinhala, #Kurundu wala prayojana, #Cinnamon",
+                "url": "https://youtube.com/watch?v=GXTvOnpbkRE",
+                "duration": "3:55",
+                "thumbnail": "https://i.ytimg.com/vi/GXTvOnpbkRE/hq720.jpg"
+            },
+            {
+                "title": "Ceylon vs Cassia – The Truth About Cinnamon | Engineer to Farmer – The Big Life Change",
+                "url": "https://youtube.com/watch?v=MKLGSK0BSJs",
+                "duration": "23:10",
+                "thumbnail": "https://i.ytimg.com/vi/MKLGSK0BSJs/hq720.jpg"
+            },
+            {
+                "title": "කුරුදු පැල තුනේ ක්‍රමය අවු,1යි මාස 08 දැන් නුහුරු පාහිමු",
+                "url": "https://youtube.com/watch?v=XPcJtwLVXiA",
+                "duration": "9:13",
+                "thumbnail": "https://i.ytimg.com/vi/XPcJtwLVXiA/hq720.jpg"
+            },
+            {
+                "title": "අක්කරයකට කුරුඳු කිලෝ 600ක් ගන්න ප්‍රධාන උපදෙස් 5ක්/5 MainTips to get 600Kg/Acre #Cinnamon",
+                "url": "https://youtube.com/watch?v=mqhpYpzT1K4",
+                "duration": "10:12",
+                "thumbnail": "https://i.ytimg.com/vi/mqhpYpzT1K4/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු ගැන ඔබ මෙතෙක් නොඇසූ කථාවක් | Benefits of Cinnamon",
+                "url": "https://youtube.com/watch?v=Ak3bMJbMIqs",
+                "duration": "7:40",
+                "thumbnail": "https://i.ytimg.com/vi/Ak3bMJbMIqs/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Indigestion",
-      "sinhala": "අජීර්ණය සහ මන්දාග්නිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "vomiting",
-      "sinhala": "වමනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Abdominal Pain",
-      "sinhala": "බඩේ කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "667",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/prRY3SgB/plant00739-00667.jpg"
-    },
-    {
-      "image_id": "3688",
-      "caption": "Flower Buds (PMR)",
-      "url": "https://i.ibb.co/Zz0QVmdX/plant00739-03688.jpg"
-    },
-    {
-      "image_id": "3689",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/Q3fsDRNn/plant00739-03689.jpg"
-    },
-    {
-      "image_id": "3690",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/PGTZCZNP/plant00739-03690.jpg"
-    },
-    {
-      "image_id": "3691",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/WNhHYfV9/plant00739-03691.jpg"
-    },
-    {
-      "image_id": "3692",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/wNCJCGDR/plant00739-03692.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

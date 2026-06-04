@@ -1,287 +1,940 @@
 {
-  "scientificName": "Cannabis sativa L.",
-  "synonyms": [
-    "Cannabis americana Pharm. ex Wehmer",
-    "Cannabis chinensis Delile",
-    "Cannabis erratica Siev.",
-    "Cannabis foetens Gilib.",
-    "Cannabis generalis E.H.L.Krause",
-    "Cannabis gigantea Crevost",
-    "Cannabis indica f. afghanica (Vavilov) Vavilov",
-    "Cannabis indica Lam.",
-    "Cannabis indica var. kafiristanica Vavilov",
-    "Cannabis intersita Soják",
-    "Cannabis kafiristanica (Vavilov) Chrtek",
-    "Cannabis lupulus Scop.",
-    "Cannabis macrosperma Stokes",
-    "Cannabis ruderalis Janisch.",
-    "Cannabis sativa f. afghanica Vavilov",
-    "Cannabis sativa f. chinensis (Delile) A.DC.",
-    "Cannabis sativa f. pedemontana A.DC.",
-    "Cannabis sativa f. vulgaris (Alef.) Voss",
-    "Cannabis sativa subsp. indica (Lam.) E.Small & Cronquist",
-    "Cannabis sativa subsp. intersita (Soják) Soják",
-    "Cannabis sativa subvar. indica (Lam.) Asch. & Graebn.",
-    "Cannabis sativa var. gigantea (Delile ex Vilm.) Alef.",
-    "Cannabis sativa var. indica (Lam.) Wehmer",
-    "Cannabis sativa var. kafiristanica (Vavilov) E.Small & Cronquist",
-    "Cannabis sativa var. kif A.DC.",
-    "Cannabis sativa var. macrosperma (Stokes) Asch. & Graebn.",
-    "Cannabis sativa var. monoica Holuby",
-    "Cannabis sativa var. praecox Serebr.",
-    "Cannabis sativa var. ruderalis (Janisch.) S.Z.Liou",
-    "Cannabis sativa var. ruderalis Janisch.",
-    "Cannabis sativa var. spontanea Vavilov",
-    "Cannabis sativa var. vulgaris Alef.",
-    "Polygonum viridiflorum Poir."
-  ],
-  "familyName": "CANNABACEAE",
-  "englishNames": [
-    "Marijuana",
-    "Hemp",
-    "Gallow Grass"
-  ],
-  "sinhalaName": "Kansa (කංසා)",
-  "description": "වාර්ෂික පැළෑටියකි (Annual herb); කඳ විවිධ වේ, මීටර් 5ක් දක්වා උස විය හැකි අතර, දුම්මල සහිත රෝමවලින් (resinous pubescence) වැසී ඇත, කෝණාකාර වේ, සමහර විට ඇතුළත හිස් (hollow) වේ; පාදස්ථ පත්‍ර අභිමුඛ (opposite) වන අතර ඉහළ පත්‍ර ඒකාන්තර (alternate) වේ, උපපත්‍ර සහිත (stipulate) වේ, දිගු පත්‍ර වෘන්ත සහිත (long petiolate) වේ, අත්ලක හැඩැති (palmate) වන අතර පත්‍රිකා 3-11කින් යුක්ත වේ, කලාතුරකින් තනි පත්‍රිකාවක් පමණක් දැකිය හැක; පත්‍රිකා සෙන්ටිමීටර 10ක් දක්වා දිග සහ සෙන්ටිමීටර 1.5ක් පළල වේ. මල් ඒකලිංගික (monoecious or dioecious) වේ. ඵලය දුඹුරු පැහැති, දිලිසෙන ඇකීනියකි (achene), විවිධ සලකුණු සහිත හෝ සලකුණු රහිත විය හැක, එය මාංසල භ්‍රෑණ පෝෂකය (endosperm) සහ වක්‍ර වූ භ්‍රෑණය (curved embryo) සහිත බීජය තදින් වැළඳ ගනී.",
-  "treatments": [
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Cannabis sativa L.",
+    "synonyms": [
+        "Cannabis americana Pharm. ex Wehmer",
+        "Cannabis chinensis Delile",
+        "Cannabis erratica Siev.",
+        "Cannabis foetens Gilib.",
+        "Cannabis generalis E.H.L.Krause",
+        "Cannabis gigantea Crevost",
+        "Cannabis indica f. afghanica (Vavilov) Vavilov",
+        "Cannabis indica Lam.",
+        "Cannabis indica var. kafiristanica Vavilov",
+        "Cannabis intersita Soják",
+        "Cannabis kafiristanica (Vavilov) Chrtek",
+        "Cannabis lupulus Scop.",
+        "Cannabis macrosperma Stokes",
+        "Cannabis ruderalis Janisch.",
+        "Cannabis sativa f. afghanica Vavilov",
+        "Cannabis sativa f. chinensis (Delile) A.DC.",
+        "Cannabis sativa f. pedemontana A.DC.",
+        "Cannabis sativa f. vulgaris (Alef.) Voss",
+        "Cannabis sativa subsp. indica (Lam.) E.Small & Cronquist",
+        "Cannabis sativa subsp. intersita (Soják) Soják",
+        "Cannabis sativa subvar. indica (Lam.) Asch. & Graebn.",
+        "Cannabis sativa var. gigantea (Delile ex Vilm.) Alef.",
+        "Cannabis sativa var. indica (Lam.) Wehmer",
+        "Cannabis sativa var. kafiristanica (Vavilov) E.Small & Cronquist",
+        "Cannabis sativa var. kif A.DC.",
+        "Cannabis sativa var. macrosperma (Stokes) Asch. & Graebn.",
+        "Cannabis sativa var. monoica Holuby",
+        "Cannabis sativa var. praecox Serebr.",
+        "Cannabis sativa var. ruderalis (Janisch.) S.Z.Liou",
+        "Cannabis sativa var. ruderalis Janisch.",
+        "Cannabis sativa var. spontanea Vavilov",
+        "Cannabis sativa var. vulgaris Alef.",
+        "Polygonum viridiflorum Poir."
+    ],
+    "familyName": "CANNABACEAE",
+    "englishNames": [
+        "Marijuana",
+        "Hemp",
+        "Gallow Grass"
+    ],
+    "sinhalaName": "Kansa (කංසා)",
+    "description": "වාර්ෂික පැළෑටියකි (Annual herb); කඳ විවිධ වේ, මීටර් 5ක් දක්වා උස විය හැකි අතර, දුම්මල සහිත රෝමවලින් (resinous pubescence) වැසී ඇත, කෝණාකාර වේ, සමහර විට ඇතුළත හිස් (hollow) වේ; පාදස්ථ පත්‍ර අභිමුඛ (opposite) වන අතර ඉහළ පත්‍ර ඒකාන්තර (alternate) වේ, උපපත්‍ර සහිත (stipulate) වේ, දිගු පත්‍ර වෘන්ත සහිත (long petiolate) වේ, අත්ලක හැඩැති (palmate) වන අතර පත්‍රිකා 3-11කින් යුක්ත වේ, කලාතුරකින් තනි පත්‍රිකාවක් පමණක් දැකිය හැක; පත්‍රිකා සෙන්ටිමීටර 10ක් දක්වා දිග සහ සෙන්ටිමීටර 1.5ක් පළල වේ. මල් ඒකලිංගික (monoecious or dioecious) වේ. ඵලය දුඹුරු පැහැති, දිලිසෙන ඇකීනියකි (achene), විවිධ සලකුණු සහිත හෝ සලකුණු රහිත විය හැක, එය මාංසල භ්‍රෑණ පෝෂකය (endosperm) සහ වක්‍ර වූ භ්‍රෑණය (curved embryo) සහිත බීජය තදින් වැළඳ ගනී.",
+    "treatments": [
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Neuralgia",
+            "sinhala": "ස්නායු වේදනාව (ස්නායු ශූල)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Migraine",
+            "sinhala": "ඉරුවාරදය (අර්ධාවභේදක)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysmenorrhea",
+            "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Malaria",
+            "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Blood Poisoning (Septicemia)",
+            "sinhala": "රුධිර විෂ වීම (සෙප්ටිසිමියාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Anthrax",
+            "sinhala": "ඇන්ත්‍රැක්ස් රෝගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worm infestations",
+            "sinhala": "පණුවන් බෝවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dandruff",
+            "sinhala": "හිස්හොරි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Insomnia",
+            "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Premature Ejaculation",
+            "sinhala": "ශීඝ්‍ර මෝචනය (කල්තියා ධාතු පිටවීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Whole plant",
+        "Seeds",
+        "Flowering tops of female plants"
+    ],
+    "images": [
+        {
+            "image_id": "467",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/p6bR9GzB/plant00279-00467.jpg"
+        },
+        {
+            "image_id": "468",
+            "caption": "Twig with Fruits",
+            "url": "https://i.ibb.co/KpxD48kT/plant00279-00468.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Cannabis in Sri Lanka - Scientific Facts | කංසා ඔය කියන තරම් සෞඛ්‍යට හිතකරද..?",
+                "url": "https://youtube.com/watch?v=MH5eXKtV6GM",
+                "duration": "24:02",
+                "thumbnail": "https://i.ytimg.com/vi/MH5eXKtV6GM/hq720.jpg"
+            },
+            {
+                "title": "ඔක්තෝබර් 07 පර්යේෂණාත්මක කංසා වගාව ExCCult 07th Oct",
+                "url": "https://youtube.com/watch?v=eBystxs-dCY",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/eBystxs-dCY/hq720.jpg"
+            },
+            {
+                "title": "ඔක්තෝබර් 03 පර්යේෂණාත්මක කංසා වගාව ExCCult 03rd Oct",
+                "url": "https://youtube.com/watch?v=MdPv1vzUgyk",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/MdPv1vzUgyk/hq720.jpg"
+            },
+            {
+                "title": "Cannabis /කංසා /kush/Hash/කුෂ්/marijuana /collers of nature#weed #srilanka #shorts_feed #shorts",
+                "url": "https://youtube.com/watch?v=IOVkfv5l4aE",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/IOVkfv5l4aE/hq720_2.jpg"
+            },
+            {
+                "title": "ආයුර්වේදයට කංසා මදි cannabis for Ayurvedha",
+                "url": "https://youtube.com/watch?v=yVmuuLeZJm4",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/yVmuuLeZJm4/hq720.jpg"
+            },
+            {
+                "title": "කංසා ‌: හොඳම ඖෂධයක් - එහෙනම් සුද්දා තහනම් කළේ ඇයි? Should Ganja be legalized in Sri Lanka?",
+                "url": "https://youtube.com/watch?v=JmSwgoRJ0iY",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/JmSwgoRJ0iY/hq720.jpg"
+            },
+            {
+                "title": "සැප්තැම්බර් 23 පර්යේෂණාත්මක කංසා වගාව ExCCult 23nd Sep",
+                "url": "https://youtube.com/watch?v=O0fYqhg5Azo",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/O0fYqhg5Azo/hq720.jpg"
+            },
+            {
+                "title": "වීරකැටිය කුඩාදිඹුල කංසා වගාවක් වටලයි",
+                "url": "https://youtube.com/watch?v=SKP7ox_Yi3s",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/SKP7ox_Yi3s/hqdefault.jpg"
+            },
+            {
+                "title": "ඔක්තෝබර් 14 පර්යේෂණාත්මක කංසා වගාව ExCCult 14th Oct",
+                "url": "https://youtube.com/watch?v=GFEx2YytVtw",
+                "duration": "1:05",
+                "thumbnail": "https://i.ytimg.com/vi/GFEx2YytVtw/hq720.jpg"
+            },
+            {
+                "title": "ගංජා අත්හැරගන්න අමාරුද? | Marijuana |Dr. N. Kumaranayake",
+                "url": "https://youtube.com/watch?v=uo6-J1aucYI",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/uo6-J1aucYI/hq720_2.jpg"
+            },
+            {
+                "title": "දින දෙකක් තුලදී කංසා පැලයක වර්ධනය වන අයුරු.",
+                "url": "https://youtube.com/watch?v=5EZo5ge7T4o",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/5EZo5ge7T4o/hq720.jpg"
+            },
+            {
+                "title": "කංසා ඉතාම හොදය - ආශ්‍රය කල යුතු පැලැටියකි",
+                "url": "https://youtube.com/watch?v=C57u2B3KIlM",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/C57u2B3KIlM/hq720.jpg"
+            },
+            {
+                "title": "සරුවට කරගෙන ගිය කංසා වගාව පොලිසිය වටලයි",
+                "url": "https://youtube.com/watch?v=nnIC8UFsWCQ",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/nnIC8UFsWCQ/hq720.jpg"
+            },
+            {
+                "title": "දින 6ක් වයසැති ශාකයක්.",
+                "url": "https://youtube.com/watch?v=Meoam9lUEyI",
+                "duration": "0:12",
+                "thumbnail": "https://i.ytimg.com/vi/Meoam9lUEyI/hq720_2.jpg"
+            },
+            {
+                "title": "කෘතිම ගෘහය තුල වගාකරන ලද කංසා පැල පලමු දිනයේ වර්ධනය වී ඇති ආකාරය.",
+                "url": "https://youtube.com/watch?v=9bTG1sjKf5Q",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/9bTG1sjKf5Q/hq720.jpg"
+            },
+            {
+                "title": "රටවල් ගණනාවක කංසා නීතිගත කිරීමේ සැලසුම්",
+                "url": "https://youtube.com/watch?v=nJSrRUc7M1E",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/nJSrRUc7M1E/hq720.jpg"
+            },
+            {
+                "title": "ඔක්තෝබර් 04 පර්යේෂණාත්මක කංසා වගාව ExCCult 04th Oct",
+                "url": "https://youtube.com/watch?v=xIkpD6WDKkI",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/xIkpD6WDKkI/hq720.jpg"
+            },
+            {
+                "title": "History of CANNABIS ( Weed ) - ගංජා ගැන මේ දේ දැනගත්තාම ඔබ පුදුම වේවි!",
+                "url": "https://youtube.com/watch?v=qzjPIw5DsS0",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/qzjPIw5DsS0/hq720.jpg"
+            },
+            {
+                "title": "ගංජා වල නරක පැත්ත සහ අතුරු ආබාධ / bad side of cannabis and side effects",
+                "url": "https://youtube.com/watch?v=NdgRzz4NjVI",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/NdgRzz4NjVI/hq720.jpg"
+            },
+            {
+                "title": "කුරුම්බ ගෙඩියෙ දාල පාරක් ගහමුද😮😍😍#short",
+                "url": "https://youtube.com/watch?v=lWHz5UAj1aI",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/lWHz5UAj1aI/hq720_2.jpg"
+            },
+            {
+                "title": "ගංජා ගැහුවොත් පිස්සු හැදෙනවද? ඔව් පැනික් ඇටෑක්ස් හැදෙනවා. | විශේෂඥ වෛද්‍ය අනුලා විජේසුන්දර.",
+                "url": "https://youtube.com/watch?v=sOsX17Dwqe0",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/sOsX17Dwqe0/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂ ශක්තිය වැඩි කරන ගංජා | Kansa | Ganja",
+                "url": "https://youtube.com/watch?v=N4iTdvChOkQ",
+                "duration": "6:53",
+                "thumbnail": "https://i.ytimg.com/vi/N4iTdvChOkQ/hq720.jpg"
+            },
+            {
+                "title": "කංසා සහ ගංජා අතර වෙනස හදුනාගනිමු / කන්සා සහ ගන්ජා / Cannabis / Ganja /kansa /what is cannabis/කුෂ්/",
+                "url": "https://youtube.com/watch?v=M4rIL-T6ob0",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/M4rIL-T6ob0/hqdefault.jpg"
+            },
+            {
+                "title": "Srilankan Marijuana 🇱🇰 | ශ්‍රීලංකාවේ කංසා #marijuana #weed #cannabis|ගංජා",
+                "url": "https://youtube.com/watch?v=7yR6w2z_BPk",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/7yR6w2z_BPk/hq720_2.jpg"
+            },
+            {
+                "title": "කංසා ලග තියාගන්න පුලුවන් කාටද | කංසා නීතිය සහා ඉතිහාසය | Everything about Sri Lanka cannabis",
+                "url": "https://youtube.com/watch?v=vdlB0lLF3Gg",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/vdlB0lLF3Gg/hq720.jpg"
+            },
+            {
+                "title": "kansa 😱🤯",
+                "url": "https://youtube.com/watch?v=Nwf4QaRmwws",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/Nwf4QaRmwws/hq720_2.jpg"
+            },
+            {
+                "title": "ලංකාවෙන් කංසා අපනයනය කරන්නේ මෙහෙමයි  | Hemp Case Study | Triloka Wijayapathra | Cash Logics",
+                "url": "https://youtube.com/watch?v=IyaBm3EhY6U",
+                "duration": "11:17",
+                "thumbnail": "https://i.ytimg.com/vi/IyaBm3EhY6U/hq720.jpg"
+            },
+            {
+                "title": "රු.200 ට විකුණන ගංජා නොහොත් කංසා පැල | Herbal Plants in Thailand |Ceylon Agri|Epi 423",
+                "url": "https://youtube.com/watch?v=xFl2tbfjHf0",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/xFl2tbfjHf0/hq720.jpg"
+            },
+            {
+                "title": "ඉස්සර ගංජා වැව්වේ මත්ද්‍රව්‍යයක් විදියට නොවෙයි - Strengthen immunity is better than swallowing pills",
+                "url": "https://youtube.com/watch?v=I5K0p4ZP3dI",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/I5K0p4ZP3dI/hq720.jpg"
+            },
+            {
+                "title": "ගංජා වලින් ඇති ප්‍රයෝජන 2 | Benefits of Cannabis 2 🌱💲✅",
+                "url": "https://youtube.com/watch?v=Q1fRpsqMl-8",
+                "duration": "6:51",
+                "thumbnail": "https://i.ytimg.com/vi/Q1fRpsqMl-8/hq720.jpg"
+            },
+            {
+                "title": "කන්සා ශාකය ගැන මේ දේවල් දන්නවාද?   | This plant can save earth",
+                "url": "https://youtube.com/watch?v=Ds_TLqD562U",
+                "duration": "6:26",
+                "thumbnail": "https://i.ytimg.com/vi/Ds_TLqD562U/hq720.jpg"
+            },
+            {
+                "title": "ගංජා වලින් ඇති ප්‍රයෝජන 3 | Benefits of Cannabis 3 🌱💲✅",
+                "url": "https://youtube.com/watch?v=ktz6r4UBqnc",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/ktz6r4UBqnc/hq720.jpg"
+            },
+            {
+                "title": "කංසා වල ඉතිහාසය දැනගැනීමූ./ Short Story Of Cannabis.",
+                "url": "https://youtube.com/watch?v=Ztmv7q1LKPc",
+                "duration": "8:11",
+                "thumbnail": "https://i.ytimg.com/vi/Ztmv7q1LKPc/hqdefault.jpg"
+            },
+            {
+                "title": "Cannabis Containing Kaameshwaree Rasayana  කංසා අඩංගු කාමේෂ්වරී රසායනය",
+                "url": "https://youtube.com/watch?v=DVFS7oyADV4",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/DVFS7oyADV4/hq720.jpg"
+            },
+            {
+                "title": "Cannebis| Kansa| Nutritionist Hiroshan jayaranga",
+                "url": "https://youtube.com/watch?v=sSOGsXyzbsI",
+                "duration": "11:37",
+                "thumbnail": "https://i.ytimg.com/vi/sSOGsXyzbsI/hq720.jpg"
+            },
+            {
+                "title": "චමාර රණවක.. ගංජා ගැන කියපු කතාව",
+                "url": "https://youtube.com/watch?v=0c7__aeuuFU",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/0c7__aeuuFU/hq2.jpg"
+            },
+            {
+                "title": "අලුත් වුණු කංසා නීතිය | අපි නොදන්න Law |Api Nodanna Law | Legal Action",
+                "url": "https://youtube.com/watch?v=fVigXV3rNEw",
+                "duration": "8:47",
+                "thumbnail": "https://i.ytimg.com/vi/fVigXV3rNEw/hq720.jpg"
+            },
+            {
+                "title": "ගංජා භාවිතයෙන් මොළේ අවුල් වෙන හැටි",
+                "url": "https://youtube.com/watch?v=ePDtlktC7lE",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/ePDtlktC7lE/hq720.jpg"
+            },
+            {
+                "title": "කංසා,ඖෂධයක් ලෙස වගා කිරීමේ බලය ඉල්ලයි  - Hiru News",
+                "url": "https://youtube.com/watch?v=khj4v4aKDRo",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/khj4v4aKDRo/hqdefault.jpg"
+            },
+            {
+                "title": "ගංජා වල ඖෂධීය ගුණ benifits of cannabis #healthylifestyle #healthtips #amazing #healthy #shortvideo ❤",
+                "url": "https://youtube.com/watch?v=QVwD-QkCuHQ",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/QVwD-QkCuHQ/hq720.jpg"
+            },
+            {
+                "title": "ත්‍රෛලෝක විජයපත්‍ර වල ලොවම පිළිගත් ඖෂධීය ගුණ මහිමය පිලිබඳ ආයුර්වේදයේ දැවැන්තයකුගේ විග්‍රහය",
+                "url": "https://youtube.com/watch?v=gzxKaFotmGU",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/gzxKaFotmGU/hq720.jpg"
+            },
+            {
+                "title": "ගංජා හෙවත් කංසා නිසා වෙන දේ දන්නවාද ?  (විද්‍යාත්මකව) | Dark side of cannabis , weed !",
+                "url": "https://youtube.com/watch?v=hOSKulH8jhc",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/hOSKulH8jhc/hqdefault.jpg"
+            },
+            {
+                "title": "කංසා(ගංජා) ඖෂධ ලොකේ රජු Cannabis_Marijuana මුල සිට ඔබ නොදත් බොහෝ දේ දැන ගන්න",
+                "url": "https://youtube.com/watch?v=m-DH_IAG-qg",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/m-DH_IAG-qg/hq720.jpg"
+            },
+            {
+                "title": "Lets talk about cannabis| කංසා ගැන වෛද්‍යවරුන් සඟවන ඇත්ත @ChroniclesOfCostaism",
+                "url": "https://youtube.com/watch?v=Nh_tfN6Odj0",
+                "duration": "1:46:32",
+                "thumbnail": "https://i.ytimg.com/vi/Nh_tfN6Odj0/hq720.jpg"
+            },
+            {
+                "title": "කංසා වලින් හදන ඉපැරණි රහස් ඖෂධ රැසක් හෙලිවෙයි",
+                "url": "https://youtube.com/watch?v=crinNzz2tLU",
+                "duration": "7:09",
+                "thumbnail": "https://i.ytimg.com/vi/crinNzz2tLU/hq720.jpg"
+            },
+            {
+                "title": "2026: මානසික සෞඛ්‍ය සහ ගංජා ගැන අලුත් තොරතුරු  | Mental Health and Cannabis Newest Research in 2026",
+                "url": "https://youtube.com/watch?v=eQ5xZAHtevg",
+                "duration": "12:09",
+                "thumbnail": "https://i.ytimg.com/vi/eQ5xZAHtevg/hq720.jpg"
+            },
+            {
+                "title": "කංසා කියන්නේ කප්රුකක් | KANSA | Cannabis | DIYATHA TV | SINHALA |",
+                "url": "https://youtube.com/watch?v=1SWpww-vfxo",
+                "duration": "5:59",
+                "thumbnail": "https://i.ytimg.com/vi/1SWpww-vfxo/hq720.jpg"
+            },
+            {
+                "title": "නින්ද නොයාම සදහා ඹෟෂධීය  කංසා | ගංජා සහ කැනබිනොයිඩ් වල මනෝචිකිත්සක බලපෑම් | Episode 4",
+                "url": "https://youtube.com/watch?v=51eCPanNf_I",
+                "duration": "58:17",
+                "thumbnail": "https://i.ytimg.com/vi/51eCPanNf_I/hq720.jpg"
+            },
+            {
+                "title": "ගංජා වලින් ඇති ප්‍රයෝජන 1 | Benefits of Cannabis 1 🌱💲✅",
+                "url": "https://youtube.com/watch?v=vJ-G1wMpkm4",
+                "duration": "5:37",
+                "thumbnail": "https://i.ytimg.com/vi/vJ-G1wMpkm4/hq720.jpg"
+            },
+            {
+                "title": "කංසා වගාවට අද ලැබුණු අවසරය... #cannabis #srilanka #marijuananews",
+                "url": "https://youtube.com/watch?v=w-Xy6adCg1A",
+                "duration": "0:37",
+                "thumbnail": "https://i.ytimg.com/vi/w-Xy6adCg1A/hq720.jpg"
+            },
+            {
+                "title": "ගංජා ගැන | pol kadana bandara with canbis | පොල්කඩන බංඩාර සහ කංසා",
+                "url": "https://youtube.com/watch?v=D4Dfvf-MCIg",
+                "duration": "22:54",
+                "thumbnail": "https://i.ytimg.com/vi/D4Dfvf-MCIg/hq720.jpg"
+            },
+            {
+                "title": "කංසා නීතිගත කරන්න දේශිය වෛද්‍යවරුන්ගෙන් ඉල්ලීමක් - කංසා වල අපි නොදන්න වටිනාකම මෙන්න",
+                "url": "https://youtube.com/watch?v=7Gz0vAhGFKM",
+                "duration": "9:21",
+                "thumbnail": "https://i.ytimg.com/vi/7Gz0vAhGFKM/hqdefault.jpg"
+            },
+            {
+                "title": "කහ වල ඇති ඔෳෂධිය ගුණ 15ක්|Turmeric15 medicinal properties of",
+                "url": "https://youtube.com/watch?v=_eRkyprVr4o",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/_eRkyprVr4o/hqdefault.jpg"
+            },
+            {
+                "title": "කංකුං  කනවද? | Kangkung (Water Spinach) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WDR_OvMpd44",
+                "duration": "14:18",
+                "thumbnail": "https://i.ytimg.com/vi/WDR_OvMpd44/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා කහ බෙහෙතක් ලෙස ලබාගැනීමෙන් අපිට ලැබෙන විද්‍යාත්මකව තහවුරු කල වාසි රැසක්",
+                "url": "https://youtube.com/watch?v=HdwxhKFl_QU",
+                "duration": "12:12",
+                "thumbnail": "https://i.ytimg.com/vi/HdwxhKFl_QU/hqdefault.jpg"
+            },
+            {
+                "title": "ගොනු කෑ කොළ හෙවත් ගොනිකා වල විශ්මිත සුව කිරීමේ ගුණ | @Sakalawaga | #gonika #ගොනිකා",
+                "url": "https://youtube.com/watch?v=y5dCYJS7zRE",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/y5dCYJS7zRE/hqdefault.jpg"
+            },
+            {
+                "title": "කංකුං කෑවොත් මොකද වෙන්නෙ : Water Spinach Benefits",
+                "url": "https://youtube.com/watch?v=RxKSa0l8Fnk",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/RxKSa0l8Fnk/hq720.jpg"
+            },
+            {
+                "title": "කංකුන් වල ගුණ | Water spinach | Kankun",
+                "url": "https://youtube.com/watch?v=G41zv5x18Yo",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/G41zv5x18Yo/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව, අර්ශස් ඇතුළු රෝග වලට ගුණ සව්කෙන්ද හදුනාගමු | සව්කෙන්ද [Saukenda] (Kaempferia rotunda)",
+                "url": "https://youtube.com/watch?v=utFx6UNfsn4",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/utFx6UNfsn4/hq720.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "චියා සීඩ්වලින් ලැබෙන පුදුමසහගත ප්‍රයෝජන සහ නිවැරදිව භාවිතය  Benefits of Chia Seeds & How to Use",
+                "url": "https://youtube.com/watch?v=Qqk-sGLZE_s",
+                "duration": "7:45",
+                "thumbnail": "https://i.ytimg.com/vi/Qqk-sGLZE_s/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "කස කසා ඇට වතුරට දාලා උදේට බිව්වොත් ශරීරයට සිදුවන විශ්මිත දේවල් |Super Healthy Seeds You Should Eat",
+                "url": "https://youtube.com/watch?v=NmAR8Xzj91w",
+                "duration": "9:53",
+                "thumbnail": "https://i.ytimg.com/vi/NmAR8Xzj91w/hq720.jpg"
+            },
+            {
+                "title": "කලුකැම්මේරිය විශ්මිත ගුණ , රෝග රැසකට එක් ඔසුවක්.",
+                "url": "https://youtube.com/watch?v=CmQImWwL4Hw",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/CmQImWwL4Hw/hq720.jpg"
+            },
+            {
+                "title": "කජු කනවා නම් මේ දේවල් අනිවාර්යයෙන්ම දැනගන්න | Why You Should Eat Cashews - @behethbydrnamal",
+                "url": "https://youtube.com/watch?v=EXVHczl5JKc",
+                "duration": "6:04",
+                "thumbnail": "https://i.ytimg.com/vi/EXVHczl5JKc/hq720.jpg"
+            },
+            {
+                "title": "🔴🔵රටකජු වල සැඟවුණු \"ගුණ සහ අගුණ\" මෙන්න | Benefits and Risks of Peanuts Sinhala | Hela Suwa TV",
+                "url": "https://youtube.com/watch?v=BIFcznWW2So",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/BIFcznWW2So/hq720.jpg"
+            },
+            {
+                "title": "මේ විදිහට භාවිතා  කලොත්, හරියට හරි! ලෙඩ 10 ක් සනීප කරන, සම පැහැපත් කරන, ලෝකයේ වටිනාම ඖෂධය අපෙන්!",
+                "url": "https://youtube.com/watch?v=qMBivTnOSgI",
+                "duration": "14:43",
+                "thumbnail": "https://i.ytimg.com/vi/qMBivTnOSgI/hq720.jpg"
+            },
+            {
+                "title": "මේ පොඩි කංකුං පැලෙන් ලැබෙන ගුණ ගැන ඔබ දැන සිටියාද? Kang Kung | කංකුං - Sobadam Piyasa",
+                "url": "https://youtube.com/watch?v=gfrTfGJZaB0",
+                "duration": "7:38",
+                "thumbnail": "https://i.ytimg.com/vi/gfrTfGJZaB0/hq720.jpg"
+            },
+            {
+                "title": "රත්තරන් වලට වඩා වටින අරුම පුදුම කහ ගැන හැමදේම දැනගන්න",
+                "url": "https://youtube.com/watch?v=bKCY74Oprkc",
+                "duration": "9:14",
+                "thumbnail": "https://i.ytimg.com/vi/bKCY74Oprkc/hqdefault.jpg"
+            },
+            {
+                "title": "අස්වැන්න | උණට, කැස්සට, අතීසාරයට ගුණ දේශීය පැලෑටිය | අස්වැන්න (Aswenna)",
+                "url": "https://youtube.com/watch?v=EN9uMbSxCc4",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/EN9uMbSxCc4/hq720.jpg"
+            },
+            {
+                "title": "කංසා වල ඇති සුපිරි ප්‍රයෝජන | Mind blowing facts about Kansa | Katusatahan",
+                "url": "https://youtube.com/watch?v=8bIk9kVpIKc",
+                "duration": "5:41",
+                "thumbnail": "https://i.ytimg.com/vi/8bIk9kVpIKc/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "කංසා මඟින් ඔබේ ශරීරයට සිදුකරන බලපෑම | ආදරණීය ජීවිතය | 11 - 04 - 2022 | SiyathaTV",
+                "url": "https://youtube.com/watch?v=LxmUIHk1f2U",
+                "duration": "20:10",
+                "thumbnail": "https://i.ytimg.com/vi/LxmUIHk1f2U/hq720.jpg"
+            },
+            {
+                "title": "කාමරංගා ගැන තිත්ත ඇත්ත | Star-fruit & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=fGq53e8hckQ",
+                "duration": "12:04",
+                "thumbnail": "https://i.ytimg.com/vi/fGq53e8hckQ/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "ආශ්චර්යමත් හා විශ්මයජනක ශාක (Miracle and Amazing plants)",
+                "url": "https://youtube.com/watch?v=Irv46zFf-3M",
+                "duration": "8:09",
+                "thumbnail": "https://i.ytimg.com/vi/Irv46zFf-3M/hq720.jpg"
+            },
+            {
+                "title": "කුඹුරේ අස්වැන්න 99.9%කින් වැඩි කරන පොහොර වර්ග 🫣🙄😱#farming #agriculturaregenerativa #paddy",
+                "url": "https://youtube.com/watch?v=YXY0R38Z_Io",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/YXY0R38Z_Io/hq720.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "වාසනාව සහ අවාසනාව ලබාදෙන ශාක | නිවසට සුභ ගස් සහ නිවසට අසුභ ගස් - ගුප්ත රහස්",
+                "url": "https://youtube.com/watch?v=FIRaE8srLsQ",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/FIRaE8srLsQ/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "10 Health Benefits of Kangkong - Dr. Gary Sy",
+                "url": "https://youtube.com/watch?v=GaGRCadUPG4",
+                "duration": "15:53",
+                "thumbnail": "https://i.ytimg.com/vi/GaGRCadUPG4/hq720.jpg"
+            },
+            {
+                "title": "Singkamas (TURNIPS): Health Benefits & Risks - Dr. Gary Sy",
+                "url": "https://youtube.com/watch?v=NdhinH4Yxtw",
+                "duration": "24:12",
+                "thumbnail": "https://i.ytimg.com/vi/NdhinH4Yxtw/hq720.jpg"
+            },
+            {
+                "title": "10 Amazing Health Benefits of Cassia Abbreviata| Mululwe| African Medicine | Munsokansoka",
+                "url": "https://youtube.com/watch?v=6PvOqpiNxB0",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/6PvOqpiNxB0/hqdefault.jpg"
+            },
+            {
+                "title": "Jicama Benefits and Side Effects",
+                "url": "https://youtube.com/watch?v=nJsrM57xchs",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/nJsrM57xchs/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Cassia Alata/Senna Alata #theshangtareal",
+                "url": "https://youtube.com/watch?v=NIpOnJw7C3g",
+                "duration": "4:59",
+                "thumbnail": "https://i.ytimg.com/vi/NIpOnJw7C3g/hq720.jpg"
+            },
+            {
+                "title": "5 Benefits of Quinoa (Backed by Science)",
+                "url": "https://youtube.com/watch?v=7kJrJt-NJhw",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/7kJrJt-NJhw/hq720.jpg"
+            },
+            {
+                "title": "Top 5 physical benefits of cassava leaves you never knew existed",
+                "url": "https://youtube.com/watch?v=9vCn15MgWv0",
+                "duration": "6:59",
+                "thumbnail": "https://i.ytimg.com/vi/9vCn15MgWv0/hq720.jpg"
+            },
+            {
+                "title": "Exploring the Surprising Health Benefits of Castor Leaves! 🌿🌟",
+                "url": "https://youtube.com/watch?v=LKcqFdkDITE",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/LKcqFdkDITE/hq720.jpg"
+            },
+            {
+                "title": "Cactus Leaf: Benefits & Uses (Nopales)",
+                "url": "https://youtube.com/watch?v=ayQyCUyKk-U",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/ayQyCUyKk-U/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "Kalanchoe Pinnata Medicinal Uses: Powerful Health Benefits & Healing Properties  #medicinalplants",
+                "url": "https://youtube.com/watch?v=4dOa46RZQTQ",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/4dOa46RZQTQ/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=3yOKP25gANs",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/3yOKP25gANs/frame0.jpg"
+            },
+            {
+                "title": "කංසාවල ඖෂධීය ගුණ ගැන සුදර්ශන සභාවට හෙළි කරයි... දේශීය වෙදදුරන් 1600කට සිදු වෙලා තියෙන දෙයක්",
+                "url": "https://youtube.com/watch?v=aefjdnK0j80",
+                "duration": "12:57",
+                "thumbnail": "https://i.ytimg.com/vi/aefjdnK0j80/hq720.jpg"
+            },
+            {
+                "title": "ජවය ශක්තිය සපිරි කොල්ලු පානය - වෛද්‍ය සුසීමා සේනානායක",
+                "url": "https://youtube.com/watch?v=BBlufzuvZvw",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/BBlufzuvZvw/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ශාකයේ ඔසු ගුණ | Neem Tree | kohomba",
+                "url": "https://youtube.com/watch?v=B-iZPT8JzD4",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/B-iZPT8JzD4/hq720.jpg"
+            },
+            {
+                "title": "ගංසුරිය(Gansuriya) ශාකයේ විශ්මිත ගුණ😱😱😱",
+                "url": "https://youtube.com/watch?v=5tNmjd694pg",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/5tNmjd694pg/hq720.jpg"
+            },
+            {
+                "title": "කොස් ඇට වල ගුණ | Kos Ata  #jackfruit",
+                "url": "https://youtube.com/watch?v=G5PZxr4bsN8",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/G5PZxr4bsN8/hq720.jpg"
+            },
+            {
+                "title": "කජු වල ඇති විශ්මිත ගුණ - Amazing properties of cashew nuts",
+                "url": "https://youtube.com/watch?v=rBfem4kEcVU",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/rBfem4kEcVU/hq720.jpg"
+            },
+            {
+                "title": "ඇඟ කසන්නේ පිළිකාවක් නිසාද ?  | #cancertreatments",
+                "url": "https://youtube.com/watch?v=RTHQzcoW_E8",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/RTHQzcoW_E8/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "කංකුන් කෑවට මේ දේවල් දැනන් හිටියාද",
+                "url": "https://youtube.com/watch?v=cOtYm6eAOYw",
+                "duration": "7:48",
+                "thumbnail": "https://i.ytimg.com/vi/cOtYm6eAOYw/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "7 Incredible Health Benefits Of Eating Cashew Nuts",
+                "url": "https://youtube.com/watch?v=r_7vAVGU14A",
+                "duration": "3:06",
+                "thumbnail": "https://i.ytimg.com/vi/r_7vAVGU14A/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Kale - 7 Reasons to Eat It | When to Avoid",
+                "url": "https://youtube.com/watch?v=8_hFjbmNsBs",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/8_hFjbmNsBs/hq720.jpg"
+            },
+            {
+                "title": "Jicama Benefits and Side Effects",
+                "url": "https://youtube.com/watch?v=mgMtddQyYTg",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/mgMtddQyYTg/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Neuralgia",
-      "sinhala": "ස්නායු වේදනාව (ස්නායු ශූල)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Migraine",
-      "sinhala": "ඉරුවාරදය (අර්ධාවභේදක)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysmenorrhea",
-      "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Malaria",
-      "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Blood Poisoning (Septicemia)",
-      "sinhala": "රුධිර විෂ වීම (සෙප්ටිසිමියාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Anthrax",
-      "sinhala": "ඇන්ත්‍රැක්ස් රෝගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worm infestations",
-      "sinhala": "පණුවන් බෝවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dandruff",
-      "sinhala": "හිස්හොරි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Insomnia",
-      "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Premature Ejaculation",
-      "sinhala": "ශීඝ්‍ර මෝචනය (කල්තියා ධාතු පිටවීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Whole plant",
-    "Seeds",
-    "Flowering tops of female plants"
-  ],
-  "images": [
-    {
-      "image_id": "467",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/p6bR9GzB/plant00279-00467.jpg"
-    },
-    {
-      "image_id": "468",
-      "caption": "Twig with Fruits",
-      "url": "https://i.ibb.co/KpxD48kT/plant00279-00468.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

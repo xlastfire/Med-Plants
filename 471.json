@@ -1,74 +1,571 @@
 {
-  "scientificName": "Erythroxylum monogynum Roxb.",
-  "synonyms": [
-    "Erythroxylum indicum (DC.) Elliot",
-    "Erythroxylum sideroxyloides Roxb.",
-    "Sethia indica DC."
-  ],
-  "familyName": "ERYTHROXYLACEAE",
-  "englishNames": [
-    "Red Cedar",
-    "Bastard Sandal"
-  ],
-  "sinhalaName": "Lanka agil (ලංකා අගිල්)",
-  "description": "මීටර් 2 - 4.5 ක් උසැති පඳුරු හෝ කුඩා ගස් වේ. පත්‍ර ඒකාන්තර (alternate) වන අතර, ප්‍රතිලෝම ඩිම්බාකාර (obovate) හෝ කුඤ්ඤාකාර ප්‍රතිලෝම ඩිම්බාකාර (cuneate obovate) හැඩයක් ගනී. පත්‍ර ප්‍රමාණය සෙන්ටිමීටර 1.4 - 4.2 (- 5.2) X 0.7 - 1.9 (- 2.2) වේ. පත්‍ර සරල (simple) වන අතර, අග්‍රය වටකුරු හෝ ඉතා මොට (obtuse) වේ. පත්‍ර අගිස්ස මඳක් ඇතුළට නැමුණු (emarginated) ස්වභාවයක් ගන්නා අතර, පත්‍ර දාරය සම්පූර්ණ (entire) වේ. පත්‍ර පාදය මඳක් පිටුපසට නැමුණු (recurved) ස්වභාවයක් ගන්නා අතර, පත්‍රයේ උඩු පැත්ත එතරම් දිලිසෙන සුළු නොවේ. යටි පැත්ත ලා නිල් පැහැයට හුරු දුඹුරු (glaucous brown) පැහැයක් ගනී. මල් සුදු හෝ කොළ පැහැයට හුරු සුදු පැහැයක් ගන්නා අතර සුවඳවත් වේ. මල් 1 - 4 බැගින් පත්‍ර කක්ෂීය පොකුරු (axillary fascicles) ලෙස පිහිටයි. මල් ද්විරූපී (dimorphous) වේ. ඵල (drupes) සිලින්ඩරාකාර හෝ ආයත (oblong) හැඩයක් ගනී. ඒවා කෙලින් වන අතර, කට්ට සහිත (furrowed) වේ. ඵල කොළ පැහැති වන අතර, ඉදුණු විට රුධිර වර්ණ හෝ තද රතු (scarlet) පැහැයට හැරේ.",
-  "treatments": [
-    {
-      "treatment": "Stomachic",
-      "sinhala": "ආමාශය ප්‍රබෝධමත් කරන ඖෂධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Erythroxylum monogynum Roxb.",
+    "synonyms": [
+        "Erythroxylum indicum (DC.) Elliot",
+        "Erythroxylum sideroxyloides Roxb.",
+        "Sethia indica DC."
+    ],
+    "familyName": "ERYTHROXYLACEAE",
+    "englishNames": [
+        "Red Cedar",
+        "Bastard Sandal"
+    ],
+    "sinhalaName": "Lanka agil (ලංකා අගිල්)",
+    "description": "මීටර් 2 - 4.5 ක් උසැති පඳුරු හෝ කුඩා ගස් වේ. පත්‍ර ඒකාන්තර (alternate) වන අතර, ප්‍රතිලෝම ඩිම්බාකාර (obovate) හෝ කුඤ්ඤාකාර ප්‍රතිලෝම ඩිම්බාකාර (cuneate obovate) හැඩයක් ගනී. පත්‍ර ප්‍රමාණය සෙන්ටිමීටර 1.4 - 4.2 (- 5.2) X 0.7 - 1.9 (- 2.2) වේ. පත්‍ර සරල (simple) වන අතර, අග්‍රය වටකුරු හෝ ඉතා මොට (obtuse) වේ. පත්‍ර අගිස්ස මඳක් ඇතුළට නැමුණු (emarginated) ස්වභාවයක් ගන්නා අතර, පත්‍ර දාරය සම්පූර්ණ (entire) වේ. පත්‍ර පාදය මඳක් පිටුපසට නැමුණු (recurved) ස්වභාවයක් ගන්නා අතර, පත්‍රයේ උඩු පැත්ත එතරම් දිලිසෙන සුළු නොවේ. යටි පැත්ත ලා නිල් පැහැයට හුරු දුඹුරු (glaucous brown) පැහැයක් ගනී. මල් සුදු හෝ කොළ පැහැයට හුරු සුදු පැහැයක් ගන්නා අතර සුවඳවත් වේ. මල් 1 - 4 බැගින් පත්‍ර කක්ෂීය පොකුරු (axillary fascicles) ලෙස පිහිටයි. මල් ද්විරූපී (dimorphous) වේ. ඵල (drupes) සිලින්ඩරාකාර හෝ ආයත (oblong) හැඩයක් ගනී. ඒවා කෙලින් වන අතර, කට්ට සහිත (furrowed) වේ. ඵල කොළ පැහැති වන අතර, ඉදුණු විට රුධිර වර්ණ හෝ තද රතු (scarlet) පැහැයට හැරේ.",
+    "treatments": [
+        {
+            "treatment": "Stomachic",
+            "sinhala": "ආමාශය ප්‍රබෝධමත් කරන ඖෂධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Bark"
+    ],
+    "images": [
+        {
+            "image_id": "2093",
+            "caption": "Flower with leaves (PMR)",
+            "url": "https://i.ibb.co/cXT6gwCs/plant00471-02093.jpg"
+        },
+        {
+            "image_id": "2094",
+            "caption": "Twig with flowers and fruits (PMR)",
+            "url": "https://i.ibb.co/xkMFsbL/plant00471-02094.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ලංකා අගිල් එහෙමත් නැත්නම් රට කිරිල්ල හදුනා ගන්න | Lanka Agil, Rata Kirilla",
+                "url": "https://youtube.com/watch?v=t4B9OwZB0RU",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/t4B9OwZB0RU/hq720.jpg"
+            },
+            {
+                "title": "Sobadam Piyasa - අගිල් ශාකය",
+                "url": "https://youtube.com/watch?v=2UGl1GMKy-Y",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/2UGl1GMKy-Y/hq720.jpg"
+            },
+            {
+                "title": "30 June 2023 අගිල්",
+                "url": "https://youtube.com/watch?v=3EPBrLwWt9E",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/3EPBrLwWt9E/hq720.jpg"
+            },
+            {
+                "title": "අගිල් ගහ/agil tree/medicinal tree/Agile Tree: How to Apply Agile Methodology to Project Management\"",
+                "url": "https://youtube.com/watch?v=ZzOxMXJQXow",
+                "duration": "5:35",
+                "thumbnail": "https://i.ytimg.com/vi/ZzOxMXJQXow/hqdefault.jpg"
+            },
+            {
+                "title": "අගිල් කරඩුව",
+                "url": "https://youtube.com/watch?v=hn5I1fvDgKE",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/hn5I1fvDgKE/hq720.jpg"
+            },
+            {
+                "title": "අගිල් ගස් දැකලා නැති අයට මේ",
+                "url": "https://youtube.com/watch?v=8nM6QZI2ewY",
+                "duration": "6:02",
+                "thumbnail": "https://i.ytimg.com/vi/8nM6QZI2ewY/hq720.jpg"
+            },
+            {
+                "title": "Sri Lanka Layard’s Parakeet | ශ්‍රී ලංකා අළු ගිරවා (Endemic), Sinharaja Rain Forest (2019)",
+                "url": "https://youtube.com/watch?v=SjVYwiBAZr0",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/SjVYwiBAZr0/hqdefault.jpg"
+            },
+            {
+                "title": "මේ ශාකය භාවිතයට නොගන්නා ඔබ බත් කාලා වැඩක් නෑ /ausadiya kikiridiya",
+                "url": "https://youtube.com/watch?v=scqO5Np5pcU",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/scqO5Np5pcU/hq720.jpg"
+            },
+            {
+                "title": "සාම්බ්‍රානි ගස | Sambrani Tree| Kattakumanjal Tree| Frankincense | Boswellia tree",
+                "url": "https://youtube.com/watch?v=eprOyK17oNQ",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/eprOyK17oNQ/hq720.jpg"
+            },
+            {
+                "title": "වගා ආයෝජන වංචාව",
+                "url": "https://youtube.com/watch?v=-cJn1_a0cdo",
+                "duration": "5:16",
+                "thumbnail": "https://i.ytimg.com/vi/-cJn1_a0cdo/hqdefault.jpg"
+            },
+            {
+                "title": "කෝටිපතියන් බිහි කරන ඉගුරු වගාකරන අලුත්ම ක්‍රමය - ginger plants - wagawa",
+                "url": "https://youtube.com/watch?v=OzkXDK5KSAc",
+                "duration": "13:55",
+                "thumbnail": "https://i.ytimg.com/vi/OzkXDK5KSAc/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවේ බළල් කුලය | Wild Cats of Sri Lanka",
+                "url": "https://youtube.com/watch?v=JR2CgOXtgV0",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/JR2CgOXtgV0/hq720.jpg"
+            },
+            {
+                "title": "ඉහල මිලක් ඇති මේ දුර්ලභ ශාකය ගැන දන්නවද? | Erythroxylum monogynum  | Ceylon Agri | Episode 153",
+                "url": "https://youtube.com/watch?v=4FH0rlvpbLA",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/4FH0rlvpbLA/hq720.jpg"
+            },
+            {
+                "title": "මිනිස් සිරුරේ රෝග ගණනකට සුවය ගෙනදෙන ඇහැල | Cassia fistula plant | ehela tree🌿",
+                "url": "https://youtube.com/watch?v=GK4j0XSQQAM",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/GK4j0XSQQAM/hqdefault.jpg"
+            },
+            {
+                "title": "''කලාඳුරු අල '' ගුණ අගුණ. රෝග රැසකට ගුණදෙන විශ්මිත ඖෂධ.",
+                "url": "https://youtube.com/watch?v=lKIPz0tGmWc",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/lKIPz0tGmWc/hq720.jpg"
+            },
+            {
+                "title": "නාඳුනන ගස්  \"ලෝලු\" - තිලක් කන්දේගම / Trees unknown to people - 03",
+                "url": "https://youtube.com/watch?v=JS014jpfsGc",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/JS014jpfsGc/hq720.jpg"
+            },
+            {
+                "title": "සස්සඳ  ඖෂධීය ශාකය ගැන දැන ගමු   ,  Sassada   (Aristolochia indica)",
+                "url": "https://youtube.com/watch?v=pvyyLxaYZX0",
+                "duration": "5:57",
+                "thumbnail": "https://i.ytimg.com/vi/pvyyLxaYZX0/hqdefault.jpg"
+            },
+            {
+                "title": "මොනවද මේ අට්ටික්කා හෙවත් දිඹුල් කියන්නේ..",
+                "url": "https://youtube.com/watch?v=On71o0pVc5g",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/On71o0pVc5g/hq720.jpg"
+            },
+            {
+                "title": "මෙන්න මේ ගස් ගෙවත්තේ හිටවලා තියේනම් දැන්ම අයින් කරන්න",
+                "url": "https://youtube.com/watch?v=LkeqJMtkjcQ",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/LkeqJMtkjcQ/hq720.jpg"
+            },
+            {
+                "title": "තේක්ක ගැන නෑසූ කතාවක්. රූපලාවන්‍ය, හන්දි හා චර්ම රෝග සඳහා.",
+                "url": "https://youtube.com/watch?v=V5bsiUtgSl0",
+                "duration": "8:35",
+                "thumbnail": "https://i.ytimg.com/vi/V5bsiUtgSl0/hq720.jpg"
+            },
+            {
+                "title": "මේ ගස් 3 ගෙදර තියෙනවා නම් කවදාවත් දියවැඩියාව හැදෙන්නේ නැහැ - මේ ගෙඩියක් කන්න පටගාල සීනි බහිනවා",
+                "url": "https://youtube.com/watch?v=ySXYL6YHSpo",
+                "duration": "26:55",
+                "thumbnail": "https://i.ytimg.com/vi/ySXYL6YHSpo/hq720.jpg"
+            },
+            {
+                "title": "වගා ලිදට වැටුණු තුන් පත් රෑන ගොඩ එන්න දාපු වෑයම | අරුණ",
+                "url": "https://youtube.com/watch?v=EVNpX7AnXUM",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/EVNpX7AnXUM/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවේ පලා වර්ග 5ක් පිළිකා පරදන බව හෙළිවේ",
+                "url": "https://youtube.com/watch?v=PJoPST2D_EQ",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/PJoPST2D_EQ/hqdefault.jpg"
+            },
+            {
+                "title": "අඟුණ කොළ සලාදය හෝ මැල්ලුම ආහාරයට ගැනීමෙන් ලැබෙන  ගුණය   - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=CcEpH4cmi1g",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/CcEpH4cmi1g/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "12 Dead After Massive Fire At Sri Lanka Care Home | LIVE",
+                "url": "https://youtube.com/watch?v=9yoWik4jpjQ",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/9yoWik4jpjQ/hq720.jpg"
+            },
+            {
+                "title": "මහපටැඟිල්ලට බෙහෙත් බැඳ සියලුම ඇස් රෝග සුව කරන විශ්මිත ප්‍රිතිකාර | iTV SriLanka",
+                "url": "https://youtube.com/watch?v=Xc1BrxQ4QGM",
+                "duration": "23:31",
+                "thumbnail": "https://i.ytimg.com/vi/Xc1BrxQ4QGM/hq720.jpg"
+            },
+            {
+                "title": "හෙට කාලගුණ අනාවැකිය - Weather Forecast  Sri lanka  FOR 05 ජුනි  2026 Meteorology Department",
+                "url": "https://youtube.com/watch?v=fuS1M42BLys",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/fuS1M42BLys/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබේ ප්‍රදේශයෙත්  පත්තෑයො ඉන්නවද? | ගෙවත්තක තියෙන්නම ඕන ඔසුව | Garudaraja | Ceylon Agri |Episode 332",
+                "url": "https://youtube.com/watch?v=NfkliccJ4EM",
+                "duration": "7:12",
+                "thumbnail": "https://i.ytimg.com/vi/NfkliccJ4EM/hq720.jpg"
+            },
+            {
+                "title": "❤️අග්න්‍යාශ සෛල අවදි කරන්න,🥦ශ්‍රී ලංකාවේ එළවළු Pancreatic Cells & Vegetables in Sri Lanka-Hh5",
+                "url": "https://youtube.com/watch?v=6pmqQtrI0Wk",
+                "duration": "14:05",
+                "thumbnail": "https://i.ytimg.com/vi/6pmqQtrI0Wk/hq720.jpg"
+            },
+            {
+                "title": "නම අගුණ වුණත් බොහෝ  ගුණ ඇති කිරි අඟුණ kiri aguna plant benefits මව්කිරි වඩවන ආහාර",
+                "url": "https://youtube.com/watch?v=N7SwafIqdZU",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/N7SwafIqdZU/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන, ලෙඩවීම වලක්වන, පිටි වර්ග 7 ක්!",
+                "url": "https://youtube.com/watch?v=S_RsfSLzUw8",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/S_RsfSLzUw8/hq720.jpg"
+            },
+            {
+                "title": "''ඉඟුරු ''ගුණ  අගුණ",
+                "url": "https://youtube.com/watch?v=xeUVyF6wBzQ",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/xeUVyF6wBzQ/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකා වෛද්‍ය සංගමය අඩු මිල බෝතලේට කුඩු වෙන්න ගහයි!",
+                "url": "https://youtube.com/watch?v=Na_gACpX3gc",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/Na_gACpX3gc/hq720.jpg"
+            },
+            {
+                "title": "ඔයාගේ ඇගේ කොලෙස්ටරෝල් වැඩි උනාම මතු වෙන ලක්ෂණ! - කොලෙස්ටරෝල් වැඩි වූ පමණින් බෙහෙත් ඕනැ නෑ",
+                "url": "https://youtube.com/watch?v=zp_arycjwVA",
+                "duration": "20:40",
+                "thumbnail": "https://i.ytimg.com/vi/zp_arycjwVA/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ කෑවම මොකද වෙන්නෙ : Health benefits of Kiri Aguna",
+                "url": "https://youtube.com/watch?v=o8vWzWsojxI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/o8vWzWsojxI/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ ගෙන්වන්න ගහපු ඉන්දු - ලංකා ගිවිසුම ගැන නලින්ගෙන් හෙළිදරව්වක්",
+                "url": "https://youtube.com/watch?v=LGQIcHGBv_M",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/LGQIcHGBv_M/hq720.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "News Alert  ඇමරිකාවෙන් ලැබුණු නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත් කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=QoxbefYPMS4",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/QoxbefYPMS4/hq720.jpg"
+            },
+            {
+                "title": "අප්‍රාණිකත්වයට හරිම සප්ලිමන්ට් එක? | L- Arginine vs L- Citrulline - @behethbydrnamal",
+                "url": "https://youtube.com/watch?v=kbYnVroHlsI",
+                "duration": "6:50",
+                "thumbnail": "https://i.ytimg.com/vi/kbYnVroHlsI/hq720.jpg"
+            },
+            {
+                "title": "දිනෙන් දින වැඩෙන සෞඛ්‍ය අර්බුදය ගැන ජනතා අදහස් | Health Crisic Sri Lanka | Gagana News Exclusive",
+                "url": "https://youtube.com/watch?v=AmZx-5_wseo",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/AmZx-5_wseo/hq720.jpg"
+            },
+            {
+                "title": "දවස් 5න් ඇස් පෙනීම වැඩි කරන බලගතු දේශීය ඔසු 11 |Herbs that help your Health and Eye sight in Sinhala",
+                "url": "https://youtube.com/watch?v=fVNutwFTXNY",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/fVNutwFTXNY/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වල විශ්මිත ගුණ. Ugurassa fruit.",
+                "url": "https://youtube.com/watch?v=aW2FO176HVU",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/aW2FO176HVU/hq720.jpg"
+            },
+            {
+                "title": "🇱🇰ලංකා බැංකුවෙන් ආයෝජනය කරන මුදලට 50% ක ලාභයක්|අවදානම්ද? -Don't do this",
+                "url": "https://youtube.com/watch?v=lwdlOKHFfSI",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/lwdlOKHFfSI/hq720.jpg"
+            },
+            {
+                "title": "ලංකා බැංකුව විසින් හඳුන්වාදෙන නවතම ආකර්ෂණීය පොළී අනුපාත සහිත ආයෝජනයක හිමිකරුවෙකු වන්න.",
+                "url": "https://youtube.com/watch?v=LgBKkYs1Ur0",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/LgBKkYs1Ur0/hq720.jpg"
+            },
+            {
+                "title": "අමෙරිකාවෙන් ගහන බදු පිට බදු රටවල් 60ක නව ලැයිස්තුවක් - ලංකාවටත් 12.5% ක තීරුබද්දක් | Ada Derana",
+                "url": "https://youtube.com/watch?v=2zUlj84xEWY",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/2zUlj84xEWY/hq720.jpg"
+            },
+            {
+                "title": "බැංකුව ඇතුලෙන්ම උදව් ලැබිලා ද? - කෝටි තුන හමාරේ හොරණ බැංකු කොල්ලය ගැන කණ්ඩායම් පහකින් විමර්ශන",
+                "url": "https://youtube.com/watch?v=k9qLdw_GtyM",
+                "duration": "0:48",
+                "thumbnail": "https://i.ytimg.com/vi/k9qLdw_GtyM/hq720.jpg"
+            },
+            {
+                "title": "FD rate වැඩිවුණු හැටි මෙන්න.",
+                "url": "https://youtube.com/watch?v=47l9_ANBz-g",
+                "duration": "9:25",
+                "thumbnail": "https://i.ytimg.com/vi/47l9_ANBz-g/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ ආයෝජන වර්ධනය කළ හැක්කේ කොහොමද? | Sinhala FinLit Session CAL Sri Lanka",
+                "url": "https://youtube.com/watch?v=aDZiBqqwl44",
+                "duration": "45:42",
+                "thumbnail": "https://i.ytimg.com/vi/aDZiBqqwl44/hq720.jpg"
+            },
+            {
+                "title": "📉 ඔබේ රුපියල් ලක්ෂ 100 දැන් ලක්ෂ 5ක් වෙලාද? සල්ලි දියවෙන \"මහා උගුල\" ගැන හෙළිදරව්ව!",
+                "url": "https://youtube.com/watch?v=YL74Enetrr8",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/YL74Enetrr8/hqdefault.jpg"
+            },
+            {
+                "title": "හදිස්සියකදි ප්‍රයෝජනයට ගැනීමට Emergency fund එකක් හදන ක්‍රමය | Loku Business",
+                "url": "https://youtube.com/watch?v=YhtoEh8Zm8o",
+                "duration": "16:39",
+                "thumbnail": "https://i.ytimg.com/vi/YhtoEh8Zm8o/hq720.jpg"
+            },
+            {
+                "title": "2026 ලංකාවේ හොඳම ආයෝජන මාර්ග 10",
+                "url": "https://youtube.com/watch?v=iOThNCMBn3A",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/iOThNCMBn3A/hq720.jpg"
+            },
+            {
+                "title": "🌍 ශ්‍රී ලංකාවේ පිහිටීම සහ වාණිජය | ලෝක වෙළඳයට ඇති වැදගත්කම",
+                "url": "https://youtube.com/watch?v=4IR1SHWSuck",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/4IR1SHWSuck/hq720.jpg"
+            },
+            {
+                "title": "ලෝක බැංකුවෙන් ශ්‍රී ලංකාව ගැන වාර්තාවක් - ඵලදායි බදු අනුපාතයක් ගැනත් නිර්දේශ",
+                "url": "https://youtube.com/watch?v=H5TH3_Ohjjs",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/H5TH3_Ohjjs/hq720.jpg"
+            },
+            {
+                "title": "බැංකුවේ සල්ලි දාන අය අනිවාර්යයෙන් බලන්න! 💸 \"සාමාන්‍ය පොලියට\" රැවටී ඔබ දුප්පත් වන හැටි මෙන්න. 📉⚠️",
+                "url": "https://youtube.com/watch?v=TZUFevIXEYk",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/TZUFevIXEYk/hqdefault.jpg"
+            },
+            {
+                "title": "2026 දී ගෙවල් හදන්න කලින් මේක අනිවා බලන්න! 🏠 සල්ලි හිරවෙන \"කොන්ක්‍රීට් උගුල\" සහ බදු ප්‍රහාරය මෙන්න.💸",
+                "url": "https://youtube.com/watch?v=yLgTmMEk4rs",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/yLgTmMEk4rs/hqdefault.jpg"
+            },
+            {
+                "title": "Investment? Insurance? Bank account? බබා වෙනුවෙන් අපි කරපු හොදම ආයෝජනය 💰ceylinco life | BOC doller💵💰",
+                "url": "https://youtube.com/watch?v=n9BlPAKcXbo",
+                "duration": "12:17",
+                "thumbnail": "https://i.ytimg.com/vi/n9BlPAKcXbo/hq720.jpg"
+            },
+            {
+                "title": "මොනවාද හොඳ ආයෝජන? කොහොමද ඒවා තෝරා ගන්නේ? : පියවරෙන් පියවර සරලව",
+                "url": "https://youtube.com/watch?v=rIvZKMl3ALU",
+                "duration": "40:53",
+                "thumbnail": "https://i.ytimg.com/vi/rIvZKMl3ALU/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවේ ආර්ථික තත්තවය ගැන ලෝක බැංකුවෙන් කොළ එළියක්  - Hiru News",
+                "url": "https://youtube.com/watch?v=4_hgFU21v9E",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/4_hgFU21v9E/hq720.jpg"
+            },
+            {
+                "title": "අක්මැල්ල ( Acmella Oleracea ) - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=nnYthxmschc",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/nnYthxmschc/hq720.jpg"
+            },
+            {
+                "title": "අත්තික්කා දළු මැල්ලුම්, atticca dalu, aththikka dalu mallum, attikka dalu mallum, cluster fig leaves",
+                "url": "https://youtube.com/watch?v=2ZBAib6iAzg",
+                "duration": "3:46",
+                "thumbnail": "https://i.ytimg.com/vi/2ZBAib6iAzg/hq720.jpg"
+            },
+            {
+                "title": "මිනිස් ආයුෂ වැඩි කරන ශාකයක් සොයාගනී",
+                "url": "https://youtube.com/watch?v=lVWEeA4xSSQ",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/lVWEeA4xSSQ/hqdefault.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "සිංහල ආයුර්වේදයේ බලගතු ඖෂධිය වට්ටෝරු",
+                "url": "https://youtube.com/watch?v=6EgbsN25w7A",
+                "duration": "10:49",
+                "thumbnail": "https://i.ytimg.com/vi/6EgbsN25w7A/hq720.jpg"
+            },
+            {
+                "title": "🔴LIVE | අද දෙරණ 6.55 ප්‍රධාන පුවත් විකාශය - 2026.06.04 | Ada Derana Prime Time News Bulletin",
+                "url": "https://youtube.com/watch?v=LLiADooEJxA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/LLiADooEJxA/hq720.jpg"
+            },
+            {
+                "title": "🔴 LIVE AT SRI LANKA - 06.50 ප්‍රධාන ප්‍රවෘත්ති විකාශය - 2026.06.04",
+                "url": "https://youtube.com/watch?v=0KVzlyLZ9OY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/0KVzlyLZ9OY/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල්, ප්‍රෙෂර්, සහ සීනි වලට හොදම බෙහෙත අපටම ආවේනික වුනු පුංචි ඇට වර්ගයක්!",
+                "url": "https://youtube.com/watch?v=8uEK9-ACe6U",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/8uEK9-ACe6U/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබ මවිතයට පත් කරන සිංහල බෙහෙත් පැලෑටි හා ඒවායේ ගුණ - Amazing herbs and their medicinal properties",
+                "url": "https://youtube.com/watch?v=i896z5EG4KU",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/i896z5EG4KU/hq720.jpg"
+            },
+            {
+                "title": "අංශභාග රෝගයට බෙහෙත් හදන්නෙ මෙහෙමයි",
+                "url": "https://youtube.com/watch?v=FNVbGnhgw_g",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/FNVbGnhgw_g/hqdefault.jpg"
+            },
+            {
+                "title": "ඉඟුරු වල අරුම පුදුම ගුණ 7ක් මෙන්න | 7 Amazing Benefits Of Ginger",
+                "url": "https://youtube.com/watch?v=FPmSMqgXkcQ",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/FPmSMqgXkcQ/hq720.jpg"
+            },
+            {
+                "title": "මානව ප්‍රජනනය | Day 2",
+                "url": "https://youtube.com/watch?v=DDMNjXBOnXs",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/DDMNjXBOnXs/hq720.jpg"
+            },
+            {
+                "title": "විශේෂ හාස්කම් දේවමෙහෙය / SPECIAL HEALING SERVICE 2026.06.04",
+                "url": "https://youtube.com/watch?v=AAAMrPYx1VI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/AAAMrPYx1VI/hq720.jpg"
+            },
+            {
+                "title": "SCIENCE දෙවන වරම-10-11 SUPER REVISION නියත A සාමාර්ථයේ සුපිරි්ම වැඩසටහන...",
+                "url": "https://youtube.com/watch?v=LfBazqLVXrA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/LfBazqLVXrA/hq720.jpg"
+            },
+            {
+                "title": "බැංකු ලොක්කෝ fd හිමියන්ගේ මුදල් ගසා කාලා -මේ ආයතන වලට සල්ලි දාන්න එපා පරිස්සමෙන්",
+                "url": "https://youtube.com/watch?v=Q558KkR6jD4",
+                "duration": "14:09",
+                "thumbnail": "https://i.ytimg.com/vi/Q558KkR6jD4/hq720.jpg"
+            },
+            {
+                "title": "වගා ආයෝජන ගැන මහ බැංකුවෙන් දැවැන්ත අනතුරු හැඟවීමක්.",
+                "url": "https://youtube.com/watch?v=kysS7ZHEaBg",
+                "duration": "7:56",
+                "thumbnail": "https://i.ytimg.com/vi/kysS7ZHEaBg/hq720.jpg"
+            },
+            {
+                "title": "උන්ඩියල් ක්‍රමය ගැන හරිම තොරතුරු | UNDIYAL Explained: Money Transfer in Sri Lanka | How It Works",
+                "url": "https://youtube.com/watch?v=2ZvFgxUq_GE",
+                "duration": "6:32",
+                "thumbnail": "https://i.ytimg.com/vi/2ZvFgxUq_GE/hq720.jpg"
+            },
+            {
+                "title": "ඇප වෙන්න එපා | The Dark Side of Sri Lanka's Loan Guarantors",
+                "url": "https://youtube.com/watch?v=EDm2mjmNgX0",
+                "duration": "8:51",
+                "thumbnail": "https://i.ytimg.com/vi/EDm2mjmNgX0/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Bark"
-  ],
-  "images": [
-    {
-      "image_id": "2093",
-      "caption": "Flower with leaves (PMR)",
-      "url": "https://i.ibb.co/cXT6gwCs/plant00471-02093.jpg"
-    },
-    {
-      "image_id": "2094",
-      "caption": "Twig with flowers and fruits (PMR)",
-      "url": "https://i.ibb.co/xkMFsbL/plant00471-02094.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

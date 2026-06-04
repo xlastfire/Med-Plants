@@ -1,76 +1,495 @@
 {
-  "scientificName": "Sophora tomentosa L.",
-  "synonyms": [],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Necklace Pod",
-    "Yellow Necklacepod",
-    "Yellow Sophora",
-    "Tambalisa"
-  ],
-  "sinhalaName": "Mudu murunga (මූදු මුරුංගා)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Sophora tomentosa L.",
+    "synonyms": [],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Necklace Pod",
+        "Yellow Necklacepod",
+        "Yellow Sophora",
+        "Tambalisa"
+    ],
+    "sinhalaName": "Mudu murunga (මූදු මුරුංගා)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Kidney Diseases",
+            "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "2362",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/XrKpwmjg/plant00665-02362.jpg"
+        },
+        {
+            "image_id": "2363",
+            "caption": "Pods (PMR)",
+            "url": "https://i.ibb.co/HTfrJ2hr/plant00665-02363.jpg"
+        },
+        {
+            "image_id": "2364",
+            "caption": "Compund Leaf- Upper surface (PMR)",
+            "url": "https://i.ibb.co/qLX4R2kb/plant00665-02364.jpg"
+        },
+        {
+            "image_id": "2365",
+            "caption": "Compund Leaf- Lower surface (PMR)",
+            "url": "https://i.ibb.co/S7HtH63N/plant00665-02365.jpg"
+        },
+        {
+            "image_id": "2366",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/qF4rbKvG/plant00665-02366.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මුරුංගා වෑංජනය | Murunga Curry | Moringa Curry By Grandma & Me | Drumstick Tree",
+                "url": "https://youtube.com/watch?v=H2F45vOjj-c",
+                "duration": "5:09",
+                "thumbnail": "https://i.ytimg.com/vi/H2F45vOjj-c/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කෑවම වෙන දේවල්  - The Herb That Kills Cancer And Stops Diabetes",
+                "url": "https://youtube.com/watch?v=v7BFR4JbUVo",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/v7BFR4JbUVo/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කෑවම වෙන දේවල් මෙන්න : Health benefits of Moringa",
+                "url": "https://youtube.com/watch?v=_hv-2G9DR40",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/_hv-2G9DR40/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා අතු සිටුවා දින 60 කට පසුව|Moringa (Oleifera) after 60 days of planting in bags| Grow Moringa",
+                "url": "https://youtube.com/watch?v=SW1pqAvYIew",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/SW1pqAvYIew/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙතුත් හිග එකේ බොන්න මුරුංගා කොළ පානයක්  Drink moringa juice",
+                "url": "https://youtube.com/watch?v=dfHryHzmS2Y",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/dfHryHzmS2Y/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා වලින් ශරීරයට ලැබෙන වාසි 15ක් | Health Benefits Of Moringa | Murunga Kola",
+                "url": "https://youtube.com/watch?v=H6aS7is4USA",
+                "duration": "14:01",
+                "thumbnail": "https://i.ytimg.com/vi/H6aS7is4USA/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ කුඩු දවස් 14ක් බිව්වොත් වෙන විස්මිත දේ! | Benefits of Moringa Powder (Sinhala)",
+                "url": "https://youtube.com/watch?v=n2bpVCsvkfM",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/n2bpVCsvkfM/hq720.jpg"
+            },
+            {
+                "title": "වැටේ මුරුංගා වල විශ්මිත ගුණ - Nutritional Facts And Health Benefits of Eating Moringa",
+                "url": "https://youtube.com/watch?v=sTukAhZJP30",
+                "duration": "3:25",
+                "thumbnail": "https://i.ytimg.com/vi/sTukAhZJP30/hq720.jpg"
+            },
+            {
+                "title": "ගෙදර උයන්න දෙයක් නැති දාට හදන පෝෂණය පිරුණ මුරුංගා කොල කිරි හොදි | drumstick leaves curry | murunga",
+                "url": "https://youtube.com/watch?v=oraluZNLzJw",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/oraluZNLzJw/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම මුරුංගා කොළ යුෂ කෝප්පයක් බිව්වොත් ශරීරයට සිදුවන විශ්මිත දේවල් - Health Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=eJvVlXTMwjI",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/eJvVlXTMwjI/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කිරට හදන රහස | Murunga Recipe | Drumstick Curry",
+                "url": "https://youtube.com/watch?v=WFg-pU3CWyM",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/WFg-pU3CWyM/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ කන්නෙ නැද්ද එහෙනම් මෙහෙම හදලා බලන්න| Tempered murunga leaves| dumstick moringa leaves",
+                "url": "https://youtube.com/watch?v=ptv_meFZTBk",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/ptv_meFZTBk/hq720.jpg"
+            },
+            {
+                "title": "Muringa Leaves Kiri Hodda | මුරුංගා කොළ ගුණ බලන්න කිරි හොද්ද හදන්න",
+                "url": "https://youtube.com/watch?v=jvu0sm5JT0Q",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/jvu0sm5JT0Q/hq720.jpg"
+            },
+            {
+                "title": "Home made Moringa (Drumstick Leaves) Powder and Tea මුරුංගා කොළ කුඩු සහ මුරුංගා තේ ගෙදර හදමු",
+                "url": "https://youtube.com/watch?v=worOlofunMI",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/worOlofunMI/hq720.jpg"
+            },
+            {
+                "title": "ඔයා මෙහෙම නම් මුරුංගා කාලම නැතුව ඇති 😱මුරුංගා තෙම්පරාදුව| Healthy Moringa Recipe | Murunga Curry",
+                "url": "https://youtube.com/watch?v=JinoUgLlm_w",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/JinoUgLlm_w/hq720.jpg"
+            },
+            {
+                "title": "මෙම මුරුංගා ඉඟුරු මිශ්‍ර‍ණය කෑමට ගන්න ඇදහිය නොහැකි ප්‍ර‍තිඵල ලැබේවි - Moringa-ginger mix",
+                "url": "https://youtube.com/watch?v=KLoQ5u8PfAc",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/KLoQ5u8PfAc/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා වෑංජනය | Murunga Curry | Moringa Curry By Grandma & Me | Drumstick Tree",
+                "url": "https://youtube.com/watch?v=cMY4GpYTAMc",
+                "duration": "5:09",
+                "thumbnail": "https://i.ytimg.com/vi/cMY4GpYTAMc/frame0.jpg"
+            },
+            {
+                "title": "මුරුංගා PKM 01 විශේෂය හදුනාගැනීමෙිි ලක්ෂණ සහ අස්වනු කාලය ගැන දැනුවත්වෙමු",
+                "url": "https://youtube.com/watch?v=UKMMP8jK2Ec",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/UKMMP8jK2Ec/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කන්න කලින් ඔබත් බලන්න - Murunga Nodutu Api",
+                "url": "https://youtube.com/watch?v=SSjs_ua9Nd8",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/SSjs_ua9Nd8/hqdefault.jpg"
+            },
+            {
+                "title": "Moringa (මෙන්න ලොව සැබෑ ම සුපිරි ආහාරය – මුරුංගා)",
+                "url": "https://youtube.com/watch?v=inMlix1iTyE",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/inMlix1iTyE/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළවල තිත්ත ඇත්ත | Drumstick leaves & Health  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=aj0a9Jt6_GE",
+                "duration": "10:50",
+                "thumbnail": "https://i.ytimg.com/vi/aj0a9Jt6_GE/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා වල ඔබ නොදන්නා ගුණයන්.",
+                "url": "https://youtube.com/watch?v=AcuptYpploA",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/AcuptYpploA/hq720.jpg"
+            },
+            {
+                "title": "මේ ගුණ මුරුංගා වල තිබෙනවායි ඔබ කවදාවත් අසා තිබුනාද ?",
+                "url": "https://youtube.com/watch?v=0B4WhJU_2ik",
+                "duration": "13:27",
+                "thumbnail": "https://i.ytimg.com/vi/0B4WhJU_2ik/hq720.jpg"
+            },
+            {
+                "title": "දීර්ඝායුෂ ලැබෙන මුරුංගා  ගැන ඔබ නොදත් විශ්මිත ගුණ මෙන්න | Drumstick tree drink | Lokayo with sube  |",
+                "url": "https://youtube.com/watch?v=5OSjEVjEVYM",
+                "duration": "5:54",
+                "thumbnail": "https://i.ytimg.com/vi/5OSjEVjEVYM/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා  මාරාන්තිකයි [Hari Tv ][Lahiru mudalige]",
+                "url": "https://youtube.com/watch?v=FObeIYHmROY",
+                "duration": "7:01",
+                "thumbnail": "https://i.ytimg.com/vi/FObeIYHmROY/hq720.jpg"
+            },
+            {
+                "title": "කිරි කෝප්ප 80ක ගුණ සහිත මුරුංගා | Moringa | Drumstick | Episode 35",
+                "url": "https://youtube.com/watch?v=mfO2y20y44U",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/mfO2y20y44U/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ වල ඇති විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=GSf7uekBCco",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/GSf7uekBCco/hq720.jpg"
+            },
+            {
+                "title": "කිරි කෝප්ප 80ක ගුණ ඇති මුරුංගා යුෂ කෝප්පයක් දිනපතා පානය කිරීමෙන් සිදුවෙන දේ මෙන්න",
+                "url": "https://youtube.com/watch?v=A-OMkkDeBX4",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/A-OMkkDeBX4/hq720.jpg"
+            },
+            {
+                "title": "✔️හැමදාම මුරුංගා කොළ යුෂ කෝප්පයක් බිව්වොත් ශරීරයට සිදුවන විශ්මිත දේ|benefits of murunga|drumstick",
+                "url": "https://youtube.com/watch?v=CMPiM9KNDFA",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/CMPiM9KNDFA/hqdefault.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ නිතර කන අයගේ සිරුරේ වෙනස | Moringa Health Benefits",
+                "url": "https://youtube.com/watch?v=rU5gb2ebNlk",
+                "duration": "5:19",
+                "thumbnail": "https://i.ytimg.com/vi/rU5gb2ebNlk/hqdefault.jpg"
+            },
+            {
+                "title": "Drumstick tree - මාරාන්තික මුරුංගා ඔබත් ආහාරයට ගන්නවාද",
+                "url": "https://youtube.com/watch?v=a5VDj3WxnkQ",
+                "duration": "5:31",
+                "thumbnail": "https://i.ytimg.com/vi/a5VDj3WxnkQ/hqdefault.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ වල විශ්මිත ගුණ | murunga  | Moringa | @osu-1380",
+                "url": "https://youtube.com/watch?v=EL0VCzmetzQ",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/EL0VCzmetzQ/hq720.jpg"
+            },
+            {
+                "title": "විස නසන මුරුංගා   Health benefits of Moringa. Value of drumstik tree",
+                "url": "https://youtube.com/watch?v=yz-gV2VwEcI",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/yz-gV2VwEcI/hq720.jpg"
+            },
+            {
+                "title": "🍃🍀Moringa hair mask/මුරැංගා කොල සත්කාරය/🍃Moringa for hair growth",
+                "url": "https://youtube.com/watch?v=22YNJXh5nTs",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/22YNJXh5nTs/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කනවද ? අනිවාර්යයෙන් මේක නරබන්න | Benefits of muringa  | #murunga",
+                "url": "https://youtube.com/watch?v=WOes4GMFz3Y",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/WOes4GMFz3Y/hqdefault.jpg"
+            },
+            {
+                "title": "මුරුංගා අතුමගින් පහසුවෙන් පැලකර කර ගන්නා ආකාරය|Moringa planting in the ground|How to plant Moringa,",
+                "url": "https://youtube.com/watch?v=q7o-y5qTntI",
+                "duration": "11:32",
+                "thumbnail": "https://i.ytimg.com/vi/q7o-y5qTntI/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා වලින් ශරීරයට ලැබෙන වාසි 15ක් | Health Benefits Of Moringa | Murunga Kola",
+                "url": "https://youtube.com/watch?v=jt8GcpvY5F8",
+                "duration": "14:01",
+                "thumbnail": "https://i.ytimg.com/vi/jt8GcpvY5F8/frame0.jpg"
+            },
+            {
+                "title": "මුරුංගා වල අඩංගු  විශ්මිත පෝෂණ හා ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=8AqPv5cHnoc",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/8AqPv5cHnoc/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ මෙච්චර ගුණ ද? 😮| Nutritional Values of Moringa Powder | Miracle Tree #moringa #nature",
+                "url": "https://youtube.com/watch?v=vIAk9RQMwBg",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/vIAk9RQMwBg/hq720.jpg"
+            },
+            {
+                "title": "කරල් මුරුංගා ශාකයේ ඔබ නොදත් විශ්මිත  ගුණ**",
+                "url": "https://youtube.com/watch?v=p6WVcJ_10ig",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/p6WVcJ_10ig/hqdefault.jpg"
+            },
+            {
+                "title": "මුරුංගා ශාකයේ ඖෂධීය රහස් |  Moringa oleifera | Moringa |Health Benefits Of Eating Moringa🌿",
+                "url": "https://youtube.com/watch?v=VcIMVO_NTl4",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/VcIMVO_NTl4/hqdefault.jpg"
+            },
+            {
+                "title": "moringa drinks.. ඖෂධීය ගුණ පිරි මුරුංගා කොළ පානය..",
+                "url": "https://youtube.com/watch?v=C0l-pMoBEWw",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/C0l-pMoBEWw/hq720.jpg"
+            },
+            {
+                "title": "Benifits of moringa || මුරුංගා වල ගුණ || aurvedic || traditional medicine || Drumstick",
+                "url": "https://youtube.com/watch?v=Vj51okGxHJs",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/Vj51okGxHJs/hq720.jpg"
+            },
+            {
+                "title": "benefits of the drumstick tree | Moringa | මුරුංගා වල ගුණ | big focus | ape derana TV | sinhala",
+                "url": "https://youtube.com/watch?v=Q2LUrhvf0Y0",
+                "duration": "4:16",
+                "thumbnail": "https://i.ytimg.com/vi/Q2LUrhvf0Y0/hq720.jpg"
+            },
+            {
+                "title": "murungha powder/මුරුංගා කොළ වල ඇති ඔබ නොදත් ගුණ ඔබ ඉදිරියට",
+                "url": "https://youtube.com/watch?v=b-rhc-vYyVo",
+                "duration": "3:33",
+                "thumbnail": "https://i.ytimg.com/vi/b-rhc-vYyVo/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා  (ප්‍රබල වාජීකරණ ඔසුව)තවත් ගුණ රැසක්(moringa) 😲",
+                "url": "https://youtube.com/watch?v=OShddKuBR0U",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/OShddKuBR0U/hqdefault.jpg"
+            },
+            {
+                "title": "moringa for health benifits  මෝරින්ගාගේ ආරෝග්‍ය ගුණ",
+                "url": "https://youtube.com/watch?v=MzivuW7vMBU",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/MzivuW7vMBU/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා වල විශ්මිත ගුණ | කොලෙස්ටරෝල් අඩු කරයි | Amazing properties of moringa leaves | murunga kola",
+                "url": "https://youtube.com/watch?v=v2H-b5moPGA",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/v2H-b5moPGA/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා වල අඩංගු  විශ්මිත පෝෂණ හා ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=nSkxrhcHO6M",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/nSkxrhcHO6M/frame0.jpg"
+            },
+            {
+                "title": "දන්න මුරුංගා ගැන ‌නොදන්න විස්තරය -  Health Benefits of  MORINGA |  කෑම මේසය - Dining Table Recipes",
+                "url": "https://youtube.com/watch?v=Wui5NCirM1g",
+                "duration": "11:09",
+                "thumbnail": "https://i.ytimg.com/vi/Wui5NCirM1g/hqdefault.jpg"
+            },
+            {
+                "title": "The Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=OhD9C89hrqk",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/OhD9C89hrqk/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ යුෂ කෝප්පයක් බිව්වොත් ශරීරයට සිදුවන විශ්මිත දේවල් - Health Benefits of Moringa Juice",
+                "url": "https://youtube.com/watch?v=NQWpM4i2H3E",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/NQWpM4i2H3E/hq720.jpg"
+            },
+            {
+                "title": "12 Moringa Seed Benefits You'll Never Hear from Your Doctor (But You Should Know)",
+                "url": "https://youtube.com/watch?v=r-fyOSx6Zf0",
+                "duration": "18:29",
+                "thumbnail": "https://i.ytimg.com/vi/r-fyOSx6Zf0/hq720.jpg"
+            },
+            {
+                "title": "MORINGA BENEFITS - 16 Amazing Health Benefits of Moringa You Should Know!",
+                "url": "https://youtube.com/watch?v=Z4dwVTLmGMY",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/Z4dwVTLmGMY/hq720.jpg"
+            },
+            {
+                "title": "ලක්ෂ ගනන් දීල බෙහෙත් ගන්න ඕන නෑ.. මුරුංගා කොල ටිකක් මේ විදියට කන්න | Moringa Leaves By Nutri Info",
+                "url": "https://youtube.com/watch?v=xv9PriJzgMY",
+                "duration": "11:39",
+                "thumbnail": "https://i.ytimg.com/vi/xv9PriJzgMY/hq720.jpg"
+            },
+            {
+                "title": "TOO MANY MORINGA HEALTH BENEFITS FOR YOU TO SEE - Scientifically Based Moringa  Health Benefits",
+                "url": "https://youtube.com/watch?v=8odQY7GVB9k",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/8odQY7GVB9k/hq720.jpg"
+            },
+            {
+                "title": "✅ Moringa Leaves Benefits: What Happens If You Take Them Daily?",
+                "url": "https://youtube.com/watch?v=wzjPc5JE6ZI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/wzjPc5JE6ZI/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health Benefits Of Moringa (Drumstick Tree) |Eat Moringa Everyday To Get These Benefits",
+                "url": "https://youtube.com/watch?v=i4R-V2e6dbA",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/i4R-V2e6dbA/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ වල විශ්මිත ගුණ - Amazing properties of muranga leaves",
+                "url": "https://youtube.com/watch?v=dsRsFh9erP0",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/dsRsFh9erP0/hq720.jpg"
+            },
+            {
+                "title": "murunga  | මුරුංගා  | මුරුංගා 2022 |murunga 2022  |  විශ්මිත ගුණ ඇති මුරුංගා 2022 | hela osu 2022:",
+                "url": "https://youtube.com/watch?v=ssYZ5Xu29Qs",
+                "duration": "6:39",
+                "thumbnail": "https://i.ytimg.com/vi/ssYZ5Xu29Qs/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ වල විශ්මිත ගුණ | මුරුංගා කොළ | Moringa Leaves | Drumstick Leaves",
+                "url": "https://youtube.com/watch?v=C4NLDaCB5VM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/C4NLDaCB5VM/hqdefault.jpg"
+            },
+            {
+                "title": "murunga # ව්ෂ්මිත ගුණ දෙන කරල් මුරුංගා කොල # hela osu # hela wedakame guna dena murunga # siw helaya",
+                "url": "https://youtube.com/watch?v=8_zIymaOb3I",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/8_zIymaOb3I/hq720.jpg"
+            },
+            {
+                "title": "Miraculous Moringa Tree විශ්මිත ගුණ ඇති මුරුංගා #health #nature #medicine #trending #sarath_perera",
+                "url": "https://youtube.com/watch?v=wfXmYJONKMU",
+                "duration": "6:52",
+                "thumbnail": "https://i.ytimg.com/vi/wfXmYJONKMU/hqdefault.jpg"
+            },
+            {
+                "title": "කිරි කෝප්ප 80ක ගුණ ඇති මුරුංගා යුෂ කෝප්පයක් දිනපතා පානය කිරීමෙන් සිදුවෙන දේ මෙන්න | ඔබ පුදුම වේවි..!",
+                "url": "https://youtube.com/watch?v=TeHXB8r9pJQ",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/TeHXB8r9pJQ/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ වල ඇති විශ්මිත ගුණ #  Moringa leaves",
+                "url": "https://youtube.com/watch?v=DbrfhpKglKk",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/DbrfhpKglKk/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා ශාකයේ ඖෂධීය රහස් |  Moringa oleifera | Moringa |Health Benefits Of Eating Moringa🌿",
+                "url": "https://youtube.com/watch?v=rWY3APijhjE",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/rWY3APijhjE/frame0.jpg"
+            },
+            {
+                "title": "සම පැහැපත් කර වයසට යෑම පාලනය කරන මුරුංගා සත්කාරය | moringa for skin whitening  | moringa face mask",
+                "url": "https://youtube.com/watch?v=LJmocED7HnA",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/LJmocED7HnA/hq720.jpg"
+            },
+            {
+                "title": "Drumstick cultivation in pots  මුරුංගා වගාව බදුන්ගතව murunga wagawa badungathawa මුරුන්ගා ගෙවතුවගාව",
+                "url": "https://youtube.com/watch?v=w-74DpibTvw",
+                "duration": "5:27",
+                "thumbnail": "https://i.ytimg.com/vi/w-74DpibTvw/hq720.jpg"
+            },
+            {
+                "title": "කැල්සියම් , විටමින් සී , පොටෑසියම් සියල්ල අඩංගු මුරුංගා ශාකය | Moringa oleifera Lam | Murunga",
+                "url": "https://youtube.com/watch?v=C_fD-yfKFCk",
+                "duration": "8:47",
+                "thumbnail": "https://i.ytimg.com/vi/C_fD-yfKFCk/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Kidney Diseases",
-      "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "2362",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/XrKpwmjg/plant00665-02362.jpg"
-    },
-    {
-      "image_id": "2363",
-      "caption": "Pods (PMR)",
-      "url": "https://i.ibb.co/HTfrJ2hr/plant00665-02363.jpg"
-    },
-    {
-      "image_id": "2364",
-      "caption": "Compund Leaf- Upper surface (PMR)",
-      "url": "https://i.ibb.co/qLX4R2kb/plant00665-02364.jpg"
-    },
-    {
-      "image_id": "2365",
-      "caption": "Compund Leaf- Lower surface (PMR)",
-      "url": "https://i.ibb.co/S7HtH63N/plant00665-02365.jpg"
-    },
-    {
-      "image_id": "2366",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/qF4rbKvG/plant00665-02366.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,182 +1,319 @@
 {
-  "scientificName": "Jatropha glandulifera Roxb.",
-  "synonyms": [
-    "Adenoropium roxburghii Kostel."
-  ],
-  "familyName": "EUPHORBIACEAE",
-  "englishNames": [
-    "Purging Nut",
-    "Glandular Jatropha"
-  ],
-  "sinhalaName": "Rath erandu (රත් එරඬු)",
-  "description": "මීටරයක් පමණ උසැති පඳුරක් හෝ දැවමය පැළෑටියකි. පත්‍ර තලය (Leaf lamina) (3-)6.5-12.5 x (3.5-)10-15 සෙ.මී. වන අතර, එය ගැඹුරින් අත්ලක හැඩයට (palmately) 3-5 දක්වා විහිදුණු පත්‍ර ඛණ්ඩවලින් යුක්ත වේ. උප පත්‍ර (Stipules) 2.5 සෙ.මී. දක්වා දිගු වේ. පුෂ්ප මංජරි (Inflorescences) 6.5-17.5 සෙ.මී. දිගු වේ; පුෂ්ප දණ්ඩ (peduncle) 4-13 සෙ.මී. දිගු වේ; පෙති කහ පැහැතිය. කරල් (Capsule) 6-13 x 5.5-11 මි.මී. වේ. බීජ 7 x 5 මි.මී. ප්‍රමාණයේ වන අතර, ඒවා තලා දැමූ (compressed) ස්වභාවයක් ගන්නා අතර මතුපිට සිනිඳුය.",
-  "treatments": [
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Jatropha glandulifera Roxb.",
+    "synonyms": [
+        "Adenoropium roxburghii Kostel."
+    ],
+    "familyName": "EUPHORBIACEAE",
+    "englishNames": [
+        "Purging Nut",
+        "Glandular Jatropha"
+    ],
+    "sinhalaName": "Rath erandu (රත් එරඬු)",
+    "description": "මීටරයක් පමණ උසැති පඳුරක් හෝ දැවමය පැළෑටියකි. පත්‍ර තලය (Leaf lamina) (3-)6.5-12.5 x (3.5-)10-15 සෙ.මී. වන අතර, එය ගැඹුරින් අත්ලක හැඩයට (palmately) 3-5 දක්වා විහිදුණු පත්‍ර ඛණ්ඩවලින් යුක්ත වේ. උප පත්‍ර (Stipules) 2.5 සෙ.මී. දක්වා දිගු වේ. පුෂ්ප මංජරි (Inflorescences) 6.5-17.5 සෙ.මී. දිගු වේ; පුෂ්ප දණ්ඩ (peduncle) 4-13 සෙ.මී. දිගු වේ; පෙති කහ පැහැතිය. කරල් (Capsule) 6-13 x 5.5-11 මි.මී. වේ. බීජ 7 x 5 මි.මී. ප්‍රමාණයේ වන අතර, ඒවා තලා දැමූ (compressed) ස්වභාවයක් ගන්නා අතර මතුපිට සිනිඳුය.",
+    "treatments": [
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Lymphadenopathy",
+            "sinhala": "ග්‍රන්ථි ඉදිමීම (ගණ්ඩමාලා ආදී රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Sinusitis",
+            "sinhala": "සයිනස් ප්‍රදාහය (පීනස)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ringworm",
+            "sinhala": "දද (ඇළුම් හම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Paralysis",
+            "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Anemia",
+            "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Typhoid Fever",
+            "sinhala": "ටයිපොයිඩ් (සන්නිපාත උණ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Indigestion",
+            "sinhala": "අජීර්ණය සහ මන්දාග්නිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds",
+        "Stem",
+        "Roots"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Castor oil Plant - Best Indigenous Herbal for many ailments | Ricinus communis",
+                "url": "https://youtube.com/watch?v=0TEK4etWbXo",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/0TEK4etWbXo/hq720.jpg"
+            },
+            {
+                "title": "තෙල් එඩරු , රතු එඩරු ,සහ සුදු  එඩරු ,,,,වැට එඩරු ,කිරි එඩරු  ශාක",
+                "url": "https://youtube.com/watch?v=UJHET_2jSU0",
+                "duration": "2:44",
+                "thumbnail": "https://i.ytimg.com/vi/UJHET_2jSU0/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙත් එඬරු ශාකය | castor bean | beheth endaru",
+                "url": "https://youtube.com/watch?v=tR59-UZ7BFs",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/tR59-UZ7BFs/hq720.jpg"
+            },
+            {
+                "title": "එඩරු තෙල් භාවිතා කරන විට කරන ❌✋වැරදි 5ක් 😱 |🍃Castor Oil Hair Growth Mistakes ❓😧😢| #castoroilforhair",
+                "url": "https://youtube.com/watch?v=aUFBesLIK_Y",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/aUFBesLIK_Y/hq720.jpg"
+            },
+            {
+                "title": "එඬරු වලට කරන්න පුලුවන් දේවල් | තෙල් එඬරු | බෙහෙත් එඬරු | castor | Ricinus communis l.",
+                "url": "https://youtube.com/watch?v=ewRV4sw15Uo",
+                "duration": "13:13",
+                "thumbnail": "https://i.ytimg.com/vi/ewRV4sw15Uo/hq720.jpg"
+            },
+            {
+                "title": "එඬරු ශාකයේ ඇති විශ්මිත රහස් ayurvedic education Castor bean plant hela osu warga",
+                "url": "https://youtube.com/watch?v=R3ciLcw503U",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/R3ciLcw503U/hq720.jpg"
+            },
+            {
+                "title": "එඩරු තෙල් මගින් ලබා ගත හැකි විශ්මිත සෞඛ්‍ය වාසි 10ක් - 10 Health Benefits Of Castor Oil",
+                "url": "https://youtube.com/watch?v=iXM1yFnmyBU",
+                "duration": "10:51",
+                "thumbnail": "https://i.ytimg.com/vi/iXM1yFnmyBU/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට සුව  ගෙන දෙන එඬරු වල ගුණ",
+                "url": "https://youtube.com/watch?v=pZPOqD6V8E4",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/pZPOqD6V8E4/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන බෙහෙත් එඬරු",
+                "url": "https://youtube.com/watch?v=FIhNJ9X0TVw",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/FIhNJ9X0TVw/hq720.jpg"
+            },
+            {
+                "title": "ඔබ මෙතෙක් නොදැන සිටි එඩරු තෙල් මගින් ලැබෙන විශ්මිත සෞඛ්‍ය වාසි 10ක් - Health Benefits of Castor oil",
+                "url": "https://youtube.com/watch?v=50gYGe13HnQ",
+                "duration": "11:51",
+                "thumbnail": "https://i.ytimg.com/vi/50gYGe13HnQ/hq720.jpg"
+            },
+            {
+                "title": "Health And Beauty Benefits Of Castor Oil-අදටත් රහසක් වූ එඬරු වල ඔබ නොදන්නා ගුණ",
+                "url": "https://youtube.com/watch?v=7jJM934-jrE",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/7jJM934-jrE/hq720.jpg"
+            },
+            {
+                "title": "අදටත් රහසක් වූ එඬරු වල ඔබ නොදන්නා ගුණ  - Health And Beauty Benefits Of Castor Oil",
+                "url": "https://youtube.com/watch?v=eopc2vBoK2c",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/eopc2vBoK2c/hq720.jpg"
+            },
+            {
+                "title": "Castor Oil | එඩරු තෙල් වලින් ශරීරයට ලැබෙන විශ්මිත ගුණ | By SunexDev",
+                "url": "https://youtube.com/watch?v=O_nAcs5zBV4",
+                "duration": "5:37",
+                "thumbnail": "https://i.ytimg.com/vi/O_nAcs5zBV4/hq720.jpg"
+            },
+            {
+                "title": "එඩරු තෙල් මේ ක්‍රම 08ට භාවිතා කලොත් කොණ්ඩේ දික් වෙලා සම පැහැපත් වෙනවා | Castor Oil for Hair Growth",
+                "url": "https://youtube.com/watch?v=r8Q62xMYS3w",
+                "duration": "9:04",
+                "thumbnail": "https://i.ytimg.com/vi/r8Q62xMYS3w/hq720.jpg"
+            },
+            {
+                "title": "හිසකෙස් වැඩීමට එඩරු තෙල් සත්කාරයක් || castor oil treatment for hair growth",
+                "url": "https://youtube.com/watch?v=fyFZ7toyV7U",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/fyFZ7toyV7U/hqdefault.jpg"
+            },
+            {
+                "title": "විශ්මිත එඩරු තෙල් සත්කාර / Amazing castor Oil treatment",
+                "url": "https://youtube.com/watch?v=EJTxIPuSyEk",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/EJTxIPuSyEk/hq720.jpg"
+            },
+            {
+                "title": "තෙල් එඩරු Thel edaru",
+                "url": "https://youtube.com/watch?v=3YAVtAQyrGU",
+                "duration": "0:23",
+                "thumbnail": "https://i.ytimg.com/vi/3YAVtAQyrGU/hq720_2.jpg"
+            },
+            {
+                "title": "සිංහල අත් බෙහෙත්-සුදු එඩරු",
+                "url": "https://youtube.com/watch?v=FbCPWrMx-KA",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/FbCPWrMx-KA/hq720.jpg"
+            },
+            {
+                "title": "රැවටෙන්නෙපා 😋 රබර් ඇටේට වඩා පොඩියි මේ එඬරු ඇට",
+                "url": "https://youtube.com/watch?v=tkgGLPRxZWA",
+                "duration": "0:20",
+                "thumbnail": "https://i.ytimg.com/vi/tkgGLPRxZWA/hq720_2.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Amazing Benefits of castor oil.",
+                "url": "https://youtube.com/watch?v=7CFCLVciVFo",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/7CFCLVciVFo/hq720.jpg"
+            },
+            {
+                "title": "තැලීම් ඉදිමීම් අඩුකරන,බඩ වේලීම, සමේ රෝග මෙන්ම අතරයිටිස් වලටද ඉතාමත් ගුණ එඬරු තෙල් වල විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=ESvroBFFfKc",
+                "duration": "15:26",
+                "thumbnail": "https://i.ytimg.com/vi/ESvroBFFfKc/hq720.jpg"
+            },
+            {
+                "title": "මාරාන්තික වැට එඬරු දිව්‍ය ඖෂධයක් | poisonous plant Benfleet ✅🌿",
+                "url": "https://youtube.com/watch?v=0MKogEl2WAE",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/0MKogEl2WAE/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Lymphadenopathy",
-      "sinhala": "ග්‍රන්ථි ඉදිමීම (ගණ්ඩමාලා ආදී රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Sinusitis",
-      "sinhala": "සයිනස් ප්‍රදාහය (පීනස)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ringworm",
-      "sinhala": "දද (ඇළුම් හම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Paralysis",
-      "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Anemia",
-      "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Typhoid Fever",
-      "sinhala": "ටයිපොයිඩ් (සන්නිපාත උණ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Indigestion",
-      "sinhala": "අජීර්ණය සහ මන්දාග්නිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds",
-    "Stem",
-    "Roots"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,95 +1,628 @@
 {
-  "scientificName": "Laggera alata (DC.) Sch.Bip. ex Oliv.",
-  "synonyms": [
-    "Blumea alata DC.",
-    "Blumea salviifolia DC.",
-    "Conyza alata Roxb.",
-    "Erigeron alatus D.Don",
-    "Inula exsiccata H.Lév.",
-    "Laggera angustifolia Hayata",
-    "Vernonia alata B.Heyne ex DC."
-  ],
-  "familyName": "ASTERACEAE",
-  "englishNames": [
-    "Winged Stem Laggera"
-  ],
-  "sinhalaName": "Le verella (ලේවැරැල්ල)",
-  "description": "වාර්ෂික පැළෑටි, උස මීටර් 0.5-1.5 ක් වේ, තැලුණු විට සුවඳවත් වේ, රෝම සහිත (hairy) වේ. කඳ පත්‍ර පාදයන් පහළට විහිදීම නිසා (decurrent) පියාපත් 4 කින් යුක්ත වේ. පත්‍ර සෙන්ටිමීටර 2-10 x 0.5-2 ක් වේ, වෘන්ත රහිත (sessile) සහ පාදයේදී පහළට විහිදී පවතී (decurrent). පුෂ්ප මංජරිය (capitula) පහළට නැඹුරු වී ඇත, බහුල වේ. මල් ලා දම් පැහැතිය. පැපස් (pappus) සුදු පැහැතිය, මිලිමීටර 6-7 ක් දිගය.",
-  "treatments": [
-    {
-      "treatment": "Carbuncles and Furuncles",
-      "sinhala": "සැරව ගෙඩි සහ රාජ ගෙඩි හටගැනීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Laggera alata (DC.) Sch.Bip. ex Oliv.",
+    "synonyms": [
+        "Blumea alata DC.",
+        "Blumea salviifolia DC.",
+        "Conyza alata Roxb.",
+        "Erigeron alatus D.Don",
+        "Inula exsiccata H.Lév.",
+        "Laggera angustifolia Hayata",
+        "Vernonia alata B.Heyne ex DC."
+    ],
+    "familyName": "ASTERACEAE",
+    "englishNames": [
+        "Winged Stem Laggera"
+    ],
+    "sinhalaName": "Le verella (ලේවැරැල්ල)",
+    "description": "වාර්ෂික පැළෑටි, උස මීටර් 0.5-1.5 ක් වේ, තැලුණු විට සුවඳවත් වේ, රෝම සහිත (hairy) වේ. කඳ පත්‍ර පාදයන් පහළට විහිදීම නිසා (decurrent) පියාපත් 4 කින් යුක්ත වේ. පත්‍ර සෙන්ටිමීටර 2-10 x 0.5-2 ක් වේ, වෘන්ත රහිත (sessile) සහ පාදයේදී පහළට විහිදී පවතී (decurrent). පුෂ්ප මංජරිය (capitula) පහළට නැඹුරු වී ඇත, බහුල වේ. මල් ලා දම් පැහැතිය. පැපස් (pappus) සුදු පැහැතිය, මිලිමීටර 6-7 ක් දිගය.",
+    "treatments": [
+        {
+            "treatment": "Carbuncles and Furuncles",
+            "sinhala": "සැරව ගෙඩි සහ රාජ ගෙඩි හටගැනීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burns and Scalds",
+            "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatic Arthralgia",
+            "sinhala": "වාත රෝග නිසා ඇතිවන හන්දිපත් රුදාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eczema",
+            "sinhala": "දද (එක්සීමා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nephritis",
+            "sinhala": "වකුගඩු ප්‍රදාහය / වකුගඩු ඉදිමීම (වෘක්ක ශෝථය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Amenorrhea",
+            "sinhala": "ඔසප් වීම නතර වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "සර්ප විසට,  සුළු කැපුම් වලට නැතුවම බැරි විස්මිත ලේවැරැල්ල | lewaralla | CM Plants Store Sri Lanka",
+                "url": "https://youtube.com/watch?v=Y5Jg_KKiGvY",
+                "duration": "9:12",
+                "thumbnail": "https://i.ytimg.com/vi/Y5Jg_KKiGvY/hq720.jpg"
+            },
+            {
+                "title": "Herbs 🌿 of medicinal value // #Laggera_alata",
+                "url": "https://youtube.com/watch?v=dAk1jHjrYbQ",
+                "duration": "1:17",
+                "thumbnail": "https://i.ytimg.com/vi/dAk1jHjrYbQ/hq720.jpg"
+            },
+            {
+                "title": "Bara Koku Maluwa  |  බර කොකු මාලුව",
+                "url": "https://youtube.com/watch?v=oUVK9_yt3DA",
+                "duration": "5:37",
+                "thumbnail": "https://i.ytimg.com/vi/oUVK9_yt3DA/hq720.jpg"
+            },
+            {
+                "title": "කැරන් කොකු මාලුව - Episode 367 - Karan Koku Curry",
+                "url": "https://youtube.com/watch?v=Cwe-gPIoFAE",
+                "duration": "10:57",
+                "thumbnail": "https://i.ytimg.com/vi/Cwe-gPIoFAE/hqdefault.jpg"
+            },
+            {
+                "title": "මම ආවෝ 54 - 89 K | Freefire Live #freefire",
+                "url": "https://youtube.com/watch?v=gPOt2LTsH4k",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/gPOt2LTsH4k/hq720.jpg"
+            },
+            {
+                "title": "Two Wild Elephants and Calf Trapped in Wellawaya",
+                "url": "https://youtube.com/watch?v=iAr_03UCl-o",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/iAr_03UCl-o/hq720.jpg"
+            },
+            {
+                "title": "මිහින්තලේ මිනිස්සු හපාකන රිලව් රංචුවක් ගැන අනාවරණයක්",
+                "url": "https://youtube.com/watch?v=WIiVEGeXxDo",
+                "duration": "9:36",
+                "thumbnail": "https://i.ytimg.com/vi/WIiVEGeXxDo/hq720.jpg"
+            },
+            {
+                "title": "සුපිරිම දන්සල වැල්ලවායෙන් | ඇතිලිවැව වළං හදන මිනිස්සු එකතුවෙලා ලක්ෂ ගාණක් වටිනා වළං තොගයක් පිනට දෙයි",
+                "url": "https://youtube.com/watch?v=Y3u96VgTmyA",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/Y3u96VgTmyA/hq720.jpg"
+            },
+            {
+                "title": "ලක්මාලි ආයෙත් පචවෙයි, ටිල්වින් නිසා අන්තඅසරණවෙයි....",
+                "url": "https://youtube.com/watch?v=fMyHp6bAedU",
+                "duration": "15:36",
+                "thumbnail": "https://i.ytimg.com/vi/fMyHp6bAedU/hq720.jpg"
+            },
+            {
+                "title": "මුහුද ඉතා රළුයි... විමසිලිමත් වන්නැයි ධීවරයින්ට උපදෙස්.",
+                "url": "https://youtube.com/watch?v=dRNzwHKLTMc",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/dRNzwHKLTMc/hq720.jpg"
+            },
+            {
+                "title": "රාළලා පස්දෙනා කවුද? අප නොදන්නා හෙළ ඉතිහාසයේ සැඟවුණු රහස - මහාචාර්ය සමන් වීරක්කොඩි",
+                "url": "https://youtube.com/watch?v=ENLri8fN_Js",
+                "duration": "13:44",
+                "thumbnail": "https://i.ytimg.com/vi/ENLri8fN_Js/hqdefault.jpg"
+            },
+            {
+                "title": "බොරැල්ල තොරණත් සම්බදු තෙමගුලට සූදානම් වන හැටි",
+                "url": "https://youtube.com/watch?v=54Z2UpGj2A8",
+                "duration": "1:34",
+                "thumbnail": "https://i.ytimg.com/vi/54Z2UpGj2A8/hq720.jpg"
+            },
+            {
+                "title": "අවුරුදු හතේ අටේ ළමයින්ව ම|රලා වැසිකිලි වලවල් වලට දැම්මා..! | Webnews.lk",
+                "url": "https://youtube.com/watch?v=jgg__IzZR7s",
+                "duration": "0:57",
+                "thumbnail": "https://i.ytimg.com/vi/jgg__IzZR7s/hq720.jpg"
+            },
+            {
+                "title": "රට ඉවරෝ මහ බැංකුව කඩා වැටෙනවෝ කියපු වැලලෙන්න හදපු විපක්ෂයට මෙන්න උත්තර",
+                "url": "https://youtube.com/watch?v=QWQfSh2w7VE",
+                "duration": "15:06",
+                "thumbnail": "https://i.ytimg.com/vi/QWQfSh2w7VE/hq720.jpg"
+            },
+            {
+                "title": "ආයෙත් රණවිරු කලබලයක් !! සත්තු, බල්ලෝ වගේ අපිව දැන් එළියට යන්න කියලා එළියට දැම්මා",
+                "url": "https://youtube.com/watch?v=3B0oFa-e_-w",
+                "duration": "5:13",
+                "thumbnail": "https://i.ytimg.com/vi/3B0oFa-e_-w/hq720.jpg"
+            },
+            {
+                "title": "එහෙම කියන්න බෑ වුණත් ටිල්වින් කිවුවේ ඇත්ත කතාව.ටිල්වින් ලාල් බොරු කියන්නෑ.",
+                "url": "https://youtube.com/watch?v=B8dvF7-TjOc",
+                "duration": "8:54",
+                "thumbnail": "https://i.ytimg.com/vi/B8dvF7-TjOc/hq720.jpg"
+            },
+            {
+                "title": "ලුණුවිල වල විශ්මිත ගුණ | Sakalawaga",
+                "url": "https://youtube.com/watch?v=MK4tEU-t-Os",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/MK4tEU-t-Os/hqdefault.jpg"
+            },
+            {
+                "title": "ලොවි කන එක හැමෝටම ගුණ නැහැ | Palathuru ware | Haritha TV | Lovi",
+                "url": "https://youtube.com/watch?v=rnp7y40QBLI",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/rnp7y40QBLI/hq720.jpg"
+            },
+            {
+                "title": "රතු ළූණු වල ඇති කවුරුත් නොදන්න විශ්මිත ගුණ - Amazing quality of red onion for a healthy life",
+                "url": "https://youtube.com/watch?v=wD24UUt56Ic",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/wD24UUt56Ic/hq720.jpg"
+            },
+            {
+                "title": "ගැබිනි මවුවරුන්ට ඉතාමත් ගුණ දායක වෙරළු | weralu | Elaeocarpus serratus",
+                "url": "https://youtube.com/watch?v=cboxlyPwr6E",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/cboxlyPwr6E/hqdefault.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ලේ වඩවන ආහාර 20 ක් | රක්තහීනතාවය වලක්වන්න කන්න | Iron Rich Foods",
+                "url": "https://youtube.com/watch?v=Iwh34rqk7iA",
+                "duration": "16:24",
+                "thumbnail": "https://i.ytimg.com/vi/Iwh34rqk7iA/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "රස ඖෂධ භාවිතයේ ගුණ#ayurveda #Education",
+                "url": "https://youtube.com/watch?v=PtdQlHznJq0",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/PtdQlHznJq0/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට සුවය දෙන නෙල්ලි | Nelli Wala Guna | Health benefits of Amla",
+                "url": "https://youtube.com/watch?v=ESmHMHBhp2Y",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/ESmHMHBhp2Y/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වල විශ්මිත ගුණ - Health Vedeo",
+                "url": "https://youtube.com/watch?v=HGhcF-itmLI",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/HGhcF-itmLI/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙත් නෙල්ලී වල විශ්මිත ගුණය - Amazing quality of Nellie",
+                "url": "https://youtube.com/watch?v=RNnVQwOwkWQ",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/RNnVQwOwkWQ/hq720.jpg"
+            },
+            {
+                "title": "රක්තහීනතාවයට ගුණ දෙන වටිනා මැල්ලුම් සහ කරි වර්ග | best food for anemia | le wadana ahara | moringa",
+                "url": "https://youtube.com/watch?v=q3A6-LRk2rA",
+                "duration": "18:00",
+                "thumbnail": "https://i.ytimg.com/vi/q3A6-LRk2rA/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "හෙණයක් නැතුව ඇගේ ලේ වඩවන ලංකාවේ සුපිරිම ආහාර 20 මෙන්න! ඔබත් අදම කන්න",
+                "url": "https://youtube.com/watch?v=A1zHQz1RKIs",
+                "duration": "8:51",
+                "thumbnail": "https://i.ytimg.com/vi/A1zHQz1RKIs/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ කරවිලවල ඇත්ත නැත්ත | Bitter Melon For Blood Sugar By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0SdTXNz-LDE",
+                "duration": "12:53",
+                "thumbnail": "https://i.ytimg.com/vi/0SdTXNz-LDE/hq720.jpg"
+            },
+            {
+                "title": "උදේට පාන් එපා මෙන්න රක්තහීනතාවයට ගුණ ලේ වඩවන පානයන් 2ක් | මේක බිව්වම කන්න ඕනත් නෑ | le wadawana kama",
+                "url": "https://youtube.com/watch?v=cl3XLpXplVQ",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/cl3XLpXplVQ/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "කෙහෙළිය ගෙදර යැව්වත් තවමත් ඉටු නොවූ දෙයක් වෛද්‍ය චමල් මතක් කරයි",
+                "url": "https://youtube.com/watch?v=BauFF14Vo6Y",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/BauFF14Vo6Y/hq720.jpg"
+            },
+            {
+                "title": "විෂබීජ දැන් හැමතැනම, මේ වැරදිනම් කරන්න එපා | Sinhala | Dr. Iranga | SLDOC",
+                "url": "https://youtube.com/watch?v=C736szj7Yc8",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/C736szj7Yc8/hq720_2.jpg"
+            },
+            {
+                "title": "තෙත් කලාපීය කැලේ සැඟවුණු, අපූරු ඔසුව \"කුකුරුමාන්\"! 🌿🔴#Kukuruman #SLRavee #Ayurveda",
+                "url": "https://youtube.com/watch?v=3OSrLSyi3ng",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/3OSrLSyi3ng/hq720.jpg"
+            },
+            {
+                "title": "උයනකොට විටමින් වැඩිවෙන එළවලු 10 ක්!",
+                "url": "https://youtube.com/watch?v=L9CaqwUOFHY",
+                "duration": "9:39",
+                "thumbnail": "https://i.ytimg.com/vi/L9CaqwUOFHY/hq720.jpg"
+            },
+            {
+                "title": "වැඩි අවධානයක් යොමුකළ යුතු වෛරස් රෝග 3 ක් ගැන!! සෞඛ්‍ය අංශ අවධාරණයෙන් කිව්ව කථාව.",
+                "url": "https://youtube.com/watch?v=OB4RDBvtuW0",
+                "duration": "37:03",
+                "thumbnail": "https://i.ytimg.com/vi/OB4RDBvtuW0/hq720.jpg"
+            },
+            {
+                "title": "පිරිමින්ගේ ලිංගික බෙලහීනතාවය! - Erectile Dysfunction",
+                "url": "https://youtube.com/watch?v=zIcz6vEBLZk",
+                "duration": "12:59",
+                "thumbnail": "https://i.ytimg.com/vi/zIcz6vEBLZk/hq720.jpg"
+            },
+            {
+                "title": "srilankan healthy foods අපිට අගේ නැති වුණාට විදේශිකයෝ හොයන Careya arborea 🌿",
+                "url": "https://youtube.com/watch?v=fxYyVouLgHk",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/fxYyVouLgHk/hq720.jpg"
+            },
+            {
+                "title": "ඇට්ටමුරා (ඇටඹුරු) දේශීය හෙළ වෙදකමේ මහාර්ඝ ඔසුව - #Ettamura #Medicinal #Plant",
+                "url": "https://youtube.com/watch?v=R-O8lYlimRQ",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/R-O8lYlimRQ/hq720_2.jpg"
+            },
+            {
+                "title": "නහර වල ඇති ලේ කැටි පවා දිය කර හරින අධි රුධිර පීඩනය තප්පරෙන් සුව කරන පානයන් 2 |කොලෙස්ටරෝල් වලට බෙහෙත්",
+                "url": "https://youtube.com/watch?v=62eSvhHgbUM",
+                "duration": "6:01",
+                "thumbnail": "https://i.ytimg.com/vi/62eSvhHgbUM/hq720.jpg"
+            },
+            {
+                "title": "පත්‍ර කිහිපයක් බිව්වත් මරණය ළඟා කරන, අලි වඳින \"ගජමදාරා\" ඔසුව! 🐘⚠️ #Gajamadhara #SLRavee #Ayurveda",
+                "url": "https://youtube.com/watch?v=pd2goH11JGE",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/pd2goH11JGE/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "\"කොහුකිරිල්ල\" ​ඖෂධීය ගුණයෙන් පිරිපුන් පුදුම  ඔසුව! 🌿🔴​#Kohukirilla #SLRavee #Ayurveda",
+                "url": "https://youtube.com/watch?v=Xr0QjKFxqoA",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/Xr0QjKFxqoA/hq720_2.jpg"
+            },
+            {
+                "title": "\"හීන්කෙයියා\" ​තෙත් කලාපීය කැලේ සැඟවුණු, තොරණ සැරසූ පුදුම  ඔසුව! 🌿🔴 #HeenKeyiya #SLRavee #Ayurveda",
+                "url": "https://youtube.com/watch?v=teJCGybHKOk",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/teJCGybHKOk/hq720.jpg"
+            },
+            {
+                "title": "​කොතල හිඹුටු: දියවැඩියාවට සොබාදහමෙන් දායාද වූ ඔසුව! 🌿🔴#KothalaHimbutu #RaveendraOsuSewana",
+                "url": "https://youtube.com/watch?v=xLABprKUs7g",
+                "duration": "0:48",
+                "thumbnail": "https://i.ytimg.com/vi/xLABprKUs7g/hq720_2.jpg"
+            },
+            {
+                "title": "හම එල්ල වැටීම රැලි වැටීම නැති කරල අවුරුදු 10ක් තරුණ පෙනුම දෙන හොදම ආයුර්වේද සත්කාරය/sagging wrinkles",
+                "url": "https://youtube.com/watch?v=8UyoFmJvRIk",
+                "duration": "4:19",
+                "thumbnail": "https://i.ytimg.com/vi/8UyoFmJvRIk/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "​සොබාදහමේ අසිරිමත් ඔසුව: \"ඉරමුසු\" (Indian Sarsaparilla) ඖෂධීය ගුණ | Raveendra Osu Sewana #Iramusu",
+                "url": "https://youtube.com/watch?v=KolAsz0mNZU",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/KolAsz0mNZU/hq720.jpg"
+            },
+            {
+                "title": "මලබද්ධයට සහ චර්ම රෝගවලට දිව්‍ය ඔසුවක් | රණවරා වල පුදුම සහගත ගුණ 🌿 #srilanka #helayo",
+                "url": "https://youtube.com/watch?v=gAlr-AgLCu4",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/gAlr-AgLCu4/hq720_2.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ගෙවත්තකින් ලැබෙන ප්‍රයෝජන(@ALAgriculturalScience)",
+                "url": "https://youtube.com/watch?v=aQjeyZXBDPs",
+                "duration": "23:56",
+                "thumbnail": "https://i.ytimg.com/vi/aQjeyZXBDPs/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන - Benefits of Water",
+                "url": "https://youtube.com/watch?v=kt5Lgg90GcA",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/kt5Lgg90GcA/hq720.jpg"
+            },
+            {
+                "title": "මේ දිනවල රට පුරා පැතිරෙන ලෙඩේට සැබෑ හේතුව කුමක්ද? ශාඛ සහ බීජ වල කල්පයක් පුරා පවතින වීර්ය කුමක්ද?",
+                "url": "https://youtube.com/watch?v=8YROIPMGNVc",
+                "duration": "25:24",
+                "thumbnail": "https://i.ytimg.com/vi/8YROIPMGNVc/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "⛔ලංකාව ලෝකය හොල්ලයි! ලේ වල ඝනකම අඩුකරන සුපිරි පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=R03vVDIhLWs",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/R03vVDIhLWs/hq720.jpg"
+            },
+            {
+                "title": "Benefits Of Trees | ගස්වලින් ලැබෙන ප්‍රයෝජන 🌳",
+                "url": "https://youtube.com/watch?v=LZeEzBhxUGg",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/LZeEzBhxUGg/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක වලින් අපට ලැබෙන ප්‍රයෝජන @SmartKidllh",
+                "url": "https://youtube.com/watch?v=1N7t1L3Hwhw",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/1N7t1L3Hwhw/hqdefault.jpg"
+            },
+            {
+                "title": "මේ දේවල් වල ප්‍රයෝජන දැනගෙන කරමු (Sinhala) හැමෝම නොදන්න ගොඩක් දේ",
+                "url": "https://youtube.com/watch?v=6udAxTpJvv0",
+                "duration": "6:27",
+                "thumbnail": "https://i.ytimg.com/vi/6udAxTpJvv0/hq720.jpg"
+            },
+            {
+                "title": "සර්ප විසට,  සුළු කැපුම් වලට නැතුවම බැරි විස්මිත ලේවැරැල්ල | lewaralla | CM Plants Store Sri Lanka",
+                "url": "https://youtube.com/watch?v=C_Ka9bhZi1M",
+                "duration": "9:12",
+                "thumbnail": "https://i.ytimg.com/vi/C_Ka9bhZi1M/frame0.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන, ලෙඩවීම වලක්වන, පිටි වර්ග 7 ක්!",
+                "url": "https://youtube.com/watch?v=S_RsfSLzUw8",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/S_RsfSLzUw8/hq720.jpg"
+            },
+            {
+                "title": "බෙලි වල විශ්මිත ගුණය.  Value of Bael fruit",
+                "url": "https://youtube.com/watch?v=M3NTXXjHWWE",
+                "duration": "7:29",
+                "thumbnail": "https://i.ytimg.com/vi/M3NTXXjHWWE/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "SCIENCE දෙවන වරම-10-11 SUPER REVISION නියත A සාමාර්ථයේ සුපිරි්ම වැඩසටහන...",
+                "url": "https://youtube.com/watch?v=LfBazqLVXrA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/LfBazqLVXrA/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "ජවය ශක්තිය සපිරි කොල්ලු පානය - වෛද්‍ය සුසීමා සේනානායක",
+                "url": "https://youtube.com/watch?v=BBlufzuvZvw",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/BBlufzuvZvw/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ලේ වඩවන ආහාර 8 ක්",
+                "url": "https://youtube.com/watch?v=4IyUS5TXKS4",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/4IyUS5TXKS4/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "ලේ කැටි ස්වභාවිකව දියකරන ආහාර. | Foods That Naturally Dissolve Blood Clots.",
+                "url": "https://youtube.com/watch?v=Fzufvgf-64U",
+                "duration": "9:07",
+                "thumbnail": "https://i.ytimg.com/vi/Fzufvgf-64U/hq720.jpg"
+            },
+            {
+                "title": "හිමොග්ලොබින් වැඩි කරන ආහාර",
+                "url": "https://youtube.com/watch?v=K1N1MASlHSM",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/K1N1MASlHSM/hqdefault.jpg"
+            },
+            {
+                "title": "රාජ්‍ය සේවයේ කණිෂ්ඨ සේවකයන් සදහා නිවාඩු @learnandearnsl",
+                "url": "https://youtube.com/watch?v=vCcSEDrOnpY",
+                "duration": "15:38",
+                "thumbnail": "https://i.ytimg.com/vi/vCcSEDrOnpY/hq720.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "නිවසේ සියලු දෝෂ දුරු කරන එළවරා ශාකය | Wasthu Dosha Apala Walata Ela Wara",
+                "url": "https://youtube.com/watch?v=jVTONj_8UIU",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/jVTONj_8UIU/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Leaf of Life plants",
+                "url": "https://youtube.com/watch?v=BkMEYnJq3Qk",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/BkMEYnJq3Qk/hq720.jpg"
+            },
+            {
+                "title": "බිත්තර පළතුර හෙවත් ලාවුලු වල ගුණ – ඔබ විමතියට පත් කරාවි",
+                "url": "https://youtube.com/watch?v=44JmyxzXlTo",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/44JmyxzXlTo/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Burns and Scalds",
-      "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatic Arthralgia",
-      "sinhala": "වාත රෝග නිසා ඇතිවන හන්දිපත් රුදාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Eczema",
-      "sinhala": "දද (එක්සීමා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nephritis",
-      "sinhala": "වකුගඩු ප්‍රදාහය / වකුගඩු ඉදිමීම (වෘක්ක ශෝථය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Amenorrhea",
-      "sinhala": "ඔසප් වීම නතර වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,117 +1,452 @@
 {
-  "scientificName": "Rostellularia procumbens (L.) Nees",
-  "synonyms": [
-    "Dianthera americana Blanco",
-    "Ecbolium procumbens (L.) Kuntze",
-    "Justicia hayatae var. decumbens Yamam.",
-    "Justicia hirtella Wall.",
-    "Justicia japonica Thunb.",
-    "Justicia media R.Br.",
-    "Justicia micrantha Wall. ex C.B.Clarke",
-    "Justicia procumbens f. japonica (Thunb.) H.Hara",
-    "Justicia procumbens L.",
-    "Justicia procumbens var. hirsuta Yamam.",
-    "Justicia procumbens var. leucantha Honda",
-    "Justicia procumbens var. linearifolia Yamam.",
-    "Justicia procumbens var. riukiuensis Yamam.",
-    "Justicia procumbens var. typica Domin",
-    "Ptyssiglottis sarmentosa (Nees) Boerl.",
-    "Rostellaria adenostachya Nees",
-    "Rostellaria japonica Carrière",
-    "Rostellaria procumbens (L.) Nees",
-    "Rostellularia adenostachya Nees",
-    "Rostellularia blancoi Hassk.",
-    "Rostellularia cradengensis Bremek.",
-    "Rostellularia elegans Bremek.",
-    "Rostellularia japonica (Thunb.) J.L.Ellis",
-    "Rostellularia juncea Nees",
-    "Rostellularia media Nees",
-    "Rostellularia neglecta Bremek.",
-    "Rostellularia procumbens f. alboflora J.L.Liu",
-    "Rostellularia procumbens var. hirsuta (Yamam.) S.S.Ying",
-    "Rostellularia procumbens var. linearifolia (Yamam.) S.S.Ying",
-    "Rostellularia procumbens var. riukiuensis (Yamam.) S.S.Ying",
-    "Rostellularia procumbens var. serpyllifolia Benth.",
-    "Rostellularia sarmentosa Nees",
-    "Rostellularia sundana Bremek.",
-    "Rostellularia trichochila Miq.",
-    "Rungia sarmentosa (Nees) Valeton"
-  ],
-  "familyName": "ACANTHACEAE",
-  "englishNames": [
-    "Water Willow",
-    "Shrimp Plant",
-    "Water Willow",
-    "Shrimp Plant"
-  ],
-  "sinhalaName": "Maha nai  (මහ නයි )",
-  "description": "සෙන්ටිමීටර 70ක් දක්වා උසැති, නොගැඹුරු මූල පද්ධතියක් (shallow rootstock) සහිත වාර්ෂික ශාකයකි. පත්‍ර ඩිම්බාකාර (ovate) සිට වෘත්තාකාර (orbicular) හෝ ඕවලාකාර-දීර්ඝාකාර (oval-oblong) හැඩයක් ගනී; ප්‍රමාණය සෙන්ටිමීටර 1.2 - 3 X 0.5 - 1 වේ. පත්‍ර අග්‍රය මඳක් උල්වූ (subacute) අතර දාරය සම්පූර්ණයි (entire). පත්‍රයේ උඩු පැත්ත රළු (scabrid) වන අතර යටි පැත්ත රළු (scabrid) සිට සියුම් රෝම සහිත (hirsutulous) ස්වභාවයක් ගනී. පුෂ්ප මංජරිය අග්‍රස්ථ (terminal) සහ කක්ෂීය (axillary) වන අතර සරල කරල් (spikes) ලෙස පවතී; දිග සෙන්ටිමීටර 2.8 - 3 (- 5) සහ පළල සෙන්ටිමීටර 0.4 - 0.7 වේ. කරල් (capsules) ඩිම්බාකාර (ovoid) වන අතර වෘන්ත රහිතයි (sessile); විශේෂයෙන් අග්‍රය දෙසට වන පරිදි කෙළවරේ ගොරෝසු රෝම (bristly) පිහිටයි. බීජ අක්‍රමවත් වෘත්තාකාර (irregularly orbicular) හැඩයක් ගනී; පළල මිලිමීටර 1ක් වන අතර පැතලි (compressed) සහ රැලි සහිත (rugose) පෘෂ්ඨයකින් යුක්ත වේ. බීජ තීර්යක් ලෙස කේන්ද්‍රීය පේළි (transversely concentric rows) ලෙස පිහිටයි.",
-  "treatments": [
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Rostellularia procumbens (L.) Nees",
+    "synonyms": [
+        "Dianthera americana Blanco",
+        "Ecbolium procumbens (L.) Kuntze",
+        "Justicia hayatae var. decumbens Yamam.",
+        "Justicia hirtella Wall.",
+        "Justicia japonica Thunb.",
+        "Justicia media R.Br.",
+        "Justicia micrantha Wall. ex C.B.Clarke",
+        "Justicia procumbens f. japonica (Thunb.) H.Hara",
+        "Justicia procumbens L.",
+        "Justicia procumbens var. hirsuta Yamam.",
+        "Justicia procumbens var. leucantha Honda",
+        "Justicia procumbens var. linearifolia Yamam.",
+        "Justicia procumbens var. riukiuensis Yamam.",
+        "Justicia procumbens var. typica Domin",
+        "Ptyssiglottis sarmentosa (Nees) Boerl.",
+        "Rostellaria adenostachya Nees",
+        "Rostellaria japonica Carrière",
+        "Rostellaria procumbens (L.) Nees",
+        "Rostellularia adenostachya Nees",
+        "Rostellularia blancoi Hassk.",
+        "Rostellularia cradengensis Bremek.",
+        "Rostellularia elegans Bremek.",
+        "Rostellularia japonica (Thunb.) J.L.Ellis",
+        "Rostellularia juncea Nees",
+        "Rostellularia media Nees",
+        "Rostellularia neglecta Bremek.",
+        "Rostellularia procumbens f. alboflora J.L.Liu",
+        "Rostellularia procumbens var. hirsuta (Yamam.) S.S.Ying",
+        "Rostellularia procumbens var. linearifolia (Yamam.) S.S.Ying",
+        "Rostellularia procumbens var. riukiuensis (Yamam.) S.S.Ying",
+        "Rostellularia procumbens var. serpyllifolia Benth.",
+        "Rostellularia sarmentosa Nees",
+        "Rostellularia sundana Bremek.",
+        "Rostellularia trichochila Miq.",
+        "Rungia sarmentosa (Nees) Valeton"
+    ],
+    "familyName": "ACANTHACEAE",
+    "englishNames": [
+        "Water Willow",
+        "Shrimp Plant",
+        "Water Willow",
+        "Shrimp Plant"
+    ],
+    "sinhalaName": "Maha nai  (මහ නයි )",
+    "description": "සෙන්ටිමීටර 70ක් දක්වා උසැති, නොගැඹුරු මූල පද්ධතියක් (shallow rootstock) සහිත වාර්ෂික ශාකයකි. පත්‍ර ඩිම්බාකාර (ovate) සිට වෘත්තාකාර (orbicular) හෝ ඕවලාකාර-දීර්ඝාකාර (oval-oblong) හැඩයක් ගනී; ප්‍රමාණය සෙන්ටිමීටර 1.2 - 3 X 0.5 - 1 වේ. පත්‍ර අග්‍රය මඳක් උල්වූ (subacute) අතර දාරය සම්පූර්ණයි (entire). පත්‍රයේ උඩු පැත්ත රළු (scabrid) වන අතර යටි පැත්ත රළු (scabrid) සිට සියුම් රෝම සහිත (hirsutulous) ස්වභාවයක් ගනී. පුෂ්ප මංජරිය අග්‍රස්ථ (terminal) සහ කක්ෂීය (axillary) වන අතර සරල කරල් (spikes) ලෙස පවතී; දිග සෙන්ටිමීටර 2.8 - 3 (- 5) සහ පළල සෙන්ටිමීටර 0.4 - 0.7 වේ. කරල් (capsules) ඩිම්බාකාර (ovoid) වන අතර වෘන්ත රහිතයි (sessile); විශේෂයෙන් අග්‍රය දෙසට වන පරිදි කෙළවරේ ගොරෝසු රෝම (bristly) පිහිටයි. බීජ අක්‍රමවත් වෘත්තාකාර (irregularly orbicular) හැඩයක් ගනී; පළල මිලිමීටර 1ක් වන අතර පැතලි (compressed) සහ රැලි සහිත (rugose) පෘෂ්ඨයකින් යුක්ත වේ. බීජ තීර්යක් ලෙස කේන්ද්‍රීය පේළි (transversely concentric rows) ලෙස පිහිටයි.",
+    "treatments": [
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ophthalmia",
+            "sinhala": "අක්ෂි ප්‍රදාහය (ඇස් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Eruptions",
+            "sinhala": "සමේ බිබිලි සහ පලු දැමීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "1543",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/QvygyLD4/plant00019-01543.jpg"
+        },
+        {
+            "image_id": "1544",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/23v0QdHW/plant00019-01544.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මේ ඖෂධීය සුලු නයි ශාකය රෝග ගණනාවක් සූවකරයි",
+                "url": "https://youtube.com/watch?v=GJpCmM5m_ck",
+                "duration": "11:04",
+                "thumbnail": "https://i.ytimg.com/vi/GJpCmM5m_ck/hq720.jpg"
+            },
+            {
+                "title": "සුසානෙට තව ටික දුරයි😢🌹 Divulgane new song මහා සෙනඟක් ඇවිත් හිටියත් නාවේ නුඹ විතරයි",
+                "url": "https://youtube.com/watch?v=FbvG1Tc4TAg",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/FbvG1Tc4TAg/hq720.jpg"
+            },
+            {
+                "title": "හොරණ වැඩිහිටි නිවාසයේ හිමිකරු \"ලොකු අයියා\" අත්අඩංගුවට | ගින්න ඇති උනේ කෙසේද | Maupiya Sewana Elders",
+                "url": "https://youtube.com/watch?v=BMvO5lMlWA0",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/BMvO5lMlWA0/hq720.jpg"
+            },
+            {
+                "title": "මේ ඖෂධීය සුලු නයි ශාකය රෝග ගණනාවක් සූවකරයි",
+                "url": "https://youtube.com/watch?v=AVT4wNXHNb8",
+                "duration": "11:04",
+                "thumbnail": "https://i.ytimg.com/vi/AVT4wNXHNb8/frame0.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණදෙන හෙළ ඔසුව සුලු නයි | Sulu Nai | Hela Osu Sinhala | story eka",
+                "url": "https://youtube.com/watch?v=sodregA_ne4",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/sodregA_ne4/hq720.jpg"
+            },
+            {
+                "title": "හීනෙන් නයි පේනවද ? එය සුභද අසුබද ? නාග ලෝකේ රහස් රැසක්",
+                "url": "https://youtube.com/watch?v=AOltD_nQK0c",
+                "duration": "7:46",
+                "thumbnail": "https://i.ytimg.com/vi/AOltD_nQK0c/hq720.jpg"
+            },
+            {
+                "title": "නයි , පොළොන් , මුගටි ,වෛරයේ සත්‍ය කතාව දන්නවද?.......😱😱😱  @SL vidu",
+                "url": "https://youtube.com/watch?v=rlCmAIGp21o",
+                "duration": "4:53",
+                "thumbnail": "https://i.ytimg.com/vi/rlCmAIGp21o/hqdefault.jpg"
+            },
+            {
+                "title": "\" මේ ගහෙන් තමයි නයි ගල හදන්නේ \" බෙහෙතට ගන්න මල් ගහ / Medicinal plants - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=9s58dCWxFvU",
+                "duration": "5:44",
+                "thumbnail": "https://i.ytimg.com/vi/9s58dCWxFvU/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට ගුණ දෙන නික ශාඛය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=cgU7USJ32GA",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/cgU7USJ32GA/hq720.jpg"
+            },
+            {
+                "title": "සෙනෙහසේ නවාතැනට මව් පියන් භාරදුන් දරුවන් දැන් කියන කතාව - ගින්නෙන් පසු අද උදේ වෙච්ච දේ මෙන්න",
+                "url": "https://youtube.com/watch?v=NZaILEDdQGw",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/NZaILEDdQGw/hq720.jpg"
+            },
+            {
+                "title": "ඇසෙ සුද ඉවත් කරන්න වගේම තව රෝග රැසකට ගන්න වටිනා පැලය | සුළුනයි, මහනයි (Sulunai, Mahanai)",
+                "url": "https://youtube.com/watch?v=XSssXVpZxJs",
+                "duration": "8:29",
+                "thumbnail": "https://i.ytimg.com/vi/XSssXVpZxJs/hq720.jpg"
+            },
+            {
+                "title": "සිහිනෙන් නයි පේනවනම් මෙන්න ඔබට සිදුවන දේ sihina palapala",
+                "url": "https://youtube.com/watch?v=X28NvO7ttMA",
+                "duration": "4:52",
+                "thumbnail": "https://i.ytimg.com/vi/X28NvO7ttMA/hqdefault.jpg"
+            },
+            {
+                "title": "නයි පොලොන් සංවාසය හරි පුදුමයි..| BUDU WEDAKAMA | EPISODE 11",
+                "url": "https://youtube.com/watch?v=3akhS-VRBcQ",
+                "duration": "22:56",
+                "thumbnail": "https://i.ytimg.com/vi/3akhS-VRBcQ/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "Scotch Bonnet නයි මිරිස් අක්කරයක පැල 10000ක්ගි ණි අව්වේ,මහා පොලවේ වගාකරමු. Dilco Plantation - Ep 09",
+                "url": "https://youtube.com/watch?v=qdHsua_qnLY",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/qdHsua_qnLY/hq720.jpg"
+            },
+            {
+                "title": "ගිණි අව්වේ මහා පොලවේ 🌱 Scotch Bonnet නයි මිරිස් වගා කරන දිරිය කත 👸 Dilco Plantation - Episode 43",
+                "url": "https://youtube.com/watch?v=-5QMC6KUglo",
+                "duration": "8:43",
+                "thumbnail": "https://i.ytimg.com/vi/-5QMC6KUglo/hq720.jpg"
+            },
+            {
+                "title": "ලොකු නයි බබාලට බෝ බොන්න දුන්න . අව්ව සැර වැඩි නිසා පැළ හං වෙලා .😢🐍❤️#suscribe #like #comment",
+                "url": "https://youtube.com/watch?v=ZCSi2361iVE",
+                "duration": "0:32",
+                "thumbnail": "https://i.ytimg.com/vi/ZCSi2361iVE/hq720.jpg"
+            },
+            {
+                "title": "නයි වගේ උන්ට 180 අදු කොළ වගෙ 🙏🌹 #dharma #180 #mahayanabuddhism",
+                "url": "https://youtube.com/watch?v=njqi49UgNoo",
+                "duration": "9:42",
+                "thumbnail": "https://i.ytimg.com/vi/njqi49UgNoo/hq720.jpg"
+            },
+            {
+                "title": "මහසෙන් අරණ Mahasen Arana  ''නියපොතු නරක් වෙලාද ? \"",
+                "url": "https://youtube.com/watch?v=0VvOPa9fkKU",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/0VvOPa9fkKU/hq720.jpg"
+            },
+            {
+                "title": "Nai Wage Minissu (නයි වගේ මිනිස්සූ)  Remixed with a audio spectrum By Beatbox",
+                "url": "https://youtube.com/watch?v=oQcsiUbU3Ok",
+                "duration": "3:33",
+                "thumbnail": "https://i.ytimg.com/vi/oQcsiUbU3Ok/hq720.jpg"
+            },
+            {
+                "title": "මහා  රාජ තරංගනි සුර බලය මහා හෙණරජ තාත්තා වගෙයි ashiya weda medura",
+                "url": "https://youtube.com/watch?v=Hs-XFztT9so",
+                "duration": "20:49",
+                "thumbnail": "https://i.ytimg.com/vi/Hs-XFztT9so/hq720.jpg"
+            },
+            {
+                "title": "මේ සර්පයො දෂ්ට කරද්දිත් මම අතින් කවනවාIඋග්‍ර විෂ තියෙන දරුණුම නයි පොලොංගු කාමරේ දාගෙන ඉන්න තරුණයා|",
+                "url": "https://youtube.com/watch?v=crqFjRZY_pg",
+                "duration": "27:43",
+                "thumbnail": "https://i.ytimg.com/vi/crqFjRZY_pg/hq720.jpg"
+            },
+            {
+                "title": "මෛත්‍රී බුදු ගුණ වන්දනාව හා මෛත්‍රී බුද්ධ ශාසනයේ පිරිත ( භාවනාවකට යොමු වී ශ්‍රවණයකරන්න)",
+                "url": "https://youtube.com/watch?v=z0LIKAeAa5Y",
+                "duration": "31:22",
+                "thumbnail": "https://i.ytimg.com/vi/z0LIKAeAa5Y/hq720.jpg"
+            },
+            {
+                "title": "මහ පිරිත | මහමෙව්නාවේ පාළි - සිංහල පිරිත් සජ්ඣායනය",
+                "url": "https://youtube.com/watch?v=I2SyAG2TCSc",
+                "duration": "57:18",
+                "thumbnail": "https://i.ytimg.com/vi/I2SyAG2TCSc/hq720.jpg"
+            },
+            {
+                "title": "මහණ ගොන් වැඩ කලාට ඒ ස්ථාන රැක ගන්න ඔනි | Kelaniye Sasanawansa Thero | Mindful Wisdom #Bana",
+                "url": "https://youtube.com/watch?v=03XaznGde8A",
+                "duration": "43:39",
+                "thumbnail": "https://i.ytimg.com/vi/03XaznGde8A/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha   මහ පිරිත  (තුන් සූත්‍රය)   Thun Suthraya",
+                "url": "https://youtube.com/watch?v=2PkbYtGIDFk",
+                "duration": "17:37",
+                "thumbnail": "https://i.ytimg.com/vi/2PkbYtGIDFk/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Piritha - Siri Vajiragnana Dharmayathanaya | මහ පිරිත - සිරි වජිරඤාණ ධර්මායතනය",
+                "url": "https://youtube.com/watch?v=A7T9w9hHRCs",
+                "duration": "46:21",
+                "thumbnail": "https://i.ytimg.com/vi/A7T9w9hHRCs/hq720.jpg"
+            },
+            {
+                "title": "suvisi maha guna - සූවිසි මහා ගුණ සජ්ජායනය",
+                "url": "https://youtube.com/watch?v=k-eL7jMiUF8",
+                "duration": "10:38",
+                "thumbnail": "https://i.ytimg.com/vi/k-eL7jMiUF8/hq720.jpg"
+            },
+            {
+                "title": "සෑම ගුරුවරයෙක් ම, සෑම දුවා දරුවෙක් ම, සෑම මව්පිය කෙනෙක් ම ඇසිය යුතු දේශනාවක්",
+                "url": "https://youtube.com/watch?v=W2qO77kCk6s",
+                "duration": "1:31:59",
+                "thumbnail": "https://i.ytimg.com/vi/W2qO77kCk6s/hq720.jpg"
+            },
+            {
+                "title": "තුන් සූත්‍රය | Thun Suthra | ඒකායන මග්ග | Ekayana Magga #buddha  #pirith  #motivation #mindfulness",
+                "url": "https://youtube.com/watch?v=AQj0dO2-6do",
+                "duration": "1:28:38",
+                "thumbnail": "https://i.ytimg.com/vi/AQj0dO2-6do/hq720.jpg"
+            },
+            {
+                "title": "අනුහස් පිරුණු සත්‍යක්‍රියාව ~ Ven.Kiribathgoda Gnanananda Thero",
+                "url": "https://youtube.com/watch?v=Ix1R9SAHAvQ",
+                "duration": "15:21",
+                "thumbnail": "https://i.ytimg.com/vi/Ix1R9SAHAvQ/hq720.jpg"
+            },
+            {
+                "title": "Maha Karunika Wu Shanthi Nayakayan Wahansa | Buddhanussati Bhavanawa Sinhala",
+                "url": "https://youtube.com/watch?v=iHqb1v5bxJs",
+                "duration": "34:49",
+                "thumbnail": "https://i.ytimg.com/vi/iHqb1v5bxJs/hq720.jpg"
+            },
+            {
+                "title": "අරමුණු වලට අනුව කමටහන් ඒ මොහොතේම වඩන්න ඕනි ප්‍රමාද වුනොත් වෙන දේ..",
+                "url": "https://youtube.com/watch?v=3Wib7GEknng",
+                "duration": "10:50",
+                "thumbnail": "https://i.ytimg.com/vi/3Wib7GEknng/hq720.jpg"
+            },
+            {
+                "title": "නාග ලෝකය ගැන සිදුකල ඇඟ කිලිපොලා යන විස්තරය | galigamuwe gnanadeepa thero bana 2025 | Budu Bana",
+                "url": "https://youtube.com/watch?v=j4CsX1lWVEY",
+                "duration": "37:16",
+                "thumbnail": "https://i.ytimg.com/vi/j4CsX1lWVEY/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ බලයෙන් පිහිට ලබා ගන්නා ආකාරය මුල සිට සරලව #motivation #slmotivation",
+                "url": "https://youtube.com/watch?v=emZdxQNgCC0",
+                "duration": "1:14:03",
+                "thumbnail": "https://i.ytimg.com/vi/emZdxQNgCC0/hq720.jpg"
+            },
+            {
+                "title": "#MAHAPIRITHA | #මහපිරිත |ධර්ම දානය පිණිසම හේතු වාසනා වේවා",
+                "url": "https://youtube.com/watch?v=BqWZ2sU3YRY",
+                "duration": "1:00:03",
+                "thumbnail": "https://i.ytimg.com/vi/BqWZ2sU3YRY/hq720.jpg"
+            },
+            {
+                "title": "මහ පිරිත | මහමෙව්නාවේ පාළි - සිංහල පිරිත් සජ්ඣායනය - Maha Piritha by Mahamevnawa(pali - sinhala)",
+                "url": "https://youtube.com/watch?v=T16tbFb_MKE",
+                "duration": "57:25",
+                "thumbnail": "https://i.ytimg.com/vi/T16tbFb_MKE/hq720.jpg"
+            },
+            {
+                "title": "මිදුණු සිතේ සැනසිල්ල ඔබ අත්විදිනවාද | මහා නිධාන සූත්‍රය ඇසුරෙන් ගලපා ගමු",
+                "url": "https://youtube.com/watch?v=NWcMEMQoB2c",
+                "duration": "4:02:05",
+                "thumbnail": "https://i.ytimg.com/vi/NWcMEMQoB2c/hq720.jpg"
+            },
+            {
+                "title": "මහා සැයට මහා පුජාවක් කරද්දී මේ වැරදි කරන්න එපා.. @niwanmagabuduguna   #niwanmaga #buduguna #budubana",
+                "url": "https://youtube.com/watch?v=2GPqvFHDUqk",
+                "duration": "53:38",
+                "thumbnail": "https://i.ytimg.com/vi/2GPqvFHDUqk/hq720.jpg"
+            },
+            {
+                "title": "මස් මාංශ කන එක ඇත්තටම පවක්ද? |  Niwathapa Thero | Niwana Soya #niwathapathero #trending #bana",
+                "url": "https://youtube.com/watch?v=uvC8023fJA0",
+                "duration": "56:53",
+                "thumbnail": "https://i.ytimg.com/vi/uvC8023fJA0/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha මහ පිරිත | Thun Suthra Deshanawa | තුන් සූත්‍රය Mahamangala | Rathana |Karaneeyameththa",
+                "url": "https://youtube.com/watch?v=FbjB503Oqz0",
+                "duration": "53:52",
+                "thumbnail": "https://i.ytimg.com/vi/FbjB503Oqz0/hq720.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "වෙල් බුත්සරණ නොහොත් මුස්සැන්ද ශාකය ඔබේ ගෙමිදුලෙත් තිබෙනවද? | Mussenda | Wel-but-sarana🌿",
+                "url": "https://youtube.com/watch?v=Z-1r-4Ya-2w",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/Z-1r-4Ya-2w/hqdefault.jpg"
+            },
+            {
+                "title": "thippili 2021 | long pepper 2021 |  රෝග රැසකට ගුණ දෙන තිප්පිලි ශාකය ගැන ඔබ නොදත් දේ |  තිප්පිලි 2021",
+                "url": "https://youtube.com/watch?v=FkG00wygPjo",
+                "duration": "5:51",
+                "thumbnail": "https://i.ytimg.com/vi/FkG00wygPjo/hqdefault.jpg"
+            },
+            {
+                "title": "Makahiya Mimosa pudica Health Benefits| The Wonder Weed",
+                "url": "https://youtube.com/watch?v=PpRbA_USwpo",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/PpRbA_USwpo/hq720.jpg"
+            },
+            {
+                "title": "Nidikumba/නිදිකුම්බා ශාකයේ විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=Rcg4VWgOhh8",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/Rcg4VWgOhh8/hq720.jpg"
+            },
+            {
+                "title": "පස සරු කරන නිදිකුම්බා වල ඇති ඖෂධීය ගුණ | Mimosa Pudica",
+                "url": "https://youtube.com/watch?v=CIaHx0QqHhM",
+                "duration": "9:31",
+                "thumbnail": "https://i.ytimg.com/vi/CIaHx0QqHhM/hq720.jpg"
+            },
+            {
+                "title": "දැනගෙනම හිටවන්න | Pranajeewa Plant | Ceylon Agri| Episode 359",
+                "url": "https://youtube.com/watch?v=7VR4o-3yMxY",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/7VR4o-3yMxY/hq720.jpg"
+            },
+            {
+                "title": "දේශීය වෙදදුරන්ට අනුව corona වලට එරෙහිව ප්‍රතිශක්තිය නගාසිටුවන හීන් බින් කොහොඹ",
+                "url": "https://youtube.com/watch?v=WKw3IhMmfmw",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/WKw3IhMmfmw/hq720.jpg"
+            },
+            {
+                "title": "Maha yakuwanassa - Leonotis nepetiifolia",
+                "url": "https://youtube.com/watch?v=xJy4qIM-4RM",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/xJy4qIM-4RM/hq720.jpg"
+            },
+            {
+                "title": "කළුනික මෙන් වටිනා සියළු රෝගයන්ට ගුණ දායක ඖෂධීය ශාකය - නික ශාකය පිළිබද සියලු විස්තර | Vitex negundo",
+                "url": "https://youtube.com/watch?v=Cfsr6eHc1BU",
+                "duration": "17:51",
+                "thumbnail": "https://i.ytimg.com/vi/Cfsr6eHc1BU/hq720.jpg"
+            },
+            {
+                "title": "Kapparawalliya & Iriweriya  | ගෙදරක හිටවගන්නම ඕන ඔසු පැල | කප්පරවල්ලිය සහ ඉරිවේරිය| Episode 69",
+                "url": "https://youtube.com/watch?v=B7sMPk7vVbM",
+                "duration": "6:16",
+                "thumbnail": "https://i.ytimg.com/vi/B7sMPk7vVbM/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල තිත්ත ඇත්ත | Heenbovitiya & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=lBsI67rHBnE",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/lBsI67rHBnE/hq720.jpg"
+            },
+            {
+                "title": "Long Pepper | Herbal Plants|තාමත් හිටවලා නැද්ද? තිප්පිලි  | Ceylon Agri | Episode 108",
+                "url": "https://youtube.com/watch?v=DUi10GLdB_Y",
+                "duration": "7:11",
+                "thumbnail": "https://i.ytimg.com/vi/DUi10GLdB_Y/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ නිවසේ මේ දැන්ම වගාකරගත යුතු ලොව බලගතුම ඖෂධීය ශාකය -පවුලේ අයට ආදරෙයි නම් වත්තේ මෙයින් ගහක් වවන්න.",
+                "url": "https://youtube.com/watch?v=hTywTHm1AzU",
+                "duration": "8:59",
+                "thumbnail": "https://i.ytimg.com/vi/hTywTHm1AzU/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ophthalmia",
-      "sinhala": "අක්ෂි ප්‍රදාහය (ඇස් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Eruptions",
-      "sinhala": "සමේ බිබිලි සහ පලු දැමීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "1543",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/QvygyLD4/plant00019-01543.jpg"
-    },
-    {
-      "image_id": "1544",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/23v0QdHW/plant00019-01544.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,247 +1,390 @@
 {
-  "scientificName": "Vitex negundo L.",
-  "synonyms": [
-    "Agnus-castus negundo (L.) Carrière",
-    "Vitex agnus-castus var. negundo (L.) Kuntze"
-  ],
-  "familyName": "LAMIACEAE",
-  "englishNames": [
-    "Chinese Caste Tree",
-    "Chaste Tree",
-    "Five-leaved Chaste Tree",
-    "Horseshoe"
-  ],
-  "sinhalaName": "Nika (නික)",
-  "description": "මීටර් 8ක් දක්වා උසැති විශාල පඳුරක් හෝ කුඩා සුවඳවත් ගසකි; පත්‍ර අභිමුඛව පිහිටයි (decussate-opposite); පත්‍ර වෘන්ත සෙන්ටිමීටර 2.5-6ක් දිගය; පත්‍රිකා සාමාන්‍යයෙන් 3ක් හෝ 3-5ක් වේ, කලාතුරකින් 1ක් පමණි; සියලුම පත්‍රිකා පැහැදිලිවම වෘන්ත සහිත වන අතර පළල සෙන්ටිමීටර 1.5-4කි; මල් කිරීටය (corolla) නිල්, ලා නිල්, ලැවෙන්ඩර් රෝස හෝ සමහර විට සුදු පැහැතිය; ඵලය ගෝලාකාර (globose) හෝ උප-ගෝලාකාර (subglobose) සිට උප-ඩිම්බාකාර (subovoid) හැඩයක් ගනී, දිග සහ පළල මිලිමීටර 3-5.5ක් වන අතර, රෝම රහිත (glabrous) දම් හෝ කළු පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Vitex negundo L.",
+    "synonyms": [
+        "Agnus-castus negundo (L.) Carrière",
+        "Vitex agnus-castus var. negundo (L.) Kuntze"
+    ],
+    "familyName": "LAMIACEAE",
+    "englishNames": [
+        "Chinese Caste Tree",
+        "Chaste Tree",
+        "Five-leaved Chaste Tree",
+        "Horseshoe"
+    ],
+    "sinhalaName": "Nika (නික)",
+    "description": "මීටර් 8ක් දක්වා උසැති විශාල පඳුරක් හෝ කුඩා සුවඳවත් ගසකි; පත්‍ර අභිමුඛව පිහිටයි (decussate-opposite); පත්‍ර වෘන්ත සෙන්ටිමීටර 2.5-6ක් දිගය; පත්‍රිකා සාමාන්‍යයෙන් 3ක් හෝ 3-5ක් වේ, කලාතුරකින් 1ක් පමණි; සියලුම පත්‍රිකා පැහැදිලිවම වෘන්ත සහිත වන අතර පළල සෙන්ටිමීටර 1.5-4කි; මල් කිරීටය (corolla) නිල්, ලා නිල්, ලැවෙන්ඩර් රෝස හෝ සමහර විට සුදු පැහැතිය; ඵලය ගෝලාකාර (globose) හෝ උප-ගෝලාකාර (subglobose) සිට උප-ඩිම්බාකාර (subovoid) හැඩයක් ගනී, දිග සහ පළල මිලිමීටර 3-5.5ක් වන අතර, රෝම රහිත (glabrous) දම් හෝ කළු පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers/Sores",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Sinusitis",
+            "sinhala": "සයිනස් ප්‍රදාහය (පීනස)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Flatulence",
+            "sinhala": "බඩ පිපුම (වාතය පිරීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Inflammatory Conditions",
+            "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Coma",
+            "sinhala": "අසිහිය / කෝමා තත්ත්වය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Stupor",
+            "sinhala": "නිද්‍රාශීලී බව / සිහිමද ගතිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Spider Bites",
+            "sinhala": "විෂ සහිත මකුළු දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Body Ache",
+            "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Leprosy",
+            "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Bark",
+        "Fruit",
+        "Root"
+    ],
+    "images": [
+        {
+            "image_id": "544",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/60M9JB49/plant01354-00544.jpg"
+        },
+        {
+            "image_id": "545",
+            "caption": "Habit of the species -2",
+            "url": "https://i.ibb.co/0pXZsKhH/plant01354-00545.jpg"
+        },
+        {
+            "image_id": "1583",
+            "caption": "Habit - Nil Nika",
+            "url": "https://i.ibb.co/dsYHKQS0/plant01354-01583.jpg"
+        },
+        {
+            "image_id": "1584",
+            "caption": "Underside of young leaves - Nil Nika",
+            "url": "https://i.ibb.co/rRSZSKy1/plant01354-01584.jpg"
+        },
+        {
+            "image_id": "546",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/TMh88TSV/plant01354-00546.jpg"
+        },
+        {
+            "image_id": "1585",
+            "caption": "Flowers and inflorescence - Nil Nika",
+            "url": "https://i.ibb.co/ZpF4yX1B/plant01354-01585.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "නික ගුණ වරුණ . සෙම් රෝග සහ වේදනා සමනයට. Health benefits of Nika.",
+                "url": "https://youtube.com/watch?v=YgOuPvji6N0",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgOuPvji6N0/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට ගුණ දෙන නික ශාඛය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=cgU7USJ32GA",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/cgU7USJ32GA/hq720.jpg"
+            },
+            {
+                "title": "Nika | නික ශාකයේ ඖෂධිය ගුණ☘️",
+                "url": "https://youtube.com/watch?v=YgHK8FXIWJ0",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/YgHK8FXIWJ0/hqdefault.jpg"
+            },
+            {
+                "title": "නික ශාකයේ විස්තර හා ඖෂධීය ගුණ | Vitex Negundo",
+                "url": "https://youtube.com/watch?v=ftgNE4Mm5B0",
+                "duration": "9:04",
+                "thumbnail": "https://i.ytimg.com/vi/ftgNE4Mm5B0/hq720.jpg"
+            },
+            {
+                "title": "vitex negundo |  List of herbs in sri lanka 🇱🇰 | පිළිකා සෛල දුරු කරන “නික”  - ගසක වරුණ |Episode 03",
+                "url": "https://youtube.com/watch?v=NZ1rw8H_J1E",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/NZ1rw8H_J1E/hqdefault.jpg"
+            },
+            {
+                "title": "කලුනික ගැන කතා කරමු | නික වල විශේෂිත ගුණ මොනවද? | KaluNika | Kalu Nika Sinhala | Nika",
+                "url": "https://youtube.com/watch?v=woAYwcZcVi0",
+                "duration": "13:06",
+                "thumbnail": "https://i.ytimg.com/vi/woAYwcZcVi0/hq720.jpg"
+            },
+            {
+                "title": "කලු නික සොයා ගිය ගමන | මොනවද මේ කලු නික | Kalu Nika",
+                "url": "https://youtube.com/watch?v=cvJp3hcaLBI",
+                "duration": "8:28",
+                "thumbnail": "https://i.ytimg.com/vi/cvJp3hcaLBI/hq720.jpg"
+            },
+            {
+                "title": "Nika | නික Valuable herb in traditional Hela medicine since ancient time",
+                "url": "https://youtube.com/watch?v=s_49YJ1Ep0U",
+                "duration": "1:03",
+                "thumbnail": "https://i.ytimg.com/vi/s_49YJ1Ep0U/hq720.jpg"
+            },
+            {
+                "title": "#😀VITEX NEGANDO🌼🍀🌿 ඔයා දන්නවාද #නික මේ තරම් වටින්නේ ඇයි කියලා🌾🌼🍀",
+                "url": "https://youtube.com/watch?v=IJqkHl6ltaU",
+                "duration": "8:09",
+                "thumbnail": "https://i.ytimg.com/vi/IJqkHl6ltaU/hq720.jpg"
+            },
+            {
+                "title": "නික ශාකයෙන් මොනවද කරන බෙහෙත්",
+                "url": "https://youtube.com/watch?v=fnyaR88lwiU",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/fnyaR88lwiU/hq720.jpg"
+            },
+            {
+                "title": "සුදු කෙස් කළු කරන නික - Vitex leucoxylon Herb Uses, Benefits and Cures",
+                "url": "https://youtube.com/watch?v=WU96rJKOYa4",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/WU96rJKOYa4/hq720.jpg"
+            },
+            {
+                "title": "නික |  Vitex negundo - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=4Ee8sE5mPDo",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/4Ee8sE5mPDo/hq720.jpg"
+            },
+            {
+                "title": "නික Nika - Vitex negundo",
+                "url": "https://youtube.com/watch?v=IQ3qYzaJT8I",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/IQ3qYzaJT8I/hq720.jpg"
+            },
+            {
+                "title": "රෝග සුව කරන නික | Isiwara Adawiya | Ancient Herbal | Nika",
+                "url": "https://youtube.com/watch?v=agxsJqmB8RY",
+                "duration": "1:24",
+                "thumbnail": "https://i.ytimg.com/vi/agxsJqmB8RY/hq720.jpg"
+            },
+            {
+                "title": "කළුනික මෙන් වටිනා සියළු රෝගයන්ට ගුණ දායක ඖෂධීය ශාකය - නික ශාකය පිළිබද සියලු විස්තර | Vitex negundo",
+                "url": "https://youtube.com/watch?v=Cfsr6eHc1BU",
+                "duration": "17:51",
+                "thumbnail": "https://i.ytimg.com/vi/Cfsr6eHc1BU/hq720.jpg"
+            },
+            {
+                "title": "පීඩා විඳින සෙමට සහනයක් | සෙම නසන හෙළ වෙදකම් ප්‍රතිකාර",
+                "url": "https://youtube.com/watch?v=MA9deJb69vE",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/MA9deJb69vE/hqdefault.jpg"
+            },
+            {
+                "title": "සෙම් රෝග නසන නික - Vitex negundo",
+                "url": "https://youtube.com/watch?v=LdChVXNWW6A",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/LdChVXNWW6A/hq720.jpg"
+            },
+            {
+                "title": "නික ගුණ වරුණ . සෙම් රෝග සහ වේදනා සමනයට. Health benefits of Nika.",
+                "url": "https://youtube.com/watch?v=dAbEbI3QMlc",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/dAbEbI3QMlc/frame0.jpg"
+            },
+            {
+                "title": "සන්ධි රෝග සමනයකරන නික ශාකයේ ගුණ 7ක්",
+                "url": "https://youtube.com/watch?v=ibJqtIyDu1Y",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/ibJqtIyDu1Y/hq720.jpg"
+            },
+            {
+                "title": "නික කොළ සාත්තුව | ගෙදරදිම කොන්ඩය දිගට ඝනකම්ව වවා ගන්න සත්කාර | Home Remedies for Thick Hair",
+                "url": "https://youtube.com/watch?v=7suB8q7hjJE",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/7suB8q7hjJE/hq720.jpg"
+            },
+            {
+                "title": "නික",
+                "url": "https://youtube.com/watch?v=TKmnpyTm5gQ",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/TKmnpyTm5gQ/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන \" නික \" 🌿 ශාකයෙන් ලබාගත හැකි   ඖෂධීය ගුණයන් 🌿",
+                "url": "https://youtube.com/watch?v=RwLw_UkUmek",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/RwLw_UkUmek/hq720.jpg"
+            },
+            {
+                "title": "නික - Nika - Vitex negundo",
+                "url": "https://youtube.com/watch?v=_I-gybUy3rA",
+                "duration": "1:10",
+                "thumbnail": "https://i.ytimg.com/vi/_I-gybUy3rA/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Ulcers/Sores",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Sinusitis",
-      "sinhala": "සයිනස් ප්‍රදාහය (පීනස)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Flatulence",
-      "sinhala": "බඩ පිපුම (වාතය පිරීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Inflammatory Conditions",
-      "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Coma",
-      "sinhala": "අසිහිය / කෝමා තත්ත්වය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Stupor",
-      "sinhala": "නිද්‍රාශීලී බව / සිහිමද ගතිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Spider Bites",
-      "sinhala": "විෂ සහිත මකුළු දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Body Ache",
-      "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Leprosy",
-      "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Bark",
-    "Fruit",
-    "Root"
-  ],
-  "images": [
-    {
-      "image_id": "544",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/60M9JB49/plant01354-00544.jpg"
-    },
-    {
-      "image_id": "545",
-      "caption": "Habit of the species -2",
-      "url": "https://i.ibb.co/0pXZsKhH/plant01354-00545.jpg"
-    },
-    {
-      "image_id": "1583",
-      "caption": "Habit - Nil Nika",
-      "url": "https://i.ibb.co/dsYHKQS0/plant01354-01583.jpg"
-    },
-    {
-      "image_id": "1584",
-      "caption": "Underside of young leaves - Nil Nika",
-      "url": "https://i.ibb.co/rRSZSKy1/plant01354-01584.jpg"
-    },
-    {
-      "image_id": "546",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/TMh88TSV/plant01354-00546.jpg"
-    },
-    {
-      "image_id": "1585",
-      "caption": "Flowers and inflorescence - Nil Nika",
-      "url": "https://i.ibb.co/ZpF4yX1B/plant01354-01585.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

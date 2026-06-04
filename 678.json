@@ -1,147 +1,242 @@
 {
-  "scientificName": "Vigna radiata (L.) R.Wilczek",
-  "synonyms": [
-    "Azukia radiata (L.) Ohwi",
-    "Phaseolus radiatus L.",
-    "Pueraria chanetii H.Lév."
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Mung Pea",
-    "Green Gram",
-    "Jerusalem Pea",
-    "Mung Bean",
-    "Sona Mung",
-    "Green Bean"
-  ],
-  "sinhalaName": "Mun (මුං)",
-  "description": "සෘජු හෝ වැල් ලෙස වැඩෙන, වාර්ෂික ශාකසාරයකි; කඳ සෙන්ටිමීටර 50ක් පමණ දිගය. පත්‍ර අක්ෂය (leaf rachis) සෙන්ටිමීටර 1.5-4ක් දිග වන අතර වෘන්ත සහිතය; උපපත්‍ර (stipules) පලිහක හැඩැති (peltate) වන අතර 1-1.8 x 0.3-1 සෙන්ටිමීටර ප්‍රමාණයෙන් යුක්තය; පත්‍රිකා 5-16 x 3-12 සෙන්ටිමීටර වන අතර, අඛණ්ඩ හෝ ඛණ්ඩනය වූ (lobed) හැඩයක් ගනී. පුෂ්ප මංජරි (inflorescences) පත්‍ර කක්ෂීය (axillary) වන අතර සෙන්ටිමීටර 10ක් පමණ දිගය, මල් කිහිපයක සිට බොහෝ සංඛ්‍යාවක් දක්වා දරයි. මල් සෙන්ටිමීටර 1.5ක් පමණ දිග වන අතර, පුෂ්ප වෘන්ත (pedicels) මිලිමීටර 2-3ක් පමණ දිගය; පෙති කහ හෝ කොළ පැහැයට හුරු කහ පැහැයක් ගන්නා අතර, ඇතැම් විට ඇතුළත රෝස පැහැයට හුරු විය හැක. ඵලය සර්පිලාකාරව විවෘත වන (spirally dehiscent), උද්ධමිත (turgid) ස්වභාවයක් ගන්නා අතර, සෙන්ටිමීටර 4-9ක් දිග, මිලිමීටර 5-6ක් පළල සහ මිලිමීටර 4ක් පමණ ඝනකමකින් යුක්තය; බීජ (8-)11-14ක් අඩංගු වේ. බීජ සිලින්ඩරාකාර වන අතර, 2.5-4.2 x 2.5-3.2 x 2.3-2.8 මිලිමීටර ප්‍රමාණයෙන් යුක්තය, රෝම සහිත වන අතර කොළ, දුඹුරු හෝ කළු පැහැයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Vigna radiata (L.) R.Wilczek",
+    "synonyms": [
+        "Azukia radiata (L.) Ohwi",
+        "Phaseolus radiatus L.",
+        "Pueraria chanetii H.Lév."
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Mung Pea",
+        "Green Gram",
+        "Jerusalem Pea",
+        "Mung Bean",
+        "Sona Mung",
+        "Green Bean"
+    ],
+    "sinhalaName": "Mun (මුං)",
+    "description": "සෘජු හෝ වැල් ලෙස වැඩෙන, වාර්ෂික ශාකසාරයකි; කඳ සෙන්ටිමීටර 50ක් පමණ දිගය. පත්‍ර අක්ෂය (leaf rachis) සෙන්ටිමීටර 1.5-4ක් දිග වන අතර වෘන්ත සහිතය; උපපත්‍ර (stipules) පලිහක හැඩැති (peltate) වන අතර 1-1.8 x 0.3-1 සෙන්ටිමීටර ප්‍රමාණයෙන් යුක්තය; පත්‍රිකා 5-16 x 3-12 සෙන්ටිමීටර වන අතර, අඛණ්ඩ හෝ ඛණ්ඩනය වූ (lobed) හැඩයක් ගනී. පුෂ්ප මංජරි (inflorescences) පත්‍ර කක්ෂීය (axillary) වන අතර සෙන්ටිමීටර 10ක් පමණ දිගය, මල් කිහිපයක සිට බොහෝ සංඛ්‍යාවක් දක්වා දරයි. මල් සෙන්ටිමීටර 1.5ක් පමණ දිග වන අතර, පුෂ්ප වෘන්ත (pedicels) මිලිමීටර 2-3ක් පමණ දිගය; පෙති කහ හෝ කොළ පැහැයට හුරු කහ පැහැයක් ගන්නා අතර, ඇතැම් විට ඇතුළත රෝස පැහැයට හුරු විය හැක. ඵලය සර්පිලාකාරව විවෘත වන (spirally dehiscent), උද්ධමිත (turgid) ස්වභාවයක් ගන්නා අතර, සෙන්ටිමීටර 4-9ක් දිග, මිලිමීටර 5-6ක් පළල සහ මිලිමීටර 4ක් පමණ ඝනකමකින් යුක්තය; බීජ (8-)11-14ක් අඩංගු වේ. බීජ සිලින්ඩරාකාර වන අතර, 2.5-4.2 x 2.5-3.2 x 2.3-2.8 මිලිමීටර ප්‍රමාණයෙන් යුක්තය, රෝම සහිත වන අතර කොළ, දුඹුරු හෝ කළු පැහැයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Nasal Disorders",
+            "sinhala": "නාසය ආශ්‍රිත රෝග සහ ආබාධ (නාසා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Ear Diseases",
+            "sinhala": "කන් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Oral Diseases",
+            "sinhala": "මුඛය ආශ්‍රිත රෝග (මුඛ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Insomnia",
+            "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Psoriasis",
+            "sinhala": "සොරායසිස් (පොතු කබර රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds",
+        "Whole plant"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "දින 7න් අස්වැන්න දෙන මුං ඇට    | Mung Bean Microgreens Sinhala",
+                "url": "https://youtube.com/watch?v=J8SLhzsVh_o",
+                "duration": "4:34",
+                "thumbnail": "https://i.ytimg.com/vi/J8SLhzsVh_o/hq720.jpg"
+            },
+            {
+                "title": "🇱🇰 How to make Mung bean sprots - මුං,ඇට අංකුර නිවැරැදි ව හදමු",
+                "url": "https://youtube.com/watch?v=oWZJ9RrzZuM",
+                "duration": "12:36",
+                "thumbnail": "https://i.ytimg.com/vi/oWZJ9RrzZuM/hq720.jpg"
+            },
+            {
+                "title": "මුං ඇට දවස් 14ක් කෑවොත් වෙන මැජික් එක! | Benefits of Mung Beans (Sinhala)",
+                "url": "https://youtube.com/watch?v=R4TAC6ChZxs",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/R4TAC6ChZxs/hq720.jpg"
+            },
+            {
+                "title": "මුංඇට වල විශ්මිත ගුණය - Amazing quality of green gram",
+                "url": "https://youtube.com/watch?v=hqqZj_KO6_o",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/hqqZj_KO6_o/hq720.jpg"
+            },
+            {
+                "title": "මුං ඇට කන අයට ලැබෙන දේවල් මෙන්න Mung Beans Benefits (2019)",
+                "url": "https://youtube.com/watch?v=6XcOZAOU-Fs",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/6XcOZAOU-Fs/hq720.jpg"
+            },
+            {
+                "title": "මුං ඇට තුල ඇති විශ්මිත ගුණයන්",
+                "url": "https://youtube.com/watch?v=64deQVoQsTQ",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/64deQVoQsTQ/hq720.jpg"
+            },
+            {
+                "title": "මුං ඇට දියවැඩියාවට හොඳ ද? | Are Mung Beans good for diabetics? | මුං ඇට කන්න පුළුවන්ද බත් වෙනුවට ?",
+                "url": "https://youtube.com/watch?v=Sjk_n2Upd64",
+                "duration": "9:41",
+                "thumbnail": "https://i.ytimg.com/vi/Sjk_n2Upd64/hq720.jpg"
+            },
+            {
+                "title": "බර අඩු කරන, කොලෙස්ටරෝල්, දියවැඩියාව පාලනයට ගුණ ආහාරය පැළ මුං | Mung bean sprouts",
+                "url": "https://youtube.com/watch?v=B6aXsgnrL4Q",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/B6aXsgnrL4Q/hq720.jpg"
+            },
+            {
+                "title": "මුං ඇට කන්න කලින් දැනගන්න ..😯 health benifits of mung beans...😋",
+                "url": "https://youtube.com/watch?v=LYKFwGhRqJI",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/LYKFwGhRqJI/hq720.jpg"
+            },
+            {
+                "title": "ඔබ දැනන් හිටියද‍ \\\\ මුං ඇට වල ගුණ ගැන \\\\ Health benefits of mung beans",
+                "url": "https://youtube.com/watch?v=Cf263iZ-M4k",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/Cf263iZ-M4k/hq720.jpg"
+            },
+            {
+                "title": "මුං මේස හැඳි තුනෙන් හදාගත්තු පෝෂණ ගබඩාව  Green Gram Sprouts By Kusala's Simple Life",
+                "url": "https://youtube.com/watch?v=C0fm6ot4R_k",
+                "duration": "7:18",
+                "thumbnail": "https://i.ytimg.com/vi/C0fm6ot4R_k/hqdefault.jpg"
+            },
+            {
+                "title": "මස් පරදන හොඳම පෝෂකය මුං ඇට - 8 Health Benefits of Mung Beans",
+                "url": "https://youtube.com/watch?v=9RRfYUYZx64",
+                "duration": "5:18",
+                "thumbnail": "https://i.ytimg.com/vi/9RRfYUYZx64/hq720.jpg"
+            },
+            {
+                "title": "Srilanka Mun Wagawa/Green Gram Cultivation",
+                "url": "https://youtube.com/watch?v=NRi2pBjnJcQ",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/NRi2pBjnJcQ/hq720.jpg"
+            },
+            {
+                "title": "🌿🍠 Mung bean දියවැඩියා රෝගීන්ට මුං ඇට  රුධිර සීනිවලට  බලපෑම, දියවැඩියාවට මුං ඇට දියවැඩියාවට හොඳද ?",
+                "url": "https://youtube.com/watch?v=ZHUDzuLcx6Q",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/ZHUDzuLcx6Q/hq720.jpg"
+            },
+            {
+                "title": "අක්මාව ඉදිමෙන්න කලින් සතියකට වතාවක්වත් මේ විශ්මිත මුං ඇට කැද බොන්න",
+                "url": "https://youtube.com/watch?v=fqXOMjYJy9I",
+                "duration": "0:55",
+                "thumbnail": "https://i.ytimg.com/vi/fqXOMjYJy9I/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Nasal Disorders",
-      "sinhala": "නාසය ආශ්‍රිත රෝග සහ ආබාධ (නාසා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Ear Diseases",
-      "sinhala": "කන් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Oral Diseases",
-      "sinhala": "මුඛය ආශ්‍රිත රෝග (මුඛ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Insomnia",
-      "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Psoriasis",
-      "sinhala": "සොරායසිස් (පොතු කබර රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds",
-    "Whole plant"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

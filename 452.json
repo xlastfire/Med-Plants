@@ -1,54 +1,617 @@
 {
-  "scientificName": "Diospyros montana Roxb.",
-  "synonyms": [
-    "Diospyros auriculata Wight ex Hiern",
-    "Diospyros bracteata Roxb.",
-    "Diospyros calcarea H.R.Fletcher",
-    "Diospyros calycina Bedd.",
-    "Diospyros cordifolia Roxb.",
-    "Diospyros dioica Span.",
-    "Diospyros glauca Rottler",
-    "Diospyros goindu Dalzell",
-    "Diospyros heterophylla Wall. ex G.Don",
-    "Diospyros humilis Bourd.",
-    "Diospyros kanjilalii Duthie",
-    "Diospyros microcarpa Span.",
-    "Diospyros montana f. cordifolia (Roxb.) Hiern",
-    "Diospyros montana var. cordifolia (Roxb.) Hiern",
-    "Diospyros orixensis J.G.Klein ex Willd.",
-    "Diospyros pubicalyx Bakh.",
-    "Diospyros punctata Decne.",
-    "Diospyros waldemarii Klotzsch"
-  ],
-  "familyName": "EBENACEAE",
-  "englishNames": [
-    "Bombay Ebony"
-  ],
-  "sinhalaName": "Gini bulu (ගිනි බුළු)",
-  "description": "මීටර් 4ක් දක්වා උස සහ සෙන්ටිමීටර 60ක් විෂ්කම්භය සහිත ගසකි, පොත්ත අළු පැහැයේ සිට කහ පැහැයට හුරු අළු පැහැයක් ගනී. පත්‍ර ඒකාන්තර (alternate) වේ, කඩදාසි වැනි (chartaceous) ස්වභාවයක් ගනී, දිගටි (oblong) සිට අර්ධ-ඩිම්බාකාර-දිගටි (subovate-oblong) හැඩයක් ගනී, ඉතා කෙටි, පළල් සහ මොට අග්‍රයක් (obtusely acuminate) සහිතය; පත්‍ර පාදය වටකුරු හෝ කැපූ (truncate) හෝ පත්‍ර දණ්ඩ අසල කෙටි කුඤ්ඤාකාර (cuneate) කොටසක් සහිත අර්ධ-හෘදයාකාර (subcordate) හැඩයක් ගනී. පිරිමි පුෂ්ප මංජරිය මල් 3කින් යුත් සයිමයක් (cyme) වන අතර, ගැහැණු මල් සාමාන්‍යයෙන් අතු මත හෝ පත්‍ර අක්ෂවල තනිව පිහිටයි. මල් කිරීටය (corolla) සුදු හෝ කහ පැහැති වන අතර පුළුල් උගුරක් සහිතය. පලතුර ගෝලාකාර (globose) හෝ මදක් තැළී ගිය ගෝලාකාර (depressed-globose) හැඩයක් ගනී, මුලින් කහ පැහැති වන අතර පසුව රතු පැහැයට හැරේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "2068",
-      "caption": "Fruits 1 (PMR)",
-      "url": "https://i.ibb.co/wZ0vwnqF/plant00452-02068.jpg"
+    "scientificName": "Diospyros montana Roxb.",
+    "synonyms": [
+        "Diospyros auriculata Wight ex Hiern",
+        "Diospyros bracteata Roxb.",
+        "Diospyros calcarea H.R.Fletcher",
+        "Diospyros calycina Bedd.",
+        "Diospyros cordifolia Roxb.",
+        "Diospyros dioica Span.",
+        "Diospyros glauca Rottler",
+        "Diospyros goindu Dalzell",
+        "Diospyros heterophylla Wall. ex G.Don",
+        "Diospyros humilis Bourd.",
+        "Diospyros kanjilalii Duthie",
+        "Diospyros microcarpa Span.",
+        "Diospyros montana f. cordifolia (Roxb.) Hiern",
+        "Diospyros montana var. cordifolia (Roxb.) Hiern",
+        "Diospyros orixensis J.G.Klein ex Willd.",
+        "Diospyros pubicalyx Bakh.",
+        "Diospyros punctata Decne.",
+        "Diospyros waldemarii Klotzsch"
+    ],
+    "familyName": "EBENACEAE",
+    "englishNames": [
+        "Bombay Ebony"
+    ],
+    "sinhalaName": "Gini bulu (ගිනි බුළු)",
+    "description": "මීටර් 4ක් දක්වා උස සහ සෙන්ටිමීටර 60ක් විෂ්කම්භය සහිත ගසකි, පොත්ත අළු පැහැයේ සිට කහ පැහැයට හුරු අළු පැහැයක් ගනී. පත්‍ර ඒකාන්තර (alternate) වේ, කඩදාසි වැනි (chartaceous) ස්වභාවයක් ගනී, දිගටි (oblong) සිට අර්ධ-ඩිම්බාකාර-දිගටි (subovate-oblong) හැඩයක් ගනී, ඉතා කෙටි, පළල් සහ මොට අග්‍රයක් (obtusely acuminate) සහිතය; පත්‍ර පාදය වටකුරු හෝ කැපූ (truncate) හෝ පත්‍ර දණ්ඩ අසල කෙටි කුඤ්ඤාකාර (cuneate) කොටසක් සහිත අර්ධ-හෘදයාකාර (subcordate) හැඩයක් ගනී. පිරිමි පුෂ්ප මංජරිය මල් 3කින් යුත් සයිමයක් (cyme) වන අතර, ගැහැණු මල් සාමාන්‍යයෙන් අතු මත හෝ පත්‍ර අක්ෂවල තනිව පිහිටයි. මල් කිරීටය (corolla) සුදු හෝ කහ පැහැති වන අතර පුළුල් උගුරක් සහිතය. පලතුර ගෝලාකාර (globose) හෝ මදක් තැළී ගිය ගෝලාකාර (depressed-globose) හැඩයක් ගනී, මුලින් කහ පැහැති වන අතර පසුව රතු පැහැයට හැරේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "2068",
+            "caption": "Fruits 1 (PMR)",
+            "url": "https://i.ibb.co/wZ0vwnqF/plant00452-02068.jpg"
+        },
+        {
+            "image_id": "2069",
+            "caption": "Fruits 2 (PMR)",
+            "url": "https://i.ibb.co/j92KVVb7/plant00452-02069.jpg"
+        },
+        {
+            "image_id": "2070",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/KcPkZHJZ/plant00452-02070.jpg"
+        },
+        {
+            "image_id": "2071",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/M53XN5Mn/plant00452-02071.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කොළඹ එක ගිනි විජ්ජුම්බරයයි වහාම ආරක්ෂක අංශ කැදවයි",
+                "url": "https://youtube.com/watch?v=H7LknXQLIH8",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/H7LknXQLIH8/hq720.jpg"
+            },
+            {
+                "title": "මෙට්ට තිබ්බ ගබඩාවෙන් ගින්න පටන් ගත්තේ..|මිල්ලණියේ සුරැකුම් නිවසට ගිනි ඇවිලුණු හැටි සේවකයෙක් හෙළිකරයි",
+                "url": "https://youtube.com/watch?v=LvtU-yFPhVo",
+                "duration": "9:20",
+                "thumbnail": "https://i.ytimg.com/vi/LvtU-yFPhVo/hq720.jpg"
+            },
+            {
+                "title": "ගිනි බෝල කරුවන් ( gini bola ) 🔥 🔥 🔥 🔥",
+                "url": "https://youtube.com/watch?v=-mLzYNDvESU",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/-mLzYNDvESU/hq720.jpg"
+            },
+            {
+                "title": "ගිණි කන්දක් පුපුරා යන අවස්ථාවක් සජීවීව නරඹන්න🥵🥵🥵",
+                "url": "https://youtube.com/watch?v=qYVLPO_d4tc",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/qYVLPO_d4tc/hqdefault.jpg"
+            },
+            {
+                "title": "කොලරාඩෝ ගිනි බෝම්බ ප්‍රහාරකයාට ජීවිතාන්තය දක්වා සිර දඬුවම්",
+                "url": "https://youtube.com/watch?v=KRr8wntWW2I",
+                "duration": "0:25",
+                "thumbnail": "https://i.ytimg.com/vi/KRr8wntWW2I/hq720.jpg"
+            },
+            {
+                "title": "කළුබෝවිල රෝහල ලග ගිනි විජ්ජුඹරයයි ඕකුන් ආණ්ඩුවේ බලතල ඉල්ලනවා උන්ට හෙන හතම ගහපන්",
+                "url": "https://youtube.com/watch?v=i4zTR2avQJE",
+                "duration": "6:54",
+                "thumbnail": "https://i.ytimg.com/vi/i4zTR2avQJE/hq720.jpg"
+            },
+            {
+                "title": "Bulu බුළු / දේශීය ඖෂද හදුනා ගනිමු. / Terminalia Belerica Roxb",
+                "url": "https://youtube.com/watch?v=_UbRBx1yq3U",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/_UbRBx1yq3U/hq720.jpg"
+            },
+            {
+                "title": "එකම පවුලේ පියා සහ දියණියකට මරු කැඳවූ ගලෙන්බිඳුණුවැව බිහිසුණු ගිනි තැබීම...",
+                "url": "https://youtube.com/watch?v=qg5yXwv7hIQ",
+                "duration": "0:47",
+                "thumbnail": "https://i.ytimg.com/vi/qg5yXwv7hIQ/hq720.jpg"
+            },
+            {
+                "title": "ගිනි තණ - Panicum maximum",
+                "url": "https://youtube.com/watch?v=Sa8bxUa5U_o",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/Sa8bxUa5U_o/hqdefault.jpg"
+            },
+            {
+                "title": "එළිවෙනකන් කන්න හිතෙනවා 🍔😜",
+                "url": "https://youtube.com/watch?v=hHhgwdYxOMs",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/hHhgwdYxOMs/hq720.jpg"
+            },
+            {
+                "title": "ගොළුබෙලි බ්යිට්! - Bakannila - by Gune Aiya",
+                "url": "https://youtube.com/watch?v=-UoqpVrGepg",
+                "duration": "57:45",
+                "thumbnail": "https://i.ytimg.com/vi/-UoqpVrGepg/hq720.jpg"
+            },
+            {
+                "title": "මිල්ලණිය බටගොඩ වැඩිහිටි නිවාසයක දරුණු ගින්නක්",
+                "url": "https://youtube.com/watch?v=tCj7O4eigi4",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/tCj7O4eigi4/hq720.jpg"
+            },
+            {
+                "title": "කොළඹ එක ගිනි විජ්ජුම්බරයයි වහාම ආරක්ෂක අංශ කැදවයි",
+                "url": "https://youtube.com/watch?v=UKHjEcPhZ4I",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/H7LknXQLIH8/hq720.jpg"
+            },
+            {
+                "title": "Lakai Sikai - Gini Avi Saha Bul Keli | ලකයි සිකයි - ගිණිඅවි සහ බුල්කෙළි",
+                "url": "https://youtube.com/watch?v=iDv15nboufc",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/iDv15nboufc/hq720.jpg"
+            },
+            {
+                "title": "Gini bola",
+                "url": "https://youtube.com/watch?v=uiZT77tc0_Q",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/uiZT77tc0_Q/hqdefault.jpg"
+            },
+            {
+                "title": "Episode 18 | ගිනිතිල්ල වැලක් ගෙවත්තට එකතු කරමු  | How to grow a Ginithilal in the garden",
+                "url": "https://youtube.com/watch?v=hPajjz2RBec",
+                "duration": "5:16",
+                "thumbnail": "https://i.ytimg.com/vi/hPajjz2RBec/hq720.jpg"
+            },
+            {
+                "title": "Gini Puligu ( ගිනි පුලිඟු ) - Tharu Priyadarshana | Official Music Video | New Sinhala Songs 2026",
+                "url": "https://youtube.com/watch?v=2E6B0EtOeP0",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/2E6B0EtOeP0/hq720.jpg"
+            },
+            {
+                "title": "'අනු බුදු ගුණ බෙලෙන් ‍යුද ගිනි නිවේවා' - මිහින්තලා පොසොන් පිංකම් කමිටුව රැස්වෙයි - HiruNews",
+                "url": "https://youtube.com/watch?v=s9UR_QZAonU",
+                "duration": "0:54",
+                "thumbnail": "https://i.ytimg.com/vi/s9UR_QZAonU/hq720.jpg"
+            },
+            {
+                "title": "බුළු ශාකය, ඖෂධීය ගුණ ඇති ශාකයකි.",
+                "url": "https://youtube.com/watch?v=knI11egjdSY",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/knI11egjdSY/hqdefault.jpg"
+            },
+            {
+                "title": "බුරුල්ල || ගුරුල්ල || Burulla || Gurulla|| Leea indica (10)",
+                "url": "https://youtube.com/watch?v=CQK55YRjBxU",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/CQK55YRjBxU/hqdefault.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "🔴 සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය| Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=hGQTuoUf2GE",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/hGQTuoUf2GE/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ගැන හැමෝම අහන ප්‍රශ්න | Bin Kohomba | Ceylon Agri | Episode 370",
+                "url": "https://youtube.com/watch?v=bsDV6DgOPZQ",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/bsDV6DgOPZQ/hq720.jpg"
+            },
+            {
+                "title": "ඉක්මණින් ශුක්‍රානු පිටවීම ආදී රෝග රැසකට ගුණදෙන බුලත් ගැන කවදාවත් නොවැසූ ආයුර්වේද රහස්",
+                "url": "https://youtube.com/watch?v=Rnu9zjTvxv0",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/Rnu9zjTvxv0/hq720.jpg"
+            },
+            {
+                "title": "ලේසියෙන් බඩ ගිනි නිවන සිරුරටත් ගුණ දෙන සුපිරි කැදක්",
+                "url": "https://youtube.com/watch?v=XkahtNcf9Hs",
+                "duration": "24:27",
+                "thumbnail": "https://i.ytimg.com/vi/XkahtNcf9Hs/hqdefault.jpg"
+            },
+            {
+                "title": "Most advantageous BULU | Sirasa suwapath karana bulu | Bulu medicinal qualities | Bulu tree | බුලු",
+                "url": "https://youtube.com/watch?v=B0CRSEac6T4",
+                "duration": "13:03",
+                "thumbnail": "https://i.ytimg.com/vi/B0CRSEac6T4/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "ඔබ දන්නේ නැති! ගොඩක් ලෙඩවල මුලය තියෙන තැන | The Root Of Many Diseases That You Don't Know About",
+                "url": "https://youtube.com/watch?v=tw9-ti2j9mQ",
+                "duration": "10:00",
+                "thumbnail": "https://i.ytimg.com/vi/tw9-ti2j9mQ/hq720.jpg"
+            },
+            {
+                "title": "බෙලිමල් බොන අයට වෙන අමුතු දේවල් : Benefits of Belimal Tea",
+                "url": "https://youtube.com/watch?v=3oEzGBvwclE",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/3oEzGBvwclE/hq720.jpg"
+            },
+            {
+                "title": "බිලිං වල ඇති ගුණ ඔබත් දැන සිට්යාද |  Averrhoa bilimbi🌿",
+                "url": "https://youtube.com/watch?v=2ARtEieQKUU",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/2ARtEieQKUU/hqdefault.jpg"
+            },
+            {
+                "title": "ඉබෝලා ගැන අනවශ්‍ය බියක් ඇති කරගන්න එපා! සෞඛ්‍ය අංශයෙන් දැනුම් දීමක් - Hiru News",
+                "url": "https://youtube.com/watch?v=FHdZ6hkBFAk",
+                "duration": "1:32",
+                "thumbnail": "https://i.ytimg.com/vi/FHdZ6hkBFAk/hq720.jpg"
+            },
+            {
+                "title": "පස සරු කරන නිදිකුම්බා වල ඇති ඖෂධීය ගුණ | Mimosa Pudica",
+                "url": "https://youtube.com/watch?v=CIaHx0QqHhM",
+                "duration": "9:31",
+                "thumbnail": "https://i.ytimg.com/vi/CIaHx0QqHhM/hq720.jpg"
+            },
+            {
+                "title": "බොහෝ අය නොදන්න, ශරීරයට ඉතාමත්ම ගුණදායක විරේක ක්‍රම | බුදුවෙදකම | EPISODE 33",
+                "url": "https://youtube.com/watch?v=kefYLSTzekY",
+                "duration": "23:51",
+                "thumbnail": "https://i.ytimg.com/vi/kefYLSTzekY/hq720.jpg"
+            },
+            {
+                "title": "මේ ගසේ කොළ ටිකක් කුඩු කරලා කෑවෙත් දියවැඩියාව සදහටම මට්ටුයි! - ඇගේ පටස් ගාලා ක්ෂණිකව සීනි බහිනවා!",
+                "url": "https://youtube.com/watch?v=juTMsxstz7k",
+                "duration": "23:43",
+                "thumbnail": "https://i.ytimg.com/vi/juTMsxstz7k/hq720.jpg"
+            },
+            {
+                "title": "කන්න බොන්න දීලා විනාඩි කීපයකින් ලෙඩ සුව කරයි | බන්දුල වෙද මැදුර #Thinetha_lanaka_tv #medicine",
+                "url": "https://youtube.com/watch?v=oXLUMHLpBGo",
+                "duration": "27:27",
+                "thumbnail": "https://i.ytimg.com/vi/oXLUMHLpBGo/hqdefault.jpg"
+            },
+            {
+                "title": "දෙහි ගෙඩි 3 කින් ගැස්ට්‍රයිටිස් දවස් 3 න් හොද කරගමු",
+                "url": "https://youtube.com/watch?v=AVhrUST-M_4",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/AVhrUST-M_4/hq720.jpg"
+            },
+            {
+                "title": "ඉමියුන‍ොග්ලොබියුලීන් ඖෂධවල තිබුණේ වතුර",
+                "url": "https://youtube.com/watch?v=8RVFZb9Dxjs",
+                "duration": "1:17",
+                "thumbnail": "https://i.ytimg.com/vi/8RVFZb9Dxjs/hq720.jpg"
+            },
+            {
+                "title": "හැම ලෙඩකටම ඖෂධ වර්ග හදාගන්න හැටි ගැන බුදුන් වහන්සේ වදාළ  කරුණු කවුරු වත් තවම දන්නෙ නැහැ | EPISODE 17",
+                "url": "https://youtube.com/watch?v=N97G_EAGhFU",
+                "duration": "21:03",
+                "thumbnail": "https://i.ytimg.com/vi/N97G_EAGhFU/hq720.jpg"
+            },
+            {
+                "title": "නහර බ්ලොක් වෙන එක නවත්තන මැජික් පානය මෙන්න | Cholesterol-lowering tamarind drink",
+                "url": "https://youtube.com/watch?v=gqSei88b258",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/gqSei88b258/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "හැදුණොත් සීනි ලේසි නෑනි. ඔක්කොටම කළින් වෛද්‍යවරියගේ මේ කතාව බලන්න.",
+                "url": "https://youtube.com/watch?v=Vej58Ed6glI",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/Vej58Ed6glI/hq720.jpg"
+            },
+            {
+                "title": "Triphala  Herbal Remedies For Everyday living",
+                "url": "https://youtube.com/watch?v=hdF2eD94N3c",
+                "duration": "4:53",
+                "thumbnail": "https://i.ytimg.com/vi/hdF2eD94N3c/hq720.jpg"
+            },
+            {
+                "title": "විවිධ ලෙඩරෝග වලට බුදුන් වදාල ඖෂධ දන්නවාද? | BUDU WEDAKAMA | EPISODE 21",
+                "url": "https://youtube.com/watch?v=2BBo0EEiTwg",
+                "duration": "23:28",
+                "thumbnail": "https://i.ytimg.com/vi/2BBo0EEiTwg/hq720.jpg"
+            },
+            {
+                "title": "Unlocking the traditional powers of Terminalia bellirica / BULU /  බුලු කඩන්නයි යන්නේ #ceylon #bulu",
+                "url": "https://youtube.com/watch?v=-5a4dCXHkSI",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/-5a4dCXHkSI/hq720.jpg"
+            },
+            {
+                "title": "නයි පොලොන් සංවාසය හරි පුදුමයි..| BUDU WEDAKAMA | EPISODE 11",
+                "url": "https://youtube.com/watch?v=3akhS-VRBcQ",
+                "duration": "22:56",
+                "thumbnail": "https://i.ytimg.com/vi/3akhS-VRBcQ/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ශාකයේ ඔසු ගුණ | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=29JyQOFg1WI",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/29JyQOFg1WI/hq720.jpg"
+            },
+            {
+                "title": "Igini | ස්වභාවික ජල පවිත්‍රකාරකය ඉඟිනි | ඔසු ගුණ | Strychnos potatorum | @osu-1380",
+                "url": "https://youtube.com/watch?v=bXiktxeJwOk",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/bXiktxeJwOk/hq720.jpg"
+            },
+            {
+                "title": "කහ වල ඇති ඔෳෂධිය ගුණ 15ක්|Turmeric15 medicinal properties of",
+                "url": "https://youtube.com/watch?v=_eRkyprVr4o",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/_eRkyprVr4o/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව ඇතූලු රෝග රැසකට ගුණදෙන/ගිනි තිල්ල ඖෂධ ශාකය",
+                "url": "https://youtube.com/watch?v=Ch-wcI_UK-M",
+                "duration": "5:40",
+                "thumbnail": "https://i.ytimg.com/vi/Ch-wcI_UK-M/hq720.jpg"
+            },
+            {
+                "title": "පයට පෑගුණත් ඇසට ගුණ දෙන හීන් උඳුපියලිය undupiyaliya wala guna Creeping Tick Trefoil Three",
+                "url": "https://youtube.com/watch?v=xEruag0JtS8",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/xEruag0JtS8/hq720.jpg"
+            },
+            {
+                "title": "සෙනෙහසේ කැදැල්ල ගිනිගත් හේතුව ?..\"මෙට්ටවලට ගිනි ඇවිළුණා කිව්වා..සමහරු ගෑස් කාන්දුවක් කිව්වා\"",
+                "url": "https://youtube.com/watch?v=olpzP2WEML4",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/olpzP2WEML4/hq720.jpg"
+            },
+            {
+                "title": "උහුලන්නට බැරි වේදනා විඳිමින් | ගිනි අඟුරු කන නිරිසතුන් 😮",
+                "url": "https://youtube.com/watch?v=Ymc96WBGV80",
+                "duration": "32:20",
+                "thumbnail": "https://i.ytimg.com/vi/Ymc96WBGV80/hq720.jpg"
+            },
+            {
+                "title": "ගොනු කෑ කොළ හෙවත් ගොනිකා වල විශ්මිත සුව කිරීමේ ගුණ | @Sakalawaga | #gonika #ගොනිකා",
+                "url": "https://youtube.com/watch?v=y5dCYJS7zRE",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/y5dCYJS7zRE/hqdefault.jpg"
+            },
+            {
+                "title": "05.ගිනි ගන්නා ඔබේ ලෝකයට විසඳුමක් දකින්නට අත්වැලක් වන ප්‍රශ්ණ 10 ක් | Dr. Gayani Ranasinghe",
+                "url": "https://youtube.com/watch?v=IqsEU1zQh-A",
+                "duration": "1:24:07",
+                "thumbnail": "https://i.ytimg.com/vi/IqsEU1zQh-A/hq720.jpg"
+            },
+            {
+                "title": "නම අගුණ වුණත් බොහෝ  ගුණ ඇති කිරි අඟුණ kiri aguna plant benefits මව්කිරි වඩවන ආහාර",
+                "url": "https://youtube.com/watch?v=N7SwafIqdZU",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/N7SwafIqdZU/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා ශාකයේ ගුණ අගුණ හරියට දැනගමු | Health benefits of Heen Bovitiya | Osbeckia octandra",
+                "url": "https://youtube.com/watch?v=qWhvPW9o2XI",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/qWhvPW9o2XI/hqdefault.jpg"
+            },
+            {
+                "title": "ළිප ගිනි මොලවීම කියන දේ හරියටම දැන ගමු....",
+                "url": "https://youtube.com/watch?v=NnZOgtiuVME",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/NnZOgtiuVME/hq720.jpg"
+            },
+            {
+                "title": "හීන්බෝවිටියා වල ගුණ | හීන්බෝවිටියා ලෙඩ රෝග කිහිපයකට ගුණදායකයි | Health benefits of Heen Bovitiya",
+                "url": "https://youtube.com/watch?v=gPgK8x0YzGc",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/gPgK8x0YzGc/hq720.jpg"
+            },
+            {
+                "title": "මොනවද මේ ගිනි කඳු කියන්නේ? What is volcanoes Sinhala",
+                "url": "https://youtube.com/watch?v=0BbGQSbyUc0",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/0BbGQSbyUc0/hq720.jpg"
+            },
+            {
+                "title": "How volcanoes form and is the largest volcano in the world|ගිනිකඳු නිර්මාණය |Lokaya Gaweshaka",
+                "url": "https://youtube.com/watch?v=H52xai35AR4",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/H52xai35AR4/hqdefault.jpg"
+            },
+            {
+                "title": "වසර 600කට පසු සක්‍රීය වුණ ගිනි කන්ද | Dormant Russia volcano",
+                "url": "https://youtube.com/watch?v=T8GYqnkIBeQ",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/T8GYqnkIBeQ/hq720.jpg"
+            },
+            {
+                "title": "ඉපැරණි ගොවිතැනේ වීර්ය රැකගනිමු | කුඹුරු ගිනි තබා මේ කරන විනාශය කුමක්ද?",
+                "url": "https://youtube.com/watch?v=x3Pb5b3Ru9o",
+                "duration": "7:43",
+                "thumbnail": "https://i.ytimg.com/vi/x3Pb5b3Ru9o/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "අකුණු සහ ගිගිරුම් ගැන හරියටම දන්නවාද?   |   Know exactly about lightning and thunder?",
+                "url": "https://youtube.com/watch?v=8jYnQNAvRhI",
+                "duration": "6:31",
+                "thumbnail": "https://i.ytimg.com/vi/8jYnQNAvRhI/hq720.jpg"
+            },
+            {
+                "title": "ගිනිගත් වැඩිහිටි නිවාසය ගැන ලැබුණු අලුත්ම වාර්තාව මෙන්න. ඇදන් පිටින්ම ගිනි අරන්",
+                "url": "https://youtube.com/watch?v=ImfKF0Pe5gk",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/ImfKF0Pe5gk/hq720.jpg"
+            },
+            {
+                "title": "විනාඩි කිහිපයකින් වනාන්තර අළු කරන \"ලැව් ගිනි\" | Forest Fires Explained",
+                "url": "https://youtube.com/watch?v=2cZavt8LToM",
+                "duration": "9:53",
+                "thumbnail": "https://i.ytimg.com/vi/2cZavt8LToM/hq720.jpg"
+            },
+            {
+                "title": "ලොව විශාලතම ගිනිකඳු 10 🌎🌋😶 10 largest volcanoes in the world @NobalanaWishwaya1",
+                "url": "https://youtube.com/watch?v=Ivxntf_CXsM",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/Ivxntf_CXsM/hq720.jpg"
+            },
+            {
+                "title": "Bougainvillea Tea BENEFITS & RECIPE for COUGHS, SORE THROAT, COLDS, FEVER & more / Earth's Medicine",
+                "url": "https://youtube.com/watch?v=HPKYwBwiDOo",
+                "duration": "10:50",
+                "thumbnail": "https://i.ytimg.com/vi/HPKYwBwiDOo/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "බෝවිටියා ගෙඩි කෑවොත් ලැබෙන දේවල් : Melastoma affine – Bovitiya – Benefits of Blue tongue fruit",
+                "url": "https://youtube.com/watch?v=y1bAMxKNLTM",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/y1bAMxKNLTM/hq720.jpg"
+            },
+            {
+                "title": "ගොනිකා කොළ කෑවම වෙන දේ මෙන්න : Gonika plant benefits",
+                "url": "https://youtube.com/watch?v=mzliflu1z8A",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/mzliflu1z8A/hq720.jpg"
+            },
+            {
+                "title": "Top 5 Health Benefits of Bhumi Amla (Phyllanthus niruri)",
+                "url": "https://youtube.com/watch?v=UYaM_w_jNxs",
+                "duration": "1:05",
+                "thumbnail": "https://i.ytimg.com/vi/UYaM_w_jNxs/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Phyllanthus plants:  (Chanca piedra, Bhumi Amla)",
+                "url": "https://youtube.com/watch?v=qBghgtxcyrg",
+                "duration": "5:23",
+                "thumbnail": "https://i.ytimg.com/vi/qBghgtxcyrg/hq720.jpg"
+            },
+            {
+                "title": "මොනවද මේ ගිනි වරකා? කාලා තියෙනවද? හරිම රසයි  Gini waraka - Anoma's kitchen",
+                "url": "https://youtube.com/watch?v=7ztjF1D-iz8",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/7ztjF1D-iz8/hq720.jpg"
+            },
+            {
+                "title": "Geranium (Pelargonium) Health Benefits | 13 Amazing Health Benefits of Geranium | Dr. Eilbra Younan",
+                "url": "https://youtube.com/watch?v=t59ykt82rfY",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/t59ykt82rfY/hq720.jpg"
+            },
+            {
+                "title": "Peperomia Pellucida, The Garden weed for Fertility, High Blood Pressure, Arthritis etc",
+                "url": "https://youtube.com/watch?v=9L8G4xphyq8",
+                "duration": "9:13",
+                "thumbnail": "https://i.ytimg.com/vi/9L8G4xphyq8/hqdefault.jpg"
+            },
+            {
+                "title": "197 දියවැඩියාවට ඉන්සියුලීන් ඉන්ජෙක්ෂන් ගහනවා වෙනුවටඉන්සියුලීන් පැලයක්පෝච්චියක වවමු longevity spinach",
+                "url": "https://youtube.com/watch?v=jRfksvjHUGY",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/jRfksvjHUGY/hq720.jpg"
+            },
+            {
+                "title": "බෙලි වල විශ්මිත ගුණය.  Value of Bael fruit",
+                "url": "https://youtube.com/watch?v=M3NTXXjHWWE",
+                "duration": "7:29",
+                "thumbnail": "https://i.ytimg.com/vi/M3NTXXjHWWE/hq720.jpg"
+            },
+            {
+                "title": "බෙලි කෑවොත් වෙන දේ දැනගන්න : Benefits of Bael fruit",
+                "url": "https://youtube.com/watch?v=95C7jjLiwxA",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/95C7jjLiwxA/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ කෑවම මොකද වෙන්නෙ : Health benefits of Kiri Aguna",
+                "url": "https://youtube.com/watch?v=o8vWzWsojxI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/o8vWzWsojxI/hq720.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බා ශාකය ගැන විස්තර සහ ඖෂධීය ගුණ | Benefits of Biophytum reinwardtii | හීන් නිදිකුම්බා",
+                "url": "https://youtube.com/watch?v=8iRynAE_2_E",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/8iRynAE_2_E/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල තිත්ත ඇත්ත | Heenbovitiya & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=lBsI67rHBnE",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/lBsI67rHBnE/hq720.jpg"
+            },
+            {
+                "title": "BIGNAY Fruit | 10 Health Benefits - Healthy Tips 2021",
+                "url": "https://youtube.com/watch?v=jrhN2Omzjh4",
+                "duration": "13:00",
+                "thumbnail": "https://i.ytimg.com/vi/jrhN2Omzjh4/hqdefault.jpg"
+            },
+            {
+                "title": "උපාලි ගෘහපතියා බුදුරජුන්ගේ ශ්‍රාවකයෙකු බවට පත් වූ සිදුවීම - බුදු ගුණ 100ක් කැටි කොට පැවසූ ගාථා",
+                "url": "https://youtube.com/watch?v=7t63bf-Aew8",
+                "duration": "1:47:41",
+                "thumbnail": "https://i.ytimg.com/vi/7t63bf-Aew8/hq720.jpg"
+            },
+            {
+                "title": "සඟ ගුණ දැන සිටියාද ? | දම්සභා මණ්ඩපය",
+                "url": "https://youtube.com/watch?v=VbE9aSTVe6c",
+                "duration": "1:05:24",
+                "thumbnail": "https://i.ytimg.com/vi/VbE9aSTVe6c/hq720.jpg"
+            },
+            {
+                "title": "බිලිං වල මේ විශ්මිත ගුණ ගැන ඔබ දන්නවාද? | Bimbili     - Episode 23",
+                "url": "https://youtube.com/watch?v=ibtTcR2lvx4",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/ibtTcR2lvx4/hq720.jpg"
+            },
+            {
+                "title": "ඩනකිල් අවපාතය : පෘතුවියේ අද්භූත කලාපය/ගිනි කදු /ලාවා විල් /උණුදිය උල්පත්/ අධික උණුසුම/විෂ වායු",
+                "url": "https://youtube.com/watch?v=hrFHeXKynWM",
+                "duration": "12:35",
+                "thumbnail": "https://i.ytimg.com/vi/hrFHeXKynWM/hq720.jpg"
+            },
+            {
+                "title": "පටස් ගාලා සීනි බහින බලගතු දේශීය ඔසු වර්ග - Foods that Control Blood Sugar",
+                "url": "https://youtube.com/watch?v=iF6BxqdlhbI",
+                "duration": "10:41",
+                "thumbnail": "https://i.ytimg.com/vi/iF6BxqdlhbI/hq720.jpg"
+            },
+            {
+                "title": "Benefits to us from the coconut tree#jana agri#srilanka",
+                "url": "https://youtube.com/watch?v=O3S0onsKMRo",
+                "duration": "12:46",
+                "thumbnail": "https://i.ytimg.com/vi/O3S0onsKMRo/hq720.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "මේව දන්නෙ නැතිවද ඔබත්  Ginger  බොන්නෙ? | Ginger for Health  Issues | Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=98vuUH62esI",
+                "duration": "8:14",
+                "thumbnail": "https://i.ytimg.com/vi/98vuUH62esI/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ | Munronia pinnata - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=aLVxN65TEgg",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/aLVxN65TEgg/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනයට, අධි රුධිර පීඩනයට ගුණ දෙන ඉනිසියුලින් පැල | චීන නිවිති | Longevity spinach Epi.285",
+                "url": "https://youtube.com/watch?v=T3P6LjLm98Y",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/T3P6LjLm98Y/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "2069",
-      "caption": "Fruits 2 (PMR)",
-      "url": "https://i.ibb.co/j92KVVb7/plant00452-02069.jpg"
-    },
-    {
-      "image_id": "2070",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/KcPkZHJZ/plant00452-02070.jpg"
-    },
-    {
-      "image_id": "2071",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/M53XN5Mn/plant00452-02071.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

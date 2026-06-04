@@ -1,192 +1,329 @@
 {
-  "scientificName": "Senna alata (L.) Roxb.",
-  "synonyms": [
-    "Cassia alata L.",
-    "Cassia alata var. perennis Pamp.",
-    "Cassia alata var. rumphiana DC.",
-    "Cassia arayatensis Náves ex Fern.-Vill.",
-    "Cassia bracteata L.f.",
-    "Cassia herpetica Jacq.",
-    "Herpetica alata (L.) Raf.",
-    "Herpetica rumphiana (DC.) J.Presl"
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Ringworm Plant",
-    "Candle Bush",
-    "Candle Stick",
-    "Ringworm Shrub"
-  ],
-  "sinhalaName": "Eththora (ඇත්තෝර)",
-  "description": "ඉතා ඝන, සියුම් ලෙස රෝම සහිත (finely downy) අතු සහිත විශාල පඳුරු ශාකයකි. පත්‍ර ඒකාන්තර (alternate) වන අතර පක්ෂාකාර (pinnate) වේ; දිග සෙ.මී. 30-60 කි. පත්‍රිකා යුගල් 8-12 කින් සමන්විත වන අතර එක් පත්‍රිකාවක් සෙ.මී. 5-15 ක් දිගය. මල් වෘන්ත සහිත පොකුරු (pedunculate racemes) ලෙස පිහිටයි; මල් අක්‍රමවත් (irregular) වන අතර තද පැහැති නහර සහිත කහ පැහැයක් ගනී. කරල් දිගටි සහ දිවක හැඩැති (ligulate) වේ. එක් එක් කපාටයේ මැද පුළුල් පියාපත් වැනි ව්‍යුහයක් සහිත, පටලමය (membranous) ස්වභාවයක් ගන්නා මෙම කරල් සෙ.මී. 10-20 ක් දිග සහ සෙ.මී. 1.3-1.6 ක් පළල වන අතර එහි බීජ 50 ක් පමණ අඩංගු වේ.",
-  "treatments": [
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Senna alata (L.) Roxb.",
+    "synonyms": [
+        "Cassia alata L.",
+        "Cassia alata var. perennis Pamp.",
+        "Cassia alata var. rumphiana DC.",
+        "Cassia arayatensis Náves ex Fern.-Vill.",
+        "Cassia bracteata L.f.",
+        "Cassia herpetica Jacq.",
+        "Herpetica alata (L.) Raf.",
+        "Herpetica rumphiana (DC.) J.Presl"
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Ringworm Plant",
+        "Candle Bush",
+        "Candle Stick",
+        "Ringworm Shrub"
+    ],
+    "sinhalaName": "Eththora (ඇත්තෝර)",
+    "description": "ඉතා ඝන, සියුම් ලෙස රෝම සහිත (finely downy) අතු සහිත විශාල පඳුරු ශාකයකි. පත්‍ර ඒකාන්තර (alternate) වන අතර පක්ෂාකාර (pinnate) වේ; දිග සෙ.මී. 30-60 කි. පත්‍රිකා යුගල් 8-12 කින් සමන්විත වන අතර එක් පත්‍රිකාවක් සෙ.මී. 5-15 ක් දිගය. මල් වෘන්ත සහිත පොකුරු (pedunculate racemes) ලෙස පිහිටයි; මල් අක්‍රමවත් (irregular) වන අතර තද පැහැති නහර සහිත කහ පැහැයක් ගනී. කරල් දිගටි සහ දිවක හැඩැති (ligulate) වේ. එක් එක් කපාටයේ මැද පුළුල් පියාපත් වැනි ව්‍යුහයක් සහිත, පටලමය (membranous) ස්වභාවයක් ගන්නා මෙම කරල් සෙ.මී. 10-20 ක් දිග සහ සෙ.මී. 1.3-1.6 ක් පළල වන අතර එහි බීජ 50 ක් පමණ අඩංගු වේ.",
+    "treatments": [
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worm Diseases",
+            "sinhala": "පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Paralysis",
+            "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hyperthyroidism",
+            "sinhala": "තයිරොයිඩ් ග්‍රන්ථියේ අධික ක්‍රියාකාරිත්වය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eczema",
+            "sinhala": "දද (එක්සීමා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Root",
+        "Leaves",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "317",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/S4qTStTB/plant00586-00317.jpg"
+        },
+        {
+            "image_id": "318",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/1tsrs7Fy/plant00586-00318.jpg"
+        },
+        {
+            "image_id": "3647",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/7JKJzRV6/plant00586-03647.jpg"
+        },
+        {
+            "image_id": "3648",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/spmSY6BS/plant00586-03648.jpg"
+        },
+        {
+            "image_id": "3649",
+            "caption": "Pods (PMR)",
+            "url": "https://i.ibb.co/27LXn5Qf/plant00586-03649.jpg"
+        },
+        {
+            "image_id": "3650",
+            "caption": "Seeds (PMR)",
+            "url": "https://i.ibb.co/qYXc8PFM/plant00586-03650.jpg"
+        },
+        {
+            "image_id": "3651",
+            "caption": "Compund Leaf (PMR)",
+            "url": "https://i.ibb.co/N2hDbqvT/plant00586-03651.jpg"
+        },
+        {
+            "image_id": "3652",
+            "caption": "Young stem (PMR)",
+            "url": "https://i.ibb.co/gFQtWpMs/plant00586-03652.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "දධ කුෂ්ඨ අලුහම් සුව කරන ඇත්තෝර |eththora | aththora | cassia alata",
+                "url": "https://youtube.com/watch?v=haoEjG0IDDk",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/haoEjG0IDDk/hqdefault.jpg"
+            },
+            {
+                "title": "ඇත්තෝර: දිව්‍ය ඖෂධයක් බඳු ඇත්තෝර පිළිබඳ විවරණයක් - ආයුර්වේද වෛද්‍ය තාරක සමන්ත ශ්‍රී මැතිතුමා සමග",
+                "url": "https://youtube.com/watch?v=C-qu6Mxk0FA",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/C-qu6Mxk0FA/hq720.jpg"
+            },
+            {
+                "title": "Cassia Alata | සමේ රෝග නසන \"ඇත්තෝර\" | Indika Koralage",
+                "url": "https://youtube.com/watch?v=uDPs-mNlCFc",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/uDPs-mNlCFc/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණයන් (Cassia alata/Senna alata)",
+                "url": "https://youtube.com/watch?v=GmfRvZQOKQU",
+                "duration": "13:48",
+                "thumbnail": "https://i.ytimg.com/vi/GmfRvZQOKQU/hq720.jpg"
+            },
+            {
+                "title": "ath thora/ඇත්තෝර/cassia alata/",
+                "url": "https://youtube.com/watch?v=4ugWogyhMlA",
+                "duration": "4:59",
+                "thumbnail": "https://i.ytimg.com/vi/4ugWogyhMlA/hq720.jpg"
+            },
+            {
+                "title": "මේවා කෑවොත් පනුබෙහෙත් ඕන නෑ | ඇත්තෝර",
+                "url": "https://youtube.com/watch?v=P4IsQN-w9RU",
+                "duration": "6:44",
+                "thumbnail": "https://i.ytimg.com/vi/P4IsQN-w9RU/hqdefault.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණ-දද,අළුහම්,හිස්සොරි සහ තවත් දේවල් - උපුටගත්තකි.",
+                "url": "https://youtube.com/watch?v=RBB5_oyLdOc",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/RBB5_oyLdOc/hqdefault.jpg"
+            },
+            {
+                "title": "Aththora-සමේ රෝග නසන ඇත්තෝර | Cassia alata|Aththorawala guna",
+                "url": "https://youtube.com/watch?v=_LmfEVZ7x4A",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/_LmfEVZ7x4A/hq720.jpg"
+            },
+            {
+                "title": "Aththora-සමේ රෝග සුව කරන ඇත්තෝර ඔසු ගුණ same roga nasana Aththora",
+                "url": "https://youtube.com/watch?v=V4MAp3SNC7c",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/V4MAp3SNC7c/hq720.jpg"
+            },
+            {
+                "title": "සුදු ඇත්තෝර .",
+                "url": "https://youtube.com/watch?v=B_EyGM2hBhI",
+                "duration": "1:05",
+                "thumbnail": "https://i.ytimg.com/vi/B_EyGM2hBhI/hq720.jpg"
+            },
+            {
+                "title": "දධ කුෂ්ඨ සුව කරන ඇත්තෝර | Eththora | Aththora | Ratathora | Cassia Alata | Candle Bush | Cimaiyakati",
+                "url": "https://youtube.com/watch?v=ordD9ufMQpY",
+                "duration": "3:56",
+                "thumbnail": "https://i.ytimg.com/vi/ordD9ufMQpY/hq720.jpg"
+            },
+            {
+                "title": "දධ කුෂ්ඨ අලුහම් සුව කරන ඇත්තෝර |eththora | aththora | cassia alata",
+                "url": "https://youtube.com/watch?v=OugSyFDcdhM",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/OugSyFDcdhM/frame0.jpg"
+            },
+            {
+                "title": "කිරිපණු ගායට කදිම ඖෂධය ඇත්තෝර |  Senna alata medicinal plant | Eththora",
+                "url": "https://youtube.com/watch?v=VdSld4p6W-I",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/VdSld4p6W-I/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර 🔴 Senna alata (L.) Roxb.",
+                "url": "https://youtube.com/watch?v=he9EQiL8Qgk",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/he9EQiL8Qgk/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණ | Winged ring worm plant benefits | Cassia didymobotrya benefits",
+                "url": "https://youtube.com/watch?v=Wulixhh-eNA",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/Wulixhh-eNA/hqdefault.jpg"
+            },
+            {
+                "title": "ඇත්තෝර වල ඖෂධීය ගුණ 😱😱😱",
+                "url": "https://youtube.com/watch?v=cb6MaxRmCXU",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/cb6MaxRmCXU/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ගුණ සමඟ තවත් හෙළඔසු විස්සක සුවයට අම්මගේ විශ්වාසයත් එක්වුණොත්?",
+                "url": "https://youtube.com/watch?v=zgDgk_PdBxY",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/zgDgk_PdBxY/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකය,cassia alata සොභා සිරි ( sobha siri )",
+                "url": "https://youtube.com/watch?v=mMopsaJLxHE",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/mMopsaJLxHE/hq720.jpg"
+            },
+            {
+                "title": "මධුර රස ඇති රුව වඩන අත්තෝර(Cassia Alata /Senna Alata) 🌿🌳🍀",
+                "url": "https://youtube.com/watch?v=Wvk6GUogEhU",
+                "duration": "11:59",
+                "thumbnail": "https://i.ytimg.com/vi/Wvk6GUogEhU/hqdefault.jpg"
+            },
+            {
+                "title": "කුෂ්ඨ ,දද ,පීනසට ඇත්තෝර කොළ කැද",
+                "url": "https://youtube.com/watch?v=HFZ3cBed5zY",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/HFZ3cBed5zY/hq720.jpg"
+            },
+            {
+                "title": "03. ඖෂධීය පැළෑටි- ඇත්තෝර| Ayurveda medicinal plant 03- Ringworm cassia (Cassia alata)",
+                "url": "https://youtube.com/watch?v=iXMyF4zSOTw",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/iXMyF4zSOTw/hqdefault.jpg"
+            },
+            {
+                "title": "Aththora-සමේ රෝග සුව කරන ඇත්තෝර ඔසු ගුණ same roga nasana Aththora",
+                "url": "https://youtube.com/watch?v=xKaJGziAn0Q",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/xKaJGziAn0Q/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Worm Diseases",
-      "sinhala": "පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Paralysis",
-      "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hyperthyroidism",
-      "sinhala": "තයිරොයිඩ් ග්‍රන්ථියේ අධික ක්‍රියාකාරිත්වය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Eczema",
-      "sinhala": "දද (එක්සීමා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Root",
-    "Leaves",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "317",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/S4qTStTB/plant00586-00317.jpg"
-    },
-    {
-      "image_id": "318",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/1tsrs7Fy/plant00586-00318.jpg"
-    },
-    {
-      "image_id": "3647",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/7JKJzRV6/plant00586-03647.jpg"
-    },
-    {
-      "image_id": "3648",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/spmSY6BS/plant00586-03648.jpg"
-    },
-    {
-      "image_id": "3649",
-      "caption": "Pods (PMR)",
-      "url": "https://i.ibb.co/27LXn5Qf/plant00586-03649.jpg"
-    },
-    {
-      "image_id": "3650",
-      "caption": "Seeds (PMR)",
-      "url": "https://i.ibb.co/qYXc8PFM/plant00586-03650.jpg"
-    },
-    {
-      "image_id": "3651",
-      "caption": "Compund Leaf (PMR)",
-      "url": "https://i.ibb.co/N2hDbqvT/plant00586-03651.jpg"
-    },
-    {
-      "image_id": "3652",
-      "caption": "Young stem (PMR)",
-      "url": "https://i.ibb.co/gFQtWpMs/plant00586-03652.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

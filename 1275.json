@@ -1,28 +1,741 @@
 {
-  "scientificName": "Firmiana colorata (Roxb.) R.Br.",
-  "synonyms": [
-    "Clompanus colorata (Roxb.) Kuntze",
-    "Erythropsis colorata (Roxb.) Burkill",
-    "Erythropsis roxburghiana Schott & Endl.",
-    "Firmiana rubriflora Kosterm.",
-    "Karaka colorata (Roxb.) Raf.",
-    "Sterculia colorata Roxb.",
-    "Sterculia rubicunda Wall."
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Scarlet Sterculia"
-  ],
-  "sinhalaName": "Kenawila (කැනවිල)",
-  "description": "",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "3045",
-      "caption": "Flower Buds (PMR)",
-      "url": "https://i.ibb.co/rfQvYBVt/plant01275-03045.jpg"
-    }
-  ],
-  "special": []
+    "scientificName": "Firmiana colorata (Roxb.) R.Br.",
+    "synonyms": [
+        "Clompanus colorata (Roxb.) Kuntze",
+        "Erythropsis colorata (Roxb.) Burkill",
+        "Erythropsis roxburghiana Schott & Endl.",
+        "Firmiana rubriflora Kosterm.",
+        "Karaka colorata (Roxb.) Raf.",
+        "Sterculia colorata Roxb.",
+        "Sterculia rubicunda Wall."
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Scarlet Sterculia"
+    ],
+    "sinhalaName": "Kenawila (කැනවිල)",
+    "description": "",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "3045",
+            "caption": "Flower Buds (PMR)",
+            "url": "https://i.ibb.co/rfQvYBVt/plant01275-03045.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මම ආවෝ 54 - 89 K | Freefire Live #freefire",
+                "url": "https://youtube.com/watch?v=gPOt2LTsH4k",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/gPOt2LTsH4k/hq720.jpg"
+            },
+            {
+                "title": "වැවුරුකන්නල රජ මහා විහාර පෙරහැරේ අලියා කුලප්පු වෙලා - මිනිස්සු පන එපා කියා දුවයි",
+                "url": "https://youtube.com/watch?v=stfg1yoF_Gk",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/stfg1yoF_Gk/hq720.jpg"
+            },
+            {
+                "title": "කෙහෙළිය ගෙදර යැව්වත් තවමත් ඉටු නොවූ දෙයක් වෛද්‍ය චමල් මතක් කරයි",
+                "url": "https://youtube.com/watch?v=BauFF14Vo6Y",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/BauFF14Vo6Y/hq720.jpg"
+            },
+            {
+                "title": "සොබාදහමේ සරදමට එරෙහිව නැඟී සිටි කන්දකැටියේ අභිමානය! | Webnews.lk",
+                "url": "https://youtube.com/watch?v=pZu0qH9Y84k",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pZu0qH9Y84k/hq720.jpg"
+            },
+            {
+                "title": "බයිලාලංකාරය EP 15",
+                "url": "https://youtube.com/watch?v=KHXaMOTvgWs",
+                "duration": "27:35",
+                "thumbnail": "https://i.ytimg.com/vi/KHXaMOTvgWs/hq720.jpg"
+            },
+            {
+                "title": "කඳු වළලු අතර සැඟවූ පැරණි පන්සල | ප්‍රතිසංස්කරණයෙන් පසු සුන්දර දර්ශනය 🇱🇰",
+                "url": "https://youtube.com/watch?v=rESQhwDephU",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/rESQhwDephU/hq720.jpg"
+            },
+            {
+                "title": "ආණ්ඩුව හොල්ලන්න බැරි රහස| කොටේ අදින්න රෙදිමහන |කෙනා | රටවටේ දුවන ගම්පහ වාචාලයා | සජබේ ආර්ථික ඔස්තාර්",
+                "url": "https://youtube.com/watch?v=E2IqEtkN5bU",
+                "duration": "15:02",
+                "thumbnail": "https://i.ytimg.com/vi/E2IqEtkN5bU/hq720.jpg"
+            },
+            {
+                "title": "කැලණි ගඟ දරා සිටින මහ ජල කඳ.. - නවතම දර්ශන සහිතයි | Ada Derana",
+                "url": "https://youtube.com/watch?v=X2YXrpqI6lk",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/X2YXrpqI6lk/hq720.jpg"
+            },
+            {
+                "title": "කරකැවිල්ල බැලන්ස් නැති ගතිය එන්නේ කන් බෙරේ පැලීම නිසා වෙන්න පුළුවන්, කන් බෙරේ පැලුනොත් මොකද කරන්නේ?",
+                "url": "https://youtube.com/watch?v=bedhwtLdpg4",
+                "duration": "11:51",
+                "thumbnail": "https://i.ytimg.com/vi/bedhwtLdpg4/hq720.jpg"
+            },
+            {
+                "title": "කපිලගේ මරණයේ විමර්ශන සාර්ථක කරගන්න නම් දුරකතන අගුල කඩිනමින් ඇරගන්න | Ada Derana",
+                "url": "https://youtube.com/watch?v=fHC1pzwa8UY",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/fHC1pzwa8UY/hq720.jpg"
+            },
+            {
+                "title": "කලවැද්දෝ වැල කනකොට කෝඳුරුවෝ හැප්පිලා මැරෙනවාඋඩමළුවේ හිමි උපැවිදි කරයිද ? භික්ෂු එකමුතුව කිව්ව දේ",
+                "url": "https://youtube.com/watch?v=B6GVTdK1kpY",
+                "duration": "22:02",
+                "thumbnail": "https://i.ytimg.com/vi/B6GVTdK1kpY/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී වල්ලි මාතා දේවාලය|Valli Cave Temple and Devalaya|Sella Kataragama|Sri Lanka|Kevin Videos SL",
+                "url": "https://youtube.com/watch?v=F_YmUNhLgqg",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/F_YmUNhLgqg/hq720.jpg"
+            },
+            {
+                "title": "කැළණි ගඟ නගියි",
+                "url": "https://youtube.com/watch?v=CzjJSXesDVw",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/CzjJSXesDVw/hq720.jpg"
+            },
+            {
+                "title": "වෘෂභ ලග්නය (Vrishabha Lagna) | ධනය සහ සැප සම්පත් පිරුණු ජීවිතයක රහස් 🌟 | Taurus Ascendant",
+                "url": "https://youtube.com/watch?v=UDLjTeQu6LM",
+                "duration": "17:10",
+                "thumbnail": "https://i.ytimg.com/vi/UDLjTeQu6LM/hq720.jpg"
+            },
+            {
+                "title": "කරවිල අනුභව කිරීමෙන් ලැබෙන සෞඛ්‍ය වාසි 7ක් | 07 Health Benefits of Bitter Melon",
+                "url": "https://youtube.com/watch?v=r2TLQPerHIM",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/r2TLQPerHIM/hq720.jpg"
+            },
+            {
+                "title": "කහ වල ඇති ඔෳෂධිය ගුණ 15ක්|Turmeric15 medicinal properties of",
+                "url": "https://youtube.com/watch?v=_eRkyprVr4o",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/_eRkyprVr4o/hqdefault.jpg"
+            },
+            {
+                "title": "කංකුන් වල ගුණ | Water spinach | Kankun",
+                "url": "https://youtube.com/watch?v=G41zv5x18Yo",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/G41zv5x18Yo/hq720.jpg"
+            },
+            {
+                "title": "ලුණු කැඳ බීලා ඇත්තටම වැඩක් නැද්ද : Benefits of rice porridge",
+                "url": "https://youtube.com/watch?v=QiRviymjaKk",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/QiRviymjaKk/hq720.jpg"
+            },
+            {
+                "title": "කංකුං කෑවොත් මොකද වෙන්නෙ : Water Spinach Benefits",
+                "url": "https://youtube.com/watch?v=RxKSa0l8Fnk",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/RxKSa0l8Fnk/hq720.jpg"
+            },
+            {
+                "title": "කෙලෙහි ගුණ | පින්වත් වැලිමඩ සද්ධාසීල ස්වාමින් වහන්සේ | bana 2022",
+                "url": "https://youtube.com/watch?v=GZPM8gFHdcY",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/GZPM8gFHdcY/hqdefault.jpg"
+            },
+            {
+                "title": "මිනිසුන්ගේ ගති ගුණ දැනගන්නා රහස දැනගන්න | Kelaniye Sasanawansa Thero | Dharmadeshana 114",
+                "url": "https://youtube.com/watch?v=bg6K94W40Sg",
+                "duration": "41:20",
+                "thumbnail": "https://i.ytimg.com/vi/bg6K94W40Sg/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වල විශ්මිත ගුණ - Health Vedeo",
+                "url": "https://youtube.com/watch?v=HGhcF-itmLI",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/HGhcF-itmLI/hq720.jpg"
+            },
+            {
+                "title": "උදේට පාන් එපා මෙන්න රක්තහීනතාවයට ගුණ ලේ වඩවන පානයන් 2ක් | මේක බිව්වම කන්න ඕනත් නෑ | le wadawana kama",
+                "url": "https://youtube.com/watch?v=cl3XLpXplVQ",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/cl3XLpXplVQ/hq720.jpg"
+            },
+            {
+                "title": "ජවය ශක්තිය සපිරි කොල්ලු පානය - වෛද්‍ය සුසීමා සේනානායක",
+                "url": "https://youtube.com/watch?v=BBlufzuvZvw",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/BBlufzuvZvw/hq720.jpg"
+            },
+            {
+                "title": "කජු වල ඇති විශ්මිත ගුණ - Amazing properties of cashew nuts",
+                "url": "https://youtube.com/watch?v=rBfem4kEcVU",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/rBfem4kEcVU/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවොත් ලැබෙන දේවල් මෙන්න : Benefits of Ragi Kurakkan (NEW) 2019",
+                "url": "https://youtube.com/watch?v=oKoud-XKUeA",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/oKoud-XKUeA/hq720.jpg"
+            },
+            {
+                "title": "කිරිවලට වඩා කැල්සියම් තියෙන ඉතාම ගුණදායක ආහාර 10 ක් | Foods That Have More Calcium Than Milk",
+                "url": "https://youtube.com/watch?v=oOC-Gg1R7AM",
+                "duration": "9:19",
+                "thumbnail": "https://i.ytimg.com/vi/oOC-Gg1R7AM/hq720.jpg"
+            },
+            {
+                "title": "කැහිපිත්තං  ගැන ඔබ නොදත් කරුණු .",
+                "url": "https://youtube.com/watch?v=GcsFHMWd56g",
+                "duration": "7:12",
+                "thumbnail": "https://i.ytimg.com/vi/GcsFHMWd56g/hq720.jpg"
+            },
+            {
+                "title": "ගුණ දේවල් පාට දාල දෙනවනම් ලමයි ආසාවෙන් කනව",
+                "url": "https://youtube.com/watch?v=rulizLTnt9M",
+                "duration": "5:24",
+                "thumbnail": "https://i.ytimg.com/vi/rulizLTnt9M/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ වල ඇති විශ්මිත ගුණ 25ක් kiriaguna wala athi guna",
+                "url": "https://youtube.com/watch?v=KrQRcPVvNlw",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/KrQRcPVvNlw/hqdefault.jpg"
+            },
+            {
+                "title": "කලුකැම්මේරිය විශ්මිත ගුණ , රෝග රැසකට එක් ඔසුවක්.",
+                "url": "https://youtube.com/watch?v=CmQImWwL4Hw",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/CmQImWwL4Hw/hq720.jpg"
+            },
+            {
+                "title": "🔴🔵රටකජු වල සැඟවුණු \"ගුණ සහ අගුණ\" මෙන්න | Benefits and Risks of Peanuts Sinhala | Hela Suwa TV",
+                "url": "https://youtube.com/watch?v=BIFcznWW2So",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/BIFcznWW2So/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ කෑවම මොකද වෙන්නෙ : Health benefits of Kiri Aguna",
+                "url": "https://youtube.com/watch?v=o8vWzWsojxI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/o8vWzWsojxI/hq720.jpg"
+            },
+            {
+                "title": "කංසාවල ඖෂධීය ගුණ ගැන සුදර්ශන සභාවට හෙළි කරයි... දේශීය වෙදදුරන් 1600කට සිදු වෙලා තියෙන දෙයක්",
+                "url": "https://youtube.com/watch?v=aefjdnK0j80",
+                "duration": "12:57",
+                "thumbnail": "https://i.ytimg.com/vi/aefjdnK0j80/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "තරුණ වයසේම කොන්ද කැක්කුමද?",
+                "url": "https://youtube.com/watch?v=Ul0flMiqFQY",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/Ul0flMiqFQY/hq720_2.jpg"
+            },
+            {
+                "title": "හැමදාම තරුණව ඉන්න රෑට මේවා බොන්න | Top 10 Night Anti-Aging Drinks #health #shorts",
+                "url": "https://youtube.com/watch?v=gIerJkG5OD8",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/gIerJkG5OD8/hq720.jpg"
+            },
+            {
+                "title": "අවු. 6ක Migraine සති 3න් 75%ක් සුවයි",
+                "url": "https://youtube.com/watch?v=z_TTmCNgrI4",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/z_TTmCNgrI4/hq720_2.jpg"
+            },
+            {
+                "title": "ජනතාවට වස කන්න දීල බලා සිටින සෞඛ්‍ය අමාත්‍යාංශය.......",
+                "url": "https://youtube.com/watch?v=IyoJFo-BOuE",
+                "duration": "13:31",
+                "thumbnail": "https://i.ytimg.com/vi/IyoJFo-BOuE/hq720.jpg"
+            },
+            {
+                "title": "ශරීරය ලෙඩ කරන බලවේග මෙන්න හරි විදිහට ශරීරය සුද්ද කර කදබාර දුන්නොත් වරමට එන ආකාරය මෙන්න ,,",
+                "url": "https://youtube.com/watch?v=d3NWmZJa4B4",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/d3NWmZJa4B4/hq720.jpg"
+            },
+            {
+                "title": "අවු. 16ක Arthrits සති 11න් 65%ක් සුවයි",
+                "url": "https://youtube.com/watch?v=OkXhZIiuVqI",
+                "duration": "1:27",
+                "thumbnail": "https://i.ytimg.com/vi/OkXhZIiuVqI/hq720_2.jpg"
+            },
+            {
+                "title": "🔥 වකුගඩු වලට දැනගත යුතු හොඳ සහ නරක අතිරේක⚠️ වකුගඩු වලට හානි කරයිද?! kidney health Vitamins",
+                "url": "https://youtube.com/watch?v=9OrQHJynr4I",
+                "duration": "20:03",
+                "thumbnail": "https://i.ytimg.com/vi/9OrQHJynr4I/hq720.jpg"
+            },
+            {
+                "title": "අයුර්වේද කංසා ගෙනත් බෙහෙත් හදන්නේ බල්ලන්ටද?",
+                "url": "https://youtube.com/watch?v=z5tQyzX1Bvs",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/z5tQyzX1Bvs/hq720_2.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත - part 2🙏",
+                "url": "https://youtube.com/watch?v=IdQIkJpM5Ns",
+                "duration": "25:31",
+                "thumbnail": "https://i.ytimg.com/vi/IdQIkJpM5Ns/hq720.jpg"
+            },
+            {
+                "title": "ඔලුවේ උදුගොව්වා කෑම දින 7න් නවත්වන සුපිරිම ක්‍රම 10 | Udugovva Kema Treatment Sri Lanka",
+                "url": "https://youtube.com/watch?v=kw0UJcr0bLA",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/kw0UJcr0bLA/hq720.jpg"
+            },
+            {
+                "title": "\"හීන්කෙයියා\" ​තෙත් කලාපීය කැලේ සැඟවුණු, තොරණ සැරසූ පුදුම  ඔසුව! 🌿🔴 #HeenKeyiya #SLRavee #Ayurveda",
+                "url": "https://youtube.com/watch?v=teJCGybHKOk",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/teJCGybHKOk/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "Amla for Hair Skin & Immunity | The Ultimate Ayurvedic Remedy",
+                "url": "https://youtube.com/watch?v=_zuXDI4PSVs",
+                "duration": "6:46",
+                "thumbnail": "https://i.ytimg.com/vi/_zuXDI4PSVs/hq720_custom_1.jpg"
+            },
+            {
+                "title": "What is the best drinks to flush your kidneys",
+                "url": "https://youtube.com/watch?v=BG8bOc-9ZqE",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/BG8bOc-9ZqE/hqdefault.jpg"
+            },
+            {
+                "title": "කැහිපිත්තෙන් ශාකයෙන් රෝග රැසකට අත් බෙහෙතක් #news #doctor #vidyaratna #ranpatha #life #gastritis",
+                "url": "https://youtube.com/watch?v=NKujYAHW4PQ",
+                "duration": "1:17",
+                "thumbnail": "https://i.ytimg.com/vi/NKujYAHW4PQ/hq720.jpg"
+            },
+            {
+                "title": "බඩ ඇතුලේ තුවාල,දැවිල්ල,ගැස්ට්‍රයිටිස් සුව කරගන්න කෝමාරිකා පානය මේ විදිහට හරියටම හදාගෙන බොන්න",
+                "url": "https://youtube.com/watch?v=RCttADedz70",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/RCttADedz70/hq720.jpg"
+            },
+            {
+                "title": "මේ කෑම හීනෙකින්වත් එකට කන්න එපා | පොතු කබර සහ පිළිකා සුව කරන හෙළ වෙදකමේ රහස්",
+                "url": "https://youtube.com/watch?v=Bb0gEY7pN-U",
+                "duration": "24:16",
+                "thumbnail": "https://i.ytimg.com/vi/Bb0gEY7pN-U/hq720.jpg"
+            },
+            {
+                "title": "උඳුපියලි කැඳ බිව්වම වෙන දේ මෙන්න : Benefits of Desmordium triflorum",
+                "url": "https://youtube.com/watch?v=_ElM_-P1pms",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/_ElM_-P1pms/hq720.jpg"
+            },
+            {
+                "title": "කංසා තහනම් කරලා දේශීය වෙදකම නැතිකළා... දේශීය වෛද්‍යවරුන්ගෙන් ඉල්ලීමක්... කංසා ගුණ ගැන හෙළිදරව්වක්",
+                "url": "https://youtube.com/watch?v=gXToPxeaGCc",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/gXToPxeaGCc/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ කරවිලවල ඇත්ත නැත්ත | Bitter Melon For Blood Sugar By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0SdTXNz-LDE",
+                "duration": "12:53",
+                "thumbnail": "https://i.ytimg.com/vi/0SdTXNz-LDE/hq720.jpg"
+            },
+            {
+                "title": "හිමොග්ලොබින් වැඩි කරන ආහාර",
+                "url": "https://youtube.com/watch?v=K1N1MASlHSM",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/K1N1MASlHSM/hqdefault.jpg"
+            },
+            {
+                "title": "හැදෙන්න තියන පිළිකාවක් උනත් වලකන ලෙඩ 300කට ගුණ පානයක් | දියවැඩියාවට කොලෙස්ටරෝල් වලට බෙහෙත් nira S",
+                "url": "https://youtube.com/watch?v=5TmsOIyY_W8",
+                "duration": "6:33",
+                "thumbnail": "https://i.ytimg.com/vi/5TmsOIyY_W8/hq720.jpg"
+            },
+            {
+                "title": "මේ විදිහට භාවිතා  කලොත්, හරියට හරි! ලෙඩ 10 ක් සනීප කරන, සම පැහැපත් කරන, ලෝකයේ වටිනාම ඖෂධය අපෙන්!",
+                "url": "https://youtube.com/watch?v=qMBivTnOSgI",
+                "duration": "14:43",
+                "thumbnail": "https://i.ytimg.com/vi/qMBivTnOSgI/hq720.jpg"
+            },
+            {
+                "title": "කජු කනවා නම් මේ දේවල් අනිවාර්යයෙන්ම දැනගන්න | Why You Should Eat Cashews - @behethbydrnamal",
+                "url": "https://youtube.com/watch?v=EXVHczl5JKc",
+                "duration": "6:04",
+                "thumbnail": "https://i.ytimg.com/vi/EXVHczl5JKc/hq720.jpg"
+            },
+            {
+                "title": "රත්තරන් වලට වඩා වටින අරුම පුදුම කහ ගැන හැමදේම දැනගන්න",
+                "url": "https://youtube.com/watch?v=bKCY74Oprkc",
+                "duration": "9:14",
+                "thumbnail": "https://i.ytimg.com/vi/bKCY74Oprkc/hqdefault.jpg"
+            },
+            {
+                "title": "කුරුඳු වල විශ්මිත ගුණ . Ayurvedic value of cinnamon.",
+                "url": "https://youtube.com/watch?v=HYqpafpiFWE",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/HYqpafpiFWE/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ලේ වඩවන ආහාර 20 ක් | රක්තහීනතාවය වලක්වන්න කන්න | Iron Rich Foods",
+                "url": "https://youtube.com/watch?v=Iwh34rqk7iA",
+                "duration": "16:24",
+                "thumbnail": "https://i.ytimg.com/vi/Iwh34rqk7iA/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු වලට ගුණ කෑම මෙන්න/Best food for kidney health/#kidneyhealth @Mediupdater #healthykidneys",
+                "url": "https://youtube.com/watch?v=0HRfKGKP0ug",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/0HRfKGKP0ug/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා කහ බෙහෙතක් ලෙස ලබාගැනීමෙන් අපිට ලැබෙන විද්‍යාත්මකව තහවුරු කල වාසි රැසක්",
+                "url": "https://youtube.com/watch?v=HdwxhKFl_QU",
+                "duration": "12:12",
+                "thumbnail": "https://i.ytimg.com/vi/HdwxhKFl_QU/hqdefault.jpg"
+            },
+            {
+                "title": "කංසා වල ඇති සුපිරි ප්‍රයෝජන | Mind blowing facts about Kansa | Katusatahan",
+                "url": "https://youtube.com/watch?v=8bIk9kVpIKc",
+                "duration": "5:41",
+                "thumbnail": "https://i.ytimg.com/vi/8bIk9kVpIKc/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "කන්සා ශාකය ගැන මේ දේවල් දන්නවාද?   | This plant can save earth",
+                "url": "https://youtube.com/watch?v=Ds_TLqD562U",
+                "duration": "6:26",
+                "thumbnail": "https://i.ytimg.com/vi/Ds_TLqD562U/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "කෑම අරුචිය කොහෙන් ගියාද නැහැ එක කොල ජාතියෙන් පෝෂණීය කැද එකක් විනාඩි 10න් ලේසියෙන්ම හදාගන්න/Kanda",
+                "url": "https://youtube.com/watch?v=IhkMsS1XV3s",
+                "duration": "7:57",
+                "thumbnail": "https://i.ytimg.com/vi/IhkMsS1XV3s/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "Grade 10 science - ඛනිජ ලවණ ඌනතා ශාක වලට බලපෑම",
+                "url": "https://youtube.com/watch?v=l5PNQ2qqPXw",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/l5PNQ2qqPXw/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "මේ පැලයක් ඔබේ නිවසේ නිදන කාමරයේ තියන්න | කරදර නැති වෙලා ඔබේ ජීවිතයම වෙනස් වෙනවා | Plants for House",
+                "url": "https://youtube.com/watch?v=d4XwAz6oRdk",
+                "duration": "15:08",
+                "thumbnail": "https://i.ytimg.com/vi/d4XwAz6oRdk/hq720.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "🔴යකෝ මෙචිචර විටමින්😲? මේ පලා වර්ග කාලා නැත්තං ලැජ්ජ වෙන්ඩ",
+                "url": "https://youtube.com/watch?v=AHTl3nMAWZI",
+                "duration": "8:19",
+                "thumbnail": "https://i.ytimg.com/vi/AHTl3nMAWZI/hq720.jpg"
+            },
+            {
+                "title": "⛔ලංකාව ලෝකය හොල්ලයි! ලේ වල ඝනකම අඩුකරන සුපිරි පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=R03vVDIhLWs",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/R03vVDIhLWs/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "🟡පරිප්පු කන්ඩ එපා! පිලිකාකාරක අඩංගුයිද? මෙන්න ඇත්ත!",
+                "url": "https://youtube.com/watch?v=FBGW-7TeshM",
+                "duration": "8:26",
+                "thumbnail": "https://i.ytimg.com/vi/FBGW-7TeshM/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "Peanuts & Weight Loss: Friend or Enemy? රටකජු සහ බර අඩුකරන යුද්දය | Dr vajira 54 KG loss secret",
+                "url": "https://youtube.com/watch?v=OEZkWpzj8vs",
+                "duration": "9:32",
+                "thumbnail": "https://i.ytimg.com/vi/OEZkWpzj8vs/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "Benifits of eating fruits- පලතුරු ආහාරයට ගැනීමේ ඇති වැදගත්කම.",
+                "url": "https://youtube.com/watch?v=59FPUrLrdzQ",
+                "duration": "12:00",
+                "thumbnail": "https://i.ytimg.com/vi/59FPUrLrdzQ/hqdefault.jpg"
+            },
+            {
+                "title": "5 Benefits of Quinoa (Backed by Science)",
+                "url": "https://youtube.com/watch?v=7kJrJt-NJhw",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/7kJrJt-NJhw/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 6ක් | Health Benefits Of Butterfly Pea Tea",
+                "url": "https://youtube.com/watch?v=lwZGAN8NJaM",
+                "duration": "9:22",
+                "thumbnail": "https://i.ytimg.com/vi/lwZGAN8NJaM/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Kale - 7 Reasons to Eat It | When to Avoid",
+                "url": "https://youtube.com/watch?v=8_hFjbmNsBs",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/8_hFjbmNsBs/hq720.jpg"
+            },
+            {
+                "title": "Kalanchoe Pinnata Medicinal Uses: Powerful Health Benefits & Healing Properties  #medicinalplants",
+                "url": "https://youtube.com/watch?v=4dOa46RZQTQ",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/4dOa46RZQTQ/hq720.jpg"
+            },
+            {
+                "title": "Cactus Leaf: Benefits & Uses (Nopales)",
+                "url": "https://youtube.com/watch?v=ayQyCUyKk-U",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/ayQyCUyKk-U/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Koththamalli (Coriander). Ayurvedic and medicinal value of Coriander.",
+                "url": "https://youtube.com/watch?v=RBZc65_lO5U",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/RBZc65_lO5U/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits Of Cilantro You Should Know! | Health Benefits Of Cilantro",
+                "url": "https://youtube.com/watch?v=jlaelYqV94o",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/jlaelYqV94o/hq720.jpg"
+            },
+            {
+                "title": "Welpenela Benefits : පිරිමි ගෙදරම තියාගන්න ගහපු වැල් පෙනෙල ගැටේ මෙන්න",
+                "url": "https://youtube.com/watch?v=gjqX33rzqng",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/gjqX33rzqng/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "පේර කොළ තැම්බුවතුරින් ලැබෙන සෞඛ්‍යමය වාසි 10ක් |  Guava Leaves Health Benefits | Pera Kola Wala Guna",
+                "url": "https://youtube.com/watch?v=EPXBhA_Aquk",
+                "duration": "13:17",
+                "thumbnail": "https://i.ytimg.com/vi/EPXBhA_Aquk/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "5 Benefits of Quinoa (Backed by Science)",
+                "url": "https://youtube.com/watch?v=Qmz10PX9kfM",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/Qmz10PX9kfM/frame0.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැඳ මේ වගේ බොන්න එපා : 6 Tips to drink leafy porridge 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=AP7wLPqz4xc",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/AP7wLPqz4xc/hq720.jpg"
+            },
+            {
+                "title": "කංකුං  කනවද? | Kangkung (Water Spinach) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WDR_OvMpd44",
+                "duration": "14:18",
+                "thumbnail": "https://i.ytimg.com/vi/WDR_OvMpd44/hq720.jpg"
+            },
+            {
+                "title": "නිරෝගී බව සහ ශක්තිය වෙනුවෙන්, මම අනුගමනය කරන, කෑම නොගැනීමේ ප්‍රතිපත්ති 6 ක්.",
+                "url": "https://youtube.com/watch?v=2UTJEyOjzzU",
+                "duration": "11:22",
+                "thumbnail": "https://i.ytimg.com/vi/2UTJEyOjzzU/hq720.jpg"
+            },
+            {
+                "title": "🔴යකඩෝ පේර කොල 2න් පාට 4ක දිව්‍ය අමුර්තයක්! බීලා බලන්ඩ ආස හිතෙයි",
+                "url": "https://youtube.com/watch?v=v1BsIahN6Lc",
+                "duration": "8:04",
+                "thumbnail": "https://i.ytimg.com/vi/v1BsIahN6Lc/hq720.jpg"
+            },
+            {
+                "title": "කම්මැලිකම නැති කරගන්න සෙන් භික්ශූන් කරන දේ l මේ ක්‍රමේ 100% ක් වැඩ",
+                "url": "https://youtube.com/watch?v=NboXEa8JCkw",
+                "duration": "8:10",
+                "thumbnail": "https://i.ytimg.com/vi/NboXEa8JCkw/hq720.jpg"
+            },
+            {
+                "title": "විටමින් සහ ඛනිජ  ලවන බහුල අලකොල.(දිගිකල් ජීවත්වීමේ රහස් )",
+                "url": "https://youtube.com/watch?v=e7L70ribu00",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/e7L70ribu00/hq720.jpg"
+            },
+            {
+                "title": "🔴අධි විටමින් සහිත \"කෙහෙල්-මල් තේ\" බීලා බලන්ඩ ආස හිතෙයි! පීකුදු වගේ 20x යකඩ",
+                "url": "https://youtube.com/watch?v=gZWwSh0hOYk",
+                "duration": "8:04",
+                "thumbnail": "https://i.ytimg.com/vi/gZWwSh0hOYk/hq720.jpg"
+            },
+            {
+                "title": "⭕ බියර්වල ගුණ සහ අඟුණ හරියටම මෙන්නෙ | #dineshmuthugala #education #karma",
+                "url": "https://youtube.com/watch?v=rWBPXbIxXxY",
+                "duration": "9:56",
+                "thumbnail": "https://i.ytimg.com/vi/rWBPXbIxXxY/hqdefault.jpg"
+            },
+            {
+                "title": "සෑම උදෑසනකම කරපිංචා කොළයක් හැපුවොත් ඔබේ ශරීරයට සිදුවන පුදුම දේවල් 8ක් | 8 benefits of curry leaves.",
+                "url": "https://youtube.com/watch?v=S9j0qyXZ5G4",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/S9j0qyXZ5G4/hq720.jpg"
+            },
+            {
+                "title": "බෙලි වල විශ්මිත ගුණය.  Value of Bael fruit",
+                "url": "https://youtube.com/watch?v=M3NTXXjHWWE",
+                "duration": "7:29",
+                "thumbnail": "https://i.ytimg.com/vi/M3NTXXjHWWE/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits of Chamomile To Know! | Health Benefits Of Chamomile Tea",
+                "url": "https://youtube.com/watch?v=gzpwzEGtvq8",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/gzpwzEGtvq8/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Health Benefits Of Cactus Water",
+                "url": "https://youtube.com/watch?v=v4l2A9XmpUE",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/v4l2A9XmpUE/hq720.jpg"
+            },
+            {
+                "title": "Physalis Fruit: Benefits and Uses (Cape Gooseberry)",
+                "url": "https://youtube.com/watch?v=-nZzH9_rMYM",
+                "duration": "5:54",
+                "thumbnail": "https://i.ytimg.com/vi/-nZzH9_rMYM/hq720.jpg"
+            },
+            {
+                "title": "5 Benefits of Quinoa (Backed by Science)",
+                "url": "https://youtube.com/watch?v=7D1EnEc43rY",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/7D1EnEc43rY/frame0.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

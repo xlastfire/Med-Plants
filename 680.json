@@ -1,99 +1,224 @@
 {
-  "scientificName": "Vigna unguiculata subsp. sesquipedalis (L.) Verdc.",
-  "synonyms": [
-    "Dolichos didjre Forssk.",
-    "Dolichos sesquipedalis L.",
-    "Vigna asparaginea (Bertoni) Bertoni",
-    "Vigna brasilica (Bertoni) Bertoni",
-    "Vigna inga (Bertoni) Bertoni",
-    "Vigna oryzina (Bertoni) Bertoni",
-    "Vigna serotina (Bertoni) Bertoni",
-    "Vigna sesquipedalis (L.) Fruwirth",
-    "Vigna sinensis subsp. sesquipedalis (L.) Van Eselt.",
-    "Vigna sinensis var. sesquipedalis (L.) Asch. & Schweinf.",
-    "Vigna sulphurea (Bertoni) Bertoni",
-    "Vigna tonkinensis (Bertoni) Bertoni",
-    "Vigna unguiculata f. coronata Bertoni",
-    "Vigna unguiculata subvar. cubensis Bertoni",
-    "Vigna unguiculata subvar. deflexa Bertoni",
-    "Vigna unguiculata subvar. guaranitica Bertoni",
-    "Vigna unguiculata subvar. triloba Bertoni",
-    "Vigna unguiculata var. asparaginea Bertoni",
-    "Vigna unguiculata var. brasilica Bertoni",
-    "Vigna unguiculata var. caprina Bertoni",
-    "Vigna unguiculata var. inga Bertoni",
-    "Vigna unguiculata var. moncheta Bertoni",
-    "Vigna unguiculata var. oryzina Bertoni",
-    "Vigna unguiculata var. serotina Bertoni",
-    "Vigna unguiculata var. sesquipedalis (L.) Bertoni",
-    "Vigna unguiculata var. sulphurea Bertoni",
-    "Vigna unguiculata var. tonkinensis Bertoni"
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Yard-long Bean",
-    "Snake Bean"
-  ],
-  "sinhalaName": "Polon me (පොළොං මෑ)",
-  "description": "විවිධත්වයක් සහිත වගා කරන ලද ශාක විශේෂයකි, පැළෑටිමය (herbaceous), බිම දිගේ ඇදෙන හෝ වැල් ලෙස වැඩෙන, වාර්ෂික හෝ බහුවාර්ෂික ශාකයකි; කඳන් වල රැලි සහිත රේඛා (ridged) දක්නට ලැබේ, බොහෝ දුරට රෝම රහිතය (glabrous). පත්‍ර අක්ෂය (leaf rachis) සෙන්ටිමීටර 0.6-2.5 ක් දිගය, වෘන්ත සහිතය (petiolated); උපපත්‍ර (stipules) මිලිමීටර 6-20 ක් දිගය; පත්‍රිකා සෙන්ටිමීටර 6 x 12.5 ක් වන අතර, අග්‍රස්ථ පත්‍රිකා පාදස්ථයේදී හෙල්ලයක හැඩයට සමාන (subhastate) හෝ ඛණ්ඩ 3 කින් යුක්ත වේ. පුෂ්ප මංජරියන් පත්‍ර කක්ෂීය (axillary) වන අතර සෙන්ටිමීටර 40 ක් පමණ දිගය. මල් සෙන්ටිමීටර 1.5-3.5 ක් පමණ දිගය, පුෂ්ප වෘන්ත (pedicels) මිලිමීටර 2 ක් පමණ දිගය; පෙති සුදු, කොළ පැහැති, කහ හෝ දම් පැහැතිය. පලය තරමක් ඉදිමුණු (turgid) ස්වභාවයක් ගනී, සෙන්ටිමීටර 30-90 ක් පමණ දිගය, දිගටි වන අතර කොළ පැහැති විට වාතයෙන් පිරී ඉදිමුණු (inflated) සහ මෘදු (flabby) ස්වභාවයක් ගනී. බීජ වකුගඩු හැඩැති (reniform) සහ දිගටි වේ.",
-  "treatments": [
-    {
-      "treatment": "Gastric Disorders",
-      "sinhala": "ආමාශගත රෝග/අපහසුතා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Vigna unguiculata subsp. sesquipedalis (L.) Verdc.",
+    "synonyms": [
+        "Dolichos didjre Forssk.",
+        "Dolichos sesquipedalis L.",
+        "Vigna asparaginea (Bertoni) Bertoni",
+        "Vigna brasilica (Bertoni) Bertoni",
+        "Vigna inga (Bertoni) Bertoni",
+        "Vigna oryzina (Bertoni) Bertoni",
+        "Vigna serotina (Bertoni) Bertoni",
+        "Vigna sesquipedalis (L.) Fruwirth",
+        "Vigna sinensis subsp. sesquipedalis (L.) Van Eselt.",
+        "Vigna sinensis var. sesquipedalis (L.) Asch. & Schweinf.",
+        "Vigna sulphurea (Bertoni) Bertoni",
+        "Vigna tonkinensis (Bertoni) Bertoni",
+        "Vigna unguiculata f. coronata Bertoni",
+        "Vigna unguiculata subvar. cubensis Bertoni",
+        "Vigna unguiculata subvar. deflexa Bertoni",
+        "Vigna unguiculata subvar. guaranitica Bertoni",
+        "Vigna unguiculata subvar. triloba Bertoni",
+        "Vigna unguiculata var. asparaginea Bertoni",
+        "Vigna unguiculata var. brasilica Bertoni",
+        "Vigna unguiculata var. caprina Bertoni",
+        "Vigna unguiculata var. inga Bertoni",
+        "Vigna unguiculata var. moncheta Bertoni",
+        "Vigna unguiculata var. oryzina Bertoni",
+        "Vigna unguiculata var. serotina Bertoni",
+        "Vigna unguiculata var. sesquipedalis (L.) Bertoni",
+        "Vigna unguiculata var. sulphurea Bertoni",
+        "Vigna unguiculata var. tonkinensis Bertoni"
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Yard-long Bean",
+        "Snake Bean"
+    ],
+    "sinhalaName": "Polon me (පොළොං මෑ)",
+    "description": "විවිධත්වයක් සහිත වගා කරන ලද ශාක විශේෂයකි, පැළෑටිමය (herbaceous), බිම දිගේ ඇදෙන හෝ වැල් ලෙස වැඩෙන, වාර්ෂික හෝ බහුවාර්ෂික ශාකයකි; කඳන් වල රැලි සහිත රේඛා (ridged) දක්නට ලැබේ, බොහෝ දුරට රෝම රහිතය (glabrous). පත්‍ර අක්ෂය (leaf rachis) සෙන්ටිමීටර 0.6-2.5 ක් දිගය, වෘන්ත සහිතය (petiolated); උපපත්‍ර (stipules) මිලිමීටර 6-20 ක් දිගය; පත්‍රිකා සෙන්ටිමීටර 6 x 12.5 ක් වන අතර, අග්‍රස්ථ පත්‍රිකා පාදස්ථයේදී හෙල්ලයක හැඩයට සමාන (subhastate) හෝ ඛණ්ඩ 3 කින් යුක්ත වේ. පුෂ්ප මංජරියන් පත්‍ර කක්ෂීය (axillary) වන අතර සෙන්ටිමීටර 40 ක් පමණ දිගය. මල් සෙන්ටිමීටර 1.5-3.5 ක් පමණ දිගය, පුෂ්ප වෘන්ත (pedicels) මිලිමීටර 2 ක් පමණ දිගය; පෙති සුදු, කොළ පැහැති, කහ හෝ දම් පැහැතිය. පලය තරමක් ඉදිමුණු (turgid) ස්වභාවයක් ගනී, සෙන්ටිමීටර 30-90 ක් පමණ දිගය, දිගටි වන අතර කොළ පැහැති විට වාතයෙන් පිරී ඉදිමුණු (inflated) සහ මෘදු (flabby) ස්වභාවයක් ගනී. බීජ වකුගඩු හැඩැති (reniform) සහ දිගටි වේ.",
+    "treatments": [
+        {
+            "treatment": "Gastric Disorders",
+            "sinhala": "ආමාශගත රෝග/අපහසුතා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Parasitic Skin Infections",
+            "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "144",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/qY1BBpxM/plant00680-00144.jpg"
+        },
+        {
+            "image_id": "145",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/dJj4rFx7/plant00680-00145.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "පොළොන් මෑ ලේසියෙන් වගා කරමු",
+                "url": "https://youtube.com/watch?v=gEuQcqCXpCM",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/gEuQcqCXpCM/hqdefault.jpg"
+            },
+            {
+                "title": "පොළොන් මෑ / polon me - vk productions",
+                "url": "https://youtube.com/watch?v=YFwCH7_MJJ8",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/YFwCH7_MJJ8/hq720.jpg"
+            },
+            {
+                "title": "long bean cultivation in pots මෑ වගාව පොච්චිතුල  Home gardening ගෙවතු වගාව me wagawa badhunthula",
+                "url": "https://youtube.com/watch?v=OLWUVwR2RGM",
+                "duration": "20:13",
+                "thumbnail": "https://i.ytimg.com/vi/OLWUVwR2RGM/hq720.jpg"
+            },
+            {
+                "title": "මෑ වගාවේ අස්වැනන් විනාශ කරන අහින්සක සත්වයා / Long Bean Growing Problems and Solutions",
+                "url": "https://youtube.com/watch?v=8hvuJvzAhMs",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/8hvuJvzAhMs/hq720.jpg"
+            },
+            {
+                "title": "පදුරු මෑ වගාව බදුන්ගත Cultivation of long beans in pots,தொட்டிகளில் நீண்ட பீன்ஸ் சாகுபடி,ගෙවතු වගාව",
+                "url": "https://youtube.com/watch?v=EjPz7iSLFHE",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/EjPz7iSLFHE/hq720.jpg"
+            },
+            {
+                "title": "මෑ වගාව මුල සිට අග දක්වා | Long Beans Cultivation in Sri Lanka | Haritha Lokaya",
+                "url": "https://youtube.com/watch?v=2mry2gCGFsQ",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/2mry2gCGFsQ/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්තේ ඉදිරිපස පඳුරු මෑ වවමු 01 කොටස  /How to grow bean in front yard - part 01",
+                "url": "https://youtube.com/watch?v=uuSw7IncLt8",
+                "duration": "8:20",
+                "thumbnail": "https://i.ytimg.com/vi/uuSw7IncLt8/hqdefault.jpg"
+            },
+            {
+                "title": "ඉක්මනින් මෑ කරල් එලදාවක් ගන්න, පොඩි ඉඩක මෙහෙම හිටවන්න | Long Beans | Ceylon Agri | Episode 300",
+                "url": "https://youtube.com/watch?v=g3ke-G_HxTc",
+                "duration": "8:27",
+                "thumbnail": "https://i.ytimg.com/vi/g3ke-G_HxTc/hq720.jpg"
+            },
+            {
+                "title": "පොඩි ඉඩකින් ලොකු අස්වැන්නක් ගන්න හවරි මෑ වවමු.How to growing long beans",
+                "url": "https://youtube.com/watch?v=wPiYYtgff44",
+                "duration": "17:24",
+                "thumbnail": "https://i.ytimg.com/vi/wPiYYtgff44/hq720.jpg"
+            },
+            {
+                "title": "පොලොං මෑ වගාව |  Long beans | Harvest long beans | Makaral wagawa",
+                "url": "https://youtube.com/watch?v=dOxvojp9i1Y",
+                "duration": "6:56",
+                "thumbnail": "https://i.ytimg.com/vi/dOxvojp9i1Y/hq720.jpg"
+            },
+            {
+                "title": "පොළොන් මෑ ලේසියෙන් වගා කරමු",
+                "url": "https://youtube.com/watch?v=yoOvAWdisOs",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/yoOvAWdisOs/frame0.jpg"
+            },
+            {
+                "title": "මෑකරල් කෑවොත් වෙන දේ දන්නවා ද : Health benefits of Yard Long Beans",
+                "url": "https://youtube.com/watch?v=ku2PbsdXGRg",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/ku2PbsdXGRg/hq720.jpg"
+            },
+            {
+                "title": "Bushita bean cultivation in my Home garden Present situation",
+                "url": "https://youtube.com/watch?v=18VIh2BTK5Y",
+                "duration": "7:05",
+                "thumbnail": "https://i.ytimg.com/vi/18VIh2BTK5Y/hq720.jpg"
+            },
+            {
+                "title": "කුඩිත්තා පාලනය මෑ වගාවේ කාබනිකව",
+                "url": "https://youtube.com/watch?v=rGQV7M9QttI",
+                "duration": "7:27",
+                "thumbnail": "https://i.ytimg.com/vi/rGQV7M9QttI/hqdefault.jpg"
+            },
+            {
+                "title": "ගෙවත්තේ පදුරු මෑ වගාව | Long Beans Farming Tips වවමුද පදුරු මෑ Long Beans Farming Guide in Sri Lanka",
+                "url": "https://youtube.com/watch?v=QRESzqV1rEQ",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/QRESzqV1rEQ/hq720.jpg"
+            },
+            {
+                "title": "ගන්නෝරුව A9 මෑ ප්‍රභේදය ගැන සම්පූර්ණ විස්තරය ( Gannoruwa A9)",
+                "url": "https://youtube.com/watch?v=ExO-aDkFUzY",
+                "duration": "11:05",
+                "thumbnail": "https://i.ytimg.com/vi/ExO-aDkFUzY/hqdefault.jpg"
+            },
+            {
+                "title": "මෑ කරල් වගාවේ කෘමි හානිය පහසුවෙන් වලක්වා ගමු | Easily Prevent Insect Disease Of Long Bean Plants",
+                "url": "https://youtube.com/watch?v=aQM7uwMwNKI",
+                "duration": "1:40",
+                "thumbnail": "https://i.ytimg.com/vi/aQM7uwMwNKI/hq720.jpg"
+            },
+            {
+                "title": "මෑ වගාව සඳහා අවශ්‍ය කෘෂි උපදෙස් - Vigna unguiculata Cultivation | ගෙවතු වගාව",
+                "url": "https://youtube.com/watch?v=3iGfFLGzNYo",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/3iGfFLGzNYo/hqdefault.jpg"
+            },
+            {
+                "title": "how to treat long beans මෑ කරල් වැල් තරුණ කරන රහස් makaral wagawa sinhala මෑ කරල් වගාව",
+                "url": "https://youtube.com/watch?v=Q_THIfFFReA",
+                "duration": "6:16",
+                "thumbnail": "https://i.ytimg.com/vi/Q_THIfFFReA/hq720.jpg"
+            },
+            {
+                "title": "​මෑ කරල් වගා කරමු! ගෙදරදීම සරුසාර අස්වැන්නක් ගන්නා හරිම විදිය | Long Beans Guide 🌱",
+                "url": "https://youtube.com/watch?v=QQJN_HNATZQ",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/QQJN_HNATZQ/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Parasitic Skin Infections",
-      "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "144",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/qY1BBpxM/plant00680-00144.jpg"
-    },
-    {
-      "image_id": "145",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/dJj4rFx7/plant00680-00145.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

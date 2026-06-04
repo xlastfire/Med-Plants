@@ -1,52 +1,99 @@
 {
-  "scientificName": "Timonius flavescens (Jacq.) Baker",
-  "synonyms": [
-    "Antirhea borneensis Valeton",
-    "Bobea glabra (Wight & Arn.) Korth.",
-    "Bobea inaequisepala Miq.",
-    "Bobea mutabilis Korth.",
-    "Bobea sericantha f. glabrior Miq.",
-    "Bobea sericantha Miq.",
-    "Eupyrena glabra Wight & Arn.",
-    "Guettarda brunonis Wall. ex G.Don",
-    "Guettarda missionis Wall. ex G.Don",
-    "Guettarda peduncularis Wall. ex G.Don",
-    "Guettarda pervilleana Baill.",
-    "Helospora flavescens Jacq.",
-    "Polyphragmon flavescens (Jacq.) Kurz",
-    "Polyphragmon flavescens var. macrocarpum Kurz",
-    "Polyphragmon mutabile (Korth.) Miq.",
-    "Polyphragmon sericanthum (Miq.) Miq.",
-    "Timonius jambosella Thwaites",
-    "Timonius koenigii Blume ex Korth.",
-    "Timonius mutabilis (Korth.) Walp.",
-    "Timonius peduncularis (Wall. ex G.Don) Ridl.",
-    "Timonius sechellensis Summerh.",
-    "Timonius sericanthus (Miq.) Boerl.",
-    "Timonius sericanthus var. inaequisepalus (Miq.) Boerl."
-  ],
-  "familyName": "RUBIACEAE",
-  "englishNames": [],
-  "sinhalaName": "Angana (අඟන)",
-  "description": "මීටර් 12ක් දක්වා උසැති පඳුරක් හෝ කුඩා ගසකි. පත්‍ර ඉතා විචල්‍ය වේ, ඉලිප්සාකාර (elliptic) සිට ප්‍රතිඩිම්බක (obovate) හැඩයක් ගනී, සෙන්ටිමීටර 2.5 - 20 X 1 - 8 ප්‍රමාණයෙන් යුක්ත වේ, සම් වැනි (coriaceous) ස්වභාවයක් ගනී, පත්‍රයේ උඩ කොටස රෝම රහිත (glabrous) වන අතර යටි කොටසෙහි අවම වශයෙන් නාරටි මත විසිරුණු රෝම දක්නට ලැබේ, පත්‍ර අග්‍රය තියුණු (acute) සිට උල් වූ (acuminate) හැඩයක් ගනී, පත්‍ර පාදය තියුණු (acute) හෝ කලාතුරකින් මොට (obtuse) වේ. පිරිමි පුෂ්ප මංජරියෙහි මල් (3 -) 5 - 7 (- 9) ක් අඩංගු වන අතර මල් ඉතා කෙටි වෘන්ත සහිත (subsessile) වේ. ගැහැණු පුෂ්ප මංජරියෙහි ඇත්තේ තනි මලක් පමණි, කලාතුරකින් මල් 3ක් දක්නට ලැබේ. ඵලය ඉලිප්සාකාර (ellipsoidal) සිට ගෝලාකාර (globose) වේ, මිලිමීටර 8 - 12 X 8 ප්‍රමාණයෙන් යුක්ත වේ, එහි අග්‍රයෙහි මල් පෙති වල අවශේෂ (calyx remnants) පිහිටා ඇත, ඇට (pyrenes) 4 - 12 ක් අඩංගු වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "3033",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/hxyh3MHf/plant01161-03033.jpg"
+    "scientificName": "Timonius flavescens (Jacq.) Baker",
+    "synonyms": [
+        "Antirhea borneensis Valeton",
+        "Bobea glabra (Wight & Arn.) Korth.",
+        "Bobea inaequisepala Miq.",
+        "Bobea mutabilis Korth.",
+        "Bobea sericantha f. glabrior Miq.",
+        "Bobea sericantha Miq.",
+        "Eupyrena glabra Wight & Arn.",
+        "Guettarda brunonis Wall. ex G.Don",
+        "Guettarda missionis Wall. ex G.Don",
+        "Guettarda peduncularis Wall. ex G.Don",
+        "Guettarda pervilleana Baill.",
+        "Helospora flavescens Jacq.",
+        "Polyphragmon flavescens (Jacq.) Kurz",
+        "Polyphragmon flavescens var. macrocarpum Kurz",
+        "Polyphragmon mutabile (Korth.) Miq.",
+        "Polyphragmon sericanthum (Miq.) Miq.",
+        "Timonius jambosella Thwaites",
+        "Timonius koenigii Blume ex Korth.",
+        "Timonius mutabilis (Korth.) Walp.",
+        "Timonius peduncularis (Wall. ex G.Don) Ridl.",
+        "Timonius sechellensis Summerh.",
+        "Timonius sericanthus (Miq.) Boerl.",
+        "Timonius sericanthus var. inaequisepalus (Miq.) Boerl."
+    ],
+    "familyName": "RUBIACEAE",
+    "englishNames": [],
+    "sinhalaName": "Angana (අඟන)",
+    "description": "මීටර් 12ක් දක්වා උසැති පඳුරක් හෝ කුඩා ගසකි. පත්‍ර ඉතා විචල්‍ය වේ, ඉලිප්සාකාර (elliptic) සිට ප්‍රතිඩිම්බක (obovate) හැඩයක් ගනී, සෙන්ටිමීටර 2.5 - 20 X 1 - 8 ප්‍රමාණයෙන් යුක්ත වේ, සම් වැනි (coriaceous) ස්වභාවයක් ගනී, පත්‍රයේ උඩ කොටස රෝම රහිත (glabrous) වන අතර යටි කොටසෙහි අවම වශයෙන් නාරටි මත විසිරුණු රෝම දක්නට ලැබේ, පත්‍ර අග්‍රය තියුණු (acute) සිට උල් වූ (acuminate) හැඩයක් ගනී, පත්‍ර පාදය තියුණු (acute) හෝ කලාතුරකින් මොට (obtuse) වේ. පිරිමි පුෂ්ප මංජරියෙහි මල් (3 -) 5 - 7 (- 9) ක් අඩංගු වන අතර මල් ඉතා කෙටි වෘන්ත සහිත (subsessile) වේ. ගැහැණු පුෂ්ප මංජරියෙහි ඇත්තේ තනි මලක් පමණි, කලාතුරකින් මල් 3ක් දක්නට ලැබේ. ඵලය ඉලිප්සාකාර (ellipsoidal) සිට ගෝලාකාර (globose) වේ, මිලිමීටර 8 - 12 X 8 ප්‍රමාණයෙන් යුක්ත වේ, එහි අග්‍රයෙහි මල් පෙති වල අවශේෂ (calyx remnants) පිහිටා ඇත, ඇට (pyrenes) 4 - 12 ක් අඩංගු වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "3033",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/hxyh3MHf/plant01161-03033.jpg"
+        },
+        {
+            "image_id": "3034",
+            "caption": "Twig with fruit (PMR)",
+            "url": "https://i.ibb.co/pjYxQr5v/plant01161-03034.jpg"
+        },
+        {
+            "image_id": "3035",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/5gydyS30/plant01161-03035.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "අගුණ වැල් | Aguna",
+                "url": "https://youtube.com/watch?v=yV_uD5M2EBg",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/yV_uD5M2EBg/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ වල ඇති විශ්මිත ගුණ 25ක් kiriaguna wala athi guna",
+                "url": "https://youtube.com/watch?v=KrQRcPVvNlw",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/KrQRcPVvNlw/hqdefault.jpg"
+            },
+            {
+                "title": "නම අගුණ වුණත් බොහෝ  ගුණ ඇති කිරි අඟුණ kiri aguna plant benefits මව්කිරි වඩවන ආහාර",
+                "url": "https://youtube.com/watch?v=N7SwafIqdZU",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/N7SwafIqdZU/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ කෑවම මොකද වෙන්නෙ : Health benefits of Kiri Aguna",
+                "url": "https://youtube.com/watch?v=o8vWzWsojxI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/o8vWzWsojxI/hq720.jpg"
+            },
+            {
+                "title": "ඇහුවොත්  පුදුම වෙයි |රෝග රැසකට ගුණ දෙන තිත්ත අගුණ | aguna kola | lt lucky garden",
+                "url": "https://youtube.com/watch?v=lDR5o_2F218",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/lDR5o_2F218/hq720.jpg"
+            },
+            {
+                "title": "නම අගුණ උනාට,  ගුණ අගුණ නැති කොල",
+                "url": "https://youtube.com/watch?v=r78WE9I-tFo",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/r78WE9I-tFo/hqdefault.jpg"
+            },
+            {
+                "title": "අගුණ කෑම ගුණ කරන රහස, සීනි, කොලෙස්ටරෝල් වැඩි කරන ආහාරත් ගුණදායක විදිහට කන්නේ මෙහෙමයි. Glycemic Index",
+                "url": "https://youtube.com/watch?v=17k_fDw6KLo",
+                "duration": "14:05",
+                "thumbnail": "https://i.ytimg.com/vi/17k_fDw6KLo/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "3034",
-      "caption": "Twig with fruit (PMR)",
-      "url": "https://i.ibb.co/pjYxQr5v/plant01161-03034.jpg"
-    },
-    {
-      "image_id": "3035",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/5gydyS30/plant01161-03035.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

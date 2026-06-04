@@ -1,306 +1,569 @@
 {
-  "scientificName": "Piper nigrum L.",
-  "synonyms": [
-    "Muldera multinervis Miq.",
-    "Piper aromaticum Lam.",
-    "Piper baccatum C.DC.",
-    "Piper colonum C.Presl",
-    "Piper denudatum Opiz",
-    "Piper glyphicum Hoffmanns. ex Kunth",
-    "Piper malabarense C.DC.",
-    "Piper nigrum var. hirtellosum Asokan Nair & Ravindran",
-    "Piper rotundum Noronha",
-    "Rhyncholepis haeankeana Miq."
-  ],
-  "familyName": "PIPERACEAE",
-  "englishNames": [
-    "Pepper",
-    "Common Pepper",
-    "Pepper Plant",
-    "Black Pepper",
-    "White Pepper",
-    "Madagascar Pepper"
-  ],
-  "sinhalaName": "Gammiris (ගම්මිරිස්)",
-  "description": "බහුවාර්ෂික වැල් වර්ගයකි; කඳ අර්ධ-දැවමය (semi-woody) වේ; කලාතුරකින් මුල් හටගනී; ගැට (nodes) ඝන වී ඇත; ළපටි කොටස් රෝම රහිත (glabrous) වේ. පත්‍ර සෙන්ටිමීටර 12.7-17.5 ක් දිග වන අතර පාදම හෘදයාකාර (cordate) වේ; පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 2.5-3.7 ක් දිග වේ. මල් ද්විලිංගික වන අතර, මාංසල උපපත්‍ර (bracts) වල අක්ෂවල වෘන්ත රහිතව (sessile) පිහිටයි; මේවා පත්‍රයට විරුද්ධ පැත්තේ සෙන්ටිමීටර 5 ක් දිග කරල් (spikes) ලෙස සැකසී ඇත. ඵලය ගෝලාකාර (globose) වන අතර, මුලින් තද කොළ පැහැති වේ; සෙන්ටිමීටර 10-15 ක් දිග එල්ලෙන කරල්වල පවතින මෙම ඵල මිලිමීටර 6 ක් පමණ දිග වන අතර, ඉදුණු විට තැඹිලි-කහ පැහැයේ සිට අඳුරු රතු පැහැයට හැරේ.",
-  "treatments": [
-    {
-      "treatment": "Tonsillitis",
-      "sinhala": "ටොන්සිල් ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Piper nigrum L.",
+    "synonyms": [
+        "Muldera multinervis Miq.",
+        "Piper aromaticum Lam.",
+        "Piper baccatum C.DC.",
+        "Piper colonum C.Presl",
+        "Piper denudatum Opiz",
+        "Piper glyphicum Hoffmanns. ex Kunth",
+        "Piper malabarense C.DC.",
+        "Piper nigrum var. hirtellosum Asokan Nair & Ravindran",
+        "Piper rotundum Noronha",
+        "Rhyncholepis haeankeana Miq."
+    ],
+    "familyName": "PIPERACEAE",
+    "englishNames": [
+        "Pepper",
+        "Common Pepper",
+        "Pepper Plant",
+        "Black Pepper",
+        "White Pepper",
+        "Madagascar Pepper"
+    ],
+    "sinhalaName": "Gammiris (ගම්මිරිස්)",
+    "description": "බහුවාර්ෂික වැල් වර්ගයකි; කඳ අර්ධ-දැවමය (semi-woody) වේ; කලාතුරකින් මුල් හටගනී; ගැට (nodes) ඝන වී ඇත; ළපටි කොටස් රෝම රහිත (glabrous) වේ. පත්‍ර සෙන්ටිමීටර 12.7-17.5 ක් දිග වන අතර පාදම හෘදයාකාර (cordate) වේ; පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 2.5-3.7 ක් දිග වේ. මල් ද්විලිංගික වන අතර, මාංසල උපපත්‍ර (bracts) වල අක්ෂවල වෘන්ත රහිතව (sessile) පිහිටයි; මේවා පත්‍රයට විරුද්ධ පැත්තේ සෙන්ටිමීටර 5 ක් දිග කරල් (spikes) ලෙස සැකසී ඇත. ඵලය ගෝලාකාර (globose) වන අතර, මුලින් තද කොළ පැහැති වේ; සෙන්ටිමීටර 10-15 ක් දිග එල්ලෙන කරල්වල පවතින මෙම ඵල මිලිමීටර 6 ක් පමණ දිග වන අතර, ඉදුණු විට තැඹිලි-කහ පැහැයේ සිට අඳුරු රතු පැහැයට හැරේ.",
+    "treatments": [
+        {
+            "treatment": "Tonsillitis",
+            "sinhala": "ටොන්සිල් ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Flatulence",
+            "sinhala": "බඩ පිපුම (වාතය පිරීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Filariasis",
+            "sinhala": "බරවා රෝගය (අලිපාදය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Vomiting",
+            "sinhala": "වමනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Shellfish Poisoning",
+            "sinhala": "කටු මාළු (කකුළුවන්, බෙල්ලන්) නිසා වන විෂ වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Mushroom Poisoning",
+            "sinhala": "හතු විෂ වීම (ඡත්‍රක විෂ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nervous System Disorders",
+            "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worm infestations",
+            "sinhala": "පණුවන් බෝවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Body Ache",
+            "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Heart Diseases",
+            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Common Cold",
+            "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dysmenorrhea",
+            "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Root",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "415",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/fVrwmHxr/plant00991-00415.jpg"
+        },
+        {
+            "image_id": "416",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/3Ys2Mt0S/plant00991-00416.jpg"
+        },
+        {
+            "image_id": "3877",
+            "caption": "Leaf - upper surface (PMR)",
+            "url": "https://i.ibb.co/8LpfpkGk/plant00991-03877.jpg"
+        },
+        {
+            "image_id": "3878",
+            "caption": "Leaf - lower surface (PMR)",
+            "url": "https://i.ibb.co/3Yz8rMK8/plant00991-03878.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Ayurvedic Value of Pepper , ගම්මිරිස්",
+                "url": "https://youtube.com/watch?v=Q-P1bfRjQuM",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/Q-P1bfRjQuM/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වගාවට සුදුසු ම ප්‍රදේශ හඳුනාගනිමු",
+                "url": "https://youtube.com/watch?v=8jlepfrJyUs",
+                "duration": "15:00",
+                "thumbnail": "https://i.ytimg.com/vi/8jlepfrJyUs/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වගාවෙන් උපරිම අස්වැන්නකට නිවැරදි මඟ",
+                "url": "https://youtube.com/watch?v=xr41rrhzyOs",
+                "duration": "14:46",
+                "thumbnail": "https://i.ytimg.com/vi/xr41rrhzyOs/hqdefault.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් දලු පැළකිරිම A to Z    Pepper vines. Planting A to Z  ගම්මිරිස් දලු  පැලකිරිම gammiris",
+                "url": "https://youtube.com/watch?v=nC5ka_UPJNs",
+                "duration": "26:09",
+                "thumbnail": "https://i.ytimg.com/vi/nC5ka_UPJNs/hq720.jpg"
+            },
+            {
+                "title": "තාම අපේ ගම්මිරිස් ගොවියන් මේ සුපිරි ක්‍රමය දන්නෙ නෑ column method of black pepper cultivation",
+                "url": "https://youtube.com/watch?v=uI8kutOXqH8",
+                "duration": "7:07",
+                "thumbnail": "https://i.ytimg.com/vi/uI8kutOXqH8/hq720.jpg"
+            },
+            {
+                "title": "Cultivation of pepper ගම්මිරිස් අස්වැන්න නෙලීම හා සකස්කිරිම gammiris wagawa",
+                "url": "https://youtube.com/watch?v=66_Hte7Os0g",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/66_Hte7Os0g/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වගාවට සූදානම් විය යුතු පිළිවෙළ",
+                "url": "https://youtube.com/watch?v=Vq_Eu_FfUWg",
+                "duration": "2:08:03",
+                "thumbnail": "https://i.ytimg.com/vi/Vq_Eu_FfUWg/hqdefault.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් පලදාව වැඩිකරගන්නේ මෙහෙමයි / @AgriView61",
+                "url": "https://youtube.com/watch?v=AsC5DhPLwAA",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/AsC5DhPLwAA/hq720.jpg"
+            },
+            {
+                "title": "Black pepper... 👈👆gammiris welana hati ගම්මිරිස් වේලන හැටි, මුල සිටම. කළු ගම්මිරිස් හදන්නේ මෙහෙමයි.",
+                "url": "https://youtube.com/watch?v=j09EYnvdReE",
+                "duration": "9:20",
+                "thumbnail": "https://i.ytimg.com/vi/j09EYnvdReE/hqdefault.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වගාවට සුදුසු ම ප්‍රදේශ හඳුනාගනිමු",
+                "url": "https://youtube.com/watch?v=aTMQBLQlMRA",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/aTMQBLQlMRA/hq720.jpg"
+            },
+            {
+                "title": "පදුරු ගම්මිරිස් බට් ගම්මිරිස් නාගරික ගෙවත්තට bat gammiris Black Pepper Farming for the Urban Garden",
+                "url": "https://youtube.com/watch?v=h2wY92mp6pc",
+                "duration": "17:33",
+                "thumbnail": "https://i.ytimg.com/vi/h2wY92mp6pc/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් පැල හිටවන නිවැරදිම ආකාරය | Gammiris Pela Situweema Sinhala",
+                "url": "https://youtube.com/watch?v=M3tyDZ-1Rl4",
+                "duration": "8:20",
+                "thumbnail": "https://i.ytimg.com/vi/M3tyDZ-1Rl4/hq720.jpg"
+            },
+            {
+                "title": "January 12, 2026 ගමේ මිරිස් හොඳම ගම්මිරිස් ගැන / pepper serds # sri lanka spice",
+                "url": "https://youtube.com/watch?v=WWOFEjo04so",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/WWOFEjo04so/hqdefault.jpg"
+            },
+            {
+                "title": "Ayurvedic Value of Pepper , ගම්මිරිස්",
+                "url": "https://youtube.com/watch?v=a21AOz8ZKcI",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/a21AOz8ZKcI/frame0.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් අස්වැන්න සැකසිම සදහා උණුවතුර ප්‍රතිකාරය කිරිම |Blanching the pepper",
+                "url": "https://youtube.com/watch?v=eXBQadtnE1k",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/eXBQadtnE1k/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් 5ස් ගුණයක් අස්වැන්න දෙන කොලම් column method of black pepper sri lanka",
+                "url": "https://youtube.com/watch?v=eZQ0OPWQPL0",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/eZQ0OPWQPL0/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවේ හොදම ගම්මිරිස් ප්‍රභේදය | Gammiris Wagawa Hodama Prabedaya",
+                "url": "https://youtube.com/watch?v=aq9KCAgs3m4",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/aq9KCAgs3m4/hq720.jpg"
+            },
+            {
+                "title": "වටිනාකමින් ඉහල සුදු ගම්මිරිස්  නිෂ්පාදනය",
+                "url": "https://youtube.com/watch?v=vukCP06p-iQ",
+                "duration": "15:00",
+                "thumbnail": "https://i.ytimg.com/vi/vukCP06p-iQ/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වගාවක් නිවැරදිව සිදුකරමු  | Gammiris Wagawa | Pepper vines |  black pepper sri lanka",
+                "url": "https://youtube.com/watch?v=2TmCkte9238",
+                "duration": "31:47",
+                "thumbnail": "https://i.ytimg.com/vi/2TmCkte9238/hq720.jpg"
+            },
+            {
+                "title": "Ayurvedic Value of Pepper , ගම්මිරිස්",
+                "url": "https://youtube.com/watch?v=YGmDeO_GU9Q",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/YGmDeO_GU9Q/frame0.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් gammirisවල ඇති විස්මිත ඖෂධීය ගුණ 😱😱",
+                "url": "https://youtube.com/watch?v=0hOukRy9-e4",
+                "duration": "6:07",
+                "thumbnail": "https://i.ytimg.com/vi/0hOukRy9-e4/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වල ඇති ගුණ සහ විටමින් වර්ග (16) |  peppers benefits",
+                "url": "https://youtube.com/watch?v=j1p7xjaKubY",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/j1p7xjaKubY/hqdefault.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වල ඔබ නොදත් තතු: ආයුර්වේද වෛද්‍ය තාරක සමන්ත ශ්‍රී මහතා සමග සාකච්ඡාව",
+                "url": "https://youtube.com/watch?v=d0gxmrnBBxI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/d0gxmrnBBxI/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වල ගුණ දැන ගමු",
+                "url": "https://youtube.com/watch?v=F1J29o_p0H8",
+                "duration": "0:25",
+                "thumbnail": "https://i.ytimg.com/vi/F1J29o_p0H8/hq720.jpg"
+            },
+            {
+                "title": "හැමෝම දන්නා ගම්මිරිස් වල ඔබ නොදත් ගුණ | ස්නායු දුර්වලතා, කැස්ස ඇතුළු රෝග රැසකට ගුණයි | ගම්මිරිස්",
+                "url": "https://youtube.com/watch?v=5a-VrHtdUt8",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/5a-VrHtdUt8/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ හොයගන්න නැති , ගුණ අසීමිතව තියෙන ආහාරයක්",
+                "url": "https://youtube.com/watch?v=QvMlqz-1ebY",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/QvMlqz-1ebY/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් කෑවොත් වෙන දේ මෙන්න : Black pepper benefits (in 2018)",
+                "url": "https://youtube.com/watch?v=C7SPFBVXjHA",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/C7SPFBVXjHA/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වගාවේ ක්ෂණික මැලවීමේ රෝගය පාලනය කරමු",
+                "url": "https://youtube.com/watch?v=c9iDKfevrd0",
+                "duration": "43:51",
+                "thumbnail": "https://i.ytimg.com/vi/c9iDKfevrd0/hqdefault.jpg"
+            },
+            {
+                "title": "Black pepper benefits | Black Pepper",
+                "url": "https://youtube.com/watch?v=ji_FPL0suGk",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/ji_FPL0suGk/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් කෑවහම අපිට ලැබෙන ප්‍රයෝජන - Benefits of eating pepper - anamanmamna tv",
+                "url": "https://youtube.com/watch?v=CPgr0HmHZOk",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/CPgr0HmHZOk/hqdefault.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් නිසා සුව වෙන ‌‌‌‌ලෙඩ රෝග  පිළිබද විශේෂ හැදින්වීම | black pepper Sri Lanka |  sinhala foods",
+                "url": "https://youtube.com/watch?v=f08P5nGtKJY",
+                "duration": "5:27",
+                "thumbnail": "https://i.ytimg.com/vi/f08P5nGtKJY/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් ගැන මොනවද ඔයාල දන්නෙ? (What do you know about pepper?) ගම්මිරිස් ගැන හරියට දැනගමු.",
+                "url": "https://youtube.com/watch?v=Uxy47GdLTUo",
+                "duration": "3:33",
+                "thumbnail": "https://i.ytimg.com/vi/Uxy47GdLTUo/hq720.jpg"
+            },
+            {
+                "title": "දෙහි බෑයක් මත ලුණු ගම්මිරිස් එකතු කර රෝග රැසකට බෙහෙතක්",
+                "url": "https://youtube.com/watch?v=V5wYEL3GySM",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/V5wYEL3GySM/hq720.jpg"
+            },
+            {
+                "title": "Agriculture Lesson || Gammiris (Pepper) - ගම්මිරිස් ||  #Maheesha_Vedagedara",
+                "url": "https://youtube.com/watch?v=u1ZJuCbDFzs",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/u1ZJuCbDFzs/hq720.jpg"
+            },
+            {
+                "title": "පදුරු ගම්මිරිස් කියන්නේ මොනවාද ?What is bush pepper? ගම්මිරිස් වගාව paduru gammiris ගෙවතු වගාව",
+                "url": "https://youtube.com/watch?v=zaQ3aG1HPFI",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/zaQ3aG1HPFI/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වගාව තුළ පැතිර යන රෝග වර්ග දෙකක්",
+                "url": "https://youtube.com/watch?v=xmlT8UNiouY",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/xmlT8UNiouY/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් (Gammiris) අමුවෙන් කෑමව වෙන දේ | Pepper cultivation in Sri lanka | Spices",
+                "url": "https://youtube.com/watch?v=nHblEAWmUh0",
+                "duration": "4:33",
+                "thumbnail": "https://i.ytimg.com/vi/nHblEAWmUh0/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවේ වැඩිපුරම වගා කරන ගම්මිරිස් වර්ගය | The Most Popular Pepper Variety Of Sri Lanka",
+                "url": "https://youtube.com/watch?v=EIdsE_Q5dCw",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/EIdsE_Q5dCw/hq720.jpg"
+            },
+            {
+                "title": "පදුරු ගම්මිරිස් ගම්මිරිස් වගාව බට් ගම්මිරිස්  gammiris wagawa bat gammiris Cultivation of pepper",
+                "url": "https://youtube.com/watch?v=22QNKEWTP7c",
+                "duration": "8:30",
+                "thumbnail": "https://i.ytimg.com/vi/22QNKEWTP7c/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් බෝගය රෝග වලින් වලක්වා ගැනීම....",
+                "url": "https://youtube.com/watch?v=G_-45WdwZq4",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/G_-45WdwZq4/hq720.jpg"
+            },
+            {
+                "title": "\"හරිත හැඳුනුම්පත\" හිමි අපේ ගම්මිරිස්",
+                "url": "https://youtube.com/watch?v=r-f1dMnsLmY",
+                "duration": "14:57",
+                "thumbnail": "https://i.ytimg.com/vi/r-f1dMnsLmY/hq720.jpg"
+            },
+            {
+                "title": "Gammiris Aswanu neleema | ගම්මිරිස් වගාව | ceylon black peper.🌿",
+                "url": "https://youtube.com/watch?v=Vmb4X7nKZrE",
+                "duration": "9:37",
+                "thumbnail": "https://i.ytimg.com/vi/Vmb4X7nKZrE/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වගාව / how to grow pepper / ගම්මිරිස් දලු පැළකරන හැටි / gammiris wagawa sinhalen /gammiris",
+                "url": "https://youtube.com/watch?v=Kaq5inaPnCE",
+                "duration": "6:56",
+                "thumbnail": "https://i.ytimg.com/vi/Kaq5inaPnCE/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Flatulence",
-      "sinhala": "බඩ පිපුම (වාතය පිරීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Filariasis",
-      "sinhala": "බරවා රෝගය (අලිපාදය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Vomiting",
-      "sinhala": "වමනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Shellfish Poisoning",
-      "sinhala": "කටු මාළු (කකුළුවන්, බෙල්ලන්) නිසා වන විෂ වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Mushroom Poisoning",
-      "sinhala": "හතු විෂ වීම (ඡත්‍රක විෂ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nervous System Disorders",
-      "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worm infestations",
-      "sinhala": "පණුවන් බෝවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Body Ache",
-      "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Heart Diseases",
-      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Common Cold",
-      "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Dysmenorrhea",
-      "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Root",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "415",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/fVrwmHxr/plant00991-00415.jpg"
-    },
-    {
-      "image_id": "416",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/3Ys2Mt0S/plant00991-00416.jpg"
-    },
-    {
-      "image_id": "3877",
-      "caption": "Leaf - upper surface (PMR)",
-      "url": "https://i.ibb.co/8LpfpkGk/plant00991-03877.jpg"
-    },
-    {
-      "image_id": "3878",
-      "caption": "Leaf - lower surface (PMR)",
-      "url": "https://i.ibb.co/3Yz8rMK8/plant00991-03878.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

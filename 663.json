@@ -1,171 +1,446 @@
 {
-  "scientificName": "Sesbania grandiflora (L.) Poir.",
-  "synonyms": [
-    "Aeschynomene grandiflora (L.) L.",
-    "Agati grandiflora (L.) Desv.",
-    "Agati grandiflora var. albiflora Wight & Arn.",
-    "Coronilla coccinea Willd.",
-    "Coronilla grandiflora (L.) Willd.",
-    "Dolichos arborescens G.Don",
-    "Dolichos arboreus Forssk.",
-    "Emerus grandiflorus (L.) Hornem.",
-    "Resupinaria grandiflora (L.) Raf.",
-    "Robinia grandiflora L.",
-    "Sesban grandiflora (L.) Poir.",
-    "Sesbania mannii Sachet"
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Hummingbrid Tree",
-    "Scarlet Wistaria Tree",
-    "Red Wisteria",
-    "Sesban",
-    "Vegetable Hummingbird",
-    "West Indian Pea Tree"
-  ],
-  "sinhalaName": "Kathuru murunga (කතුරු මුරුංගා)",
-  "description": "මීටර් 10ක් පමණ උසැති ගස්; ළපටි කඳන් රෝමශ (pubescent) වේ. පත්‍ර යුගල පිහාටුකාර (paripinnate) වන අතර පත්‍ර අක්ෂය සෙන්ටිමීටර 12-30(-60)ක් පමණ දිගය, පත්‍රිකා 30-60කින් සමන්විතය; පත්‍රිකා සෙන්ටිමීටර 2-4ක් දිග සහ මිලිමීටර 5-15ක් පළලය. පුෂ්ප මංජරිවල මල් 2-4ක් අඩංගු වේ. මල් සෙන්ටිමීටර 5-10ක් පමණ දිගය; පෙති රතු, රෝස හෝ සුදු පැහැති වන අතර සෙන්ටිමීටර (5-) 7-8.5(-10)ක් දිගය. පල සෙන්ටිමීටර 20-60ක් දිග සහ මිලිමීටර 7-9ක් පළල වන අතර බීජ 15-50ක් අඩංගු වේ; බීජ රතු පැහැයට හුරු දුඹුරු පැහැතිය, සෙන්ටිමීටර 1ක් පමණ පරතරයකින් පිහිටයි, මිලිමීටර 5ක් දිග, මිලිමීටර 4ක් පළල සහ මිලිමීටර 1.5-2ක් ඝනකම වේ.",
-  "treatments": [
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Sesbania grandiflora (L.) Poir.",
+    "synonyms": [
+        "Aeschynomene grandiflora (L.) L.",
+        "Agati grandiflora (L.) Desv.",
+        "Agati grandiflora var. albiflora Wight & Arn.",
+        "Coronilla coccinea Willd.",
+        "Coronilla grandiflora (L.) Willd.",
+        "Dolichos arborescens G.Don",
+        "Dolichos arboreus Forssk.",
+        "Emerus grandiflorus (L.) Hornem.",
+        "Resupinaria grandiflora (L.) Raf.",
+        "Robinia grandiflora L.",
+        "Sesban grandiflora (L.) Poir.",
+        "Sesbania mannii Sachet"
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Hummingbrid Tree",
+        "Scarlet Wistaria Tree",
+        "Red Wisteria",
+        "Sesban",
+        "Vegetable Hummingbird",
+        "West Indian Pea Tree"
+    ],
+    "sinhalaName": "Kathuru murunga (කතුරු මුරුංගා)",
+    "description": "මීටර් 10ක් පමණ උසැති ගස්; ළපටි කඳන් රෝමශ (pubescent) වේ. පත්‍ර යුගල පිහාටුකාර (paripinnate) වන අතර පත්‍ර අක්ෂය සෙන්ටිමීටර 12-30(-60)ක් පමණ දිගය, පත්‍රිකා 30-60කින් සමන්විතය; පත්‍රිකා සෙන්ටිමීටර 2-4ක් දිග සහ මිලිමීටර 5-15ක් පළලය. පුෂ්ප මංජරිවල මල් 2-4ක් අඩංගු වේ. මල් සෙන්ටිමීටර 5-10ක් පමණ දිගය; පෙති රතු, රෝස හෝ සුදු පැහැති වන අතර සෙන්ටිමීටර (5-) 7-8.5(-10)ක් දිගය. පල සෙන්ටිමීටර 20-60ක් දිග සහ මිලිමීටර 7-9ක් පළල වන අතර බීජ 15-50ක් අඩංගු වේ; බීජ රතු පැහැයට හුරු දුඹුරු පැහැතිය, සෙන්ටිමීටර 1ක් පමණ පරතරයකින් පිහිටයි, මිලිමීටර 5ක් දිග, මිලිමීටර 4ක් පළල සහ මිලිමීටර 1.5-2ක් ඝනකම වේ.",
+    "treatments": [
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Candidiasis",
+            "sinhala": "කැන්ඩිඩියාසිස් (දිලීර ආසාදන)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatoid Arthritis",
+            "sinhala": "ආමවාතය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Bark",
+        "Flowers",
+        "Roots,",
+        "Seeds",
+        "Resins"
+    ],
+    "images": [
+        {
+            "image_id": "215",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/jZR97zFC/plant00663-00215.jpg"
+        },
+        {
+            "image_id": "216",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/67FZgfxR/plant00663-00216.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ශරීරයේ අධික උශ්ණය අඩුකරන මැජික් කිරි හොද්ද/ kathurumurunga kiri hodi",
+                "url": "https://youtube.com/watch?v=k9HVnwAakDw",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/k9HVnwAakDw/hqdefault.jpg"
+            },
+            {
+                "title": "රසවත් කතුරුමුරුංගා කොළ මැල්ලුමක් හදමු|Kathurumurunga Mellum",
+                "url": "https://youtube.com/watch?v=y_PepiuF1fc",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/y_PepiuF1fc/hq720.jpg"
+            },
+            {
+                "title": "කතුරුමුරුංගා ගසක් ඔබේ ගෙවත්තේ මේ විදියට හිටවලා බලන්න | ඔබ මවිත වෙන කතුරුමුරුංගා ගසේ විශ්මිත රහස",
+                "url": "https://youtube.com/watch?v=0ZPZ82CrTrE",
+                "duration": "16:02",
+                "thumbnail": "https://i.ytimg.com/vi/0ZPZ82CrTrE/hq720.jpg"
+            },
+            {
+                "title": "කතුරු මුරුංගා වගාව kathuru murunga wagawa kathurumurunga Hummingbird Cultivation sinhala murunga",
+                "url": "https://youtube.com/watch?v=EGN50tkj0WE",
+                "duration": "8:12",
+                "thumbnail": "https://i.ytimg.com/vi/EGN50tkj0WE/hq720.jpg"
+            },
+            {
+                "title": "ගුණදායි කතුරු මුරුංගා කොළ මැල්ලුම | රසට කමු | healthy recipe",
+                "url": "https://youtube.com/watch?v=Xo9P5J-WSjk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/Xo9P5J-WSjk/hqdefault.jpg"
+            },
+            {
+                "title": "කතුරුමුරුංගා වෙනස්ම රසකින් | Kathurumurunga | Hummingbird Leaves | @mskitchen3708",
+                "url": "https://youtube.com/watch?v=94llqFoxPlI",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/94llqFoxPlI/hq720.jpg"
+            },
+            {
+                "title": "කතුරැමුරැංගා කෑවොත් පිලිකා හැදෙනවා | kathurumurunga | story eka",
+                "url": "https://youtube.com/watch?v=DES5r4lzO_8",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/DES5r4lzO_8/hq720.jpg"
+            },
+            {
+                "title": "කතුරුමුරුංගා කොළ තෙම්පරාදුව/Hummingbird Leaves/Kathurumurunga Kola Themparaduwa by Cook with Ashi ❤️",
+                "url": "https://youtube.com/watch?v=ifyWKYgdiZE",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/ifyWKYgdiZE/hq720.jpg"
+            },
+            {
+                "title": "මළබද්ධය දුරු කරන කතුරුමුරුංගා තෙලට | Kathurumurunga recipe for constipation cure by Gayas Kitchen",
+                "url": "https://youtube.com/watch?v=zQS_9EoNffc",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/zQS_9EoNffc/hq720.jpg"
+            },
+            {
+                "title": "Medicinal properties of Kathurumuranga plant | කතුරුමුරුංගා ශාකයේ ඖෂධීය ගුණ♻",
+                "url": "https://youtube.com/watch?v=82h_LVmzSXw",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/82h_LVmzSXw/hqdefault.jpg"
+            },
+            {
+                "title": "කතුරුමුරුංගා මල් කන්න පුළුවන් රසම විදිහ | kathurumurunga mal recipes | kathurumurunga recipe",
+                "url": "https://youtube.com/watch?v=PumBQenD5nk",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/PumBQenD5nk/hqdefault.jpg"
+            },
+            {
+                "title": "Kathurumurunga Baduma",
+                "url": "https://youtube.com/watch?v=Yv-WGe4EB3k",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/Yv-WGe4EB3k/hq720.jpg"
+            },
+            {
+                "title": "කතුරුමුරුංගා වල ඔබ කවුරුත් නොදන්නා විශ්මිත ගුණ - Amazing properties of Katurumurunga",
+                "url": "https://youtube.com/watch?v=5bBX-QSjRQc",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/5bBX-QSjRQc/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ පිරි කතුරුමුරුංගා කිරි හොදි |Kathurumurunga Hodi| Hummingbird Leaves Curry| @mskitchen3708",
+                "url": "https://youtube.com/watch?v=K6aRRivumgk",
+                "duration": "5:37",
+                "thumbnail": "https://i.ytimg.com/vi/K6aRRivumgk/hq720.jpg"
+            },
+            {
+                "title": "කතුරු මුරුංගා | Vegetable hummingbird",
+                "url": "https://youtube.com/watch?v=zcCCLJut9dU",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/zcCCLJut9dU/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබගේ නීරෝගී භාවය සදහා වැදගත්ම කතුරු මුරුංගා කොළ.",
+                "url": "https://youtube.com/watch?v=nNKTX-jafCk",
+                "duration": "3:46",
+                "thumbnail": "https://i.ytimg.com/vi/nNKTX-jafCk/hqdefault.jpg"
+            },
+            {
+                "title": "ශරීරයේ අධික උශ්ණය අඩුකරන මැජික් කිරි හොද්ද/ kathurumurunga kiri hodi",
+                "url": "https://youtube.com/watch?v=Dt-4RiR23VU",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/Dt-4RiR23VU/frame0.jpg"
+            },
+            {
+                "title": "★ මළබද්ධය දුරු කරන කතුරුමුරුංගා තෙලට Kathurumurunga recipe for constipation cure by  Apé Amma",
+                "url": "https://youtube.com/watch?v=yXtQK6XpZjY",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/yXtQK6XpZjY/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ අධික උශ්ණය අඩුකරන මැජික් කිරි හොද්ද/ kathurumurunga kiri hodi",
+                "url": "https://youtube.com/watch?v=9603utxvTpM",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/9603utxvTpM/frame0.jpg"
+            },
+            {
+                "title": "ආහාර ජිරණපද්දතියෙ රෝග රැසකට ගුණ කතුරු මුරුංගා කොළ කිරි හොදි!",
+                "url": "https://youtube.com/watch?v=MWhUjakufZI",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/MWhUjakufZI/hqdefault.jpg"
+            },
+            {
+                "title": "කතුරුමුරුංගා කොළ/මල් වල විශ්මිත ගුණ මෙන්න./ රොහාන් ග්ලෙන්ෂිල් පෙරේරා",
+                "url": "https://youtube.com/watch?v=nkWjzC8ctQc",
+                "duration": "13:16",
+                "thumbnail": "https://i.ytimg.com/vi/nkWjzC8ctQc/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩරෝග සුවකරන කතුරුමුරුංගා ගැන වටිනා කරුණු රැසක් මෙන්න,ඔබත් දිනපතා ආහාරයට ගන්න",
+                "url": "https://youtube.com/watch?v=3lUn__ayKzo",
+                "duration": "6:21",
+                "thumbnail": "https://i.ytimg.com/vi/3lUn__ayKzo/hq720.jpg"
+            },
+            {
+                "title": "ඔබ දැනුවත් ද කතුරුමුරුංගා අවුන්සයක මෙච්චර දේවල් අඩංගු බව kathuru murunga leaves benefits",
+                "url": "https://youtube.com/watch?v=1Ue21-zwyi8",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/1Ue21-zwyi8/hq720.jpg"
+            },
+            {
+                "title": "කතුරුමුරුංගා වලින් ලැබෙන විශ්මිත බලය මෙන්න.| The importance of vegetable hummingbird!",
+                "url": "https://youtube.com/watch?v=FHRzfCcn5l0",
+                "duration": "6:17",
+                "thumbnail": "https://i.ytimg.com/vi/FHRzfCcn5l0/hq720.jpg"
+            },
+            {
+                "title": "විස්මිත ගුණ ඇති කතුරු මුරුංගා කොළ මැල්ලුම | HUMMINGBIRD LEAVES SALAD By aperasa",
+                "url": "https://youtube.com/watch?v=_cxi131Xj_8",
+                "duration": "7:19",
+                "thumbnail": "https://i.ytimg.com/vi/_cxi131Xj_8/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රැසකින් සපිරි කතුරුමුරුංගා ගැන දැන ගන්න..",
+                "url": "https://youtube.com/watch?v=ToaNU85PaxE",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/ToaNU85PaxE/hq720.jpg"
+            },
+            {
+                "title": "#කාන්තා රෝග රැසකට සුවදෙන කතුරුමුරුංගා #KATHURUMURUNGA  #Hummingbird tree Leaves #කතුරුමුරුංගා",
+                "url": "https://youtube.com/watch?v=yGtQabIqFj4",
+                "duration": "6:21",
+                "thumbnail": "https://i.ytimg.com/vi/yGtQabIqFj4/hq720.jpg"
+            },
+            {
+                "title": "කතුරු මුරුංගා වලින් ලැබෙන විශ්මිත බලය මෙන්න",
+                "url": "https://youtube.com/watch?v=aWsjAmlJ9mw",
+                "duration": "7:44",
+                "thumbnail": "https://i.ytimg.com/vi/aWsjAmlJ9mw/hqdefault.jpg"
+            },
+            {
+                "title": "මේ දිනවල ඇතිවන්නාවූ උෂ්ණාධික රෝග වලින් මිදීමට ආහාරයට ගතයූතූම/ කතුරුමුරුංගා/",
+                "url": "https://youtube.com/watch?v=Sh1q8N4fMOM",
+                "duration": "5:21",
+                "thumbnail": "https://i.ytimg.com/vi/Sh1q8N4fMOM/hq720.jpg"
+            },
+            {
+                "title": "කතුරුමුරුංගා |kathurumurunga|sesbania grandiflora|sri lanka 🌿 #kathurumurunga #කතුරුමුරුන්ගා",
+                "url": "https://youtube.com/watch?v=kQE57f8kkyc",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/kQE57f8kkyc/hqdefault.jpg"
+            },
+            {
+                "title": "කතුරු මුරුංගා වල විශ්මිත බලය මෙන්න",
+                "url": "https://youtube.com/watch?v=tyJ5UFbNP3M",
+                "duration": "5:36",
+                "thumbnail": "https://i.ytimg.com/vi/tyJ5UFbNP3M/hq720.jpg"
+            },
+            {
+                "title": "​කතුරුමුරුංගා වගා කරමු! පෝෂණයෙන් පිරි විශ්මිත ගුණ සහ වගා රහස් | Kathurumurunga Guide 🌱",
+                "url": "https://youtube.com/watch?v=29l9oJybS0M",
+                "duration": "1:27",
+                "thumbnail": "https://i.ytimg.com/vi/29l9oJybS0M/hqdefault.jpg"
+            },
+            {
+                "title": "Kathurumurunga |ඔබ දැනගෙන ඉදියද? කතුරුමුරුංගා මේ තරම් ගුණයි කියලා",
+                "url": "https://youtube.com/watch?v=wimZ9Y4ERcw",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/wimZ9Y4ERcw/hq720.jpg"
+            },
+            {
+                "title": "Kathuru murunga wala thiyena guna",
+                "url": "https://youtube.com/watch?v=ybuow0NXV1s",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/ybuow0NXV1s/hq720.jpg"
+            },
+            {
+                "title": "ශරිිරයේ උෂ්ණාධික බව නැති කරන, මලබද්ධය වැනි රෝග දුරැැ කරන KATHURUMURUNGA/ Tasty Tips",
+                "url": "https://youtube.com/watch?v=luyoj0MRvzs",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/luyoj0MRvzs/hq720.jpg"
+            },
+            {
+                "title": "Medicinal properties of Kathurumuranga plant | කතුරුමුරුංගා ශාකයේ ඖෂධීය ගුණ♻",
+                "url": "https://youtube.com/watch?v=Yo5NOiaYn4s",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/Yo5NOiaYn4s/frame0.jpg"
+            },
+            {
+                "title": "\"මල් නැති කතුරුමුරුංගා වර්ගයක් \" / A flowerless Hummingbird tree - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=i01KzBqOHAk",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/i01KzBqOHAk/hq720.jpg"
+            },
+            {
+                "title": "Kathurumurunga |කොහොම කෑවත් ගුණ කතුරුමුරුංගා ගහක් තාම හිටවල නැද්ද? |Ceylon Agri | Episode 73",
+                "url": "https://youtube.com/watch?v=WctRFJX-RkM",
+                "duration": "10:26",
+                "thumbnail": "https://i.ytimg.com/vi/WctRFJX-RkM/hq720.jpg"
+            },
+            {
+                "title": "Kathurumurunga Health Benefits : කතුරුමුරුංගා කෑවොත් මොකද වෙන්නෙ",
+                "url": "https://youtube.com/watch?v=eRo0zHRptYE",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/eRo0zHRptYE/hq720.jpg"
+            },
+            {
+                "title": "කතුරුමුරුංගා කන පනුවා | Kathurumurunga Panuwa",
+                "url": "https://youtube.com/watch?v=o9F3YkA3Bh0",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/o9F3YkA3Bh0/hq720.jpg"
+            },
+            {
+                "title": "කතුරුමුරුංගා (Hummingbird tree)",
+                "url": "https://youtube.com/watch?v=_CqgF3-3Uq0",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/_CqgF3-3Uq0/hq720.jpg"
+            },
+            {
+                "title": "Medicinal properties of Kathurumuranga plant | කතුරුමුරුංගා ශාකයේ ඖෂධීය ගුණ♻",
+                "url": "https://youtube.com/watch?v=58GRo4qXdHs",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/58GRo4qXdHs/frame0.jpg"
+            },
+            {
+                "title": "✔ පීනස් සුවයට හා ‍පෙනීම යහපත් කරන කතුරුමුරුංගා මල් Hummingbird tree flowers by Apé Amma",
+                "url": "https://youtube.com/watch?v=5ZbxEm_StQ0",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/5ZbxEm_StQ0/hq720.jpg"
+            },
+            {
+                "title": "වයසට වඩා තරුණ පෙනුමක් ලබා දෙන කතුරුමුරුංගාKathurumurunga, which makes you look younger than your age",
+                "url": "https://youtube.com/watch?v=pEu5dNEhgFY",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/pEu5dNEhgFY/hq720.jpg"
+            },
+            {
+                "title": "​කතුරුමුරුංගා වගා කරමු! පෝෂණයෙන් පිරි විශ්මිත ගුණ සහ වගා රහස් | Kathurumurunga Guide 🌱",
+                "url": "https://youtube.com/watch?v=iyGwq5ksa60",
+                "duration": "1:27",
+                "thumbnail": "https://i.ytimg.com/vi/iyGwq5ksa60/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Candidiasis",
-      "sinhala": "කැන්ඩිඩියාසිස් (දිලීර ආසාදන)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatoid Arthritis",
-      "sinhala": "ආමවාතය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Bark",
-    "Flowers",
-    "Roots,",
-    "Seeds",
-    "Resins"
-  ],
-  "images": [
-    {
-      "image_id": "215",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/jZR97zFC/plant00663-00215.jpg"
-    },
-    {
-      "image_id": "216",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/67FZgfxR/plant00663-00216.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

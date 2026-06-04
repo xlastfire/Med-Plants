@@ -1,237 +1,548 @@
 {
-  "scientificName": "Cynodon dactylon (L.) Pers.",
-  "synonyms": [
-    "Agrostis bermudiana Tussac ex Kunth",
-    "Agrostis filiformis J.Koenig ex Kunth",
-    "Agrostis linearis Retz.",
-    "Agrostis stellata Willd.",
-    "Capriola dactylon (L.) Kuntze",
-    "Capriola dactylon var. maritima (Kunth) Hitchc.",
-    "Chloris cynodon Trin.",
-    "Chloris maritima Trin.",
-    "Chloris paytensis Steud.",
-    "Cynodon affinis Caro & E.A.Sánchez",
-    "Cynodon aristiglumis Caro & E.A.Sánchez",
-    "Cynodon aristulatus Caro & E.A.Sánchez",
-    "Cynodon barberi f. longifolia Join",
-    "Cynodon dactylon f. glabrescens (Beck) Soó",
-    "Cynodon dactylon f. major (Beck) Soó",
-    "Cynodon dactylon f. villosus (Regel) Roshev.",
-    "Cynodon dactylon f. viviparus Beetle",
-    "Cynodon dactylon septentrionalis Asch. & Graebn.",
-    "Cynodon dactylon subsp. glabratus (Steud.) A.Chev.",
-    "Cynodon dactylon subsp. nipponicus (Ohwi) T.Koyama",
-    "Cynodon dactylon subvar. hirsutissimus Litard. & Maire",
-    "Cynodon dactylon var. affinis (Caro & E.A.Sánchez) Romero Zarco",
-    "Cynodon dactylon var. aridus J.R.Harlan & de Wet",
-    "Cynodon dactylon var. biflorus Merino",
-    "Cynodon dactylon var. densus Hurcombe",
-    "Cynodon dactylon var. elegans Rendle",
-    "Cynodon dactylon var. glabratus (Steud.) Chiov.",
-    "Cynodon dactylon var. hirsutissimus (Litard. & Maire) Maire",
-    "Cynodon dactylon var. longiglumis Caro & E.A.Sánchez",
-    "Cynodon dactylon var. maritimus (Kunth) Hack.",
-    "Cynodon dactylon var. nipponicus Ohwi",
-    "Cynodon dactylon var. parviglumis (Ohwi) Fosberg & Sachet",
-    "Cynodon dactylon var. pilosus Caro & E.A.Sánchez",
-    "Cynodon dactylon var. pulchellus Benth.",
-    "Cynodon dactylon var. sarmentosus Parodi",
-    "Cynodon dactylon var. septentrionalis (Asch. & Graebn.) Ravarut",
-    "Cynodon dactylon var. villosus Grossh.",
-    "Cynodon dactylon var. villosus Regel",
-    "Cynodon decipiens Caro & E.A.Sánchez",
-    "Cynodon distichloides Caro & E.A.Sánchez",
-    "Cynodon erectus J.Presl",
-    "Cynodon glabratus Steud.",
-    "Cynodon grandispiculus Caro & E.A.Sánchez",
-    "Cynodon hirsutissimus (Litard. & Maire) Caro & E.A.Sánchez",
-    "Cynodon iraquensis Caro",
-    "Cynodon laeviglumis Caro & E.A.Sánchez",
-    "Cynodon linearis (Retz.) Willd.",
-    "Cynodon maritimus Kunth",
-    "Cynodon maritimus var. breviglumis Caro & E.A.Sánchez",
-    "Cynodon maritimus var. grandispiculus Caro & E.A.Sánchez",
-    "Cynodon maritimus var. vaginiflorus Caro",
-    "Cynodon mucronatus Caro & E.A.Sánchez",
-    "Cynodon nitidus Caro & E.A.Sánchez",
-    "Cynodon occidentalis Willd. ex Steud.",
-    "Cynodon parviglumis Ohwi",
-    "Cynodon pascuus Nees",
-    "Cynodon pedicellatus Caro",
-    "Cynodon polevansii Stent",
-    "Cynodon portoricensis Willd. ex Steud.",
-    "Cynodon repens Dulac",
-    "Cynodon sarmentosus Gray",
-    "Cynodon scabrifolius Caro",
-    "Cynodon stellatus (Willd.) Willd.",
-    "Cynodon tenuis Trin.",
-    "Cynodon umbellatus (Lam.) Caro",
-    "Cynosurus dactylon (L.) Pers.",
-    "Cynosurus uniflorus Walter",
-    "Dactilon officinale Vill.",
-    "Dactylus officinalis Asch.",
-    "Digitaria dactylon (L.) Scop.",
-    "Digitaria glumipatula (Steud.) Miq.",
-    "Digitaria linearis (L.) Pers.",
-    "Digitaria linearis (Retz.) Spreng.",
-    "Digitaria littoralis Salisb.",
-    "Digitaria maritima (Kunth) Spreng.",
-    "Digitaria stolonifera Schrad.",
-    "Fibichia dactylon (L.) Beck",
-    "Fibichia umbellata f. glabrescens Beck",
-    "Fibichia umbellata f. major Beck",
-    "Fibichia umbellata Koeler",
-    "Fibichia umbellata var. biflora (Merino) Beck",
-    "Milium dactylon (L.) Moench",
-    "Panicum ambiguum Le Turq.",
-    "Panicum dactylon L.",
-    "Panicum glumipatulum Steud.",
-    "Panicum lineare L.",
-    "Paspalum ambiguum DC.",
-    "Paspalum dactylon (L.) Lam.",
-    "Paspalum umbellatum Lam.",
-    "Phleum dactylon (L.) Georgi",
-    "Syntherisma linearis (L.) Nash",
-    "Vilfa linearis (Retz.) P.Beauv.",
-    "Vilfa stellata (Willd.) P.Beauv."
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Bermuda Grass",
-    "Common Quick Grass",
-    "Couch Grass",
-    "Quick Grass",
-    "Doob Grass"
-  ],
-  "sinhalaName": "E thana (ඊ තණ )",
-  "description": "බහුවාර්ෂික ශාකයකි; මල් හටගන්නා කඳන් (flowering culms) සෙ.මී. 15ක් දක්වා උස වේ. පත්‍ර තල සාමාන්‍යයෙන් සෙ.මී. 1-4-(7)ක් දිග වන අතර මි.මී. 2ක් දක්වා පළල වේ. කරල් (spikes) සාමාන්‍යයෙන් 3-4 (2-7)ක් වන අතර, සාමාන්‍යයෙන් සෙ.මී. 2.5-3.5 (2.0-5.5)ක් දිග වේ. ධාන්‍යය මි.මී. 1ක් පමණ දිග වන අතර, ලා පැහැයේ සිට දුඹුරු පැහැය දක්වා වේ.",
-  "treatments": [
-    {
-      "treatment": "Cuts and Wounds",
-      "sinhala": "කැපුම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Cynodon dactylon (L.) Pers.",
+    "synonyms": [
+        "Agrostis bermudiana Tussac ex Kunth",
+        "Agrostis filiformis J.Koenig ex Kunth",
+        "Agrostis linearis Retz.",
+        "Agrostis stellata Willd.",
+        "Capriola dactylon (L.) Kuntze",
+        "Capriola dactylon var. maritima (Kunth) Hitchc.",
+        "Chloris cynodon Trin.",
+        "Chloris maritima Trin.",
+        "Chloris paytensis Steud.",
+        "Cynodon affinis Caro & E.A.Sánchez",
+        "Cynodon aristiglumis Caro & E.A.Sánchez",
+        "Cynodon aristulatus Caro & E.A.Sánchez",
+        "Cynodon barberi f. longifolia Join",
+        "Cynodon dactylon f. glabrescens (Beck) Soó",
+        "Cynodon dactylon f. major (Beck) Soó",
+        "Cynodon dactylon f. villosus (Regel) Roshev.",
+        "Cynodon dactylon f. viviparus Beetle",
+        "Cynodon dactylon septentrionalis Asch. & Graebn.",
+        "Cynodon dactylon subsp. glabratus (Steud.) A.Chev.",
+        "Cynodon dactylon subsp. nipponicus (Ohwi) T.Koyama",
+        "Cynodon dactylon subvar. hirsutissimus Litard. & Maire",
+        "Cynodon dactylon var. affinis (Caro & E.A.Sánchez) Romero Zarco",
+        "Cynodon dactylon var. aridus J.R.Harlan & de Wet",
+        "Cynodon dactylon var. biflorus Merino",
+        "Cynodon dactylon var. densus Hurcombe",
+        "Cynodon dactylon var. elegans Rendle",
+        "Cynodon dactylon var. glabratus (Steud.) Chiov.",
+        "Cynodon dactylon var. hirsutissimus (Litard. & Maire) Maire",
+        "Cynodon dactylon var. longiglumis Caro & E.A.Sánchez",
+        "Cynodon dactylon var. maritimus (Kunth) Hack.",
+        "Cynodon dactylon var. nipponicus Ohwi",
+        "Cynodon dactylon var. parviglumis (Ohwi) Fosberg & Sachet",
+        "Cynodon dactylon var. pilosus Caro & E.A.Sánchez",
+        "Cynodon dactylon var. pulchellus Benth.",
+        "Cynodon dactylon var. sarmentosus Parodi",
+        "Cynodon dactylon var. septentrionalis (Asch. & Graebn.) Ravarut",
+        "Cynodon dactylon var. villosus Grossh.",
+        "Cynodon dactylon var. villosus Regel",
+        "Cynodon decipiens Caro & E.A.Sánchez",
+        "Cynodon distichloides Caro & E.A.Sánchez",
+        "Cynodon erectus J.Presl",
+        "Cynodon glabratus Steud.",
+        "Cynodon grandispiculus Caro & E.A.Sánchez",
+        "Cynodon hirsutissimus (Litard. & Maire) Caro & E.A.Sánchez",
+        "Cynodon iraquensis Caro",
+        "Cynodon laeviglumis Caro & E.A.Sánchez",
+        "Cynodon linearis (Retz.) Willd.",
+        "Cynodon maritimus Kunth",
+        "Cynodon maritimus var. breviglumis Caro & E.A.Sánchez",
+        "Cynodon maritimus var. grandispiculus Caro & E.A.Sánchez",
+        "Cynodon maritimus var. vaginiflorus Caro",
+        "Cynodon mucronatus Caro & E.A.Sánchez",
+        "Cynodon nitidus Caro & E.A.Sánchez",
+        "Cynodon occidentalis Willd. ex Steud.",
+        "Cynodon parviglumis Ohwi",
+        "Cynodon pascuus Nees",
+        "Cynodon pedicellatus Caro",
+        "Cynodon polevansii Stent",
+        "Cynodon portoricensis Willd. ex Steud.",
+        "Cynodon repens Dulac",
+        "Cynodon sarmentosus Gray",
+        "Cynodon scabrifolius Caro",
+        "Cynodon stellatus (Willd.) Willd.",
+        "Cynodon tenuis Trin.",
+        "Cynodon umbellatus (Lam.) Caro",
+        "Cynosurus dactylon (L.) Pers.",
+        "Cynosurus uniflorus Walter",
+        "Dactilon officinale Vill.",
+        "Dactylus officinalis Asch.",
+        "Digitaria dactylon (L.) Scop.",
+        "Digitaria glumipatula (Steud.) Miq.",
+        "Digitaria linearis (L.) Pers.",
+        "Digitaria linearis (Retz.) Spreng.",
+        "Digitaria littoralis Salisb.",
+        "Digitaria maritima (Kunth) Spreng.",
+        "Digitaria stolonifera Schrad.",
+        "Fibichia dactylon (L.) Beck",
+        "Fibichia umbellata f. glabrescens Beck",
+        "Fibichia umbellata f. major Beck",
+        "Fibichia umbellata Koeler",
+        "Fibichia umbellata var. biflora (Merino) Beck",
+        "Milium dactylon (L.) Moench",
+        "Panicum ambiguum Le Turq.",
+        "Panicum dactylon L.",
+        "Panicum glumipatulum Steud.",
+        "Panicum lineare L.",
+        "Paspalum ambiguum DC.",
+        "Paspalum dactylon (L.) Lam.",
+        "Paspalum umbellatum Lam.",
+        "Phleum dactylon (L.) Georgi",
+        "Syntherisma linearis (L.) Nash",
+        "Vilfa linearis (Retz.) P.Beauv.",
+        "Vilfa stellata (Willd.) P.Beauv."
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Bermuda Grass",
+        "Common Quick Grass",
+        "Couch Grass",
+        "Quick Grass",
+        "Doob Grass"
+    ],
+    "sinhalaName": "E thana (ඊ තණ )",
+    "description": "බහුවාර්ෂික ශාකයකි; මල් හටගන්නා කඳන් (flowering culms) සෙ.මී. 15ක් දක්වා උස වේ. පත්‍ර තල සාමාන්‍යයෙන් සෙ.මී. 1-4-(7)ක් දිග වන අතර මි.මී. 2ක් දක්වා පළල වේ. කරල් (spikes) සාමාන්‍යයෙන් 3-4 (2-7)ක් වන අතර, සාමාන්‍යයෙන් සෙ.මී. 2.5-3.5 (2.0-5.5)ක් දිග වේ. ධාන්‍යය මි.මී. 1ක් පමණ දිග වන අතර, ලා පැහැයේ සිට දුඹුරු පැහැය දක්වා වේ.",
+    "treatments": [
+        {
+            "treatment": "Cuts and Wounds",
+            "sinhala": "කැපුම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Anasarca",
+            "sinhala": "සර්වාංග ශෝථය (මුළු ශරීරයම ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Chronic Diarrhea",
+            "sinhala": "නිදන්ගත අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hysteria",
+            "sinhala": "හිස්ටීරියාව (යෝෂාපස්මාරය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Insanity",
+            "sinhala": "උන්මාදය (චිත්ත විකෘතිය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Secondary Syphilis",
+            "sinhala": "ද්විතීයික උපදංශය (Syphilis)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatic Disorders",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Root",
+        "Stem",
+        "Seed"
+    ],
+    "images": [
+        {
+            "image_id": "",
+            "caption": "",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwt-aHXELfx4OFI5vlM9WNuKdgdAhyIQ35y5rBj3MBkX0uh119uwB_BB60hKDlTg2ugpnSxDLdnpxCn9iElCgiQXtwvcZdYbNhOxCRxiszUdqhynKV_6O2d1xs-o6iOTckjBR96JZk/w1200-h630-p-k-no-nu/eethana-Heteropogon-contortus.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "sri lanka magic ඊ තණ​",
+                "url": "https://youtube.com/watch?v=OhQZST47B98",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/OhQZST47B98/hq720.jpg"
+            },
+            {
+                "title": "Heteropogon contortus /E thana/e-thana/ ඊ-තණ",
+                "url": "https://youtube.com/watch?v=XIc7JlQIZuw",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/XIc7JlQIZuw/hq720.jpg"
+            },
+            {
+                "title": "sri lanka magic ඊ තණ​",
+                "url": "https://youtube.com/watch?v=RRLb99aGIvQ",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/RRLb99aGIvQ/hq720.jpg"
+            },
+            {
+                "title": "වැරදිලා හරි ඔබේ ගෙවත්තෙත් තියනවද  -  Ithana",
+                "url": "https://youtube.com/watch?v=uIhUhlHAF04",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/uIhUhlHAF04/hq720.jpg"
+            },
+            {
+                "title": "අතිවිශිෂ්ඨ ගුණ වලින් හෙබි අපේ ඔසුව | Ithana | Ceylon Agri | Episode 142",
+                "url": "https://youtube.com/watch?v=SOCAHEP3yTA",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/SOCAHEP3yTA/hq720.jpg"
+            },
+            {
+                "title": "ඊතන.  Heteropogon contortus",
+                "url": "https://youtube.com/watch?v=epHIcWgnfDk",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/epHIcWgnfDk/hq720.jpg"
+            },
+            {
+                "title": "sri lanka magic ඊ තණ​",
+                "url": "https://youtube.com/watch?v=fnvkTpuv1qI",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/fnvkTpuv1qI/frame0.jpg"
+            },
+            {
+                "title": "මිදුලේ හැදෙන මේ පැලේ මෙහෙම ගුණයක්",
+                "url": "https://youtube.com/watch?v=yj6N5p5Mz28",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/yj6N5p5Mz28/hqdefault.jpg"
+            },
+            {
+                "title": "බැලතණ මෙච්චර වටින පැලයක්ද | Goosegrass | Eleusine indica (L.) Gaertn.",
+                "url": "https://youtube.com/watch?v=PxhW7peWWu4",
+                "duration": "8:55",
+                "thumbnail": "https://i.ytimg.com/vi/PxhW7peWWu4/hq720.jpg"
+            },
+            {
+                "title": "🔴යකෝ මේ \"දිව්‍ය මුල්\" සුද්දෝ කුඩු කරලා බොනවා! අපිට අගයක් නෑ මේ පදුර ගැන! බැලතණ හෙවත් Eleusine indica",
+                "url": "https://youtube.com/watch?v=wvDCu8lo3i8",
+                "duration": "8:20",
+                "thumbnail": "https://i.ytimg.com/vi/wvDCu8lo3i8/hq720.jpg"
+            },
+            {
+                "title": "මහසෙන් අරණ Mahasen Arana සියලුම පාදවල වේදනා වලට ,අත්තික්කා ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=iHO593WN-d8",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/iHO593WN-d8/hq720.jpg"
+            },
+            {
+                "title": "තල ඇට මෙච්චර ගුණ දායකද? | Danuwath",
+                "url": "https://youtube.com/watch?v=Kenl3c4w0Uo",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/Kenl3c4w0Uo/hq720.jpg"
+            },
+            {
+                "title": "බැබිල ශාකයේ තිබෙන ඖෂධීය ගුණයෙන් දැනගන්න වීඩියෝව බලන්න",
+                "url": "https://youtube.com/watch?v=H-hrAwEH-N4",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/H-hrAwEH-N4/hq720.jpg"
+            },
+            {
+                "title": "හීං අරත්ත | heen Araththa | ඔසු ගුණ",
+                "url": "https://youtube.com/watch?v=O8-hUoMgxqs",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/O8-hUoMgxqs/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල්, ප්‍රෙෂර්, සහ සීනි වලට හොදම බෙහෙත අපටම ආවේනික වුනු පුංචි ඇට වර්ගයක්!",
+                "url": "https://youtube.com/watch?v=8uEK9-ACe6U",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/8uEK9-ACe6U/hqdefault.jpg"
+            },
+            {
+                "title": "Tiger Grass | බෝසතාණන් වහන්සේට සොත්තිය බමුණා විසින් පූජා කරන ලද | කුසතණ |Ceylon Agri | Episode 72",
+                "url": "https://youtube.com/watch?v=THnhuIZsmQ4",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/THnhuIZsmQ4/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ පවතින ඌනතාවයන් 2 ක් සම්පුර්ණ කරගෙන, ආතරයිටිස් වලින් මිදෙන්නේ මෙන්න මෙහෙමයි!",
+                "url": "https://youtube.com/watch?v=3xELArFGzBA",
+                "duration": "14:28",
+                "thumbnail": "https://i.ytimg.com/vi/3xELArFGzBA/hq720.jpg"
+            },
+            {
+                "title": "සොත්ථිය නම් බමුණා විසින් සිදුහත් කුමරාට වාඩිවීමට පිලිගැන්වූ  කුස තණ ශාකය",
+                "url": "https://youtube.com/watch?v=2gfAxSl7v3I",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/2gfAxSl7v3I/hqdefault.jpg"
+            },
+            {
+                "title": "Spear grass corkscrew action.                   11 August 2021",
+                "url": "https://youtube.com/watch?v=wL9gacpSEQY",
+                "duration": "0:05",
+                "thumbnail": "https://i.ytimg.com/vi/wL9gacpSEQY/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබේ ප්‍රදේශයෙත්  පත්තෑයො ඉන්නවද? | ගෙවත්තක තියෙන්නම ඕන ඔසුව | Garudaraja | Ceylon Agri |Episode 332",
+                "url": "https://youtube.com/watch?v=NfkliccJ4EM",
+                "duration": "7:12",
+                "thumbnail": "https://i.ytimg.com/vi/NfkliccJ4EM/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙතට ගන්න හදා ගත්තට පාඩු නෑ / \" Endaru \" Medicinal plant in Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=ft45xN1OLAI",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/ft45xN1OLAI/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "217 ඉබේ වැවෙන බෙහෙත් ගබඩාව. පිලිකා , ගැස්ට්‍රයිටිස් , පේනහලු රෝග , වකුගඩු රෝග වනසන තිත්ත තිබ්බටු",
+                "url": "https://youtube.com/watch?v=9FF0wIG2rEU",
+                "duration": "6:31",
+                "thumbnail": "https://i.ytimg.com/vi/9FF0wIG2rEU/hq720.jpg"
+            },
+            {
+                "title": "පෑගුවත් ඇස් පෙනීම ලැබෙන පැලේ | උඳුපියලිය කියන්නේ මොනවද",
+                "url": "https://youtube.com/watch?v=Ctzw0aRdNtM",
+                "duration": "9:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ctzw0aRdNtM/hqdefault.jpg"
+            },
+            {
+                "title": "ගොඩ දෙනෙක් වරද්දගන්න තුලසියි මදුරුතලයි | Thulasi | Maduruthala | Ceylon Agri | Episode 377",
+                "url": "https://youtube.com/watch?v=8tMjsi6y9Ko",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/8tMjsi6y9Ko/hq720.jpg"
+            },
+            {
+                "title": "Agni Spice Tea ❤☕🌄",
+                "url": "https://youtube.com/watch?v=EmViUoIC9YI",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/EmViUoIC9YI/hq720.jpg"
+            },
+            {
+                "title": "නීරෝගී ලස්සනටම හැදුනු පැල ඔයාලට ගන්න පුලුවන්#anthuriumwagawasinhala#fypviral#plants0765647812",
+                "url": "https://youtube.com/watch?v=5sUz5dj8UGM",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/5sUz5dj8UGM/hqdefault.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "බැල තණ වල ඖෂධීය ගුණ 😱😱😱",
+                "url": "https://youtube.com/watch?v=6hOb7EXSy8o",
+                "duration": "5:13",
+                "thumbnail": "https://i.ytimg.com/vi/6hOb7EXSy8o/hq720.jpg"
+            },
+            {
+                "title": "බැලතණ ශාකයේ ඇති  ඖෂධීය ප්‍රයෝජන | Medicinal Benefits of Balatana Plant | Indian goosegrass benefits🌿",
+                "url": "https://youtube.com/watch?v=WKMPrCnv0iQ",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/WKMPrCnv0iQ/hqdefault.jpg"
+            },
+            {
+                "title": "අමු, මෙනේරි සහ තණ සහල් කන අයට ලැබෙන දේවල් මෙන්න : Benefits of millet grain",
+                "url": "https://youtube.com/watch?v=egPfLQtF2Cg",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/egPfLQtF2Cg/hq720.jpg"
+            },
+            {
+                "title": "Ath adiya|ඇත් අඩි ශාකය | ඔසු ගුණ | ඇත් අඩිය |Similar  Elephantopus | ඔසු-Osu",
+                "url": "https://youtube.com/watch?v=JDVM2UpeEJI",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/JDVM2UpeEJI/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු පානය කිරීමෙන් ලැබෙන විශ්මිත ප්‍රතිඵල ඇහුවොත් පුදුම වෙයි | Sinhala",
+                "url": "https://youtube.com/watch?v=F10dJnQEgjw",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/F10dJnQEgjw/hq720.jpg"
+            },
+            {
+                "title": "හෙල ඔසු - ගිනි තණ",
+                "url": "https://youtube.com/watch?v=cQJXTnJ2aDA",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/cQJXTnJ2aDA/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "ඉබේ හැදෙන වල්පැළයක මෙච්චර ගුණයක් 😲 | බැලතණ වල ගුණ | @sakalawaga",
+                "url": "https://youtube.com/watch?v=aOrClsdu1tI",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/aOrClsdu1tI/hqdefault.jpg"
+            },
+            {
+                "title": "මේ ඖෂධීය වේල ශාකය බාහිර සහ අභ්‍යන්තර රෝග ගණනාවක් සූවකරයි",
+                "url": "https://youtube.com/watch?v=2n6XNLiFtQE",
+                "duration": "4:52",
+                "thumbnail": "https://i.ytimg.com/vi/2n6XNLiFtQE/hq720.jpg"
+            },
+            {
+                "title": "Eleusine indica | බැළ තන | Herbal Plant of Sri lanka",
+                "url": "https://youtube.com/watch?v=DJcpKSkKEzw",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/DJcpKSkKEzw/hqdefault.jpg"
+            },
+            {
+                "title": "ප්‍රධාන අමුද්‍රව්‍ය සහ ඒවායින් ලැබෙන ප්‍රයෝජන/Main ingredients and their benefits",
+                "url": "https://youtube.com/watch?v=_4znOLu1MLM",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/_4znOLu1MLM/hq720.jpg"
+            },
+            {
+                "title": "සූර්යාලෝකයෙන් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=eIAX-iPabsY",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/eIAX-iPabsY/hqdefault.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of rain | වැස්සෙන් ඇති ප්‍රයෝජන | 3,4,5 ශ්‍රේණි සදහා පෙරහුරු රචනා | scholarship exam",
+                "url": "https://youtube.com/watch?v=8eb8UaD2Eb4",
+                "duration": "9:54",
+                "thumbnail": "https://i.ytimg.com/vi/8eb8UaD2Eb4/hqdefault.jpg"
+            },
+            {
+                "title": "06 වන තේමාව | 04 වන පාඩම - හිරු එළියේ ප්‍රයෝජන | 01 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=xFQFOHSX984",
+                "duration": "12:20",
+                "thumbnail": "https://i.ytimg.com/vi/xFQFOHSX984/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits Of Trees | ගස්වලින් ලැබෙන ප්‍රයෝජන 🌳",
+                "url": "https://youtube.com/watch?v=LZeEzBhxUGg",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/LZeEzBhxUGg/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Anasarca",
-      "sinhala": "සර්වාංග ශෝථය (මුළු ශරීරයම ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Chronic Diarrhea",
-      "sinhala": "නිදන්ගත අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hysteria",
-      "sinhala": "හිස්ටීරියාව (යෝෂාපස්මාරය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Insanity",
-      "sinhala": "උන්මාදය (චිත්ත විකෘතිය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Secondary Syphilis",
-      "sinhala": "ද්විතීයික උපදංශය (Syphilis)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatic Disorders",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Root",
-    "Stem",
-    "Seed"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

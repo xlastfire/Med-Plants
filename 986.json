@@ -1,142 +1,303 @@
 {
-  "scientificName": "Peperomia pellucida (L.) Kunth",
-  "synonyms": [
-    "Micropiper pellucidum (L.) Miq.",
-    "Micropiper tenellum Klotzsch ex Miq.",
-    "Peperomia concinna (Haw.) A.Dietr.",
-    "Peperomia ephemera Ekman",
-    "Peperomia knoblecheriana Schott",
-    "Peperomia nana C.DC.",
-    "Peperomia oleracea Poepp. ex Miq.",
-    "Peperomia pellucida var. minor Miq.",
-    "Peperomia pellucida var. pygmaea Willd. ex Miq.",
-    "Peperomia praetenuis Trel.",
-    "Peperomia translucens Trel.",
-    "Peperomia triadophylla Peter",
-    "Peperomia vogelii Miq.",
-    "Peperomia yapensis C.DC.",
-    "Piper concinnum Haw.",
-    "Piper freirifolium Hochst. ex A.Rich.",
-    "Piper pellucidum L.",
-    "Piper scandens Poepp. ex Miq.",
-    "Verhuellia knoblocheriana (Schott) C.DC."
-  ],
-  "familyName": "PIPERACEAE",
-  "englishNames": [
-    "Shiny Bush",
-    "Slate Pencil Plant",
-    "Pepper Elder",
-    "Rat's Ear",
-    "Silverbush"
-  ],
-  "sinhalaName": "Diya thippili (දිය තිප්පිලි)",
-  "description": "මෙය සියුම්, සම්පූර්ණයෙන්ම රෝම රහිත (glabrous) වාර්ෂික ශාකයකි. පත්‍ර මුළු ශාකය පුරාම ඒකාන්තරව (alternate) පිහිටයි. පත්‍ර තලය සෙන්ටිමීටර 1-3ක් දිග සහ පළල වන අතර, ත්‍රිකෝණාකාර ඩිම්බාකාර (triangular ovate) හැඩයක් ගනී. පත්‍ර පාදය හෘදයාකාර (cordate) වන අතර එහි 1-2 මි.මී. ගැඹුරු විඛාතයක් (sinus) ඇත. පත්‍ර අග්‍රය මොට (obtuse) වන අතර බොහෝ විට නොපැහැදිලි ලෙස කෙටි උල් අග්‍රයක් (short-acuminate) සහිතය. ජීවමාන අවස්ථාවේදී පත්‍ර තරමක් මාංසල වන අතර, ලා කොළ පැහැයෙන් යුක්තව තුනී පටලයක ස්වභාවයක් (membranous) ගනී. පුෂ්ප මංජරි තනිව පිහිටන අතර අග්‍රස්ථ (terminal) වේ, නමුත් බොහෝ විට පත්‍රයට විරුද්ධ පැත්තේ (leaf-opposed) පිහිටන සේ ඉහළට වර්ධනය වේ. මල් ඉතා අඩුවෙන් ගිලී පවතී. ඵලය ගෝලාකාර-ඉලිප්සාකාර (globose-ellipsoidal) වන අතර, වෘන්ත රහිත (sessile) වේ. ඵලයේ අග්‍රය උල් වන අතර, මේරූ විට තද දුඹුරු පැහැයට හැරේ.",
-  "treatments": [
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Peperomia pellucida (L.) Kunth",
+    "synonyms": [
+        "Micropiper pellucidum (L.) Miq.",
+        "Micropiper tenellum Klotzsch ex Miq.",
+        "Peperomia concinna (Haw.) A.Dietr.",
+        "Peperomia ephemera Ekman",
+        "Peperomia knoblecheriana Schott",
+        "Peperomia nana C.DC.",
+        "Peperomia oleracea Poepp. ex Miq.",
+        "Peperomia pellucida var. minor Miq.",
+        "Peperomia pellucida var. pygmaea Willd. ex Miq.",
+        "Peperomia praetenuis Trel.",
+        "Peperomia translucens Trel.",
+        "Peperomia triadophylla Peter",
+        "Peperomia vogelii Miq.",
+        "Peperomia yapensis C.DC.",
+        "Piper concinnum Haw.",
+        "Piper freirifolium Hochst. ex A.Rich.",
+        "Piper pellucidum L.",
+        "Piper scandens Poepp. ex Miq.",
+        "Verhuellia knoblocheriana (Schott) C.DC."
+    ],
+    "familyName": "PIPERACEAE",
+    "englishNames": [
+        "Shiny Bush",
+        "Slate Pencil Plant",
+        "Pepper Elder",
+        "Rat's Ear",
+        "Silverbush"
+    ],
+    "sinhalaName": "Diya thippili (දිය තිප්පිලි)",
+    "description": "මෙය සියුම්, සම්පූර්ණයෙන්ම රෝම රහිත (glabrous) වාර්ෂික ශාකයකි. පත්‍ර මුළු ශාකය පුරාම ඒකාන්තරව (alternate) පිහිටයි. පත්‍ර තලය සෙන්ටිමීටර 1-3ක් දිග සහ පළල වන අතර, ත්‍රිකෝණාකාර ඩිම්බාකාර (triangular ovate) හැඩයක් ගනී. පත්‍ර පාදය හෘදයාකාර (cordate) වන අතර එහි 1-2 මි.මී. ගැඹුරු විඛාතයක් (sinus) ඇත. පත්‍ර අග්‍රය මොට (obtuse) වන අතර බොහෝ විට නොපැහැදිලි ලෙස කෙටි උල් අග්‍රයක් (short-acuminate) සහිතය. ජීවමාන අවස්ථාවේදී පත්‍ර තරමක් මාංසල වන අතර, ලා කොළ පැහැයෙන් යුක්තව තුනී පටලයක ස්වභාවයක් (membranous) ගනී. පුෂ්ප මංජරි තනිව පිහිටන අතර අග්‍රස්ථ (terminal) වේ, නමුත් බොහෝ විට පත්‍රයට විරුද්ධ පැත්තේ (leaf-opposed) පිහිටන සේ ඉහළට වර්ධනය වේ. මල් ඉතා අඩුවෙන් ගිලී පවතී. ඵලය ගෝලාකාර-ඉලිප්සාකාර (globose-ellipsoidal) වන අතර, වෘන්ත රහිත (sessile) වේ. ඵලයේ අග්‍රය උල් වන අතර, මේරූ විට තද දුඹුරු පැහැයට හැරේ.",
+    "treatments": [
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nasopharyngeal Disorders",
+            "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Paralysis",
+            "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Convulsions",
+            "sinhala": "වලිප්පුව / වෙවුලීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin and Mucosal Tumors",
+            "sinhala": "සම සහ ශ්ලේෂ්මල පටල ආශ්‍රිත අර්බුද (ගෙඩි)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Inflorescence"
+    ],
+    "images": [
+        {
+            "image_id": "621",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/sdbgh3cB/plant00986-00621.jpg"
+        },
+        {
+            "image_id": "1210",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/9m4vhYVV/plant00986-01210.jpg"
+        },
+        {
+            "image_id": "622",
+            "caption": "Flowering shoots",
+            "url": "https://i.ibb.co/W4s5g3qK/plant00986-00622.jpg"
+        },
+        {
+            "image_id": "1211",
+            "caption": "Inflorescence & Fruits",
+            "url": "https://i.ibb.co/RktgrxbC/plant00986-01211.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "diya thippili # රෝග රැසකට ගුණ දෙන දිය තිප්පිලි# hela osu# siw helaya",
+                "url": "https://youtube.com/watch?v=SDWdi4o1Mcs",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/SDWdi4o1Mcs/hqdefault.jpg"
+            },
+            {
+                "title": "ආතරයිටීස් වකුගඩු රෝගයට ගුන දෙනඇස්ප්‍රින් පැල - දිය තිප්පිලි peperomia pellucida",
+                "url": "https://youtube.com/watch?v=ysU15aDJDns",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/ysU15aDJDns/hq720.jpg"
+            },
+            {
+                "title": "දිය තිප්පිලි ගැන ඔබ දැනුවත්ද? | Peperomia pellucida",
+                "url": "https://youtube.com/watch?v=RXlcbIXa2K4",
+                "duration": "11:19",
+                "thumbnail": "https://i.ytimg.com/vi/RXlcbIXa2K4/hq720.jpg"
+            },
+            {
+                "title": "දිය තිප්පිලි සම්බෝල කාලා තියෙනවද | Crab Claw herb Sambal | Crab Claw herb benefits #crabclawherb",
+                "url": "https://youtube.com/watch?v=iGuZLiPxLTM",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/iGuZLiPxLTM/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටීස්, වකුගඩු, ,උණට හිතකර ඇස්ප්‍රීන් පැළෑටිය දිය තිප්පිලි,දිය බුලත්, ව්‍යංජනය #viral",
+                "url": "https://youtube.com/watch?v=M0uKFpv8jmU",
+                "duration": "3:33",
+                "thumbnail": "https://i.ytimg.com/vi/M0uKFpv8jmU/hqdefault.jpg"
+            },
+            {
+                "title": "⛔ලංකාව ලෝකය හොල්ලයි! ලේ වල ඝනකම අඩුකරන සුපිරි පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=R03vVDIhLWs",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/R03vVDIhLWs/hq720.jpg"
+            },
+            {
+                "title": "දිය බුලත් තෙම්පරාදුව / Tempered Peperomia Pellucida / වස විස නැති එළවළු අතර රජ කෑම..",
+                "url": "https://youtube.com/watch?v=wI1UfLEMi9I",
+                "duration": "6:18",
+                "thumbnail": "https://i.ytimg.com/vi/wI1UfLEMi9I/hq720.jpg"
+            },
+            {
+                "title": "දිය තිප්පිලි මෙච්චර ගුණයි කියලා දැනන් හිටියද? | Diya Thippili Plant Sinhala",
+                "url": "https://youtube.com/watch?v=ZS5p4vULzII",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/ZS5p4vULzII/hq720.jpg"
+            },
+            {
+                "title": "ගැස්රයිටිස් වලට වගේම ශරීරයේ රෝග රැසකට ගුණ දෙන දිය තිප්පිලි නොහොත් දිය බුලත් සම්බෝල#🥗",
+                "url": "https://youtube.com/watch?v=OXnTOwVzso8",
+                "duration": "2:28",
+                "thumbnail": "https://i.ytimg.com/vi/OXnTOwVzso8/hq720.jpg"
+            },
+            {
+                "title": "දිය තිප්පිලි (diya thippili)",
+                "url": "https://youtube.com/watch?v=BI46AHFWqzk",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/BI46AHFWqzk/hq720.jpg"
+            },
+            {
+                "title": "How to make peperomia pellucida sambal දිය තිප්පිලි සම්බෝල| Treatment for pimples|shiny bush recipe",
+                "url": "https://youtube.com/watch?v=pR_U8uWaTrY",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/pR_U8uWaTrY/hq720.jpg"
+            },
+            {
+                "title": "ඇතැමුන් වතුර ගස් කියන මේ ශාකයේ ඖෂධීය ගුණ දන්නවද | diya thippili | peperomia pellucida",
+                "url": "https://youtube.com/watch?v=cOuaQHp2w_c",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/cOuaQHp2w_c/hqdefault.jpg"
+            },
+            {
+                "title": "දිය තිප්පිලි කනවා කියන්නේ ඇත්තක්ද /diya thippili plant in home garden how to make",
+                "url": "https://youtube.com/watch?v=WppSIlgjJpg",
+                "duration": "6:18",
+                "thumbnail": "https://i.ytimg.com/vi/WppSIlgjJpg/hqdefault.jpg"
+            },
+            {
+                "title": "මුහුන පැහැපත් කරන රෝග නසන දිය තිප්පිලි සම්බෝලය 😍",
+                "url": "https://youtube.com/watch?v=ZHalX5BUwNs",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/ZHalX5BUwNs/hq720.jpg"
+            },
+            {
+                "title": "Crab Claw Herb Curry Recipe | How to Make Diyathippili Parippu Curry Sri Lankan Style Sinhala",
+                "url": "https://youtube.com/watch?v=DezwR8yVArA",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/DezwR8yVArA/hq720.jpg"
+            },
+            {
+                "title": "දිය තිප්පිලි සමග කරවල බැදුම/diya thippili recipe/nilantha's kitchen",
+                "url": "https://youtube.com/watch?v=IG9ggHzs11k",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/IG9ggHzs11k/hq720.jpg"
+            },
+            {
+                "title": "දිය තිප්පිලි වල ඇති ඖෂධීය ගුණ 😱😱",
+                "url": "https://youtube.com/watch?v=j4fJV-1mRA8",
+                "duration": "6:53",
+                "thumbnail": "https://i.ytimg.com/vi/j4fJV-1mRA8/hq720.jpg"
+            },
+            {
+                "title": "දිය තිප්පිලි | ගෑස්ටික් වලට ඔසු | Diyathippili | දිය බුලත් @osu-1380",
+                "url": "https://youtube.com/watch?v=JGyei0c0e-c",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/JGyei0c0e-c/hq720.jpg"
+            },
+            {
+                "title": "ගැස්ට්‍රයිටිස් මට්ටු කරන දිය තිප්පිලි @WildCookbook",
+                "url": "https://youtube.com/watch?v=jTiEJ06jS7I",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/jTiEJ06jS7I/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටීස් වකුගඩු රෝගයට ගුන දෙනඇස්ප්‍රින් පැල - දිය තිප්පිලි peperomia pellucida",
+                "url": "https://youtube.com/watch?v=D4csLHboHek",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/D4csLHboHek/frame0.jpg"
+            },
+            {
+                "title": "දිය බුලත් , දිය තිප්පිලි , වතුර ගස් , ඇස්ප්‍රීන් ගස්  මෙච්චර ගුණයි කියලා ඔයාලා දන්නවාද",
+                "url": "https://youtube.com/watch?v=mZMMdV16xro",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/mZMMdV16xro/hqdefault.jpg"
+            },
+            {
+                "title": "දිය තිප්පිලි | diya tippile | දිය තිප්පිලි වල ගුණ.   #medical #viralvideo #plants #fpy",
+                "url": "https://youtube.com/watch?v=RRr591KCrpM",
+                "duration": "1:39",
+                "thumbnail": "https://i.ytimg.com/vi/RRr591KCrpM/hq720.jpg"
+            },
+            {
+                "title": "දිය තිප්පිලි මැල්ලුම් හදමු | Peperomia pellucida mellum | රෝග රැසකට ගුණ  දිය තිප්පිලි මැල්ලුම",
+                "url": "https://youtube.com/watch?v=1J0LCuLDMUc",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/1J0LCuLDMUc/hqdefault.jpg"
+            },
+            {
+                "title": "දිය බුලත් තෙම්පරාදුව / Tempered Peperomia Pellucida / වස විස නැති එළවළු අතර රජ කෑම..",
+                "url": "https://youtube.com/watch?v=QbGiSqHA6cc",
+                "duration": "6:18",
+                "thumbnail": "https://i.ytimg.com/vi/QbGiSqHA6cc/frame0.jpg"
+            },
+            {
+                "title": "දිය තිප්පිලි මෙච්චර ගුණයි කියලා දැනන් හිටියද? Diya Thippili Plant Sinhala",
+                "url": "https://youtube.com/watch?v=hjU3tF_C7S0",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/hjU3tF_C7S0/hq720.jpg"
+            },
+            {
+                "title": "ගෙදර මිදුලෙ ඉබේ හැදෙන ඇස්ප්‍රින් පැල. මුත්‍රා , වකුගඩු පිලිකා වලට ගුණ දෙන වතුර ගස",
+                "url": "https://youtube.com/watch?v=mHhNiwAH3Go",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/mHhNiwAH3Go/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nasopharyngeal Disorders",
-      "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Paralysis",
-      "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Convulsions",
-      "sinhala": "වලිප්පුව / වෙවුලීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin and Mucosal Tumors",
-      "sinhala": "සම සහ ශ්ලේෂ්මල පටල ආශ්‍රිත අර්බුද (ගෙඩි)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Inflorescence"
-  ],
-  "images": [
-    {
-      "image_id": "621",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/sdbgh3cB/plant00986-00621.jpg"
-    },
-    {
-      "image_id": "1210",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/9m4vhYVV/plant00986-01210.jpg"
-    },
-    {
-      "image_id": "622",
-      "caption": "Flowering shoots",
-      "url": "https://i.ibb.co/W4s5g3qK/plant00986-00622.jpg"
-    },
-    {
-      "image_id": "1211",
-      "caption": "Inflorescence & Fruits",
-      "url": "https://i.ibb.co/RktgrxbC/plant00986-01211.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

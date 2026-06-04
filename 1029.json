@@ -1,18 +1,497 @@
 {
-  "scientificName": "Eriachne triseta Nees ex Steud.",
-  "synonyms": [
-    "Airopsis triseta Nees ex Steud.",
-    "Aristida biflora Ferguson",
-    "Massia triseta (Nees ex Steud.) Balansa",
-    "Megalachne zeylanica Thwaites",
-    "Triraphis diantha F.Muell."
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [],
-  "sinhalaName": "Pini thuththiri (පිණි තුත්තිරි)",
-  "description": "බහුවාර්ෂික, සෙන්ටිමීටර 60-110ක් උසැති, පඳුරු සාදන ශාකයකි; කඳන් සාමාන්‍යයෙන් කෙලින් පිහිටයි, සරලයි, සිනිඳුයි (glabrous), ගැට 4-6කින් යුක්තයි; පත්‍ර තල තදින් ඇතුළට නැමුණු (involute) ස්වභාවයක් ගනී, වියළීමේදී ඇඹරී යයි; පත්‍ර දිව (ligule) මිලිමීටර 0.5ක් දිගයි; පත්‍ර කොපුව තදයි, අන්තර් ගැටවලින් අඩකට වඩා කෙටි වන අතර මුඛය අසල රෝම සහිතයි (bearded). පුෂ්ප මංජරිය විවෘතයි; බිත්තරාකාරයි (ovate); සෙන්ටිමීටර 10-15ක් දිගයි. කරල් (spikelets) තනිව පිහිටයි. සරු කරල් වෘන්ත සහිතයි. තුහින (glumes) ස්ථිරයි; සමානයි; පුෂ්පිකාවල අග්‍රය දක්වා විහිදේ; සරු ලෙමා (fertile lemma) වලට වඩා තුනී වේ. පහළ තුහින ලාන්සාකාරයි (lanceolate); ඉහළ තුහිනේ දිගට සමානයි; පටලමයයි (membranous); කීල (keels) රහිතයි; නහර 10කින් යුක්තයි. පහළ තුහිනේ අග්‍රය උල් වූ (acuminate) ස්වභාවයක් ගනී. ඉහළ තුහින ලාන්සාකාරයි (lanceolate); පටලමයයි (membranous); කීල (keels) රහිතයි; නහර 10කින් යුක්තයි. ඉහළ තුහිනේ අග්‍රය උල් වූ (acuminate) ස්වභාවයක් ගනී. ධාන්‍යය (caryopsis) ඇලෙන සුළු පෙරිකාපයකින් (pericarp) යුක්තයි; ලාන්සාකාරයි (lanceolate); මිලිමීටර 3ක් දිගයි.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Eriachne triseta Nees ex Steud.",
+    "synonyms": [
+        "Airopsis triseta Nees ex Steud.",
+        "Aristida biflora Ferguson",
+        "Massia triseta (Nees ex Steud.) Balansa",
+        "Megalachne zeylanica Thwaites",
+        "Triraphis diantha F.Muell."
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [],
+    "sinhalaName": "Pini thuththiri (පිණි තුත්තිරි)",
+    "description": "බහුවාර්ෂික, සෙන්ටිමීටර 60-110ක් උසැති, පඳුරු සාදන ශාකයකි; කඳන් සාමාන්‍යයෙන් කෙලින් පිහිටයි, සරලයි, සිනිඳුයි (glabrous), ගැට 4-6කින් යුක්තයි; පත්‍ර තල තදින් ඇතුළට නැමුණු (involute) ස්වභාවයක් ගනී, වියළීමේදී ඇඹරී යයි; පත්‍ර දිව (ligule) මිලිමීටර 0.5ක් දිගයි; පත්‍ර කොපුව තදයි, අන්තර් ගැටවලින් අඩකට වඩා කෙටි වන අතර මුඛය අසල රෝම සහිතයි (bearded). පුෂ්ප මංජරිය විවෘතයි; බිත්තරාකාරයි (ovate); සෙන්ටිමීටර 10-15ක් දිගයි. කරල් (spikelets) තනිව පිහිටයි. සරු කරල් වෘන්ත සහිතයි. තුහින (glumes) ස්ථිරයි; සමානයි; පුෂ්පිකාවල අග්‍රය දක්වා විහිදේ; සරු ලෙමා (fertile lemma) වලට වඩා තුනී වේ. පහළ තුහින ලාන්සාකාරයි (lanceolate); ඉහළ තුහිනේ දිගට සමානයි; පටලමයයි (membranous); කීල (keels) රහිතයි; නහර 10කින් යුක්තයි. පහළ තුහිනේ අග්‍රය උල් වූ (acuminate) ස්වභාවයක් ගනී. ඉහළ තුහින ලාන්සාකාරයි (lanceolate); පටලමයයි (membranous); කීල (keels) රහිතයි; නහර 10කින් යුක්තයි. ඉහළ තුහිනේ අග්‍රය උල් වූ (acuminate) ස්වභාවයක් ගනී. ධාන්‍යය (caryopsis) ඇලෙන සුළු පෙරිකාපයකින් (pericarp) යුක්තයි; ලාන්සාකාරයි (lanceolate); මිලිමීටර 3ක් දිගයි.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Thuththiri Grass | Plants In Sri Lanka | Download Royalty Free Stock Video Footage | තුත්තිරි | #85",
+                "url": "https://youtube.com/watch?v=YY5D68StkD0",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/YY5D68StkD0/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ සිහිකල නිසා කැලයක අතරමං වූ අනේපිඬු සිටුතුමාට පිහිට වූ දෙවිවරු | Galigamuwe Gnanadeepa Thero",
+                "url": "https://youtube.com/watch?v=hxwv1bkCcAU",
+                "duration": "39:17",
+                "thumbnail": "https://i.ytimg.com/vi/hxwv1bkCcAU/hq720.jpg"
+            },
+            {
+                "title": "\"ඒක අධිකරණ තීන්දුවක් බව මම දැනගෙන හිටියේ නෑ\" පූජ්‍ය තිනියාවල පාලිත හිමියෝ සමාව ඉල්ලති",
+                "url": "https://youtube.com/watch?v=5rY94OGIL3A",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/5rY94OGIL3A/hq720.jpg"
+            },
+            {
+                "title": "Pini Bindu (පිනි බිඳු) - Yuki Navaratne |Official Music Video",
+                "url": "https://youtube.com/watch?v=6mrVnuriHRc",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/6mrVnuriHRc/hqdefault.jpg"
+            },
+            {
+                "title": "diya thippili # රෝග රැසකට ගුණ දෙන දිය තිප්පිලි# hela osu# siw helaya",
+                "url": "https://youtube.com/watch?v=SDWdi4o1Mcs",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/SDWdi4o1Mcs/hqdefault.jpg"
+            },
+            {
+                "title": "සිතේ ඇති දුකට සහනය දෙන ලස්සනම බුදු ගුණ ගිත#everyone",
+                "url": "https://youtube.com/watch?v=1k-emQOYh80",
+                "duration": "22:20",
+                "thumbnail": "https://i.ytimg.com/vi/1k-emQOYh80/hq720.jpg"
+            },
+            {
+                "title": "මියගිය ඥාතීන්ට පින් දීම | තිරෝකුඩ්ඩ සූත්‍රය | Thirokudda Sutta ~ Ven.Nauyane Ariyadhamma Thero",
+                "url": "https://youtube.com/watch?v=DlR5WGMD3Ik",
+                "duration": "26:11",
+                "thumbnail": "https://i.ytimg.com/vi/DlR5WGMD3Ik/hq720.jpg"
+            },
+            {
+                "title": "ගුණ අගුණ නොදැන කෑවොත් මරණය පවා ලගා කරන ජම්ඹු | Ros apple♻✅",
+                "url": "https://youtube.com/watch?v=8tnfRsLWyuo",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/8tnfRsLWyuo/hqdefault.jpg"
+            },
+            {
+                "title": "'අනු බුදු ගුණ බෙලෙන් ‍යුද ගිනි නිවේවා' - මිහින්තලා පොසොන් පිංකම් කමිටුව රැස්වෙයි - HiruNews",
+                "url": "https://youtube.com/watch?v=s9UR_QZAonU",
+                "duration": "0:54",
+                "thumbnail": "https://i.ytimg.com/vi/s9UR_QZAonU/hq720.jpg"
+            },
+            {
+                "title": "තණ අග පිනි බිඳු වැනි ජීවිත යථාර්ථය | Ven.Kirulapana Dhammawijaya Thero",
+                "url": "https://youtube.com/watch?v=_C5Knb36BR4",
+                "duration": "44:14",
+                "thumbnail": "https://i.ytimg.com/vi/_C5Knb36BR4/hq720.jpg"
+            },
+            {
+                "title": "ජීවිතයේ අවසන් මොහොත දක්වාම මට බුදු ගුණ සිහි වේවා..! | KELANIYE AJITHA THERO@wassanadarmadeshana9842",
+                "url": "https://youtube.com/watch?v=ewle6lCWAUQ",
+                "duration": "55:12",
+                "thumbnail": "https://i.ytimg.com/vi/ewle6lCWAUQ/hq720.jpg"
+            },
+            {
+                "title": "දමා ගිය තුත්තිරි මල් මිට | (මැයි මාර ප්‍රසංන්ගය) | සංචරණි Song | Song LK",
+                "url": "https://youtube.com/watch?v=ljQhxgATVdU",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/ljQhxgATVdU/hq720.jpg"
+            },
+            {
+                "title": "මුලු ඇගම එකම වගේ පැහැපත් වෙනවා - Turmeric drink for Skin Whitening",
+                "url": "https://youtube.com/watch?v=O-JNWr9Bg5c",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/O-JNWr9Bg5c/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්කා මෙච්චර වටින ඖෂධයක් කියලා දන්නවද? | Phyllanthus Niruri",
+                "url": "https://youtube.com/watch?v=wOKGcvo6M5Q",
+                "duration": "11:06",
+                "thumbnail": "https://i.ytimg.com/vi/wOKGcvo6M5Q/hq720.jpg"
+            },
+            {
+                "title": "දුර්ලභ මලකින් රෝස තේ - කෘතීම වර්ණක නොමැතිව - ප්‍රතිශක්තීකරණ පානය torch ginger",
+                "url": "https://youtube.com/watch?v=6NHJCUUjApA",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/6NHJCUUjApA/hq720.jpg"
+            },
+            {
+                "title": "දමා ගිය තුත්තිරි මල් මිට | Dama Giya Thuththiri Mal Mita | මැයි මාර ප්‍රසංගය | සංචරණි | Mai Mara",
+                "url": "https://youtube.com/watch?v=v8Jx9JnvsLQ",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/v8Jx9JnvsLQ/hq720.jpg"
+            },
+            {
+                "title": "දැනට සොයාගෙන ඇති ලොව හොදම පිළිකා ඖෂධය. The best cancer drug in the world. \"Keytruda\"",
+                "url": "https://youtube.com/watch?v=9-877WOnIj0",
+                "duration": "9:23",
+                "thumbnail": "https://i.ytimg.com/vi/9-877WOnIj0/hq720.jpg"
+            },
+            {
+                "title": "අන්නාසි උණුවතුරට දමා බීමෙන් පිළිකාව සුව වෙනවාද ?",
+                "url": "https://youtube.com/watch?v=3HZtu2m2qHU",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/3HZtu2m2qHU/hq720.jpg"
+            },
+            {
+                "title": "නිය කුණු වීම සහ පැසවීම සදහටම නවත්වන්න! | Suwethma Nee Ayu නිය සත්කාරය",
+                "url": "https://youtube.com/watch?v=LCWRBcWAmWE",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/LCWRBcWAmWE/hq720.jpg"
+            },
+            {
+                "title": "තුනපහ රසටම හදන්නට ඕනි අවුරුදු සමයට අලුත්ම විදිහට",
+                "url": "https://youtube.com/watch?v=h707JHHUC5w",
+                "duration": "18:36",
+                "thumbnail": "https://i.ytimg.com/vi/h707JHHUC5w/hq720.jpg"
+            },
+            {
+                "title": "දණිස් කැක්කුමට මෙන්න බෙහෙත|thuru tv.",
+                "url": "https://youtube.com/watch?v=1wJIuKmi-hE",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/1wJIuKmi-hE/hqdefault.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "පිරිටන් ගැන ඔබ නොදන්නා කරුණු 8ක් | Facts about Piriton | Medicine Sinhalen",
+                "url": "https://youtube.com/watch?v=FJfx9kZ1j3I",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/FJfx9kZ1j3I/hq720.jpg"
+            },
+            {
+                "title": "දුහුඳු  | Celastrus  paniculatus  - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=Did1orped8s",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/Did1orped8s/hq720.jpg"
+            },
+            {
+                "title": "අත්දුටු පුස්කොළ පොත් රහස්: ගැස්ට්‍රයිටිස් සහ සීනි වලට සහනයක් | Gastritis & Diabetes Sinhala",
+                "url": "https://youtube.com/watch?v=jMDXDwPGi4k",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/jMDXDwPGi4k/hq720.jpg"
+            },
+            {
+                "title": "තුන් දොස් සමනය කරන අතුරු ආබාධ ඉතා අඩු ලෙඩ රෝග ගණනාවකට භාවිතා කල හැකි සුප්‍රසිද්ධ ත්‍රිපලා චුර්ණය",
+                "url": "https://youtube.com/watch?v=t01UxDKLrbI",
+                "duration": "15:18",
+                "thumbnail": "https://i.ytimg.com/vi/t01UxDKLrbI/hq720.jpg"
+            },
+            {
+                "title": "අමාරුවුනු ලෙඩෙක්ට කිව්ව මරු බෙහෙත(පැනඩෝල්) \"Penadol\" Thuththiri production new",
+                "url": "https://youtube.com/watch?v=ewRyDSHdfdg",
+                "duration": "1:24",
+                "thumbnail": "https://i.ytimg.com/vi/ewRyDSHdfdg/hq720.jpg"
+            },
+            {
+                "title": "Indigenous medicine : දේශීය ඖෂධ නිෂ්පාදනාගාරයක සාර්ථකත්වය | Pini Viyana - Pimma - (2022-04-01) | ITN",
+                "url": "https://youtube.com/watch?v=hZRczfXnBEo",
+                "duration": "22:29",
+                "thumbnail": "https://i.ytimg.com/vi/hZRczfXnBEo/hq720.jpg"
+            },
+            {
+                "title": "මත්පැන් විශට ( වෙරි වැඩි වුනාම) කරන්න ඕනේ පිළියම්",
+                "url": "https://youtube.com/watch?v=FROJufo9W3M",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/FROJufo9W3M/hq720.jpg"
+            },
+            {
+                "title": "යටිපතුල් හිරියට පාරම්පරික හෙළ රහස් | Ayurvedic treatment to tingling in the soles of the feet",
+                "url": "https://youtube.com/watch?v=Nmofu-0JJEc",
+                "duration": "9:27",
+                "thumbnail": "https://i.ytimg.com/vi/Nmofu-0JJEc/hq720.jpg"
+            },
+            {
+                "title": "හදවත් රෝග වලක්වන, දියවැඩියාවට ගුණ විශ්මිත පළතුර | How to plant Fig Tres | Ceylon Agri | Episode 217",
+                "url": "https://youtube.com/watch?v=TfW-9GFznHs",
+                "duration": "17:15",
+                "thumbnail": "https://i.ytimg.com/vi/TfW-9GFznHs/hq720.jpg"
+            },
+            {
+                "title": "මිට කැඩුන පිහිය ගෙදරදිම මිට ගහමු | thuru tv,",
+                "url": "https://youtube.com/watch?v=bWAS2VjzGMs",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/bWAS2VjzGMs/hqdefault.jpg"
+            },
+            {
+                "title": "පීනස,අක්මාවේ තෙල්,දියවැඩියාව,ගැස්ට්‍රයිටිස්,සෙම්‍ රෝග,මුත්‍රාගල්, තවත් රෝග ගනනාවකට සුව දෙන පිටවක්කා",
+                "url": "https://youtube.com/watch?v=TpKYHTWUVTs",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/TpKYHTWUVTs/hq720.jpg"
+            },
+            {
+                "title": "ශරීරය සිසිල් කරන ඖෂධීය පාන වර්ග",
+                "url": "https://youtube.com/watch?v=RMcw4WiuTaI",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/RMcw4WiuTaI/hq720.jpg"
+            },
+            {
+                "title": "බැලතණ ශාකයේ ඇති  ඖෂධීය ප්‍රයෝජන | Medicinal Benefits of Balatana Plant | Indian goosegrass benefits🌿",
+                "url": "https://youtube.com/watch?v=WKMPrCnv0iQ",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/WKMPrCnv0iQ/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන, ලෙඩවීම වලක්වන, පිටි වර්ග 7 ක්!",
+                "url": "https://youtube.com/watch?v=S_RsfSLzUw8",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/S_RsfSLzUw8/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "ඇඹුල් ඇඹිලිය | මේකේ ගුණ දන්නවනම් හොයාගෙන හරි කනවා | Ambul Ambiliya Plant",
+                "url": "https://youtube.com/watch?v=C5iqUDUFyLQ",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/C5iqUDUFyLQ/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂයින්ගේ ලිංගික ශක්තිය වැඩි කරන, ඉක්මනින් ධාතු පිටවීමට හොදම ප්‍රතිකාරයක් වන බිංතල් වල ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=LHYxIfW9T4M",
+                "duration": "14:36",
+                "thumbnail": "https://i.ytimg.com/vi/LHYxIfW9T4M/hq720.jpg"
+            },
+            {
+                "title": "ආමාශගත රෝගවලට ගුණ දෙන \"කරල් හැබ\" | Achyranthes aspera | Episode 32",
+                "url": "https://youtube.com/watch?v=nZcouWu9Xjw",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/nZcouWu9Xjw/hq720.jpg"
+            },
+            {
+                "title": "පයට පෑගුණත් ඇසට ගුණ දෙන හීන් උඳුපියලිය undupiyaliya wala guna Creeping Tick Trefoil Three",
+                "url": "https://youtube.com/watch?v=xEruag0JtS8",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/xEruag0JtS8/hq720.jpg"
+            },
+            {
+                "title": "හැදුණොත් සීනි ලේසි නෑනි. ඔක්කොටම කළින් වෛද්‍යවරියගේ මේ කතාව බලන්න.",
+                "url": "https://youtube.com/watch?v=Vej58Ed6glI",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/Vej58Ed6glI/hq720.jpg"
+            },
+            {
+                "title": "උදරාබාධ ඇතුළු රෝග රැසකට ගුණ කලාදුරු | Kalaaduru Plant",
+                "url": "https://youtube.com/watch?v=bBpMAwcZ0j8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/bBpMAwcZ0j8/hq720.jpg"
+            },
+            {
+                "title": "ඔබ මවිත වෙන මීපැණි වල දැමූ සුදුළුුනු වල විශ්මිත ගුණ  ඔබත් අදම මේ විදියට හදල කාලා බලන්න",
+                "url": "https://youtube.com/watch?v=mqlbbCSgAzo",
+                "duration": "11:28",
+                "thumbnail": "https://i.ytimg.com/vi/mqlbbCSgAzo/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණ-දද,අළුහම්,හිස්සොරි සහ තවත් දේවල් - උපුටගත්තකි.",
+                "url": "https://youtube.com/watch?v=RBB5_oyLdOc",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/RBB5_oyLdOc/hqdefault.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ | Munronia pinnata - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=aLVxN65TEgg",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/aLVxN65TEgg/hq720.jpg"
+            },
+            {
+                "title": "දිනකට වතුර ලීටර් කීයක් බිව්වොත්ද ඇත්තටම ගුණ? | The Dark Truth About Drinking Too Much Water",
+                "url": "https://youtube.com/watch?v=OLurY6aiaDs",
+                "duration": "11:13",
+                "thumbnail": "https://i.ytimg.com/vi/OLurY6aiaDs/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණයෙන් පිරිපුන් අවර ශාකය   තංතු විටමින් වලින් අන්තර් ගතය",
+                "url": "https://youtube.com/watch?v=FMazCA05gtY",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/FMazCA05gtY/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ අය ලෙඩ වෙන්නෙ අරක්කු බොන්න දන්නෙ නැති නිසා |  Alcohol  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dk3QJjXV938",
+                "duration": "19:12",
+                "thumbnail": "https://i.ytimg.com/vi/dk3QJjXV938/hq720.jpg"
+            },
+            {
+                "title": "පින හා කුසලය අතර වෙනසක් තිබේ ද? (pina ha kusalaya) | ven na uyane ariyadhamma maha thero",
+                "url": "https://youtube.com/watch?v=rUfVefUD12o",
+                "duration": "6:12",
+                "thumbnail": "https://i.ytimg.com/vi/rUfVefUD12o/hq720.jpg"
+            },
+            {
+                "title": "🔴සම රත්‍රං පාට වෙලා අවු:15 මාව තරුණ කරපු උලුහාල් පොටිටනි කැද සහ පානය! මෙන්න වාසි",
+                "url": "https://youtube.com/watch?v=5sWH0S4yzCI",
+                "duration": "8:22",
+                "thumbnail": "https://i.ytimg.com/vi/5sWH0S4yzCI/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "පෙයාස් කියන්නෙ කෙමිකල් ගොන්නක එකතුවක් | Pears and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=GE9JREHevZE",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/GE9JREHevZE/hq720.jpg"
+            },
+            {
+                "title": "මේ සියළු රෝග සුවකර ඔබව පැහැපත් කර තරුණ කරන ලොව හොදම පානය.. Turmeric Tea Benefits & Recipe.",
+                "url": "https://youtube.com/watch?v=XnH1pCjnbNo",
+                "duration": "12:08",
+                "thumbnail": "https://i.ytimg.com/vi/XnH1pCjnbNo/hq720.jpg"
+            },
+            {
+                "title": "දිනපතාම පිපිඤ්ඤා වතුර පානයෙන් ඔබට ලැබෙන විශ්මිත වාසි 7 ක් | Benefits Of Drinking Cucumber Water",
+                "url": "https://youtube.com/watch?v=zS6_tbn_xVg",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/zS6_tbn_xVg/hq720.jpg"
+            },
+            {
+                "title": "අවුරුදු ගණන් තිබුණු පීනස සති දෙකෙන් සුව කරන රහස් ක්‍රමය | #dailyboost",
+                "url": "https://youtube.com/watch?v=9-px5Y2KQ00",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/9-px5Y2KQ00/hq720.jpg"
+            },
+            {
+                "title": "සෙවණට ප්‍රියකරන කලාත්මක ශාක වර්ග | Plants that can grow without sunlight within 2 weeks",
+                "url": "https://youtube.com/watch?v=ojm4U7vPAGs",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/ojm4U7vPAGs/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම මී පැණි හැන්දක් අනුභව කළොත් ශරීරයට සිදුවන විශ්මිත දේවල් 10ක් | 10 Health Benefits Of Honey",
+                "url": "https://youtube.com/watch?v=CwH0fB1c87I",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/CwH0fB1c87I/hq720.jpg"
+            },
+            {
+                "title": "🔴\"මේ තායි පානය නිසා මම අවු: 35 තරැණ උනා! පිරිමි වැදගෙන ආවේ\" මෙන්න සුපිරි පානය",
+                "url": "https://youtube.com/watch?v=1ivli1AwXDA",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/1ivli1AwXDA/hq720.jpg"
+            },
+            {
+                "title": "Addiction එක නැති කරන බුදුදහමේ ක්‍රමය | Dopamine Cycle and Buddhism",
+                "url": "https://youtube.com/watch?v=tOvIeJaT8Fk",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/tOvIeJaT8Fk/hq720.jpg"
+            },
+            {
+                "title": "03 වන පාඩම | පැලෑටි හා ගස්වැල්  -  01 වන කොටස  | 03 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=QHty22QHtrc",
+                "duration": "1:02:19",
+                "thumbnail": "https://i.ytimg.com/vi/QHty22QHtrc/hq720.jpg"
+            },
+            {
+                "title": "ජීවිතේ පස්සෙන් නම් ඉන්නේ, පීඩනය දරන්න අමාරු නම් මේ විද්‍යාත්මක කරුණු 3 කරලා බලන්න!",
+                "url": "https://youtube.com/watch?v=9PL6k-o5D-w",
+                "duration": "27:51",
+                "thumbnail": "https://i.ytimg.com/vi/9PL6k-o5D-w/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "මිනිස් මොළයේ සැඟවුණු තෙවන ඇස: Pineal Gland පිටුපස ඇති විද්‍යාත්මක රහස",
+                "url": "https://youtube.com/watch?v=Wf8y5ZB9XHc",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/Wf8y5ZB9XHc/hq720.jpg"
+            },
+            {
+                "title": "Pine Needle Tea: Benefits and Recipe",
+                "url": "https://youtube.com/watch?v=_D18FceukYw",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/_D18FceukYw/hq720.jpg"
+            },
+            {
+                "title": "ගුණ දන්නවනම් අනිවාරයෙන්ම කෑමට ගන්න , දියවැඩියාව, පිළිකා පරදන ඔසු | Gas Nivithi | Talinum paniculatum",
+                "url": "https://youtube.com/watch?v=4r8ud83C0d8",
+                "duration": "9:47",
+                "thumbnail": "https://i.ytimg.com/vi/4r8ud83C0d8/hq720.jpg"
+            },
+            {
+                "title": "''තිප්පිලි '' කොරෝනා ප්‍රතිශක්තියට",
+                "url": "https://youtube.com/watch?v=qnMxJ5yuy1Y",
+                "duration": "6:39",
+                "thumbnail": "https://i.ytimg.com/vi/qnMxJ5yuy1Y/hqdefault.jpg"
+            },
+            {
+                "title": "thippili 2021 | long pepper 2021 |  රෝග රැසකට ගුණ දෙන තිප්පිලි ශාකය ගැන ඔබ නොදත් දේ |  තිප්පිලි 2021",
+                "url": "https://youtube.com/watch?v=FkG00wygPjo",
+                "duration": "5:51",
+                "thumbnail": "https://i.ytimg.com/vi/FkG00wygPjo/hqdefault.jpg"
+            },
+            {
+                "title": "තිබ්බටු වල තිත්ත ඇත්ත | Turkey Berry & Bitter Truth By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Yxcn99C76YM",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Yxcn99C76YM/hq720.jpg"
+            },
+            {
+                "title": "197 දියවැඩියාවට ඉන්සියුලීන් ඉන්ජෙක්ෂන් ගහනවා වෙනුවටඉන්සියුලීන් පැලයක්පෝච්චියක වවමු longevity spinach",
+                "url": "https://youtube.com/watch?v=jRfksvjHUGY",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/jRfksvjHUGY/hq720.jpg"
+            },
+            {
+                "title": "Breadfruit Leaves: Benefits & Uses (Blood Pressure)",
+                "url": "https://youtube.com/watch?v=gNMbKNyffdI",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/gNMbKNyffdI/hq720.jpg"
+            },
+            {
+                "title": "දේශීය වෙදදුරන්ට අනුව corona වලට එරෙහිව ප්‍රතිශක්තිය නගාසිටුවන හීන් බින් කොහොඹ",
+                "url": "https://youtube.com/watch?v=WKw3IhMmfmw",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/WKw3IhMmfmw/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 6ක් | Health Benefits Of Butterfly Pea Tea",
+                "url": "https://youtube.com/watch?v=lwZGAN8NJaM",
+                "duration": "9:22",
+                "thumbnail": "https://i.ytimg.com/vi/lwZGAN8NJaM/hq720.jpg"
+            },
+            {
+                "title": "Long Pepper | Herbal Plants|තාමත් හිටවලා නැද්ද? තිප්පිලි  | Ceylon Agri | Episode 108",
+                "url": "https://youtube.com/watch?v=DUi10GLdB_Y",
+                "duration": "7:11",
+                "thumbnail": "https://i.ytimg.com/vi/DUi10GLdB_Y/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් - තිත්ත වැල් \"කොහොමද හොයන්නේ \" / Herbal Plants - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=e37sZqGCbfM",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/e37sZqGCbfM/hq720.jpg"
+            },
+            {
+                "title": "පිලිකා නැසීමේ ගුන සහිත , සුව නින්දක් ලබා දෙන , තරබාරුව , දියවැඩියාව අඩු කරන සොභාදහමේ මැජික් පානයක්.",
+                "url": "https://youtube.com/watch?v=J_AdXY7otQ4",
+                "duration": "12:50",
+                "thumbnail": "https://i.ytimg.com/vi/J_AdXY7otQ4/hqdefault.jpg"
+            },
+            {
+                "title": "තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ.  Health benefits of Thulasi.",
+                "url": "https://youtube.com/watch?v=kKukenrdq0k",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/kKukenrdq0k/hq720.jpg"
+            },
+            {
+                "title": "Turmeric Water Benefits In The Evening | 10 Health Benefits of Turmeric Water Doctors Never Tell You",
+                "url": "https://youtube.com/watch?v=RsCITGR3IPQ",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/RsCITGR3IPQ/hq720.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

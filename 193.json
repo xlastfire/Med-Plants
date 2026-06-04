@@ -1,93 +1,674 @@
 {
-  "scientificName": "Tylophora indica var. indica",
-  "synonyms": [
-    "Cynanchum indicum Burm.f.",
-    "Tylophora indica (Burm.f.) Merr."
-  ],
-  "familyName": "APOCYNACEAE",
-  "englishNames": [
-    "Indian Ipecac",
-    "Wild Ipecacuanha"
-  ],
-  "sinhalaName": "Binnuga (බින්නුග)",
-  "description": "වැල් ලෙස වැඩෙන, බිම දිගේ පැතිරෙන හෝ කලාතුරකින් කෙලින් වැඩෙන, පැළෑටි ආකාර හෝ තරමක් දැවමය ශාක වේ. කඳ දිගටි වේ. කඳ, පත්‍රවල යටි පැත්ත සහ පුෂ්ප මංජරිය තරමක් හෝ සම්පූර්ණයෙන්ම රෝම රහිත (glabrous) වේ. පත්‍ර වෘන්තය සෙ.මී. 0.5-2 ක් දිගය. පත්‍ර තලය සෙ.මී. 3.5 සිට 10 පමණ දිග සහ සෙ.මී. 1.5-7 ක් පළලය. පුෂ්ප මංජරිය කුඩයක හැඩැති සයිමයක් (umbel-like cyme) වේ. මල් කිරීටය (corolla) කොළ පැහැති කහ පැහැයක් ගන්නා අතර, බොහෝ විට ඇතුල් පැත්ත දුඹුරු පැහැයට හුරු වේ, විෂ්කම්භය සෙ.මී. 1-1.5 කි. ඵල (merocarps) සෙ.මී. 5-10 ක් දිග සහ සෙ.මී. 1 ක් පමණ පළලය.",
-  "treatments": [
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Tylophora indica var. indica",
+    "synonyms": [
+        "Cynanchum indicum Burm.f.",
+        "Tylophora indica (Burm.f.) Merr."
+    ],
+    "familyName": "APOCYNACEAE",
+    "englishNames": [
+        "Indian Ipecac",
+        "Wild Ipecacuanha"
+    ],
+    "sinhalaName": "Binnuga (බින්නුග)",
+    "description": "වැල් ලෙස වැඩෙන, බිම දිගේ පැතිරෙන හෝ කලාතුරකින් කෙලින් වැඩෙන, පැළෑටි ආකාර හෝ තරමක් දැවමය ශාක වේ. කඳ දිගටි වේ. කඳ, පත්‍රවල යටි පැත්ත සහ පුෂ්ප මංජරිය තරමක් හෝ සම්පූර්ණයෙන්ම රෝම රහිත (glabrous) වේ. පත්‍ර වෘන්තය සෙ.මී. 0.5-2 ක් දිගය. පත්‍ර තලය සෙ.මී. 3.5 සිට 10 පමණ දිග සහ සෙ.මී. 1.5-7 ක් පළලය. පුෂ්ප මංජරිය කුඩයක හැඩැති සයිමයක් (umbel-like cyme) වේ. මල් කිරීටය (corolla) කොළ පැහැති කහ පැහැයක් ගන්නා අතර, බොහෝ විට ඇතුල් පැත්ත දුඹුරු පැහැයට හුරු වේ, විෂ්කම්භය සෙ.මී. 1-1.5 කි. ඵල (merocarps) සෙ.මී. 5-10 ක් දිග සහ සෙ.මී. 1 ක් පමණ පළලය.",
+    "treatments": [
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tuberculosis",
+            "sinhala": "ක්ෂය රෝගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Neuralgia",
+            "sinhala": "ස්නායු වේදනාව (ස්නායු ශූල)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "279",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/wFtJ66LT/plant00193-00279.jpg"
+        },
+        {
+            "image_id": "280",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/jPYbmC2j/plant00193-00280.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ශාක මත ඉහල නඟින හෝ බිම වැතිරී වැඩෙන වැල් ශාකයක් | බිංනුග",
+                "url": "https://youtube.com/watch?v=2oMb-hhY-Oo",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/2oMb-hhY-Oo/hq720.jpg"
+            },
+            {
+                "title": "සෙවණට ප්‍රියකරන කලාත්මක ශාක වර්ග | Plants that can grow without sunlight within 2 weeks",
+                "url": "https://youtube.com/watch?v=ojm4U7vPAGs",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/ojm4U7vPAGs/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවේ ඒක දේශික මත්සයින් - endemic species of sri lanka | බුලත් හපයා -Bulath hapaya",
+                "url": "https://youtube.com/watch?v=qFZdnMA_whk",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/qFZdnMA_whk/hq720.jpg"
+            },
+            {
+                "title": "කළුනික 🔴 Litsea saligna (Nees) N.P.Balakr.",
+                "url": "https://youtube.com/watch?v=WOBz2Fao8uI",
+                "duration": "11:11",
+                "thumbnail": "https://i.ytimg.com/vi/WOBz2Fao8uI/hq720.jpg"
+            },
+            {
+                "title": "වසර 12 කට සැරයක් මල් පිපෙන, ශ්‍රී ලංකාවට ආවේණික “නෙළු” විශේෂයක් 🔴 Strobilanthes rhamnifolia",
+                "url": "https://youtube.com/watch?v=r-hOM3xXga4",
+                "duration": "5:33",
+                "thumbnail": "https://i.ytimg.com/vi/r-hOM3xXga4/hq720.jpg"
+            },
+            {
+                "title": "How I planted my ginger and how you can also!!",
+                "url": "https://youtube.com/watch?v=h4QRyErlPxo",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/h4QRyErlPxo/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ශාකයේ ඔසු ගුණ | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=29JyQOFg1WI",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/29JyQOFg1WI/hq720.jpg"
+            },
+            {
+                "title": "බිම්පොල් | බිංපොල් | Bimpol shakaya | ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=QXjDxZFGHDc",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/QXjDxZFGHDc/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක්. Kumbuk Tree. Ayurvedic value of Kumbuk.",
+                "url": "https://youtube.com/watch?v=KjUTxwGyQ78",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/KjUTxwGyQ78/hq720.jpg"
+            },
+            {
+                "title": "ගුණ දන්නවනම් අනිවාරයෙන්ම කෑමට ගන්න , දියවැඩියාව, පිළිකා පරදන ඔසු | Gas Nivithi | Talinum paniculatum",
+                "url": "https://youtube.com/watch?v=4r8ud83C0d8",
+                "duration": "9:47",
+                "thumbnail": "https://i.ytimg.com/vi/4r8ud83C0d8/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රබල වාජීකරණ ගුණයක් සහ ශක්තිජනක ආහාරයක් වන බිංතල් ගැන දැනන් හිටියද? | බිංතල් (Bintal)",
+                "url": "https://youtube.com/watch?v=R9rUznWawCY",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/R9rUznWawCY/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා වල විශ්මිත ගුණ - Amazing properties of okra / Health Vedeo",
+                "url": "https://youtube.com/watch?v=6Ub6hS-RMbw",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/6Ub6hS-RMbw/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ගැන හැමෝම අහන ප්‍රශ්න | Bin Kohomba | Ceylon Agri | Episode 370",
+                "url": "https://youtube.com/watch?v=bsDV6DgOPZQ",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/bsDV6DgOPZQ/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා  මාරාන්තිකයි [Hari Tv ][Lahiru mudalige]",
+                "url": "https://youtube.com/watch?v=FObeIYHmROY",
+                "duration": "7:01",
+                "thumbnail": "https://i.ytimg.com/vi/FObeIYHmROY/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල තිත්ත ඇත්ත | Heenbovitiya & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=lBsI67rHBnE",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/lBsI67rHBnE/hq720.jpg"
+            },
+            {
+                "title": "ස්නායු මෙන්ම බොහෝ රෝගයන්ට සුවය ගෙනෙන බැබිල. Babila brings healing to many diseases like nerves",
+                "url": "https://youtube.com/watch?v=G0czG2PVP5Y",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/G0czG2PVP5Y/hq720.jpg"
+            },
+            {
+                "title": "කවුරුත් දන්නා නිදිකුම්බා ශාකයේ විශ්මිත ගුණ ගැන ඔබත් දැනගන්න | nidikumba | Mimosa Pudica🌿",
+                "url": "https://youtube.com/watch?v=9lK3nnxvhWI",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/9lK3nnxvhWI/hqdefault.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ වල ඇති විශ්මිත ගුණ|Mununia pinnata",
+                "url": "https://youtube.com/watch?v=Cl4gwAmBm6Y",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/Cl4gwAmBm6Y/hqdefault.jpg"
+            },
+            {
+                "title": "බිං තල් ඔසු ශාකය හදුනා ගනිමු Episode 10",
+                "url": "https://youtube.com/watch?v=cS8_aK0hwX4",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/cS8_aK0hwX4/hqdefault.jpg"
+            },
+            {
+                "title": "නිදිකුම්බා මෙහෙම බිව්වොත්  මෙන්න මේ භයානක රෝග පවා සුව වෙයි",
+                "url": "https://youtube.com/watch?v=cemGMX_uuaY",
+                "duration": "8:28",
+                "thumbnail": "https://i.ytimg.com/vi/cemGMX_uuaY/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න වල විශ්මිත ගුණ - Amazing properties of Mukunuwenna",
+                "url": "https://youtube.com/watch?v=F6lFnOJQnYE",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/F6lFnOJQnYE/hq720.jpg"
+            },
+            {
+                "title": "දඹල | Winged Bean | PODCAST | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=nwEJVYkpnLI",
+                "duration": "7:47",
+                "thumbnail": "https://i.ytimg.com/vi/nwEJVYkpnLI/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටවල ඖෂධීය ගුණ : Health benefits of Venivelgeta",
+                "url": "https://youtube.com/watch?v=B_GgVEA1A7U",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/B_GgVEA1A7U/hq720.jpg"
+            },
+            {
+                "title": "පස සරු කරන නිදිකුම්බා වල ඇති ඖෂධීය ගුණ | Mimosa Pudica",
+                "url": "https://youtube.com/watch?v=CIaHx0QqHhM",
+                "duration": "9:31",
+                "thumbnail": "https://i.ytimg.com/vi/CIaHx0QqHhM/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ විශ්මිත ගුණ ගැන ඔබ මීට කලින් දැන සිටියාද?  |  වගා දැනුම   #agriculture #ලංකාවෙ",
+                "url": "https://youtube.com/watch?v=lHHfnKkF3DY",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lHHfnKkF3DY/hq720.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බ|ඔසු පැලයේ ගුණ | Heen nidikumba | Biophytum reinwardti |A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=0aY7gRgkIpY",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/0aY7gRgkIpY/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "6 Free Weeds That Are Stronger Than Antibiotics",
+                "url": "https://youtube.com/watch?v=VXBU7B4mqwU",
+                "duration": "14:46",
+                "thumbnail": "https://i.ytimg.com/vi/VXBU7B4mqwU/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත - part 2🙏",
+                "url": "https://youtube.com/watch?v=IdQIkJpM5Ns",
+                "duration": "25:31",
+                "thumbnail": "https://i.ytimg.com/vi/IdQIkJpM5Ns/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "This Is One of the Most Powerful Medicinal Plants in Existence! And Few People Know It",
+                "url": "https://youtube.com/watch?v=cO5sHkykk88",
+                "duration": "5:09",
+                "thumbnail": "https://i.ytimg.com/vi/cO5sHkykk88/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රධාන අමුද්‍රව්‍ය සහ ඒවායින් ලැබෙන ප්‍රයෝජන/Main ingredients and their benefits",
+                "url": "https://youtube.com/watch?v=_4znOLu1MLM",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/_4znOLu1MLM/hq720.jpg"
+            },
+            {
+                "title": "බාදුරා පැල ගැන තොරතුරු | How To Grow Nepenthes Plants In Sinhala",
+                "url": "https://youtube.com/watch?v=_txfTc8ZSAQ",
+                "duration": "5:49",
+                "thumbnail": "https://i.ytimg.com/vi/_txfTc8ZSAQ/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "බිංදුදය -තාර්කිකව සහ ප්‍රායෝගිකව ඉගෙනගන්න",
+                "url": "https://youtube.com/watch?v=bjSEwcbgD6A",
+                "duration": "15:28",
+                "thumbnail": "https://i.ytimg.com/vi/bjSEwcbgD6A/hqdefault.jpg"
+            },
+            {
+                "title": "Hand pollination/අතින්  පරාගනය සිදුකර ලබාගත් බටානා ඵලදාව/Butternut harvest",
+                "url": "https://youtube.com/watch?v=kScpug3K2ic",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/kScpug3K2ic/hq720.jpg"
+            },
+            {
+                "title": "ගිලන්පස සහ පාන වර්ග ගැන ඔබ නොදත් කතාව. මේ වැරැද්ද නිවරදි කරගන්න. Budu maga yanno #bana",
+                "url": "https://youtube.com/watch?v=6QSLh-beWUk",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/6QSLh-beWUk/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "පැළවෙන ස්වභාවයෙන් යුතු බීජයක් බඳු විඤ්ඤාණය - පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද හිමි",
+                "url": "https://youtube.com/watch?v=TkJ5cpDmYVI",
+                "duration": "1:43:22",
+                "thumbnail": "https://i.ytimg.com/vi/TkJ5cpDmYVI/hq720.jpg"
+            },
+            {
+                "title": "supportive structures of plants | science sinhala medium #passionfruit #plants",
+                "url": "https://youtube.com/watch?v=eeIqoTkE7i0",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/eeIqoTkE7i0/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "විටමින් සහ ඛනිජ  ලවන බහුල අලකොල.(දිගිකල් ජීවත්වීමේ රහස් )",
+                "url": "https://youtube.com/watch?v=e7L70ribu00",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/e7L70ribu00/hq720.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "පෙයාස් කියන්නෙ කෙමිකල් ගොන්නක එකතුවක් | Pears and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=GE9JREHevZE",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/GE9JREHevZE/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "8 Health Benefits of Basil",
+                "url": "https://youtube.com/watch?v=2D_ioNE4X9E",
+                "duration": "1:22",
+                "thumbnail": "https://i.ytimg.com/vi/2D_ioNE4X9E/hq720.jpg"
+            },
+            {
+                "title": "11 Incredible Health Benefits of Basil Leaves You May Not Have Known",
+                "url": "https://youtube.com/watch?v=EE_IHIu3UJo",
+                "duration": "7:07",
+                "thumbnail": "https://i.ytimg.com/vi/EE_IHIu3UJo/hq720.jpg"
+            },
+            {
+                "title": "7 Great Snake Plant Benefits Proven In Research & Studies",
+                "url": "https://youtube.com/watch?v=onCumAiHPwg",
+                "duration": "3:06",
+                "thumbnail": "https://i.ytimg.com/vi/onCumAiHPwg/hq720.jpg"
+            },
+            {
+                "title": "7 Benefits of Keeping Snake Plants In Your Home | Health benefits of Snake Plant | Leaf town",
+                "url": "https://youtube.com/watch?v=sw2BqZ33HRA",
+                "duration": "5:27",
+                "thumbnail": "https://i.ytimg.com/vi/sw2BqZ33HRA/hq720.jpg"
+            },
+            {
+                "title": "TOP 5 BENEFITS OF BORAGE - HERB SPOTLIGHT",
+                "url": "https://youtube.com/watch?v=3E8CcmgDlqI",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/3E8CcmgDlqI/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health & Nutritional Benefits Of Basil | Dr. Berg",
+                "url": "https://youtube.com/watch?v=DYfDMbl535Y",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/DYfDMbl535Y/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ පිරි ලුණුවිල | Lunuwila - Bacopa Monnieri Plant - Brahmi | Dayawathi - දයාවතී",
+                "url": "https://youtube.com/watch?v=m9SUENHexrg",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/m9SUENHexrg/hq720.jpg"
+            },
+            {
+                "title": "Insulin plant health benefits I medicinal value of insulin plant I what is insulin plant",
+                "url": "https://youtube.com/watch?v=VmbGBwl76Nk",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/VmbGBwl76Nk/hq720.jpg"
+            },
+            {
+                "title": "🌿 What Are The Benefits Of Pavana? 🌿 Dr Sebi Approved Electrical Alkaline Herbs Purge Mucus 🌿",
+                "url": "https://youtube.com/watch?v=hmhUmd-9WNo",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/hmhUmd-9WNo/hq720.jpg"
+            },
+            {
+                "title": "8 Health Benefits of Basil",
+                "url": "https://youtube.com/watch?v=-dpvnfwvopE",
+                "duration": "1:22",
+                "thumbnail": "https://i.ytimg.com/vi/-dpvnfwvopE/frame0.jpg"
+            },
+            {
+                "title": "ඔබගේ සියලු රෝග නිමා කරන බලගතු නිදිකුම්බා ශාකය",
+                "url": "https://youtube.com/watch?v=46YeC0ToCP4",
+                "duration": "8:28",
+                "thumbnail": "https://i.ytimg.com/vi/46YeC0ToCP4/hq720.jpg"
+            },
+            {
+                "title": "බැලතණ ඔයත් කැවද නොදන්නා කමට | thuru tv",
+                "url": "https://youtube.com/watch?v=Xyr3d01byak",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/Xyr3d01byak/hq720.jpg"
+            },
+            {
+                "title": "Nidikumba/නිදිකුම්බා ශාකයේ විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=Rcg4VWgOhh8",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/Rcg4VWgOhh8/hq720.jpg"
+            },
+            {
+                "title": "තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ.  Health benefits of Thulasi.",
+                "url": "https://youtube.com/watch?v=kKukenrdq0k",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/kKukenrdq0k/hq720.jpg"
+            },
+            {
+                "title": "හීන්බෝවිටියා වල ගුණ | හීන්බෝවිටියා ලෙඩ රෝග කිහිපයකට ගුණදායකයි | Health benefits of Heen Bovitiya",
+                "url": "https://youtube.com/watch?v=gPgK8x0YzGc",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/gPgK8x0YzGc/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ ගොඩකට විසඳුම් දෙන බණ්ඩක්කා | Lady fingers By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=V-6_LxglWqM",
+                "duration": "10:42",
+                "thumbnail": "https://i.ytimg.com/vi/V-6_LxglWqM/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "බය වෙන්න එපා නිර්මාංශ වුනා කියලා කෑම නැති වෙන්නේ නෑ",
+                "url": "https://youtube.com/watch?v=uL6iDuGhR2Q",
+                "duration": "1:32",
+                "thumbnail": "https://i.ytimg.com/vi/uL6iDuGhR2Q/hq720_2.jpg"
+            },
+            {
+                "title": "👅ස්වභාවික වර්ණක භාවිතයේදී හැමෝම වරද්දන තැන් 4ක්! | 4 Mistakes to Avoid with Natural Food Coloring 🎨🌱",
+                "url": "https://youtube.com/watch?v=IOpwvzQWIP8",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/IOpwvzQWIP8/hq720_2.jpg"
+            },
+            {
+                "title": "හැමදාම තරුණව ඉන්න රෑට මේවා බොන්න | Top 10 Night Anti-Aging Drinks #health #shorts",
+                "url": "https://youtube.com/watch?v=gIerJkG5OD8",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/gIerJkG5OD8/hq720.jpg"
+            },
+            {
+                "title": "Click Here බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය| Repair & Clean Gut Naturally",
+                "url": "https://youtube.com/watch?v=7spkXvR6ad8",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/7spkXvR6ad8/hq720_2.jpg"
+            },
+            {
+                "title": "ස්වසන රෝග රැසකට ගුණ දෙන එළබටු #nature #health #tips #healthylifestyle #viral #shortvideo",
+                "url": "https://youtube.com/watch?v=bgdiOKU6Wkw",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/bgdiOKU6Wkw/hq720_2.jpg"
+            },
+            {
+                "title": "බුදුන් පුදන ඖෂධ වර්ග 108 මෙන්න",
+                "url": "https://youtube.com/watch?v=SuMnT67W53Q",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/SuMnT67W53Q/hq720.jpg"
+            },
+            {
+                "title": "The Secret Tree for Glowing Skin! | ලස්සන වෙන්න කෙල්ලෝ රැල්ලට හොරෙන් හොයන විෂ්මිත ගස",
+                "url": "https://youtube.com/watch?v=m_RZcCCrSsk",
+                "duration": "11:54",
+                "thumbnail": "https://i.ytimg.com/vi/m_RZcCCrSsk/hq720_custom_3.jpg"
+            },
+            {
+                "title": "​මිදුලේ වැවෙන මේ පඳුරේ මෙච්චර ගුණයක් තිබුණාද? හීං බැබිල ගැන හැමෝම දැනගත යුතු දේ | heenbebila",
+                "url": "https://youtube.com/watch?v=SO63_0nrCkE",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/SO63_0nrCkE/hq720.jpg"
+            },
+            {
+                "title": "මේ කෑම හීනෙකින්වත් එකට කන්න එපා | පොතු කබර සහ පිළිකා සුව කරන හෙළ වෙදකමේ රහස්",
+                "url": "https://youtube.com/watch?v=Bb0gEY7pN-U",
+                "duration": "24:16",
+                "thumbnail": "https://i.ytimg.com/vi/Bb0gEY7pN-U/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=sF_BrjVGH9Y",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/sF_BrjVGH9Y/hqdefault.jpg"
+            },
+            {
+                "title": "පුරුෂයින්ගේ ලිංගික ශක්තිය වැඩි කරන, ඉක්මනින් ධාතු පිටවීමට හොදම ප්‍රතිකාරයක් වන බිංතල් වල ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=LHYxIfW9T4M",
+                "duration": "14:36",
+                "thumbnail": "https://i.ytimg.com/vi/LHYxIfW9T4M/hq720.jpg"
+            },
+            {
+                "title": "Bin Kohomba a Rare Medicinal Plant to Grow in Sinhala | බිං කොහොඹ ගුණ",
+                "url": "https://youtube.com/watch?v=jSnktC_b9PY",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/jSnktC_b9PY/hq720.jpg"
+            },
+            {
+                "title": "මිල අධික “බිං කොහොඹ “ නිවැරදිව ගෙවත්තෙ වවන්නෙ මෙහෙමයි | Binkohomba | Ceylon Agri | Episode 337",
+                "url": "https://youtube.com/watch?v=PrNeaCjs8m0",
+                "duration": "9:03",
+                "thumbnail": "https://i.ytimg.com/vi/PrNeaCjs8m0/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ | Munronia pinnata - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=aLVxN65TEgg",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/aLVxN65TEgg/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ",
+                "url": "https://youtube.com/watch?v=7-R_C_VVIHg",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/7-R_C_VVIHg/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ගසේ ඇති ඖෂධීය ප්‍රයෝජන | medical plant of kohomba✅",
+                "url": "https://youtube.com/watch?v=O_U8G6d4cGo",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/O_U8G6d4cGo/hqdefault.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "කිරාත/හීං බිංකොහොඹ/බිං කොහොඹ පටලැවිල්ල ලිහා ගමු. ඔසු පැළ නිවැරදිව හදුනා ගනිමු.",
+                "url": "https://youtube.com/watch?v=0BBdXbnd0oc",
+                "duration": "11:55",
+                "thumbnail": "https://i.ytimg.com/vi/0BBdXbnd0oc/hq720.jpg"
+            },
+            {
+                "title": "Sri Lankan Herbs - Binkohomba |නිතරම ලෙඩ වෙන අයට හොදම බෙහෙත “බිං කොහොඹ” | Ceylon Agri | Episode 34",
+                "url": "https://youtube.com/watch?v=lnJONJ6ou-U",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/lnJONJ6ou-U/hqdefault.jpg"
+            },
+            {
+                "title": "ශරීරයේ ප්‍රතිශක්තිය වැඩි කරන බිං කොහොඹ - Mumronia pinnata",
+                "url": "https://youtube.com/watch?v=J1CJ5jgcAYE",
+                "duration": "11:07",
+                "thumbnail": "https://i.ytimg.com/vi/J1CJ5jgcAYE/hq720.jpg"
+            },
+            {
+                "title": "කෝටියක් වටින උණ නසන බිං කොහොඹ ශාකය",
+                "url": "https://youtube.com/watch?v=0rx4RcGiHpk",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/0rx4RcGiHpk/hq720.jpg"
+            },
+            {
+                "title": "එක පාරක් කෑවොත් ලිංගික ශක්තිය දෙගුණ තෙගුණ වෙන පුදුම ගුණ දෙන - ආයුර්වේදීය ගුණ අනූන හෙළ ඔසුව වදුරු මෑ",
+                "url": "https://youtube.com/watch?v=OXUbwWoXMHo",
+                "duration": "16:13",
+                "thumbnail": "https://i.ytimg.com/vi/OXUbwWoXMHo/hq720.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බා ශාකය ගැන විස්තර සහ ඖෂධීය ගුණ | Benefits of Biophytum reinwardtii | හීන් නිදිකුම්බා",
+                "url": "https://youtube.com/watch?v=8iRynAE_2_E",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/8iRynAE_2_E/hq720.jpg"
+            },
+            {
+                "title": "Bignay Benepisyo",
+                "url": "https://youtube.com/watch?v=8W7IM_kRglc",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/8W7IM_kRglc/hq720.jpg"
+            },
+            {
+                "title": "Discover the Amazing Benefits of Bignay Leaves",
+                "url": "https://youtube.com/watch?v=S5J-AhW9Mvs",
+                "duration": "1:44",
+                "thumbnail": "https://i.ytimg.com/vi/S5J-AhW9Mvs/hq720.jpg"
+            },
+            {
+                "title": "BIGNAY Fruit | 10 Health Benefits - Healthy Tips 2021",
+                "url": "https://youtube.com/watch?v=jrhN2Omzjh4",
+                "duration": "13:00",
+                "thumbnail": "https://i.ytimg.com/vi/jrhN2Omzjh4/hqdefault.jpg"
+            },
+            {
+                "title": "Amazing Health Benefits of Basella or Alugbati, Malabar Spinach, Indian Spinach & Vine Spinach",
+                "url": "https://youtube.com/watch?v=Xmbfs8T20_o",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/Xmbfs8T20_o/hq720.jpg"
+            },
+            {
+                "title": "What Is Bin Kohomba? Top Health Uses of This Herbal Plant #youtube",
+                "url": "https://youtube.com/watch?v=lXPLmg_iGm0",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/lXPLmg_iGm0/hq720.jpg"
+            },
+            {
+                "title": "FIVE HEALTH BENEFITS OF BAOBAB",
+                "url": "https://youtube.com/watch?v=aVPeWOodSlw",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/aVPeWOodSlw/hq720.jpg"
+            },
+            {
+                "title": "Bignay Benepisyo",
+                "url": "https://youtube.com/watch?v=aVjrvlQ6Thg",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/aVjrvlQ6Thg/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tuberculosis",
-      "sinhala": "ක්ෂය රෝගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Neuralgia",
-      "sinhala": "ස්නායු වේදනාව (ස්නායු ශූල)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "279",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/wFtJ66LT/plant00193-00279.jpg"
-    },
-    {
-      "image_id": "280",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/jPYbmC2j/plant00193-00280.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

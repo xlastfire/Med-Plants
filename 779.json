@@ -1,190 +1,231 @@
 {
-  "scientificName": "Abelmoschus moschatus Medik.",
-  "synonyms": [
-    "Abelmoschus abelmoschus (L.) H.Karst.",
-    "Abelmoschus betulifolia Wall.",
-    "Abelmoschus chinensis Wall.",
-    "Abelmoschus ciliaris (C.Presl) Walp.",
-    "Abelmoschus cubensis Walp.",
-    "Abelmoschus cucurbitaceus Walp.",
-    "Abelmoschus haenkeanus C.Presl",
-    "Abelmoschus lanyunatus (S.S.Ying) S.S.Ying",
-    "Abelmoschus marianus C.Presl",
-    "Abelmoschus moschatus subsp. quinquelobus (Gagnep.) Bân",
-    "Abelmoschus moschatus var. betulifolius (Mast.) Hochr.",
-    "Abelmoschus moschatus var. haenkeanus (C.Presl) Merr.",
-    "Abelmoschus moschatus var. lanyunatus S.S.Ying",
-    "Abelmoschus moschatus var. multiformis (Mast.) Hochr.",
-    "Abelmoschus palustris Walp.",
-    "Abelmoschus pseudoabelmoschus (Blume) Walp.",
-    "Abelmoschus roseus Walp.",
-    "Abelmoschus sublobatus C.Presl",
-    "Hibiscus abelmoschus L.",
-    "Hibiscus abelmoschus var. betulifolius Mast.",
-    "Hibiscus abelmoschus var. genuinus Hochr.",
-    "Hibiscus abelmoschus var. multiformis Mast.",
-    "Hibiscus cardiophyllus Baill.",
-    "Hibiscus chinensis Roxb.",
-    "Hibiscus ciliaris C.Presl",
-    "Hibiscus flavescens Cav.",
-    "Hibiscus haenkeanus (C.Presl) Fern.-Vill.",
-    "Hibiscus moschatus (Medik.) Salisb.",
-    "Hibiscus multiformis Steud.",
-    "Hibiscus pseudabelmoschus Blume",
-    "Hibiscus ricinifolius Wall.",
-    "Hibiscus roxburghii Steud.",
-    "Hibiscus sagittifolius var. quinquelobus Gagnep.",
-    "Hibiscus sublobatus (C.Presl) Hochr."
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Musk Mallow",
-    "Musk Okra",
-    "Ambrette",
-    "Ornamental Okra",
-    "Annual Hibiscus",
-    "Yorka Okra",
-    "Ornamental Okra"
-  ],
-  "sinhalaName": "Kapukinissa (කපුකිණිස්ස)",
-  "description": "ශාකය හෝ උප පඳුරක් වන මෙය මීටර් 0.25-1.5 ක් උසැතිය. කඳ ඝන හෝ කලාතුරකින් කුහර සහිත (fistular) වන අතර සරල රෝම සහිතව රළු (hispid) වේ. පත්‍රවල හැඩය සහ ප්‍රමාණය බෙහෙවින් විචල්‍ය වේ; පත්‍ර තලය සෙන්ටිමීටර 6-22 x 3-24 ක් වන අතර, අත්ලක හැඩයට 3-5 ක් ලෙස බෙදුණු (palmately lobed or divided) පත්‍ර වේ. පත්‍ර පාදය හෘදයාකාර (cordate) වන අතර, පත්‍ර දාරය කියතක දත් මෙන් (serrate) හෝ දන්තමය (dentate) වේ. පත්‍ර වෘන්තය සෙන්ටිමීටර 2-30 ක් දිගය; උප පත්‍ර (stipules) මිලිමීටර 6-12 ක් දිගය. මල් තනිව පිහිටයි; මල් වෘන්තය (pedicel) සෙන්ටිමීටර (51.5-)3-7.5 ක් දිගය; මල් කිරීටය (corolla) කහ පැහැති වන අතර මධ්‍යය තද දම් පැහැතිය. කරල් (capsule) සෙන්ටිමීටර 5-8 ක් දිග, බිත්තරාකාර (ovoid) හෝ ගෝලාකාර (globose) වන අතර මඳක් රළු (lightly hispid) වේ. බීජ මිලිමීටර 3.5-4 ක විෂ්කම්භයකින් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Abelmoschus moschatus Medik.",
+    "synonyms": [
+        "Abelmoschus abelmoschus (L.) H.Karst.",
+        "Abelmoschus betulifolia Wall.",
+        "Abelmoschus chinensis Wall.",
+        "Abelmoschus ciliaris (C.Presl) Walp.",
+        "Abelmoschus cubensis Walp.",
+        "Abelmoschus cucurbitaceus Walp.",
+        "Abelmoschus haenkeanus C.Presl",
+        "Abelmoschus lanyunatus (S.S.Ying) S.S.Ying",
+        "Abelmoschus marianus C.Presl",
+        "Abelmoschus moschatus subsp. quinquelobus (Gagnep.) Bân",
+        "Abelmoschus moschatus var. betulifolius (Mast.) Hochr.",
+        "Abelmoschus moschatus var. haenkeanus (C.Presl) Merr.",
+        "Abelmoschus moschatus var. lanyunatus S.S.Ying",
+        "Abelmoschus moschatus var. multiformis (Mast.) Hochr.",
+        "Abelmoschus palustris Walp.",
+        "Abelmoschus pseudoabelmoschus (Blume) Walp.",
+        "Abelmoschus roseus Walp.",
+        "Abelmoschus sublobatus C.Presl",
+        "Hibiscus abelmoschus L.",
+        "Hibiscus abelmoschus var. betulifolius Mast.",
+        "Hibiscus abelmoschus var. genuinus Hochr.",
+        "Hibiscus abelmoschus var. multiformis Mast.",
+        "Hibiscus cardiophyllus Baill.",
+        "Hibiscus chinensis Roxb.",
+        "Hibiscus ciliaris C.Presl",
+        "Hibiscus flavescens Cav.",
+        "Hibiscus haenkeanus (C.Presl) Fern.-Vill.",
+        "Hibiscus moschatus (Medik.) Salisb.",
+        "Hibiscus multiformis Steud.",
+        "Hibiscus pseudabelmoschus Blume",
+        "Hibiscus ricinifolius Wall.",
+        "Hibiscus roxburghii Steud.",
+        "Hibiscus sagittifolius var. quinquelobus Gagnep.",
+        "Hibiscus sublobatus (C.Presl) Hochr."
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Musk Mallow",
+        "Musk Okra",
+        "Ambrette",
+        "Ornamental Okra",
+        "Annual Hibiscus",
+        "Yorka Okra",
+        "Ornamental Okra"
+    ],
+    "sinhalaName": "Kapukinissa (කපුකිණිස්ස)",
+    "description": "ශාකය හෝ උප පඳුරක් වන මෙය මීටර් 0.25-1.5 ක් උසැතිය. කඳ ඝන හෝ කලාතුරකින් කුහර සහිත (fistular) වන අතර සරල රෝම සහිතව රළු (hispid) වේ. පත්‍රවල හැඩය සහ ප්‍රමාණය බෙහෙවින් විචල්‍ය වේ; පත්‍ර තලය සෙන්ටිමීටර 6-22 x 3-24 ක් වන අතර, අත්ලක හැඩයට 3-5 ක් ලෙස බෙදුණු (palmately lobed or divided) පත්‍ර වේ. පත්‍ර පාදය හෘදයාකාර (cordate) වන අතර, පත්‍ර දාරය කියතක දත් මෙන් (serrate) හෝ දන්තමය (dentate) වේ. පත්‍ර වෘන්තය සෙන්ටිමීටර 2-30 ක් දිගය; උප පත්‍ර (stipules) මිලිමීටර 6-12 ක් දිගය. මල් තනිව පිහිටයි; මල් වෘන්තය (pedicel) සෙන්ටිමීටර (51.5-)3-7.5 ක් දිගය; මල් කිරීටය (corolla) කහ පැහැති වන අතර මධ්‍යය තද දම් පැහැතිය. කරල් (capsule) සෙන්ටිමීටර 5-8 ක් දිග, බිත්තරාකාර (ovoid) හෝ ගෝලාකාර (globose) වන අතර මඳක් රළු (lightly hispid) වේ. බීජ මිලිමීටර 3.5-4 ක විෂ්කම්භයකින් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Oral Diseases",
+            "sinhala": "මුඛය ආශ්‍රිත රෝග (මුඛ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Polydipsia",
+            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Erectile Dysfunction",
+            "sinhala": "ලිංගික අප්‍රාණිකත්වය / ධ්වජභංගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds",
+        "Whole plant"
+    ],
+    "images": [
+        {
+            "image_id": "905",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/LdzTDZC8/plant00779-00905.jpg"
+        },
+        {
+            "image_id": "906",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/xK59t9cN/plant00779-00906.jpg"
+        },
+        {
+            "image_id": "907",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/LDd8RzRj/plant00779-00907.jpg"
+        },
+        {
+            "image_id": "3726",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/mrXWqzMT/plant00779-03726.jpg"
+        },
+        {
+            "image_id": "3727",
+            "caption": "Seeds (PMR)",
+            "url": "https://i.ibb.co/MyPmcn5W/plant00779-03727.jpg"
+        },
+        {
+            "image_id": "3728",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/QvRQ6CxC/plant00779-03728.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කස්තුරි ගුණ දෙන විස්මිත යෝධ බන්ඩක්කා හෙවත් කපුකිණිස්ස",
+                "url": "https://youtube.com/watch?v=KfwUu_4O1jg",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/KfwUu_4O1jg/hqdefault.jpg"
+            },
+            {
+                "title": "කපුකිනිස්ස ශාකයේ ඖෂධීය ගුණය||kapukinissa shakaye oushadiya gunaya",
+                "url": "https://youtube.com/watch?v=hJ7NsfY0bsA",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/hJ7NsfY0bsA/hq720.jpg"
+            },
+            {
+                "title": "කපු කිණිස්ස ශාකය යොදාගත් බලවතු වාජීකරණ ඔසුවක්",
+                "url": "https://youtube.com/watch?v=AfZ65b0Vm3Q",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/AfZ65b0Vm3Q/hq720.jpg"
+            },
+            {
+                "title": "kapu kinissa | kasthuri | hela osu rahas |  lanka osu pela | Healing of eye and heart diseases",
+                "url": "https://youtube.com/watch?v=s0yXhi7AnFs",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/s0yXhi7AnFs/hq720.jpg"
+            },
+            {
+                "title": "කපුකිනිස්ස ගහේ මල් Lashitha Mahesh Sinhala Video Editor",
+                "url": "https://youtube.com/watch?v=pADB6cV3zWA",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/pADB6cV3zWA/hqdefault.jpg"
+            },
+            {
+                "title": "kapu kinissa",
+                "url": "https://youtube.com/watch?v=jm7NUUOfSjE",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/jm7NUUOfSjE/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Oral Diseases",
-      "sinhala": "මුඛය ආශ්‍රිත රෝග (මුඛ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Polydipsia",
-      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Erectile Dysfunction",
-      "sinhala": "ලිංගික අප්‍රාණිකත්වය / ධ්වජභංගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds",
-    "Whole plant"
-  ],
-  "images": [
-    {
-      "image_id": "905",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/LdzTDZC8/plant00779-00905.jpg"
-    },
-    {
-      "image_id": "906",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/xK59t9cN/plant00779-00906.jpg"
-    },
-    {
-      "image_id": "907",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/LDd8RzRj/plant00779-00907.jpg"
-    },
-    {
-      "image_id": "3726",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/mrXWqzMT/plant00779-03726.jpg"
-    },
-    {
-      "image_id": "3727",
-      "caption": "Seeds (PMR)",
-      "url": "https://i.ibb.co/MyPmcn5W/plant00779-03727.jpg"
-    },
-    {
-      "image_id": "3728",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/QvRQ6CxC/plant00779-03728.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

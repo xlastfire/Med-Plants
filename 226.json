@@ -1,146 +1,619 @@
 {
-  "scientificName": "Baccharoides anthelmintica (L.) Moench",
-  "synonyms": [
-    "Ascaricida anthelminthica (L.) Sweet",
-    "Ascaricida indica Cass.",
-    "Centratherum anthelminticum (L.) Gamble",
-    "Conyza anthelmintica L.",
-    "Dolosanthus silvaticus Klatt",
-    "Phyllocephalum anthelminticum (L.) S.R.Paul & S.L.Kapoor",
-    "Serratula anthelmintica (L.) Roxb.",
-    "Vernonia anthelmintica (L.) Willd.",
-    "Vernonia stenolepis Oliv."
-  ],
-  "familyName": "ASTERACEAE",
-  "englishNames": [
-    "Purple Fleabane",
-    "Ironweed"
-  ],
-  "sinhalaName": "Sanninayan (සන්නිනායන් )",
-  "description": "සෘජු වාර්ෂික පැළෑටි, උස මීටර් 0.5 - 1.5 කි. පත්‍ර ඉලිප්සාකාර (elliptic) හෝ ප්‍රතිලෝම ලේන්සාකාර (oblanceolate) වේ, ප්‍රමාණය සෙන්ටිමීටර 7 - 13 X 2 - 5 කි, පාදම ක්ෂීණ (attenuate) සහ අර්ධ වෘන්ත සහිත (subpetiolate) වේ, අග්‍රය තියුණු (acute) හෝ උල් වූ (acuminate) වේ, පත්‍ර දාර රළු සහ තියුණු දත් සහිත (serrate) වේ, පත්‍රයේ උඩ පැත්ත විරලව තද වූ රෝම සහිත (appressed pilose) වන අතර යටි පැත්ත විශේෂයෙන් නහර මත රෝම සහිත (pubescent) වේ. පුෂ්ප මංජරිය සීනුවක හැඩැති (campanulate) වන අතර ලිහිල්ව කොරිම්බස් (corymbose) ආකාරයට පිහිටයි, සමහර විට ස්වල්පයක් හෝ තනිව පිහිටයි; මල් ලා දම් පැහැතිය, එක් පුෂ්ප මංජරියකට මල් 40 ක් පමණ ඇත, දිග මිලිමීටර 8 - 9 කි. පැපස් (pappus) තද සුදු පැහැති වන අතර ශක්තිමත් වූ විට රතු පැහැයට හැරේ; අභ්‍යන්තර පැපස් රෝම මිලිමීටර 6 - 7 ක් දිගය.",
-  "treatments": [
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Baccharoides anthelmintica (L.) Moench",
+    "synonyms": [
+        "Ascaricida anthelminthica (L.) Sweet",
+        "Ascaricida indica Cass.",
+        "Centratherum anthelminticum (L.) Gamble",
+        "Conyza anthelmintica L.",
+        "Dolosanthus silvaticus Klatt",
+        "Phyllocephalum anthelminticum (L.) S.R.Paul & S.L.Kapoor",
+        "Serratula anthelmintica (L.) Roxb.",
+        "Vernonia anthelmintica (L.) Willd.",
+        "Vernonia stenolepis Oliv."
+    ],
+    "familyName": "ASTERACEAE",
+    "englishNames": [
+        "Purple Fleabane",
+        "Ironweed"
+    ],
+    "sinhalaName": "Sanninayan (සන්නිනායන් )",
+    "description": "සෘජු වාර්ෂික පැළෑටි, උස මීටර් 0.5 - 1.5 කි. පත්‍ර ඉලිප්සාකාර (elliptic) හෝ ප්‍රතිලෝම ලේන්සාකාර (oblanceolate) වේ, ප්‍රමාණය සෙන්ටිමීටර 7 - 13 X 2 - 5 කි, පාදම ක්ෂීණ (attenuate) සහ අර්ධ වෘන්ත සහිත (subpetiolate) වේ, අග්‍රය තියුණු (acute) හෝ උල් වූ (acuminate) වේ, පත්‍ර දාර රළු සහ තියුණු දත් සහිත (serrate) වේ, පත්‍රයේ උඩ පැත්ත විරලව තද වූ රෝම සහිත (appressed pilose) වන අතර යටි පැත්ත විශේෂයෙන් නහර මත රෝම සහිත (pubescent) වේ. පුෂ්ප මංජරිය සීනුවක හැඩැති (campanulate) වන අතර ලිහිල්ව කොරිම්බස් (corymbose) ආකාරයට පිහිටයි, සමහර විට ස්වල්පයක් හෝ තනිව පිහිටයි; මල් ලා දම් පැහැතිය, එක් පුෂ්ප මංජරියකට මල් 40 ක් පමණ ඇත, දිග මිලිමීටර 8 - 9 කි. පැපස් (pappus) තද සුදු පැහැති වන අතර ශක්තිමත් වූ විට රතු පැහැයට හැරේ; අභ්‍යන්තර පැපස් රෝම මිලිමීටර 6 - 7 ක් දිගය.",
+    "treatments": [
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Flatulence",
+            "sinhala": "බඩ පිපුම (වාතය පිරීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Hiccups",
+            "sinhala": "හිකිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Vitiligo",
+            "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worm infestation",
+            "sinhala": "පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemiplegia",
+            "sinhala": "අංශභාගය (එකාංගඝාත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Psoriasis",
+            "sinhala": "සොරායසිස් (පොතු කබර රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seed",
+        "Leaves",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "2872",
+            "caption": "Flower Buds (PMR)",
+            "url": "https://i.ibb.co/nMyFRVWN/plant00226-02872.jpg"
+        },
+        {
+            "image_id": "2873",
+            "caption": "Inflorescence  (PMR)",
+            "url": "https://i.ibb.co/BKsvLDNs/plant00226-02873.jpg"
+        },
+        {
+            "image_id": "2874",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/x8f0DxfY/plant00226-02874.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "Ayubowan Sri Lanka (ආයුබෝවන් ශ්‍රී ලංකා) | Shehani Kahandawala & Jenat Anthony | Swarnavahini",
+                "url": "https://youtube.com/watch?v=Lm6ifnvfhpY",
+                "duration": "41:28",
+                "thumbnail": "https://i.ytimg.com/vi/Lm6ifnvfhpY/hq720.jpg"
+            },
+            {
+                "title": "සිඳුණු අත්තටු | Broken Wings | Sinhala Short Film",
+                "url": "https://youtube.com/watch?v=SOMtsCBBrlo",
+                "duration": "7:03",
+                "thumbnail": "https://i.ytimg.com/vi/SOMtsCBBrlo/hq720.jpg"
+            },
+            {
+                "title": "කාවද මේ පාගන්නෙ |  නාගයෙකුත් අතේ | ඉතිහාසයේ සගවපු අභිරහස ජනිත් මේ හෙළි කරකරන්නෙ | ඇස් ඇරල බලපියව් !!",
+                "url": "https://youtube.com/watch?v=WHKi45KUvDA",
+                "duration": "18:10",
+                "thumbnail": "https://i.ytimg.com/vi/WHKi45KUvDA/hq720.jpg"
+            },
+            {
+                "title": "විනාඩි 10න් කකුල් දෙකට පට්ට යන්න ගහන්න | Killer Leg Workout at Home",
+                "url": "https://youtube.com/watch?v=wqBOlkz4By8",
+                "duration": "11:51",
+                "thumbnail": "https://i.ytimg.com/vi/wqBOlkz4By8/hq720.jpg"
+            },
+            {
+                "title": "කඳු වළලු අතර සැඟවූ පැරණි පන්සල | ප්‍රතිසංස්කරණයෙන් පසු සුන්දර දර්ශනය 🇱🇰",
+                "url": "https://youtube.com/watch?v=rESQhwDephU",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/rESQhwDephU/hq720.jpg"
+            },
+            {
+                "title": "NZ වල අපේ වෙසක් | අපිම හදපු ඉටිපහන් 600 | Sri Lankaramaya | NZ Vlog 02 | සිංහල Vlog | ShaJinani",
+                "url": "https://youtube.com/watch?v=uMR-FjUGEbE",
+                "duration": "6:46",
+                "thumbnail": "https://i.ytimg.com/vi/uMR-FjUGEbE/hq720.jpg"
+            },
+            {
+                "title": "නිවනට යන භික්ෂූන් වහන්සේලාට තනතුරු තානාන්තර අවශ්‍යද? Sri Lanka History | Sinhala History",
+                "url": "https://youtube.com/watch?v=-Wwz7kGmGEc",
+                "duration": "54:44",
+                "thumbnail": "https://i.ytimg.com/vi/-Wwz7kGmGEc/hq720.jpg"
+            },
+            {
+                "title": "දාන පාරමීදම් පුරනා සත්පුරුෂයින් තවමත් මේ මිහිතලය සරසවනවා 💕🙏🌸 @SahanaSchool",
+                "url": "https://youtube.com/watch?v=_VjEpuTbi3E",
+                "duration": "5:14",
+                "thumbnail": "https://i.ytimg.com/vi/_VjEpuTbi3E/hq720.jpg"
+            },
+            {
+                "title": "බලගතු සාන්ත ආනා මෑණියන්ගේ 211 වන නුවානය සහ දිව්‍යපූජා යාගය 2026 මැයි 25 සඳුදා",
+                "url": "https://youtube.com/watch?v=SDY0inbgcII",
+                "duration": "38:18",
+                "thumbnail": "https://i.ytimg.com/vi/SDY0inbgcII/hq720.jpg"
+            },
+            {
+                "title": "මිනිසුන්ගේ ගති ගුණ දැනගන්නා රහස දැනගන්න | Kelaniye Sasanawansa Thero | Dharmadeshana 114",
+                "url": "https://youtube.com/watch?v=bg6K94W40Sg",
+                "duration": "41:20",
+                "thumbnail": "https://i.ytimg.com/vi/bg6K94W40Sg/hq720.jpg"
+            },
+            {
+                "title": "කුළුණු ගුණෙන් ‍| Kulunu Gunen",
+                "url": "https://youtube.com/watch?v=IID8xp2dBjE",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/IID8xp2dBjE/hq720.jpg"
+            },
+            {
+                "title": "sanga guna Kavi|සංඝ රත්නයේ ගුණ (චූල සුභද්‍රා ගේ මුණි ගුණ වැයුම-SL IV Channel) ඉතාමත් දුර්ලභ ගායනයක්.",
+                "url": "https://youtube.com/watch?v=SQzY4AC68RI",
+                "duration": "6:13",
+                "thumbnail": "https://i.ytimg.com/vi/SQzY4AC68RI/hq720.jpg"
+            },
+            {
+                "title": "දහම් ගුණ හදුනා ගනිමු Daham Guna Hadunaganimu",
+                "url": "https://youtube.com/watch?v=REHl8wH4DrA",
+                "duration": "1:30:28",
+                "thumbnail": "https://i.ytimg.com/vi/REHl8wH4DrA/hqdefault.jpg"
+            },
+            {
+                "title": "සංඝ රත්නයේ ගුණ Ven Galagamuwe Gnanadeepa Thero sirasa damsak nada 04-03-2017",
+                "url": "https://youtube.com/watch?v=zFsIwpMm6Tc",
+                "duration": "40:40",
+                "thumbnail": "https://i.ytimg.com/vi/zFsIwpMm6Tc/hqdefault.jpg"
+            },
+            {
+                "title": "විනාඩි පහෙන් අර්ශස් රෝගීන්ට ගුණ දායක පානයක්.✅ A  drink that is beneficial for hemorrhoid patients",
+                "url": "https://youtube.com/watch?v=Od0Nfe86pEE",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/Od0Nfe86pEE/hqdefault.jpg"
+            },
+            {
+                "title": "සංගු හාමිගේ හීන වැල",
+                "url": "https://youtube.com/watch?v=by1guN5hG-w",
+                "duration": "33:57",
+                "thumbnail": "https://i.ytimg.com/vi/by1guN5hG-w/hq720.jpg"
+            },
+            {
+                "title": "saga guna | සඝ ගුණ | kin sachcha magga/sanganussathiya/kakuluwela vipulasara hamuduruwo",
+                "url": "https://youtube.com/watch?v=iJ2xiLDpR2k",
+                "duration": "2:28",
+                "thumbnail": "https://i.ytimg.com/vi/iJ2xiLDpR2k/hqdefault.jpg"
+            },
+            {
+                "title": "ස්නානයේ ගුණ",
+                "url": "https://youtube.com/watch?v=vTU6XRmoFkE",
+                "duration": "11:01",
+                "thumbnail": "https://i.ytimg.com/vi/vTU6XRmoFkE/hqdefault.jpg"
+            },
+            {
+                "title": "සංඝ රත්නයේ ගුණ පහදා ගනිමු | Sanga Guna | සංඝ ගුණ | The virtues of Sanga Rathna | සංඝ රත්නයේ ගුණ",
+                "url": "https://youtube.com/watch?v=SIZsj6H0QXI",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/SIZsj6H0QXI/hq720.jpg"
+            },
+            {
+                "title": "සඟ ගුණ දැන සිටියාද ? | දම්සභා මණ්ඩපය",
+                "url": "https://youtube.com/watch?v=VbE9aSTVe6c",
+                "duration": "1:05:24",
+                "thumbnail": "https://i.ytimg.com/vi/VbE9aSTVe6c/hq720.jpg"
+            },
+            {
+                "title": "04 Daham Guna Handunaganimu (දහම් ගුණ හඳුනාගනිමු) ~ Ven. Kiribathgoda Gnanananda Thero",
+                "url": "https://youtube.com/watch?v=WlI6c5Xse6k",
+                "duration": "1:32:28",
+                "thumbnail": "https://i.ytimg.com/vi/WlI6c5Xse6k/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ - ධම් ගුණ - සංඝ ගුණ - සැබෑ නිරුක්ති අර්ථයන්",
+                "url": "https://youtube.com/watch?v=32mdEFrK6jA",
+                "duration": "10:42",
+                "thumbnail": "https://i.ytimg.com/vi/32mdEFrK6jA/hqdefault.jpg"
+            },
+            {
+                "title": "සංඝරත්නයේ ගුණ | Sangarathnaye guna haduna ganimu | Bana | Darmadeshana | ධර්ම දේශනා | බණ | New",
+                "url": "https://youtube.com/watch?v=ku-vq7v7qGs",
+                "duration": "20:45",
+                "thumbnail": "https://i.ytimg.com/vi/ku-vq7v7qGs/hqdefault.jpg"
+            },
+            {
+                "title": "මිහිරි කවියෙන් දහම් ගුණ සජ්ජායනය |mihiri daham guna bhawanawa |rev. balangoda Dhammananda thero",
+                "url": "https://youtube.com/watch?v=EcqSEiOcfRg",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/EcqSEiOcfRg/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබේ රුධිරයේ සීනි අධික බව හගවන පුර්ව රෝග ලක්ෂණ 7 | 7 Early Diabetes Symptoms",
+                "url": "https://youtube.com/watch?v=UK9MoHqF9_0",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/UK9MoHqF9_0/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "පීඩා විඳින සෙමට සහනයක් | සෙම නසන හෙළ වෙදකම් ප්‍රතිකාර",
+                "url": "https://youtube.com/watch?v=MA9deJb69vE",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/MA9deJb69vE/hqdefault.jpg"
+            },
+            {
+                "title": "ජනතාවට වස කන්න දීල බලා සිටින සෞඛ්‍ය අමාත්‍යාංශය.......",
+                "url": "https://youtube.com/watch?v=IyoJFo-BOuE",
+                "duration": "13:31",
+                "thumbnail": "https://i.ytimg.com/vi/IyoJFo-BOuE/hq720.jpg"
+            },
+            {
+                "title": "කළුනික 🔴 Litsea saligna (Nees) N.P.Balakr.",
+                "url": "https://youtube.com/watch?v=WOBz2Fao8uI",
+                "duration": "11:11",
+                "thumbnail": "https://i.ytimg.com/vi/WOBz2Fao8uI/hq720.jpg"
+            },
+            {
+                "title": "Around 200 cases of meningitis reported so far from several areas; Health Ministry issues guidelines",
+                "url": "https://youtube.com/watch?v=FAdNMhZuUok",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/FAdNMhZuUok/hq720.jpg"
+            },
+            {
+                "title": "තද උණ වමනය හෝ හිසරදය ඇත්නම් බලාගෙනයි - වහාම බෙහෙත් ගන්න සෞඛ්‍ය අංශ කියයි.",
+                "url": "https://youtube.com/watch?v=nkAR2ZxCQ-0",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/nkAR2ZxCQ-0/hqdefault.jpg"
+            },
+            {
+                "title": "සන්නිවේදනයේ ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=Ah3yIlPoAEo",
+                "duration": "8:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ah3yIlPoAEo/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් මිනිසාට ඇති ප්‍රයෝජන, අප අවට සත්තු,sathungen minisata athi preyojana, Apa awata saththu,",
+                "url": "https://youtube.com/watch?v=QKzQ_lIBcr4",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/QKzQ_lIBcr4/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "නිවස ඇතුලත තියන්න හොඳම ශාකය | Oxigen Plant | Snake Plant | Ceylon Agri | Episode 161",
+                "url": "https://youtube.com/watch?v=tXaQkLW-uGo",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/tXaQkLW-uGo/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "සින්ගොනියම් විසිතුරු පැලය ගැන දැන ගනිමු./සින්ගොනියම් වර්ග. Let's learn about Syngonium plants",
+                "url": "https://youtube.com/watch?v=EfL-u5Qnk4c",
+                "duration": "4:19",
+                "thumbnail": "https://i.ytimg.com/vi/EfL-u5Qnk4c/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "Benefits of rain | වැස්සෙන් ඇති ප්‍රයෝජන | 3,4,5 ශ්‍රේණි සදහා පෙරහුරු රචනා | scholarship exam",
+                "url": "https://youtube.com/watch?v=8eb8UaD2Eb4",
+                "duration": "9:54",
+                "thumbnail": "https://i.ytimg.com/vi/8eb8UaD2Eb4/hqdefault.jpg"
+            },
+            {
+                "title": "නෙල්ලි වල මෙච්චර ගුණයක්? 🍏 විශ්මිත සෞඛ්‍ය ප්‍රතිලාභ මෙන්න! |",
+                "url": "https://youtube.com/watch?v=rZyWK4LRjHE",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/rZyWK4LRjHE/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "Focus එක තියාගෙන සාර්ථක වෙන්න මොළය හසුරුවන NLP රහස් | Master Your Mind #focus  #sinhalamotivation",
+                "url": "https://youtube.com/watch?v=A2bD1KjAJIc",
+                "duration": "10:28",
+                "thumbnail": "https://i.ytimg.com/vi/A2bD1KjAJIc/hq720.jpg"
+            },
+            {
+                "title": "[7] සංයෝජන යනු - [ඕඝ තරණ සදහම් සාකච්ඡාව]- ගරු වසන්ත වීරසිංහ මහතා",
+                "url": "https://youtube.com/watch?v=55gBMLUylBI",
+                "duration": "1:50:41",
+                "thumbnail": "https://i.ytimg.com/vi/55gBMLUylBI/hq720.jpg"
+            },
+            {
+                "title": "Senna Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=KEbGYSwKVTM",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/KEbGYSwKVTM/hq720.jpg"
+            },
+            {
+                "title": "සාරණ කෑවොත් වෙන දේ මෙන්න : Benefits of Sarana Plant",
+                "url": "https://youtube.com/watch?v=z7AnqI_q2x0",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/z7AnqI_q2x0/hq720.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "The plant that should be in the bedroomI Speak at Night! 🤫 | The Snake Plant’s Secret to Giving Y...",
+                "url": "https://youtube.com/watch?v=9qqca_25jTY",
+                "duration": "1:40",
+                "thumbnail": "https://i.ytimg.com/vi/9qqca_25jTY/hqdefault.jpg"
+            },
+            {
+                "title": "Health benefits of Cassia Alata/Senna Alata #theshangtareal",
+                "url": "https://youtube.com/watch?v=NIpOnJw7C3g",
+                "duration": "4:59",
+                "thumbnail": "https://i.ytimg.com/vi/NIpOnJw7C3g/hq720.jpg"
+            },
+            {
+                "title": "Aamzing Health Benefits| Senna Occidentalis",
+                "url": "https://youtube.com/watch?v=NW3Px6Kf0FA",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/NW3Px6Kf0FA/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ප්‍රතිශක්තිය වැඩි කරන , හොදම පානය | Yaki Naran  |  Episode 409",
+                "url": "https://youtube.com/watch?v=2xmVGboWJ6g",
+                "duration": "6:20",
+                "thumbnail": "https://i.ytimg.com/vi/2xmVGboWJ6g/hq720.jpg"
+            },
+            {
+                "title": "Herbal Plant  Secret Health Benefits of Phyllanthus Niruni",
+                "url": "https://youtube.com/watch?v=nPIq-h9MtA4",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/nPIq-h9MtA4/hq720.jpg"
+            },
+            {
+                "title": "මේ ගැන දන්නවද බලන්න Benefit of Sensovariya & planting a Sensovariya (Snake Plant) Kusala Simple Life",
+                "url": "https://youtube.com/watch?v=bIvHlPv-93M",
+                "duration": "9:36",
+                "thumbnail": "https://i.ytimg.com/vi/bIvHlPv-93M/hq720.jpg"
+            },
+            {
+                "title": "15+ Sansevieria/ Snake plant varieties | සැන්සිවේරියා වර්ග !",
+                "url": "https://youtube.com/watch?v=58dj8N8f0S4",
+                "duration": "11:28",
+                "thumbnail": "https://i.ytimg.com/vi/58dj8N8f0S4/hq720.jpg"
+            },
+            {
+                "title": "දැනගෙනම හිටවන්න | Pranajeewa Plant | Ceylon Agri| Episode 359",
+                "url": "https://youtube.com/watch?v=7VR4o-3yMxY",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/7VR4o-3yMxY/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Senna alata - The candlestick plant",
+                "url": "https://youtube.com/watch?v=sApXNr_U2hc",
+                "duration": "8:13",
+                "thumbnail": "https://i.ytimg.com/vi/sApXNr_U2hc/hq720.jpg"
+            },
+            {
+                "title": "senna leaves benefits",
+                "url": "https://youtube.com/watch?v=Guqo6UavhJs",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/Guqo6UavhJs/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "සිරුරට ගුණ දෙන ඖෂධීය ශාක - Medicinal plants - Sanda Asapuwa",
+                "url": "https://youtube.com/watch?v=PsWgSyO64zM",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/PsWgSyO64zM/hqdefault.jpg"
+            },
+            {
+                "title": "නික ගුණ වරුණ . සෙම් රෝග සහ වේදනා සමනයට. Health benefits of Nika.",
+                "url": "https://youtube.com/watch?v=YgOuPvji6N0",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgOuPvji6N0/hq720.jpg"
+            },
+            {
+                "title": "සන්ධි වේදනා නැති කරන ආයුර්වේදීය ශාකයේ විද්‍යාත්මකව තහවුරු කල පුදුම හිතෙන ගුන",
+                "url": "https://youtube.com/watch?v=e0dzL4QVikQ",
+                "duration": "6:14",
+                "thumbnail": "https://i.ytimg.com/vi/e0dzL4QVikQ/hqdefault.jpg"
+            },
+            {
+                "title": "ඔසු පැල 10ක ගුණ දැනගමුද? | Benifits of 10 Herbal Plants | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=Cpdzcr3fXu0",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Cpdzcr3fXu0/hq720.jpg"
+            },
+            {
+                "title": "ගංසුරිය(Gansuriya) ශාකයේ විශ්මිත ගුණ😱😱😱",
+                "url": "https://youtube.com/watch?v=5tNmjd694pg",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/5tNmjd694pg/hq720.jpg"
+            },
+            {
+                "title": "මේ තමයි හරිම නිවැරදි ඖෂධීය බෙහෙත් සාරන/ausadiya /medical/sarana",
+                "url": "https://youtube.com/watch?v=XIyrrPFiIq8",
+                "duration": "6:53",
+                "thumbnail": "https://i.ytimg.com/vi/XIyrrPFiIq8/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "සන්ධි වේදනා නැති කරන ආහාර සහ වැඩි කරන ආහාර පිළිබඳ විද්‍යාත්මක පැහැදිලි කිරීම",
+                "url": "https://youtube.com/watch?v=TAa7g1lAd8w",
+                "duration": "15:49",
+                "thumbnail": "https://i.ytimg.com/vi/TAa7g1lAd8w/hqdefault.jpg"
+            },
+            {
+                "title": "ඖෂධීය ශාක 100ක් | Episode 01| ඔසු අරණ",
+                "url": "https://youtube.com/watch?v=Hcpp83iVR0w",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/Hcpp83iVR0w/hq720.jpg"
+            },
+            {
+                "title": "සන්ධි වේදනාව මෙල්ල කරන දේශීය ආහාර, lankan foods for arthritis,Handi kakkumata aahara",
+                "url": "https://youtube.com/watch?v=19JnIgNbqaA",
+                "duration": "17:15",
+                "thumbnail": "https://i.ytimg.com/vi/19JnIgNbqaA/hq720.jpg"
+            },
+            {
+                "title": "ගුණ අධික මාරාන්තික සැමන්ටින්  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=X0N-CkeYUzI",
+                "duration": "13:05",
+                "thumbnail": "https://i.ytimg.com/vi/X0N-CkeYUzI/hq720.jpg"
+            },
+            {
+                "title": "මේ ගස් 3 ගෙදර තියෙනවා නම් කවදාවත් දියවැඩියාව හැදෙන්නේ නැහැ - මේ ගෙඩියක් කන්න පටගාල සීනි බහිනවා",
+                "url": "https://youtube.com/watch?v=ySXYL6YHSpo",
+                "duration": "26:55",
+                "thumbnail": "https://i.ytimg.com/vi/ySXYL6YHSpo/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "News Alert  ඇමරිකාවෙන් ලැබුණු නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත් කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=QoxbefYPMS4",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/QoxbefYPMS4/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Flatulence",
-      "sinhala": "බඩ පිපුම (වාතය පිරීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Hiccups",
-      "sinhala": "හිකිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Vitiligo",
-      "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worm infestation",
-      "sinhala": "පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemiplegia",
-      "sinhala": "අංශභාගය (එකාංගඝාත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Psoriasis",
-      "sinhala": "සොරායසිස් (පොතු කබර රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seed",
-    "Leaves",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "2872",
-      "caption": "Flower Buds (PMR)",
-      "url": "https://i.ibb.co/nMyFRVWN/plant00226-02872.jpg"
-    },
-    {
-      "image_id": "2873",
-      "caption": "Inflorescence  (PMR)",
-      "url": "https://i.ibb.co/BKsvLDNs/plant00226-02873.jpg"
-    },
-    {
-      "image_id": "2874",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/x8f0DxfY/plant00226-02874.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

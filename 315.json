@@ -1,223 +1,294 @@
 {
-  "scientificName": "Terminalia bellirica (Gaertn.) Roxb.",
-  "synonyms": [
-    "Buceras bellirica (Gaertn.) Lyons",
-    "Myrobalanus bellirica Gaertn.",
-    "Myrobalanus punctata (Roth) Kuntze",
-    "Terminalia attenuata Edgew.",
-    "Terminalia belirica Wall.",
-    "Terminalia bellirica var. laurinoides C.B.Clarke",
-    "Terminalia biticaria Roxb.",
-    "Terminalia eglandulosa Roxb. ex C.B.Clarke",
-    "Terminalia gella Dalzell",
-    "Terminalia laurinoides Teijsm. & Binn.",
-    "Terminalia moluccana Roxb.",
-    "Terminalia punctata Roth"
-  ],
-  "familyName": "COMBRETACEAE",
-  "englishNames": [
-    "Myrabalans",
-    "Belliric Myrobalan",
-    "Bastard Myrobalan",
-    "Beach Almond",
-    "Bedda Nut Tree"
-  ],
-  "sinhalaName": "Bulu (බුළු)",
-  "description": "මීටර් 35ක් දක්වා උසැති පතනශීලී ශාක; පොත්ත අළු පැහැතිය, කල්පවත්නා ලෙස රැලි සහිතය (longitudinally ridged). අතු රිකිලිවල කැපී පෙනෙන, සර්පිලාකාරව ඉහළට විහිදුණු පත්‍ර කැළැල් දක්නට ලැබේ. පත්‍ර සර්පිලාකාරව පිහිටා ඇති අතර, අතු අග්‍රවල ව්‍යාජ වට (pseudo-whorls) ලෙස පොදි ගැසී පවතී; පත්‍ර වෘන්තය සෙ.මී. 3-9ක් දිගය, රෝම රහිතය (glabrous) නමුත් ළපටි අවස්ථාවේදී විශේෂයෙන් පාදස්ථයේ මලකඩ පැහැති රෝමවලින් වැසී ඇත (ferruginous tomentose), මැදට ඉහළින් ග්‍රන්ථි දෙකක් පිහිටයි; පත්‍ර තලය සෙ.මී. 18-26 x 6-12ක් වන අතර, ළපටි අවස්ථාවේදී මලකඩ පැහැති රෝමවලින් වැසී පැවතීම හැර අනෙක් විට රෝම රහිතය (glabrous). පුෂ්ප මංජරි කක්ෂීයය (axillary), සරල කරල් (spikes) ආකාර වේ, සෙ.මී. 5-18ක් දිගය, බොහෝ විට අතු අග්‍රයේ පොදි ගැසී පැනිකල් (panicle) ආකාරයක් ගනී; අක්ෂය ඝනව මලකඩ පැහැති රෝමවලින් වැසී ඇත (ferruginous tomentose). මල්වර නාලය (calyx tube) අග්‍රස්ථයේ නොගැඹුරු කෝප්පයක හැඩයක් ගනී, මි.මී. 4-5ක් දිගය. ඵලය කෙටි වෘන්තයක් සහිතය (stipitate), ගෝලාකාරයට ආසන්න (subglobose) සිට පුළුල් ඉලිප්සාකාර (broadly ellipsoid) හෝ බිත්තරාකාර (ovoid) හැඩයක් ගනී, දුර්වල සිට තදින් රැලි සහිත පේළි 5ක් දක්නට ලැබේ, සෙ.මී. 2-3 x 1.8-2.5ක් වේ, ඝනව සහ සියුම් ලෙස වෙල්වට් වැනි රෝමවලින් (velutinous) හෝ සේද වැනි රෝමවලින් (sericeous) වැසී ඇත; වෘන්තය මි.මී. 2ක් පමණ දිගය.",
-  "treatments": [
-    {
-      "treatment": "Polydipsia",
-      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Terminalia bellirica (Gaertn.) Roxb.",
+    "synonyms": [
+        "Buceras bellirica (Gaertn.) Lyons",
+        "Myrobalanus bellirica Gaertn.",
+        "Myrobalanus punctata (Roth) Kuntze",
+        "Terminalia attenuata Edgew.",
+        "Terminalia belirica Wall.",
+        "Terminalia bellirica var. laurinoides C.B.Clarke",
+        "Terminalia biticaria Roxb.",
+        "Terminalia eglandulosa Roxb. ex C.B.Clarke",
+        "Terminalia gella Dalzell",
+        "Terminalia laurinoides Teijsm. & Binn.",
+        "Terminalia moluccana Roxb.",
+        "Terminalia punctata Roth"
+    ],
+    "familyName": "COMBRETACEAE",
+    "englishNames": [
+        "Myrabalans",
+        "Belliric Myrobalan",
+        "Bastard Myrobalan",
+        "Beach Almond",
+        "Bedda Nut Tree"
+    ],
+    "sinhalaName": "Bulu (බුළු)",
+    "description": "මීටර් 35ක් දක්වා උසැති පතනශීලී ශාක; පොත්ත අළු පැහැතිය, කල්පවත්නා ලෙස රැලි සහිතය (longitudinally ridged). අතු රිකිලිවල කැපී පෙනෙන, සර්පිලාකාරව ඉහළට විහිදුණු පත්‍ර කැළැල් දක්නට ලැබේ. පත්‍ර සර්පිලාකාරව පිහිටා ඇති අතර, අතු අග්‍රවල ව්‍යාජ වට (pseudo-whorls) ලෙස පොදි ගැසී පවතී; පත්‍ර වෘන්තය සෙ.මී. 3-9ක් දිගය, රෝම රහිතය (glabrous) නමුත් ළපටි අවස්ථාවේදී විශේෂයෙන් පාදස්ථයේ මලකඩ පැහැති රෝමවලින් වැසී ඇත (ferruginous tomentose), මැදට ඉහළින් ග්‍රන්ථි දෙකක් පිහිටයි; පත්‍ර තලය සෙ.මී. 18-26 x 6-12ක් වන අතර, ළපටි අවස්ථාවේදී මලකඩ පැහැති රෝමවලින් වැසී පැවතීම හැර අනෙක් විට රෝම රහිතය (glabrous). පුෂ්ප මංජරි කක්ෂීයය (axillary), සරල කරල් (spikes) ආකාර වේ, සෙ.මී. 5-18ක් දිගය, බොහෝ විට අතු අග්‍රයේ පොදි ගැසී පැනිකල් (panicle) ආකාරයක් ගනී; අක්ෂය ඝනව මලකඩ පැහැති රෝමවලින් වැසී ඇත (ferruginous tomentose). මල්වර නාලය (calyx tube) අග්‍රස්ථයේ නොගැඹුරු කෝප්පයක හැඩයක් ගනී, මි.මී. 4-5ක් දිගය. ඵලය කෙටි වෘන්තයක් සහිතය (stipitate), ගෝලාකාරයට ආසන්න (subglobose) සිට පුළුල් ඉලිප්සාකාර (broadly ellipsoid) හෝ බිත්තරාකාර (ovoid) හැඩයක් ගනී, දුර්වල සිට තදින් රැලි සහිත පේළි 5ක් දක්නට ලැබේ, සෙ.මී. 2-3 x 1.8-2.5ක් වේ, ඝනව සහ සියුම් ලෙස වෙල්වට් වැනි රෝමවලින් (velutinous) හෝ සේද වැනි රෝමවලින් (sericeous) වැසී ඇත; වෘන්තය මි.මී. 2ක් පමණ දිගය.",
+    "treatments": [
+        {
+            "treatment": "Polydipsia",
+            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Vomiting",
+            "sinhala": "වමනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Calculi",
+            "sinhala": "මුත්‍රා ගල්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Insomnia",
+            "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nervous System Disorders",
+            "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Erectile Dysfunction",
+            "sinhala": "ලිංගික අප්‍රාණිකත්වය / ධ්වජභංගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits (Outer Cover)",
+        "Seeds",
+        "Bark",
+        "Oil"
+    ],
+    "images": [
+        {
+            "image_id": "1329",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/jkYGBwS9/plant00315-01329.jpg"
+        },
+        {
+            "image_id": "1330",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/1fWncCKj/plant00315-01330.jpg"
+        },
+        {
+            "image_id": "3516",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/d4n18Rtv/plant00315-03516.jpg"
+        },
+        {
+            "image_id": "3517",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/nqdmhFFd/plant00315-03517.jpg"
+        },
+        {
+            "image_id": "3518",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/ymPHYnpd/plant00315-03518.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "බුළු ශාකය, ඖෂධීය ගුණ ඇති ශාකයකි.",
+                "url": "https://youtube.com/watch?v=knI11egjdSY",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/knI11egjdSY/hqdefault.jpg"
+            },
+            {
+                "title": "Bulu බුළු / දේශීය ඖෂද හදුනා ගනිමු. / Terminalia Belerica Roxb",
+                "url": "https://youtube.com/watch?v=_UbRBx1yq3U",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/_UbRBx1yq3U/hq720.jpg"
+            },
+            {
+                "title": "Nugasewana 2021-05-11 | කේශ කල්‍යාණිය රක ගැනීමට අරළු බුළු නෙල්ලි සත්කාරය ...",
+                "url": "https://youtube.com/watch?v=W-og9Vqelbc",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/W-og9Vqelbc/hq720.jpg"
+            },
+            {
+                "title": "අරළු, බුළු, නෙල්ලි එළකිරෙන් තම්බා හිසේ ගල්වන්න, ප්‍රථිඵල ඔබව පුදුම කරාවි",
+                "url": "https://youtube.com/watch?v=yqmKPWN3X_4",
+                "duration": "18:04",
+                "thumbnail": "https://i.ytimg.com/vi/yqmKPWN3X_4/hq720.jpg"
+            },
+            {
+                "title": "Most advantageous BULU | Sirasa suwapath karana bulu | Bulu medicinal qualities | Bulu tree | බුලු",
+                "url": "https://youtube.com/watch?v=B0CRSEac6T4",
+                "duration": "13:03",
+                "thumbnail": "https://i.ytimg.com/vi/B0CRSEac6T4/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍ර රෝග, පණු රෝග ඇතුළු රෝග රැසකට ගුණ දෙන බුළු ගස",
+                "url": "https://youtube.com/watch?v=xiiqyxKwUcw",
+                "duration": "5:58",
+                "thumbnail": "https://i.ytimg.com/vi/xiiqyxKwUcw/hq720.jpg"
+            },
+            {
+                "title": "Ceylon Medicinal Plants - බුළු (Myrobalan Belliric)",
+                "url": "https://youtube.com/watch?v=iiq0cmhUMsM",
+                "duration": "1:27",
+                "thumbnail": "https://i.ytimg.com/vi/iiq0cmhUMsM/hq720.jpg"
+            },
+            {
+                "title": "බුලු ගෙඩි දැකලා නැති අයට",
+                "url": "https://youtube.com/watch?v=vyhQIgPPE2s",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/vyhQIgPPE2s/hq720.jpg"
+            },
+            {
+                "title": "බුළු ශාකය, ඖෂධීය ගුණ ඇති ශාකයකි.",
+                "url": "https://youtube.com/watch?v=KP3lz1j3nw4",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/KP3lz1j3nw4/frame0.jpg"
+            },
+            {
+                "title": "බුළු ශාකය, ඖෂධීය ගුණ ඇති ශාකයකි.",
+                "url": "https://youtube.com/watch?v=nOT2MgAEReI",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/nOT2MgAEReI/frame0.jpg"
+            },
+            {
+                "title": "Osugunalankaraya | ඔසුගුණාලංකාරය | Aralu |  අරළු | About Aralu |  අරළු බුළු නෙල්ලි | Aralu benefits",
+                "url": "https://youtube.com/watch?v=8rt31TeSsec",
+                "duration": "17:48",
+                "thumbnail": "https://i.ytimg.com/vi/8rt31TeSsec/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Vomiting",
-      "sinhala": "වමනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Calculi",
-      "sinhala": "මුත්‍රා ගල්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Insomnia",
-      "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nervous System Disorders",
-      "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Erectile Dysfunction",
-      "sinhala": "ලිංගික අප්‍රාණිකත්වය / ධ්වජභංගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits (Outer Cover)",
-    "Seeds",
-    "Bark",
-    "Oil"
-  ],
-  "images": [
-    {
-      "image_id": "1329",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/jkYGBwS9/plant00315-01329.jpg"
-    },
-    {
-      "image_id": "1330",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/1fWncCKj/plant00315-01330.jpg"
-    },
-    {
-      "image_id": "3516",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/d4n18Rtv/plant00315-03516.jpg"
-    },
-    {
-      "image_id": "3517",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/nqdmhFFd/plant00315-03517.jpg"
-    },
-    {
-      "image_id": "3518",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/ymPHYnpd/plant00315-03518.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

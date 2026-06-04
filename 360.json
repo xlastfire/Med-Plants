@@ -1,224 +1,403 @@
 {
-  "scientificName": "Coccinia grandis (L.) Voigt",
-  "synonyms": [
-    "Bryonia acerifolia D.Dietr.",
-    "Bryonia alceifolia Willd.",
-    "Bryonia barbata Buch.-Ham. ex Cogn.",
-    "Bryonia grandis L.",
-    "Bryonia moimoi Ser.",
-    "Bryonia sinuosa Wall.",
-    "Cephalandra grandis (L.) Kurz",
-    "Cephalandra indica Naudin",
-    "Cephalandra indica var. palmata C.B.Clarke",
-    "Cephalandra moghadd (Forssk. ex J.F.Gmel.) Broun & R.L.Massey",
-    "Cephalandra schimperi (Naudin) Naudin",
-    "Coccinia cordifolia var. alceifolia (Willd.) Cogn.",
-    "Coccinia cordifolia var. wightiana (M.Roem.) Cogn.",
-    "Coccinia cordifolia var. wightiana (M.Roem.) Cogn.",
-    "Coccinia grandis var. quinqueangularis Miq.",
-    "Coccinia grandis var. wightiana (M.Roem.) Greb.",
-    "Coccinia helenae Buscal. & Muschl.",
-    "Coccinia indica Wight & Arn.",
-    "Coccinia loureiroana M.Roem.",
-    "Coccinia moghadd (Forssk. ex J.F.Gmel.) Asch.",
-    "Coccinia moimoi (Ser.) M.Roem.",
-    "Coccinia palmatisecta Kotschy",
-    "Coccinia schimperi Naudin",
-    "Coccinia wightiana M.Roem.",
-    "Cucumis pavel Kostel.",
-    "Cucumis sativus var. arakis Forssk.",
-    "Cucurbita dioica Roxb. ex Wight & Arn.",
-    "Cucurbita schimperiana Hochst. ex Cogn.",
-    "Luffa moghadd (Forssk. ex J.F.Gmel.) Peterm.",
-    "Momordica bicolor Blume",
-    "Momordica covel Dennst.",
-    "Momordica monadelpha Roxb.",
-    "Physedra gracilis A.Chev.",
-    "Turia moghadd Forssk. ex J.F.Gmel."
-  ],
-  "familyName": "CUCURBITACEAE",
-  "englishNames": [
-    "Ivy Gourd",
-    "Scarlet-fruited Gourd"
-  ],
-  "sinhalaName": "Kowakka (කෝවක්කා)",
-  "description": "බහුවාර්ෂික, ආරෝහක, ද්විගෘහී (dioecious) ශාකයකි; කඳ කෝණාකාර වේ, රෝම රහිතය (glabrous); ප්‍රරෝහක (tendrils) සරල වේ. පත්‍ර වෘන්ත සහිතය; පත්‍ර තලය සෙ.මී. 3-10.5 x 3-10 ප්‍රමාණයෙන් යුක්ත වන අතර, හැඩයෙන් විවිධ වේ, පුළුල් ඩිම්බාකාර (ovate) වේ, පාදස්ථ කට්ටය (basal sinus) පළල්ය, අත්ලක හැඩයට 3-5 ක් ලෙස බෙදී ඇත (palmately lobed). මල් තනිව හෝ කලාතුරකින් යුගල වශයෙන් හටගනී, සුදු පැහැතිය. පලය සෙ.මී. 8ක් දක්වා දිගු වේ, ආයත ඩිම්බාකාර (oblong-ovoid) වේ, මාංසල වේ, තද රතු පැහැතිය. බීජ බොහෝ සංඛ්‍යාවක් ඇත, මි.මී. 7 x 3 ප්‍රමාණයෙන් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Coccinia grandis (L.) Voigt",
+    "synonyms": [
+        "Bryonia acerifolia D.Dietr.",
+        "Bryonia alceifolia Willd.",
+        "Bryonia barbata Buch.-Ham. ex Cogn.",
+        "Bryonia grandis L.",
+        "Bryonia moimoi Ser.",
+        "Bryonia sinuosa Wall.",
+        "Cephalandra grandis (L.) Kurz",
+        "Cephalandra indica Naudin",
+        "Cephalandra indica var. palmata C.B.Clarke",
+        "Cephalandra moghadd (Forssk. ex J.F.Gmel.) Broun & R.L.Massey",
+        "Cephalandra schimperi (Naudin) Naudin",
+        "Coccinia cordifolia var. alceifolia (Willd.) Cogn.",
+        "Coccinia cordifolia var. wightiana (M.Roem.) Cogn.",
+        "Coccinia cordifolia var. wightiana (M.Roem.) Cogn.",
+        "Coccinia grandis var. quinqueangularis Miq.",
+        "Coccinia grandis var. wightiana (M.Roem.) Greb.",
+        "Coccinia helenae Buscal. & Muschl.",
+        "Coccinia indica Wight & Arn.",
+        "Coccinia loureiroana M.Roem.",
+        "Coccinia moghadd (Forssk. ex J.F.Gmel.) Asch.",
+        "Coccinia moimoi (Ser.) M.Roem.",
+        "Coccinia palmatisecta Kotschy",
+        "Coccinia schimperi Naudin",
+        "Coccinia wightiana M.Roem.",
+        "Cucumis pavel Kostel.",
+        "Cucumis sativus var. arakis Forssk.",
+        "Cucurbita dioica Roxb. ex Wight & Arn.",
+        "Cucurbita schimperiana Hochst. ex Cogn.",
+        "Luffa moghadd (Forssk. ex J.F.Gmel.) Peterm.",
+        "Momordica bicolor Blume",
+        "Momordica covel Dennst.",
+        "Momordica monadelpha Roxb.",
+        "Physedra gracilis A.Chev.",
+        "Turia moghadd Forssk. ex J.F.Gmel."
+    ],
+    "familyName": "CUCURBITACEAE",
+    "englishNames": [
+        "Ivy Gourd",
+        "Scarlet-fruited Gourd"
+    ],
+    "sinhalaName": "Kowakka (කෝවක්කා)",
+    "description": "බහුවාර්ෂික, ආරෝහක, ද්විගෘහී (dioecious) ශාකයකි; කඳ කෝණාකාර වේ, රෝම රහිතය (glabrous); ප්‍රරෝහක (tendrils) සරල වේ. පත්‍ර වෘන්ත සහිතය; පත්‍ර තලය සෙ.මී. 3-10.5 x 3-10 ප්‍රමාණයෙන් යුක්ත වන අතර, හැඩයෙන් විවිධ වේ, පුළුල් ඩිම්බාකාර (ovate) වේ, පාදස්ථ කට්ටය (basal sinus) පළල්ය, අත්ලක හැඩයට 3-5 ක් ලෙස බෙදී ඇත (palmately lobed). මල් තනිව හෝ කලාතුරකින් යුගල වශයෙන් හටගනී, සුදු පැහැතිය. පලය සෙ.මී. 8ක් දක්වා දිගු වේ, ආයත ඩිම්බාකාර (oblong-ovoid) වේ, මාංසල වේ, තද රතු පැහැතිය. බීජ බොහෝ සංඛ්‍යාවක් ඇත, මි.මී. 7 x 3 ප්‍රමාණයෙන් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Polyuria",
+            "sinhala": "බහුමුත්‍රතාව (අධික ලෙස මුත්‍රා පිටවීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Menorrhagia",
+            "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Anemia",
+            "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant"
+    ],
+    "images": [
+        {
+            "image_id": "198",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/zTGJsxK4/plant00360-00198.jpg"
+        },
+        {
+            "image_id": "199",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/KppWdhjM/plant00360-00199.jpg"
+        },
+        {
+            "image_id": "500",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/SXmQRswm/plant00360-00500.jpg"
+        },
+        {
+            "image_id": "3530",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/R8ywFPV/plant00360-03530.jpg"
+        },
+        {
+            "image_id": "3531",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/8DPb2KFy/plant00360-03531.jpg"
+        },
+        {
+            "image_id": "3532",
+            "caption": "Mature stem (PMR)",
+            "url": "https://i.ibb.co/ZrKzgRh/plant00360-03532.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "සීනි වලට හොදයි කියලා හොය හොය කන කෝවක්කා ගැන ඔබ නොදන්නා නරක දෙයක් මෙන්න",
+                "url": "https://youtube.com/watch?v=uFOZvyhH7bU",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/uFOZvyhH7bU/hq720.jpg"
+            },
+            {
+                "title": "කෝවක්කා ගුණ මහිම .රුධිරගත සීනි පාලනයට . Kowakka /Lvy gourd /Coccinia grandis.",
+                "url": "https://youtube.com/watch?v=QPge4vdeK6o",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/QPge4vdeK6o/hq720.jpg"
+            },
+            {
+                "title": "Kowakka| කෝවක්කා සතු විශ්ම්ත ඔසු ගුණ🌿🍀",
+                "url": "https://youtube.com/watch?v=zIqi6y227Pk",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/zIqi6y227Pk/hq720.jpg"
+            },
+            {
+                "title": "✔ රූධිරයේ සීනි පාලනය කරන කෝවක්කා මැල්ලුම Kowakka Malluma by Apé Amma",
+                "url": "https://youtube.com/watch?v=HoGH4GPT4CA",
+                "duration": "5:35",
+                "thumbnail": "https://i.ytimg.com/vi/HoGH4GPT4CA/hq720.jpg"
+            },
+            {
+                "title": "කෝවක්කා පිළිබඳ වීඩියෝව නරඹමු /sobadahama /කෝවක්කා /koowakka / kowakka",
+                "url": "https://youtube.com/watch?v=FMcEmEOnPiw",
+                "duration": "7:17",
+                "thumbnail": "https://i.ytimg.com/vi/FMcEmEOnPiw/hqdefault.jpg"
+            },
+            {
+                "title": "කෝවක්කා ගෙඩි වල තිබෙන සූවිසාල ගූණයන් දන්නවාද #kowakka#gediwala#gunayan",
+                "url": "https://youtube.com/watch?v=mMQnBA0t2DQ",
+                "duration": "6:08",
+                "thumbnail": "https://i.ytimg.com/vi/mMQnBA0t2DQ/hq720.jpg"
+            },
+            {
+                "title": "healthy kowakka ( ivy gourd ) curry - good for diabetes -සීනි පාලනය කරන ඔෂදිය කෝවක්කා මාළුව.",
+                "url": "https://youtube.com/watch?v=LbpzvBLT2ug",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/LbpzvBLT2ug/hqdefault.jpg"
+            },
+            {
+                "title": "දිව්‍ය ඖෂධයක් බඳු කෝවක්කා  පිළිබඳ   ආයුර්වේද වෛද්‍ය තාරක සම්න්ත ශ්‍රී මහතා සමග ආයුර්වේදීය  විවරණයක්",
+                "url": "https://youtube.com/watch?v=5oSYifXgSAk",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/5oSYifXgSAk/hq720.jpg"
+            },
+            {
+                "title": "කෝවක්කා සම්බෝලය/Ivy Gourd Salad.",
+                "url": "https://youtube.com/watch?v=qv3rckYAJH0",
+                "duration": "4:16",
+                "thumbnail": "https://i.ytimg.com/vi/qv3rckYAJH0/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සුව කරන ඔසු | කෝවක්කා | Kowakka  @osu-1380",
+                "url": "https://youtube.com/watch?v=flh-qT2xhZ4",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/flh-qT2xhZ4/hqdefault.jpg"
+            },
+            {
+                "title": "Coccinia grandis කෙන්ගෙඩි කෑවොත් වෙන දේ දන්නවද?",
+                "url": "https://youtube.com/watch?v=kKa5frPP1bY",
+                "duration": "5:04",
+                "thumbnail": "https://i.ytimg.com/vi/kKa5frPP1bY/hq720.jpg"
+            },
+            {
+                "title": "✔ රුධීරයේ සීනි වහාම අඩු කරන කෝවක්කා Kowakka sambol to control blood sugar levels by Apé Amma",
+                "url": "https://youtube.com/watch?v=z7DBRc7cn38",
+                "duration": "8:14",
+                "thumbnail": "https://i.ytimg.com/vi/z7DBRc7cn38/hq720.jpg"
+            },
+            {
+                "title": "කෝවක්කා ගෙඩි වැන්ජනය🍱 | Easy Kowakka Curry | Village Style Cooking Kowakka (Ivy Gourd) Curry #food",
+                "url": "https://youtube.com/watch?v=STncBqOOEbU",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/STncBqOOEbU/hq720.jpg"
+            },
+            {
+                "title": "රුධිරයේ සීනි මට්ටම අඩු කරනගුණයෙන් සපිරි කෝවක්කා මාලුව/ivy guard curry/ape gedara kaema .",
+                "url": "https://youtube.com/watch?v=vgIIBg_4nLo",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/vgIIBg_4nLo/hq720.jpg"
+            },
+            {
+                "title": "කෝවක්කා කෑවොත් වෙන දේ මෙන්න kowakka",
+                "url": "https://youtube.com/watch?v=pKKiijA3QZU",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/pKKiijA3QZU/hqdefault.jpg"
+            },
+            {
+                "title": "කවුරුත් නොදන්න කොවක්කා වල ගුණය.....",
+                "url": "https://youtube.com/watch?v=J42zFMcOUk4",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/J42zFMcOUk4/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග රැසක් සුවකරන කෝවක්කා වල විශ්මිත ගුණය - Amazing quality of kowakka which cures many diseases",
+                "url": "https://youtube.com/watch?v=eg6d4Tc7_UI",
+                "duration": "5:18",
+                "thumbnail": "https://i.ytimg.com/vi/eg6d4Tc7_UI/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කල හැකි කොවක්කා කොළ වලින් සලාදයක්/Natural Herb For Diabetes/Coccinia grandis",
+                "url": "https://youtube.com/watch?v=sFw8qCU1bAk",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/sFw8qCU1bAk/hqdefault.jpg"
+            },
+            {
+                "title": "kengedi",
+                "url": "https://youtube.com/watch?v=UPgIYL10XWE",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/UPgIYL10XWE/hq720.jpg"
+            },
+            {
+                "title": "Covacca is a medicine for diabetes #දියවැඩියාවට කෝවක්කා කොල  හෙල #ඔසු මේවා #herbal plants #diabetes",
+                "url": "https://youtube.com/watch?v=XB-bDpVsVV8",
+                "duration": "9:23",
+                "thumbnail": "https://i.ytimg.com/vi/XB-bDpVsVV8/hq720.jpg"
+            },
+            {
+                "title": "Kowakka Diabaties ‍කෝවක්කා යොදාගෙන දියවැඩියාව පාලනයට ඖෂධයක් නිපදවයි",
+                "url": "https://youtube.com/watch?v=U-qHDojxsWY",
+                "duration": "11:17",
+                "thumbnail": "https://i.ytimg.com/vi/U-qHDojxsWY/hqdefault.jpg"
+            },
+            {
+                "title": "කෝවක්කා ගුණ මහිම .රුධිරගත සීනි පාලනයට . Kowakka /Lvy gourd /Coccinia grandis.",
+                "url": "https://youtube.com/watch?v=NEFRDOCkMk8",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/NEFRDOCkMk8/frame0.jpg"
+            },
+            {
+                "title": "දියවැඩියාව මට්ටු කරන කෝවක්කා | Kowakka | Ivy Gourd | Scarlet-fruited Gourd | Kovvai",
+                "url": "https://youtube.com/watch?v=NZ_AYvGADpY",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/NZ_AYvGADpY/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රතිඔක්සිකාරක සහිත දියවැඩියාව පාලනය කරන කෝවක්කා. kowakka. @village-s6h5k",
+                "url": "https://youtube.com/watch?v=Zbt2DWf-pV8",
+                "duration": "10:01",
+                "thumbnail": "https://i.ytimg.com/vi/Zbt2DWf-pV8/hqdefault.jpg"
+            },
+            {
+                "title": "කෝවක්කා කොළ සම්බෝල - Kowakka Sambol",
+                "url": "https://youtube.com/watch?v=GXxmR5zwfJo",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/GXxmR5zwfJo/hqdefault.jpg"
+            },
+            {
+                "title": "සීනි වලට හොය හොය කන | කෝවක්කා |කෝවක්කා ගෙඩි මාලුව | කෝවක්කා කොල මැල්ලුම | kowakka | 2023",
+                "url": "https://youtube.com/watch?v=oTAiBB7BoN4",
+                "duration": "8:50",
+                "thumbnail": "https://i.ytimg.com/vi/oTAiBB7BoN4/hqdefault.jpg"
+            },
+            {
+                "title": "[SriLanka Wildflowers]#tindora#Kowakka(කෝවක්කා)#Kovvai#Bimbika#Coccinia grandis #열대식물#tropical plant",
+                "url": "https://youtube.com/watch?v=d7hEoAiU0HI",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/d7hEoAiU0HI/hq720.jpg"
+            },
+            {
+                "title": "කෝවක්කා ගුණ මහිම .රුධිරගත සීනි පාලනයට . Kowakka /Lvy gourd /Coccinia grandis.",
+                "url": "https://youtube.com/watch?v=5HGHoS_ros4",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/5HGHoS_ros4/frame0.jpg"
+            },
+            {
+                "title": "Benefits of Ivy Gourd leaves # Ivy Gourd Leaves",
+                "url": "https://youtube.com/watch?v=UCnZXtKPnA0",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/UCnZXtKPnA0/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Polyuria",
-      "sinhala": "බහුමුත්‍රතාව (අධික ලෙස මුත්‍රා පිටවීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Menorrhagia",
-      "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Anemia",
-      "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant"
-  ],
-  "images": [
-    {
-      "image_id": "198",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/zTGJsxK4/plant00360-00198.jpg"
-    },
-    {
-      "image_id": "199",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/KppWdhjM/plant00360-00199.jpg"
-    },
-    {
-      "image_id": "500",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/SXmQRswm/plant00360-00500.jpg"
-    },
-    {
-      "image_id": "3530",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/R8ywFPV/plant00360-03530.jpg"
-    },
-    {
-      "image_id": "3531",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/8DPb2KFy/plant00360-03531.jpg"
-    },
-    {
-      "image_id": "3532",
-      "caption": "Mature stem (PMR)",
-      "url": "https://i.ibb.co/ZrKzgRh/plant00360-03532.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

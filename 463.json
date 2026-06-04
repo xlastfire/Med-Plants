@@ -1,23 +1,646 @@
 {
-  "scientificName": "Elaeocarpus montanus Thwaites",
-  "synonyms": [],
-  "familyName": "ELAEOCARPACEAE",
-  "englishNames": [],
-  "sinhalaName": "Gal weralu (ගල්වෙරළු)",
-  "description": "",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "3231",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/kgzsnXSw/plant00463-03231.jpg"
+    "scientificName": "Elaeocarpus montanus Thwaites",
+    "synonyms": [],
+    "familyName": "ELAEOCARPACEAE",
+    "englishNames": [],
+    "sinhalaName": "Gal weralu (ගල්වෙරළු)",
+    "description": "",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "3231",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/kgzsnXSw/plant00463-03231.jpg"
+        },
+        {
+            "image_id": "3232",
+            "caption": "Twig  (PMR)",
+            "url": "https://i.ibb.co/CsMG6mP6/plant00463-03232.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "විනාඩි 5න් කූණිස්සෝ දාලා සුපිරි ගෝවා බැදුමක් 😋 #srilanka #cooking #shorts",
+                "url": "https://youtube.com/watch?v=-fEvPpvXtXU",
+                "duration": "0:24",
+                "thumbnail": "https://i.ytimg.com/vi/-fEvPpvXtXU/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "''වැඩි තෙල් ප්‍රමාණයක් ආනයනය කරන්න වෙන්නේ බාල ගල් අඟුරු නිසාද?'' - Hiru News",
+                "url": "https://youtube.com/watch?v=DZGi7gbzNwY",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/DZGi7gbzNwY/hq720.jpg"
+            },
+            {
+                "title": "මට ගැහුවොත් 1 vs 4 | ROAD TO 20k",
+                "url": "https://youtube.com/watch?v=jsZJIsub6CA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/jsZJIsub6CA/hq720.jpg"
+            },
+            {
+                "title": "සුපිරිම දන්සල වැල්ලවායෙන් | ඇතිලිවැව වළං හදන මිනිස්සු එකතුවෙලා ලක්ෂ ගාණක් වටිනා වළං තොගයක් පිනට දෙයි",
+                "url": "https://youtube.com/watch?v=Y3u96VgTmyA",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/Y3u96VgTmyA/hq720.jpg"
+            },
+            {
+                "title": "''බාල ගල් අඟුරුවලට දඩ ගැසීම අනිවාර්යෙන් සිද්ධ වෙනවා'' - Hiru News",
+                "url": "https://youtube.com/watch?v=vGchnjohsdc",
+                "duration": "5:43",
+                "thumbnail": "https://i.ytimg.com/vi/vGchnjohsdc/hq720.jpg"
+            },
+            {
+                "title": "අද දවල්ට ඉව්වෙ කැකුලු බත්,පතෝල කිරට,ලූනු තෙල් දාලා,මිරිස් බැදලා,කොස් කූරු ගාලා 😊👩🏻‍🍳 #lunchmenu",
+                "url": "https://youtube.com/watch?v=DkBbtIDgAnI",
+                "duration": "0:23",
+                "thumbnail": "https://i.ytimg.com/vi/DkBbtIDgAnI/hq720.jpg"
+            },
+            {
+                "title": "එක ගම්මිරිස් වැලක් තිබුනොත් ගෙදරට අවශ්‍ය මුළු ගම්මිරිස් අස්වැන්න ලබා ගන්න පුලුවන් කියලා ඔබ දන්නවද",
+                "url": "https://youtube.com/watch?v=HSCbYbX5n-c",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/HSCbYbX5n-c/hq720_2.jpg"
+            },
+            {
+                "title": "ඇලෙන් අල්ලපු මාළු රසට උයලා එතනම රහ බැලුවා 🎣 Fresh Fish Catch & Cook  #nature #villagelife #fishing",
+                "url": "https://youtube.com/watch?v=oSeUeqLxJzc",
+                "duration": "27:19",
+                "thumbnail": "https://i.ytimg.com/vi/oSeUeqLxJzc/hq720.jpg"
+            },
+            {
+                "title": "වැඩිපුර තෙල් ගෙන්නන්නේ බාල ගල් අඟුරු නිසාද? කැබිනට් මණ්ඩලයේදී මතු වූ ප්‍රශ්නය!",
+                "url": "https://youtube.com/watch?v=ioe7ut-8HO4",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/ioe7ut-8HO4/hq720.jpg"
+            },
+            {
+                "title": "ලුණුගල ගින්නකින් නිවසක් සම්පූර්ණයෙන් විනාශ වෙයි",
+                "url": "https://youtube.com/watch?v=CYB5uVjYyEs",
+                "duration": "1:17",
+                "thumbnail": "https://i.ytimg.com/vi/CYB5uVjYyEs/hq720.jpg"
+            },
+            {
+                "title": "ලග්ගල හරහා රිවස්ටර්න් ‍යන පාරට වැටුණු තඩි කළු ගල - වංගුවක් අස්සේ නිලධාරීන් කණු ගහලා ගල වටේට",
+                "url": "https://youtube.com/watch?v=C4q0MHzcb1g",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/C4q0MHzcb1g/hq720.jpg"
+            },
+            {
+                "title": "GL ගේ ගෙදර වැඩේ සුපිරියටම පත්තු වෙයි ප්‍රසන්න රණතුන්ග සියල්ල වමාරයි",
+                "url": "https://youtube.com/watch?v=tOCf6_X0Aco",
+                "duration": "8:25",
+                "thumbnail": "https://i.ytimg.com/vi/tOCf6_X0Aco/hq720.jpg"
+            },
+            {
+                "title": "ගල් අඟුරුවල ප්‍රමිතිය ගැන බලශක්ති ඇමතිගෙන් ප්‍රකාශයක් | Rupavahini News",
+                "url": "https://youtube.com/watch?v=LlWoeQuxAgk",
+                "duration": "5:58",
+                "thumbnail": "https://i.ytimg.com/vi/LlWoeQuxAgk/hq720.jpg"
+            },
+            {
+                "title": "බාන්නවත් සුදුසු නැති ගල් අඟුරු නෞකාවක් ගැන ෆ්‍රී ලෝයර්ස් තවත් දැවැන්ත හෙළිදරව්වක් කරයි - Hiru News",
+                "url": "https://youtube.com/watch?v=KvBZuU26Jeo",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/KvBZuU26Jeo/hq720.jpg"
+            },
+            {
+                "title": "නොරොච්චෝලෙට එන බාලම ගල් අඟුරු නැව ගැන ෆ්‍රී ලෝයර්ස් අලුත්ම අනාවරණය",
+                "url": "https://youtube.com/watch?v=_bcoexbDe2g",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/_bcoexbDe2g/hq720.jpg"
+            },
+            {
+                "title": "කැමති අයට හරි සුවඳයිලූ.. අනිත් අයට පුදුම ගඳයිලූ..... කරවල යක්‍ලූ #food #lovefood #deliciousfoods",
+                "url": "https://youtube.com/watch?v=rVVYFVg8ak8",
+                "duration": "0:47",
+                "thumbnail": "https://i.ytimg.com/vi/rVVYFVg8ak8/hq720.jpg"
+            },
+            {
+                "title": "ඔළුගෙඩි මාරු පනතට හේතුව කදිරගාමර්ලාගේ දෙදරිල්ලක්ද? | සජබෙන් හෙළිදරව්වක්",
+                "url": "https://youtube.com/watch?v=V6x2DfnEZRk",
+                "duration": "11:39",
+                "thumbnail": "https://i.ytimg.com/vi/V6x2DfnEZRk/hq720.jpg"
+            },
+            {
+                "title": "Special PCoI Moves to Next Phase in Coal Probe",
+                "url": "https://youtube.com/watch?v=cM8-XAda6-4",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/cM8-XAda6-4/hq720.jpg"
+            },
+            {
+                "title": "සතියක් පුරා ගල්ගුහාවක සිරව සිටි ලාඕස ගම්වාසීන් හත්දෙනෙක් ගෙන් පහක් මුදාගැනේ - Hiru News",
+                "url": "https://youtube.com/watch?v=dpGIdMrBPvI",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/dpGIdMrBPvI/hq720.jpg"
+            },
+            {
+                "title": "ගල්අඟුරු කොමිසම ටිල්වින්ගෙන් ප්‍රශ්න කරයි",
+                "url": "https://youtube.com/watch?v=U5BYpwD4ZoQ",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/U5BYpwD4ZoQ/hq720.jpg"
+            },
+            {
+                "title": "කැලණි ගං ජලය.. වැල්ලම්පිටියට ගලා එන විදිය.. වෙලේවත්ත යටවෙයි | Ada Derana",
+                "url": "https://youtube.com/watch?v=xl0yjyFsAhQ",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/xl0yjyFsAhQ/hq720_2.jpg"
+            },
+            {
+                "title": "ගල්කූර ශාකයේ ඇති විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=6WMO4IRJVqM",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/6WMO4IRJVqM/hqdefault.jpg"
+            },
+            {
+                "title": "බැල තණ (Gooes Grass) වල තියන විශ්මිත ගුනය දන්නවද?",
+                "url": "https://youtube.com/watch?v=VbVpVf5sw3Y",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/VbVpVf5sw3Y/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි  මේ තරම් ගුණ ඇයි | about Coriander..",
+                "url": "https://youtube.com/watch?v=0Rj9hHX2RIg",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/0Rj9hHX2RIg/hqdefault.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ගුණ. Aloe Vera.",
+                "url": "https://youtube.com/watch?v=Ad2OmCX59-c",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/Ad2OmCX59-c/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැට වල ඔබ නොදන්නා වූ ගුණ!!!!!",
+                "url": "https://youtube.com/watch?v=nMRSa6iCjjI",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/nMRSa6iCjjI/hqdefault.jpg"
+            },
+            {
+                "title": "ගැබිනි මවුවරුන්ට ඉතාමත් ගුණ දායක වෙරළු | weralu | Elaeocarpus serratus",
+                "url": "https://youtube.com/watch?v=cboxlyPwr6E",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/cboxlyPwr6E/hqdefault.jpg"
+            },
+            {
+                "title": "🔴🔵රටකජු වල සැඟවුණු \"ගුණ සහ අගුණ\" මෙන්න | Benefits and Risks of Peanuts Sinhala | Hela Suwa TV",
+                "url": "https://youtube.com/watch?v=BIFcznWW2So",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/BIFcznWW2So/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "බෙලි කෑවොත් වෙන දේ දැනගන්න : Benefits of Bael fruit",
+                "url": "https://youtube.com/watch?v=95C7jjLiwxA",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/95C7jjLiwxA/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "uluhal guna-දියවැඩියාවට ගුණ දෙන උළුහාල්",
+                "url": "https://youtube.com/watch?v=o-yN-slEvbo",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/o-yN-slEvbo/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටවල ඖෂධීය ගුණ - Health benefits of Venivel geta",
+                "url": "https://youtube.com/watch?v=1g7Z4fKvNdg",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/1g7Z4fKvNdg/hq720.jpg"
+            },
+            {
+                "title": "ගොනු කෑ කොළ හෙවත් ගොනිකා වල විශ්මිත සුව කිරීමේ ගුණ | @Sakalawaga | #gonika #ගොනිකා",
+                "url": "https://youtube.com/watch?v=y5dCYJS7zRE",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/y5dCYJS7zRE/hqdefault.jpg"
+            },
+            {
+                "title": "#Aratuwa# Gotukola # ගොටුකොළවල ගුණ ඔබ දන්නවාද #",
+                "url": "https://youtube.com/watch?v=LatcXZZ0Dl4",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/LatcXZZ0Dl4/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "වෙරළු අච්චාරු😋🤪 | Amazing Olive Pickle😈 #viral #shorts @villagehutlife",
+                "url": "https://youtube.com/watch?v=84gezRUUa-4",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/84gezRUUa-4/hq720.jpg"
+            },
+            {
+                "title": "කෝටි ගණන් නිවසට කැන්දන ලොව වාසනාවන්තම පැළෑටි 7 #srilanka #asmr  #sinhalasong  #karaoke #slnews",
+                "url": "https://youtube.com/watch?v=WNnzVKEmYzU",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/WNnzVKEmYzU/hq720.jpg"
+            },
+            {
+                "title": "Olive Pickle (Weralu Achcharu)",
+                "url": "https://youtube.com/watch?v=ozALzdYfMyg",
+                "duration": "0:55",
+                "thumbnail": "https://i.ytimg.com/vi/ozALzdYfMyg/hq720_2.jpg"
+            },
+            {
+                "title": "එංගලන්තෙ සෙමට දෙන එකම බෙහෙත 😍 Immunity booster drink✌️  #shorts",
+                "url": "https://youtube.com/watch?v=CM-n4X4b_4M",
+                "duration": "0:42",
+                "thumbnail": "https://i.ytimg.com/vi/CM-n4X4b_4M/hq720_2.jpg"
+            },
+            {
+                "title": "මේ වගේ ගල්  🇱🇰  දැක්කොත් විසි කරන්න එපා,රූබි මැණික්  ස්ඵටික/Rubby gems crystal / #shortvidieo#viral",
+                "url": "https://youtube.com/watch?v=1qGmW5y2vuE",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/1qGmW5y2vuE/hq720_2.jpg"
+            },
+            {
+                "title": "වකුගඩු වල ගල් දිය කරන 👌 ඖෂධීය අක්කපාන බීම😍 | akkapana drink #healthydrink #easydrink #drink",
+                "url": "https://youtube.com/watch?v=KZ9roiXgDGA",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/KZ9roiXgDGA/hq720.jpg"
+            },
+            {
+                "title": "කැකිරි බිමක් හදමූ මුත්‍රා ගල් වලට හොදම බෙහෙත #food #cooking #shorts #juice",
+                "url": "https://youtube.com/watch?v=WZHE4QYL-Vw",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/WZHE4QYL-Vw/hq720.jpg"
+            },
+            {
+                "title": "Do you know this? 😋 | Ceylon Olives | රස වෑහෙන වෙරලු අච්චාරු මෙහෙම කාලා තියනවද ඔයත්? 😍 | #shorts",
+                "url": "https://youtube.com/watch?v=1l6PpsEub6Y",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/1l6PpsEub6Y/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ගල් ඇති රෝගීන්ට සුදුසු ආහාර කිහිපයක්🤒😧#shortvideo",
+                "url": "https://youtube.com/watch?v=xBjGUwefJRE",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/xBjGUwefJRE/hq720_2.jpg"
+            },
+            {
+                "title": "අක්මාව පිරිසිදු කරන ආහාර 10 ක් | 10 Foods That Cleanse The Liver | Liver Health |",
+                "url": "https://youtube.com/watch?v=w0u4iw5b4f0",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/w0u4iw5b4f0/hq720.jpg"
+            },
+            {
+                "title": "මූත්‍රා ගල් සුව කරන ආහාර..😯🥦🥒",
+                "url": "https://youtube.com/watch?v=jW_L26b0xkc",
+                "duration": "0:26",
+                "thumbnail": "https://i.ytimg.com/vi/jW_L26b0xkc/hq720_2.jpg"
+            },
+            {
+                "title": "දවස් 10 න් බඩ බහින්න පටන් ගනිවි | Recipes for Helthy | athal kitchen curry leaves|Karapincha sambole",
+                "url": "https://youtube.com/watch?v=l3e14IDzSLY",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/l3e14IDzSLY/hqdefault.jpg"
+            },
+            {
+                "title": "ඇස් කහ වෙලාද පිත්තාශයේ ගල් | Understanding Gallstones",
+                "url": "https://youtube.com/watch?v=9ouq-7fysJA",
+                "duration": "0:54",
+                "thumbnail": "https://i.ytimg.com/vi/9ouq-7fysJA/hq720_2.jpg"
+            },
+            {
+                "title": "පිත්තාශයේ ගල් සැලකිලිමත් විය යුතු රෝගී තත්ත්වයකි. #kingshospitalcolombo #kingscare #kingshospital",
+                "url": "https://youtube.com/watch?v=Fi2bSsUoHW4",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/Fi2bSsUoHW4/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ගල් තියෙද කියල බලාගන්නෙ මෙහෙමයි.. #health #cancer #pain #sujeewa #wakugadu",
+                "url": "https://youtube.com/watch?v=qL1XUqNU04o",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/qL1XUqNU04o/hq720.jpg"
+            },
+            {
+                "title": "වෙරළු වල ගුණ Local Olive👌🍐🍐🍐👌#educationalshorts #trendingshorts",
+                "url": "https://youtube.com/watch?v=T_WX0ZYg1zg",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/T_WX0ZYg1zg/hq720.jpg"
+            },
+            {
+                "title": "ඔලුවෙ කැක්කුමට අත් බෙහෙතක් 🤧 Home Remedy For Headaches From My Father",
+                "url": "https://youtube.com/watch?v=H18axN_KiKY",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/H18axN_KiKY/hq720.jpg"
+            },
+            {
+                "title": "How to heal foot corns permanently | ගල් තැලුම් නිට්ටාවටම සුව කරගන්නේ කොහොමද? | Dr Nimali Nuwandika",
+                "url": "https://youtube.com/watch?v=BvTA2RXjhq0",
+                "duration": "0:59",
+                "thumbnail": "https://i.ytimg.com/vi/BvTA2RXjhq0/hq720.jpg"
+            },
+            {
+                "title": "Handmade a simple trigger mechanism # Craft Design # Cool idea for you enjoy",
+                "url": "https://youtube.com/watch?v=Gw93YEx13Aw",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/Gw93YEx13Aw/hq720_2.jpg"
+            },
+            {
+                "title": "Food for patients with kidney stones _මුත්‍රා මාර්ගයේ ගල් සෑදුන ඔබට පෝෂණ උපදෙස් -Dr.Dil _කෑම Doctor",
+                "url": "https://youtube.com/watch?v=IluIU7m6JPE",
+                "duration": "12:21",
+                "thumbnail": "https://i.ytimg.com/vi/IluIU7m6JPE/hq720.jpg"
+            },
+            {
+                "title": "ගල් දෙමට ඖෂධ සාකය",
+                "url": "https://youtube.com/watch?v=Vdl15i02Gl4",
+                "duration": "1:32",
+                "thumbnail": "https://i.ytimg.com/vi/Vdl15i02Gl4/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු ගල් සදහා හොඳම ආහාර 05 ක්...",
+                "url": "https://youtube.com/watch?v=jXWvg2Wrc18",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/jXWvg2Wrc18/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ගොලුබෙලි කරදරේට සාර්ථකම විසදුම් 03 ක්, පැත්ත පළාතේ එන් නෑ ආය /how to get rid snails in garden/2025",
+                "url": "https://youtube.com/watch?v=1A3j_NOrP5Q",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/1A3j_NOrP5Q/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ශාක මුල් වර්ග සහ මුල් වල කාර්යයන් හඳුනාගනිමු 7 ශ්‍රේණිය විද්‍යාව පාඩම 5 ශ්‍රේණිය ශිෂ්‍යත්ව පාඩම",
+                "url": "https://youtube.com/watch?v=kvFjv5iGtFM",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/kvFjv5iGtFM/hq720.jpg"
+            },
+            {
+                "title": "වල් පැලයක් කියලා ගලවල දාන, රෝග රැසකට ගුණදෙන මොනවද මේ හැඩපත්",
+                "url": "https://youtube.com/watch?v=97R-ZlmHpok",
+                "duration": "4:53",
+                "thumbnail": "https://i.ytimg.com/vi/97R-ZlmHpok/hq720.jpg"
+            },
+            {
+                "title": "මේ දිනවල රට පුරා පැතිරෙන ලෙඩේට සැබෑ හේතුව කුමක්ද? ශාඛ සහ බීජ වල කල්පයක් පුරා පවතින වීර්ය කුමක්ද?",
+                "url": "https://youtube.com/watch?v=8YROIPMGNVc",
+                "duration": "25:24",
+                "thumbnail": "https://i.ytimg.com/vi/8YROIPMGNVc/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ ප්‍රදේශයෙත්  පත්තෑයො ඉන්නවද? | ගෙවත්තක තියෙන්නම ඕන ඔසුව | Garudaraja | Ceylon Agri |Episode 332",
+                "url": "https://youtube.com/watch?v=NfkliccJ4EM",
+                "duration": "7:12",
+                "thumbnail": "https://i.ytimg.com/vi/NfkliccJ4EM/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | පැළෑටි සහ ගස්වැල් | Palati saha gaswal",
+                "url": "https://youtube.com/watch?v=8CekKXRF4EU",
+                "duration": "26:36",
+                "thumbnail": "https://i.ytimg.com/vi/8CekKXRF4EU/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "විටමින් සහ ඛනිජ  ලවන බහුල අලකොල.(දිගිකල් ජීවත්වීමේ රහස් )",
+                "url": "https://youtube.com/watch?v=e7L70ribu00",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/e7L70ribu00/hq720.jpg"
+            },
+            {
+                "title": "ලක්ෂගනන් ලාභ ගන්න මේ රෝග ගැන දැනගන වගාකරන්න/Greenhouse grow #news #gardening",
+                "url": "https://youtube.com/watch?v=Nfc1ZZUz7w0",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/Nfc1ZZUz7w0/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "8 Things About Arugula Greens - Rocket Lettuce Nutrition",
+                "url": "https://youtube.com/watch?v=DkVQINORQdA",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/DkVQINORQdA/hq720.jpg"
+            },
+            {
+                "title": "Amazing Arugula: 6 Benefits",
+                "url": "https://youtube.com/watch?v=veel2QMC-Xc",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/veel2QMC-Xc/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits Of Arugula",
+                "url": "https://youtube.com/watch?v=yOmplNPofck",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/yOmplNPofck/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "9 Surprising Health Benefits of Galangal",
+                "url": "https://youtube.com/watch?v=uGmQqjyNRH0",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/uGmQqjyNRH0/hq720.jpg"
+            },
+            {
+                "title": "දැකලා තියනවද නිල්වෙරලු හැදෙන විදිහ / Have you seen blue Olive",
+                "url": "https://youtube.com/watch?v=xb0KKK9LlSs",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/xb0KKK9LlSs/hq720.jpg"
+            },
+            {
+                "title": "8 Things About Arugula Greens - Rocket Lettuce Nutrition",
+                "url": "https://youtube.com/watch?v=R7TIk6BiqFY",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/R7TIk6BiqFY/frame0.jpg"
+            },
+            {
+                "title": "ඇගේ උෂ්ණ ගතියට වෙනිවැල්ගැට පානය / Venivel Geta #health #drink #sinhala",
+                "url": "https://youtube.com/watch?v=0jE2KzyfB6s",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/0jE2KzyfB6s/hqdefault.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටවල ඖෂධීය ගුණ : Health benefits of Venivelgeta",
+                "url": "https://youtube.com/watch?v=B_GgVEA1A7U",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/B_GgVEA1A7U/hq720.jpg"
+            },
+            {
+                "title": "හිගුරල|හාතාවාරිය|Hathawariyaguna|higuralaguna|suwahasclinic",
+                "url": "https://youtube.com/watch?v=nKSpQzGrwyc",
+                "duration": "16:17",
+                "thumbnail": "https://i.ytimg.com/vi/nKSpQzGrwyc/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල් වල විශ්මිත ගුණ - Amazing properties of fenugreek For a healthy life",
+                "url": "https://youtube.com/watch?v=J_Tddx76e_w",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/J_Tddx76e_w/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු ගොඩගන්න විතරක් නෙමෙයි මේව කනවනම් කාටිලේජත් වැඩෙනව - දිය බෙරලිය",
+                "url": "https://youtube.com/watch?v=a4jM5h4UCtQ",
+                "duration": "6:37",
+                "thumbnail": "https://i.ytimg.com/vi/a4jM5h4UCtQ/hq720.jpg"
+            },
+            {
+                "title": "Gotukola and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LcQ_lwSLdIA",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/LcQ_lwSLdIA/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ කෑවම මොකද වෙන්නෙ : Health benefits of Kiri Aguna",
+                "url": "https://youtube.com/watch?v=o8vWzWsojxI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/o8vWzWsojxI/hq720.jpg"
+            },
+            {
+                "title": "ඔයා දන්නවද ? කැරට් ගුණ උයලා කෑවම විතරයි🥕👌 #cookingshorts #srilankanfood #ruwaakitchen #carrot",
+                "url": "https://youtube.com/watch?v=_Mit5hLshcw",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/_Mit5hLshcw/hq720.jpg"
+            },
+            {
+                "title": "ගුණය අහකදාන්නේ නැතිව මෙහෙම හදාගන්න  ගොටුකොළ පාණය Gotukola Drink Benefit of Gotukola Kusala's Simple",
+                "url": "https://youtube.com/watch?v=sBClRaqZxzk",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/sBClRaqZxzk/hqdefault.jpg"
+            },
+            {
+                "title": "දින7න් මුත්‍රාශයේ ගල් වට්ටන හෙළ වෙදකමේ එන විශ්මිත පළතුර  removing bladder stones organik  hellthi",
+                "url": "https://youtube.com/watch?v=ZJIDiJUAf_4",
+                "duration": "7:31",
+                "thumbnail": "https://i.ytimg.com/vi/ZJIDiJUAf_4/hq720.jpg"
+            },
+            {
+                "title": "☺️ ලස්සන වෙන්න ගුලි කන්න ඕනේ හරිම ක්‍රමය Natural Supplement Biotin Laddu",
+                "url": "https://youtube.com/watch?v=lfnaKm_JYjo",
+                "duration": "6:22",
+                "thumbnail": "https://i.ytimg.com/vi/lfnaKm_JYjo/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "Kidney Stones | වකුගඩු ගල් පාලනයට ඔබ ගන්නා ආහාරවල කළයුතුම වෙනස්කම්  @Knowdiet496",
+                "url": "https://youtube.com/watch?v=9_5WARDlXNE",
+                "duration": "13:32",
+                "thumbnail": "https://i.ytimg.com/vi/9_5WARDlXNE/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "3232",
-      "caption": "Twig  (PMR)",
-      "url": "https://i.ibb.co/CsMG6mP6/plant00463-03232.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,75 +1,494 @@
 {
-  "scientificName": "Elephantopus scaber L.",
-  "synonyms": [
-    "Asterocephalus cochinchinensis Spreng.",
-    "Scabiosa cochinchinensis Lour."
-  ],
-  "familyName": "ASTERACEAE",
-  "englishNames": [
-    "Elephant Foot",
-    "Tutup Bumi",
-    "Elephant's Foot",
-    "Bull's Tongue",
-    "Ironweed"
-  ],
-  "sinhalaName": "Eth adi (ඇත් අඩි)",
-  "description": "දෘඩ බහුවාර්ෂික පැළෑටි; කඳන් (3.5-) 10-50 සෙ.මී. උස, සිලින්ඩරාකාර (terete) වේ. මූලික පත්‍ර (5.5-) 10-20 x (2.5-) 4-7 සෙ.මී. වේ; පත්‍ර වෘන්ත 1.5 සෙ.මී. දක්වා දිගු වේ, මතුපිට තරමක් බිබිලි සහිත (bullate) සහ විරල රෝම සහිත (hirsute) වේ; පත්‍ර දාර දළ සහිත (crenate-serrate) සහ පක්ෂ්මල (ciliate) වේ; කඳේ පත්‍ර කෙටි වන අතර වෘන්ත රහිත (sessile) වේ. පුෂ්ප මංජරිය (glomerules) 1-1.5 සෙ.මී. දිග සහ පාදමේදී 1 සෙ.මී. පළල, කීල සහිත (carinate) සහ හෘදයාකාර (cordate) වෘන්ත පත්‍ර (bracts) තුනකින් වටවී ඇත. ආවෘත පත්‍ර (involucres) 8-10 මි.මී. දිග සහ 2 මි.මී. පළල වන අතර, පේළි දෙකක පිහිටි පත්‍රිකා (phyllaries) 8කින් සමන්විත වේ. මල් ලිලැක් හෝ සුදු පැහැතිය, මල් කිරීට නාල (corolla tubes) 5.5 මි.මී. දිගු වේ. අචීන ඵල (achenes) ආයත (oblong) වේ, 4 මි.මී. දිගු සහ ඉළ ඇට 10කින් යුක්ත වේ; පැපස් (pappus) කෙඳි 5 මි.මී. දිගු වේ.",
-  "treatments": [
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Elephantopus scaber L.",
+    "synonyms": [
+        "Asterocephalus cochinchinensis Spreng.",
+        "Scabiosa cochinchinensis Lour."
+    ],
+    "familyName": "ASTERACEAE",
+    "englishNames": [
+        "Elephant Foot",
+        "Tutup Bumi",
+        "Elephant's Foot",
+        "Bull's Tongue",
+        "Ironweed"
+    ],
+    "sinhalaName": "Eth adi (ඇත් අඩි)",
+    "description": "දෘඩ බහුවාර්ෂික පැළෑටි; කඳන් (3.5-) 10-50 සෙ.මී. උස, සිලින්ඩරාකාර (terete) වේ. මූලික පත්‍ර (5.5-) 10-20 x (2.5-) 4-7 සෙ.මී. වේ; පත්‍ර වෘන්ත 1.5 සෙ.මී. දක්වා දිගු වේ, මතුපිට තරමක් බිබිලි සහිත (bullate) සහ විරල රෝම සහිත (hirsute) වේ; පත්‍ර දාර දළ සහිත (crenate-serrate) සහ පක්ෂ්මල (ciliate) වේ; කඳේ පත්‍ර කෙටි වන අතර වෘන්ත රහිත (sessile) වේ. පුෂ්ප මංජරිය (glomerules) 1-1.5 සෙ.මී. දිග සහ පාදමේදී 1 සෙ.මී. පළල, කීල සහිත (carinate) සහ හෘදයාකාර (cordate) වෘන්ත පත්‍ර (bracts) තුනකින් වටවී ඇත. ආවෘත පත්‍ර (involucres) 8-10 මි.මී. දිග සහ 2 මි.මී. පළල වන අතර, පේළි දෙකක පිහිටි පත්‍රිකා (phyllaries) 8කින් සමන්විත වේ. මල් ලිලැක් හෝ සුදු පැහැතිය, මල් කිරීට නාල (corolla tubes) 5.5 මි.මී. දිගු වේ. අචීන ඵල (achenes) ආයත (oblong) වේ, 4 මි.මී. දිගු සහ ඉළ ඇට 10කින් යුක්ත වේ; පැපස් (pappus) කෙඳි 5 මි.මී. දිගු වේ.",
+    "treatments": [
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cardiac Disorders",
+            "sinhala": "හෘද ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole plant"
+    ],
+    "images": [
+        {
+            "image_id": "3065",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/d4dBR3MK/plant00207-03065.jpg"
+        },
+        {
+            "image_id": "3066",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/HpPbQvXL/plant00207-03066.jpg"
+        },
+        {
+            "image_id": "3067",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/27KSRjBm/plant00207-03067.jpg"
+        },
+        {
+            "image_id": "3068",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/Lz9g47kR/plant00207-03068.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඇත් අඩි || Elephantopus scaber || Ath adi (7)",
+                "url": "https://youtube.com/watch?v=XY2fRJk2xHk",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/XY2fRJk2xHk/hqdefault.jpg"
+            },
+            {
+                "title": "Ath adiya|ඇත් අඩි ශාකය | ඔසු ගුණ | ඇත් අඩිය |Similar  Elephantopus | ඔසු-Osu",
+                "url": "https://youtube.com/watch?v=JDVM2UpeEJI",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/JDVM2UpeEJI/hq720.jpg"
+            },
+            {
+                "title": "හෙළ වෙදකම් ඇත් අඩි තුවාල සුව කරන වන බෙහෙත්",
+                "url": "https://youtube.com/watch?v=Mp3lxM4u7KU",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Mp3lxM4u7KU/hq720.jpg"
+            },
+            {
+                "title": "elephantopus scaber / ath adi / Elephant foots /ඇත් අඩි",
+                "url": "https://youtube.com/watch?v=dhbN-rX4LJQ",
+                "duration": "0:59",
+                "thumbnail": "https://i.ytimg.com/vi/dhbN-rX4LJQ/hq720.jpg"
+            },
+            {
+                "title": "ඇත් අඩි බෙහෙත් පැළෑටිය|Elephantopus scaber|COMPOSITAE (ASTERACEAE)  - Wishmakarma youtube channel",
+                "url": "https://youtube.com/watch?v=gtoFfQtnRlI",
+                "duration": "5:37",
+                "thumbnail": "https://i.ytimg.com/vi/gtoFfQtnRlI/hq720.jpg"
+            },
+            {
+                "title": "ඇත් අඩි | ඇත් අඩිය | ඇත් අඩි ශාඛය | දද වන තුවාල වලට ගුන දෙන ඇත් අඩි | Elephant foot | 2023",
+                "url": "https://youtube.com/watch?v=ZWKIX1yRvzg",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/ZWKIX1yRvzg/hqdefault.jpg"
+            },
+            {
+                "title": "\"ඇතෙක් බරට\" වස්තුව තිබුණු \"ඇත් අඩිය\" නිධන් සලකුණ\"💎🇱🇰💎",
+                "url": "https://youtube.com/watch?v=AXUtztiryus",
+                "duration": "8:09",
+                "thumbnail": "https://i.ytimg.com/vi/AXUtztiryus/hq720.jpg"
+            },
+            {
+                "title": "ඇත් අඩි තබමින් පියමනින මියන්මාර් කුමරු|gifted tusker from miyanmar government",
+                "url": "https://youtube.com/watch?v=MiVCCKUd0wE",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/MiVCCKUd0wE/hq720.jpg"
+            },
+            {
+                "title": "ඇත් අඩි දොලේ නිධානය | කබොක්ගල් ඇල්ල | වාරාපිටය, වලස්මුල්ල | Kabokgal Ella waterfall in Warapitiya",
+                "url": "https://youtube.com/watch?v=QxLKjGTT3Yc",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/QxLKjGTT3Yc/hq720.jpg"
+            },
+            {
+                "title": "ඇත් අඩි || Elephantopus scaber || Ath adi (7)",
+                "url": "https://youtube.com/watch?v=acjiH-YT2XE",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/acjiH-YT2XE/frame0.jpg"
+            },
+            {
+                "title": "මහදැන මුත්තා සහ ඇත් අඩි සලකුණු | Mahadena Muththa and the Elephant's Footprints",
+                "url": "https://youtube.com/watch?v=tB7XPD_wKWg",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/tB7XPD_wKWg/hq720.jpg"
+            },
+            {
+                "title": "Home Remedies for Dry Caugh & Cold /Best healing medicinal herbs/ Elephantopus Scaber/Eth adi/",
+                "url": "https://youtube.com/watch?v=WFTWgG9g03I",
+                "duration": "3:25",
+                "thumbnail": "https://i.ytimg.com/vi/WFTWgG9g03I/hq720.jpg"
+            },
+            {
+                "title": "Elephantopus tomentosus plant / common elephant's foot plant",
+                "url": "https://youtube.com/watch?v=YQ1Mk1KuIHE",
+                "duration": "1:27",
+                "thumbnail": "https://i.ytimg.com/vi/YQ1Mk1KuIHE/hq720.jpg"
+            },
+            {
+                "title": "10) ඇත් අඩි | Guru Bhoomi Wandana (2021-07-03)",
+                "url": "https://youtube.com/watch?v=qytaMPkAC6Q",
+                "duration": "48:45",
+                "thumbnail": "https://i.ytimg.com/vi/qytaMPkAC6Q/hq720.jpg"
+            },
+            {
+                "title": "ඇත්දෙමට බලාගන්න Athdemata Plant",
+                "url": "https://youtube.com/watch?v=p6PjbmaRP7c",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/p6PjbmaRP7c/hq720.jpg"
+            },
+            {
+                "title": "Eth adi - Elephant foot - Elephantopus scaber",
+                "url": "https://youtube.com/watch?v=X-okMzPBFOU",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/X-okMzPBFOU/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "කොන්දේ හා අත් පා වල තිබූ අදික හිරිවැටීම නිසා ඇවිදගන්නවත් බැරුව ආපු මට දැන් 100%ක් සුවයි",
+                "url": "https://youtube.com/watch?v=MS2hPXmazVg",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/MS2hPXmazVg/hq720.jpg"
+            },
+            {
+                "title": "දීඝ දන්තු 1 හස්තියාගේ දළ සහිත අස්ථි කොටස් ගොඩගනී   | Ada Derana",
+                "url": "https://youtube.com/watch?v=rraYmRxTiMQ",
+                "duration": "1:48",
+                "thumbnail": "https://i.ytimg.com/vi/rraYmRxTiMQ/hq720.jpg"
+            },
+            {
+                "title": "ඇත් දෙමට - Gamelina arborea - Eth Demata",
+                "url": "https://youtube.com/watch?v=9QuplWjW_SA",
+                "duration": "1:32",
+                "thumbnail": "https://i.ytimg.com/vi/9QuplWjW_SA/hq720.jpg"
+            },
+            {
+                "title": "ඇත් නෙරෙංචි හඳුනා ගන්න...kidney health plant...ath nerenchi",
+                "url": "https://youtube.com/watch?v=0cdjoBkL_cM",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/0cdjoBkL_cM/hqdefault.jpg"
+            },
+            {
+                "title": "පෙරහැරේ අලියෙක් කුලප්පු වෙලා උණුසුම් තත්ත්වයක්",
+                "url": "https://youtube.com/watch?v=82ovplGtu9U",
+                "duration": "0:57",
+                "thumbnail": "https://i.ytimg.com/vi/82ovplGtu9U/hq720.jpg"
+            },
+            {
+                "title": "අයේ කවදාවත් මේ විදියට හීන් බෝවිටියා කැද බොන්න හිතන්නවත් එපා! - මාරයා ඇත ලගයි! අක්මාව විනාශ වෙනවා",
+                "url": "https://youtube.com/watch?v=fhLOMYDPve8",
+                "duration": "21:41",
+                "thumbnail": "https://i.ytimg.com/vi/fhLOMYDPve8/hq720.jpg"
+            },
+            {
+                "title": "ඇඹිලිපිටියේ ඇඟලුම් කම්හලක හදිසියේම ඇතිවූ මහ ගින්න",
+                "url": "https://youtube.com/watch?v=lEu7bcBBNLg",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/lEu7bcBBNLg/hq720_2.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "දීඝ දන්තු හස්තියාගේ දළ සහිත අස්ථි කොටස් වසර එකාහමාරකට පසු ගොඩ ගනියි",
+                "url": "https://youtube.com/watch?v=3zSh9m61pDw",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/3zSh9m61pDw/hq720.jpg"
+            },
+            {
+                "title": "හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය ගෙන්වූ තවත් ⁣ඖෂධ වර්ග 170ක් ගැන පරීක්ෂණ...",
+                "url": "https://youtube.com/watch?v=uf8HGuLkZ4s",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/uf8HGuLkZ4s/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටීස් සුවකරන හොඳම ආහාර 10 මෙන්න | මේ ලක්ෂණ ඔබට තිබෙනවා නම් ඔබටත් ආතරයිටීස් හැදෙනවා නියතයි!",
+                "url": "https://youtube.com/watch?v=Y3TNh5VZrWw",
+                "duration": "21:45",
+                "thumbnail": "https://i.ytimg.com/vi/Y3TNh5VZrWw/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටීස් රෝගයෙන් කොදුඇට පෙළට සිදුවන බලපෑම | Piyum Vila | 15 - 10 - 2021 | SiyathaTV",
+                "url": "https://youtube.com/watch?v=QPQH6uBr9ZE",
+                "duration": "24:04",
+                "thumbnail": "https://i.ytimg.com/vi/QPQH6uBr9ZE/hq720.jpg"
+            },
+            {
+                "title": "සන්ධි වේදනාව මෙල්ල කරන දේශීය ආහාර, lankan foods for arthritis,Handi kakkumata aahara",
+                "url": "https://youtube.com/watch?v=19JnIgNbqaA",
+                "duration": "17:15",
+                "thumbnail": "https://i.ytimg.com/vi/19JnIgNbqaA/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටීස් රෝගීන් නොගත යුතු ආහාර වර්ග",
+                "url": "https://youtube.com/watch?v=9FOBjit1VsU",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/9FOBjit1VsU/hq720.jpg"
+            },
+            {
+                "title": "මේ ආහාර කන්න හිතන්නවත් එපා!අම්ල පිත්ත රෝගය නග්න වෙනවා! - අම්ල පිත්තයට හෙළ වෙදකමේ රහස්",
+                "url": "https://youtube.com/watch?v=Ijp5msEU9-8",
+                "duration": "20:35",
+                "thumbnail": "https://i.ytimg.com/vi/Ijp5msEU9-8/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටිස් තත්ව පවා ඇතිවෙන්න හේතු වෙන රුධිරයේ යූරික් ඇසිඩ් මට්ටම ඉහල යාම |Lower Your Uric Acid Levels",
+                "url": "https://youtube.com/watch?v=OgOaf9HC2IM",
+                "duration": "8:55",
+                "thumbnail": "https://i.ytimg.com/vi/OgOaf9HC2IM/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රතිදේහ එන්නත් ඖෂධක් ගැන සෞඛ්‍ය අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්",
+                "url": "https://youtube.com/watch?v=9-RR_TohFH8",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/9-RR_TohFH8/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ආමන්ඩ් ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදු වෙන විශ්මිත දේවල් 12ක් | 12 Health Benefits of Almonds",
+                "url": "https://youtube.com/watch?v=Fd8_EKAo9QU",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/Fd8_EKAo9QU/hq720.jpg"
+            },
+            {
+                "title": "දණහිස් වේදනාව සන්ධි අමාරුව නිට්ටාවට සුව කරගන බෙහෙතක්! - මේ ආහාර නිතර කනවා නම් සන්ධි අමාරු එන්නේ නැහැ",
+                "url": "https://youtube.com/watch?v=4h3b2hPD5GA",
+                "duration": "16:40",
+                "thumbnail": "https://i.ytimg.com/vi/4h3b2hPD5GA/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටීස් ඉක්මනින්ම අදුරගන්න පුළුවන් සරල රෝග ලක්ෂණ - ආතරයිටීස් සුවකරන හොඳම ආහාර මෙන්න",
+                "url": "https://youtube.com/watch?v=ffFttVwNHfA",
+                "duration": "18:27",
+                "thumbnail": "https://i.ytimg.com/vi/ffFttVwNHfA/hq720.jpg"
+            },
+            {
+                "title": "ලේ තුනී වෙන්න බෙහෙත් බොන ගමන් සුදුළූණු කන එක මාරාන්තිකයි! 🧄⚠️ | Aspirin & Garlic Danger #science",
+                "url": "https://youtube.com/watch?v=f36FuttjYTg",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/f36FuttjYTg/hq720.jpg"
+            },
+            {
+                "title": "අත හිරිවැටෙනවා නම් මේ ගැන දැනගන්න",
+                "url": "https://youtube.com/watch?v=OS-sI-b4Y7A",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/OS-sI-b4Y7A/hq720_2.jpg"
+            },
+            {
+                "title": "අස්ථි වඩන ලාංකීය ආහාර 20 ක්, Best 20 sri lankan foods for bone growth",
+                "url": "https://youtube.com/watch?v=DwmVARqBv18",
+                "duration": "16:56",
+                "thumbnail": "https://i.ytimg.com/vi/DwmVARqBv18/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටීස් ඉක්මනින්ම අදුරගන්න පුළුවන් රෝග ලක්ෂණ",
+                "url": "https://youtube.com/watch?v=J5wO1phjeKM",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/J5wO1phjeKM/hq720.jpg"
+            },
+            {
+                "title": "කොඳු ඇට පෙළ ආශ්‍රිතව ඇතිවිය හැකි රෝග සහ ආයුර්වේද ප්‍රතිකාර ක්‍රම  | Adaraneeya Jeewithaya",
+                "url": "https://youtube.com/watch?v=bEa3U_54bF0",
+                "duration": "25:20",
+                "thumbnail": "https://i.ytimg.com/vi/bEa3U_54bF0/hq720.jpg"
+            },
+            {
+                "title": "අලි පවුලක්ම වගා ලිඳට වැටිලා",
+                "url": "https://youtube.com/watch?v=7SZhTzatd9A",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/7SZhTzatd9A/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "වැදගත්කම හදාගන්න හැටි... | අහස් ගව්ව Ahas Gawwa",
+                "url": "https://youtube.com/watch?v=dOcWP9tmIiM",
+                "duration": "52:00",
+                "thumbnail": "https://i.ytimg.com/vi/dOcWP9tmIiM/hq720.jpg"
+            },
+            {
+                "title": "ජීවිතේට එන ටෝක්සික් මිනිස්සුන්ගෙන් තියන ප්‍රයෝජන 7ක් - 7 Hidden Benefits of Toxic People",
+                "url": "https://youtube.com/watch?v=N7EKV9f7HZY",
+                "duration": "17:33",
+                "thumbnail": "https://i.ytimg.com/vi/N7EKV9f7HZY/hq720.jpg"
+            },
+            {
+                "title": "හැන්දෙන් කනවට වඩා අතින් අනලා කන එක ඇඟට ගුණ ඇයි? 🥄💀 | The Silent Danger of Cutlery",
+                "url": "https://youtube.com/watch?v=6_XfFVGXeG4",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/6_XfFVGXeG4/hq720.jpg"
+            },
+            {
+                "title": "ලග තිබ්බත් වැනසෙන ගජමුතු හා ඇත් දළවල ශාපය - animal insurance",
+                "url": "https://youtube.com/watch?v=sDZkYzPL3i4",
+                "duration": "4:34",
+                "thumbnail": "https://i.ytimg.com/vi/sDZkYzPL3i4/hqdefault.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ශාකයේ ඔසු ගුණ | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=29JyQOFg1WI",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/29JyQOFg1WI/hq720.jpg"
+            },
+            {
+                "title": "✅ ශක්තිමත් මනසක් තියන සද්දන්ත කුලේ ඇතෙක් වෙමු - Be a Strong-Minded, Wise Elephant",
+                "url": "https://youtube.com/watch?v=iApLWOjyRos",
+                "duration": "14:53",
+                "thumbnail": "https://i.ytimg.com/vi/iApLWOjyRos/hq720.jpg"
+            },
+            {
+                "title": "Everything About Elephant Sinhala | අලි ඇත්තු ගැන හැමදේම",
+                "url": "https://youtube.com/watch?v=GDskG-bm65I",
+                "duration": "7:04",
+                "thumbnail": "https://i.ytimg.com/vi/GDskG-bm65I/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් මිනිසාට ඇති ප්‍රයෝජන, අප අවට සත්තු,sathungen minisata athi preyojana, Apa awata saththu,",
+                "url": "https://youtube.com/watch?v=QKzQ_lIBcr4",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/QKzQ_lIBcr4/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂයින්ගේ ලිංගික ශක්තිය වැඩි කරන, ඉක්මනින් ධාතු පිටවීමට හොදම ප්‍රතිකාරයක් වන බිංතල් වල ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=LHYxIfW9T4M",
+                "duration": "14:36",
+                "thumbnail": "https://i.ytimg.com/vi/LHYxIfW9T4M/hq720.jpg"
+            },
+            {
+                "title": "ආප්තෝපදේශ | 5 ශ්‍රේණිය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=MsqzJVNQ2Fg",
+                "duration": "1:55",
+                "thumbnail": "https://i.ytimg.com/vi/MsqzJVNQ2Fg/hq720.jpg"
+            },
+            {
+                "title": "ඇස්පැරගස් (හාතාවාරිය) කාන්තාවන්ට කරන දේ : Health benefits of Asparagus",
+                "url": "https://youtube.com/watch?v=6e-eOoS8gH4",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/6e-eOoS8gH4/hq720.jpg"
+            },
+            {
+                "title": "වගා ළිඳට වැටුණු අලි පවුල| Ada Derana",
+                "url": "https://youtube.com/watch?v=aG3mif4HS98",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/aG3mif4HS98/hq720.jpg"
+            },
+            {
+                "title": "Elephantopus scaber benefits #elephantopusscaber",
+                "url": "https://youtube.com/watch?v=1MSmelAFYFo",
+                "duration": "10:32",
+                "thumbnail": "https://i.ytimg.com/vi/1MSmelAFYFo/hqdefault.jpg"
+            },
+            {
+                "title": "Anachuvadi (Elephantopus Scaber Herbs)",
+                "url": "https://youtube.com/watch?v=yXgzryWRMn0",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/yXgzryWRMn0/hq720.jpg"
+            },
+            {
+                "title": "ആനച്ചുവടി|Elephantopus scaber: Medicinal Benefits.",
+                "url": "https://youtube.com/watch?v=Yn5My6bFjzg",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Yn5My6bFjzg/hq720.jpg"
+            },
+            {
+                "title": "Elephantopus Scaber health benefits.",
+                "url": "https://youtube.com/watch?v=H0S5JUP_hVk",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/H0S5JUP_hVk/hqdefault.jpg"
+            },
+            {
+                "title": "ആനച്ചുവടി || Hidden Secrets of Anachuvadi Ayurvedic Plant",
+                "url": "https://youtube.com/watch?v=lQFZUbd7bJA",
+                "duration": "5:36",
+                "thumbnail": "https://i.ytimg.com/vi/lQFZUbd7bJA/hq720.jpg"
+            },
+            {
+                "title": "Medecine plant Adhomukha (elephantopus scaber). Benefits of elephantopus scaber.#elephantopusscaber",
+                "url": "https://youtube.com/watch?v=T-lznuYt_Hg",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/T-lznuYt_Hg/hqdefault.jpg"
+            },
+            {
+                "title": "අධි රුධිර පීඩනයට බෙහෙත් බීපු කාලේ  ඉවරයි! | මේ කොළ ටිකකින් කැද ටිකක් හදලා බොන්න | 100% සාර්ථකයි",
+                "url": "https://youtube.com/watch?v=SuIyTXQXEm0",
+                "duration": "11:02",
+                "thumbnail": "https://i.ytimg.com/vi/SuIyTXQXEm0/hq720.jpg"
+            },
+            {
+                "title": "Elephants foot (Elephantopus scaber) - part 2",
+                "url": "https://youtube.com/watch?v=Srvnuo8pI14",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/Srvnuo8pI14/hq720.jpg"
+            },
+            {
+                "title": "SCIENCE දෙවන වරම-10-11 SUPER REVISION නියත A සාමාර්ථයේ සුපිරි්ම වැඩසටහන...",
+                "url": "https://youtube.com/watch?v=LfBazqLVXrA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/LfBazqLVXrA/hq720.jpg"
+            },
+            {
+                "title": "අත හිරිවැටීමට ව්‍යායාම ප්‍රතිකාර",
+                "url": "https://youtube.com/watch?v=dTTwy3cO5GM",
+                "duration": "8:50",
+                "thumbnail": "https://i.ytimg.com/vi/dTTwy3cO5GM/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටිස් රෝගයෙන් බේරී ඉන්න නම් මේ ආහාර 10 අනුභව කරන්න | 10 Best Foods to Eat If You Have Arthritis",
+                "url": "https://youtube.com/watch?v=tqZN5DyE6Jc",
+                "duration": "11:14",
+                "thumbnail": "https://i.ytimg.com/vi/tqZN5DyE6Jc/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "හන්දි කැක්කුම, ආතරයිටිස්,.Arthritis in sinhala",
+                "url": "https://youtube.com/watch?v=LW_e6Xv20Uk",
+                "duration": "12:29",
+                "thumbnail": "https://i.ytimg.com/vi/LW_e6Xv20Uk/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Cardiac Disorders",
-      "sinhala": "හෘද ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole plant"
-  ],
-  "images": [
-    {
-      "image_id": "3065",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/d4dBR3MK/plant00207-03065.jpg"
-    },
-    {
-      "image_id": "3066",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/HpPbQvXL/plant00207-03066.jpg"
-    },
-    {
-      "image_id": "3067",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/27KSRjBm/plant00207-03067.jpg"
-    },
-    {
-      "image_id": "3068",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/Lz9g47kR/plant00207-03068.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

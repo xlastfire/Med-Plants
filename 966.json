@@ -1,45 +1,98 @@
 {
-  "scientificName": "Oxalis latifolia Kunth",
-  "synonyms": [
-    "Acetosella lilacina (Klotzsch) Kuntze",
-    "Acetosella violacea subsp. latifolia (Kunth) Kuntze",
-    "Acetosella violacea var. albida Kuntze",
-    "Ionoxalis attenuata Small",
-    "Ionoxalis bipartita Rose",
-    "Ionoxalis buchtienii Rusby",
-    "Ionoxalis calcaria Small",
-    "Ionoxalis intermedia Small",
-    "Ionoxalis latifolia (Kunth) Rose",
-    "Ionoxalis stipitata Rose",
-    "Ionoxalis tenuiloba Rose",
-    "Ionoxalis vallicola Rose ex Small",
-    "Oxalis atroglandulosa R.Knuth",
-    "Oxalis binervis Regel",
-    "Oxalis buchtienii (Rusby) R.Knuth",
-    "Oxalis calcaria (Small) R.Knuth",
-    "Oxalis chiriquensis Woodson",
-    "Oxalis eggersii Urb.",
-    "Oxalis elegans var. karwinskii Progel ex R.Knuth",
-    "Oxalis lilacina Klotzsch",
-    "Oxalis mauritiana G.Lodd.",
-    "Oxalis morelosensis R.Knuth",
-    "Oxalis multipes R.Knuth",
-    "Oxalis stipulata Rose ex R.Knuth",
-    "Oxalis tenuiloba (Rose) R.Knuth",
-    "Oxalis vallicola (Rose ex Small) R.Knuth",
-    "Sassia latifolia (Kunth) Holub"
-  ],
-  "familyName": "OXALIDACEAE",
-  "englishNames": [
-    "Wood Sorel",
-    "Manikwatte Weed",
-    "Broadleaf Wood Sorrel",
-    "Mexican Oxalis"
-  ],
-  "sinhalaName": "Maha embulembiliya (මහ ඇුඹුල් ඇඹිලිය)",
-  "description": "කඳක් සහිත (bulbous) පැළෑටි; පිටත බල්බ කොරපොතු කඩදාසි වැනි දුඹුරු පැහැයක් ගනී, දිග 5-10 මි.මී., පිටුපස තැඹිලි පැහැති නහර 3ක් ඇත; ඇතුළත කොරපොතු මාංසල වේ. පත්‍ර 2-8; පත්‍රිකා (pinnae) සමාන ප්‍රමාණයේ වේ, 1-3.5 x 2-7.5 සෙ.මී., අග්‍රයෙහි පුළුල් නොගැඹුරු විඛණ්ඩනයක් (sinus) ඇත; පත්‍ර තලය (lamina) ඉහළින් රෝම රහිතය (glabrous); පත්‍ර දඬු (petioles) දිගින් සෙ.මී. 35ක් පමණ සහ ඝනකමින් මි.මී. 2ක් පමණ වේ, පාදම දම් පැහැතිය; පත්‍රිකා දඬු (petiolules) දිගින් මි.මී. 1ක් පමණ වන අතර රෝම සහිතය (pilose). පුෂ්ප මංජරිය කුඩයක හැඩැති (umbellate) වේ, මල් 5ක් හෝ ඊට වැඩි ප්‍රමාණයක් ඇත; පුෂ්ප දණ්ඩ (peduncle) දිග සෙ.මී. 6-30 කි. පෙති දිග මි.මී. 9-14ක් වන අතර දම් පැහැතිය.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Oxalis latifolia Kunth",
+    "synonyms": [
+        "Acetosella lilacina (Klotzsch) Kuntze",
+        "Acetosella violacea subsp. latifolia (Kunth) Kuntze",
+        "Acetosella violacea var. albida Kuntze",
+        "Ionoxalis attenuata Small",
+        "Ionoxalis bipartita Rose",
+        "Ionoxalis buchtienii Rusby",
+        "Ionoxalis calcaria Small",
+        "Ionoxalis intermedia Small",
+        "Ionoxalis latifolia (Kunth) Rose",
+        "Ionoxalis stipitata Rose",
+        "Ionoxalis tenuiloba Rose",
+        "Ionoxalis vallicola Rose ex Small",
+        "Oxalis atroglandulosa R.Knuth",
+        "Oxalis binervis Regel",
+        "Oxalis buchtienii (Rusby) R.Knuth",
+        "Oxalis calcaria (Small) R.Knuth",
+        "Oxalis chiriquensis Woodson",
+        "Oxalis eggersii Urb.",
+        "Oxalis elegans var. karwinskii Progel ex R.Knuth",
+        "Oxalis lilacina Klotzsch",
+        "Oxalis mauritiana G.Lodd.",
+        "Oxalis morelosensis R.Knuth",
+        "Oxalis multipes R.Knuth",
+        "Oxalis stipulata Rose ex R.Knuth",
+        "Oxalis tenuiloba (Rose) R.Knuth",
+        "Oxalis vallicola (Rose ex Small) R.Knuth",
+        "Sassia latifolia (Kunth) Holub"
+    ],
+    "familyName": "OXALIDACEAE",
+    "englishNames": [
+        "Wood Sorel",
+        "Manikwatte Weed",
+        "Broadleaf Wood Sorrel",
+        "Mexican Oxalis"
+    ],
+    "sinhalaName": "Maha embulembiliya (මහ ඇුඹුල් ඇඹිලිය)",
+    "description": "කඳක් සහිත (bulbous) පැළෑටි; පිටත බල්බ කොරපොතු කඩදාසි වැනි දුඹුරු පැහැයක් ගනී, දිග 5-10 මි.මී., පිටුපස තැඹිලි පැහැති නහර 3ක් ඇත; ඇතුළත කොරපොතු මාංසල වේ. පත්‍ර 2-8; පත්‍රිකා (pinnae) සමාන ප්‍රමාණයේ වේ, 1-3.5 x 2-7.5 සෙ.මී., අග්‍රයෙහි පුළුල් නොගැඹුරු විඛණ්ඩනයක් (sinus) ඇත; පත්‍ර තලය (lamina) ඉහළින් රෝම රහිතය (glabrous); පත්‍ර දඬු (petioles) දිගින් සෙ.මී. 35ක් පමණ සහ ඝනකමින් මි.මී. 2ක් පමණ වේ, පාදම දම් පැහැතිය; පත්‍රිකා දඬු (petiolules) දිගින් මි.මී. 1ක් පමණ වන අතර රෝම සහිතය (pilose). පුෂ්ප මංජරිය කුඩයක හැඩැති (umbellate) වේ, මල් 5ක් හෝ ඊට වැඩි ප්‍රමාණයක් ඇත; පුෂ්ප දණ්ඩ (peduncle) දිග සෙ.මී. 6-30 කි. පෙති දිග මි.මී. 9-14ක් වන අතර දම් පැහැතිය.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඇඹුල් ඇඹිලිය | මේකේ ගුණ දන්නවනම් හොයාගෙන හරි කනවා | Ambul Ambiliya Plant",
+                "url": "https://youtube.com/watch?v=C5iqUDUFyLQ",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/C5iqUDUFyLQ/hq720.jpg"
+            },
+            {
+                "title": "Oxalis Barrelieri 🌳☘️🌱ඇඹුල් ඇඹිලිය/ ගස් ඇඹුල් ඇඹිලිය #medicineplant #plants #naturelovers #srilanka",
+                "url": "https://youtube.com/watch?v=TljnZGjl7pY",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/TljnZGjl7pY/hq720.jpg"
+            },
+            {
+                "title": "අක්මාවේ රෝග , ලේ හිඟකම ආදී ලෙඩ රෝග රැසක් සුව කරන ඇඹුල් ඇඹිලිය.",
+                "url": "https://youtube.com/watch?v=QgNO026HuIc",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/QgNO026HuIc/hq720.jpg"
+            },
+            {
+                "title": "ඇඹුල් ඇඹිලිය - Ambul Ambiliya / abul abiliya- Creeping wood sorel - Oxalis corniculata /  stricta",
+                "url": "https://youtube.com/watch?v=zl1ip3xQ0tk",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/zl1ip3xQ0tk/hq720.jpg"
+            },
+            {
+                "title": "ඇඹුල් ඇබ්ලිය. Abul abiliya",
+                "url": "https://youtube.com/watch?v=5_ZTO5W_Y3M",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/5_ZTO5W_Y3M/hq720.jpg"
+            },
+            {
+                "title": "අර්ෂස් අමාරුව සුව කරන ඇඹුල් ඇඹිලිය | ලක් එෆ්.එම් ළමා නිවේදිකා, ළමා ගායිකා රෂ්මි නවෝද්‍යා #srilanka",
+                "url": "https://youtube.com/watch?v=WwvX-78DBJQ",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/WwvX-78DBJQ/hq720.jpg"
+            },
+            {
+                "title": "ඇඹුල් ඇඹිලිය [Ebul Ebiliya] (Oxalis corniculata) ගුණ ගැන ඔබ දන්නවද බලන්න ?",
+                "url": "https://youtube.com/watch?v=I0b1jkPUVSk",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/I0b1jkPUVSk/hq720_2.jpg"
+            },
+            {
+                "title": "\"ඇඹුල් ඇබිල්ල\"! කෑම අරුචිය නැති කර දරුවන්ගේ මාන්දමට ගුණ දෙන  🌿🥣 #AmbulAbilla #SLRavee #Ayurveda",
+                "url": "https://youtube.com/watch?v=Ya2HmtBP8yo",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/Ya2HmtBP8yo/hq720_2.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

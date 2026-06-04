@@ -1,275 +1,304 @@
 {
-  "scientificName": "Plumbago zeylanica L.",
-  "synonyms": [
-    "Findlaya alba Bowdich",
-    "Molubda scandens (L.) Raf.",
-    "Plumbagidium scandens (L.) Spach",
-    "Plumbago americana Weigel",
-    "Plumbago flaccida Moench",
-    "Plumbago floridana Nutt.",
-    "Plumbago floridana Raf.",
-    "Plumbago juncea Bojer",
-    "Plumbago lactea Salisb.",
-    "Plumbago littoralis Mure",
-    "Plumbago maximowiczii Gand.",
-    "Plumbago mexicana Kunth",
-    "Plumbago occidentalis Sweet",
-    "Plumbago sarmentosa Lam.",
-    "Plumbago scandens L.",
-    "Plumbago scandens var. densiflora Kuntze",
-    "Plumbago scandens var. erecta Chodat & Hassl.",
-    "Plumbago scandens var. normalis Kuntze",
-    "Plumbago toxicaria Bertol.",
-    "Plumbago viscosa Blanco",
-    "Plumbago zeylanica var. glaucescens Boiss.",
-    "Plumbago zeylanica var. oxypetala Boiss.",
-    "Thela alba Lour."
-  ],
-  "familyName": "PLUMBAGINACEAE",
-  "englishNames": [
-    "Ceylon Leadwort",
-    "Plumbago",
-    "White leadwort"
-  ],
-  "sinhalaName": "Ela nitul (එළ නිතුල් )",
-  "description": "මෙය පැලෑටිමය ශාකයකි (herbaceous plant). මෙහි කඳන් රෝම රහිත (glabrous) වන අතර ඒවා වැල් ලෙස, බිම දිගේ පැතිරෙන (prostrate) හෝ කෙලින් වැඩෙන (erect) ස්වභාවයක් ගනී. පත්‍ර වෘන්ත සහිත (petiolate) හෝ වෘන්ත රහිත (sessile) වේ. පත්‍ර තල 5-9 x 2.5-4 සෙ.මී. දිගින් යුක්ත වන අතර ඒවා ඩිම්බාකාර (ovate), හෙල්ලයක හැඩැති-ඉලිප්සාකාර (lance-elliptic) හෝ හැන්දක හැඩැති (spatulate) සිට ලාන්සාකාර (oblanceolate) හැඩයක් ගනී. පත්‍ර පාදය ක්‍රමයෙන් සිහින් වී ඇත (attenuate), පත්‍ර අග්‍රය තියුණු (acute), උල් වූ (acuminate) හෝ මොට (obtuse) වේ. පුෂ්ප මංජරිය 3-15 සෙ.මී. දිගින් යුක්ත වන අතර එහි ග්‍රන්ථි සහිත (glandular) සහ ඇලෙන සුළු (viscid) රචිස් (rachises) ඇත. උප පත්‍ර (bracts) ලාන්සාකාර (lanceolate) වන අතර 3-7 x 1-2 මි.මී. දිගින් යුක්ත වේ. මල් විෂම ශෛලීය (heterostylous) වේ. සුදු පැහැති මල් කිරීටය (corolla) 17-33 මි.මී. විෂ්කම්භයකින් යුක්ත වන අතර නාලය (tube) 12.5-28 මි.මී. දිගින් යුක්ත වේ. කරල් (capsules) 7.5-8 මි.මී. දිගින් යුක්ත වන අතර බීජ රතු පැහැයට හුරු දුඹුරු සිට තද දුඹුරු පැහැයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Plumbago zeylanica L.",
+    "synonyms": [
+        "Findlaya alba Bowdich",
+        "Molubda scandens (L.) Raf.",
+        "Plumbagidium scandens (L.) Spach",
+        "Plumbago americana Weigel",
+        "Plumbago flaccida Moench",
+        "Plumbago floridana Nutt.",
+        "Plumbago floridana Raf.",
+        "Plumbago juncea Bojer",
+        "Plumbago lactea Salisb.",
+        "Plumbago littoralis Mure",
+        "Plumbago maximowiczii Gand.",
+        "Plumbago mexicana Kunth",
+        "Plumbago occidentalis Sweet",
+        "Plumbago sarmentosa Lam.",
+        "Plumbago scandens L.",
+        "Plumbago scandens var. densiflora Kuntze",
+        "Plumbago scandens var. erecta Chodat & Hassl.",
+        "Plumbago scandens var. normalis Kuntze",
+        "Plumbago toxicaria Bertol.",
+        "Plumbago viscosa Blanco",
+        "Plumbago zeylanica var. glaucescens Boiss.",
+        "Plumbago zeylanica var. oxypetala Boiss.",
+        "Thela alba Lour."
+    ],
+    "familyName": "PLUMBAGINACEAE",
+    "englishNames": [
+        "Ceylon Leadwort",
+        "Plumbago",
+        "White leadwort"
+    ],
+    "sinhalaName": "Ela nitul (එළ නිතුල් )",
+    "description": "මෙය පැලෑටිමය ශාකයකි (herbaceous plant). මෙහි කඳන් රෝම රහිත (glabrous) වන අතර ඒවා වැල් ලෙස, බිම දිගේ පැතිරෙන (prostrate) හෝ කෙලින් වැඩෙන (erect) ස්වභාවයක් ගනී. පත්‍ර වෘන්ත සහිත (petiolate) හෝ වෘන්ත රහිත (sessile) වේ. පත්‍ර තල 5-9 x 2.5-4 සෙ.මී. දිගින් යුක්ත වන අතර ඒවා ඩිම්බාකාර (ovate), හෙල්ලයක හැඩැති-ඉලිප්සාකාර (lance-elliptic) හෝ හැන්දක හැඩැති (spatulate) සිට ලාන්සාකාර (oblanceolate) හැඩයක් ගනී. පත්‍ර පාදය ක්‍රමයෙන් සිහින් වී ඇත (attenuate), පත්‍ර අග්‍රය තියුණු (acute), උල් වූ (acuminate) හෝ මොට (obtuse) වේ. පුෂ්ප මංජරිය 3-15 සෙ.මී. දිගින් යුක්ත වන අතර එහි ග්‍රන්ථි සහිත (glandular) සහ ඇලෙන සුළු (viscid) රචිස් (rachises) ඇත. උප පත්‍ර (bracts) ලාන්සාකාර (lanceolate) වන අතර 3-7 x 1-2 මි.මී. දිගින් යුක්ත වේ. මල් විෂම ශෛලීය (heterostylous) වේ. සුදු පැහැති මල් කිරීටය (corolla) 17-33 මි.මී. විෂ්කම්භයකින් යුක්ත වන අතර නාලය (tube) 12.5-28 මි.මී. දිගින් යුක්ත වේ. කරල් (capsules) 7.5-8 මි.මී. දිගින් යුක්ත වන අතර බීජ රතු පැහැයට හුරු දුඹුරු සිට තද දුඹුරු පැහැයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Flatulence",
+            "sinhala": "බඩ පිපුම (වාතය පිරීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Anasarca",
+            "sinhala": "සර්වාංග ශෝථය (මුළු ශරීරයම ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Leprosy",
+            "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Influenza",
+            "sinhala": "ඉන්ෆ්ලුවෙන්සා උණ (ප්‍රතිශ්‍යාව සහ ඇඟපත වේදනාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Malaria",
+            "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Vitiligo",
+            "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Tinea Capitis",
+            "sinhala": "හිසේ දද (හිස්හොරි/දිලීර ආසාදන නිසා කෙස් යාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Tuberculosis",
+            "sinhala": "ක්ෂය රෝගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Filariasis",
+            "sinhala": "බරවා රෝගය (අලිපාදය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Abscesses",
+            "sinhala": "සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Renal Calculi",
+            "sinhala": "වකුගඩු ගල්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Root"
+    ],
+    "images": [
+        {
+            "image_id": "1215",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/NgmYYxWt/plant00997-01215.jpg"
+        },
+        {
+            "image_id": "402",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/G4kXpb4D/plant00997-00402.jpg"
+        },
+        {
+            "image_id": "403",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/NgvkPK2C/plant00997-00403.jpg"
+        },
+        {
+            "image_id": "404",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/hxRppShD/plant00997-00404.jpg"
+        },
+        {
+            "image_id": "1216",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/39DHHfCP/plant00997-01216.jpg"
+        },
+        {
+            "image_id": "3884",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/ksVb3y9z/plant00997-03884.jpg"
+        },
+        {
+            "image_id": "3885",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/s9sFHc6L/plant00997-03885.jpg"
+        },
+        {
+            "image_id": "3886",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/3yKsY0J8/plant00997-03886.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "රත් නිටුල් සහ එල නිටුල් (Rath Nitul, Ela Nitul)",
+                "url": "https://youtube.com/watch?v=XgVdZg5DXUI",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/XgVdZg5DXUI/hq720.jpg"
+            },
+            {
+                "title": "මොනවද මේ ඖශධීය ගුණවලින් සමන්විත \"නිටොල්\"  - තිලක් කන්දේගම / Plumbago Indica - Sri Lanka",
+                "url": "https://youtube.com/watch?v=VzXBTl3a-4U",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/VzXBTl3a-4U/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා, උණ ඇතුළු රෝග රැසකට ගුණදෙන නිතුල්ල/ගැට නෙටුල් වල ඔබ නොදත් ගුණ | නිතුල්ල | Nitulla/Geta Netul",
+                "url": "https://youtube.com/watch?v=ZBTnXX9Ajqg",
+                "duration": "8:07",
+                "thumbnail": "https://i.ytimg.com/vi/ZBTnXX9Ajqg/hq720.jpg"
+            },
+            {
+                "title": "වියළි කලාපෙ උනත් අපේ අම්මා සරුවට වවාගෙන ඉන්න රත් නිටුල් පැලේ❤",
+                "url": "https://youtube.com/watch?v=6f9ChYYz_h0",
+                "duration": "4:33",
+                "thumbnail": "https://i.ytimg.com/vi/6f9ChYYz_h0/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Flatulence",
-      "sinhala": "බඩ පිපුම (වාතය පිරීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Anasarca",
-      "sinhala": "සර්වාංග ශෝථය (මුළු ශරීරයම ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Leprosy",
-      "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Influenza",
-      "sinhala": "ඉන්ෆ්ලුවෙන්සා උණ (ප්‍රතිශ්‍යාව සහ ඇඟපත වේදනාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Malaria",
-      "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Vitiligo",
-      "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Tinea Capitis",
-      "sinhala": "හිසේ දද (හිස්හොරි/දිලීර ආසාදන නිසා කෙස් යාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Tuberculosis",
-      "sinhala": "ක්ෂය රෝගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Filariasis",
-      "sinhala": "බරවා රෝගය (අලිපාදය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Abscesses",
-      "sinhala": "සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Renal Calculi",
-      "sinhala": "වකුගඩු ගල්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Root"
-  ],
-  "images": [
-    {
-      "image_id": "1215",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/NgmYYxWt/plant00997-01215.jpg"
-    },
-    {
-      "image_id": "402",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/G4kXpb4D/plant00997-00402.jpg"
-    },
-    {
-      "image_id": "403",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/NgvkPK2C/plant00997-00403.jpg"
-    },
-    {
-      "image_id": "404",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/hxRppShD/plant00997-00404.jpg"
-    },
-    {
-      "image_id": "1216",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/39DHHfCP/plant00997-01216.jpg"
-    },
-    {
-      "image_id": "3884",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/ksVb3y9z/plant00997-03884.jpg"
-    },
-    {
-      "image_id": "3885",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/s9sFHc6L/plant00997-03885.jpg"
-    },
-    {
-      "image_id": "3886",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/3yKsY0J8/plant00997-03886.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

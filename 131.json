@@ -1,171 +1,278 @@
 {
-  "scientificName": "Amorphophallus paeoniifolius (Dennst.) Nicolson",
-  "synonyms": [
-    "Amorphophallus campanulatus Decne.",
-    "Amorphophallus campanulatus f. darnleyensis F.M.Bailey",
-    "Amorphophallus campanulatus var. blumei Prain",
-    "Amorphophallus chatty Andrews",
-    "Amorphophallus decurrens (Blanco) Kunth",
-    "Amorphophallus dixenii K.Larsen & S.S.Larsen",
-    "Amorphophallus dubius Blume",
-    "Amorphophallus giganteus Blume",
-    "Amorphophallus gigantiflorus Hayata",
-    "Amorphophallus malaccensis Ridl.",
-    "Amorphophallus microappendiculatus Engl.",
-    "Amorphophallus paeoniifolius var. campanulatus Sivad.",
-    "Amorphophallus rex Prain",
-    "Amorphophallus sativus Blume",
-    "Amorphophallus virosus N.E.Br.",
-    "Arum campanulatum Roxb.",
-    "Arum decurrens Blanco",
-    "Arum phalliferum Oken",
-    "Arum rumphii Gaudich.",
-    "Arum rumphii Oken",
-    "Candarum hookeri Schott",
-    "Candarum roxburghii Schott",
-    "Candarum rumphii Schott",
-    "Conophallus giganteus Schott ex Miq.",
-    "Conophallus sativus (Blume) Schott",
-    "Dracontium paeoniifolium Dennst.",
-    "Dracontium polyphyllum Dennst.",
-    "Dracontium polyphyllum G.Forst.",
-    "Hydrosme gigantiflora (Hayata) S.S.Ying",
-    "Kunda verrucosa Raf.",
-    "Plesmonium nobile Schott",
-    "Pythion campanulatum Mart."
-  ],
-  "familyName": "ARACEAE",
-  "englishNames": [
-    "Telugu Potato",
-    "Elephant Foot Yam",
-    "Elephant Yam",
-    "Telingo Potato",
-    "Sweet Yam",
-    "Corpse Flower"
-  ],
-  "sinhalaName": "Gam kidaram (ගම් කිඩාරම් / ගං කිඩාරං )",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Amorphophallus paeoniifolius (Dennst.) Nicolson",
+    "synonyms": [
+        "Amorphophallus campanulatus Decne.",
+        "Amorphophallus campanulatus f. darnleyensis F.M.Bailey",
+        "Amorphophallus campanulatus var. blumei Prain",
+        "Amorphophallus chatty Andrews",
+        "Amorphophallus decurrens (Blanco) Kunth",
+        "Amorphophallus dixenii K.Larsen & S.S.Larsen",
+        "Amorphophallus dubius Blume",
+        "Amorphophallus giganteus Blume",
+        "Amorphophallus gigantiflorus Hayata",
+        "Amorphophallus malaccensis Ridl.",
+        "Amorphophallus microappendiculatus Engl.",
+        "Amorphophallus paeoniifolius var. campanulatus Sivad.",
+        "Amorphophallus rex Prain",
+        "Amorphophallus sativus Blume",
+        "Amorphophallus virosus N.E.Br.",
+        "Arum campanulatum Roxb.",
+        "Arum decurrens Blanco",
+        "Arum phalliferum Oken",
+        "Arum rumphii Gaudich.",
+        "Arum rumphii Oken",
+        "Candarum hookeri Schott",
+        "Candarum roxburghii Schott",
+        "Candarum rumphii Schott",
+        "Conophallus giganteus Schott ex Miq.",
+        "Conophallus sativus (Blume) Schott",
+        "Dracontium paeoniifolium Dennst.",
+        "Dracontium polyphyllum Dennst.",
+        "Dracontium polyphyllum G.Forst.",
+        "Hydrosme gigantiflora (Hayata) S.S.Ying",
+        "Kunda verrucosa Raf.",
+        "Plesmonium nobile Schott",
+        "Pythion campanulatum Mart."
+    ],
+    "familyName": "ARACEAE",
+    "englishNames": [
+        "Telugu Potato",
+        "Elephant Foot Yam",
+        "Elephant Yam",
+        "Telingo Potato",
+        "Sweet Yam",
+        "Corpse Flower"
+    ],
+    "sinhalaName": "Gam kidaram (ගම් කිඩාරම් / ගං කිඩාරං )",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Swollen Joints",
+            "sinhala": "සන්ධි ඉදිමීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatoid Arthritis",
+            "sinhala": "ආමවාතය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Adenoma",
+            "sinhala": "ග්‍රන්ථිමය පිළිකා (ගෙඩි)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Amenorrhea",
+            "sinhala": "ඔසප් වීම නතර වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Tuber"
+    ],
+    "images": [
+        {
+            "image_id": "1275",
+            "caption": "Flower (about 35cm in diameter)",
+            "url": "https://i.ibb.co/yF1fmTGP/plant00131-01275.jpg"
+        },
+        {
+            "image_id": "3384",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/p6jfrkXS/plant00131-03384.jpg"
+        },
+        {
+            "image_id": "3385",
+            "caption": "Commercial Cultivation (PMR)",
+            "url": "https://i.ibb.co/DfqQV85b/plant00131-03385.jpg"
+        },
+        {
+            "image_id": "3386",
+            "caption": "Tuber (PMR)",
+            "url": "https://i.ibb.co/hRm5xdqq/plant00131-03386.jpg"
+        },
+        {
+            "image_id": "3387",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/0phV7Cp7/plant00131-03387.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කුණු මස් ගඳ ගහන කිඩාරම් මල | kidaram mala | Elephant foot yam flower | rotten flesh smell flower",
+                "url": "https://youtube.com/watch?v=2Zlxz9Vt9e8",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/2Zlxz9Vt9e8/hq720.jpg"
+            },
+            {
+                "title": "කිඩාරම් - Kidaram - Amorphophallus paeoniifolius",
+                "url": "https://youtube.com/watch?v=sSJXy8Z6tO0",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/sSJXy8Z6tO0/hqdefault.jpg"
+            },
+            {
+                "title": "කිඩාරම් ශාකය පිළිබඳ විශේෂ කරුණු ටිකක් | kidaram | Amorphophallus paeoniifoliu🌿",
+                "url": "https://youtube.com/watch?v=CB-xr1rjPi0",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/CB-xr1rjPi0/hqdefault.jpg"
+            },
+            {
+                "title": "කිඩාරම් | ගද ගහන විශාලම පුශ්ඵය | කිඩාරම් අල | 2024",
+                "url": "https://youtube.com/watch?v=isWC0Brfoo4",
+                "duration": "6:21",
+                "thumbnail": "https://i.ytimg.com/vi/isWC0Brfoo4/hqdefault.jpg"
+            },
+            {
+                "title": "කිඩාරම් අල | Elephant foot yam | රූසෝ | Ruuso @RuusoOfficial #science #explained",
+                "url": "https://youtube.com/watch?v=3FyNc1_0gM0",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/3FyNc1_0gM0/hq720.jpg"
+            },
+            {
+                "title": "රසවත් මෙන්ම ගුනයෙන් පිරි කිඩාරම් අල කරියක් හදමු 🥔🥔🍲🍲| elephant foot yum",
+                "url": "https://youtube.com/watch?v=e6U7c_ohn2M",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/e6U7c_ohn2M/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය වටිනාකමක් ඇති කිඩාරම් අල වගාව | Elephant Foot Yam",
+                "url": "https://youtube.com/watch?v=tvvSseogBso",
+                "duration": "9:31",
+                "thumbnail": "https://i.ytimg.com/vi/tvvSseogBso/hq720.jpg"
+            },
+            {
+                "title": "ඇයි කිඩා‍රම් මල මෙච්චර ගඳ Elephant foot yam flower, Stink Lily",
+                "url": "https://youtube.com/watch?v=8_9UZtm7m3k",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/8_9UZtm7m3k/hq720.jpg"
+            },
+            {
+                "title": "Elephant Foot Yam/ කිඩාරම් මල #CleverKids",
+                "url": "https://youtube.com/watch?v=0yErpYBflZo",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/0yErpYBflZo/hqdefault.jpg"
+            },
+            {
+                "title": "කිඩාරම් ගස",
+                "url": "https://youtube.com/watch?v=Hj-zEAmfXWM",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/Hj-zEAmfXWM/hq720.jpg"
+            },
+            {
+                "title": "කිඩාරම් ගැන මේ රහස් ඔබ දන්නවාද?/Elephant foot yam..",
+                "url": "https://youtube.com/watch?v=1k5-eObELVM",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/1k5-eObELVM/hq720.jpg"
+            },
+            {
+                "title": "කිඩාරම් (අර්ශස් නාශක)",
+                "url": "https://youtube.com/watch?v=onScANESB2I",
+                "duration": "0:27",
+                "thumbnail": "https://i.ytimg.com/vi/onScANESB2I/hq720.jpg"
+            },
+            {
+                "title": "Gam kidaram - Kidaran - Elephant Foot Yam - Stink Lily Flower | Sri Lanka Medcine",
+                "url": "https://youtube.com/watch?v=1io0vO1Wa18",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/1io0vO1Wa18/hq720.jpg"
+            },
+            {
+                "title": "නිල මැස්සො ඇවිල්ලා - කිඩාරම් මල  Elephant yam",
+                "url": "https://youtube.com/watch?v=LL1ZroE_Q98",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/LL1ZroE_Q98/hq720.jpg"
+            },
+            {
+                "title": "Wal Kidaram. Senani Jayasundara.",
+                "url": "https://youtube.com/watch?v=vntuDFvExqo",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/vntuDFvExqo/hq720.jpg"
+            },
+            {
+                "title": "40 ඇයි පොලව පලාගෙන අමුතු මල් පහල වෙන්නෙ how to grow Elephant Foot Yam පොච්චියක  කිඩාරම් අල වවමු",
+                "url": "https://youtube.com/watch?v=_OPffYsByvo",
+                "duration": "5:52",
+                "thumbnail": "https://i.ytimg.com/vi/_OPffYsByvo/hq720.jpg"
+            },
+            {
+                "title": "කුණු වූ මස් ගදක් එන කිඩාරම් මල.| Elephant foot yam flower./Stink Lily.",
+                "url": "https://youtube.com/watch?v=UNWbGSgvv9I",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/UNWbGSgvv9I/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Swollen Joints",
-      "sinhala": "සන්ධි ඉදිමීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatoid Arthritis",
-      "sinhala": "ආමවාතය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Adenoma",
-      "sinhala": "ග්‍රන්ථිමය පිළිකා (ගෙඩි)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Amenorrhea",
-      "sinhala": "ඔසප් වීම නතර වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Tuber"
-  ],
-  "images": [
-    {
-      "image_id": "1275",
-      "caption": "Flower (about 35cm in diameter)",
-      "url": "https://i.ibb.co/yF1fmTGP/plant00131-01275.jpg"
-    },
-    {
-      "image_id": "3384",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/p6jfrkXS/plant00131-03384.jpg"
-    },
-    {
-      "image_id": "3385",
-      "caption": "Commercial Cultivation (PMR)",
-      "url": "https://i.ibb.co/DfqQV85b/plant00131-03385.jpg"
-    },
-    {
-      "image_id": "3386",
-      "caption": "Tuber (PMR)",
-      "url": "https://i.ibb.co/hRm5xdqq/plant00131-03386.jpg"
-    },
-    {
-      "image_id": "3387",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/0phV7Cp7/plant00131-03387.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

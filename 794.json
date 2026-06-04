@@ -1,167 +1,274 @@
 {
-  "scientificName": "Sida rhombifolia L.",
-  "synonyms": [
-    "Diadesma rhombifolia (L.) Raf.",
-    "Malva rhombifolia (L.) E.H.L.Krause",
-    "Napaea rhombifolia (L.) Moench",
-    "Sida adjusta Marais",
-    "Sida alba Cav.",
-    "Sida arbuscula Zipp. ex Span.",
-    "Sida canariensis Cav.",
-    "Sida canescens Cav.",
-    "Sida capensis DC.",
-    "Sida compressa DC.",
-    "Sida corynocarpa Wall. ex Mast.",
-    "Sida forsteri Montrouz.",
-    "Sida frutescens DC.",
-    "Sida fryxellii Sivar. & Pradeep",
-    "Sida grata Gand.",
-    "Sida hondensis Kunth",
-    "Sida incerta A.St.-Hil. & Naudin",
-    "Sida insularis Hatus.",
-    "Sida kohautiana C.Presl",
-    "Sida kohautiana Walp.",
-    "Sida nudata Gand.",
-    "Sida philippica DC.",
-    "Sida praelonga Gand.",
-    "Sida pringlei Gand.",
-    "Sida recisa Link",
-    "Sida retusifolia Stokes",
-    "Sida rhombifolia f. umbrosa Hochr.",
-    "Sida rhombifolia subsp. canariensis (Cav.) Pit. & Proust",
-    "Sida rhombifolia subsp. insularis (Hatus.) Hatus.",
-    "Sida rhombifolia var. canariensis (Cav.) Lowe",
-    "Sida rhombifolia var. canescens DC.",
-    "Sida rhombifolia var. corynocarpa (Wall. ex Mast.) S.Y.Hu",
-    "Sida rhombifolia var. guazumifolia K.Schum.",
-    "Sida rhombifolia var. minor Duss",
-    "Sida rhombifolia var. rhomboidea (Roxb.) Mast.",
-    "Sida rhomboidea Roxb.",
-    "Sida ruderata Macfad.",
-    "Sida scabrida Wight & Arn.",
-    "Sida scoparia Vell.",
-    "Sida semicrenata Link",
-    "Sida sinensis J.F.Gmel.",
-    "Sida stipulata Chapm.",
-    "Sida trinervia Splitg. ex de Vriese",
-    "Sida troyana Urb.",
-    "Sida truncatula Blanco"
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Jelly Leaf",
-    "Broom Jute",
-    "Common Sida",
-    "Arrow-leaf Sida"
-  ],
-  "sinhalaName": "Kotikan bebila (කොටිකන් බැබිල)",
-  "description": "වාර්ෂික හෝ බහුවාර්ෂික කුඩා පඳුරු ශාකයකි, කෙලින් වැඩෙන අතර උස මීටර් 0.2-1.5 කි; කඳන් සියුම් රෝම සහිතව රළු වේ. පත්‍ර තලය සෙන්ටිමීටර 1.25-8 x 0.4-2.75(-4.75) වේ; පත්‍ර වෘන්ත (petioles) මිලිමීටර 2-8(-10) දිගු වන අතර රෝම සහිතය; උපපත්‍ර (stipules) මිලිමීටර 3-10 කි. මල් කහ සිට ලා තැඹිලි පැහැයක් ගනී, තනිවම පත්‍ර කක්ෂවල (axillary) හෝ මල් 2-5 ක පොකුරු ලෙස පිහිටයි; මල් වෘන්ත (pedicels) සෙන්ටිමීටර 0.5-1 දිගු වේ; මල් කිරීටය (corolla) සෙන්ටිමීටර 1-1.8 ක විෂ්කම්භයකින් යුක්ත වේ. ඵල ඛණ්ඩ (merocarps) 9-12 ක් පවතින අතර, මිලිමීටර 2.5-3.5 ක් දිගු වේ, කෙටි හෝ දිගු අග්‍රස්ථ කටු (awned) සහිත වන අතර ඒවා මිලිමීටර 1 ක් පමණ දිගු වේ. බීජ මිලිමීටර 2 ක් පමණ දිගු වේ.",
-  "treatments": [
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Sida rhombifolia L.",
+    "synonyms": [
+        "Diadesma rhombifolia (L.) Raf.",
+        "Malva rhombifolia (L.) E.H.L.Krause",
+        "Napaea rhombifolia (L.) Moench",
+        "Sida adjusta Marais",
+        "Sida alba Cav.",
+        "Sida arbuscula Zipp. ex Span.",
+        "Sida canariensis Cav.",
+        "Sida canescens Cav.",
+        "Sida capensis DC.",
+        "Sida compressa DC.",
+        "Sida corynocarpa Wall. ex Mast.",
+        "Sida forsteri Montrouz.",
+        "Sida frutescens DC.",
+        "Sida fryxellii Sivar. & Pradeep",
+        "Sida grata Gand.",
+        "Sida hondensis Kunth",
+        "Sida incerta A.St.-Hil. & Naudin",
+        "Sida insularis Hatus.",
+        "Sida kohautiana C.Presl",
+        "Sida kohautiana Walp.",
+        "Sida nudata Gand.",
+        "Sida philippica DC.",
+        "Sida praelonga Gand.",
+        "Sida pringlei Gand.",
+        "Sida recisa Link",
+        "Sida retusifolia Stokes",
+        "Sida rhombifolia f. umbrosa Hochr.",
+        "Sida rhombifolia subsp. canariensis (Cav.) Pit. & Proust",
+        "Sida rhombifolia subsp. insularis (Hatus.) Hatus.",
+        "Sida rhombifolia var. canariensis (Cav.) Lowe",
+        "Sida rhombifolia var. canescens DC.",
+        "Sida rhombifolia var. corynocarpa (Wall. ex Mast.) S.Y.Hu",
+        "Sida rhombifolia var. guazumifolia K.Schum.",
+        "Sida rhombifolia var. minor Duss",
+        "Sida rhombifolia var. rhomboidea (Roxb.) Mast.",
+        "Sida rhomboidea Roxb.",
+        "Sida ruderata Macfad.",
+        "Sida scabrida Wight & Arn.",
+        "Sida scoparia Vell.",
+        "Sida semicrenata Link",
+        "Sida sinensis J.F.Gmel.",
+        "Sida stipulata Chapm.",
+        "Sida trinervia Splitg. ex de Vriese",
+        "Sida troyana Urb.",
+        "Sida truncatula Blanco"
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Jelly Leaf",
+        "Broom Jute",
+        "Common Sida",
+        "Arrow-leaf Sida"
+    ],
+    "sinhalaName": "Kotikan bebila (කොටිකන් බැබිල)",
+    "description": "වාර්ෂික හෝ බහුවාර්ෂික කුඩා පඳුරු ශාකයකි, කෙලින් වැඩෙන අතර උස මීටර් 0.2-1.5 කි; කඳන් සියුම් රෝම සහිතව රළු වේ. පත්‍ර තලය සෙන්ටිමීටර 1.25-8 x 0.4-2.75(-4.75) වේ; පත්‍ර වෘන්ත (petioles) මිලිමීටර 2-8(-10) දිගු වන අතර රෝම සහිතය; උපපත්‍ර (stipules) මිලිමීටර 3-10 කි. මල් කහ සිට ලා තැඹිලි පැහැයක් ගනී, තනිවම පත්‍ර කක්ෂවල (axillary) හෝ මල් 2-5 ක පොකුරු ලෙස පිහිටයි; මල් වෘන්ත (pedicels) සෙන්ටිමීටර 0.5-1 දිගු වේ; මල් කිරීටය (corolla) සෙන්ටිමීටර 1-1.8 ක විෂ්කම්භයකින් යුක්ත වේ. ඵල ඛණ්ඩ (merocarps) 9-12 ක් පවතින අතර, මිලිමීටර 2.5-3.5 ක් දිගු වේ, කෙටි හෝ දිගු අග්‍රස්ථ කටු (awned) සහිත වන අතර ඒවා මිලිමීටර 1 ක් පමණ දිගු වේ. බීජ මිලිමීටර 2 ක් පමණ දිගු වේ.",
+    "treatments": [
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fractures",
+            "sinhala": "අස්ථි බිඳීම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Pulmonary Tuberculosis",
+            "sinhala": "පෙනහළු ක්ෂය රෝගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "High Fever",
+            "sinhala": "අධික උණ (තද උණ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Abdominal Disorders",
+            "sinhala": "උදර ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Irregular Menstruation",
+            "sinhala": "අක්‍රමවත් ලෙස ආර්තවය (ඔසප් වීම) සිදු වීම (කෂ්ටාර්තව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Chickenpox",
+            "sinhala": "පැපොල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Toothache",
+            "sinhala": "දත් කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant",
+        "Leaves"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ගස් බැබිල , කොටිකන් බැබිල, Babila. #education #herbs #medicinalherbs #nature #garden #herbalmedicine",
+                "url": "https://youtube.com/watch?v=VK_DRbNhovI",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/VK_DRbNhovI/hq720.jpg"
+            },
+            {
+                "title": "බැබිල ශාකයේ තිබෙන ඖෂධීය ගුණයෙන් දැනගන්න වීඩියෝව බලන්න",
+                "url": "https://youtube.com/watch?v=H-hrAwEH-N4",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/H-hrAwEH-N4/hq720.jpg"
+            },
+            {
+                "title": "බලන්න මේ බැබිල වර්ගය දැකලා තියෙනවද කියලා?",
+                "url": "https://youtube.com/watch?v=tAq0v0GBUSc",
+                "duration": "1:22",
+                "thumbnail": "https://i.ytimg.com/vi/tAq0v0GBUSc/hq720.jpg"
+            },
+            {
+                "title": "බැබිල ගැන ඇත්තටම  වටිනා   විස්තරයක් දැන ගමු babila (sida)",
+                "url": "https://youtube.com/watch?v=E_DWnH56Fr8",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/E_DWnH56Fr8/hqdefault.jpg"
+            },
+            {
+                "title": "ස්නායු මෙන්ම බොහෝ රෝගයන්ට සුවය ගෙනෙන බැබිල. Babila brings healing to many diseases like nerves",
+                "url": "https://youtube.com/watch?v=G0czG2PVP5Y",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/G0czG2PVP5Y/hq720.jpg"
+            },
+            {
+                "title": "😱😱හීන් බැබිල ශාක වල විශේෂ ගුණ😱😱",
+                "url": "https://youtube.com/watch?v=oHk7QrKsXb0",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/oHk7QrKsXb0/hq720.jpg"
+            },
+            {
+                "title": "සිරිවැඩි බැබිල | බැබිල කුලයේ බලවතා |ඔසුගුණ වරුණ (ඔසුපැල අංක - 02) | දරුඵල නොමැති අයට ඔසුවකි",
+                "url": "https://youtube.com/watch?v=2uIefdseC2I",
+                "duration": "1:24",
+                "thumbnail": "https://i.ytimg.com/vi/2uIefdseC2I/hq720.jpg"
+            },
+            {
+                "title": "Ayurvedic Plant of Sri lankan  | බෙහෙත් බැබිල - හීං බැබිල",
+                "url": "https://youtube.com/watch?v=Xi1qOpsBKTk",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/Xi1qOpsBKTk/hq720.jpg"
+            },
+            {
+                "title": "Babila/බැබිල/sida alnifolila/medicinal /#ishan#/#malvaseea#",
+                "url": "https://youtube.com/watch?v=0ttEKYTD-Us",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/0ttEKYTD-Us/hq720.jpg"
+            },
+            {
+                "title": "Medicinal Plants Names and Pictures | 50 Medicinal Plants | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=2Fk5D9OQR-w",
+                "duration": "7:15",
+                "thumbnail": "https://i.ytimg.com/vi/2Fk5D9OQR-w/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "මොළයේ ක්‍රියාකාරීත්වයට වටිනා සේවයක් කළ හැකි ශාකය වේදනා නාශක ගුණය අඩංගු බැබිල babila sakaya",
+                "url": "https://youtube.com/watch?v=KoJOHvuZl98",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/KoJOHvuZl98/hq720.jpg"
+            },
+            {
+                "title": "​මිදුලේ වැවෙන මේ පඳුරේ මෙච්චර ගුණයක් තිබුණාද? හීං බැබිල ගැන හැමෝම දැනගත යුතු දේ | heenbebila",
+                "url": "https://youtube.com/watch?v=SO63_0nrCkE",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/SO63_0nrCkE/hq720.jpg"
+            },
+            {
+                "title": "Babila/බැබිල/sida alnifolila/medicinal benefits sinhala beheth natural remedies @newtopSL",
+                "url": "https://youtube.com/watch?v=zgs9M0iVltg",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/zgs9M0iVltg/hq720.jpg"
+            },
+            {
+                "title": "බැබිල වල ඔබ නොදන්නා ගුණ #බැබිල #bebila #athbeheth #sinhala_ath_beheth",
+                "url": "https://youtube.com/watch?v=1rOaRwu1eew",
+                "duration": "0:32",
+                "thumbnail": "https://i.ytimg.com/vi/1rOaRwu1eew/hq720.jpg"
+            },
+            {
+                "title": "Sida acuta, a medicinal plant of India, #forest #odisha #conservation #medicinalplant #biodiversity",
+                "url": "https://youtube.com/watch?v=W0eYdU_kbV4",
+                "duration": "0:10",
+                "thumbnail": "https://i.ytimg.com/vi/W0eYdU_kbV4/hq720_2.jpg"
+            },
+            {
+                "title": "බැබිල  ශාකය  ⁣(බෙහෙත් පැළැටියකි) babila #Shorts",
+                "url": "https://youtube.com/watch?v=1_KNYzVqWdQ",
+                "duration": "0:12",
+                "thumbnail": "https://i.ytimg.com/vi/1_KNYzVqWdQ/hq720_2.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fractures",
-      "sinhala": "අස්ථි බිඳීම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Pulmonary Tuberculosis",
-      "sinhala": "පෙනහළු ක්ෂය රෝගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "High Fever",
-      "sinhala": "අධික උණ (තද උණ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Abdominal Disorders",
-      "sinhala": "උදර ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Irregular Menstruation",
-      "sinhala": "අක්‍රමවත් ලෙස ආර්තවය (ඔසප් වීම) සිදු වීම (කෂ්ටාර්තව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Chickenpox",
-      "sinhala": "පැපොල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Toothache",
-      "sinhala": "දත් කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant",
-    "Leaves"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

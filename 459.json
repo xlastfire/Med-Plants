@@ -1,33 +1,716 @@
 {
-  "scientificName": "Diospyros walkeri (Wight) Gürke",
-  "synonyms": [
-    "Diospyros gardneri Thwaites",
-    "Diospyros undulata var. walkeri (Wight) Bakh."
-  ],
-  "familyName": "EBENACEAE",
-  "englishNames": [
-    "Bastard Ebony"
-  ],
-  "sinhalaName": "Hampenela (හම්පෙනෙල)",
-  "description": "",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "2077",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/JWBqHSRD/plant00459-02077.jpg"
+    "scientificName": "Diospyros walkeri (Wight) Gürke",
+    "synonyms": [
+        "Diospyros gardneri Thwaites",
+        "Diospyros undulata var. walkeri (Wight) Bakh."
+    ],
+    "familyName": "EBENACEAE",
+    "englishNames": [
+        "Bastard Ebony"
+    ],
+    "sinhalaName": "Hampenela (හම්පෙනෙල)",
+    "description": "",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "2077",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/JWBqHSRD/plant00459-02077.jpg"
+        },
+        {
+            "image_id": "2078",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/cS6vNc7R/plant00459-02078.jpg"
+        },
+        {
+            "image_id": "2079",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/Zz7JK2q3/plant00459-02079.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මෙව්වනම් 😂අපේ නැන්දම්මනම් එහෙම නැ හැබැයි 😌#funnyvideo #funny #trending #viral #comedy",
+                "url": "https://youtube.com/watch?v=ajLBkM_MPmc",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/ajLBkM_MPmc/hq720.jpg"
+            },
+            {
+                "title": "ඇඹිලිපිටියේ ඇඟලුම් කම්හල් ගින්නෙන් 22 ක් රෝහලේ",
+                "url": "https://youtube.com/watch?v=_hCOGDy_R4A",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/_hCOGDy_R4A/hq720.jpg"
+            },
+            {
+                "title": "හෝමූස් අවහිරය වැලැක්වීමට නේටෝ හමුදාවෙන් සැලසුමක්",
+                "url": "https://youtube.com/watch?v=mexioIAhmE4",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/mexioIAhmE4/hq720.jpg"
+            },
+            {
+                "title": "මට ගැහුවොත් 1 vs 4 | ROAD TO 20k",
+                "url": "https://youtube.com/watch?v=jsZJIsub6CA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/jsZJIsub6CA/hq720.jpg"
+            },
+            {
+                "title": "ඔයාලා කොහොමද ඔහොම මිනිස්සුන්ට මැරෙන්න කියලා හෙන ඉල්ලන්නෙ",
+                "url": "https://youtube.com/watch?v=5Ia69OzXTXA",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/5Ia69OzXTXA/hq720_2.jpg"
+            },
+            {
+                "title": "📍කොළඹ මුල්ලේරියාව ගල්වාන හන්දියෙන් සුපිරි දෙමහල් නිවසක් job no - 11667",
+                "url": "https://youtube.com/watch?v=7BKRJMCKMZQ",
+                "duration": "0:54",
+                "thumbnail": "https://i.ytimg.com/vi/7BKRJMCKMZQ/hq720_2.jpg"
+            },
+            {
+                "title": "පල්ලේගම හේමරතන හිමිගේ සිද්ධිය ගැන පාඨලි කට අරියි! | Webnews.lk",
+                "url": "https://youtube.com/watch?v=vdCXC72PHhE",
+                "duration": "0:48",
+                "thumbnail": "https://i.ytimg.com/vi/vdCXC72PHhE/hq720.jpg"
+            },
+            {
+                "title": "පූජ්‍ය පල්ලේගම හේමරතන හිමිගේ නුවර කලාවියේ ප්‍රධාන සංඝනායක පදවිය අත්හිටුවයි..",
+                "url": "https://youtube.com/watch?v=IHBdsI1YjAM",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/IHBdsI1YjAM/hq720_2.jpg"
+            },
+            {
+                "title": "පෙරේතයෝන්ගෙ නිමාවක් නැති සටන. ⚔️🍔 Episode 01 / Can we win? - FOOD vs WE",
+                "url": "https://youtube.com/watch?v=yResUuNp2bg",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/yResUuNp2bg/hq720.jpg"
+            },
+            {
+                "title": "කොකො ෆීට් වල මුල් අද්දන ලද පැළ තුන්සිය පනහෙන්. වර්ගරැසකින්#0772106907",
+                "url": "https://youtube.com/watch?v=0pmaAGSTiJs",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/0pmaAGSTiJs/hqdefault.jpg"
+            },
+            {
+                "title": "ගම්මන්පිල බයවෙලා🤣#stitch#嗡嗡嗡#reels#duet#comedy#colonelkkjϟ#follow#news#highlights#motivation",
+                "url": "https://youtube.com/watch?v=31_CaKyzN7s",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/31_CaKyzN7s/hq720.jpg"
+            },
+            {
+                "title": "ලිලී සිසෝ සහ plash පැළ පනහම 15000ට#0772106907",
+                "url": "https://youtube.com/watch?v=CAC3TG31i6k",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/CAC3TG31i6k/hq720.jpg"
+            },
+            {
+                "title": "හීවිතේ හැමදාම ලෙසිවෙන් නෑ...#motivation #meditation #quotes #buddha",
+                "url": "https://youtube.com/watch?v=S5BJGpnSAHU",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/S5BJGpnSAHU/hq720.jpg"
+            },
+            {
+                "title": "කඳු වළලු අතර සැඟවූ පැරණි පන්සල | ප්‍රතිසංස්කරණයෙන් පසු සුන්දර දර්ශනය 🇱🇰",
+                "url": "https://youtube.com/watch?v=rESQhwDephU",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/rESQhwDephU/hq720.jpg"
+            },
+            {
+                "title": "හාමුදුරුවන් මාව කාමරේට ඇදගෙන ගියා ලිංගේ පෙන්නුවා පල්ලේගම හිමියන් ගැන මව ඇත්ත හෙලිකරයි pathum kenerra",
+                "url": "https://youtube.com/watch?v=UXNFmvliwQk",
+                "duration": "9:31",
+                "thumbnail": "https://i.ytimg.com/vi/UXNFmvliwQk/hq720.jpg"
+            },
+            {
+                "title": "ඕකට ප්‍රංශයට යන්න ඕනේ නෑ, බන්ධනාගාරයේ පොත ගෙන්නගත්තා නම් හරි - ගම්මන්පිල 💥 #shorts",
+                "url": "https://youtube.com/watch?v=FAboOEesAdg",
+                "duration": "0:06",
+                "thumbnail": "https://i.ytimg.com/vi/FAboOEesAdg/hq720_2.jpg"
+            },
+            {
+                "title": "UNP වල් අලියා කුලප්පුවෙයි. සජිත්ට සජබෙට හැකිතරම් මඩ ගහන්න",
+                "url": "https://youtube.com/watch?v=rCZ3q6fteCg",
+                "duration": "18:01",
+                "thumbnail": "https://i.ytimg.com/vi/rCZ3q6fteCg/hq720.jpg"
+            },
+            {
+                "title": "හැම පන්සලකින්ම රුපියල් 20 ගානේ එකතු කරලා මේ සිංහයා බේරාගමු.#amithweerasingha",
+                "url": "https://youtube.com/watch?v=CH_LnZChTjo",
+                "duration": "0:09",
+                "thumbnail": "https://i.ytimg.com/vi/CH_LnZChTjo/hq720.jpg"
+            },
+            {
+                "title": "හේමරතන හිමි ගේ අහවල් එකට පණ නැහැ ? | පන්සලේ අවාස කාමරේදී කෙල්ලට කරපු දේ මෙන්න | තවත් DNA වාර්තාවක්",
+                "url": "https://youtube.com/watch?v=RwSu7ouzJ_g",
+                "duration": "29:56",
+                "thumbnail": "https://i.ytimg.com/vi/RwSu7ouzJ_g/hq720.jpg"
+            },
+            {
+                "title": "පිළිමයකට පණ ඇවිත්වගේ.... 🥺🙏 | #Shorts #AmaaGanga",
+                "url": "https://youtube.com/watch?v=5lujQDgnC2A",
+                "duration": "0:13",
+                "thumbnail": "https://i.ytimg.com/vi/5lujQDgnC2A/hq720_2.jpg"
+            },
+            {
+                "title": "ජනපති අනුර දිසානායකත් එක්වන නාවික හමුදාවේ ඓතිහාසික උත්සවය | සජීවී විකාශය මෙන්න",
+                "url": "https://youtube.com/watch?v=5OF8zD4bejE",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/5OF8zD4bejE/hq720.jpg"
+            },
+            {
+                "title": "පිස්සු හැදෙන කිට් එකක් දීලා",
+                "url": "https://youtube.com/watch?v=2_3lrwigTQg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/2_3lrwigTQg/hq720.jpg"
+            },
+            {
+                "title": "Package 1744මල් එක්කමල් ආසන්න පැල පනහක්#0772106907 #sold",
+                "url": "https://youtube.com/watch?v=OF4aXrPqubI",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/OF4aXrPqubI/hqdefault.jpg"
+            },
+            {
+                "title": "අමාත්‍ය විජිතට ඓතිහාසික පිළිගැනීමක්",
+                "url": "https://youtube.com/watch?v=HhRTJ5__wCs",
+                "duration": "0:27",
+                "thumbnail": "https://i.ytimg.com/vi/HhRTJ5__wCs/hq720.jpg"
+            },
+            {
+                "title": "පල්ලේගම හේමරතන ආරක්ෂා කලේ කවුද?😲 සිවුර අස්සෙ තිබුණු බල ජාලය මෙන්න. රහස් හෙළිදරව්ව..#sltunewm",
+                "url": "https://youtube.com/watch?v=R8SQNks97Zw",
+                "duration": "6:57",
+                "thumbnail": "https://i.ytimg.com/vi/R8SQNks97Zw/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලිකෑවම ලැබෙන විස්මිත ගුණ  |Amla",
+                "url": "https://youtube.com/watch?v=2QYgT4vV1s8",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/2QYgT4vV1s8/hqdefault.jpg"
+            },
+            {
+                "title": "උලුහාල් වල ඇති විශ්මිත ගුණ ගැන ඔබ නොදත්දේ",
+                "url": "https://youtube.com/watch?v=9i7g1nKKljY",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/9i7g1nKKljY/hq720.jpg"
+            },
+            {
+                "title": "ඉහල ඔසු ගුණයක් ඇති හොඬපර.......                Episode 21",
+                "url": "https://youtube.com/watch?v=amukqzVJVGo",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/amukqzVJVGo/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ආමන්ඩ් ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදු වෙන විශ්මිත දේවල් 12ක් | 12 Health Benefits of Almonds",
+                "url": "https://youtube.com/watch?v=Fd8_EKAo9QU",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/Fd8_EKAo9QU/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "හීන්බෝවිටියා වල ගුණ | හීන්බෝවිටියා ලෙඩ රෝග කිහිපයකට ගුණදායකයි | Health benefits of Heen Bovitiya",
+                "url": "https://youtube.com/watch?v=gPgK8x0YzGc",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/gPgK8x0YzGc/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට හදවතට මෙච්චර ගුණ උණ ලංකාවෙ කන්නෙ නෑ bamboo health benifits",
+                "url": "https://youtube.com/watch?v=sI8k8Vdiffc",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/sI8k8Vdiffc/hq720.jpg"
+            },
+            {
+                "title": "ඉන්සියුලින් වලටත් වඩා වේගවත්ව රුධිර සීනි මට්ටම අඩුකරන ලෙඩ රෝග රැසකට ගුණ දෙන විශ්මිත පළතුරක් මෙන්න..!",
+                "url": "https://youtube.com/watch?v=b7rsE0onMV0",
+                "duration": "4:52",
+                "thumbnail": "https://i.ytimg.com/vi/b7rsE0onMV0/hq720.jpg"
+            },
+            {
+                "title": "උළු හාල් වතුර වීදුරුවක් දිනපතා පානය කිරීමෙන් ඔබේ ශරීරයට සිදු වෙන දේවල් 06ක් | 06 benefits of Uluhal",
+                "url": "https://youtube.com/watch?v=y_-acBKhFTo",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/y_-acBKhFTo/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "අරුම පුදුම ගුණ ගෙන දෙන විශ්මිත පළතුර බෙතෙත් නෙල්ලි",
+                "url": "https://youtube.com/watch?v=9IARtHMdjtM",
+                "duration": "5:52",
+                "thumbnail": "https://i.ytimg.com/vi/9IARtHMdjtM/hq720.jpg"
+            },
+            {
+                "title": "බිලිං වල මෙවැනි ගුණයක් තියෙනවා කියල ඔබ දැන සිටියාද? #nature #helth #health #healthy #healthylife",
+                "url": "https://youtube.com/watch?v=YEd7qvUtwSg",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/YEd7qvUtwSg/hqdefault.jpg"
+            },
+            {
+                "title": "දිනපතා හණ ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 8ක් | 8 Health Benefits Of Eating Flaxseeds",
+                "url": "https://youtube.com/watch?v=Qb26INPmYAY",
+                "duration": "10:10",
+                "thumbnail": "https://i.ytimg.com/vi/Qb26INPmYAY/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා උදෑසන උළු හාල් වතුර වීදුරුවකින් දවස පටන් ගත්තොත් ඔබට ලැබෙන වටිනා වාසි 10 ක්",
+                "url": "https://youtube.com/watch?v=YghdyV7tigk",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/YghdyV7tigk/hqdefault.jpg"
+            },
+            {
+                "title": "uluhal guna-දියවැඩියාවට ගුණ දෙන උළුහාල්",
+                "url": "https://youtube.com/watch?v=o-yN-slEvbo",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/o-yN-slEvbo/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්තකින් ලැබෙන ප්‍රයෝජන(@ALAgriculturalScience)",
+                "url": "https://youtube.com/watch?v=aQjeyZXBDPs",
+                "duration": "23:56",
+                "thumbnail": "https://i.ytimg.com/vi/aQjeyZXBDPs/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ආර්ථිකය හදන හැටි චමර සම්පත්ට ජනාධිපතිගෙන් පැහැදිලි උත්තරයක්!\"",
+                "url": "https://youtube.com/watch?v=HdosQuT2hGE",
+                "duration": "20:03",
+                "thumbnail": "https://i.ytimg.com/vi/HdosQuT2hGE/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් මිනිසාට ඇති ප්‍රයෝජන, අප අවට සත්තු,sathungen minisata athi preyojana, Apa awata saththu,",
+                "url": "https://youtube.com/watch?v=QKzQ_lIBcr4",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/QKzQ_lIBcr4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "පවුලක යහපත් පැවැත්ම සඳහා පවුලේ සාමාජිකයින්ට කළ හැකි දේවල් | 2 ශ්‍රේණීය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=tQNnPAJ_hFY",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/tQNnPAJ_hFY/hq720.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "Benefits Of Trees | ගස්වලින් ලැබෙන ප්‍රයෝජන 🌳",
+                "url": "https://youtube.com/watch?v=LZeEzBhxUGg",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/LZeEzBhxUGg/hq720.jpg"
+            },
+            {
+                "title": "Grade 1 and 2 | Parisaraya | ජලයෙන් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=GCpNF7Cy-ak",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/GCpNF7Cy-ak/hqdefault.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන - Benefits of Water",
+                "url": "https://youtube.com/watch?v=kt5Lgg90GcA",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/kt5Lgg90GcA/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් අපට ලැබෙන ප්‍රයෝජන @SmartKidllh",
+                "url": "https://youtube.com/watch?v=1N7t1L3Hwhw",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/1N7t1L3Hwhw/hqdefault.jpg"
+            },
+            {
+                "title": "USES OF A TREE - ගසක ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=cl84fGVdUvc",
+                "duration": "4:48",
+                "thumbnail": "https://i.ytimg.com/vi/cl84fGVdUvc/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits to us from the coconut tree#jana agri#srilanka",
+                "url": "https://youtube.com/watch?v=O3S0onsKMRo",
+                "duration": "12:46",
+                "thumbnail": "https://i.ytimg.com/vi/O3S0onsKMRo/hq720.jpg"
+            },
+            {
+                "title": "Relationship between plants and animals | 4 ශ්‍රේණිය/පරිසරය/ශාක හා සතුන් අතර සම්බන්ධතාවය.",
+                "url": "https://youtube.com/watch?v=gMqvtRLdvLM",
+                "duration": "14:40",
+                "thumbnail": "https://i.ytimg.com/vi/gMqvtRLdvLM/hq720.jpg"
+            },
+            {
+                "title": "The Powerful Healer Hiding In Your Backyard",
+                "url": "https://youtube.com/watch?v=Sxzqg_BclSE",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/Sxzqg_BclSE/hq720.jpg"
+            },
+            {
+                "title": "7 Bromelain Benefits",
+                "url": "https://youtube.com/watch?v=HKq54cfqQa0",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/HKq54cfqQa0/hq720.jpg"
+            },
+            {
+                "title": "Welpenela Benefits : පිරිමි ගෙදරම තියාගන්න ගහපු වැල් පෙනෙල ගැටේ මෙන්න",
+                "url": "https://youtube.com/watch?v=gjqX33rzqng",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/gjqX33rzqng/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits of Chamomile To Know! | Health Benefits Of Chamomile Tea",
+                "url": "https://youtube.com/watch?v=gzpwzEGtvq8",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/gzpwzEGtvq8/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Chamomile | මෙහි ඇති වටිනා රහස් මොනවද?",
+                "url": "https://youtube.com/watch?v=qqeaLgyt99A",
+                "duration": "14:45",
+                "thumbnail": "https://i.ytimg.com/vi/qqeaLgyt99A/hqdefault.jpg"
+            },
+            {
+                "title": "Bitter Melon: Benefits and Uses (Ampalaya)",
+                "url": "https://youtube.com/watch?v=GVnNbcAtMRw",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/GVnNbcAtMRw/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Bitter Leaf Health Benefits ( & SIDE EFFECTS)",
+                "url": "https://youtube.com/watch?v=qtQZNnaVCDQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/qtQZNnaVCDQ/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "The AMAZING Health Benefits of SEED UNDER LEAF.",
+                "url": "https://youtube.com/watch?v=cAJp-NJSYXA",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/cAJp-NJSYXA/hqdefault.jpg"
+            },
+            {
+                "title": "15 health benefits of scent leaf",
+                "url": "https://youtube.com/watch?v=Di1iaGgKXlY",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/Di1iaGgKXlY/hqdefault.jpg"
+            },
+            {
+                "title": "Bitter Leaf: Benefits for Health",
+                "url": "https://youtube.com/watch?v=gMUH7ap8cdE",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/gMUH7ap8cdE/hq720.jpg"
+            },
+            {
+                "title": "Top 10 Powerful Medicinal Herbs of Sri Lanka | Health Benefits & Ancient Remedies.#healthyliving",
+                "url": "https://youtube.com/watch?v=hno-xmdSW_Q",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/hno-xmdSW_Q/hq720.jpg"
+            },
+            {
+                "title": "Indian Gooseberry ( Amla ) and Its Incredible Health Benefits",
+                "url": "https://youtube.com/watch?v=O21VWukqDSc",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/O21VWukqDSc/hq720.jpg"
+            },
+            {
+                "title": "News Alert  ඇමරිකාවෙන් ලැබුණු නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත් කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=QoxbefYPMS4",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/QoxbefYPMS4/hq720.jpg"
+            },
+            {
+                "title": "🔴 LIVE AT SRI LANKA - 06.50 ප්‍රධාන ප්‍රවෘත්ති විකාශය - 2026.06.04",
+                "url": "https://youtube.com/watch?v=0KVzlyLZ9OY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/0KVzlyLZ9OY/hq720.jpg"
+            },
+            {
+                "title": "විශේෂ හාස්කම් දේවමෙහෙය / SPECIAL HEALING SERVICE 2026.06.04",
+                "url": "https://youtube.com/watch?v=AAAMrPYx1VI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/AAAMrPYx1VI/hq720.jpg"
+            },
+            {
+                "title": "මානව ප්‍රජනනය | Day 2",
+                "url": "https://youtube.com/watch?v=DDMNjXBOnXs",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/DDMNjXBOnXs/hq720.jpg"
+            },
+            {
+                "title": "උගුඩු කවිය ♥️🍃 ලංකාවට ආවේණික, උගුඩු හල් 🔴 Symplocos coronata Thwaites",
+                "url": "https://youtube.com/watch?v=ZD9oYpnF8Gc",
+                "duration": "0:39",
+                "thumbnail": "https://i.ytimg.com/vi/ZD9oYpnF8Gc/hq720_2.jpg"
+            },
+            {
+                "title": "​සොබාදහමේ අසිරිමත් ඔසුව: \"ඉරමුසු\" (Indian Sarsaparilla) ඖෂධීය ගුණ | Raveendra Osu Sewana #Iramusu",
+                "url": "https://youtube.com/watch?v=KolAsz0mNZU",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/KolAsz0mNZU/hq720.jpg"
+            },
+            {
+                "title": "අත හිරිවැටෙනවා නම් මේ ගැන දැනගන්න",
+                "url": "https://youtube.com/watch?v=OS-sI-b4Y7A",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/OS-sI-b4Y7A/hq720_2.jpg"
+            },
+            {
+                "title": "Nugasewana | HK Homoeopathi - Dr Anusha Hemakumara | 2026-06-03 | Rupavahini",
+                "url": "https://youtube.com/watch?v=3ztR0eOPmGQ",
+                "duration": "14:01",
+                "thumbnail": "https://i.ytimg.com/vi/3ztR0eOPmGQ/hq720.jpg"
+            },
+            {
+                "title": "The Hosta secret every gardener should know #herbalist #gardeningtips #plantmedicine",
+                "url": "https://youtube.com/watch?v=x_-RiRpoBBk",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/x_-RiRpoBBk/hq720_2.jpg"
+            },
+            {
+                "title": "බුදුන් පුදන ඖෂධ වර්ග 108 මෙන්න",
+                "url": "https://youtube.com/watch?v=SuMnT67W53Q",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/SuMnT67W53Q/hq720.jpg"
+            },
+            {
+                "title": "කොන්දේ හා අත් පා වල තිබූ අදික හිරිවැටීම නිසා ඇවිදගන්නවත් බැරුව ආපු මට දැන් 100%ක් සුවයි",
+                "url": "https://youtube.com/watch?v=MS2hPXmazVg",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/MS2hPXmazVg/hq720.jpg"
+            },
+            {
+                "title": "ඔලුවේ උදුගොව්වා කෑම දින 7න් නවත්වන සුපිරිම ක්‍රම 10 | Udugovva Kema Treatment Sri Lanka",
+                "url": "https://youtube.com/watch?v=kw0UJcr0bLA",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/kw0UJcr0bLA/hq720.jpg"
+            },
+            {
+                "title": "ඇඟපතේ වේදනාවට ආයුර්වේදයෙන් පිළියම්, අභ්‍යංග ප්‍රතිකාරයේ රහස්!",
+                "url": "https://youtube.com/watch?v=qWC6Zn40Sl8",
+                "duration": "21:55",
+                "thumbnail": "https://i.ytimg.com/vi/qWC6Zn40Sl8/hq720.jpg"
+            },
+            {
+                "title": "ඇට්ටමුරා (ඇටඹුරු) දේශීය හෙළ වෙදකමේ මහාර්ඝ ඔසුව - #Ettamura #Medicinal #Plant",
+                "url": "https://youtube.com/watch?v=R-O8lYlimRQ",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/R-O8lYlimRQ/hq720_2.jpg"
+            },
+            {
+                "title": "ශක්තිය වඩවන දිව්‍යමය ඖෂධය ||The divine potion that increases strength #Amukkara",
+                "url": "https://youtube.com/watch?v=JNtQ2Yhl1iM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/JNtQ2Yhl1iM/hqdefault.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "ස්වසන රෝග රැසකට ගුණ දෙන එළබටු #nature #health #tips #healthylifestyle #viral #shortvideo",
+                "url": "https://youtube.com/watch?v=bgdiOKU6Wkw",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/bgdiOKU6Wkw/hq720_2.jpg"
+            },
+            {
+                "title": "තද උණ වමනය හෝ හිසරදය ඇත්නම් බලාගෙනයි - වහාම බෙහෙත් ගන්න සෞඛ්‍ය අංශ කියයි.",
+                "url": "https://youtube.com/watch?v=nkAR2ZxCQ-0",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/nkAR2ZxCQ-0/hqdefault.jpg"
+            },
+            {
+                "title": "හෝමියෝපති තුලින් කොදු ඇටපෙළ ආශ්‍රිත රෝග පූර්ණ සුවය ලබමු",
+                "url": "https://youtube.com/watch?v=Ebxco3bWuGY",
+                "duration": "56:06",
+                "thumbnail": "https://i.ytimg.com/vi/Ebxco3bWuGY/hqdefault.jpg"
+            },
+            {
+                "title": "පාද හිරි වැටීම කොන්දේ අමාරුවට බලපෑම් කරන්නේ කෙසේදැයි දැනුවත් වෙමු",
+                "url": "https://youtube.com/watch?v=W_bcOhc73vg",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/W_bcOhc73vg/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රාශියක් තියෙන වැල් පෙනෙල තෙම්පරාදුව | #valpenela themparaduwa",
+                "url": "https://youtube.com/watch?v=Qggk_7WpNNQ",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/Qggk_7WpNNQ/hqdefault.jpg"
+            },
+            {
+                "title": "😱😱වැල් පෙනෙල ශාකයේ ගුණ😱😱",
+                "url": "https://youtube.com/watch?v=-dCfb6_fwA0",
+                "duration": "1:24",
+                "thumbnail": "https://i.ytimg.com/vi/-dCfb6_fwA0/hq720.jpg"
+            },
+            {
+                "title": "වැල්පෙනෙල ( Walpenela) - Cardiospermum Halicacabum",
+                "url": "https://youtube.com/watch?v=2j2oDoN5i8M",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/2j2oDoN5i8M/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල |  Wel Penela | Balloon Vine | Sri lankan Aurvedic plant",
+                "url": "https://youtube.com/watch?v=AJQlGzSzy7c",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/AJQlGzSzy7c/hq720.jpg"
+            },
+            {
+                "title": "ලිංගික ශක්තිය වඩවන වැල් පෙනෙල#Balloon Vine",
+                "url": "https://youtube.com/watch?v=9-UnTPUyE4E",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/9-UnTPUyE4E/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙණෙල තෙල් දාලා | ඔසු ගුණ පිරි පෙනෙල| nisha vlogs | easy recipe | limited life",
+                "url": "https://youtube.com/watch?v=66v9VtsoAuM",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/66v9VtsoAuM/hq720.jpg"
+            },
+            {
+                "title": "පාරම්පරික ඖෂධීය වැල්පෙනල ශාකයේ වට්ටෝරුව /walpelena",
+                "url": "https://youtube.com/watch?v=nbPLny0yI_s",
+                "duration": "12:37",
+                "thumbnail": "https://i.ytimg.com/vi/nbPLny0yI_s/hq720.jpg"
+            },
+            {
+                "title": "වැල්පෙනෙල කැඳ / kolakenda / herbalporridge / වැල්පෙනෙල වල ඖෂධීය ගුණය / ඔසු කැඳ  / SriLankanFlavors",
+                "url": "https://youtube.com/watch?v=B_jPYne2e88",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/B_jPYne2e88/hq720.jpg"
+            },
+            {
+                "title": "සුපිරි  වැල් පෙනෙල කොළ කැඳ.  එන්න පානදුරේ මඩකුඹුර හන්දියට",
+                "url": "https://youtube.com/watch?v=YiirZ7jEEgE",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/YiirZ7jEEgE/hq720.jpg"
+            },
+            {
+                "title": "ධාතු ශක්තිය වැඩි කරන වැල් පෙනෙල..",
+                "url": "https://youtube.com/watch?v=vtJT06-YK48",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/vtJT06-YK48/hq720.jpg"
+            },
+            {
+                "title": "රස වගේම ඖෂධීය ගුණයක් ඇති වැල් පෙනෙල කොළ කැඳ| Kola Kenda| Kola Kenda Recipes|  Welpenela Kola Kenda",
+                "url": "https://youtube.com/watch?v=uh4EGKiTdWo",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/uh4EGKiTdWo/hq720.jpg"
+            },
+            {
+                "title": "07 වන තේමාව | 02 වන පාඩම - ආහාර වලින් තිබෙන ප්‍රයෝජන | 01 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=ExJxQg6i2JI",
+                "duration": "13:28",
+                "thumbnail": "https://i.ytimg.com/vi/ExJxQg6i2JI/hq720.jpg"
+            },
+            {
+                "title": "පරාගනය කියන්නේ... | පරිසරය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=6ku28DQnc8Q",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/6ku28DQnc8Q/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "තම්පලා කෑවට කමක් නැද්ද : Amaranth Benefits",
+                "url": "https://youtube.com/watch?v=W7R_gR9mc84",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/W7R_gR9mc84/hq720.jpg"
+            },
+            {
+                "title": "ඇඹරැල්ලාවල විශ්මිත ගුණ මෙන්න : Organic Foods: 5 benefits of Ebarella 2019",
+                "url": "https://youtube.com/watch?v=WeZRzSmQisE",
+                "duration": "1:41",
+                "thumbnail": "https://i.ytimg.com/vi/WeZRzSmQisE/hq720.jpg"
+            },
+            {
+                "title": "Henbit (Lamium amplexicaule) Wild Edible and Medicinal plants of the Southeastern United states.",
+                "url": "https://youtube.com/watch?v=o7SKiErt0QY",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/o7SKiErt0QY/hq720.jpg"
+            },
+            {
+                "title": "Medicinal Benefits of Chamomile",
+                "url": "https://youtube.com/watch?v=SK6bd3iBh7s",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/SK6bd3iBh7s/hq720.jpg"
+            },
+            {
+                "title": "The Science of Ambunu (Scientific Facts)",
+                "url": "https://youtube.com/watch?v=7FFvN-pqAFo",
+                "duration": "7:17",
+                "thumbnail": "https://i.ytimg.com/vi/7FFvN-pqAFo/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Phyllanthus plants:  (Chanca piedra, Bhumi Amla)",
+                "url": "https://youtube.com/watch?v=qBghgtxcyrg",
+                "duration": "5:23",
+                "thumbnail": "https://i.ytimg.com/vi/qBghgtxcyrg/hq720.jpg"
+            },
+            {
+                "title": "තම්පලා කෑවට කමක් නැද්ද : Amaranth Benefits",
+                "url": "https://youtube.com/watch?v=opMO8ZU0qUg",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/opMO8ZU0qUg/frame0.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "2078",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/cS6vNc7R/plant00459-02078.jpg"
-    },
-    {
-      "image_id": "2079",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/Zz7JK2q3/plant00459-02079.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

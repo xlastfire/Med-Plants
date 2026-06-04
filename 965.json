@@ -1,254 +1,325 @@
 {
-  "scientificName": "Oxalis corniculata L.",
-  "synonyms": [
-    "Acetosella corniculata (L.) Kuntze",
-    "Acetosella corniculata var. subglabra Kuntze",
-    "Acetosella corniculata var. villosa (M.Bieb.) Kuntze",
-    "Acetosella herpestica (Schltdl.) Kuntze",
-    "Acetosella simulans (Baker) Kuntze",
-    "Oxalis albicans var. sericea DC.",
-    "Oxalis ambigua A.Rich.",
-    "Oxalis boreaui P.Fourn.",
-    "Oxalis boridiensis R.Knuth",
-    "Oxalis ceratilis E.Mey.",
-    "Oxalis ciliifera A.Cunn.",
-    "Oxalis corniculata f. erecta Makino",
-    "Oxalis corniculata f. pubescens Batt.",
-    "Oxalis corniculata f. rubrifolia (Makino) H.Hara",
-    "Oxalis corniculata f. speciosa (Masam.) Masam.",
-    "Oxalis corniculata f. tropaeoloides (Bailly) R.Knuth",
-    "Oxalis corniculata rubra G.Nicholson",
-    "Oxalis corniculata subsp. repens (Thunb.) Masam.",
-    "Oxalis corniculata var. atropurpurea Planch.",
-    "Oxalis corniculata var. ciliifera (A.Cunn.) Hook.f.",
-    "Oxalis corniculata var. corcovadensis R.Knuth",
-    "Oxalis corniculata var. glabrocapsula Roti Mich.",
-    "Oxalis corniculata var. javanica (Blume) Backer",
-    "Oxalis corniculata var. langloisii (Small) Wiegand",
-    "Oxalis corniculata var. lupulina (Kunth) Zucc.",
-    "Oxalis corniculata var. macrophylla Arsène ex R.Knuth",
-    "Oxalis corniculata var. microphylla Hook.f.",
-    "Oxalis corniculata var. minima Klett & Richt.",
-    "Oxalis corniculata var. minor Lange",
-    "Oxalis corniculata var. pilosiuscula (Kunth) Zucc.",
-    "Oxalis corniculata var. pubescens Griseb.",
-    "Oxalis corniculata var. purpurea Parl.",
-    "Oxalis corniculata var. radicosa (A.Rich.) Roti Mich.",
-    "Oxalis corniculata var. repens (Thunb.) Zucc.",
-    "Oxalis corniculata var. reptans Laing",
-    "Oxalis corniculata var. rubra Makino",
-    "Oxalis corniculata var. rubrifolia Makino",
-    "Oxalis corniculata var. trichocaulon H.Lév.",
-    "Oxalis corniculata var. typica R.Knuth",
-    "Oxalis corniculata var. villosa (M.Bieb.) Hohen.",
-    "Oxalis corniculata var. viscidula Wiegand",
-    "Oxalis crassifolia A.Cunn.",
-    "Oxalis diffusa Boreau",
-    "Oxalis divergens A.Cunn.",
-    "Oxalis foliosa Blatt.",
-    "Oxalis furcata Elliott",
-    "Oxalis glauca Raf. ex DC.",
-    "Oxalis grenadensis Urb.",
-    "Oxalis herpestica Schltdl.",
-    "Oxalis humistrata Willd. ex Steud.",
-    "Oxalis jamaicensis Macfad.",
-    "Oxalis javanica Blume",
-    "Oxalis lacicola A.Cunn.",
-    "Oxalis langloisii (Small) Fedde",
-    "Oxalis lujula Noronha",
-    "Oxalis lupulina Kunth",
-    "Oxalis lutea Steud.",
-    "Oxalis meridensis Pittier",
-    "Oxalis micrantha Bojer ex Progel",
-    "Oxalis microphylla Poir.",
-    "Oxalis minima Steud.",
-    "Oxalis monadelpha Roxb. ex Wight & Arn.",
-    "Oxalis norlindiana R.Knuth",
-    "Oxalis pilosiuscula Kunth",
-    "Oxalis propinqua A.Cunn.",
-    "Oxalis pubescens Stokes",
-    "Oxalis pusilla Salisb.",
-    "Oxalis radicosa A.Rich.",
-    "Oxalis recisa Noronha",
-    "Oxalis repens f. speciosa Masam.",
-    "Oxalis repens Thunb.",
-    "Oxalis repens var. erecta (Makino) Masam.",
-    "Oxalis reptans Sol. ex G.Forst.",
-    "Oxalis richardiana Steud.",
-    "Oxalis rubens Haw.",
-    "Oxalis simulans Baker",
-    "Oxalis steudeliana R.Knuth",
-    "Oxalis taiwanensis (Masam.) Masam.",
-    "Oxalis tenuicaulis A.Cunn.",
-    "Oxalis thunbergiana Montrouz.",
-    "Oxalis trinidadensis R.Knuth",
-    "Oxalis tropaeoloides Bailly",
-    "Oxalis uittienii J.T.Jansen",
-    "Oxalis urvillei A.Cunn.",
-    "Oxalis villosa M.Bieb.",
-    "Oxys corniculata (L.) Scop.",
-    "Oxys lutea Lam.",
-    "Xanthoxalis corniculata (L.) Small",
-    "Xanthoxalis corniculata f. atropurpurea (Planch.) Nakai",
-    "Xanthoxalis corniculata f. erecta (Makino) Nakai",
-    "Xanthoxalis corniculata f. purpurea (Parl.) Nakai",
-    "Xanthoxalis corniculata subsp. repens (Thunb.) Tzvelev",
-    "Xanthoxalis corniculata var. atropurpurea (Planch.) Moldenke",
-    "Xanthoxalis corniculata var. repens (Thunb.) Nakai",
-    "Xanthoxalis grenadensis (Urb.) Tzvelev ex Prob. & Sokolovsk.",
-    "Xanthoxalis langloisii Small",
-    "Xanthoxalis repens (Thunb.) Moldenke",
-    "Xanthoxalis trinidadensis (R.Knuth) Holub"
-  ],
-  "familyName": "OXALIDACEAE",
-  "englishNames": [
-    "Creeping Wood Sorrel",
-    "Creeping Lady's Sorrel",
-    "Creeping Oxalis",
-    "Creeping Sorrel",
-    "Jimson Weed",
-    "Oxalis",
-    "Wood Sorrel",
-    "Yellow Sorrel"
-  ],
-  "sinhalaName": "Embul embiliya (ඇඹුල් ඇඹිලිය)",
-  "description": "බිම දිගේ වැවෙන පැළෑටි; කඳන් මි.මී. 2ක් පමණ ඝනකමකින් යුක්ත වන අතර රෝමශ (pubescent) වේ, වර්ණයෙන් කොළ හෝ දම් පැහැතිය. පත්‍ර පත්‍රිකා (pinnae) සමාන ප්‍රමාණයෙන් යුක්ත වන අතර මි.මී. 5-25 x 3-15 ප්‍රමාණයෙන් යුක්ත වේ, යටි පැත්ත රෝමශ (pubescent) වන අතර හිරු එළියට නිරාවරණය වූ විට තද රතු හෝ දම් පැහැයක් ගනී; පත්‍ර වෘන්තය (petiole) සෙ.මී. 10ක් පමණ දිග වන අතර රළු රෝම සහිත (pilose) වේ; උප පත්‍ර (stipules) පත්‍ර වෘන්තයේ පාදයට සම්බන්ධ වී (connate) පවතින අතර මි.මී. 1-3ක් දිග වේ. පුෂ්ප මංජරිය මල් 1-6කින් සමන්විත වේ; පුෂ්ප දණ්ඩ (peduncle) සෙ.මී. 2-12ක් දිග වේ. පෙති මි.මී. 4-10ක් දිග වන අතර දීප්තිමත් කහ පැහැතිය. කරල් (capsule) මි.මී. 5-25 x 2-4 ප්‍රමාණයෙන් යුක්ත වන අතර සිලින්ඩරාකාර (subcylindric) හැඩයක් ගනී, කෝණ 5කින් යුක්ත වේ. බීජ එක් කුටීරයකට 5-12 බැගින් පවතින අතර මි.මී. 1-2ක් දිග වන අතර රතු-දුඹුරු පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Oxalis corniculata L.",
+    "synonyms": [
+        "Acetosella corniculata (L.) Kuntze",
+        "Acetosella corniculata var. subglabra Kuntze",
+        "Acetosella corniculata var. villosa (M.Bieb.) Kuntze",
+        "Acetosella herpestica (Schltdl.) Kuntze",
+        "Acetosella simulans (Baker) Kuntze",
+        "Oxalis albicans var. sericea DC.",
+        "Oxalis ambigua A.Rich.",
+        "Oxalis boreaui P.Fourn.",
+        "Oxalis boridiensis R.Knuth",
+        "Oxalis ceratilis E.Mey.",
+        "Oxalis ciliifera A.Cunn.",
+        "Oxalis corniculata f. erecta Makino",
+        "Oxalis corniculata f. pubescens Batt.",
+        "Oxalis corniculata f. rubrifolia (Makino) H.Hara",
+        "Oxalis corniculata f. speciosa (Masam.) Masam.",
+        "Oxalis corniculata f. tropaeoloides (Bailly) R.Knuth",
+        "Oxalis corniculata rubra G.Nicholson",
+        "Oxalis corniculata subsp. repens (Thunb.) Masam.",
+        "Oxalis corniculata var. atropurpurea Planch.",
+        "Oxalis corniculata var. ciliifera (A.Cunn.) Hook.f.",
+        "Oxalis corniculata var. corcovadensis R.Knuth",
+        "Oxalis corniculata var. glabrocapsula Roti Mich.",
+        "Oxalis corniculata var. javanica (Blume) Backer",
+        "Oxalis corniculata var. langloisii (Small) Wiegand",
+        "Oxalis corniculata var. lupulina (Kunth) Zucc.",
+        "Oxalis corniculata var. macrophylla Arsène ex R.Knuth",
+        "Oxalis corniculata var. microphylla Hook.f.",
+        "Oxalis corniculata var. minima Klett & Richt.",
+        "Oxalis corniculata var. minor Lange",
+        "Oxalis corniculata var. pilosiuscula (Kunth) Zucc.",
+        "Oxalis corniculata var. pubescens Griseb.",
+        "Oxalis corniculata var. purpurea Parl.",
+        "Oxalis corniculata var. radicosa (A.Rich.) Roti Mich.",
+        "Oxalis corniculata var. repens (Thunb.) Zucc.",
+        "Oxalis corniculata var. reptans Laing",
+        "Oxalis corniculata var. rubra Makino",
+        "Oxalis corniculata var. rubrifolia Makino",
+        "Oxalis corniculata var. trichocaulon H.Lév.",
+        "Oxalis corniculata var. typica R.Knuth",
+        "Oxalis corniculata var. villosa (M.Bieb.) Hohen.",
+        "Oxalis corniculata var. viscidula Wiegand",
+        "Oxalis crassifolia A.Cunn.",
+        "Oxalis diffusa Boreau",
+        "Oxalis divergens A.Cunn.",
+        "Oxalis foliosa Blatt.",
+        "Oxalis furcata Elliott",
+        "Oxalis glauca Raf. ex DC.",
+        "Oxalis grenadensis Urb.",
+        "Oxalis herpestica Schltdl.",
+        "Oxalis humistrata Willd. ex Steud.",
+        "Oxalis jamaicensis Macfad.",
+        "Oxalis javanica Blume",
+        "Oxalis lacicola A.Cunn.",
+        "Oxalis langloisii (Small) Fedde",
+        "Oxalis lujula Noronha",
+        "Oxalis lupulina Kunth",
+        "Oxalis lutea Steud.",
+        "Oxalis meridensis Pittier",
+        "Oxalis micrantha Bojer ex Progel",
+        "Oxalis microphylla Poir.",
+        "Oxalis minima Steud.",
+        "Oxalis monadelpha Roxb. ex Wight & Arn.",
+        "Oxalis norlindiana R.Knuth",
+        "Oxalis pilosiuscula Kunth",
+        "Oxalis propinqua A.Cunn.",
+        "Oxalis pubescens Stokes",
+        "Oxalis pusilla Salisb.",
+        "Oxalis radicosa A.Rich.",
+        "Oxalis recisa Noronha",
+        "Oxalis repens f. speciosa Masam.",
+        "Oxalis repens Thunb.",
+        "Oxalis repens var. erecta (Makino) Masam.",
+        "Oxalis reptans Sol. ex G.Forst.",
+        "Oxalis richardiana Steud.",
+        "Oxalis rubens Haw.",
+        "Oxalis simulans Baker",
+        "Oxalis steudeliana R.Knuth",
+        "Oxalis taiwanensis (Masam.) Masam.",
+        "Oxalis tenuicaulis A.Cunn.",
+        "Oxalis thunbergiana Montrouz.",
+        "Oxalis trinidadensis R.Knuth",
+        "Oxalis tropaeoloides Bailly",
+        "Oxalis uittienii J.T.Jansen",
+        "Oxalis urvillei A.Cunn.",
+        "Oxalis villosa M.Bieb.",
+        "Oxys corniculata (L.) Scop.",
+        "Oxys lutea Lam.",
+        "Xanthoxalis corniculata (L.) Small",
+        "Xanthoxalis corniculata f. atropurpurea (Planch.) Nakai",
+        "Xanthoxalis corniculata f. erecta (Makino) Nakai",
+        "Xanthoxalis corniculata f. purpurea (Parl.) Nakai",
+        "Xanthoxalis corniculata subsp. repens (Thunb.) Tzvelev",
+        "Xanthoxalis corniculata var. atropurpurea (Planch.) Moldenke",
+        "Xanthoxalis corniculata var. repens (Thunb.) Nakai",
+        "Xanthoxalis grenadensis (Urb.) Tzvelev ex Prob. & Sokolovsk.",
+        "Xanthoxalis langloisii Small",
+        "Xanthoxalis repens (Thunb.) Moldenke",
+        "Xanthoxalis trinidadensis (R.Knuth) Holub"
+    ],
+    "familyName": "OXALIDACEAE",
+    "englishNames": [
+        "Creeping Wood Sorrel",
+        "Creeping Lady's Sorrel",
+        "Creeping Oxalis",
+        "Creeping Sorrel",
+        "Jimson Weed",
+        "Oxalis",
+        "Wood Sorrel",
+        "Yellow Sorrel"
+    ],
+    "sinhalaName": "Embul embiliya (ඇඹුල් ඇඹිලිය)",
+    "description": "බිම දිගේ වැවෙන පැළෑටි; කඳන් මි.මී. 2ක් පමණ ඝනකමකින් යුක්ත වන අතර රෝමශ (pubescent) වේ, වර්ණයෙන් කොළ හෝ දම් පැහැතිය. පත්‍ර පත්‍රිකා (pinnae) සමාන ප්‍රමාණයෙන් යුක්ත වන අතර මි.මී. 5-25 x 3-15 ප්‍රමාණයෙන් යුක්ත වේ, යටි පැත්ත රෝමශ (pubescent) වන අතර හිරු එළියට නිරාවරණය වූ විට තද රතු හෝ දම් පැහැයක් ගනී; පත්‍ර වෘන්තය (petiole) සෙ.මී. 10ක් පමණ දිග වන අතර රළු රෝම සහිත (pilose) වේ; උප පත්‍ර (stipules) පත්‍ර වෘන්තයේ පාදයට සම්බන්ධ වී (connate) පවතින අතර මි.මී. 1-3ක් දිග වේ. පුෂ්ප මංජරිය මල් 1-6කින් සමන්විත වේ; පුෂ්ප දණ්ඩ (peduncle) සෙ.මී. 2-12ක් දිග වේ. පෙති මි.මී. 4-10ක් දිග වන අතර දීප්තිමත් කහ පැහැතිය. කරල් (capsule) මි.මී. 5-25 x 2-4 ප්‍රමාණයෙන් යුක්ත වන අතර සිලින්ඩරාකාර (subcylindric) හැඩයක් ගනී, කෝණ 5කින් යුක්ත වේ. බීජ එක් කුටීරයකට 5-12 බැගින් පවතින අතර මි.මී. 1-2ක් දිග වන අතර රතු-දුඹුරු පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Bleeding Disorders",
+            "sinhala": "රුධිර වහනය වන ආබාධ (රක්තපිත්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Rectal Prolapse",
+            "sinhala": "ගුද මාර්ගය පිටතට පැමිණීම (ගුද භ්‍රංශය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant"
+    ],
+    "images": [
+        {
+            "image_id": "405",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/ZpHJxYmb/plant00965-00405.jpg"
+        },
+        {
+            "image_id": "406",
+            "caption": "Flower and Fruits",
+            "url": "https://i.ibb.co/CRd2j9r/plant00965-00406.jpg"
+        },
+        {
+            "image_id": "3845",
+            "caption": "Flower 1 (PMR)",
+            "url": "https://i.ibb.co/9mxbf4r5/plant00965-03845.jpg"
+        },
+        {
+            "image_id": "3846",
+            "caption": "Flower 2 (PMR)",
+            "url": "https://i.ibb.co/rGXz6Q5y/plant00965-03846.jpg"
+        },
+        {
+            "image_id": "3847",
+            "caption": "Fruit (PMR)",
+            "url": "https://i.ibb.co/8g8gTvCd/plant00965-03847.jpg"
+        },
+        {
+            "image_id": "3848",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/1t0bcj9N/plant00965-03848.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඇඹුල් ඇඹිලිය | මේකේ ගුණ දන්නවනම් හොයාගෙන හරි කනවා | Ambul Ambiliya Plant",
+                "url": "https://youtube.com/watch?v=C5iqUDUFyLQ",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/C5iqUDUFyLQ/hq720.jpg"
+            },
+            {
+                "title": "කෑම  අරුචියට සුපිරි \"ඇඹුල් ඇඹිලිය\" ලුණුමිරිස හදන්නේ මෙහෙමයි.- බීලා වැඩිවුන අයටත්  සුපිරි.",
+                "url": "https://youtube.com/watch?v=UMO4wwVoMHM",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/UMO4wwVoMHM/hqdefault.jpg"
+            },
+            {
+                "title": "Oxalis Barrelieri 🌳☘️🌱ඇඹුල් ඇඹිලිය/ ගස් ඇඹුල් ඇඹිලිය #medicineplant #plants #naturelovers #srilanka",
+                "url": "https://youtube.com/watch?v=TljnZGjl7pY",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/TljnZGjl7pY/hq720.jpg"
+            },
+            {
+                "title": "Ambul ambiliya..ඇඹුල් ඇඹිලිය ශාකය ස්පෝටනයෙන් බීජ ව්‍යාප්ත වන කුඩා ශාකයක්",
+                "url": "https://youtube.com/watch?v=am6cXx9ePVY",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/am6cXx9ePVY/hq720.jpg"
+            },
+            {
+                "title": "ආහාර රුචිය වඩවන  ගස් ඇඹුල් ඇබිලිය / ඇබුල් වැන්න. Gas ambul abiliya Increases your appetite",
+                "url": "https://youtube.com/watch?v=qHyHNPxAxZY",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/qHyHNPxAxZY/hq720.jpg"
+            },
+            {
+                "title": "ඇඹුල් ඇඹිලිය - Ambul Ambiliya / abul abiliya- Creeping wood sorel - Oxalis corniculata /  stricta",
+                "url": "https://youtube.com/watch?v=zl1ip3xQ0tk",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/zl1ip3xQ0tk/hq720.jpg"
+            },
+            {
+                "title": "අක්මාවේ රෝග , ලේ හිඟකම ආදී ලෙඩ රෝග රැසක් සුව කරන ඇඹුල් ඇඹිලිය.",
+                "url": "https://youtube.com/watch?v=QgNO026HuIc",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/QgNO026HuIc/hq720.jpg"
+            },
+            {
+                "title": "ඇඹුල් ඇඹිලිය ගැන යමක්",
+                "url": "https://youtube.com/watch?v=ktfsSIJ2Zik",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/ktfsSIJ2Zik/hqdefault.jpg"
+            },
+            {
+                "title": "අර්ෂස් අමාරුව සුව කරන ඇඹුල් ඇඹිලිය | ලක් එෆ්.එම් ළමා නිවේදිකා, ළමා ගායිකා රෂ්මි නවෝද්‍යා #srilanka",
+                "url": "https://youtube.com/watch?v=WwvX-78DBJQ",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/WwvX-78DBJQ/hq720.jpg"
+            },
+            {
+                "title": "ඇඹුල් ඇබ්ලිය. Abul abiliya",
+                "url": "https://youtube.com/watch?v=5_ZTO5W_Y3M",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/5_ZTO5W_Y3M/hq720.jpg"
+            },
+            {
+                "title": "ඇඹුල්වැන්න  | Lavender Sorrel | Oxalis barrelieri | ගස් ඇඹුල් ඇබිලිය | ඔසුපැල",
+                "url": "https://youtube.com/watch?v=2d0-2zcMY0A",
+                "duration": "4:54",
+                "thumbnail": "https://i.ytimg.com/vi/2d0-2zcMY0A/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Bleeding Disorders",
-      "sinhala": "රුධිර වහනය වන ආබාධ (රක්තපිත්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Rectal Prolapse",
-      "sinhala": "ගුද මාර්ගය පිටතට පැමිණීම (ගුද භ්‍රංශය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant"
-  ],
-  "images": [
-    {
-      "image_id": "405",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/ZpHJxYmb/plant00965-00405.jpg"
-    },
-    {
-      "image_id": "406",
-      "caption": "Flower and Fruits",
-      "url": "https://i.ibb.co/CRd2j9r/plant00965-00406.jpg"
-    },
-    {
-      "image_id": "3845",
-      "caption": "Flower 1 (PMR)",
-      "url": "https://i.ibb.co/9mxbf4r5/plant00965-03845.jpg"
-    },
-    {
-      "image_id": "3846",
-      "caption": "Flower 2 (PMR)",
-      "url": "https://i.ibb.co/rGXz6Q5y/plant00965-03846.jpg"
-    },
-    {
-      "image_id": "3847",
-      "caption": "Fruit (PMR)",
-      "url": "https://i.ibb.co/8g8gTvCd/plant00965-03847.jpg"
-    },
-    {
-      "image_id": "3848",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/1t0bcj9N/plant00965-03848.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

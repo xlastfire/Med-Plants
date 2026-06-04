@@ -1,66 +1,653 @@
 {
-  "scientificName": "Boswellia serrata Roxb.",
-  "synonyms": [
-    "Boswellia balsamifera Spreng.",
-    "Boswellia glabra Roxb.",
-    "Boswellia serrata var. glabra (Roxb.) A.W.Benn.",
-    "Boswellia thurifera Roxb.",
-    "Chloroxylon dupada Buch.-Ham.",
-    "Libanotus asiaticus Stackh.",
-    "Libanus thurifer Colebr."
-  ],
-  "familyName": "BURSERACEAE",
-  "englishNames": [
-    "Indian Olibanum",
-    "Indian Frankincense"
-  ],
-  "sinhalaName": "Kundirikkan (කුන්දිරික්කන්)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Chronic Diarrhea",
-      "sinhala": "නිදන්ගත අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Boswellia serrata Roxb.",
+    "synonyms": [
+        "Boswellia balsamifera Spreng.",
+        "Boswellia glabra Roxb.",
+        "Boswellia serrata var. glabra (Roxb.) A.W.Benn.",
+        "Boswellia thurifera Roxb.",
+        "Chloroxylon dupada Buch.-Ham.",
+        "Libanotus asiaticus Stackh.",
+        "Libanus thurifer Colebr."
+    ],
+    "familyName": "BURSERACEAE",
+    "englishNames": [
+        "Indian Olibanum",
+        "Indian Frankincense"
+    ],
+    "sinhalaName": "Kundirikkan (කුන්දිරික්කන්)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Chronic Diarrhea",
+            "sinhala": "නිදන්ගත අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Pulmonary Disorders",
+            "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Gum"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "🔴මේ කුඩු නිසා ආතරයිටිස් ඇතුලු සන්ධි රෝග  ක්ෂණිකව නිටිටාවට සුවයි! මෙන්න ක්‍රමය",
+                "url": "https://youtube.com/watch?v=HBJjadwYkyE",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/HBJjadwYkyE/hq720.jpg"
+            },
+            {
+                "title": "මනෝහරීගේ තෙලිතුඩ හා සාහිත්‍යමය සිතුවම ගැන... සාහිත්‍යවේදී කමල් පෙරේරාගේ කෙටිදෙසුම 7Sep2025 ©Don Maya",
+                "url": "https://youtube.com/watch?v=qKqwGiVUN_8",
+                "duration": "11:41",
+                "thumbnail": "https://i.ytimg.com/vi/qKqwGiVUN_8/hqdefault.jpg"
+            },
+            {
+                "title": "#මැණික් කටු සංධිය ආශ්‍රිතව ඇතිවන හිරි වැටීම් සැත්කමකින් තොරව සුව කල හැකී #doctor",
+                "url": "https://youtube.com/watch?v=F5VTyYREuec",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/F5VTyYREuec/hqdefault.jpg"
+            },
+            {
+                "title": "සාහිත්‍යකරැවෝ කුහකයෝහ ! ලාල් කාන්ත කතා කරයි ! මනෝහරී හේවගේ විසින් රචිත \"කුන්දිරික්කන්\" කෘතිය",
+                "url": "https://youtube.com/watch?v=gdsTlE9IaHY",
+                "duration": "28:34",
+                "thumbnail": "https://i.ytimg.com/vi/gdsTlE9IaHY/hqdefault.jpg"
+            },
+            {
+                "title": "දනහිසේ ගෙවීගිය කාටිලේජ සතිදෙකෙන් හැදෙන්න ඔසුඅංක1|Medicines for the growth of cartilage in the head",
+                "url": "https://youtube.com/watch?v=f60aZfIaYrk",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/f60aZfIaYrk/hqdefault.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "සාහිත්‍යයේ \"ස්වර්ණමය\" හා \"රජතමය\" කුලභේද ? ස්වර්ණ පුස්තක සහ රජත පුස්තක ගැන චූලා දෙසයි ! 07Sp2025 ©Don",
+                "url": "https://youtube.com/watch?v=xhMA24Kdfeg",
+                "duration": "30:48",
+                "thumbnail": "https://i.ytimg.com/vi/xhMA24Kdfeg/hqdefault.jpg"
+            },
+            {
+                "title": "🔥 වකුගඩු වලට දැනගත යුතු හොඳ සහ නරක අතිරේක⚠️ වකුගඩු වලට හානි කරයිද?! kidney health Vitamins",
+                "url": "https://youtube.com/watch?v=9OrQHJynr4I",
+                "duration": "20:03",
+                "thumbnail": "https://i.ytimg.com/vi/9OrQHJynr4I/hq720.jpg"
+            },
+            {
+                "title": "දිළින්දාද අසරණයාද සලකන දෙවියන් වහන්සේ",
+                "url": "https://youtube.com/watch?v=L9XxZOTPXtU",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/L9XxZOTPXtU/hq720.jpg"
+            },
+            {
+                "title": "THE DEFINITIVE LEGEND",
+                "url": "https://youtube.com/watch?v=8Lv69piDX5k",
+                "duration": "38:35",
+                "thumbnail": "https://i.ytimg.com/vi/8Lv69piDX5k/hq720.jpg"
+            },
+            {
+                "title": "හෝමියෝපති තුලින් කොදු ඇටපෙළ ආශ්‍රිත රෝග පූර්ණ සුවය ලබමු",
+                "url": "https://youtube.com/watch?v=Ebxco3bWuGY",
+                "duration": "56:06",
+                "thumbnail": "https://i.ytimg.com/vi/Ebxco3bWuGY/hqdefault.jpg"
+            },
+            {
+                "title": "කුඹුක්. Kumbuk Tree. Ayurvedic value of Kumbuk.",
+                "url": "https://youtube.com/watch?v=KjUTxwGyQ78",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/KjUTxwGyQ78/hq720.jpg"
+            },
+            {
+                "title": "කංකුන් වල ගුණ | Water spinach | Kankun",
+                "url": "https://youtube.com/watch?v=G41zv5x18Yo",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/G41zv5x18Yo/hq720.jpg"
+            },
+            {
+                "title": "හුලංකීරිය ගුණ. Hulankeeriya.",
+                "url": "https://youtube.com/watch?v=HncGlXMnwNA",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/HncGlXMnwNA/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා  මාරාන්තිකයි [Hari Tv ][Lahiru mudalige]",
+                "url": "https://youtube.com/watch?v=FObeIYHmROY",
+                "duration": "7:01",
+                "thumbnail": "https://i.ytimg.com/vi/FObeIYHmROY/hq720.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවොත් ලැබෙන දේවල් මෙන්න : Benefits of Ragi Kurakkan (NEW) 2019",
+                "url": "https://youtube.com/watch?v=oKoud-XKUeA",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/oKoud-XKUeA/hq720.jpg"
+            },
+            {
+                "title": "විද්‍යාත්මකව තාහවුරු කල ශ්‍රී ලාංකික කුරුඳු සතු විශ්මිත ගුන 8 ක්",
+                "url": "https://youtube.com/watch?v=LskI19qCTMY",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/LskI19qCTMY/hqdefault.jpg"
+            },
+            {
+                "title": "කුරුඳු වල විශ්මිත ගුණ . Ayurvedic value of cinnamon.",
+                "url": "https://youtube.com/watch?v=HYqpafpiFWE",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/HYqpafpiFWE/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ වල ඇති විශ්මිත ගුණ 25ක් kiriaguna wala athi guna",
+                "url": "https://youtube.com/watch?v=KrQRcPVvNlw",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/KrQRcPVvNlw/hqdefault.jpg"
+            },
+            {
+                "title": "වකුගඩු වල විෂ සෝදලා හරින්න බොන්නම ඕන බීම වර්ග 6ක් | 6 drinks Cleanse Your Kidneys Naturally",
+                "url": "https://youtube.com/watch?v=jVdnQz2lrBc",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/jVdnQz2lrBc/hq720.jpg"
+            },
+            {
+                "title": "දන්නෙ නැතුවද කුරුදු බිවුවෙ? | Cinnamon for Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WlVF9YZgJQ8",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/WlVF9YZgJQ8/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල අපට නොපෙනෙන ගුණය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හැරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=hRpzilgWq5o",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/hRpzilgWq5o/hq720.jpg"
+            },
+            {
+                "title": "කැහිපිත්තං  ගැන ඔබ නොදත් කරුණු .",
+                "url": "https://youtube.com/watch?v=GcsFHMWd56g",
+                "duration": "7:12",
+                "thumbnail": "https://i.ytimg.com/vi/GcsFHMWd56g/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ කෑවම මොකද වෙන්නෙ : Health benefits of Kiri Aguna",
+                "url": "https://youtube.com/watch?v=o8vWzWsojxI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/o8vWzWsojxI/hq720.jpg"
+            },
+            {
+                "title": "කුප්පි ලාම්පුවට දින කියු වෙද මහතා",
+                "url": "https://youtube.com/watch?v=8Z8oZc2N_mE",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/8Z8oZc2N_mE/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවම ඇත්තටම ලෙඩ හොද වෙනවද? Finger Millet By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0KOSVb6dZNM",
+                "duration": "11:05",
+                "thumbnail": "https://i.ytimg.com/vi/0KOSVb6dZNM/hq720.jpg"
+            },
+            {
+                "title": "කිරිහැන්ද කොළ වල ගුණ ගැන ඇහුවොත් ඔයා පුදුම වෙයි| kirihanda kola| kirihanda recipes",
+                "url": "https://youtube.com/watch?v=Ok40nd9nruA",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/Ok40nd9nruA/hq720.jpg"
+            },
+            {
+                "title": "දත් කැක්කුමට \"රන් මානිස්ස\" - තිලක් කන්දේගම / Herbal Plant for Toothache @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=m2dVCqj-WRU",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/m2dVCqj-WRU/hq720.jpg"
+            },
+            {
+                "title": "කිරි වෙනුවට උදේට බිව්වොත් දවසම ගොඩ | අම්මෝ ඒකේ ගුණ ගැන ඇහුවම තරු විසිවෙනවා | horse gram drink",
+                "url": "https://youtube.com/watch?v=Rxh2O3S2iWg",
+                "duration": "5:52",
+                "thumbnail": "https://i.ytimg.com/vi/Rxh2O3S2iWg/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිය වඩවන දිව්‍යමය ඖෂධය ||The divine potion that increases strength #Amukkara",
+                "url": "https://youtube.com/watch?v=JNtQ2Yhl1iM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/JNtQ2Yhl1iM/hqdefault.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ දෙන මොණරකුඩුම්බිය | Vernonia Cinerea | wijaya tv",
+                "url": "https://youtube.com/watch?v=EBDu6zBphYA",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/EBDu6zBphYA/hqdefault.jpg"
+            },
+            {
+                "title": "කෙහෙළිය ගෙදර යැව්වත් තවමත් ඉටු නොවූ දෙයක් වෛද්‍ය චමල් මතක් කරයි",
+                "url": "https://youtube.com/watch?v=BauFF14Vo6Y",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/BauFF14Vo6Y/hq720.jpg"
+            },
+            {
+                "title": "කොන්දේ අමාරුවට බොරුවට බෙහෙත් බොන්න එපා - අදම මේක මාරු කරලා බලන්න |How Your Mattress Causes Back Pain",
+                "url": "https://youtube.com/watch?v=2fmfdDayx50",
+                "duration": "8:25",
+                "thumbnail": "https://i.ytimg.com/vi/2fmfdDayx50/hq720.jpg"
+            },
+            {
+                "title": "ශරීරය ලෙඩ කරන බලවේග මෙන්න හරි විදිහට ශරීරය සුද්ද කර කදබාර දුන්නොත් වරමට එන ආකාරය මෙන්න ,,",
+                "url": "https://youtube.com/watch?v=d3NWmZJa4B4",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/d3NWmZJa4B4/hq720.jpg"
+            },
+            {
+                "title": "බඩ ඇතුලේ තුවාල,දැවිල්ල,ගැස්ට්‍රයිටිස් සුව කරගන්න කෝමාරිකා පානය මේ විදිහට හරියටම හදාගෙන බොන්න",
+                "url": "https://youtube.com/watch?v=RCttADedz70",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/RCttADedz70/hq720.jpg"
+            },
+            {
+                "title": "නොමිලේ කන්න බොන්න දී 1000 ක  පඩුරකට වෙදකම් කොට රෝගීන් සුවකර අපවාද උපේක්ෂාවෙන් දරන බන්දුල වේද මහතා",
+                "url": "https://youtube.com/watch?v=nu7mYsDWMrU",
+                "duration": "7:50",
+                "thumbnail": "https://i.ytimg.com/vi/nu7mYsDWMrU/hq720.jpg"
+            },
+            {
+                "title": "හෘදයාබාධයක් එන්න කලින් ශරීරය දෙන සංඥා! කකුල් වලින් හඳුනාගන්න පුළුවන් ලකුණු",
+                "url": "https://youtube.com/watch?v=4PE7cRotKug",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/4PE7cRotKug/hq720.jpg"
+            },
+            {
+                "title": "ලක්ෂ ගණන් වියදම් කරන්න කලින් මේක බලන්න - හදවත් රෝග නිට්ටාවටම සුවයි!",
+                "url": "https://youtube.com/watch?v=bSvbQ9Ndnz4",
+                "duration": "11:44",
+                "thumbnail": "https://i.ytimg.com/vi/bSvbQ9Ndnz4/hq720.jpg"
+            },
+            {
+                "title": "කෙණ්ඩා පෙරලීම මෙතරම් භයානකද? The Hidden Danger of Leg Cramps!",
+                "url": "https://youtube.com/watch?v=DKFnTu2dVyI",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/DKFnTu2dVyI/hq720.jpg"
+            },
+            {
+                "title": "කිකිරිදිය ගුණ",
+                "url": "https://youtube.com/watch?v=QYAFvFHZmm0",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/QYAFvFHZmm0/hqdefault.jpg"
+            },
+            {
+                "title": "කංකුං  කනවද? | Kangkung (Water Spinach) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WDR_OvMpd44",
+                "duration": "14:18",
+                "thumbnail": "https://i.ytimg.com/vi/WDR_OvMpd44/hq720.jpg"
+            },
+            {
+                "title": "කුෂ්ඨ රෝග, උන්මාද රෝග, ස්වසන රෝග ඇතුළු රෝග රැසකට ගුණ කලුකම්බේරිය",
+                "url": "https://youtube.com/watch?v=WWpQhhoWD1g",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/WWpQhhoWD1g/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවාම දියවැඩියාව ට මොකද වෙන්නේ. ?09/01/2923",
+                "url": "https://youtube.com/watch?v=id-emAj37WY",
+                "duration": "8:16",
+                "thumbnail": "https://i.ytimg.com/vi/id-emAj37WY/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් වල ගුණ",
+                "url": "https://youtube.com/watch?v=6sdkFZGIFhA",
+                "duration": "4:33",
+                "thumbnail": "https://i.ytimg.com/vi/6sdkFZGIFhA/hq720.jpg"
+            },
+            {
+                "title": "තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ.  Health benefits of Thulasi.",
+                "url": "https://youtube.com/watch?v=kKukenrdq0k",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/kKukenrdq0k/hq720.jpg"
+            },
+            {
+                "title": "කෝවක්කා ගුණ මහිම .රුධිරගත සීනි පාලනයට . Kowakka /Lvy gourd /Coccinia grandis.",
+                "url": "https://youtube.com/watch?v=QPge4vdeK6o",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/QPge4vdeK6o/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Koththamalli (Coriander). Ayurvedic and medicinal value of Coriander.",
+                "url": "https://youtube.com/watch?v=RBZc65_lO5U",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/RBZc65_lO5U/hq720.jpg"
+            },
+            {
+                "title": "කුණ්ඩලීනී ශක්තිය කියන්නේ මොකක්ද? එය ලබා ගන්න පුලුවන්ද?",
+                "url": "https://youtube.com/watch?v=qLs6upziCYE",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/qLs6upziCYE/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා වල විශ්මිත ගුණ - Amazing properties of okra / Health Vedeo",
+                "url": "https://youtube.com/watch?v=6Ub6hS-RMbw",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/6Ub6hS-RMbw/hq720.jpg"
+            },
+            {
+                "title": "ගුප්ත විද්‍යාවෙන් ඔබ්බට යන කුණ්ඩලීනී ශක්තිය",
+                "url": "https://youtube.com/watch?v=LjISFl7X10s",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/LjISFl7X10s/hq720.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "කුජ 1,2,4,7,8,12 නම් දියුණුව නියතයි.ඒත් කුජ දෝෂය ද?",
+                "url": "https://youtube.com/watch?v=Fjs449PfPEE",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/Fjs449PfPEE/hq720.jpg"
+            },
+            {
+                "title": "කුන්දිරික්කා ශාකය හා arthritis",
+                "url": "https://youtube.com/watch?v=5_ivU9Lh0vA",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/5_ivU9Lh0vA/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන සහ අපට උදව් කරන සතුන් පාඩම | #usefulanimals #keenkidamigo 4,5 ශ්‍රේණි පරිසරය",
+                "url": "https://youtube.com/watch?v=cY5ccYVn_mQ",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/cY5ccYVn_mQ/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "පිගානේ තියෙන කුරුදු හපලා කෑවොත් ඔබේ ශරිරියට සිදුවන පුදුම දේවල් 11ක් | 11 Health Benefits Of Cinnamon",
+                "url": "https://youtube.com/watch?v=j6d2hpiw0r8",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/j6d2hpiw0r8/hq720.jpg"
+            },
+            {
+                "title": "දිනපතාම පිපිඤ්ඤා වතුර පානය කළොත් ලැබෙන සෞඛ්‍ය වාසි | 7 Health Benefits Of Drinking Cucumber Water",
+                "url": "https://youtube.com/watch?v=Vvq4X0-SD3k",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/Vvq4X0-SD3k/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "කංකුන් කෑවට මේ දේවල් දැනන් හිටියාද",
+                "url": "https://youtube.com/watch?v=cOtYm6eAOYw",
+                "duration": "7:48",
+                "thumbnail": "https://i.ytimg.com/vi/cOtYm6eAOYw/hqdefault.jpg"
+            },
+            {
+                "title": "දන්නවා වගේ රගපාන බක පන්ඩිත​යෝ හදුන ගන්නේ කොහොම​ද? | Dunning Kruger Effect in Sinhala",
+                "url": "https://youtube.com/watch?v=EtszDiEjXlg",
+                "duration": "8:39",
+                "thumbnail": "https://i.ytimg.com/vi/EtszDiEjXlg/hq720.jpg"
+            },
+            {
+                "title": "ජීවිතේ පස්සෙන් නම් ඉන්නේ, පීඩනය දරන්න අමාරු නම් මේ විද්‍යාත්මක කරුණු 3 කරලා බලන්න!",
+                "url": "https://youtube.com/watch?v=9PL6k-o5D-w",
+                "duration": "27:51",
+                "thumbnail": "https://i.ytimg.com/vi/9PL6k-o5D-w/hq720.jpg"
+            },
+            {
+                "title": "මේ ශාකය භාවිතයට නොගන්නා ඔබ බත් කාලා වැඩක් නෑ /ausadiya kikiridiya",
+                "url": "https://youtube.com/watch?v=scqO5Np5pcU",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/scqO5Np5pcU/hq720.jpg"
+            },
+            {
+                "title": "අපට අමතකව ගිය විශ්මිත ගුණ සහිත මොණරකුඩුම්බිය : Monarakudumbiya – Vernonia cinerea benefits",
+                "url": "https://youtube.com/watch?v=AVsoI8ga8rE",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/AVsoI8ga8rE/hq720.jpg"
+            },
+            {
+                "title": "කී කිරි දිය | නිතර හැදෙන රෝග නසන කීකිරිදිය | kikiridiya prAna TV | medicine plants | Kikiridhiya |",
+                "url": "https://youtube.com/watch?v=WI8M64F67jI",
+                "duration": "3:25",
+                "thumbnail": "https://i.ytimg.com/vi/WI8M64F67jI/hq720.jpg"
+            },
+            {
+                "title": "DID-U-KNOW?-Benefits of Periwinkle? TAGALOG",
+                "url": "https://youtube.com/watch?v=C0IjxrAQYjw",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/C0IjxrAQYjw/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits of Turkey Berry for a Healthy Diet! - Credihealth",
+                "url": "https://youtube.com/watch?v=bQ1PtV5pukg",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/bQ1PtV5pukg/hq720.jpg"
+            },
+            {
+                "title": "How to Grow Culantro | Shado beni | Nutrition | Health Benefits | Uses | Ngo gai | Bandhaniya",
+                "url": "https://youtube.com/watch?v=Upb1kEkP95U",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/Upb1kEkP95U/hqdefault.jpg"
+            },
+            {
+                "title": "කොළකැඳ බොන්න කලින් දැන ගන්න| Kola Kenda - 10 Plants for Herbal Porridge | Part 01",
+                "url": "https://youtube.com/watch?v=rU6NDyBgfGU",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/rU6NDyBgfGU/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits Of Cilantro You Should Know! | Health Benefits Of Cilantro",
+                "url": "https://youtube.com/watch?v=jlaelYqV94o",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/jlaelYqV94o/hq720.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බා ශාකය ගැන විස්තර සහ ඖෂධීය ගුණ | Benefits of Biophytum reinwardtii | හීන් නිදිකුම්බා",
+                "url": "https://youtube.com/watch?v=8iRynAE_2_E",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/8iRynAE_2_E/hq720.jpg"
+            },
+            {
+                "title": "කෘෂි කර්මාන්තයේදී භාවිත කරන උපකරණ | පරිසරය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=QJmAiXJyyes",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/QJmAiXJyyes/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය ගුණ සහිත කුප්පමේනියා ගැන දැනගනිමු |kuppameniya| Acalypha Indica",
+                "url": "https://youtube.com/watch?v=fgliz181Bvg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/fgliz181Bvg/hqdefault.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "කංකුං කෑවොත් මොකද වෙන්නෙ : Water Spinach Benefits",
+                "url": "https://youtube.com/watch?v=RxKSa0l8Fnk",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/RxKSa0l8Fnk/hq720.jpg"
+            },
+            {
+                "title": "25. හීන පේන එක හොඳයි ද? මෙන්න විසඳුම... | උපාය කුසල | Venerable Welimada Saddaseela Thero",
+                "url": "https://youtube.com/watch?v=7_OI71IN5Do",
+                "duration": "32:59",
+                "thumbnail": "https://i.ytimg.com/vi/7_OI71IN5Do/hq720.jpg"
+            },
+            {
+                "title": "Why Dandelion is SO Powerful!",
+                "url": "https://youtube.com/watch?v=Sxzqg_BclSE",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/Sxzqg_BclSE/hq720.jpg"
+            },
+            {
+                "title": "The Magic Herb for your Hair !!",
+                "url": "https://youtube.com/watch?v=IIrTvw_SI2A",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/IIrTvw_SI2A/hq720_2.jpg"
+            },
+            {
+                "title": "#diy#curryleavesbenefits#curryleaffruits#vinca#gardening",
+                "url": "https://youtube.com/watch?v=zYpMNV_nj_Q",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/zYpMNV_nj_Q/hq720.jpg"
+            },
+            {
+                "title": "Konjac#agriculture#rural life#farming#planting #naturallife#garden#Harvesting#picking",
+                "url": "https://youtube.com/watch?v=qsABJd6WH-I",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/qsABJd6WH-I/hq720_2.jpg"
+            },
+            {
+                "title": "Drying Dandelions for Tea 🌼 Benefits, Harvest & Storage",
+                "url": "https://youtube.com/watch?v=wFBezs2qmSs",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/wFBezs2qmSs/hq720.jpg"
+            },
+            {
+                "title": "Carnivorous Plant Sarracenia live feeding!!",
+                "url": "https://youtube.com/watch?v=GQTNO9eMnmA",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/GQTNO9eMnmA/hq720_2.jpg"
+            },
+            {
+                "title": "Phyllanthus urinaria or stone breaker plant #plants #stonebreaker #repotting #planting #herbal #srg",
+                "url": "https://youtube.com/watch?v=u9WiRjf_E-M",
+                "duration": "0:12",
+                "thumbnail": "https://i.ytimg.com/vi/u9WiRjf_E-M/hq720_2.jpg"
+            },
+            {
+                "title": "10 Plants With Insane Health Benefits 😳🌱",
+                "url": "https://youtube.com/watch?v=tvubbFl6YEA",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/tvubbFl6YEA/hq720.jpg"
+            },
+            {
+                "title": "🌿 What are Coriander Seeds? What are the seeds of cilantro called? #corianderseeds #herbs #herblife",
+                "url": "https://youtube.com/watch?v=PQVnV51Rp7M",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/PQVnV51Rp7M/hq720.jpg"
+            },
+            {
+                "title": "The Miracle Tree That Keeps Surprising Scientists",
+                "url": "https://youtube.com/watch?v=Sy2EQZg5gyk",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/Sy2EQZg5gyk/hq720.jpg"
+            },
+            {
+                "title": "Green Chiretta (kalmegh) plants 🪴 #shorts #youtubeshorts ,#reels ,#trnding  #gardening #viral",
+                "url": "https://youtube.com/watch?v=QvlquBjJMOI",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/QvlquBjJMOI/hq720_2.jpg"
+            },
+            {
+                "title": "guess this medicinal plant, medicinal plants, ayurvedic plant.",
+                "url": "https://youtube.com/watch?v=JUcnpU0k29s",
+                "duration": "0:06",
+                "thumbnail": "https://i.ytimg.com/vi/JUcnpU0k29s/hq720_2.jpg"
+            },
+            {
+                "title": "Medicinal plant | False daisy | bhringraj #medicinalplant",
+                "url": "https://youtube.com/watch?v=8GhQbAJFwl0",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/8GhQbAJFwl0/hq720.jpg"
+            },
+            {
+                "title": "Secret Superplant You Never Knew About",
+                "url": "https://youtube.com/watch?v=XP9_BZq1G5w",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/XP9_BZq1G5w/hq720.jpg"
+            },
+            {
+                "title": "Bhringraj Oil The Ruler Of The Hair #youtubeshortsvideo #youtubeshorts #haircare #hairgrowth #health",
+                "url": "https://youtube.com/watch?v=soADvRlUTnU",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/soADvRlUTnU/hq720_2.jpg"
+            },
+            {
+                "title": "Hilbas very healthy herbs",
+                "url": "https://youtube.com/watch?v=SEf_hdnt-xQ",
+                "duration": "0:06",
+                "thumbnail": "https://i.ytimg.com/vi/SEf_hdnt-xQ/hq720_2.jpg"
+            },
+            {
+                "title": "Why Konjac Flowers Are Cut",
+                "url": "https://youtube.com/watch?v=oTF7Qn0GHew",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/oTF7Qn0GHew/hq720.jpg"
+            },
+            {
+                "title": "Sawtooth coriander aka culantro, shadow beni, mexican and the list goes on! makes me happy  😊",
+                "url": "https://youtube.com/watch?v=FsIi6FyRXsY",
+                "duration": "0:32",
+                "thumbnail": "https://i.ytimg.com/vi/FsIi6FyRXsY/hq720_2.jpg"
+            },
+            {
+                "title": "Keekiridiya #organicherbs #wegrowsrilanka #satisfying #reallifesrilanka #visitsrilanka2023 #srilanka",
+                "url": "https://youtube.com/watch?v=LqDUHg2S2C8",
+                "duration": "0:10",
+                "thumbnail": "https://i.ytimg.com/vi/LqDUHg2S2C8/hq720_2.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Pulmonary Disorders",
-      "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Gum"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

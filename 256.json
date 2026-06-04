@@ -1,107 +1,676 @@
 {
-  "scientificName": "Durio zibethinus L.",
-  "synonyms": [
-    "Durio acuminatissimus Merr.",
-    "Durio stercoraceus Noronha"
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Durian"
-  ],
-  "sinhalaName": "Durian (දූරියන්)",
-  "description": "මීටර් 45ක් දක්වා උසැති, කඳ පාමුල පුවරු වැනි මුල් (buttressed) සහිත මධ්‍යම ප්‍රමාණයේ සිට විශාල ප්‍රමාණයේ ගසකි. පත්‍ර ඉලිප්සාකාර හෝ හෙල්ලයක හැඩැති ඉලිප්සාකාර (lanceolate-elliptic) වේ; දිග සෙ.මී. 10-15ක් සහ පළල සෙ.මී. 3-4ක් වන අතර පත්‍ර කඩදාසි වැනි (papery) ස්වභාවයක් ගනී. පත්‍ර පාදය උල් වූ (acute) හැඩයක් ගන්නා අතර අග්‍රය උල්ව දිගු වූ (acuminate) ස්වභාවයක් ගනී. පත්‍රයේ උඩු පැත්ත සිනිඳු සහ රෝම රහිත (glabrous) වන අතර දිලිසෙන සුළුය. යටි පැත්ත රිදී පැහැති හෝ රන්වන් පැහැති කොරපොතු වලින් ඝනව වැසී ඇත. ද්විතීයික නහර යුගල 15ක් පමණ පවතින අතර ඒවා පත්‍ර දාරය අසලදී පැහැදිලිව වක්‍ර වේ; යටි පැත්තේ නහර රටාව එතරම් පැහැදිලි නැත. පත්‍ර වෘන්තය සෙ.මී. 1-1.5ක් දිග වන අතර කෝණික (angular) වේ. මල් පොකුරු වශයෙන් හටගන්නා අතර ඒවා කෝරිම්බ (corymbose) පුෂ්ප මංජරියන් ලෙස පවතී. මල් දඬු (pedicels) සෙ.මී. 5-7ක් දිගය. පලයේ ප්‍රමාණය බෙහෙවින් විචල්‍ය වේ; විෂ්කම්භය සෙ.මී. 15-25ක් වන අතර කොළ පැහැයේ සිට කහ පැහැයට හුරු දුඹුරු පැහැයක් ගනී. පලයේ ඇති කටු වල දිග සහ හැඩය විවිධ වේ. බීජ චෙස්නට් දුඹුරු පැහැයක් ගන්නා අතර, ඒවා ඝන, සුදු හෝ කහ පැහැති, මෘදු, පැණි රසැති සහ සුවඳවත් බීජාවරණයකින් (aril) සම්පූර්ණයෙන්ම වැසී පවතී.",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Durio zibethinus L.",
+    "synonyms": [
+        "Durio acuminatissimus Merr.",
+        "Durio stercoraceus Noronha"
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Durian"
+    ],
+    "sinhalaName": "Durian (දූරියන්)",
+    "description": "මීටර් 45ක් දක්වා උසැති, කඳ පාමුල පුවරු වැනි මුල් (buttressed) සහිත මධ්‍යම ප්‍රමාණයේ සිට විශාල ප්‍රමාණයේ ගසකි. පත්‍ර ඉලිප්සාකාර හෝ හෙල්ලයක හැඩැති ඉලිප්සාකාර (lanceolate-elliptic) වේ; දිග සෙ.මී. 10-15ක් සහ පළල සෙ.මී. 3-4ක් වන අතර පත්‍ර කඩදාසි වැනි (papery) ස්වභාවයක් ගනී. පත්‍ර පාදය උල් වූ (acute) හැඩයක් ගන්නා අතර අග්‍රය උල්ව දිගු වූ (acuminate) ස්වභාවයක් ගනී. පත්‍රයේ උඩු පැත්ත සිනිඳු සහ රෝම රහිත (glabrous) වන අතර දිලිසෙන සුළුය. යටි පැත්ත රිදී පැහැති හෝ රන්වන් පැහැති කොරපොතු වලින් ඝනව වැසී ඇත. ද්විතීයික නහර යුගල 15ක් පමණ පවතින අතර ඒවා පත්‍ර දාරය අසලදී පැහැදිලිව වක්‍ර වේ; යටි පැත්තේ නහර රටාව එතරම් පැහැදිලි නැත. පත්‍ර වෘන්තය සෙ.මී. 1-1.5ක් දිග වන අතර කෝණික (angular) වේ. මල් පොකුරු වශයෙන් හටගන්නා අතර ඒවා කෝරිම්බ (corymbose) පුෂ්ප මංජරියන් ලෙස පවතී. මල් දඬු (pedicels) සෙ.මී. 5-7ක් දිගය. පලයේ ප්‍රමාණය බෙහෙවින් විචල්‍ය වේ; විෂ්කම්භය සෙ.මී. 15-25ක් වන අතර කොළ පැහැයේ සිට කහ පැහැයට හුරු දුඹුරු පැහැයක් ගනී. පලයේ ඇති කටු වල දිග සහ හැඩය විවිධ වේ. බීජ චෙස්නට් දුඹුරු පැහැයක් ගන්නා අතර, ඒවා ඝන, සුදු හෝ කහ පැහැති, මෘදු, පැණි රසැති සහ සුවඳවත් බීජාවරණයකින් (aril) සම්පූර්ණයෙන්ම වැසී පවතී.",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Common Cold",
+            "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Root"
+    ],
+    "images": [
+        {
+            "image_id": "1360",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/7JVFpnvK/plant00256-01360.jpg"
+        },
+        {
+            "image_id": "1361",
+            "caption": "Twig",
+            "url": "https://i.ibb.co/5hMcB2kD/plant00256-01361.jpg"
+        },
+        {
+            "image_id": "1362",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/4RGYgtL7/plant00256-01362.jpg"
+        },
+        {
+            "image_id": "3472",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/BVcGcCjd/plant00256-03472.jpg"
+        },
+        {
+            "image_id": "3473",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/dwDF61B9/plant00256-03473.jpg"
+        },
+        {
+            "image_id": "3474",
+            "caption": "Leaf lower surface (PMR)",
+            "url": "https://i.ibb.co/jkN8NZWj/plant00256-03474.jpg"
+        },
+        {
+            "image_id": "3475",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/7ttwCz83/plant00256-03475.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "රජතුමා දූරියන් කෑවාම බිසව අඩනවා කියන්​නේ ඇයි දන්නවද? | Durian Most Dangerous Fruit In The World",
+                "url": "https://youtube.com/watch?v=wFBFLg8I22M",
+                "duration": "12:09",
+                "thumbnail": "https://i.ytimg.com/vi/wFBFLg8I22M/hq720.jpg"
+            },
+            {
+                "title": "ලොව පුරා අධික මිලකට විකිණෙන “ දූරියන් කොස් ” | Cempedak | Durian Jackfruit |Ceylon Agri|Episode 340",
+                "url": "https://youtube.com/watch?v=iWHypUAaE14",
+                "duration": "8:19",
+                "thumbnail": "https://i.ytimg.com/vi/iWHypUAaE14/hq720.jpg"
+            },
+            {
+                "title": "Durian | දූරියන් මෙච්චරම ගුණද? | කන්නම ඕන පළතුරක් |  Ceylon Agri | Episode 82",
+                "url": "https://youtube.com/watch?v=lNZl57h71w4",
+                "duration": "10:27",
+                "thumbnail": "https://i.ytimg.com/vi/lNZl57h71w4/hq720.jpg"
+            },
+            {
+                "title": "දූරියන් ගැන ඔබ නොදත් කරුණු 10ක් Duriyan Fruit",
+                "url": "https://youtube.com/watch?v=PrKL_-OQBJY",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/PrKL_-OQBJY/hq720.jpg"
+            },
+            {
+                "title": "දූරියන් පැළ |  Durian Plant",
+                "url": "https://youtube.com/watch?v=QH4EAxJEf4Q",
+                "duration": "1:32",
+                "thumbnail": "https://i.ytimg.com/vi/QH4EAxJEf4Q/hq720.jpg"
+            },
+            {
+                "title": "How to start Commercial Durian cultivation in Sri Lanka",
+                "url": "https://youtube.com/watch?v=5ngk22Xdcb4",
+                "duration": "7:11",
+                "thumbnail": "https://i.ytimg.com/vi/5ngk22Xdcb4/hq720.jpg"
+            },
+            {
+                "title": "මහ ගස් නැතුව පොඩියට ඉක්මනින්ම ගෙඩි හැදෙන දූරියන් බද්ධ පැළ සාර්ථකද | Durian Wagawa | Durian Sri Lanka",
+                "url": "https://youtube.com/watch?v=sOy5f0DnGZw",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/sOy5f0DnGZw/hq720.jpg"
+            },
+            {
+                "title": "Jumbo Durians! Custardy flesh for a spongy pudding & seeds for a spicy tempered fry | Traditional Me",
+                "url": "https://youtube.com/watch?v=fuR5sBV-iKc",
+                "duration": "33:16",
+                "thumbnail": "https://i.ytimg.com/vi/fuR5sBV-iKc/hq720.jpg"
+            },
+            {
+                "title": "අවුරුදු 05 ගෙඩි හැදෙන අධිශ්‍රේණියේ දූරියන් පැළ පොඩි ඉඩේ හදන්න පුළුවන් Duriyan plants in  Sri Lanka",
+                "url": "https://youtube.com/watch?v=JZXqnVaptmE",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/JZXqnVaptmE/hq720.jpg"
+            },
+            {
+                "title": "The cooking mission of making my Brother love \"Durians\" with Yummy Durian desserts | Traditional Me",
+                "url": "https://youtube.com/watch?v=E1O79AG0fn4",
+                "duration": "20:39",
+                "thumbnail": "https://i.ytimg.com/vi/E1O79AG0fn4/hq720.jpg"
+            },
+            {
+                "title": "දූරියන් මල් කෘතීම පරාගනය කිරීම , The artificial pollination of  durian flowers",
+                "url": "https://youtube.com/watch?v=R1Jz7p9gQ-w",
+                "duration": "7:00",
+                "thumbnail": "https://i.ytimg.com/vi/R1Jz7p9gQ-w/hq720.jpg"
+            },
+            {
+                "title": "රජතුමා දූරියන් කෑවාම බිසව අඩනවා කියන්​නේ ඇයි දන්නවද? | Durian Most Dangerous Fruit In The World",
+                "url": "https://youtube.com/watch?v=tSEGEU9oDxo",
+                "duration": "12:09",
+                "thumbnail": "https://i.ytimg.com/vi/tSEGEU9oDxo/frame0.jpg"
+            },
+            {
+                "title": "දූරියන් කෑවොත් මොකද වෙන්නේ | durian sinhala | දූරියන් ගුණ අගුණ | True Sense",
+                "url": "https://youtube.com/watch?v=TZX6m41FrTY",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/TZX6m41FrTY/hq720.jpg"
+            },
+            {
+                "title": "දූරියන් වල තිබෙන විශ්මිත ගුණ 07 ක් 😱 | පළතුරු ලොවේ රජු - දූරියන් | #truthwithsama  #viral",
+                "url": "https://youtube.com/watch?v=4HTSKyNVuiw",
+                "duration": "4:16",
+                "thumbnail": "https://i.ytimg.com/vi/4HTSKyNVuiw/hqdefault.jpg"
+            },
+            {
+                "title": "දූරියන් කාලා මේවා කෑවොත් මරණය තමයි",
+                "url": "https://youtube.com/watch?v=DVG8spV_P4o",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/DVG8spV_P4o/hq720.jpg"
+            },
+            {
+                "title": "දූරියන් කන්න කලින් මේව දැනගන්න |   Durian & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=RKpoBJxASUw",
+                "duration": "8:37",
+                "thumbnail": "https://i.ytimg.com/vi/RKpoBJxASUw/hq720.jpg"
+            },
+            {
+                "title": "ගද නිසා කවුරුත් කන්නේ නැති දුරියන් වල ඇදහිය නොහැකි ගුණය - Amazing quality of durian",
+                "url": "https://youtube.com/watch?v=jwyksl9IR-0",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/jwyksl9IR-0/hq720.jpg"
+            },
+            {
+                "title": "දුරියන් සතු ඔබ නොදන්න විස්මිත ගුණ මෙන්න | Duriyan | Lokayo with Sube",
+                "url": "https://youtube.com/watch?v=RDisYOPGvE4",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/RDisYOPGvE4/hq720.jpg"
+            },
+            {
+                "title": "දූරියන් කන්න කලින් මේ ගැනත් දැනගෙනම කන්න❌ 😱දූරියන් වල හොද නරක, ගුණ අගුණ ❌✅ Benefits & Dangers durian",
+                "url": "https://youtube.com/watch?v=gvu7ccBFDQ4",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/gvu7ccBFDQ4/hq720.jpg"
+            },
+            {
+                "title": "ඔයත් දූරියන් කෑවද? එහෙනම් අනිවාර්යයෙන් බලන්න | Duriyan | dooriyan fruits | දූරියන් වල ගුණ අගුණ",
+                "url": "https://youtube.com/watch?v=JWimEtGXaAY",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/JWimEtGXaAY/hq720.jpg"
+            },
+            {
+                "title": "මෙහෙම දූරියන් කෑවොත් මැරෙනව තමයි! | Durian By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=VERM_R7ACQ0",
+                "duration": "9:39",
+                "thumbnail": "https://i.ytimg.com/vi/VERM_R7ACQ0/hq720.jpg"
+            },
+            {
+                "title": "දූරියන් වගාවේ පයිටොප්තෙරා දිලීරය පාලනය කරමු",
+                "url": "https://youtube.com/watch?v=znTZJU0RlBk",
+                "duration": "13:40",
+                "thumbnail": "https://i.ytimg.com/vi/znTZJU0RlBk/hq720.jpg"
+            },
+            {
+                "title": "දූරියන් මල් සහ ගෙඩි නැත්නම් මේ ටික කරලා බලන්න | Problems Faced by Durian Farmers in Sri Lanka",
+                "url": "https://youtube.com/watch?v=l_JRKHhpZ3k",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/l_JRKHhpZ3k/hq720.jpg"
+            },
+            {
+                "title": "දූරියන් කෑවොත් මොකද වෙන්නේ | durian sinhala | දූරියන් ගුණ අගුණ | True Sense",
+                "url": "https://youtube.com/watch?v=LEctDmTXRls",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/LEctDmTXRls/frame0.jpg"
+            },
+            {
+                "title": "අමු දූරියන් මාලුව | Raw Durian Curry Recipe",
+                "url": "https://youtube.com/watch?v=85rF-0VfcC4",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/85rF-0VfcC4/hq720.jpg"
+            },
+            {
+                "title": "දූරියන්වල ඖෂධීය ගුණ I Benefits Of Durian",
+                "url": "https://youtube.com/watch?v=2VRTp-fZdLg",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/2VRTp-fZdLg/hq720.jpg"
+            },
+            {
+                "title": "දුරියන් වල විශ්මිත ගුණය - Amazing quality of durian fruit",
+                "url": "https://youtube.com/watch?v=cX_BxhVZv-E",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/cX_BxhVZv-E/hq720.jpg"
+            },
+            {
+                "title": "බඩවැලේ හටගන්නා පිළිකා නසන දූරියන් සතු ගුණ | Durian benefite♻✅",
+                "url": "https://youtube.com/watch?v=7c0oj1CDDvo",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/7c0oj1CDDvo/hqdefault.jpg"
+            },
+            {
+                "title": "අමු දූරියන් මාලුව | Raw Durian Curry Recipe",
+                "url": "https://youtube.com/watch?v=8gtLMChDWiY",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/8gtLMChDWiY/frame0.jpg"
+            },
+            {
+                "title": "හදවත රකින සූදුරු .  සූදුරු  වල ඇති ආයුර්වේදීය ගුණ .",
+                "url": "https://youtube.com/watch?v=Ty2rR_aZVDY",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ty2rR_aZVDY/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "දන්නෙ නැතුවද කුරුදු බිවුවෙ? | Cinnamon for Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WlVF9YZgJQ8",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/WlVF9YZgJQ8/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා දොඩම් අනුභව කිරීමෙන් ශරීරයට අත්වන විශ්මිත සෞඛ්‍යය ප්‍රතිලාභ 8 | Orange Juice Health Benefits",
+                "url": "https://youtube.com/watch?v=o77KE4S-63Q",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/o77KE4S-63Q/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ නොවී ඉන්න මේ 2ක  හදන් බොන්න | Immune Modulator Drinks By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=kwzKqrQZSv0",
+                "duration": "9:18",
+                "thumbnail": "https://i.ytimg.com/vi/kwzKqrQZSv0/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ තයිරොයිඩ් ග්‍රන්ථියේ ගැටළු ඇති බව කල්තියා පෙනුම් කරන ලක්ෂණ 9ක් | තයිරොයිඩ් සුව කරන හොදම ආහාර",
+                "url": "https://youtube.com/watch?v=tTHJZt_NS2w",
+                "duration": "25:32",
+                "thumbnail": "https://i.ytimg.com/vi/tTHJZt_NS2w/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු වල විශ්මිත ගුණ . Ayurvedic value of cinnamon.",
+                "url": "https://youtube.com/watch?v=HYqpafpiFWE",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/HYqpafpiFWE/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "අධි රුධිර පීඩනය ස්වාභාවිකව පාලනය කරන ආහාර ර්ග 15ක් | 15 Best Foods for High Blood Pressure",
+                "url": "https://youtube.com/watch?v=iD2L88GekBM",
+                "duration": "11:55",
+                "thumbnail": "https://i.ytimg.com/vi/iD2L88GekBM/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වල විශ්මිත ගුණ. Ugurassa fruit.",
+                "url": "https://youtube.com/watch?v=aW2FO176HVU",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/aW2FO176HVU/hq720.jpg"
+            },
+            {
+                "title": "දෙළුම් කියන්නේ විශ්මිත පලතුරක්ද? | Pomegranate & Health  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LesE4rL7YXg",
+                "duration": "10:34",
+                "thumbnail": "https://i.ytimg.com/vi/LesE4rL7YXg/hq720.jpg"
+            },
+            {
+                "title": "පැය 24න් ප්‍රතිශක්තිය දෙගුණ කරන ඉතා ගුණ ආහාර 5ක්  | මේ තේ එක බොන්න කිසි ලෙඩක් හැදෙන්නේ නැහැ",
+                "url": "https://youtube.com/watch?v=7HQ5gPpZR64",
+                "duration": "13:41",
+                "thumbnail": "https://i.ytimg.com/vi/7HQ5gPpZR64/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "🔴මේ කුඩු නිසා ආතරයිටිස් ඇතුලු සන්ධි රෝග  ක්ෂණිකව නිටිටාවට සුවයි! මෙන්න ක්‍රමය",
+                "url": "https://youtube.com/watch?v=HBJjadwYkyE",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/HBJjadwYkyE/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ අය ලෙඩ වෙන්නෙ අරක්කු බොන්න දන්නෙ නැති නිසා |  Alcohol  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dk3QJjXV938",
+                "duration": "19:12",
+                "thumbnail": "https://i.ytimg.com/vi/dk3QJjXV938/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "නිවසට මේ සුවඳ වර්ග දෙන්න 🏠💫 ධනය සහ සතුට ඉබේම ගලා එන රහස | Power of Fragrance for Wealth",
+                "url": "https://youtube.com/watch?v=lxF7a6g8h4w",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/lxF7a6g8h4w/hq720.jpg"
+            },
+            {
+                "title": "🟢ශ්‍රියා කාන්තාව නිවසට වඩිනවා මේ පැලයක් තිබුනොත්! ධනයට අධිපති. මේ මල් පැල අදම නිවසේ සිටවන්න",
+                "url": "https://youtube.com/watch?v=b1donRkxg3o",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/b1donRkxg3o/hq720.jpg"
+            },
+            {
+                "title": "03 වන තේමාව - 03 වන පාඩම | සතුන්ගේ චර්යා වලින් ඇති ප්‍රයෝජන | 02 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=N-4RR2AJ2ZY",
+                "duration": "15:11",
+                "thumbnail": "https://i.ytimg.com/vi/N-4RR2AJ2ZY/hq720.jpg"
+            },
+            {
+                "title": "පියාගේ ජයග්‍රහණයේ දොරටුව, දියණියගේ සාර්ථකයේ දොරටුව, පුතාගේ ශ්‍රේෂ්ඨත්වයේ දොරටුව | Dr. Lalith Mendis",
+                "url": "https://youtube.com/watch?v=WFxBmFr-JRQ",
+                "duration": "5:51",
+                "thumbnail": "https://i.ytimg.com/vi/WFxBmFr-JRQ/hq720.jpg"
+            },
+            {
+                "title": "දඬු මඟින් සිටුවන ශාක වර්ග/#education#educational#trees#video#foryou#primaryTV @IshaniMS96",
+                "url": "https://youtube.com/watch?v=KwhNia8Z6II",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/KwhNia8Z6II/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා රෝගීන්ට කෑමට සුදුසු හා නුසුදුසු පලතුරු 13 ක් Fruits Diabetes should eat - Sonduru Diviya",
+                "url": "https://youtube.com/watch?v=80nxz-pZrts",
+                "duration": "10:26",
+                "thumbnail": "https://i.ytimg.com/vi/80nxz-pZrts/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "164 100% සාර්ථකයි. වගාවට රිලවු වදුරො නිසා හිසරදයක්ද ? how to prevent monkeys from destroying crops",
+                "url": "https://youtube.com/watch?v=q8xScpTpV0o",
+                "duration": "7:10",
+                "thumbnail": "https://i.ytimg.com/vi/q8xScpTpV0o/hq720.jpg"
+            },
+            {
+                "title": "Benifits of eating fruits- පලතුරු ආහාරයට ගැනීමේ ඇති වැදගත්කම.",
+                "url": "https://youtube.com/watch?v=59FPUrLrdzQ",
+                "duration": "12:00",
+                "thumbnail": "https://i.ytimg.com/vi/59FPUrLrdzQ/hqdefault.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන 🐕#trending #viral #foryou #education #educational #animals",
+                "url": "https://youtube.com/watch?v=m_QLK68xX50",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/m_QLK68xX50/hq720.jpg"
+            },
+            {
+                "title": "🟡පරිප්පු කන්ඩ එපා! පිලිකාකාරක අඩංගුයිද? මෙන්න ඇත්ත!",
+                "url": "https://youtube.com/watch?v=FBGW-7TeshM",
+                "duration": "8:26",
+                "thumbnail": "https://i.ytimg.com/vi/FBGW-7TeshM/hq720.jpg"
+            },
+            {
+                "title": "ලිංගික ශක්තිය වඩවන දුරියන් | duriyan wala guna | duriya | duriyan palathur #durian #helthtips  #life",
+                "url": "https://youtube.com/watch?v=aWj2guv3sJY",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/aWj2guv3sJY/hqdefault.jpg"
+            },
+            {
+                "title": "දියර පොහොරක්ලෙස  හා කෘමින් පලවා හැරිමට ළුණු  පොතු යොදාගන්න Use onion peels as liquid fertilizer",
+                "url": "https://youtube.com/watch?v=YfJG0S1YYeQ",
+                "duration": "8:50",
+                "thumbnail": "https://i.ytimg.com/vi/YfJG0S1YYeQ/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "DANDELION BENEFITS - 12 Impressive Health Benefits of Dandelion",
+                "url": "https://youtube.com/watch?v=MTfk4DEs9y4",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/MTfk4DEs9y4/hq720.jpg"
+            },
+            {
+                "title": "\"DURIAN\" Ke Bemari Se Larne Wale Fawaid! Durian Benefits | Dr. Ibrahim",
+                "url": "https://youtube.com/watch?v=5SjbpnLaXpw",
+                "duration": "7:25",
+                "thumbnail": "https://i.ytimg.com/vi/5SjbpnLaXpw/hq720.jpg"
+            },
+            {
+                "title": "10 Amazing Health Benefits of DURIAN FRUIT",
+                "url": "https://youtube.com/watch?v=8hq6tPkxYZo",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/8hq6tPkxYZo/hq720.jpg"
+            },
+            {
+                "title": "Dandelion Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=L62VWWsdzIo",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/L62VWWsdzIo/hq720.jpg"
+            },
+            {
+                "title": "පලතුරු රජතුමා | 10 Amazing Health Benefits of Durian | The King of Fruits #durian #sinhalahealthtips",
+                "url": "https://youtube.com/watch?v=-JN8g0rLEig",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/-JN8g0rLEig/hq720.jpg"
+            },
+            {
+                "title": "15 HEALTH Benefits ng DUHAT | Bakit dapat mong KAININ ang PRUTAS na ITO?",
+                "url": "https://youtube.com/watch?v=0meebs2WhDs",
+                "duration": "9:10",
+                "thumbnail": "https://i.ytimg.com/vi/0meebs2WhDs/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits Of Cilantro You Should Know! | Health Benefits Of Cilantro",
+                "url": "https://youtube.com/watch?v=jlaelYqV94o",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/jlaelYqV94o/hq720.jpg"
+            },
+            {
+                "title": "Dandelion Root Tea: Benefits & Uses",
+                "url": "https://youtube.com/watch?v=E4caSYMH_RE",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/E4caSYMH_RE/hq720.jpg"
+            },
+            {
+                "title": "The Powerful Healer Hiding In Your Backyard",
+                "url": "https://youtube.com/watch?v=Sxzqg_BclSE",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/Sxzqg_BclSE/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits of Turkey Berry for a Healthy Diet! - Credihealth",
+                "url": "https://youtube.com/watch?v=bQ1PtV5pukg",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/bQ1PtV5pukg/hq720.jpg"
+            },
+            {
+                "title": "What to do with Dandelion & #1 Deadly Mistake to Avoid!",
+                "url": "https://youtube.com/watch?v=NO4vYK6k--0",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/NO4vYK6k--0/hq720.jpg"
+            },
+            {
+                "title": "DANDELION BENEFITS - 12 Impressive Health Benefits of Dandelion",
+                "url": "https://youtube.com/watch?v=M2xxrq2HTvY",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/M2xxrq2HTvY/frame0.jpg"
+            },
+            {
+                "title": "දුරියන් කන්න කලින් අනිවාර්යයෙන් බලන්න / දුරියන් වල ගුණ - Durian",
+                "url": "https://youtube.com/watch?v=gifdanAN6u8",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/gifdanAN6u8/hqdefault.jpg"
+            },
+            {
+                "title": "ගොඩක් අය අකමැති දූරියන් ගැන රසවත් කතා. | The world's smelliest snack durian fruit",
+                "url": "https://youtube.com/watch?v=DRh0YEUBUDU",
+                "duration": "6:01",
+                "thumbnail": "https://i.ytimg.com/vi/DRh0YEUBUDU/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ දෙන රාජකීය පළතුර දූරියන් | දූරියන් වල ඇති ඖෂධීය වටිනාකම දැන ගනිමු  | durio zibethinus",
+                "url": "https://youtube.com/watch?v=e1C5st9HDXY",
+                "duration": "6:34",
+                "thumbnail": "https://i.ytimg.com/vi/e1C5st9HDXY/hqdefault.jpg"
+            },
+            {
+                "title": "The qualities of the durian - දුරියන් වල ඇති පුදුම ගුණ",
+                "url": "https://youtube.com/watch?v=dKA3cwO7BCk",
+                "duration": "1:41",
+                "thumbnail": "https://i.ytimg.com/vi/dKA3cwO7BCk/hq720.jpg"
+            },
+            {
+                "title": "අස්ථි ඇටමිඳුළු ශක්තිමත් කරන ශක්තිජනක දූරියන් ඇට පානය|| දූරියන් ගෙඩියක කට්ට පහසුවෙන් ඉවත්කර ගැනීම 🍈😋👉",
+                "url": "https://youtube.com/watch?v=qn5Ke4gchf4",
+                "duration": "7:00",
+                "thumbnail": "https://i.ytimg.com/vi/qn5Ke4gchf4/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව, කොලොස්ටරෝල් අඩු කරන රස වගේම ගුණ පානය",
+                "url": "https://youtube.com/watch?v=dj16BMLZ4WM",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/dj16BMLZ4WM/hq720.jpg"
+            },
+            {
+                "title": "★‍ ශරීරයේ විෂ නසන ප්‍රතිශක්තිය වැඩි කරන දිවුල් කිරි Healthy and Natural Detox drink/Diul Apé Amma",
+                "url": "https://youtube.com/watch?v=H-3RDdNBq1g",
+                "duration": "5:35",
+                "thumbnail": "https://i.ytimg.com/vi/H-3RDdNBq1g/hq720.jpg"
+            },
+            {
+                "title": "හෘදයාබාධ අධික රුධිර පීඩනය පිළිකා ආදී රෝග රැසකට ගුණ දෙන දිව්‍ය ඖෂධය",
+                "url": "https://youtube.com/watch?v=8rZbdymd9_0",
+                "duration": "10:50",
+                "thumbnail": "https://i.ytimg.com/vi/8rZbdymd9_0/hq720.jpg"
+            },
+            {
+                "title": "හෙණයක් නැතුව ඇගේ ලේ වඩවන ලංකාවේ සුපිරිම ආහාර 20 මෙන්න! ඔබත් අදම කන්න",
+                "url": "https://youtube.com/watch?v=A1zHQz1RKIs",
+                "duration": "8:51",
+                "thumbnail": "https://i.ytimg.com/vi/A1zHQz1RKIs/hq720.jpg"
+            },
+            {
+                "title": "මේ ගස් 3 ගෙදර තියෙනවා නම් කවදාවත් දියවැඩියාව හැදෙන්නේ නැහැ - මේ ගෙඩියක් කන්න පටගාල සීනි බහිනවා",
+                "url": "https://youtube.com/watch?v=ySXYL6YHSpo",
+                "duration": "26:55",
+                "thumbnail": "https://i.ytimg.com/vi/ySXYL6YHSpo/hq720.jpg"
+            },
+            {
+                "title": "Golden Harvest of Juicy Oranges | A Hero Who Donates Land to the Poor",
+                "url": "https://youtube.com/watch?v=x-dkXa687Zc",
+                "duration": "37:11",
+                "thumbnail": "https://i.ytimg.com/vi/x-dkXa687Zc/hq720.jpg"
+            },
+            {
+                "title": "තරම හා සිනිඳු ගොරෝසු බව අනුව ද්‍රව්‍ය තෝරමු  - 2 ශ්‍රේණිය (ගණිතය) - P 02",
+                "url": "https://youtube.com/watch?v=6CiPjjTC9jk",
+                "duration": "13:58",
+                "thumbnail": "https://i.ytimg.com/vi/6CiPjjTC9jk/hq720.jpg"
+            },
+            {
+                "title": "දූරියන් කෑවේ දැනගෙනද? | මේ දැන්ම දැනුවත් වන්න | Duriyan Gana Visthara | Benefits Of Durian",
+                "url": "https://youtube.com/watch?v=ml3lS24bD70",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/ml3lS24bD70/hq720.jpg"
+            },
+            {
+                "title": "DURIAN: Benefits & Properties | Medicinal plants 💚 100% Natural",
+                "url": "https://youtube.com/watch?v=cC8PS4UYDrE",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/cC8PS4UYDrE/hq720.jpg"
+            },
+            {
+                "title": "Durian Nutrition Facts and Health Benefits | Horoscope Lanka",
+                "url": "https://youtube.com/watch?v=VNPzCHZzbyg",
+                "duration": "3:56",
+                "thumbnail": "https://i.ytimg.com/vi/VNPzCHZzbyg/hq720.jpg"
+            },
+            {
+                "title": "DANDELION BENEFITS - 12 Impressive Health Benefits of Dandelion",
+                "url": "https://youtube.com/watch?v=InAU0aLq84s",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/InAU0aLq84s/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Common Cold",
-      "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Root"
-  ],
-  "images": [
-    {
-      "image_id": "1360",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/7JVFpnvK/plant00256-01360.jpg"
-    },
-    {
-      "image_id": "1361",
-      "caption": "Twig",
-      "url": "https://i.ibb.co/5hMcB2kD/plant00256-01361.jpg"
-    },
-    {
-      "image_id": "1362",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/4RGYgtL7/plant00256-01362.jpg"
-    },
-    {
-      "image_id": "3472",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/BVcGcCjd/plant00256-03472.jpg"
-    },
-    {
-      "image_id": "3473",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/dwDF61B9/plant00256-03473.jpg"
-    },
-    {
-      "image_id": "3474",
-      "caption": "Leaf lower surface (PMR)",
-      "url": "https://i.ibb.co/jkN8NZWj/plant00256-03474.jpg"
-    },
-    {
-      "image_id": "3475",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/7ttwCz83/plant00256-03475.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

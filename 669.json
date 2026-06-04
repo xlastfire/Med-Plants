@@ -1,92 +1,181 @@
 {
-  "scientificName": "Tephrosia purpurea (L.) Pers.",
-  "synonyms": [
-    "Cracca purpurea L.",
-    "Galega purpurea (L.) L.",
-    "Tephrosia purpurea var. genuina R.Vig."
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Purple Tephrosia",
-    "Common Tephrosia",
-    "Fish Poison",
-    "Wild Indigo"
-  ],
-  "sinhalaName": "Kathurupila (කතුරුපිල)",
-  "description": "බහුවාර්ෂික හෝ දීර්ඝකාලීන වාර්ෂික ශාකයකි, උස මීටර 1ක් පමණ වේ. උපපත්‍ර (stipules) රේඛීය (linear) සිට ත්‍රිකෝණාකාර (deltoid) හැඩයක් ගනී. පත්‍ර අසම පිහාටුමය (imparipinnate) වන අතර පත්‍රිකා (7-)9-21කින් සමන්විත වේ; පත්‍රිකා දිගින් 1-2.5(-3) සෙ.මී. සහ පළලින් 3-13 මි.මී. වේ. පුෂ්ප මංජරිය අසත්‍ය පොකුරු (pseudoracemose) ආකාර වන අතර සාමාන්‍යයෙන් පත්‍රවලට වඩා දිගු වේ, මල් රාශියකින් සමන්විතය. මල් 4-9 මි.මී. දිගු වන අතර 3-4 මි.මී. දිගු පුෂ්ප වෘන්ත (pedicels) මත පිහිටයි; පෙති රෝස සිට දම් පැහැයක් ගනී. පලය 3-4.5 සෙ.මී. දිගු සහ 4 මි.මී. පළල වන අතර බීජ 5-7ක් අඩංගු වේ. බීජ ලා කහ පැහැයේ සිට තද දුඹුරු පැහැයක් ගනී, දිග 4 මි.මී. සහ විෂ්කම්භය 2 මි.මී. වේ.",
-  "treatments": [
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Tephrosia purpurea (L.) Pers.",
+    "synonyms": [
+        "Cracca purpurea L.",
+        "Galega purpurea (L.) L.",
+        "Tephrosia purpurea var. genuina R.Vig."
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Purple Tephrosia",
+        "Common Tephrosia",
+        "Fish Poison",
+        "Wild Indigo"
+    ],
+    "sinhalaName": "Kathurupila (කතුරුපිල)",
+    "description": "බහුවාර්ෂික හෝ දීර්ඝකාලීන වාර්ෂික ශාකයකි, උස මීටර 1ක් පමණ වේ. උපපත්‍ර (stipules) රේඛීය (linear) සිට ත්‍රිකෝණාකාර (deltoid) හැඩයක් ගනී. පත්‍ර අසම පිහාටුමය (imparipinnate) වන අතර පත්‍රිකා (7-)9-21කින් සමන්විත වේ; පත්‍රිකා දිගින් 1-2.5(-3) සෙ.මී. සහ පළලින් 3-13 මි.මී. වේ. පුෂ්ප මංජරිය අසත්‍ය පොකුරු (pseudoracemose) ආකාර වන අතර සාමාන්‍යයෙන් පත්‍රවලට වඩා දිගු වේ, මල් රාශියකින් සමන්විතය. මල් 4-9 මි.මී. දිගු වන අතර 3-4 මි.මී. දිගු පුෂ්ප වෘන්ත (pedicels) මත පිහිටයි; පෙති රෝස සිට දම් පැහැයක් ගනී. පලය 3-4.5 සෙ.මී. දිගු සහ 4 මි.මී. පළල වන අතර බීජ 5-7ක් අඩංගු වේ. බීජ ලා කහ පැහැයේ සිට තද දුඹුරු පැහැයක් ගනී, දිග 4 මි.මී. සහ විෂ්කම්භය 2 මි.මී. වේ.",
+    "treatments": [
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Biliary Disorders",
+            "sinhala": "පිත් ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Visceral Obstructions",
+            "sinhala": "අභ්‍යන්තර ඉන්ද්‍රියයන්ගේ (අක්මාව, ප්ලීහාව, වකුගඩු) අවහිරතා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Leaves",
+        "Barks"
+    ],
+    "images": [
+        {
+            "image_id": "472",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/Xrz7RZ1f/plant00669-00472.jpg"
+        },
+        {
+            "image_id": "473",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/Rk8D3YDY/plant00669-00473.jpg"
+        },
+        {
+            "image_id": "474",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/WWdzwWD0/plant00669-00474.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "රෝගාබාද රැසකට ගුණ දෙන කතුරුපිල ශාකය|Purple Tephrosia plant.",
+                "url": "https://youtube.com/watch?v=nTxEJdTY_kY",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/nTxEJdTY_kY/hq720.jpg"
+            },
+            {
+                "title": "කතුරුපිල වල ඇති විශ්මිත ගුණ  kathurupila wala guna",
+                "url": "https://youtube.com/watch?v=FfZTFm-RwBM",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/FfZTFm-RwBM/hqdefault.jpg"
+            },
+            {
+                "title": "කතුරුපිල||kathurupila||Tephrosia purpurea (L.)",
+                "url": "https://youtube.com/watch?v=pytbra-7PDk",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/pytbra-7PDk/hq720_2.jpg"
+            },
+            {
+                "title": "මුඛ දුගද නසන කතුරැ පිල",
+                "url": "https://youtube.com/watch?v=10NPfvPgGfc",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/10NPfvPgGfc/hqdefault.jpg"
+            },
+            {
+                "title": "මුතුවන් දත් දෙපෙලක රහස කතුරුපිල | ගුවන්විදුලි ළමා නිවේදිකා ගායිකා රෂ්මි නවෝද්‍යා #srilankan",
+                "url": "https://youtube.com/watch?v=TJ7xU0WCVnI",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/TJ7xU0WCVnI/hq720.jpg"
+            },
+            {
+                "title": "කෘමි රෝග, සෙංගමාලය ඇතුළු ලෙඩ ගොඩකට කතුරුපිල | කතුරුපිල (Katurupila) Kathurupila",
+                "url": "https://youtube.com/watch?v=SmyXERX5_lg",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/SmyXERX5_lg/hq720.jpg"
+            },
+            {
+                "title": "කතුරු පිල 🌱❤️😌 / Kathuru Pila / Ape Sirilaka 😌",
+                "url": "https://youtube.com/watch?v=7j1Ch6XGVXw",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/7j1Ch6XGVXw/hq720.jpg"
+            },
+            {
+                "title": "Pila/Kathurupila/Tephrosia purpurea",
+                "url": "https://youtube.com/watch?v=B-N42e9FlzU",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/B-N42e9FlzU/hq720.jpg"
+            },
+            {
+                "title": "Kathuru pila plant for dantal condition",
+                "url": "https://youtube.com/watch?v=GEHz0FFjdx4",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/GEHz0FFjdx4/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල වල විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=vBxCyPGk2hg",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/vBxCyPGk2hg/hq720.jpg"
+            },
+            {
+                "title": "කටුපිළ ශාකය Katupila",
+                "url": "https://youtube.com/watch?v=c8OaP4umd1Q",
+                "duration": "1:55",
+                "thumbnail": "https://i.ytimg.com/vi/c8OaP4umd1Q/hqdefault.jpg"
+            },
+            {
+                "title": "පිලිකාව නසන කටුපිල | දිව ඔසුවක් බදු කටුපිල | කටුපිල ශාකය | කටුපිල | katupila | 2024",
+                "url": "https://youtube.com/watch?v=aHQSr4LSJWQ",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/aHQSr4LSJWQ/hqdefault.jpg"
+            },
+            {
+                "title": "කටුපිල ශාකයේ ගුණ අගුණ නිවැරදිව දැනගමු | Health benefits of katupila | කටුපිල | Katupila",
+                "url": "https://youtube.com/watch?v=LnoPt_czJkM",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/LnoPt_czJkM/hqdefault.jpg"
+            },
+            {
+                "title": "කතුරු පිල ශාකය/#katuru pila/#ishanheritage",
+                "url": "https://youtube.com/watch?v=aR35xmHWBZA",
+                "duration": "5:40",
+                "thumbnail": "https://i.ytimg.com/vi/aR35xmHWBZA/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Biliary Disorders",
-      "sinhala": "පිත් ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Visceral Obstructions",
-      "sinhala": "අභ්‍යන්තර ඉන්ද්‍රියයන්ගේ (අක්මාව, ප්ලීහාව, වකුගඩු) අවහිරතා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Leaves",
-    "Barks"
-  ],
-  "images": [
-    {
-      "image_id": "472",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/Xrz7RZ1f/plant00669-00472.jpg"
-    },
-    {
-      "image_id": "473",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/Rk8D3YDY/plant00669-00473.jpg"
-    },
-    {
-      "image_id": "474",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/WWdzwWD0/plant00669-00474.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

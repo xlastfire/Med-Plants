@@ -1,185 +1,352 @@
 {
-  "scientificName": "Alocasia macrorrhizos (L.) G.Don",
-  "synonyms": [
-    "Alocasia cordifolia (Bory) Cordem.",
-    "Alocasia gigas Chantrier ex André",
-    "Alocasia grandis N.E.Br.",
-    "Alocasia harrisii-pulchrum Pynaert",
-    "Alocasia indica (Lour.) Spach",
-    "Alocasia indica var. diversifolia Engl.",
-    "Alocasia indica var. heterophylla Engl.",
-    "Alocasia indica var. metallica (Schott) Schott",
-    "Alocasia indica var. rubra (Hassk.) Engl.",
-    "Alocasia indica var. typica Engl.",
-    "Alocasia indica var. variegata (K.Koch & C.D.Bouché) Engl.",
-    "Alocasia insignis Pynaert",
-    "Alocasia macrorrhizos var. rubra (Hassk.) Furtado",
-    "Alocasia macrorrhizos var. variegata (K.Koch & C.D.Bouché) B.S.Williams",
-    "Alocasia marginata N.E.Br.",
-    "Alocasia metallica Schott",
-    "Alocasia montana (Roxb.) Schott",
-    "Alocasia pallida K.Koch & C.D.Bouché",
-    "Alocasia plumbea Van Houtte",
-    "Alocasia rapiformis (Roxb.) Schott",
-    "Alocasia uhinkii Engl. & K.Krause",
-    "Alocasia variegata K.Koch & C.D.Bouché",
-    "Arum cordifolium Bory",
-    "Arum indicum Lour.",
-    "Arum macrorrhizon L.",
-    "Arum montanum Roxb.",
-    "Arum mucronatum Lam.",
-    "Arum peregrinum L.",
-    "Arum rapiforme Roxb.",
-    "Caladium indicum K.Koch",
-    "Caladium macrorrhizon (L.) R.Br.",
-    "Caladium metallicum Engl.",
-    "Caladium odoratum G.Lodd.",
-    "Caladium plumbeum K.Koch",
-    "Calla badian Blanco",
-    "Calla maxima Blanco",
-    "Colocasia boryi Kunth",
-    "Colocasia indica (Lour.) Kunth",
-    "Colocasia indica var. rubra Hassk.",
-    "Colocasia macrorrhizos (L.) Schott",
-    "Colocasia montana (Roxb.) Kunth",
-    "Colocasia mucronata (Lam.) Kunth",
-    "Colocasia peregrina (L.) Raf.",
-    "Colocasia rapiformis (Roxb.) Kunth",
-    "Philodendron peregrinum (L.) Kunth",
-    "Philodendron punctatum Kunth"
-  ],
-  "familyName": "ARACEAE",
-  "englishNames": [
-    "Elephant Ears",
-    "Giant Taro",
-    "Upright Elephant Ear",
-    "Giant Ape"
-  ],
-  "sinhalaName": "Habarala (හබරල)",
-  "description": "ශාකය පැළෑටියකි, කඳ සහිත (caulescent) වන අතර ඝනකම සෙ.මී. 18ක් පමණ වේ. පත්‍ර තල සෘජුය, දළ වශයෙන් මීටර් 1 x 1ක් පමණ වේ, පසුපස පෙති වටකුරුය (rounded), ඇතුළට නැමුණු (incurved), නිදහස් වන අතර දිග සෙ.මී. 30ක් පමණ වේ, දාර සම්පූර්ණ (entire) හෝ තරමක් රැලි සහිත (subundulate) වේ. පත්‍රාවරණය (spathe) සෙ.මී. 25කි; පහළ කොටස සෙ.මී. 3-5ක් ස්ථිරව පවතී (persistent), ඉහළ කොටස සෙ.මී. 20ක් මැලවී යයි. පුෂ්ප මංජරිය (spadix) සෙ.මී. 20ක් දක්වා වේ, ස්ත්‍රී පුෂ්ප කොටස සෙ.මී. 2කි, වඳ කොටස සෙ.මී. 1කි, පුරුෂ පුෂ්ප කොටස සෙ.මී. 7ක් දක්වා වේ, උපග්‍රන්ථය (appendix) ලා දුඹුරු පැහැතිය, රැලි සහිත (corrugated) වන අතර දිග සෙ.මී. 10කි.",
-  "treatments": [
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Alocasia macrorrhizos (L.) G.Don",
+    "synonyms": [
+        "Alocasia cordifolia (Bory) Cordem.",
+        "Alocasia gigas Chantrier ex André",
+        "Alocasia grandis N.E.Br.",
+        "Alocasia harrisii-pulchrum Pynaert",
+        "Alocasia indica (Lour.) Spach",
+        "Alocasia indica var. diversifolia Engl.",
+        "Alocasia indica var. heterophylla Engl.",
+        "Alocasia indica var. metallica (Schott) Schott",
+        "Alocasia indica var. rubra (Hassk.) Engl.",
+        "Alocasia indica var. typica Engl.",
+        "Alocasia indica var. variegata (K.Koch & C.D.Bouché) Engl.",
+        "Alocasia insignis Pynaert",
+        "Alocasia macrorrhizos var. rubra (Hassk.) Furtado",
+        "Alocasia macrorrhizos var. variegata (K.Koch & C.D.Bouché) B.S.Williams",
+        "Alocasia marginata N.E.Br.",
+        "Alocasia metallica Schott",
+        "Alocasia montana (Roxb.) Schott",
+        "Alocasia pallida K.Koch & C.D.Bouché",
+        "Alocasia plumbea Van Houtte",
+        "Alocasia rapiformis (Roxb.) Schott",
+        "Alocasia uhinkii Engl. & K.Krause",
+        "Alocasia variegata K.Koch & C.D.Bouché",
+        "Arum cordifolium Bory",
+        "Arum indicum Lour.",
+        "Arum macrorrhizon L.",
+        "Arum montanum Roxb.",
+        "Arum mucronatum Lam.",
+        "Arum peregrinum L.",
+        "Arum rapiforme Roxb.",
+        "Caladium indicum K.Koch",
+        "Caladium macrorrhizon (L.) R.Br.",
+        "Caladium metallicum Engl.",
+        "Caladium odoratum G.Lodd.",
+        "Caladium plumbeum K.Koch",
+        "Calla badian Blanco",
+        "Calla maxima Blanco",
+        "Colocasia boryi Kunth",
+        "Colocasia indica (Lour.) Kunth",
+        "Colocasia indica var. rubra Hassk.",
+        "Colocasia macrorrhizos (L.) Schott",
+        "Colocasia montana (Roxb.) Kunth",
+        "Colocasia mucronata (Lam.) Kunth",
+        "Colocasia peregrina (L.) Raf.",
+        "Colocasia rapiformis (Roxb.) Kunth",
+        "Philodendron peregrinum (L.) Kunth",
+        "Philodendron punctatum Kunth"
+    ],
+    "familyName": "ARACEAE",
+    "englishNames": [
+        "Elephant Ears",
+        "Giant Taro",
+        "Upright Elephant Ear",
+        "Giant Ape"
+    ],
+    "sinhalaName": "Habarala (හබරල)",
+    "description": "ශාකය පැළෑටියකි, කඳ සහිත (caulescent) වන අතර ඝනකම සෙ.මී. 18ක් පමණ වේ. පත්‍ර තල සෘජුය, දළ වශයෙන් මීටර් 1 x 1ක් පමණ වේ, පසුපස පෙති වටකුරුය (rounded), ඇතුළට නැමුණු (incurved), නිදහස් වන අතර දිග සෙ.මී. 30ක් පමණ වේ, දාර සම්පූර්ණ (entire) හෝ තරමක් රැලි සහිත (subundulate) වේ. පත්‍රාවරණය (spathe) සෙ.මී. 25කි; පහළ කොටස සෙ.මී. 3-5ක් ස්ථිරව පවතී (persistent), ඉහළ කොටස සෙ.මී. 20ක් මැලවී යයි. පුෂ්ප මංජරිය (spadix) සෙ.මී. 20ක් දක්වා වේ, ස්ත්‍රී පුෂ්ප කොටස සෙ.මී. 2කි, වඳ කොටස සෙ.මී. 1කි, පුරුෂ පුෂ්ප කොටස සෙ.මී. 7ක් දක්වා වේ, උපග්‍රන්ථය (appendix) ලා දුඹුරු පැහැතිය, රැලි සහිත (corrugated) වන අතර දිග සෙ.මී. 10කි.",
+    "treatments": [
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Osteoarthritis",
+            "sinhala": "ඔස්ටියෝ ආතරයිටිස් (සන්ධි ගෙවීම/ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Earache",
+            "sinhala": "කන් කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Nervous Disorders",
+            "sinhala": "ස්නායු පද්ධතිය ආශ්‍රිත ආබාධ සහ රෝග (වාත රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Abdominal Pain",
+            "sinhala": "බඩේ කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Disorders",
+            "sinhala": "මුත්‍රා පද්ධතියේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tonsillitis",
+            "sinhala": "ටොන්සිල් ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Stem",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "3185",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/JjpSXHtb/plant00130-03185.jpg"
+        },
+        {
+            "image_id": "3186",
+            "caption": "Young Inflorescence(PMR)",
+            "url": "https://i.ibb.co/601sVM75/plant00130-03186.jpg"
+        },
+        {
+            "image_id": "3187",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/Pzs9VFJM/plant00130-03187.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කෑවොත් කට කහන හබරල කොල සහ අල කොල අදුරගන්නෙ මෙහෙමයි | Ceylon agri | Episode 197-02",
+                "url": "https://youtube.com/watch?v=U-ME0zWk0b4",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/U-ME0zWk0b4/hq720.jpg"
+            },
+            {
+                "title": "14 - හබරල පාත්තිය. ( ඇනස්ලි, බර්ටි, සැමුවෙල් ) Anesly, Berty, Samuel",
+                "url": "https://youtube.com/watch?v=M7I_GXElSyA",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/M7I_GXElSyA/hqdefault.jpg"
+            },
+            {
+                "title": "Habarala/හබරල/Alocasia macrorrhizos/Herbal plants of Sri Lanka",
+                "url": "https://youtube.com/watch?v=37XYvQuqGhw",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/37XYvQuqGhw/hqdefault.jpg"
+            },
+            {
+                "title": "හබරල 2 | Taro",
+                "url": "https://youtube.com/watch?v=KeNRBlH3o0s",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/KeNRBlH3o0s/hq720.jpg"
+            },
+            {
+                "title": "\"හබරල කෑවම මොකද වෙන්නේ? | Is Habarala Safe to Eat?\"#හබරල #ayurveda #srilankanfood #HelaRasaviya",
+                "url": "https://youtube.com/watch?v=3riqrWd6ALw",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/3riqrWd6ALw/hqdefault.jpg"
+            },
+            {
+                "title": "මේ යන විදිහට කන්න වෙන්නේ හබරල... කට කහන හබරල කමුද..?",
+                "url": "https://youtube.com/watch?v=vCL3dt2EEkQ",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/vCL3dt2EEkQ/hq720.jpg"
+            },
+            {
+                "title": "නොදැන කෑවොත් කට කහන පොලොන් හබරල රසට කමු hemorrhoids remedies sri lanka",
+                "url": "https://youtube.com/watch?v=EuwCqQOOyMc",
+                "duration": "7:48",
+                "thumbnail": "https://i.ytimg.com/vi/EuwCqQOOyMc/hq720.jpg"
+            },
+            {
+                "title": "pond weed tempered /diya habarala themparaduwa /දිය හබරල තෙම්පරදුව/sri lankan traditional food",
+                "url": "https://youtube.com/watch?v=FL7S9IL8cCc",
+                "duration": "7:30",
+                "thumbnail": "https://i.ytimg.com/vi/FL7S9IL8cCc/hq720.jpg"
+            },
+            {
+                "title": "හබරල අළවල විස නැසීම How to harvest poisonous habarala roots",
+                "url": "https://youtube.com/watch?v=Aq-ktJmG4LY",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/Aq-ktJmG4LY/hq720.jpg"
+            },
+            {
+                "title": "හබරල | Taro",
+                "url": "https://youtube.com/watch?v=4sxouqPkAEQ",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/4sxouqPkAEQ/hq720.jpg"
+            },
+            {
+                "title": "කෑවොත් කට කහන හබරල කොල සහ අල කොල අදුරගන්නෙ මෙහෙමයි | Ceylon agri | Episode 197-02",
+                "url": "https://youtube.com/watch?v=4E9XvaBt2io",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/4E9XvaBt2io/frame0.jpg"
+            },
+            {
+                "title": "HABARALA MALUWA | හබරල මාළුව කට කහන්නෙ නැතුව හදාගන්න | SAMBOLE | සම්බෝලේ",
+                "url": "https://youtube.com/watch?v=ff_tkH16gFU",
+                "duration": "9:43",
+                "thumbnail": "https://i.ytimg.com/vi/ff_tkH16gFU/hq720.jpg"
+            },
+            {
+                "title": "kalu habarala ( Black taro leaves )",
+                "url": "https://youtube.com/watch?v=xLCJTFXq1sc",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/xLCJTFXq1sc/hq720.jpg"
+            },
+            {
+                "title": "ජබර හෙවත් දියහබරල කාල තියෙනවද | සොබාදහම සමග සහජීවනයෙන් කටයුතු කරමු | Pond Weed",
+                "url": "https://youtube.com/watch?v=CF2VoO_q6uc",
+                "duration": "7:21",
+                "thumbnail": "https://i.ytimg.com/vi/CF2VoO_q6uc/hq720.jpg"
+            },
+            {
+                "title": "දිය හබරල ශාකයේ ඖෂධීය ගුණ 😱😱😱",
+                "url": "https://youtube.com/watch?v=1mafzOi3HiA",
+                "duration": "5:46",
+                "thumbnail": "https://i.ytimg.com/vi/1mafzOi3HiA/hq720.jpg"
+            },
+            {
+                "title": "ජබර හෙවත් දිය හබරල කොල තෙල් දාලා|jabara diya habarala|ගුණ දන්නෝ රස හඳුනන්නෝ🤪😉|diya habarala",
+                "url": "https://youtube.com/watch?v=QAeW7CAYW2w",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/QAeW7CAYW2w/hqdefault.jpg"
+            },
+            {
+                "title": "මේන්න කන්න බැරි හබරල අල කන විදිහ !Here's how to eat inedible Habarala potatoes!",
+                "url": "https://youtube.com/watch?v=EJM7-kQFMK8",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/EJM7-kQFMK8/hq720.jpg"
+            },
+            {
+                "title": "හදවතට සහ ඇස්වලට ගුණ දෙන කිරි අල|Healing powers of Taro",
+                "url": "https://youtube.com/watch?v=zWdvXViGPFs",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/zWdvXViGPFs/hqdefault.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග මට්ටු කරන දිය හබරල ශ්‍රී ලංකාවේ වෙල් ආශ්‍රිත හැදෙන පලා වර්ගයකි මෙය සිත කෑමක් වේ",
+                "url": "https://youtube.com/watch?v=iKOGtJwdfJ0",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/iKOGtJwdfJ0/hq720.jpg"
+            },
+            {
+                "title": "මසකට වරක් හෝ කෑමට ගත යුතු පොලොන් හබරල මැල්ලුම",
+                "url": "https://youtube.com/watch?v=b5Il_ePA4hw",
+                "duration": "12:19",
+                "thumbnail": "https://i.ytimg.com/vi/b5Il_ePA4hw/hq720.jpg"
+            },
+            {
+                "title": "හබරල කන හැටි...",
+                "url": "https://youtube.com/watch?v=GkKpj1lavro",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/GkKpj1lavro/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකා ෙව් ෙගාඩට මඩට අරක්ගත් හබරල ශාකය...",
+                "url": "https://youtube.com/watch?v=1CgKxrExJoQ",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/1CgKxrExJoQ/hq720.jpg"
+            },
+            {
+                "title": "\"හබරල කෑවම මොකද වෙන්නේ? | Is Habarala Safe to Eat?\"#හබරල #ayurveda #srilankanfood #HelaRasaviya",
+                "url": "https://youtube.com/watch?v=_pIhEESdHbo",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/_pIhEESdHbo/frame0.jpg"
+            },
+            {
+                "title": "තරුණ වෙන්න හබරල කොල අමුවෙන් කමු",
+                "url": "https://youtube.com/watch?v=Ox5iEfgBXOo",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/Ox5iEfgBXOo/hq720.jpg"
+            },
+            {
+                "title": "අල වැලක් කොල වලින් හදුනා ගැනීම",
+                "url": "https://youtube.com/watch?v=MgOrUW3q1uE",
+                "duration": "6:34",
+                "thumbnail": "https://i.ytimg.com/vi/MgOrUW3q1uE/hq720.jpg"
+            },
+            {
+                "title": "විටමින් සහ ඛනිජ  ලවන බහුල අලකොල.(දිගිකල් ජීවත්වීමේ රහස් )",
+                "url": "https://youtube.com/watch?v=e7L70ribu00",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/e7L70ribu00/hq720.jpg"
+            },
+            {
+                "title": "අල කොළ ගැන ඔබ නොදත් සියලුම  විස්තර | Taro Leaves | Ala kola | අල කොල | what is Taro Leaf ?",
+                "url": "https://youtube.com/watch?v=PjS3aBGPlRw",
+                "duration": "10:55",
+                "thumbnail": "https://i.ytimg.com/vi/PjS3aBGPlRw/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Osteoarthritis",
-      "sinhala": "ඔස්ටියෝ ආතරයිටිස් (සන්ධි ගෙවීම/ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Earache",
-      "sinhala": "කන් කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Nervous Disorders",
-      "sinhala": "ස්නායු පද්ධතිය ආශ්‍රිත ආබාධ සහ රෝග (වාත රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Abdominal Pain",
-      "sinhala": "බඩේ කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Disorders",
-      "sinhala": "මුත්‍රා පද්ධතියේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tonsillitis",
-      "sinhala": "ටොන්සිල් ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Stem",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "3185",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/JjpSXHtb/plant00130-03185.jpg"
-    },
-    {
-      "image_id": "3186",
-      "caption": "Young Inflorescence(PMR)",
-      "url": "https://i.ibb.co/601sVM75/plant00130-03186.jpg"
-    },
-    {
-      "image_id": "3187",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/Pzs9VFJM/plant00130-03187.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

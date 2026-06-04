@@ -1,56 +1,289 @@
 {
-  "scientificName": "Cicer arietinum L.",
-  "synonyms": [
-    "Cicer arietinum var. album Gaudin",
-    "Cicer arietinum var. cruentum Alef.",
-    "Cicer arietinum var. fuscum Alef.",
-    "Cicer arietinum var. globosum Alef.",
-    "Cicer arietinum var. macrospermum Jaub. & Spach",
-    "Cicer arietinum var. nigrum Alef.",
-    "Cicer arietinum var. rhytidospermum Jaub. & Spach",
-    "Cicer arietinum var. vulgare Jaub. & Spach",
-    "Cicer grossum Salisb.",
-    "Cicer physodes Rchb.",
-    "Cicer rotundum Jord. ex Alef.",
-    "Cicer sativum Schkuhr",
-    "Cicer sintenisii Bornm.",
-    "Nochotta oleracea S.G.Gmel.",
-    "Ononis crotalarioides M.E.Jones",
-    "Vicia arietina (L.) E.H.L.Krause"
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Bengal Gram",
-    "Chicken Pea"
-  ],
-  "sinhalaName": "Konda kadala (කොණ්ඩ කඩල)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Dysmenorrhea",
-      "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
+    "scientificName": "Cicer arietinum L.",
+    "synonyms": [
+        "Cicer arietinum var. album Gaudin",
+        "Cicer arietinum var. cruentum Alef.",
+        "Cicer arietinum var. fuscum Alef.",
+        "Cicer arietinum var. globosum Alef.",
+        "Cicer arietinum var. macrospermum Jaub. & Spach",
+        "Cicer arietinum var. nigrum Alef.",
+        "Cicer arietinum var. rhytidospermum Jaub. & Spach",
+        "Cicer arietinum var. vulgare Jaub. & Spach",
+        "Cicer grossum Salisb.",
+        "Cicer physodes Rchb.",
+        "Cicer rotundum Jord. ex Alef.",
+        "Cicer sativum Schkuhr",
+        "Cicer sintenisii Bornm.",
+        "Nochotta oleracea S.G.Gmel.",
+        "Ononis crotalarioides M.E.Jones",
+        "Vicia arietina (L.) E.H.L.Krause"
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Bengal Gram",
+        "Chicken Pea"
+    ],
+    "sinhalaName": "Konda kadala (කොණ්ඩ කඩල)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Dysmenorrhea",
+            "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Renal Colic",
+            "sinhala": "මුත්‍රා ගල් නිසා ඇතිවන දැඩි වේදනාව (වෘක්ක ශූල)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds",
+        "Entire Plant"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "✔ තෙල් නැතුව රෝස්ටට් කොණ්ඩ කඩල (ස්වයංරැකියා අත්වැල) Roasted Konda kadala by Apé Amma",
+                "url": "https://youtube.com/watch?v=m-pgEZD9lUg",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/m-pgEZD9lUg/hq720.jpg"
+            },
+            {
+                "title": "✔ කොණ්ඩ කඩල තෙම්පරාදුව | රසට තම්බන හැටි Street style spicy konda kadala (Chick pea) by Apé Amma",
+                "url": "https://youtube.com/watch?v=5x4j0twN7_w",
+                "duration": "6:59",
+                "thumbnail": "https://i.ytimg.com/vi/5x4j0twN7_w/hq720.jpg"
+            },
+            {
+                "title": "පාරේ කඩල කරත්තෙ තියෙන ,කඩල රස වෙන්න හේතුව දැනන් හිටියද ? Street vendors style Tempered Chick Peas.",
+                "url": "https://youtube.com/watch?v=Pl9onsPQYug",
+                "duration": "5:23",
+                "thumbnail": "https://i.ytimg.com/vi/Pl9onsPQYug/hq720.jpg"
+            },
+            {
+                "title": "★‍ බර අඩු කරන පෝෂ්‍යජනක රතු කොණ්ඩ කඩල Black chickpeas breakfast recipe for weight loss by Apé Amma",
+                "url": "https://youtube.com/watch?v=ubRQiMk8d-M",
+                "duration": "6:34",
+                "thumbnail": "https://i.ytimg.com/vi/ubRQiMk8d-M/hq720.jpg"
+            },
+            {
+                "title": "✔කඩල කඩේ විදියටම තෙල් නැතුව බදින කොණ්ඩ කඩල ක්‍රම 2කට සැරට/පැණිරසට Konda Kadala 2 ways by Apé Amma",
+                "url": "https://youtube.com/watch?v=E0YGw4YFuwU",
+                "duration": "7:33",
+                "thumbnail": "https://i.ytimg.com/vi/E0YGw4YFuwU/hq720.jpg"
+            },
+            {
+                "title": "කඩල තෙම්පරාදුව | Tempered Chickpeas | Kadala Thel Dalda",
+                "url": "https://youtube.com/watch?v=NFZwBtb5Gqc",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/NFZwBtb5Gqc/hqdefault.jpg"
+            },
+            {
+                "title": "✔ මේ බලන්න ක්‍රිස්පි කොණ්ඩ කඩල බදින හැටි(ස්වයංරැකියා උදව්) Crispy Konda kadala by Apé Amma",
+                "url": "https://youtube.com/watch?v=HcUCSOY4aaE",
+                "duration": "7:41",
+                "thumbnail": "https://i.ytimg.com/vi/HcUCSOY4aaE/hq720.jpg"
+            },
+            {
+                "title": "ගෙදර කඩල තැම්බුවොත්, මම අනිවාර්‍යෙන් මේ වගේ තෙල් දානවාමයි! | Tempered Chickpea | Kadala Thel dala",
+                "url": "https://youtube.com/watch?v=L7z9AfDnwJ4",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/L7z9AfDnwJ4/hq720.jpg"
+            },
+            {
+                "title": "Tempered chickpeas |  කොණ්ඩ කඩල බයිට් එක | கொண்டைக்கடலை  சுண்டல்",
+                "url": "https://youtube.com/watch?v=-9Ypb1wmpno",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/-9Ypb1wmpno/hq720.jpg"
+            },
+            {
+                "title": "අම්මිගේ කඩල කරි|How to Make Chickpea Curry-Sangeeth Vlogs|Sangeeth Satharasinghe",
+                "url": "https://youtube.com/watch?v=mVNyFePPEns",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/mVNyFePPEns/hq720.jpg"
+            },
+            {
+                "title": "Easiest Healthy Snack - Roasted Chickpeas | කඩල මෙහෙම හදමු By MS NEST",
+                "url": "https://youtube.com/watch?v=B22ZykOr0qk",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/B22ZykOr0qk/hq720.jpg"
+            },
+            {
+                "title": "✔ Kadala Curry | Chickpeas | රසම රස කඩල කරිය | Sinhala Recipes#kadalacurryrecipe #chickpeas #curry",
+                "url": "https://youtube.com/watch?v=lgVx_ZWwlAA",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/lgVx_ZWwlAA/hq720.jpg"
+            },
+            {
+                "title": "බයිට් කඩල- High protein chickpea recipe -roasted chickpeas-भुना हुआ चना-ভাজা ছোলা-حمص محمص",
+                "url": "https://youtube.com/watch?v=oxS0gbjELSw",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/oxS0gbjELSw/hq720.jpg"
+            },
+            {
+                "title": "✔ තෙල් නැතුව බැදල හදලා සීනි කඩල  Fried Seeni kadala by Apé Amma",
+                "url": "https://youtube.com/watch?v=e7vEC-fO37E",
+                "duration": "8:40",
+                "thumbnail": "https://i.ytimg.com/vi/e7vEC-fO37E/hq720.jpg"
+            },
+            {
+                "title": "කරත්ත කඩල හදන හරිම රහස / Street Style Tempered Chickpeas",
+                "url": "https://youtube.com/watch?v=o3CkuFXICJs",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/o3CkuFXICJs/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලාංකික ක්‍රමයට කඩල කරි # Chickpea curry recipe in Sinhala by SWARNA IN THE KITCHEN",
+                "url": "https://youtube.com/watch?v=WuONZMmGfGs",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/WuONZMmGfGs/hq720.jpg"
+            },
+            {
+                "title": "Air Fried Chickpeas/Channa | Evening Snack |එයා ෆ්රය එකේ බැදපු කඩල |ஏர் ஃப்ரைஇல் வறுத்த கொண்டைக்கடலை",
+                "url": "https://youtube.com/watch?v=roOrOPLpjII",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/roOrOPLpjII/hqdefault.jpg"
+            },
+            {
+                "title": "කඩල ගැන ඇත්ත දැනගන්න | Chickpeas  & Health effects | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=mx6IEo_ocGU",
+                "duration": "12:11",
+                "thumbnail": "https://i.ytimg.com/vi/mx6IEo_ocGU/hq720.jpg"
+            },
+            {
+                "title": "කඩල වල ඇති ගුණයන් ගැන දැනුවත්වෙමු | chickpeas banefits in sinhala #mammypages #chickpeas #health",
+                "url": "https://youtube.com/watch?v=BK7MJlNRQ2w",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/BK7MJlNRQ2w/hq720.jpg"
+            },
+            {
+                "title": "Chickpeas benefits : උදේට කඩල කෑවොත් වෙන දේ",
+                "url": "https://youtube.com/watch?v=gnzwXMmg2ro",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/gnzwXMmg2ro/hq720.jpg"
+            },
+            {
+                "title": "කොන්ඩ කඩල රුධිරයේ බලපෑම!  දියවැඩියාවට හොඳද? නව අඛණ්ඩ ග්ලූකෝස් පරීක්ෂණ යන්ත්‍රය Tyson Chickpea    Eb5",
+                "url": "https://youtube.com/watch?v=8pSNIMCx_H4",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/8pSNIMCx_H4/hq720.jpg"
+            },
+            {
+                "title": "දවසට කඩල කෝප්පයක් සති දෙකක් කෑවොත් ඇඟට මොකද වෙන්නේ? | Chickpeas for Muscle Growth",
+                "url": "https://youtube.com/watch?v=YD4FYT_f750",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/YD4FYT_f750/hq720.jpg"
+            },
+            {
+                "title": "කඩල දියවැඩියාවට හොඳ ද? | Are Chickpeas good for diabetics? | කඩල කන්න පුළුවන්ද බත් වෙනුවට? Type 2",
+                "url": "https://youtube.com/watch?v=0afquotLBvs",
+                "duration": "11:22",
+                "thumbnail": "https://i.ytimg.com/vi/0afquotLBvs/hq720.jpg"
+            },
+            {
+                "title": "කඩල බත් ඔබත් අනිවාර්යයෙන් හදලා බලන්න | recipe in sinhala",
+                "url": "https://youtube.com/watch?v=UWIAzZuP6zk",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/UWIAzZuP6zk/hqdefault.jpg"
+            },
+            {
+                "title": "කඩල ගැන ඇත්ත දැනගන්න | Chickpeas  & Health effects | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=3b5JGLj396E",
+                "duration": "12:11",
+                "thumbnail": "https://i.ytimg.com/vi/3b5JGLj396E/frame0.jpg"
+            },
+            {
+                "title": "කඩල,කවුපි,කඩල පරිප්පු වැනි තද ධාන්‍යා වර්ග ඉක්මනින් සොෆ්ට් එකට තම්බ ගන්න රහස",
+                "url": "https://youtube.com/watch?v=cmvQBRsYPhw",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/cmvQBRsYPhw/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවටත් කඩල | KRUSHI TV",
+                "url": "https://youtube.com/watch?v=ZxiAbDTP_Sw",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/ZxiAbDTP_Sw/hqdefault.jpg"
+            },
+            {
+                "title": "කොන්ඩ කඩල තෙම්පරාදුවක් රසට හදමු. HOW TO MAKE CHICKPEA BADUMA.(Cooking Show Sri Lankan Chef)",
+                "url": "https://youtube.com/watch?v=A_1Oax2E8iY",
+                "duration": "12:38",
+                "thumbnail": "https://i.ytimg.com/vi/A_1Oax2E8iY/hq720.jpg"
+            },
+            {
+                "title": "Crispy chickpeas bits|ක්‍රිස්පි කොණ්ඩ කඩල|ක්‍රිස්පි බයිට්ස්|තෙල් මේස හැන්දයි|Airfryer recipe sinhala",
+                "url": "https://youtube.com/watch?v=60coNSLS1UQ",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/60coNSLS1UQ/hq720.jpg"
+            },
+            {
+                "title": "කඩල ද හදන්න ඕනි උදේට රෑ්ට මෙන්න නිවැරදි රසම ක්‍රමය",
+                "url": "https://youtube.com/watch?v=TASgGQL0Ml4",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/TASgGQL0Ml4/hq720.jpg"
+            },
+            {
+                "title": "සයිවර් කඩේ කඩල කරිය|Srilankan style chickpea curry|💓M.R KITCHEN💓",
+                "url": "https://youtube.com/watch?v=NPYqkc6KeTw",
+                "duration": "5:57",
+                "thumbnail": "https://i.ytimg.com/vi/NPYqkc6KeTw/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිය වඩන බර අඩු කරන කොණ්ඩ කඩල තෙම්පරාදුව මේ විදියට හැදුවොත් නම් ඉතුරු වෙන්නේ නෑ 🥣😋👉 |konda kadala",
+                "url": "https://youtube.com/watch?v=K0Q5HHr1t8s",
+                "duration": "8:21",
+                "thumbnail": "https://i.ytimg.com/vi/K0Q5HHr1t8s/hqdefault.jpg"
+            },
+            {
+                "title": "හරිම රසට කඩල කන්න පෝෂණීය සුපිරි ක්‍රමයක්! Amazing Chickpea Recipe by Kusala's Simple Life",
+                "url": "https://youtube.com/watch?v=OvSX-mgItzU",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/OvSX-mgItzU/hqdefault.jpg"
+            },
+            {
+                "title": "රස ගුන පිරි කොන්ඩ කඩල හදන විදිහ😋",
+                "url": "https://youtube.com/watch?v=RINHZEOxS9w",
+                "duration": "6:14",
+                "thumbnail": "https://i.ytimg.com/vi/RINHZEOxS9w/hq720.jpg"
+            },
+            {
+                "title": "Rosted Caramelized CHANA [ Gram ] Snack | සීනි කඩල 🍡🍡👌#snack, #snackfoodies",
+                "url": "https://youtube.com/watch?v=6yPHEX_lbus",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/6yPHEX_lbus/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ වෙන්න කලින් නොමිලේම දිව්‍ය ඖෂධයක් හදාගන්න ගෙදර තියෙන දෙයින්ම Fat Burn recipe Kusalas Simple Life",
+                "url": "https://youtube.com/watch?v=LhVk_egrUU0",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/LhVk_egrUU0/hq720.jpg"
+            },
+            {
+                "title": "ගෙදරදිම කඩල වවමු - How to grow chick peas at home",
+                "url": "https://youtube.com/watch?v=7F1M0FKgZsA",
+                "duration": "18:12",
+                "thumbnail": "https://i.ytimg.com/vi/7F1M0FKgZsA/hqdefault.jpg"
+            },
+            {
+                "title": "දින 30ක් කඩල කෑවොත් ඔබේ සිරුරට වෙන විස්මිත වෙනස මෙන්න | True Sense | Health, Fitness & Wellness Tips",
+                "url": "https://youtube.com/watch?v=afxu6eT5SEM",
+                "duration": "7:15",
+                "thumbnail": "https://i.ytimg.com/vi/afxu6eT5SEM/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Renal Colic",
-      "sinhala": "මුත්‍රා ගල් නිසා ඇතිවන දැඩි වේදනාව (වෘක්ක ශූල)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds",
-    "Entire Plant"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

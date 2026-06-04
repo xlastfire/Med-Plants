@@ -1,166 +1,255 @@
 {
-  "scientificName": "Syzygium cumini (L.) Skeels",
-  "synonyms": [
-    "Calyptranthes capitellata Buch.-Ham. ex Wall.",
-    "Calyptranthes caryophyllifolia (Lam.) Willd.",
-    "Calyptranthes cumini (L.) Pers.",
-    "Calyptranthes cuminodora Stokes",
-    "Calyptranthes jambolana (Lam.) Willd.",
-    "Calyptranthes jambolifera Stokes",
-    "Calyptranthes oneillii Lundell",
-    "Calyptranthes pedunculata Forsyth f.",
-    "Calyptranthes tenuis Buch.-Ham. ex Wall.",
-    "Caryophyllus corticosus Stokes",
-    "Caryophyllus jambos Stokes",
-    "Eugenia brachiata Roxb.",
-    "Eugenia calyptrata Roxb. ex Wight & Arn.",
-    "Eugenia caryophyllifolia Lam.",
-    "Eugenia cumini (L.) Druce",
-    "Eugenia djouat Perr.",
-    "Eugenia fruticosa (DC.) Roxb.",
-    "Eugenia jambolana Lam.",
-    "Eugenia jambolana var. caryophyllifolia (Lam.) Duthie",
-    "Eugenia jambolana var. obtusifolia Duthie",
-    "Eugenia jambolifera Roxb. ex Wight & Arn.",
-    "Eugenia obovata Poir.",
-    "Eugenia obtusifolia Roxb.",
-    "Eugenia odorata Wight",
-    "Eugenia tenuis Duthie",
-    "Eugenia tsoi Merr. & Chun",
-    "Jambolifera chinensis Spreng.",
-    "Jambolifera coromandelica Houtt.",
-    "Jambolifera pedunculata Houtt.",
-    "Myrtus corticosa Spreng.",
-    "Myrtus cumini L.",
-    "Myrtus obovata (Poir.) Spreng.",
-    "Syzygium brachiatum (Roxb.) Miq.",
-    "Syzygium caryophyllifolium (Lam.) DC.",
-    "Syzygium cumini var. caryophyllifolium (Lam.) K.K.Khanna",
-    "Syzygium cumini var. obtusifolium (Roxb.) K.K.Khanna",
-    "Syzygium cumini var. tsoi (Merr. & Chun) H.T.Chang & R.H.Miao",
-    "Syzygium fruticosum DC.",
-    "Syzygium jambolanum (Lam.) DC.",
-    "Syzygium jambolanum var. acuminata O.Berg",
-    "Syzygium jambolanum var. axillare Gamble",
-    "Syzygium jambolanum var. elliptica O.Berg",
-    "Syzygium jambolanum var. obovata O.Berg",
-    "Syzygium obovatum (Poir.) DC.",
-    "Syzygium obtusifolium (Roxb.) Kostel.",
-    "Syzygium pseudojambolana Miq.",
-    "Syzygium tenue (Duthie) N.P.Balakr."
-  ],
-  "familyName": "MYRTACEAE",
-  "englishNames": [
-    "Black Plum",
-    "Black Plum",
-    "Indian Blackberry",
-    "Jaman",
-    "Jambolan",
-    "Jambolian",
-    "Java plum",
-    "Damson Plum",
-    "Duhat Plum"
-  ],
-  "sinhalaName": "Madan (මාදං)",
-  "description": "මීටර් 25ක් දක්වා උසැති විශාල පඳුරක් හෝ වියන් ගසකි. අතු සිහින්, සිලින්ඩරාකාර (terete) සහ ක්‍රීම් පැහැතිය. පත්‍ර ලා කහ පැහැති කොළ පැහැයක් ගන්නා අතර, සෙන්ටිමීටර 6.5-11 x 2.5-5 ප්‍රමාණයෙන් යුක්ත වේ; වියලුණු විට ලා කහ-දුඹුරු පැහැයට හැරේ. පුෂ්ප මංජරි (cymes) සෙන්ටිමීටර 10ක් දක්වා දිගු වන අතර, අග්‍රස්ථ හෝ පත්‍ර කක්ෂීය වේ; මල් පෙති මිලිමීටර 4 x 3 පමණ වන අතර සුදු පැහැතිය. පලතුරු මිලිමීටර 12(-20) x 8(-14) පමණ වන අතර, ඉදුණු විට දම් පැහැයට හැරේ.",
-  "treatments": [
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Syzygium cumini (L.) Skeels",
+    "synonyms": [
+        "Calyptranthes capitellata Buch.-Ham. ex Wall.",
+        "Calyptranthes caryophyllifolia (Lam.) Willd.",
+        "Calyptranthes cumini (L.) Pers.",
+        "Calyptranthes cuminodora Stokes",
+        "Calyptranthes jambolana (Lam.) Willd.",
+        "Calyptranthes jambolifera Stokes",
+        "Calyptranthes oneillii Lundell",
+        "Calyptranthes pedunculata Forsyth f.",
+        "Calyptranthes tenuis Buch.-Ham. ex Wall.",
+        "Caryophyllus corticosus Stokes",
+        "Caryophyllus jambos Stokes",
+        "Eugenia brachiata Roxb.",
+        "Eugenia calyptrata Roxb. ex Wight & Arn.",
+        "Eugenia caryophyllifolia Lam.",
+        "Eugenia cumini (L.) Druce",
+        "Eugenia djouat Perr.",
+        "Eugenia fruticosa (DC.) Roxb.",
+        "Eugenia jambolana Lam.",
+        "Eugenia jambolana var. caryophyllifolia (Lam.) Duthie",
+        "Eugenia jambolana var. obtusifolia Duthie",
+        "Eugenia jambolifera Roxb. ex Wight & Arn.",
+        "Eugenia obovata Poir.",
+        "Eugenia obtusifolia Roxb.",
+        "Eugenia odorata Wight",
+        "Eugenia tenuis Duthie",
+        "Eugenia tsoi Merr. & Chun",
+        "Jambolifera chinensis Spreng.",
+        "Jambolifera coromandelica Houtt.",
+        "Jambolifera pedunculata Houtt.",
+        "Myrtus corticosa Spreng.",
+        "Myrtus cumini L.",
+        "Myrtus obovata (Poir.) Spreng.",
+        "Syzygium brachiatum (Roxb.) Miq.",
+        "Syzygium caryophyllifolium (Lam.) DC.",
+        "Syzygium cumini var. caryophyllifolium (Lam.) K.K.Khanna",
+        "Syzygium cumini var. obtusifolium (Roxb.) K.K.Khanna",
+        "Syzygium cumini var. tsoi (Merr. & Chun) H.T.Chang & R.H.Miao",
+        "Syzygium fruticosum DC.",
+        "Syzygium jambolanum (Lam.) DC.",
+        "Syzygium jambolanum var. acuminata O.Berg",
+        "Syzygium jambolanum var. axillare Gamble",
+        "Syzygium jambolanum var. elliptica O.Berg",
+        "Syzygium jambolanum var. obovata O.Berg",
+        "Syzygium obovatum (Poir.) DC.",
+        "Syzygium obtusifolium (Roxb.) Kostel.",
+        "Syzygium pseudojambolana Miq.",
+        "Syzygium tenue (Duthie) N.P.Balakr."
+    ],
+    "familyName": "MYRTACEAE",
+    "englishNames": [
+        "Black Plum",
+        "Black Plum",
+        "Indian Blackberry",
+        "Jaman",
+        "Jambolan",
+        "Jambolian",
+        "Java plum",
+        "Damson Plum",
+        "Duhat Plum"
+    ],
+    "sinhalaName": "Madan (මාදං)",
+    "description": "මීටර් 25ක් දක්වා උසැති විශාල පඳුරක් හෝ වියන් ගසකි. අතු සිහින්, සිලින්ඩරාකාර (terete) සහ ක්‍රීම් පැහැතිය. පත්‍ර ලා කහ පැහැති කොළ පැහැයක් ගන්නා අතර, සෙන්ටිමීටර 6.5-11 x 2.5-5 ප්‍රමාණයෙන් යුක්ත වේ; වියලුණු විට ලා කහ-දුඹුරු පැහැයට හැරේ. පුෂ්ප මංජරි (cymes) සෙන්ටිමීටර 10ක් දක්වා දිගු වන අතර, අග්‍රස්ථ හෝ පත්‍ර කක්ෂීය වේ; මල් පෙති මිලිමීටර 4 x 3 පමණ වන අතර සුදු පැහැතිය. පලතුරු මිලිමීටර 12(-20) x 8(-14) පමණ වන අතර, ඉදුණු විට දම් පැහැයට හැරේ.",
+    "treatments": [
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Spongy Gums",
+            "sinhala": "බුරුල් වූ විදුරුමස්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Splenomegaly",
+            "sinhala": "ප්ලීහාව විශාල වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark",
+        "Fruit",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "514",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/j9f1x3FM/plant00904-00514.jpg"
+        },
+        {
+            "image_id": "515",
+            "caption": "Twig with young inflorescence",
+            "url": "https://i.ibb.co/MDC8xQvC/plant00904-00515.jpg"
+        },
+        {
+            "image_id": "516",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/s9qqnNyZ/plant00904-00516.jpg"
+        },
+        {
+            "image_id": "3815",
+            "caption": "Flower Buds and Flowers (PMR)",
+            "url": "https://i.ibb.co/yFVGppMR/plant00904-03815.jpg"
+        },
+        {
+            "image_id": "3816",
+            "caption": "Young Fruits (PMR)",
+            "url": "https://i.ibb.co/HTzF431S/plant00904-03816.jpg"
+        },
+        {
+            "image_id": "3817",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/y1s2vjY/plant00904-03817.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මාදං ශ්‍රී ලංකාවේ දුර්ලභ ගණයේ පලතුරු අතරට ගැනෙන මා දං Myrtaceae කුලයට අයත් සදාහරිත ශාකයකි",
+                "url": "https://youtube.com/watch?v=5wRa4jxsslY",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/5wRa4jxsslY/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව, අහිතකර මේදය අඩු කරන ප්‍රබල සොභාවික ඖෂධයක් වන මාදං ශාකයේ ඔබ දැනගතයුතුම ආයුර්වේදය රහස්",
+                "url": "https://youtube.com/watch?v=8aTQyRhLVjA",
+                "duration": "13:08",
+                "thumbnail": "https://i.ytimg.com/vi/8aTQyRhLVjA/hq720.jpg"
+            },
+            {
+                "title": "තරුණ බව රැකදෙන පිළිකා ඔසුව මාදං #madan #fruit #fruits #sinhala #beheth #hela  #helth #srilanka",
+                "url": "https://youtube.com/watch?v=5153yFV4G2Q",
+                "duration": "1:56",
+                "thumbnail": "https://i.ytimg.com/vi/5153yFV4G2Q/hqdefault.jpg"
+            },
+            {
+                "title": "Madan fruit (Syzygium cumini)#madan fruit #ayurvedic remedy මාදං #දියවැඩියාව නසන දිව ඔසුව මාදං",
+                "url": "https://youtube.com/watch?v=QyJ4jPYprVU",
+                "duration": "10:53",
+                "thumbnail": "https://i.ytimg.com/vi/QyJ4jPYprVU/hq720.jpg"
+            },
+            {
+                "title": "පැය විසිහතරෙන් දියවැඩියාව සුවකරන මාදං | Madan | Syzygium cumini benefits🌿",
+                "url": "https://youtube.com/watch?v=wc89BMn-58Q",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/wc89BMn-58Q/hq720.jpg"
+            },
+            {
+                "title": "\"මෙහෙමයි තමයි දඹ නැතිනම් මාදං කඩන්නේ\"  / Wild Fruits Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=aFMfoUhFPMU",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/aFMfoUhFPMU/hq720.jpg"
+            },
+            {
+                "title": "මාදං ගැන නොදන්නා දේ දැනගන්න | දියවැඩියාව පාලනයට | Madan",
+                "url": "https://youtube.com/watch?v=OrJN14X26vw",
+                "duration": "8:36",
+                "thumbnail": "https://i.ytimg.com/vi/OrJN14X26vw/hq720.jpg"
+            },
+            {
+                "title": "Thai Madan | තායි මාදං Full Video | Episode 112",
+                "url": "https://youtube.com/watch?v=xzQlsP_8jhM",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/xzQlsP_8jhM/hq720.jpg"
+            },
+            {
+                "title": "මාදං බදුන්ගතව කාබනික ගෙවතුවගාව Organic gardening in pots Potted fruit cultivation පලතුරු වගාව",
+                "url": "https://youtube.com/watch?v=4RSMhitg2BA",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/4RSMhitg2BA/hq720.jpg"
+            },
+            {
+                "title": "අලුත්ම සුදු මාදං | White Jamun Tree | Ceylon Agri | Episode 406",
+                "url": "https://youtube.com/watch?v=9p2PtjKCgeU",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/9p2PtjKCgeU/hq720.jpg"
+            },
+            {
+                "title": "මාදං ශ්‍රී ලංකාවේ දුර්ලභ ගණයේ පලතුරු අතරට ගැනෙන මා දං Myrtaceae කුලයට අයත් සදාහරිත ශාකයකි",
+                "url": "https://youtube.com/watch?v=pldS34R0XHA",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/pldS34R0XHA/frame0.jpg"
+            },
+            {
+                "title": "මාදං ශ්‍රී ලංකාවේ දුර්ලභ ගණයේ පලතුරු අතරට ගැනෙන මා දං Myrtaceae කුලයට අයත් සදාහරිත ශාකයකි",
+                "url": "https://youtube.com/watch?v=tSCK1_xaG-0",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/tSCK1_xaG-0/frame0.jpg"
+            },
+            {
+                "title": "පැය විසිහතරෙන් දියවැඩියාව සුවකරන මාදං | Madan | Syzygium cumini benefits🌿",
+                "url": "https://youtube.com/watch?v=EtcA1_BE4OI",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/EtcA1_BE4OI/frame0.jpg"
+            },
+            {
+                "title": "මෙතරම් ගුණයි කියලා ඔබ හිතුවද?තායි  මා දං | | Thai Maa dan | Ceylon Agri | Episode 112",
+                "url": "https://youtube.com/watch?v=CM3a288rLFs",
+                "duration": "10:46",
+                "thumbnail": "https://i.ytimg.com/vi/CM3a288rLFs/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Spongy Gums",
-      "sinhala": "බුරුල් වූ විදුරුමස්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Splenomegaly",
-      "sinhala": "ප්ලීහාව විශාල වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark",
-    "Fruit",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "514",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/j9f1x3FM/plant00904-00514.jpg"
-    },
-    {
-      "image_id": "515",
-      "caption": "Twig with young inflorescence",
-      "url": "https://i.ibb.co/MDC8xQvC/plant00904-00515.jpg"
-    },
-    {
-      "image_id": "516",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/s9qqnNyZ/plant00904-00516.jpg"
-    },
-    {
-      "image_id": "3815",
-      "caption": "Flower Buds and Flowers (PMR)",
-      "url": "https://i.ibb.co/yFVGppMR/plant00904-03815.jpg"
-    },
-    {
-      "image_id": "3816",
-      "caption": "Young Fruits (PMR)",
-      "url": "https://i.ibb.co/HTzF431S/plant00904-03816.jpg"
-    },
-    {
-      "image_id": "3817",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/y1s2vjY/plant00904-03817.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

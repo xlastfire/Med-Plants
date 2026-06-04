@@ -1,67 +1,258 @@
 {
-  "scientificName": "Ipomoea sagittifolia Burm.f.",
-  "synonyms": [
-    "Batatas abyssinica A.Rich.",
-    "Convolvulus diversifolius Schumach. & Thonn.",
-    "Convolvulus incrassatus Wall.",
-    "Convolvulus javanicus Burm.f.",
-    "Convolvulus javanicus Spreng.",
-    "Convolvulus marginatus Desr.",
-    "Convolvulus sepiarius Wall.",
-    "Convolvulus stipulaceus Roxb.",
-    "Convolvulus striatus Vahl",
-    "Convolvulus trianthus Spreng.",
-    "Convolvulus verrucosus (Blume) D.Dietr.",
-    "Ipomoea britteniana Rendle",
-    "Ipomoea diversifolia (Schumach. & Thonn.) Didr.",
-    "Ipomoea hastata L.",
-    "Ipomoea hellebarda Schweinf. ex Hallier f.",
-    "Ipomoea hellebarda var. sarcopoda Welw. ex Hiern",
-    "Ipomoea homblei De Wild.",
-    "Ipomoea marginata (Desr.) Manitz",
-    "Ipomoea marginata f. candida (Naik & Zate) Das Das & Lakshmin.",
-    "Ipomoea marginata var. stipulacea (Roxb.) M.R.Almeida",
-    "Ipomoea maxima Anon.",
-    "Ipomoea maxima f. candida Naik & Zate",
-    "Ipomoea maxima var. sagittata Verdc.",
-    "Ipomoea sagittata var. diversifolia Choisy",
-    "Ipomoea sepiaria J.König ex Roxb.",
-    "Ipomoea sepiaria var. sagittata Choisy",
-    "Ipomoea sepiaria var. stipulacea (Roxb.) C.B.Clarke",
-    "Ipomoea sphaerica Choisy",
-    "Ipomoea stipulacea (Roxb.) Sweet",
-    "Ipomoea striata (Vahl) Pers.",
-    "Ipomoea striata Roth",
-    "Ipomoea subtrilobans Miq.",
-    "Ipomoea verrucosa Blume",
-    "Merremia hastifolia A.Chev.",
-    "Quamoclit hastata G.Don",
-    "Quamoclit sagittifolia (Burm.f.) Choisy",
-    "Tirtalia maxima Raf.",
-    "Tirtalia striata Raf."
-  ],
-  "familyName": "CONVOLVULACEAE",
-  "englishNames": [
-    "Purple Heart Glory"
-  ],
-  "sinhalaName": "Rasa thel kola (රස තැල්කොළ)",
-  "description": "වැල් වර්ගයකි. පත්‍ර ඩිම්බාකාර-හෘදයාකාර (ovate-cordate), ත්‍රිකෝණාකාර, ආයත-ත්‍රිකෝණාකාර හෝ ලේන්සාකාර වේ. දිග සෙ.මී. 1-12 ක් වන අතර පාදම කැපූ (truncate), හීගාකාර (sagittate), හස්තාකාර (hastate) හෝ වටකුරු පත්‍ර පාද සහිත වේ. අග්‍රය තියුණු (acute) සිට උල් වූ (acuminate) ස්වභාවයක් ගනී. පත්‍ර දාරවල ඇති රෝම (pubescent) හැරුණු විට පත්‍ර පෘෂ්ඨය රෝම රහිත (glabrous) වේ. පුෂ්ප මංජරිය මල් කිහිපයකින් හෝ බොහෝ මල්වලින් සමන්විත වන අතර බොහෝ විට අර්ධ-කුඩයක හැඩැති සයිම (subumbellate-cymose) ආකාරයක් ගනී. ඵල කරල් (capsular) ආකාර වන අතර ගෝලාකාර (globose) වේ. දිග මි.මී. 6-7 ක් වන අතර රෝම රහිත (glabrous) වේ. බීජ ලා පැහැති වන අතර ඝන ලෙස රෝමවලින් වැසී (tomentose) පවතී. බොහෝ විට බීජ දාර දිගේ දිගු රෝම (trichomes) ද දක්නට ලැබේ.",
-  "treatments": [
-    {
-      "treatment": "Infertility",
-      "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Roots"
-  ],
-  "images": [],
-  "special": []
+    "scientificName": "Ipomoea sagittifolia Burm.f.",
+    "synonyms": [
+        "Batatas abyssinica A.Rich.",
+        "Convolvulus diversifolius Schumach. & Thonn.",
+        "Convolvulus incrassatus Wall.",
+        "Convolvulus javanicus Burm.f.",
+        "Convolvulus javanicus Spreng.",
+        "Convolvulus marginatus Desr.",
+        "Convolvulus sepiarius Wall.",
+        "Convolvulus stipulaceus Roxb.",
+        "Convolvulus striatus Vahl",
+        "Convolvulus trianthus Spreng.",
+        "Convolvulus verrucosus (Blume) D.Dietr.",
+        "Ipomoea britteniana Rendle",
+        "Ipomoea diversifolia (Schumach. & Thonn.) Didr.",
+        "Ipomoea hastata L.",
+        "Ipomoea hellebarda Schweinf. ex Hallier f.",
+        "Ipomoea hellebarda var. sarcopoda Welw. ex Hiern",
+        "Ipomoea homblei De Wild.",
+        "Ipomoea marginata (Desr.) Manitz",
+        "Ipomoea marginata f. candida (Naik & Zate) Das Das & Lakshmin.",
+        "Ipomoea marginata var. stipulacea (Roxb.) M.R.Almeida",
+        "Ipomoea maxima Anon.",
+        "Ipomoea maxima f. candida Naik & Zate",
+        "Ipomoea maxima var. sagittata Verdc.",
+        "Ipomoea sagittata var. diversifolia Choisy",
+        "Ipomoea sepiaria J.König ex Roxb.",
+        "Ipomoea sepiaria var. sagittata Choisy",
+        "Ipomoea sepiaria var. stipulacea (Roxb.) C.B.Clarke",
+        "Ipomoea sphaerica Choisy",
+        "Ipomoea stipulacea (Roxb.) Sweet",
+        "Ipomoea striata (Vahl) Pers.",
+        "Ipomoea striata Roth",
+        "Ipomoea subtrilobans Miq.",
+        "Ipomoea verrucosa Blume",
+        "Merremia hastifolia A.Chev.",
+        "Quamoclit hastata G.Don",
+        "Quamoclit sagittifolia (Burm.f.) Choisy",
+        "Tirtalia maxima Raf.",
+        "Tirtalia striata Raf."
+    ],
+    "familyName": "CONVOLVULACEAE",
+    "englishNames": [
+        "Purple Heart Glory"
+    ],
+    "sinhalaName": "Rasa thel kola (රස තැල්කොළ)",
+    "description": "වැල් වර්ගයකි. පත්‍ර ඩිම්බාකාර-හෘදයාකාර (ovate-cordate), ත්‍රිකෝණාකාර, ආයත-ත්‍රිකෝණාකාර හෝ ලේන්සාකාර වේ. දිග සෙ.මී. 1-12 ක් වන අතර පාදම කැපූ (truncate), හීගාකාර (sagittate), හස්තාකාර (hastate) හෝ වටකුරු පත්‍ර පාද සහිත වේ. අග්‍රය තියුණු (acute) සිට උල් වූ (acuminate) ස්වභාවයක් ගනී. පත්‍ර දාරවල ඇති රෝම (pubescent) හැරුණු විට පත්‍ර පෘෂ්ඨය රෝම රහිත (glabrous) වේ. පුෂ්ප මංජරිය මල් කිහිපයකින් හෝ බොහෝ මල්වලින් සමන්විත වන අතර බොහෝ විට අර්ධ-කුඩයක හැඩැති සයිම (subumbellate-cymose) ආකාරයක් ගනී. ඵල කරල් (capsular) ආකාර වන අතර ගෝලාකාර (globose) වේ. දිග මි.මී. 6-7 ක් වන අතර රෝම රහිත (glabrous) වේ. බීජ ලා පැහැති වන අතර ඝන ලෙස රෝමවලින් වැසී (tomentose) පවතී. බොහෝ විට බීජ දාර දිගේ දිගු රෝම (trichomes) ද දක්නට ලැබේ.",
+    "treatments": [
+        {
+            "treatment": "Infertility",
+            "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Roots"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මාරම රස තැල්කොළ ඇඹුල",
+                "url": "https://youtube.com/watch?v=m1PfYHSUS_c",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/m1PfYHSUS_c/hq720.jpg"
+            },
+            {
+                "title": "තැල්කොල ඇඹුල රසටම උයන්නෙ මෙහෙමයි / thelkola ebhula/ rasa rahasa",
+                "url": "https://youtube.com/watch?v=aLx2q_86ODw",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/aLx2q_86ODw/hq720.jpg"
+            },
+            {
+                "title": "ලේ පිරිසිදු කරන අරුම පුදුම දිව්‍ය ඖෂධය | තැල්කොළ වල ගුණ\" | \"දේශීය වෙදකමේ අගනා ඔසුවක් - තැල්කොළ\"",
+                "url": "https://youtube.com/watch?v=1tp5yXXEg04",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/1tp5yXXEg04/hq720.jpg"
+            },
+            {
+                "title": "තැල් කොළ ඇඹුල හදමු / Thalkola Ambula /Thalkola Maluwa #thalkola #ambula",
+                "url": "https://youtube.com/watch?v=KS5UIKIPBpE",
+                "duration": "6:04",
+                "thumbnail": "https://i.ytimg.com/vi/KS5UIKIPBpE/hqdefault.jpg"
+            },
+            {
+                "title": "තැල් කොළ ඇඹුල | Curious Cuisine | Episode 11",
+                "url": "https://youtube.com/watch?v=lwQmabAFKmE",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/lwQmabAFKmE/hq720.jpg"
+            },
+            {
+                "title": "thel kola |  තැල් කොළ  | තැල්කොළ | රසය පිරි ඔසු ගුණ සපිරි තැල්කොළ  | hela osu samaga ama 2022",
+                "url": "https://youtube.com/watch?v=f_wBvff8iaQ",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/f_wBvff8iaQ/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග රැසක් සදහා ගුණ දෙන තැල් කොළ ඇඹුල/curious cuisine/Thal kola ambula",
+                "url": "https://youtube.com/watch?v=PJtEY00dyAY",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/PJtEY00dyAY/hq720.jpg"
+            },
+            {
+                "title": "#ThalkolaAmbula#SriLankanfood #SpicyTouch  Thalkola Ambula පළා කොළේ රස කතා #1  #තැල්කොළ ඇඹුල ..",
+                "url": "https://youtube.com/watch?v=i1MXQWcxCu8",
+                "duration": "4:54",
+                "thumbnail": "https://i.ytimg.com/vi/i1MXQWcxCu8/hq720.jpg"
+            },
+            {
+                "title": "#hoora | තැල්කොළ ඇඹුල | thelkola maluwa",
+                "url": "https://youtube.com/watch?v=5RheBtE4-e8",
+                "duration": "12:06",
+                "thumbnail": "https://i.ytimg.com/vi/5RheBtE4-e8/hqdefault.jpg"
+            },
+            {
+                "title": "තැල්කොළ වැලක් මේවිදිහට් ඔබේ ගෙවත්තටත්   Home gardening, Organic gardening  Herb cultivation wagawa",
+                "url": "https://youtube.com/watch?v=hBDi6ciKcbw",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/hBDi6ciKcbw/hq720.jpg"
+            },
+            {
+                "title": "තැල්කොළ රෝග ගණනාවක් සූවකිරීමේ හැකියාව තිබෙන ශාකය",
+                "url": "https://youtube.com/watch?v=kw25IYxvWLE",
+                "duration": "7:03",
+                "thumbnail": "https://i.ytimg.com/vi/kw25IYxvWLE/hq720.jpg"
+            },
+            {
+                "title": "Thalkola Ambula/තැල්කොළ ඇඹුල/ Kuma & Rana",
+                "url": "https://youtube.com/watch?v=cEfNffvcTJM",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/cEfNffvcTJM/hqdefault.jpg"
+            },
+            {
+                "title": "How to cook Thalkola Ambula තැල්කොළ ඇඹුල ගමේ රසට#spicy Touch Thalkola Ambula",
+                "url": "https://youtube.com/watch?v=sSW2q1lpBJM",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/sSW2q1lpBJM/hqdefault.jpg"
+            },
+            {
+                "title": "රසම රස ගමේ කෑමක් තැල්කොළ ඇඹුල බලන්නකෝ😋😋❤",
+                "url": "https://youtube.com/watch?v=cOfNspjpFbc",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/cOfNspjpFbc/hq720.jpg"
+            },
+            {
+                "title": "ගමේ රසට තැල් කොළ ඇඹුලක් හදමු | d.n.s.c kitchen | (Episode 48)",
+                "url": "https://youtube.com/watch?v=oiMsPnEuLzA",
+                "duration": "5:09",
+                "thumbnail": "https://i.ytimg.com/vi/oiMsPnEuLzA/hq720.jpg"
+            },
+            {
+                "title": "මාරම රස තැල්කොළ ඇඹුල",
+                "url": "https://youtube.com/watch?v=EIrL0nmQyrs",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/EIrL0nmQyrs/frame0.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන තැල්කොල ඇඹුල I Thelkola Embula I 011",
+                "url": "https://youtube.com/watch?v=RXDHruQQTQw",
+                "duration": "9:38",
+                "thumbnail": "https://i.ytimg.com/vi/RXDHruQQTQw/hq720.jpg"
+            },
+            {
+                "title": "තැල් කොළ ගැන විස්තර",
+                "url": "https://youtube.com/watch?v=WcQYwVQT4YI",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/WcQYwVQT4YI/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල් ,දියවැඩියාව පාලනය කරන ,පිලිකා මර්දනය කරන ,විටමින් බහුල රස වගේම ගුණ මැල්ලුමක් හදමුද",
+                "url": "https://youtube.com/watch?v=jTof7z1irWk",
+                "duration": "5:40",
+                "thumbnail": "https://i.ytimg.com/vi/jTof7z1irWk/hq720.jpg"
+            },
+            {
+                "title": "තැල් කොළ වල ඇති ඖෂධීය ගුණ 😱😱👍",
+                "url": "https://youtube.com/watch?v=PY7SAIkoBOg",
+                "duration": "6:20",
+                "thumbnail": "https://i.ytimg.com/vi/PY7SAIkoBOg/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ ඇති තැල් කොල, Thal leaves that cure diseases. Thal kola review",
+                "url": "https://youtube.com/watch?v=Si7D1rcvEmA",
+                "duration": "8:47",
+                "thumbnail": "https://i.ytimg.com/vi/Si7D1rcvEmA/hqdefault.jpg"
+            },
+            {
+                "title": "ලංකාවට හිමාලයෙන් ලැබුනු දිව්‍ය ඔසුවක් ඔන්න අද වීඩියො එක තැල් කොළ ගැන #thelkola #bestfood #formother",
+                "url": "https://youtube.com/watch?v=5JDr-mV8FFU",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/5JDr-mV8FFU/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ දෙන තැල් කොළ ඇඹුල කාලා තියෙනවද | 😋 🍃🧫🍛",
+                "url": "https://youtube.com/watch?v=0L3I71qEWwA",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/0L3I71qEWwA/hq720.jpg"
+            },
+            {
+                "title": "ගමේ රසට හදන තැල් කොළ ඇඹුල - Thel Kola | Thel Kola Maluwa | LK Kitchen | Srilankan Traditional Foods",
+                "url": "https://youtube.com/watch?v=OuQE5a1M73c",
+                "duration": "10:27",
+                "thumbnail": "https://i.ytimg.com/vi/OuQE5a1M73c/hq720.jpg"
+            },
+            {
+                "title": "වැල් මෙන් ඇදෙන තැල් කොල   Thel leaves that grow like vines",
+                "url": "https://youtube.com/watch?v=VMjTzIz13VY",
+                "duration": "6:27",
+                "thumbnail": "https://i.ytimg.com/vi/VMjTzIz13VY/hqdefault.jpg"
+            },
+            {
+                "title": "උෂ්ණය අවම කර දරු පල ලගා කර දෙන කැලේ හැදෙන වැල් . උදර,අක්මා වකුගඩු රෝග  ඔසුව",
+                "url": "https://youtube.com/watch?v=cIJk9SkEygA",
+                "duration": "6:25",
+                "thumbnail": "https://i.ytimg.com/vi/cIJk9SkEygA/hqdefault.jpg"
+            },
+            {
+                "title": "තැල් කොළ අැඹුලට උයා ගන්න.මුත්‍රා දැවිල්ලට.වකුගඩු රෝගින්ට ඉතා හොද මාලුවක් #thalkola#youtube",
+                "url": "https://youtube.com/watch?v=nQDfz9ngqJo",
+                "duration": "6:31",
+                "thumbnail": "https://i.ytimg.com/vi/nQDfz9ngqJo/hq720.jpg"
+            },
+            {
+                "title": "රසයෙන් ගූනයෙන් පිරි අප දේහයට ගතයුතු ඖෂධීය තැල්කොළ",
+                "url": "https://youtube.com/watch?v=PXDodAIn1xE",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/PXDodAIn1xE/hq720.jpg"
+            },
+            {
+                "title": "තැල් කොළ කැස්සට ගුණදෙන විස්මිත පලා වර්ගයකි අපි බලමු තැල් කොළ වැන්ජනය සාදා ගන්න විදිය Thalkola Recipy",
+                "url": "https://youtube.com/watch?v=58VR23wEpro",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/58VR23wEpro/hq720.jpg"
+            },
+            {
+                "title": "අතීත රජවරු වළඳපු රාජ භෝජනයක් | රස තැල් කියන්නේ මොනවද",
+                "url": "https://youtube.com/watch?v=d1JjtpPHUEY",
+                "duration": "8:19",
+                "thumbnail": "https://i.ytimg.com/vi/d1JjtpPHUEY/hqdefault.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

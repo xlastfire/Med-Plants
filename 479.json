@@ -1,96 +1,443 @@
 {
-  "scientificName": "Antidesma bunius (L.) Spreng.",
-  "synonyms": [
-    "Antidesma andamanicum Hook.f.",
-    "Antidesma bunius var. cordifolium (C.Presl) Müll.Arg.",
-    "Antidesma bunius var. floribundum (Tul.) Müll.Arg.",
-    "Antidesma bunius var. genuinum Müll.Arg.",
-    "Antidesma bunius var. pubescens Petra Hoffm.",
-    "Antidesma bunius var. sylvestre (Lam.) Müll.Arg.",
-    "Antidesma bunius var. wallichii Müll.Arg.",
-    "Antidesma ciliatum C.Presl",
-    "Antidesma collettii Craib",
-    "Antidesma cordifolium C.Presl",
-    "Antidesma crassifolium (Elmer) Merr.",
-    "Antidesma floribundum Tul.",
-    "Antidesma glabellum K.D.Koenig ex Benn.",
-    "Antidesma glabrum Tul.",
-    "Antidesma retusum Zipp. ex Span.",
-    "Antidesma rumphii Tul.",
-    "Antidesma stilago Forsyth f.",
-    "Antidesma sylvestre Lam.",
-    "Antidesma thorelianum Gagnep.",
-    "Sapium crassifolium Elmer",
-    "Stilago bunius L."
-  ],
-  "familyName": "PHYLLANTHACEAE",
-  "englishNames": [
-    "Currant Tree",
-    "Bugnay",
-    "Chinese-laurel",
-    "Herbert River-cherry",
-    "Queensland-cherry",
-    "Salamander Tree",
-    "Wild Cherry"
-  ],
-  "sinhalaName": "Karawala kebella (කරවල කැබැල්ල)",
-  "description": "මීටර් 8ක් දක්වා උසැති ගසකි. පත්‍ර පටලමය (membranous) වන අතර කැපී පෙනෙන ලෙස දිලිසෙන සුළු නොවේ; පත්‍ර තලය (lamina) සෙන්ටිමීටර 4 - 15 X (1.75-) 2.5 - 5.5 ප්‍රමාණයෙන් යුක්ත වේ. ඒවා ලාන්සාකාර (lanceolate), ප්‍රතිඩිම්බකාර (obovate) සිට ප්‍රතිලාන්සාකාර (oblanceolate) හෝ ඉලිප්සාකාර-ආයත (elliptic-oblong) හැඩයක් ගනී. පත්‍ර අග්‍රය මොට (obtuse) හෝ උල් (acute) සිට තරමක් උල් වූ (acuminate) ස්වභාවයක් ගනී. පත්‍ර පාදය උල් (acute) සිට මොට (obtuse) ස්වභාවයක් ගන්නා අතර, පත්‍ර වෘන්තය (petiole) හා සම්බන්ධ වන ස්ථානය හැර අනෙක් සියලුම කොටස් රෝම රහිත (glabrous) වේ. මල් ඉතා කෙටි වෘන්ත සහිතව (subsissile) හෝ කෙටි පුෂ්ප වෘන්ත සහිතව (pedicellate) කරල් වැනි පොකුරු (spiciform racemes) ලෙස හටගනී; මේවා ඝනකම් වන අතර අතු අග තනිව පිහිටයි. පල දළ වශයෙන් මිලිමීටර 6 - 8ක් දිගැති වන අතර ගෝලාකාර (globose) සිට ඉලිප්සාකාර (ellipsoid) හැඩයක් ගනී; මේරීමේදී රතු පැහැයේ සිට කළු පැහැයට හැරේ. ඉතා ඉස්ම සහිත, පැණි රසැති සහ ආහාරයට ගත හැකි පලකි. බීජ දක්නට නොලැබුණි.",
-  "treatments": [
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Antidesma bunius (L.) Spreng.",
+    "synonyms": [
+        "Antidesma andamanicum Hook.f.",
+        "Antidesma bunius var. cordifolium (C.Presl) Müll.Arg.",
+        "Antidesma bunius var. floribundum (Tul.) Müll.Arg.",
+        "Antidesma bunius var. genuinum Müll.Arg.",
+        "Antidesma bunius var. pubescens Petra Hoffm.",
+        "Antidesma bunius var. sylvestre (Lam.) Müll.Arg.",
+        "Antidesma bunius var. wallichii Müll.Arg.",
+        "Antidesma ciliatum C.Presl",
+        "Antidesma collettii Craib",
+        "Antidesma cordifolium C.Presl",
+        "Antidesma crassifolium (Elmer) Merr.",
+        "Antidesma floribundum Tul.",
+        "Antidesma glabellum K.D.Koenig ex Benn.",
+        "Antidesma glabrum Tul.",
+        "Antidesma retusum Zipp. ex Span.",
+        "Antidesma rumphii Tul.",
+        "Antidesma stilago Forsyth f.",
+        "Antidesma sylvestre Lam.",
+        "Antidesma thorelianum Gagnep.",
+        "Sapium crassifolium Elmer",
+        "Stilago bunius L."
+    ],
+    "familyName": "PHYLLANTHACEAE",
+    "englishNames": [
+        "Currant Tree",
+        "Bugnay",
+        "Chinese-laurel",
+        "Herbert River-cherry",
+        "Queensland-cherry",
+        "Salamander Tree",
+        "Wild Cherry"
+    ],
+    "sinhalaName": "Karawala kebella (කරවල කැබැල්ල)",
+    "description": "මීටර් 8ක් දක්වා උසැති ගසකි. පත්‍ර පටලමය (membranous) වන අතර කැපී පෙනෙන ලෙස දිලිසෙන සුළු නොවේ; පත්‍ර තලය (lamina) සෙන්ටිමීටර 4 - 15 X (1.75-) 2.5 - 5.5 ප්‍රමාණයෙන් යුක්ත වේ. ඒවා ලාන්සාකාර (lanceolate), ප්‍රතිඩිම්බකාර (obovate) සිට ප්‍රතිලාන්සාකාර (oblanceolate) හෝ ඉලිප්සාකාර-ආයත (elliptic-oblong) හැඩයක් ගනී. පත්‍ර අග්‍රය මොට (obtuse) හෝ උල් (acute) සිට තරමක් උල් වූ (acuminate) ස්වභාවයක් ගනී. පත්‍ර පාදය උල් (acute) සිට මොට (obtuse) ස්වභාවයක් ගන්නා අතර, පත්‍ර වෘන්තය (petiole) හා සම්බන්ධ වන ස්ථානය හැර අනෙක් සියලුම කොටස් රෝම රහිත (glabrous) වේ. මල් ඉතා කෙටි වෘන්ත සහිතව (subsissile) හෝ කෙටි පුෂ්ප වෘන්ත සහිතව (pedicellate) කරල් වැනි පොකුරු (spiciform racemes) ලෙස හටගනී; මේවා ඝනකම් වන අතර අතු අග තනිව පිහිටයි. පල දළ වශයෙන් මිලිමීටර 6 - 8ක් දිගැති වන අතර ගෝලාකාර (globose) සිට ඉලිප්සාකාර (ellipsoid) හැඩයක් ගනී; මේරීමේදී රතු පැහැයේ සිට කළු පැහැයට හැරේ. ඉතා ඉස්ම සහිත, පැණි රසැති සහ ආහාරයට ගත හැකි පලකි. බීජ දක්නට නොලැබුණි.",
+    "treatments": [
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "2099",
+            "caption": "Female Inflorescence (PMR)",
+            "url": "https://i.ibb.co/1Gc0YvhZ/plant00479-02099.jpg"
+        },
+        {
+            "image_id": "2100",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/KjKwY5Hk/plant00479-02100.jpg"
+        },
+        {
+            "image_id": "2101",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/Kx9Kdcpv/plant00479-02101.jpg"
+        },
+        {
+            "image_id": "2102",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/zTC8wCMN/plant00479-02102.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කරවල කැබිල්ල | Agri Life with Dilupa Akalanka",
+                "url": "https://youtube.com/watch?v=BxQKW89DOdY",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/BxQKW89DOdY/hq720.jpg"
+            },
+            {
+                "title": "Sobadam Piyasa - කරවල කැබැල්ල ශාකය",
+                "url": "https://youtube.com/watch?v=50-V3UL-ick",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/50-V3UL-ick/hq720.jpg"
+            },
+            {
+                "title": "සියලු ඇස් රෝග නසන දිව්‍යමය ගහ | කැබැල්ල | කැබැල්ල (Kebella) (Aporosa cardiosperma)",
+                "url": "https://youtube.com/watch?v=S9oi2Uquv0w",
+                "duration": "4:33",
+                "thumbnail": "https://i.ytimg.com/vi/S9oi2Uquv0w/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්ත හැඩ කරන බෝග 05 - කරවල කැබැල්ල",
+                "url": "https://youtube.com/watch?v=Y_jbQe55eA4",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/Y_jbQe55eA4/hq720.jpg"
+            },
+            {
+                "title": "පුංචි කරවල කඩේ | තොග  සිල්ලර කරවල | @wishwatiyubaya 💯👌😍",
+                "url": "https://youtube.com/watch?v=-5-5VqiuH-8",
+                "duration": "15:04",
+                "thumbnail": "https://i.ytimg.com/vi/-5-5VqiuH-8/hq720.jpg"
+            },
+            {
+                "title": "මුදලත් ,කාලයත් ඉතුරු කරගෙන  මාසෙටම කරවල  ගෙනත් තියාගමු 💁🧑‍🍳 Dry fish storing tip #kitchentips",
+                "url": "https://youtube.com/watch?v=CW0SwlbGr3o",
+                "duration": "6:11",
+                "thumbnail": "https://i.ytimg.com/vi/CW0SwlbGr3o/hqdefault.jpg"
+            },
+            {
+                "title": "හදන්නම ඕන කරවල මෝජූව,Dry fish Moju/ Karawala Moju .එක පාරක් හැදුවොත් ආයෙත් හදනව සහතිකයි.",
+                "url": "https://youtube.com/watch?v=tmWvyJwQJRA",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/tmWvyJwQJRA/hq720.jpg"
+            },
+            {
+                "title": "කරවල තෙල් දාලා | Tempered Dry Fish | Karawala Thel Dala | Cook with Ashi",
+                "url": "https://youtube.com/watch?v=U62y55Mo-qc",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/U62y55Mo-qc/hq720.jpg"
+            },
+            {
+                "title": "Kabella tree| කැබැල්ල ගස| Kebilla tree | Ayurvedic plants of Sri Lanka | | Sinhala Beth | Kebella",
+                "url": "https://youtube.com/watch?v=gwTQk5pN0KA",
+                "duration": "8:43",
+                "thumbnail": "https://i.ytimg.com/vi/gwTQk5pN0KA/hq720.jpg"
+            },
+            {
+                "title": "සුපිරි මාළු වලියක් මේක... පිත්ත අල්ලගනින් පස්සට යන්න",
+                "url": "https://youtube.com/watch?v=rd0RFmGnUrI",
+                "duration": "15:49",
+                "thumbnail": "https://i.ytimg.com/vi/rd0RFmGnUrI/hq720.jpg"
+            },
+            {
+                "title": "උයන්න ගෙනාව කරවල වල ලුණු වැඩ්ද?.එහෙනම් මෙහෙම කරල  බලන්නකෝ/ cooking tips/ Rasarahasa",
+                "url": "https://youtube.com/watch?v=xOYTDJq_Vto",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/xOYTDJq_Vto/hq720.jpg"
+            },
+            {
+                "title": "කරවල නොකා ඉන්න නොවේ පරිස්සම් වෙන්න  | Dry Fish By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=JiD2gm7cFiw",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/JiD2gm7cFiw/hq720.jpg"
+            },
+            {
+                "title": "මේ රහස් දන්නවද?ඕනම වර්ගයකින් කරවල බැදුම රසටම හදන්න | කරවල බැදුම | Dry Fish Fry | Kusalas Simple Life",
+                "url": "https://youtube.com/watch?v=j_Sr3Vnbezk",
+                "duration": "5:47",
+                "thumbnail": "https://i.ytimg.com/vi/j_Sr3Vnbezk/hqdefault.jpg"
+            },
+            {
+                "title": "HOW TO MAKE DRY FISH AT HOME/සාල කරවල පිරිසිදුවට  රසට සුපිරියට ගෙදර වේලමු",
+                "url": "https://youtube.com/watch?v=GzgyUDNE1YM",
+                "duration": "7:17",
+                "thumbnail": "https://i.ytimg.com/vi/GzgyUDNE1YM/hq720.jpg"
+            },
+            {
+                "title": "✔ කට්ට කරවල රසට තෙල් දාන හැටි Dried Katta fish stir fry by Apé Amma (katta karawala)",
+                "url": "https://youtube.com/watch?v=6uk38EsEFGo",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/6uk38EsEFGo/hq720.jpg"
+            },
+            {
+                "title": "කරවල බැදුම ගමේ රසට ❤ Dried Fish Fry - Karawala Beduma by Chammi Imalka",
+                "url": "https://youtube.com/watch?v=u5469czsjMM",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/u5469czsjMM/hq720.jpg"
+            },
+            {
+                "title": "කරවල කැබිල්ල | Agri Life with Dilupa Akalanka",
+                "url": "https://youtube.com/watch?v=uQ88vyiPXBI",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/uQ88vyiPXBI/frame0.jpg"
+            },
+            {
+                "title": "✔‍ කට්ට කරවල හොද්ද katta karawala curry by Apé Amma",
+                "url": "https://youtube.com/watch?v=AdfHPN2DHk4",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/AdfHPN2DHk4/hq720.jpg"
+            },
+            {
+                "title": "කරවල කන එක හොදද? නරකද? Dry Fish & Health, Good or Bad? By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=gehq9h3-bBs",
+                "duration": "9:33",
+                "thumbnail": "https://i.ytimg.com/vi/gehq9h3-bBs/hq720.jpg"
+            },
+            {
+                "title": "කරවල කල්තබා ගැනිමේ පහසුම විදිහ - Keep Dried Fish Fresh Longer | Sri Flavours",
+                "url": "https://youtube.com/watch?v=zzAB9YtlIQE",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/zzAB9YtlIQE/hq720.jpg"
+            },
+            {
+                "title": "සලේ දිවිනසා ගන්න කතාවේ ඇත්ත මෙන්න - ගුද මාර්ගයට බට දාපු හේතුවත් හෙළිවෙයි",
+                "url": "https://youtube.com/watch?v=xOEqXjixntA",
+                "duration": "15:02",
+                "thumbnail": "https://i.ytimg.com/vi/xOEqXjixntA/hq720.jpg"
+            },
+            {
+                "title": "කාලිගේ අනාවැකිය.. | මුතුගල මහ ඇමති පුටුවට..?  |Dinesh Muthugala | Episode 455",
+                "url": "https://youtube.com/watch?v=2GNiuSoLLl8",
+                "duration": "12:24",
+                "thumbnail": "https://i.ytimg.com/vi/2GNiuSoLLl8/hq720.jpg"
+            },
+            {
+                "title": "කරවල කැබිල්ල || Bignay || Currant tree || Agri Life with Dilupa Akalanka",
+                "url": "https://youtube.com/watch?v=baqxQBvHdEs",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/baqxQBvHdEs/hqdefault.jpg"
+            },
+            {
+                "title": "ගුවන කැළඹී වසී මහ වැසි | Rupavahini News",
+                "url": "https://youtube.com/watch?v=m-8D45i_hyc",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/m-8D45i_hyc/hq720.jpg"
+            },
+            {
+                "title": "Karawala kebella | ආහාර ජීරණය පහසු කරවන දුර්ලභ පළතුර | Ceylon Advisor Agri wagawa",
+                "url": "https://youtube.com/watch?v=KQLoXfQ5E2s",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/KQLoXfQ5E2s/hq720.jpg"
+            },
+            {
+                "title": "ආහාර ජීරණය පහසු කරවන , දුර්ලභ පළතුර | Karawala kebella |Ceylon Agri |Episode 160",
+                "url": "https://youtube.com/watch?v=Sl4ACNgzAQM",
+                "duration": "10:59",
+                "thumbnail": "https://i.ytimg.com/vi/Sl4ACNgzAQM/hq720.jpg"
+            },
+            {
+                "title": "සියක් රෝග නසන කැබැල්ල දළු සම්බෝලය  Kaballa Leaf Sambolaya @GAMIRASA",
+                "url": "https://youtube.com/watch?v=5mAyVsBkQFc",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/5mAyVsBkQFc/hq720.jpg"
+            },
+            {
+                "title": "මස් මාළුවල ගුණ සහ අගුණ - Nutritional value of various types of fish",
+                "url": "https://youtube.com/watch?v=FBojG6foAPk",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/FBojG6foAPk/hq720.jpg"
+            },
+            {
+                "title": "බෝට්ටු කරවල වල කාලා බලන්න රස කොහොමද කියලා|Boat Dried Fish|Kavindu Thiwanka|Kevin Videos",
+                "url": "https://youtube.com/watch?v=XnwYaa7_4CY",
+                "duration": "8:41",
+                "thumbnail": "https://i.ytimg.com/vi/XnwYaa7_4CY/hq720.jpg"
+            },
+            {
+                "title": "මොකාගෙද මේ කොරපොතු | නළුවොත් යනඑන ආමදූවේ වාඩි කඩේ | නාලා කාලා කරවල මාළුත් අරන් යන්නේ",
+                "url": "https://youtube.com/watch?v=5232TA7frAY",
+                "duration": "24:55",
+                "thumbnail": "https://i.ytimg.com/vi/5232TA7frAY/hq720.jpg"
+            },
+            {
+                "title": "ඇඹිල්ල | හීං ඇඹිල්ල  | ඇබිල්ල | ambilla | Wild Cherry | Ceylon Bignay | Sri Lankan endemic fruits",
+                "url": "https://youtube.com/watch?v=yLAmV0z9ODw",
+                "duration": "4:52",
+                "thumbnail": "https://i.ytimg.com/vi/yLAmV0z9ODw/hq720.jpg"
+            },
+            {
+                "title": "දවස් 10 න් බඩ බහින්න පටන් ගනිවි | Recipes for Helthy | athal kitchen curry leaves|Karapincha sambole",
+                "url": "https://youtube.com/watch?v=l3e14IDzSLY",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/l3e14IDzSLY/hqdefault.jpg"
+            },
+            {
+                "title": "මාසෙටම ඇති වෙන්න කරවල එක දවසක ගෙනත් මේ විදිහට තියාගන්න. 💁‍♀️💁🧑‍🍳🧑‍🍳🐟🦈🐬 #dryfishmarket #kitchentips",
+                "url": "https://youtube.com/watch?v=MdnA_uztxlk",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/MdnA_uztxlk/hqdefault.jpg"
+            },
+            {
+                "title": "කරවල වෙළදාම දියුණු කරන ක්‍රම කීපයක් |karawala business | dry fish || Srilankan dry fish business",
+                "url": "https://youtube.com/watch?v=R55L5fLo9X8",
+                "duration": "7:34",
+                "thumbnail": "https://i.ytimg.com/vi/R55L5fLo9X8/hq720.jpg"
+            },
+            {
+                "title": "#කරවල හැදෙන හැටි (How to make Dried Fish) #make_dried_fish",
+                "url": "https://youtube.com/watch?v=lSt9xpa0Jmo",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/lSt9xpa0Jmo/hq720.jpg"
+            },
+            {
+                "title": "Dum karawala |දුම් කරවල |smoke dried fish | දුම් කරවල හදන හැටි | #fishing #srilanka #viral #trending",
+                "url": "https://youtube.com/watch?v=wY2lN0WHn68",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/wY2lN0WHn68/hq720.jpg"
+            },
+            {
+                "title": "ගෙදරදීම කරවල, කොස් වේලමු! FOOD DEHYDRATION TECH 🔥(Dry Fish & Jackfruit)",
+                "url": "https://youtube.com/watch?v=_4utuaUHbHk",
+                "duration": "14:10",
+                "thumbnail": "https://i.ytimg.com/vi/_4utuaUHbHk/hq720.jpg"
+            },
+            {
+                "title": "කන්නම ඕන සුපිරිම කරවල බැදුම - Dry Fish Fry | Dry Fish Recipe Sinhala | Street Food Dry Fish",
+                "url": "https://youtube.com/watch?v=dZk6UuotyQg",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/dZk6UuotyQg/hq720.jpg"
+            },
+            {
+                "title": "කරවල තෙල් දාලා |dried fish stir fry 🇺🇸 #naturetreks #karawala",
+                "url": "https://youtube.com/watch?v=q_XvctVkBDw",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/q_XvctVkBDw/hq720.jpg"
+            },
+            {
+                "title": "කරවල | කරවල වාඩිය | dry fish | dilshan dryfish",
+                "url": "https://youtube.com/watch?v=9pir43wVnZ4",
+                "duration": "39:52",
+                "thumbnail": "https://i.ytimg.com/vi/9pir43wVnZ4/hq720.jpg"
+            },
+            {
+                "title": "අගුලු කරවල තෙල් දාලා - Tempered Dry Fish",
+                "url": "https://youtube.com/watch?v=eeXCpUWU9ZE",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/eeXCpUWU9ZE/hqdefault.jpg"
+            },
+            {
+                "title": "කරවල කන එක හොදද? නරකද? Dry Fish & Health, Good or Bad? By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=K0pTMt2MfB8",
+                "duration": "9:33",
+                "thumbnail": "https://i.ytimg.com/vi/K0pTMt2MfB8/frame0.jpg"
+            },
+            {
+                "title": "කරවල ,හාල්මැස්සෝ සිල්ලර සහ තොග මිලට | dried fish,sprats Shops @HarshanakalumVlogs",
+                "url": "https://youtube.com/watch?v=gOiA22SH6Xk",
+                "duration": "8:55",
+                "thumbnail": "https://i.ytimg.com/vi/gOiA22SH6Xk/hq720.jpg"
+            },
+            {
+                "title": "මාළු බදිද්දි කෙසෙල් කොළයක් තෙල් එකට දාන්න. Let's fry fish in banana leaves.",
+                "url": "https://youtube.com/watch?v=0KWZnwuSLF4",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/0KWZnwuSLF4/hq720.jpg"
+            },
+            {
+                "title": "කරවල ,හාල්මැස්සෝ සිල්ලර සහ තොග මිලට | dried fish,sprats Shops @HarshanakalumVlogs",
+                "url": "https://youtube.com/watch?v=riPmxHMmcQ4",
+                "duration": "8:55",
+                "thumbnail": "https://i.ytimg.com/vi/riPmxHMmcQ4/frame0.jpg"
+            },
+            {
+                "title": "Bignay tree | karawala kabilla (Antidesma bunius)",
+                "url": "https://youtube.com/watch?v=w-UKymPisjM",
+                "duration": "9:21",
+                "thumbnail": "https://i.ytimg.com/vi/w-UKymPisjM/hq720.jpg"
+            },
+            {
+                "title": "කරවල කන්න කලින් මේ වීඩියෝ එක බලන්න | NETH NEWS",
+                "url": "https://youtube.com/watch?v=pQakNC4mPIg",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/pQakNC4mPIg/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ කරවිලවල ඇත්ත නැත්ත | Bitter Melon For Blood Sugar By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0SdTXNz-LDE",
+                "duration": "12:53",
+                "thumbnail": "https://i.ytimg.com/vi/0SdTXNz-LDE/hq720.jpg"
+            },
+            {
+                "title": "කරවිල අනුභව කිරීමෙන් ලැබෙන සෞඛ්‍ය වාසි 7ක් | 07 Health Benefits of Bitter Melon",
+                "url": "https://youtube.com/watch?v=r2TLQPerHIM",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/r2TLQPerHIM/hq720.jpg"
+            },
+            {
+                "title": "කරවල වාඩිය | වන්න කරවල | Dryfish making | @wishwatiyubaya 🐋🙂👣",
+                "url": "https://youtube.com/watch?v=G7blsQZdp4M",
+                "duration": "23:34",
+                "thumbnail": "https://i.ytimg.com/vi/G7blsQZdp4M/hq720.jpg"
+            },
+            {
+                "title": "අවුරුද්දට කෝටියක කරවල විකුන්නා | එනවුන්ස් කරේ කැම්පස් දෝනී",
+                "url": "https://youtube.com/watch?v=4ThXpW8mdhE",
+                "duration": "28:41",
+                "thumbnail": "https://i.ytimg.com/vi/4ThXpW8mdhE/hq720.jpg"
+            },
+            {
+                "title": "✅කරවල ගෙදරදීම වේලමු 😊වස විස නෑ.අඩු වියදමින්#cooking #dryfishrecipe #dryfish",
+                "url": "https://youtube.com/watch?v=rofYQ2cn9Nw",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/rofYQ2cn9Nw/hq720.jpg"
+            },
+            {
+                "title": "කට්ට කරවල හොදි | katta karawala hodi | How to make Dried Fish curry | Polkatu Aguru lipa",
+                "url": "https://youtube.com/watch?v=6BzkDkNOqM4",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/6BzkDkNOqM4/hq720.jpg"
+            },
+            {
+                "title": "බල මාළු, බල කරෝල කෑවම කට කහන්නේ ඇයි?",
+                "url": "https://youtube.com/watch?v=eXexY1Yg0GU",
+                "duration": "6:08",
+                "thumbnail": "https://i.ytimg.com/vi/eXexY1Yg0GU/hq720.jpg"
+            },
+            {
+                "title": "karawala hodi | dry fish curry | කරවල හොදි මේ විදියට හදල බලන්න | Aththammai Mamai",
+                "url": "https://youtube.com/watch?v=23RDy-8GXq4",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/23RDy-8GXq4/hq720.jpg"
+            },
+            {
+                "title": "කරවල වෙළදාම දියුණු කරන රහස් 06 ක් | dry fish | karawala | business tips 02 @Business-goal",
+                "url": "https://youtube.com/watch?v=3E2piXML0Zs",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/3E2piXML0Zs/hq720.jpg"
+            },
+            {
+                "title": "කරවල නොකා ඉන්න නොවේ පරිස්සම් වෙන්න  | Dry Fish By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=6WIEZQQubpw",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/6WIEZQQubpw/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "2099",
-      "caption": "Female Inflorescence (PMR)",
-      "url": "https://i.ibb.co/1Gc0YvhZ/plant00479-02099.jpg"
-    },
-    {
-      "image_id": "2100",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/KjKwY5Hk/plant00479-02100.jpg"
-    },
-    {
-      "image_id": "2101",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/Kx9Kdcpv/plant00479-02101.jpg"
-    },
-    {
-      "image_id": "2102",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/zTC8wCMN/plant00479-02102.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

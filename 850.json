@@ -1,85 +1,360 @@
 {
-  "scientificName": "Artocarpus altilis (Parkinson) Fosberg",
-  "synonyms": [],
-  "familyName": "MORACEAE",
-  "englishNames": [
-    "Breadfruit"
-  ],
-  "sinhalaName": "Kos del (කොස්දෙල්)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Parasitic Skin Infections",
-      "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Artocarpus altilis (Parkinson) Fosberg",
+    "synonyms": [],
+    "familyName": "MORACEAE",
+    "englishNames": [
+        "Breadfruit"
+    ],
+    "sinhalaName": "Kos del (කොස්දෙල්)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Parasitic Skin Infections",
+            "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark",
+        "Leaves",
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "2967",
+            "caption": "Male Inflorescence (PMR)",
+            "url": "https://i.ibb.co/PsQJ80cX/plant00850-02967.jpg"
+        },
+        {
+            "image_id": "2968",
+            "caption": "Fruit (PMR)",
+            "url": "https://i.ibb.co/r2TYM4xK/plant00850-02968.jpg"
+        },
+        {
+            "image_id": "2969",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/FbbJ2rMH/plant00850-02969.jpg"
+        },
+        {
+            "image_id": "2970",
+            "caption": "Young leaf (PMR)",
+            "url": "https://i.ibb.co/fGGWYbx4/plant00850-02970.jpg"
+        },
+        {
+            "image_id": "2971",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/1txWc4GY/plant00850-02971.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කොස්දෙල් මැල්ලුම ( Kos del melluma )village food #villagelife",
+                "url": "https://youtube.com/watch?v=9QXC4CmPPp8",
+                "duration": "6:38",
+                "thumbnail": "https://i.ytimg.com/vi/9QXC4CmPPp8/hqdefault.jpg"
+            },
+            {
+                "title": "කොස් දෙල් සමහර අය දැකලත් නැති රසය ගුණය අතින් ඉහල අපේම ආහාරයක් කොස්. කොස්. කොස්. කොස්. කොස්. කොස්.",
+                "url": "https://youtube.com/watch?v=hkA34MQk7Es",
+                "duration": "9:28",
+                "thumbnail": "https://i.ytimg.com/vi/hkA34MQk7Es/hqdefault.jpg"
+            },
+            {
+                "title": "පාරම්පරික කෑමක් වන කොස්දෙල් මැල්ලුම ගෙදර හදමු/ Sri lankan recipe/ Sl family kitchen",
+                "url": "https://youtube.com/watch?v=CKIt1J5gp34",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/CKIt1J5gp34/hqdefault.jpg"
+            },
+            {
+                "title": "Breadnut කොස්දෙල් ( Kosdel) # පොලුත් එක්ක කොස්දෙල් ඇට තම්බලා කමුද",
+                "url": "https://youtube.com/watch?v=CwDbBGGN-CA",
+                "duration": "11:45",
+                "thumbnail": "https://i.ytimg.com/vi/CwDbBGGN-CA/hq720.jpg"
+            },
+            {
+                "title": "කොස්දෙල් මැල්ලුමක් අත්තම්ම හදලා දුන්නා.#traditionalcooking #aththamma #traditional #villagelife",
+                "url": "https://youtube.com/watch?v=BQhQ6-KPxPU",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/BQhQ6-KPxPU/hqdefault.jpg"
+            },
+            {
+                "title": "කොස්දෙල් මැල්ලුම පාරම්පරික නියම ගම්බද කෑමක්  Jack Del Malluma for Village@GAMIRASA",
+                "url": "https://youtube.com/watch?v=BnLgfaNipSU",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/BnLgfaNipSU/hq720.jpg"
+            },
+            {
+                "title": "කොස්දෙල් මැල්ලුම හදන්නේ මෙහෙමයි |ep 26| Sri Lankan village recepies| @CHOOMABROcookingchannel",
+                "url": "https://youtube.com/watch?v=Qtv_vM8Vxl0",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/Qtv_vM8Vxl0/hqdefault.jpg"
+            },
+            {
+                "title": "Wild Food | කොස් දෙල් කිරට",
+                "url": "https://youtube.com/watch?v=0B4pwImUqu8",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/0B4pwImUqu8/hq720.jpg"
+            },
+            {
+                "title": "breadnut mallum | කොස්දෙල් මැල්ලුම  Old-Style Sri Lankan Cooking - Mali",
+                "url": "https://youtube.com/watch?v=sgsEE_6yznc",
+                "duration": "5:37",
+                "thumbnail": "https://i.ytimg.com/vi/sgsEE_6yznc/hq720.jpg"
+            },
+            {
+                "title": "breadnut curry/special recipe /sri lankan recipe /ගමේ රසට දෙල් කොස් #del#breadnutcurry#srilankanfood",
+                "url": "https://youtube.com/watch?v=cnmg0IT5Eps",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/cnmg0IT5Eps/hqdefault.jpg"
+            },
+            {
+                "title": "ගමේ රහට කොස්දෙල් මැල්ලුම - Kos Del",
+                "url": "https://youtube.com/watch?v=begqq_F_Sjk",
+                "duration": "2:28",
+                "thumbnail": "https://i.ytimg.com/vi/begqq_F_Sjk/hq720.jpg"
+            },
+            {
+                "title": "del kos malluma | bread nut mallow kinigama recipe | කොස්දෙල් මැල්ලුම | traditional recipe sri lanka",
+                "url": "https://youtube.com/watch?v=F1WjdOV6NfA",
+                "duration": "6:23",
+                "thumbnail": "https://i.ytimg.com/vi/F1WjdOV6NfA/hq720.jpg"
+            },
+            {
+                "title": "අපේ ගෙදර khitchen ,delkos mallum, ape gedara khitchen දෙල්කොස් මැල්ලුම , කොස්දෙල් මැල්ලුම",
+                "url": "https://youtube.com/watch?v=2fqTVZkdaFY",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/2fqTVZkdaFY/hq720.jpg"
+            },
+            {
+                "title": "How to making kosdel curry",
+                "url": "https://youtube.com/watch?v=8xEZGHUs9VU",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/8xEZGHUs9VU/hq720.jpg"
+            },
+            {
+                "title": "කොස්දෙල් මැල්ලුම ( Kos del melluma )village food #villagelife",
+                "url": "https://youtube.com/watch?v=-ocNvuwG8Yk",
+                "duration": "6:38",
+                "thumbnail": "https://i.ytimg.com/vi/-ocNvuwG8Yk/frame0.jpg"
+            },
+            {
+                "title": "කොස් වල ගුණ - වෛද්‍ය අනුෂ්කා වික්‍රමරත්න",
+                "url": "https://youtube.com/watch?v=A7BDgbAa7TM",
+                "duration": "5:55",
+                "thumbnail": "https://i.ytimg.com/vi/A7BDgbAa7TM/hq720.jpg"
+            },
+            {
+                "title": "කොස් පොලොස් වරකා සහ තිත්ත ඇත්ත Beast Way to Eat Jack By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=PiHyckIZR8c",
+                "duration": "8:00",
+                "thumbnail": "https://i.ytimg.com/vi/PiHyckIZR8c/hq720.jpg"
+            },
+            {
+                "title": "ගොඩක් දෙනක් කන්න කැමති කොස් අහාරයට ගත්තොත් මෙන්න සිරුරේ අභ්‍යන්තරයට සිදුවෙන දේවල්",
+                "url": "https://youtube.com/watch?v=wehFqV6lumY",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/wehFqV6lumY/hq720.jpg"
+            },
+            {
+                "title": "කොස් ආහාරයට ගැනීමේ ප්‍රතිඵල | රෝග 35 වඩා ගුණ | jack fruit",
+                "url": "https://youtube.com/watch?v=HvLvHwA_wtM",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/HvLvHwA_wtM/hqdefault.jpg"
+            },
+            {
+                "title": "දෙල් කෑවොත් ශරීරයට වන දේ | Breadfruit benefits | del♻✅",
+                "url": "https://youtube.com/watch?v=LEBSqvDdwPA",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/LEBSqvDdwPA/hqdefault.jpg"
+            },
+            {
+                "title": "කොස් කොළ වල ඇති විශ්මිත ගුණ - Amazing properties of jack leaves",
+                "url": "https://youtube.com/watch?v=Q9iZ5fq0V50",
+                "duration": "10:03",
+                "thumbnail": "https://i.ytimg.com/vi/Q9iZ5fq0V50/hq720.jpg"
+            },
+            {
+                "title": "කොස් කෑවට වැඩක් නෑ  මේ විශ්මිත කතාව ඇහුවේ නැත්නම් | Lanka Ayurveda |",
+                "url": "https://youtube.com/watch?v=ouMqAAvWUGA",
+                "duration": "3:25",
+                "thumbnail": "https://i.ytimg.com/vi/ouMqAAvWUGA/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health Benefits of Jackfruit leaves/ කොස් දලුවල විස්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=_H72yS8ajyE",
+                "duration": "1:56",
+                "thumbnail": "https://i.ytimg.com/vi/_H72yS8ajyE/hqdefault.jpg"
+            },
+            {
+                "title": "දෙල් වල විශ්මිත ගුණ - Amazing properties of dill Breadfruit",
+                "url": "https://youtube.com/watch?v=PhBCC6lat0A",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/PhBCC6lat0A/hq720.jpg"
+            },
+            {
+                "title": "සතියකට දවස් දෙක තුනක් වත් කොස් කෑම වේලට එකතුකරගන්න.",
+                "url": "https://youtube.com/watch?v=5crW2SuoyeY",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/5crW2SuoyeY/hq720.jpg"
+            },
+            {
+                "title": "කොස් /පොලොස්  දියවැඩියාවට හොඳද ?| Blood Sugar Test with Jackfruit | Jackfruit Part- 01 and Diabetes",
+                "url": "https://youtube.com/watch?v=Z8RrQ2ycPDM",
+                "duration": "13:59",
+                "thumbnail": "https://i.ytimg.com/vi/Z8RrQ2ycPDM/hq720.jpg"
+            },
+            {
+                "title": "කොස් ඇට වල ගුණ | Kos Ata  #jackfruit",
+                "url": "https://youtube.com/watch?v=G5PZxr4bsN8",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/G5PZxr4bsN8/hq720.jpg"
+            },
+            {
+                "title": "දෙල් වලට ගැස්ට්‍රයිටිස් වැඩි වෙනවද?/දෙල් වල ගුණ අගුණ දැන ගෙන කන්න /Benefits of breadfruit",
+                "url": "https://youtube.com/watch?v=n9HgbDedNiU",
+                "duration": "5:16",
+                "thumbnail": "https://i.ytimg.com/vi/n9HgbDedNiU/hqdefault.jpg"
+            },
+            {
+                "title": "දිවි රැකදෙන කොස් .Health benefits of jackfruit.",
+                "url": "https://youtube.com/watch?v=rKW2CR1mc1Q",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/rKW2CR1mc1Q/hq720.jpg"
+            },
+            {
+                "title": "පොලොස් හෙවත් කොස් ගැට කෑවොත් වෙන දේ මෙන්න : Raw Green Jackfruit Benefits",
+                "url": "https://youtube.com/watch?v=AUvFTMX56_4",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/AUvFTMX56_4/hq720.jpg"
+            },
+            {
+                "title": "කොස් වල ගුණ - වෛද්‍ය අනුෂ්කා වික්‍රමරත්න",
+                "url": "https://youtube.com/watch?v=_HeGfyXaxPc",
+                "duration": "5:55",
+                "thumbnail": "https://i.ytimg.com/vi/_HeGfyXaxPc/frame0.jpg"
+            },
+            {
+                "title": "දෙල් කොස් මෙහෙම හැදුවම හරිම රසයි |del kos malluma|del kos curry recipe by villager's foods",
+                "url": "https://youtube.com/watch?v=sK8ZE8FH-As",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/sK8ZE8FH-As/hq720.jpg"
+            },
+            {
+                "title": "village food breadnut mallum and seeds curry/ village kitchen special recipe  /sri lanka food",
+                "url": "https://youtube.com/watch?v=YJwWS_4rlC4",
+                "duration": "13:02",
+                "thumbnail": "https://i.ytimg.com/vi/YJwWS_4rlC4/hq720.jpg"
+            },
+            {
+                "title": "කොස්, දෙල් නිසා යන්තම් රැකිලා තියෙන ජීවිත..",
+                "url": "https://youtube.com/watch?v=Nb1zEQQrXbA",
+                "duration": "1:29",
+                "thumbnail": "https://i.ytimg.com/vi/Nb1zEQQrXbA/hq720.jpg"
+            },
+            {
+                "title": "Today was made the Kos Del curry is in our village | My Village",
+                "url": "https://youtube.com/watch?v=yj4fN9N3JNQ",
+                "duration": "13:52",
+                "thumbnail": "https://i.ytimg.com/vi/yj4fN9N3JNQ/hq720.jpg"
+            },
+            {
+                "title": "ඇග සිසිල් කරන|වියපත් ඔයා තරුණ කරන දිව්‍යමය ඔසුවක්| 🍟🍔🍕🌭තෙල් කෑම කනවා නම් අනිවාර්යයෙන් ම බලන්න🍵🍵👌🏻👌🏻",
+                "url": "https://youtube.com/watch?v=_B8TZmh_P5c",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/_B8TZmh_P5c/hq720.jpg"
+            },
+            {
+                "title": "පුදුම ගේමක් දීලා වල් දෙල් කැඩුවා  Wal Del. Bedi Del. Hingala Del.Kala Del [Artocarpus Nobilis]",
+                "url": "https://youtube.com/watch?v=omMZ1-klS84",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/omMZ1-klS84/hq720.jpg"
+            },
+            {
+                "title": "Del Atu Kos Melluma/දෙල් අටු කොස් මැල්ලුම",
+                "url": "https://youtube.com/watch?v=0pE9m_q1fA0",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/0pE9m_q1fA0/hq720.jpg"
+            },
+            {
+                "title": "මගේ බර 35kg අඩුකරගන්න මං කාපු බඩ පිරෙන ලේසි කෑම එක😲| This easy meal helps me to loose 35kg",
+                "url": "https://youtube.com/watch?v=AMiTwLzWNJg",
+                "duration": "5:31",
+                "thumbnail": "https://i.ytimg.com/vi/AMiTwLzWNJg/hq720.jpg"
+            },
+            {
+                "title": "කොස් කන්න ගමට පැන්න තනියා ගම වටේ ගිය හැටි... | Ada Derana",
+                "url": "https://youtube.com/watch?v=4Sm22l4UuoM",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/4Sm22l4UuoM/hq720.jpg"
+            },
+            {
+                "title": "Jackfruit  For Diabetes and skin care  | කොස් වලින් හෙළ පාරම්පරික අත්බෙහෙත් හා ලස්සන වෙන්න සත්කාර",
+                "url": "https://youtube.com/watch?v=DJfwmUkvIAE",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/DJfwmUkvIAE/hq720.jpg"
+            },
+            {
+                "title": "රස වගේම ගුණ කොස් ගසේ ඇති වටිනාකම | පිළිකා ඇතුලු බොහෝ රෝග නසන කොස්වල ප්‍රයෝජන | Jack Tree & Kosgasa",
+                "url": "https://youtube.com/watch?v=-KWmSoFXAQE",
+                "duration": "7:27",
+                "thumbnail": "https://i.ytimg.com/vi/-KWmSoFXAQE/hq720.jpg"
+            },
+            {
+                "title": "ආර්ථික අර්බූදයට ව්සදුමක් සහ අසම සම පෝෂණය පිරි කොස් ගැන මෙතෙක් නොකී රහස",
+                "url": "https://youtube.com/watch?v=sKgl0dU5om4",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/sKgl0dU5om4/hq720.jpg"
+            },
+            {
+                "title": "කොස් පිළිබඳ සියලු විස්තර#Artocarpus heterophyllus#jackfruit#polos",
+                "url": "https://youtube.com/watch?v=LnOOCV4GPCw",
+                "duration": "5:14",
+                "thumbnail": "https://i.ytimg.com/vi/LnOOCV4GPCw/hq720.jpg"
+            },
+            {
+                "title": "කොස් ගසේ වටිනාකම ඔබ දැන සිටියාද",
+                "url": "https://youtube.com/watch?v=1AUAWkzsN1M",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/1AUAWkzsN1M/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark",
-    "Leaves",
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "2967",
-      "caption": "Male Inflorescence (PMR)",
-      "url": "https://i.ibb.co/PsQJ80cX/plant00850-02967.jpg"
-    },
-    {
-      "image_id": "2968",
-      "caption": "Fruit (PMR)",
-      "url": "https://i.ibb.co/r2TYM4xK/plant00850-02968.jpg"
-    },
-    {
-      "image_id": "2969",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/FbbJ2rMH/plant00850-02969.jpg"
-    },
-    {
-      "image_id": "2970",
-      "caption": "Young leaf (PMR)",
-      "url": "https://i.ibb.co/fGGWYbx4/plant00850-02970.jpg"
-    },
-    {
-      "image_id": "2971",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/1txWc4GY/plant00850-02971.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,150 +1,425 @@
 {
-  "scientificName": "Coriandrum sativum L.",
-  "synonyms": [
-    "Bifora loureiroi Kostel.",
-    "Coriandropsis syriaca H.Wolff",
-    "Coriandrum diversifolium Gilib.",
-    "Coriandrum globosum Salisb.",
-    "Coriandrum majus Garsault",
-    "Coriandrum majus Gouan",
-    "Coriandrum melphitense Guss. & Ten.",
-    "Coriandrum sativum subsp. asiaticum Stolet.",
-    "Coriandrum sativum subsp. indicum Stolet.",
-    "Coriandrum sativum subsp. vavilovii Stolet.",
-    "Coriandrum sativum var. afghanicum Stolet.",
-    "Coriandrum sativum var. africanum Stolet.",
-    "Coriandrum sativum var. anatolicum Stolet.",
-    "Coriandrum sativum var. arabicum Stolet.",
-    "Coriandrum sativum var. asiaticum Stolet.",
-    "Coriandrum sativum var. indicum Stolet.",
-    "Coriandrum sativum var. microcarpum DC.",
-    "Coriandrum sativum var. pygmaeum Stolet.",
-    "Coriandrum sativum var. vavilovii Stolet.",
-    "Coriandrum sativum var. vulgare Alef.",
-    "Selinum coriandrum E.H.L.Krause",
-    "Sium coriandrum Vest"
-  ],
-  "familyName": "APIACEAE",
-  "englishNames": [
-    "Corriandum",
-    "Coriander",
-    "Cilantro",
-    "Chinese Parsley"
-  ],
-  "sinhalaName": "Koththamalli (කොත්තමල්ලි)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Coriandrum sativum L.",
+    "synonyms": [
+        "Bifora loureiroi Kostel.",
+        "Coriandropsis syriaca H.Wolff",
+        "Coriandrum diversifolium Gilib.",
+        "Coriandrum globosum Salisb.",
+        "Coriandrum majus Garsault",
+        "Coriandrum majus Gouan",
+        "Coriandrum melphitense Guss. & Ten.",
+        "Coriandrum sativum subsp. asiaticum Stolet.",
+        "Coriandrum sativum subsp. indicum Stolet.",
+        "Coriandrum sativum subsp. vavilovii Stolet.",
+        "Coriandrum sativum var. afghanicum Stolet.",
+        "Coriandrum sativum var. africanum Stolet.",
+        "Coriandrum sativum var. anatolicum Stolet.",
+        "Coriandrum sativum var. arabicum Stolet.",
+        "Coriandrum sativum var. asiaticum Stolet.",
+        "Coriandrum sativum var. indicum Stolet.",
+        "Coriandrum sativum var. microcarpum DC.",
+        "Coriandrum sativum var. pygmaeum Stolet.",
+        "Coriandrum sativum var. vavilovii Stolet.",
+        "Coriandrum sativum var. vulgare Alef.",
+        "Selinum coriandrum E.H.L.Krause",
+        "Sium coriandrum Vest"
+    ],
+    "familyName": "APIACEAE",
+    "englishNames": [
+        "Corriandum",
+        "Coriander",
+        "Cilantro",
+        "Chinese Parsley"
+    ],
+    "sinhalaName": "Koththamalli (කොත්තමල්ලි)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Nausea and Vomiting",
+            "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gastritis",
+            "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Infection",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole plant",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "1880",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/d4xvsBLt/plant00095-01880.jpg"
+        },
+        {
+            "image_id": "1881",
+            "caption": "Infloroscence (PMR)",
+            "url": "https://i.ibb.co/5gx74Z8w/plant00095-01881.jpg"
+        },
+        {
+            "image_id": "1882",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/QFKsKmcg/plant00095-01882.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කොත්තමල්ලි තේ එකක් හදන්නේ කොහොමද? How to maje a coriander tea",
+                "url": "https://youtube.com/watch?v=XTC1Gv6vPDY",
+                "duration": "3:40",
+                "thumbnail": "https://i.ytimg.com/vi/XTC1Gv6vPDY/hqdefault.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි මේ විදිහට බොන්න ප්‍රබල ලෙඩ රෝග රැසකින් බේරෙන්න පුළුවන් |Coriander",
+                "url": "https://youtube.com/watch?v=UpRVJSLeYl0",
+                "duration": "5:13",
+                "thumbnail": "https://i.ytimg.com/vi/UpRVJSLeYl0/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි  මේ තරම් ගුණ ඇයි | about Coriander..",
+                "url": "https://youtube.com/watch?v=0Rj9hHX2RIg",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/0Rj9hHX2RIg/hqdefault.jpg"
+            },
+            {
+                "title": "දින 8න් කොත්තමල්ලි කොල ගෙදරදීම වවාගන්නා රහස / How to grow Coriander leaves at Home.",
+                "url": "https://youtube.com/watch?v=PxdfncSer74",
+                "duration": "7:34",
+                "thumbnail": "https://i.ytimg.com/vi/PxdfncSer74/hq720.jpg"
+            },
+            {
+                "title": "නැතුවම බැරි කොත්තමල්ලි | Fact Of Coriander (Koththamalli)",
+                "url": "https://youtube.com/watch?v=GccweBLbijE",
+                "duration": "3:46",
+                "thumbnail": "https://i.ytimg.com/vi/GccweBLbijE/hq720.jpg"
+            },
+            {
+                "title": "ගොඩ දෙනෙක් පටල ගන්න පාස්ලි හා කොත්තමල්ලි කොල අතර වෙනස .Difference between Parsley & Coriander.",
+                "url": "https://youtube.com/watch?v=49bceps_nlA",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/49bceps_nlA/hq720.jpg"
+            },
+            {
+                "title": "Clean your kidneys and liver using coriander! - කොත්තමල්ලි වලින් වකුගඩු සහ අක්මාව පිරිසිදු කරගන්න.",
+                "url": "https://youtube.com/watch?v=86VWtGcBFWU",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/86VWtGcBFWU/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Koththamalli (Coriander). Ayurvedic and medicinal value of Coriander.",
+                "url": "https://youtube.com/watch?v=RBZc65_lO5U",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/RBZc65_lO5U/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි දින 3න් පැල කරන රහස How to grow Coriander in 3days. koththamalli wagawa #Green_Heaven",
+                "url": "https://youtube.com/watch?v=jBXC1Gffhi4",
+                "duration": "5:16",
+                "thumbnail": "https://i.ytimg.com/vi/jBXC1Gffhi4/hqdefault.jpg"
+            },
+            {
+                "title": "Anoma's Kitchen Tips # 67 - සැල්දිරි, මිංචි, පාර්ස්ලි, කොත්තමල්ලි හදුනාගනිමු",
+                "url": "https://youtube.com/watch?v=nwkB8a-Zy9A",
+                "duration": "11:32",
+                "thumbnail": "https://i.ytimg.com/vi/nwkB8a-Zy9A/hqdefault.jpg"
+            },
+            {
+                "title": "බබාලට \" කොත්තමල්ලි\" දෙන්න හොදද? නැද්ද ? Is coriander safe for children?",
+                "url": "https://youtube.com/watch?v=BrBLKQbWAh0",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/BrBLKQbWAh0/hq720.jpg"
+            },
+            {
+                "title": "Coriander Question & Answers by Nutritionist Hiroshan jayaranga",
+                "url": "https://youtube.com/watch?v=fri1z5kl9Cg",
+                "duration": "12:11",
+                "thumbnail": "https://i.ytimg.com/vi/fri1z5kl9Cg/hqdefault.jpg"
+            },
+            {
+                "title": "අපි ගණන් ගන්නැති දියවැඩියාව ඇතූලු රෝග රැසකට ගූණදෙන වල් කොත්තමල්ලි",
+                "url": "https://youtube.com/watch?v=JKVGk77ADC8",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/JKVGk77ADC8/hq720.jpg"
+            },
+            {
+                "title": "උණට කැස්සට නැතුවම බැරි කොත්තමල්ලි වල ඇති ඔබ නොදන්නා තවත් ගුණ | Benefits of Coriander #coriander",
+                "url": "https://youtube.com/watch?v=f3eJEORlARM",
+                "duration": "15:30",
+                "thumbnail": "https://i.ytimg.com/vi/f3eJEORlARM/hq720.jpg"
+            },
+            {
+                "title": "උදෙන්ම කොත්තමල්ලි එකක් බිවුවොත් ? Coriander & Health By Nutritionist Hiroshan Jayaranaga",
+                "url": "https://youtube.com/watch?v=_LNiYTaxW6Y",
+                "duration": "16:54",
+                "thumbnail": "https://i.ytimg.com/vi/_LNiYTaxW6Y/hq720.jpg"
+            },
+            {
+                "title": "★ Coriander Drink (koththamalli) - කොත්තමල්ලි පානය",
+                "url": "https://youtube.com/watch?v=C3_MNoxPMhU",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/C3_MNoxPMhU/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි කොල ගෙදරම වවමු | How to grow Coriander leaves",
+                "url": "https://youtube.com/watch?v=zOb-wfGn8O4",
+                "duration": "4:53",
+                "thumbnail": "https://i.ytimg.com/vi/zOb-wfGn8O4/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි පවුඩර්  / Corriander (Daniya ) Powder ...",
+                "url": "https://youtube.com/watch?v=BrRxA6JD9L8",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/BrRxA6JD9L8/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි වතුර නිතර බොන අයගේ සිරුරේ වෙනස්කම් | Coriander Water Health Benefits",
+                "url": "https://youtube.com/watch?v=SlkvRW1Z6Lk",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/SlkvRW1Z6Lk/hqdefault.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි සමග දිනපතා තේ පානය කිරීමෙන් ඔබේ ශරීරයට වෙනදේ මෙන්න..!",
+                "url": "https://youtube.com/watch?v=-kwIhn-frB8",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/-kwIhn-frB8/hq720.jpg"
+            },
+            {
+                "title": "දහසක් රෝග වලට ගුණ දෙන කොත්තමල්ලි කොළ ගැන ඔබ නොදත් හෙලිදරව්වක් |  Coriander leaves 🌿",
+                "url": "https://youtube.com/watch?v=YFdBJLfbNcs",
+                "duration": "4:16",
+                "thumbnail": "https://i.ytimg.com/vi/YFdBJLfbNcs/hqdefault.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි ගුණ | ශරිරයට ලැබෙන වාසි | vishmaya #benefits #healthness",
+                "url": "https://youtube.com/watch?v=t2gK8jT1F3Q",
+                "duration": "6:25",
+                "thumbnail": "https://i.ytimg.com/vi/t2gK8jT1F3Q/hqdefault.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි මේ විදියට මැටි බදුනකට දමා රැයක් පෙගෙන්න තියලා උදෑසන පානය කරන්න. රත්පිත් රෝග නසන ආහාර 4ක්",
+                "url": "https://youtube.com/watch?v=ezUMTP4rRJE",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/ezUMTP4rRJE/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි වල ගුණ දැනගෙන බොමු😍 | ලෙඩ ගොඩකට හොදයි | Properties of coriander | Gaweshaka | ගවේශක",
+                "url": "https://youtube.com/watch?v=AP9WWSzUEeQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/AP9WWSzUEeQ/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි කොළ කෑවොත් වෙන දේ මෙන්න : Parsley health benefits and parsley uses",
+                "url": "https://youtube.com/watch?v=E4lKEGc8zhs",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/E4lKEGc8zhs/hq720.jpg"
+            },
+            {
+                "title": "පහසුවෙන් ඉක්මනින් සකස් කරගත් ගුණවත් රසවත් ඖෂධීය ඉඟුරු කොත්තමල්ලි | Healthy Coriander & Ginger Tea",
+                "url": "https://youtube.com/watch?v=9j5u4dzPzW0",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/9j5u4dzPzW0/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි පානය සහ ඉඟුරු මීපැණි පානය - Episode 728 - Home Remedies - Anoma's Kitchen",
+                "url": "https://youtube.com/watch?v=_mQGUbhIQrg",
+                "duration": "10:31",
+                "thumbnail": "https://i.ytimg.com/vi/_mQGUbhIQrg/hqdefault.jpg"
+            },
+            {
+                "title": "කොරෝනා වලින් බේරෙන්න කොත්තමල්ලි පානය නිවැරදිව සාදා ගනිමු, Coriander Seed Drink",
+                "url": "https://youtube.com/watch?v=FlMjOboAK2s",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/FlMjOboAK2s/hq720.jpg"
+            },
+            {
+                "title": "අත්‍යවශ්‍යම වන සරලම ඔසුවක් නිවැරදිව හදාගෙන කල් තබා ගන්නා විදිය/ කොත්තමල්ලි පානය Coriander Drink",
+                "url": "https://youtube.com/watch?v=RjsL_x93Aag",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/RjsL_x93Aag/hq720.jpg"
+            },
+            {
+                "title": "මේ ටිකත් දැනගෙනම කොත්තමල්ලි බොන්න _ Health benefits of coriander_ # HealthyPodda",
+                "url": "https://youtube.com/watch?v=dsHemc3sL0g",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/dsHemc3sL0g/hq720.jpg"
+            },
+            {
+                "title": "උණ හෙම්බිරිස්සාව නසන ඖෂධීය පානය - Healthy Coriander and Ginger Drink Recipe (Sinhala)",
+                "url": "https://youtube.com/watch?v=sK74H5SkFoE",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/sK74H5SkFoE/hqdefault.jpg"
+            },
+            {
+                "title": "ආයුර්වේදීය ක්‍රමයට ප්‍රතිශක්තිය වඩවන කොත්තමල්ලි පස්පංගුව කඩෙන් ගෙනත් හදන විදිය Pas Panguwa Kusala🇱🇰",
+                "url": "https://youtube.com/watch?v=yDAmWP415L8",
+                "duration": "10:35",
+                "thumbnail": "https://i.ytimg.com/vi/yDAmWP415L8/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි වලින් ලස්සන වෙන්න - coriander beauty tips with Dr.Mahesh Athuraliya",
+                "url": "https://youtube.com/watch?v=rlEvKLtiZRU",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/rlEvKLtiZRU/hq720.jpg"
+            },
+            {
+                "title": "අඩුවට දීලත් කොත්තමල්ලි බොන්න බැරි නම් - Health benefits of coriander",
+                "url": "https://youtube.com/watch?v=AbSk6tEyZ6Q",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/AbSk6tEyZ6Q/hq720.jpg"
+            },
+            {
+                "title": "Wal koththamalli|රෝග  රැසකට ගුණදෙන වල් කොත්තමල්ලි පැළැටියේ විශ්මිත ඖෂධිය ගුණ",
+                "url": "https://youtube.com/watch?v=ky8SextNuXc",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/ky8SextNuXc/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සඳහා හෙළ ඔසුවක් | වල් කොත්තමල්ලි | Scoparia dulcis | #helaosu",
+                "url": "https://youtube.com/watch?v=ql_MYHbpcRg",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/ql_MYHbpcRg/hq720.jpg"
+            },
+            {
+                "title": "Koththmalli Benefits | Koththmalli Drink |Koththmalli panaya |Koththmalli Wala Guna |Coriander Drink",
+                "url": "https://youtube.com/watch?v=-9Vq3XZQ-fQ",
+                "duration": "1:39",
+                "thumbnail": "https://i.ytimg.com/vi/-9Vq3XZQ-fQ/hqdefault.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි ශාකයේ ගුණ අගුණ හරියට දැනගමු. | කොත්තමල්ලි | Coriander",
+                "url": "https://youtube.com/watch?v=PlJ6CWCWvwI",
+                "duration": "6:51",
+                "thumbnail": "https://i.ytimg.com/vi/PlJ6CWCWvwI/hqdefault.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි බොන්න ඕන හරිම විදිහ☕️   By Nutri Info",
+                "url": "https://youtube.com/watch?v=fNXwNDHmpN8",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/fNXwNDHmpN8/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි කොළ කෑවොත් වෙන දේ මෙන්න : Parsley health benefits and parsley uses",
+                "url": "https://youtube.com/watch?v=WqghptZhjxE",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/WqghptZhjxE/frame0.jpg"
+            },
+            {
+                "title": "Coriander Tea Recipe | Immunity Boosting Tea | Fights Corona Virus | කොත්තමල්ලි තේ",
+                "url": "https://youtube.com/watch?v=fn9qTrlj7Eg",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/fn9qTrlj7Eg/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රතිශක්ති කරණය  වැඩි කරණ කොත්තමල්ලි පානය  Coriander Drink",
+                "url": "https://youtube.com/watch?v=LylP7x3s5VM",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/LylP7x3s5VM/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලී වල විශ්මිත ගුණය - Amazing quality of coriander",
+                "url": "https://youtube.com/watch?v=9y43dBki9ZE",
+                "duration": "5:54",
+                "thumbnail": "https://i.ytimg.com/vi/9y43dBki9ZE/hq720.jpg"
+            },
+            {
+                "title": "✔ වෛරස් වලින් බේරෙන්න ඉඟුරු කොත්තමල්ලි පානය Koththamalli drink |  Ginger & coriander tea by Apé Amma",
+                "url": "https://youtube.com/watch?v=hOhQJZZH92M",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/hOhQJZZH92M/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits Of Cilantro You Should Know! | Health Benefits Of Cilantro",
+                "url": "https://youtube.com/watch?v=jlaelYqV94o",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/jlaelYqV94o/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Nausea and Vomiting",
-      "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gastritis",
-      "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Urinary Tract Infection",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole plant",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "1880",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/d4xvsBLt/plant00095-01880.jpg"
-    },
-    {
-      "image_id": "1881",
-      "caption": "Infloroscence (PMR)",
-      "url": "https://i.ibb.co/5gx74Z8w/plant00095-01881.jpg"
-    },
-    {
-      "image_id": "1882",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/QFKsKmcg/plant00095-01882.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

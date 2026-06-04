@@ -1,151 +1,198 @@
 {
-  "scientificName": "Aphanamixis polystachya (Wall.) R.Parker",
-  "synonyms": [
-    "Aglaia aphanamixis Pellegr.",
-    "Aglaia aphanamixis var. frutescens (C.DC.) Pellegr.",
-    "Aglaia beddomei (Kosterm.) S.S.Jain & R.C.Gaur",
-    "Aglaia cochinchinensis (Pierre) Pellegr.",
-    "Aglaia janowskyi Harms",
-    "Aglaia polystachya Wall.",
-    "Alliaria cuneata (Hiern) Kuntze",
-    "Amoora amboinensis Miq.",
-    "Amoora aphanamixis Schult. & Schult.f.",
-    "Amoora beddomei Kosterm.",
-    "Amoora cumingiana C.DC.",
-    "Amoora elmeri Merr.",
-    "Amoora grandifolia Walp.",
-    "Amoora janowskyi (Harms) Kosterm.",
-    "Amoora macrophylla Nimmo",
-    "Amoora megalophylla C.DC.",
-    "Amoora megalophylla var. frutescens C.DC.",
-    "Amoora myrmecophila Warb.",
-    "Amoora perrottetiana (A.Juss.) Steud.",
-    "Amoora polillensis C.B.Rob.",
-    "Amoora polystachya (Wall.) Steud.",
-    "Amoora rohituka (Roxb.) Wight & Arn.",
-    "Amoora sogerensis Baker f.",
-    "Amoora timorensis (A.Juss.) Wight & Arn. ex Steud.",
-    "Andersonia rohituka Roxb.",
-    "Aphanamixis agusanensis Elmer",
-    "Aphanamixis amboinensis (Miq.) Harms",
-    "Aphanamixis apoensis Elmer",
-    "Aphanamixis blumei Span.",
-    "Aphanamixis cochinchinensis Pierre",
-    "Aphanamixis coriacea Merr.",
-    "Aphanamixis cumingiana (C.DC.) Harms",
-    "Aphanamixis davaoensis Elmer",
-    "Aphanamixis elmeri (Merr.) Merr.",
-    "Aphanamixis grandifolia Blume",
-    "Aphanamixis lauterbachii Harms",
-    "Aphanamixis macrocalyx Harms",
-    "Aphanamixis myrmecophila (Warb.) Harms",
-    "Aphanamixis obliquifolia Elmer",
-    "Aphanamixis perrottetiana A.Juss.",
-    "Aphanamixis pinatubensis Elmer",
-    "Aphanamixis polillensis (C.B.Rob.) Merr.",
-    "Aphanamixis rohituka (Roxb.) Pierre",
-    "Aphanamixis schlechteri Harms",
-    "Aphanamixis sinensis F.C.How & T.C.Chen",
-    "Aphanamixis timorensis A.Juss.",
-    "Aphanamixis tripetala (Blanco) Merr.",
-    "Aphanamixis velutina Elmer",
-    "Cabralea richardiana C.DC.",
-    "Canarium vrieseo-teysmannii H.J.Lam",
-    "Chuniodendron spicatum Hu",
-    "Chuniodendron yunnanense Hu",
-    "Dysoxylum cuneatum Hiern",
-    "Dysoxylum spiciflorum Zipp. ex Miq.",
-    "Epicharis cuneata (Hiern) Harms",
-    "Ricinocarpodendron cumingianum (C.DC.) Mabb.",
-    "Ricinocarpodendron polystachyum (Wall.) Mabb.",
-    "Sphaerosacme polystachya Wall.",
-    "Sphaerosacme spicata Wall.",
-    "Trichilia tripetala Blanco"
-  ],
-  "familyName": "MELIACEAE",
-  "englishNames": [
-    "Pithraj Tree"
-  ],
-  "sinhalaName": "Hingul (හිඟුල්)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Aphanamixis polystachya (Wall.) R.Parker",
+    "synonyms": [
+        "Aglaia aphanamixis Pellegr.",
+        "Aglaia aphanamixis var. frutescens (C.DC.) Pellegr.",
+        "Aglaia beddomei (Kosterm.) S.S.Jain & R.C.Gaur",
+        "Aglaia cochinchinensis (Pierre) Pellegr.",
+        "Aglaia janowskyi Harms",
+        "Aglaia polystachya Wall.",
+        "Alliaria cuneata (Hiern) Kuntze",
+        "Amoora amboinensis Miq.",
+        "Amoora aphanamixis Schult. & Schult.f.",
+        "Amoora beddomei Kosterm.",
+        "Amoora cumingiana C.DC.",
+        "Amoora elmeri Merr.",
+        "Amoora grandifolia Walp.",
+        "Amoora janowskyi (Harms) Kosterm.",
+        "Amoora macrophylla Nimmo",
+        "Amoora megalophylla C.DC.",
+        "Amoora megalophylla var. frutescens C.DC.",
+        "Amoora myrmecophila Warb.",
+        "Amoora perrottetiana (A.Juss.) Steud.",
+        "Amoora polillensis C.B.Rob.",
+        "Amoora polystachya (Wall.) Steud.",
+        "Amoora rohituka (Roxb.) Wight & Arn.",
+        "Amoora sogerensis Baker f.",
+        "Amoora timorensis (A.Juss.) Wight & Arn. ex Steud.",
+        "Andersonia rohituka Roxb.",
+        "Aphanamixis agusanensis Elmer",
+        "Aphanamixis amboinensis (Miq.) Harms",
+        "Aphanamixis apoensis Elmer",
+        "Aphanamixis blumei Span.",
+        "Aphanamixis cochinchinensis Pierre",
+        "Aphanamixis coriacea Merr.",
+        "Aphanamixis cumingiana (C.DC.) Harms",
+        "Aphanamixis davaoensis Elmer",
+        "Aphanamixis elmeri (Merr.) Merr.",
+        "Aphanamixis grandifolia Blume",
+        "Aphanamixis lauterbachii Harms",
+        "Aphanamixis macrocalyx Harms",
+        "Aphanamixis myrmecophila (Warb.) Harms",
+        "Aphanamixis obliquifolia Elmer",
+        "Aphanamixis perrottetiana A.Juss.",
+        "Aphanamixis pinatubensis Elmer",
+        "Aphanamixis polillensis (C.B.Rob.) Merr.",
+        "Aphanamixis rohituka (Roxb.) Pierre",
+        "Aphanamixis schlechteri Harms",
+        "Aphanamixis sinensis F.C.How & T.C.Chen",
+        "Aphanamixis timorensis A.Juss.",
+        "Aphanamixis tripetala (Blanco) Merr.",
+        "Aphanamixis velutina Elmer",
+        "Cabralea richardiana C.DC.",
+        "Canarium vrieseo-teysmannii H.J.Lam",
+        "Chuniodendron spicatum Hu",
+        "Chuniodendron yunnanense Hu",
+        "Dysoxylum cuneatum Hiern",
+        "Dysoxylum spiciflorum Zipp. ex Miq.",
+        "Epicharis cuneata (Hiern) Harms",
+        "Ricinocarpodendron cumingianum (C.DC.) Mabb.",
+        "Ricinocarpodendron polystachyum (Wall.) Mabb.",
+        "Sphaerosacme polystachya Wall.",
+        "Sphaerosacme spicata Wall.",
+        "Trichilia tripetala Blanco"
+    ],
+    "familyName": "MELIACEAE",
+    "englishNames": [
+        "Pithraj Tree"
+    ],
+    "sinhalaName": "Hingul (හිඟුල්)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Syphilis",
+            "sinhala": "උපදංශය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Flower",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "3196",
+            "caption": "Flower Buds (PMR)",
+            "url": "https://i.ibb.co/8DdGbkZM/plant00816-03196.jpg"
+        },
+        {
+            "image_id": "3197",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/mx4myRx/plant00816-03197.jpg"
+        },
+        {
+            "image_id": "3198",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/yFm5fqPx/plant00816-03198.jpg"
+        },
+        {
+            "image_id": "3199",
+            "caption": "Compound Leaf (PMR)",
+            "url": "https://i.ibb.co/TBF066bh/plant00816-03199.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "හිගුරල 🤎 ගර්භනී , සහ දරුවෙක් අපේක්ෂාවෙන් සිටින ඔබටත් ඉතාමත් ගුණ හිඟුරල🩷@apitogether-87 #viral#fyp",
+                "url": "https://youtube.com/watch?v=djfEhgAkL5c",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/djfEhgAkL5c/hq720.jpg"
+            },
+            {
+                "title": "Amazing benefits in higurala #හිගුරල අල සතු විශ්මිත ගුණාංග#srilanka 🇱🇰#colombo#subscribe 👍👍",
+                "url": "https://youtube.com/watch?v=qTkDLN_6Qio",
+                "duration": "0:19",
+                "thumbnail": "https://i.ytimg.com/vi/qTkDLN_6Qio/hq720_2.jpg"
+            },
+            {
+                "title": "හිඟුරල ගැන වටිනා තොරතුරු ටිකක් දැන ගනිමු ද?",
+                "url": "https://youtube.com/watch?v=T-ELU0ORMmI",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/T-ELU0ORMmI/hq720.jpg"
+            },
+            {
+                "title": "හිගුරල|hingurala|higurala wala guna|drchaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=FNl7ZRiIWQ0",
+                "duration": "20:35",
+                "thumbnail": "https://i.ytimg.com/vi/FNl7ZRiIWQ0/hq720.jpg"
+            },
+            {
+                "title": "හිඟුරල සහ ඇඟිලි අල වෙන් කර හඳුනා ගන්නා ක්‍රමය",
+                "url": "https://youtube.com/watch?v=SNAzaCQfIpw",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/SNAzaCQfIpw/hq720.jpg"
+            },
+            {
+                "title": "What is the higurala/හිගුරල යනු",
+                "url": "https://youtube.com/watch?v=MNQlkzuVP5A",
+                "duration": "0:24",
+                "thumbnail": "https://i.ytimg.com/vi/MNQlkzuVP5A/hq720.jpg"
+            },
+            {
+                "title": "හිගුරල|හාතාවාරිය|Hathawariyaguna|higuralaguna|suwahasclinic",
+                "url": "https://youtube.com/watch?v=nKSpQzGrwyc",
+                "duration": "16:17",
+                "thumbnail": "https://i.ytimg.com/vi/nKSpQzGrwyc/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Syphilis",
-      "sinhala": "උපදංශය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Flower",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "3196",
-      "caption": "Flower Buds (PMR)",
-      "url": "https://i.ibb.co/8DdGbkZM/plant00816-03196.jpg"
-    },
-    {
-      "image_id": "3197",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/mx4myRx/plant00816-03197.jpg"
-    },
-    {
-      "image_id": "3198",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/yFm5fqPx/plant00816-03198.jpg"
-    },
-    {
-      "image_id": "3199",
-      "caption": "Compound Leaf (PMR)",
-      "url": "https://i.ibb.co/TBF066bh/plant00816-03199.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

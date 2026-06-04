@@ -1,126 +1,311 @@
 {
-  "scientificName": "Vigna unguiculata subsp. unguiculata",
-  "synonyms": [
-    "Dolichos capitatus Wall.",
-    "Dolichos catjang Burm.f.",
-    "Dolichos catjang L.",
-    "Dolichos cylindricus Moench",
-    "Dolichos echinatulus Blanco",
-    "Dolichos hastatus Lour.",
-    "Dolichos hastifolius Schnizl.",
-    "Dolichos hastifolius Stokes",
-    "Dolichos leucomelas Kunze",
-    "Dolichos lubia Forssk.",
-    "Dolichos melanophthalmus DC.",
-    "Dolichos monachalis Brot.",
-    "Dolichos obliquifolius Schnizl.",
-    "Dolichos sesquipedalis Blanco",
-    "Dolichos sinensis L.",
-    "Dolichos sinensis var. ater Hassk.",
-    "Dolichos sinensis var. elongatus Hassk.",
-    "Dolichos sinensis var. maculatus Hassk.",
-    "Dolichos sinensis var. rubiginosus Hassk.",
-    "Dolichos sphaerospermus (L.) DC.",
-    "Dolichos subracemosus Jacq.",
-    "Dolichos tranquebaricus Jacq.",
-    "Liebrechtsia scabra De Wild.",
-    "Phaseolus cylindricus L.",
-    "Phaseolus ellipticus Schur",
-    "Phaseolus sphaerospermus L.",
-    "Scytalis catjang (Burm.f.) E.Mey.",
-    "Vigna catjang (Burm.f.) Walp.",
-    "Vigna cylindrica (L.) Skeels",
-    "Vigna hastata Blume ex Miq.",
-    "Vigna monachalis Endl. ex Hassk.",
-    "Vigna scabra (De Wild.) De Wild. ex T.Durand & H.Durand",
-    "Vigna scabrida Burtt Davy",
-    "Vigna sinensis (L.) Savi ex Hassk.",
-    "Vigna sinensis subsp. cylindrica (L.) Van Eselt.",
-    "Vigna sinensis var. catjang (Burm.f.) Chiov.",
-    "Vigna sinensis var. spontanea Schweinf.",
-    "Vigna tranquebarica D.Dietr.",
-    "Vigna unguiculata subsp. catjang (Burm.f.) Chiov.",
-    "Vigna unguiculata subsp. cylindrica (L.) Verdc.",
-    "Vigna unguiculata var. catjang (Burm.f.) Bertoni",
-    "Vigna unguiculata var. cylindrica (L.) H.Ohashi",
-    "Vigna unguiculata var. spontanea (Schweinf.) Pasquet"
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Long Bean",
-    "Catjang"
-  ],
-  "sinhalaName": "Mekaral (මෑකරල් )",
-  "description": "විවිධත්වයක් සහිත වගා කරන ලද ශාක විශේෂයකි, පැළෑටිමය (herbaceous) ස්වභාවයක් ගනී, බොහෝ විට තරමක් කෙලින් හෝ කෙලින් වැඩෙන පඳුරු ආකාරයෙන් (erect-bushy) පවතී, සමහර විට වැල් ලෙස වැඩේ. පත්‍ර අක්ෂය (leaf rachis) සෙ.මී. 0.6-2.5 ක් දිගය, වෘන්ත සහිතය (petiolated); උපපත්‍ර (stipules) මි.මී. 6-20 ක් දිගය; පත්‍රිකා සෙ.මී. 6 x 12.5 ක් වන අතර, අග්‍රස්ථ පත්‍රිකා පාදස්ථයේදී උප-හස්ත ආකාර (subhastate) හෝ ඛණ්ඩ 3 කින් යුක්ත වේ. පුෂ්ප මංජරි (inflorescences) පත්‍ර කක්ෂීය (axillary) වන අතර, සෙ.මී. 40 ක් පමණ දිගය. මල් සෙ.මී. 1.5-3.5 ක් පමණ දිගය, පුෂ්ප වෘන්ත (pedicels) මි.මී. 2 ක් පමණ දිගය; පෙති සුදු, කොළ පැහැති, කහ හෝ දම් පැහැතිය. ඵලය තරමක් ඉදිමුණු (turgid) ස්වභාවයක් ගනී, සෙ.මී. 7.5-13 ක් පමණ දිග වන අතර බීජ 16 ක් අඩංගු වේ. බීජ ආයත-සිලින්ඩරාකාර (oblong-cylindrical) හෝ තරමක් වකුගඩු හැඩැති (reniform) වන අතර, මි.මී. 5-6 ක් පමණ දිගය.",
-  "treatments": [
-    {
-      "treatment": "Parasitic Infestation",
-      "sinhala": "පරපෝෂිත ආසාදන/පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Vigna unguiculata subsp. unguiculata",
+    "synonyms": [
+        "Dolichos capitatus Wall.",
+        "Dolichos catjang Burm.f.",
+        "Dolichos catjang L.",
+        "Dolichos cylindricus Moench",
+        "Dolichos echinatulus Blanco",
+        "Dolichos hastatus Lour.",
+        "Dolichos hastifolius Schnizl.",
+        "Dolichos hastifolius Stokes",
+        "Dolichos leucomelas Kunze",
+        "Dolichos lubia Forssk.",
+        "Dolichos melanophthalmus DC.",
+        "Dolichos monachalis Brot.",
+        "Dolichos obliquifolius Schnizl.",
+        "Dolichos sesquipedalis Blanco",
+        "Dolichos sinensis L.",
+        "Dolichos sinensis var. ater Hassk.",
+        "Dolichos sinensis var. elongatus Hassk.",
+        "Dolichos sinensis var. maculatus Hassk.",
+        "Dolichos sinensis var. rubiginosus Hassk.",
+        "Dolichos sphaerospermus (L.) DC.",
+        "Dolichos subracemosus Jacq.",
+        "Dolichos tranquebaricus Jacq.",
+        "Liebrechtsia scabra De Wild.",
+        "Phaseolus cylindricus L.",
+        "Phaseolus ellipticus Schur",
+        "Phaseolus sphaerospermus L.",
+        "Scytalis catjang (Burm.f.) E.Mey.",
+        "Vigna catjang (Burm.f.) Walp.",
+        "Vigna cylindrica (L.) Skeels",
+        "Vigna hastata Blume ex Miq.",
+        "Vigna monachalis Endl. ex Hassk.",
+        "Vigna scabra (De Wild.) De Wild. ex T.Durand & H.Durand",
+        "Vigna scabrida Burtt Davy",
+        "Vigna sinensis (L.) Savi ex Hassk.",
+        "Vigna sinensis subsp. cylindrica (L.) Van Eselt.",
+        "Vigna sinensis var. catjang (Burm.f.) Chiov.",
+        "Vigna sinensis var. spontanea Schweinf.",
+        "Vigna tranquebarica D.Dietr.",
+        "Vigna unguiculata subsp. catjang (Burm.f.) Chiov.",
+        "Vigna unguiculata subsp. cylindrica (L.) Verdc.",
+        "Vigna unguiculata var. catjang (Burm.f.) Bertoni",
+        "Vigna unguiculata var. cylindrica (L.) H.Ohashi",
+        "Vigna unguiculata var. spontanea (Schweinf.) Pasquet"
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Long Bean",
+        "Catjang"
+    ],
+    "sinhalaName": "Mekaral (මෑකරල් )",
+    "description": "විවිධත්වයක් සහිත වගා කරන ලද ශාක විශේෂයකි, පැළෑටිමය (herbaceous) ස්වභාවයක් ගනී, බොහෝ විට තරමක් කෙලින් හෝ කෙලින් වැඩෙන පඳුරු ආකාරයෙන් (erect-bushy) පවතී, සමහර විට වැල් ලෙස වැඩේ. පත්‍ර අක්ෂය (leaf rachis) සෙ.මී. 0.6-2.5 ක් දිගය, වෘන්ත සහිතය (petiolated); උපපත්‍ර (stipules) මි.මී. 6-20 ක් දිගය; පත්‍රිකා සෙ.මී. 6 x 12.5 ක් වන අතර, අග්‍රස්ථ පත්‍රිකා පාදස්ථයේදී උප-හස්ත ආකාර (subhastate) හෝ ඛණ්ඩ 3 කින් යුක්ත වේ. පුෂ්ප මංජරි (inflorescences) පත්‍ර කක්ෂීය (axillary) වන අතර, සෙ.මී. 40 ක් පමණ දිගය. මල් සෙ.මී. 1.5-3.5 ක් පමණ දිගය, පුෂ්ප වෘන්ත (pedicels) මි.මී. 2 ක් පමණ දිගය; පෙති සුදු, කොළ පැහැති, කහ හෝ දම් පැහැතිය. ඵලය තරමක් ඉදිමුණු (turgid) ස්වභාවයක් ගනී, සෙ.මී. 7.5-13 ක් පමණ දිග වන අතර බීජ 16 ක් අඩංගු වේ. බීජ ආයත-සිලින්ඩරාකාර (oblong-cylindrical) හෝ තරමක් වකුගඩු හැඩැති (reniform) වන අතර, මි.මී. 5-6 ක් පමණ දිගය.",
+    "treatments": [
+        {
+            "treatment": "Parasitic Infestation",
+            "sinhala": "පරපෝෂිත ආසාදන/පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gastric Disorders",
+            "sinhala": "ආමාශගත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds",
+        "Roots",
+        "Flowers",
+        "Peduncles"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "අපේ පැරැන්නන්ගේ ක්‍රමයට මෑ කරල් කරිය | නොකන අයත් මේ විදියටනම් කයි |Long Beans Curry Recipe| Maakaral",
+                "url": "https://youtube.com/watch?v=EEmRXtw2Ygw",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/EEmRXtw2Ygw/hq720.jpg"
+            },
+            {
+                "title": "✔ Makaral හිදෙන්න රසට මේ විදියට මෑකරල් කාල තියෙනවද බලන්න.  Long beans curry by Apé Amma",
+                "url": "https://youtube.com/watch?v=RvuRng6UwJQ",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/RvuRng6UwJQ/hq720.jpg"
+            },
+            {
+                "title": "ගමේ රසට මෑකරල් හින්දලා උයමු/ mekaral recipe /long beans recipe in sinhala",
+                "url": "https://youtube.com/watch?v=1zo5JcyZKVQ",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/1zo5JcyZKVQ/hqdefault.jpg"
+            },
+            {
+                "title": "දැක්ක තැන කන්න හිතෙන මෑකරල් බැදුම හදන රසම සහ ලේසිම ක්‍රමය |  Long Beans Tempered",
+                "url": "https://youtube.com/watch?v=aWd_Dod0O0s",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/aWd_Dod0O0s/hq720.jpg"
+            },
+            {
+                "title": "මෑකරල් කෑවොත් වෙන දේ දන්නවා ද : Health benefits of Yard Long Beans",
+                "url": "https://youtube.com/watch?v=ku2PbsdXGRg",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/ku2PbsdXGRg/hq720.jpg"
+            },
+            {
+                "title": "මෑ කරල් කිරට | Ma karal kirata | Ma karal recipe | Ma karal kola patata | long beans",
+                "url": "https://youtube.com/watch?v=1i7Flpz3FRQ",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/1i7Flpz3FRQ/hq720.jpg"
+            },
+            {
+                "title": "රසට මෑ කරල් තෙල්දාමු | Long Beans Tempered | Makaral Theldala",
+                "url": "https://youtube.com/watch?v=h8HfyNI5ndo",
+                "duration": "5:04",
+                "thumbnail": "https://i.ytimg.com/vi/h8HfyNI5ndo/hq720.jpg"
+            },
+            {
+                "title": "Grandma's 👵 Long Beans Curry Recipe 🥰 Easy and Flavorful 👩🏻‍🍳 Spicy and Tasty by Grandma Menu",
+                "url": "https://youtube.com/watch?v=9f24IuWO8VE",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/9f24IuWO8VE/hq720.jpg"
+            },
+            {
+                "title": "Deviled Long Beans Recipe  මෑකරල් ඩෙවල් රෙසපිය",
+                "url": "https://youtube.com/watch?v=msjNxy-toeU",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/msjNxy-toeU/hq720.jpg"
+            },
+            {
+                "title": "✔ හවරි මෑ රසට හින්දලා Maakaral Curry | Delicious long bean curry | Maakaral by Apé Amma",
+                "url": "https://youtube.com/watch?v=KQ_iRicHP3Y",
+                "duration": "7:27",
+                "thumbnail": "https://i.ytimg.com/vi/KQ_iRicHP3Y/hq720.jpg"
+            },
+            {
+                "title": "මෑකරල් හාල්මැස්සන් එක්ක මෙහෙම හදලා බලන්න මාරම රසයි long bean with sprats curry. Sri lankan special",
+                "url": "https://youtube.com/watch?v=zO2ISl5m4V0",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/zO2ISl5m4V0/hq720.jpg"
+            },
+            {
+                "title": "මෑ කරල් වෑංජනය | Long Beans curry | ma karal curry Bu Grandma & me leema curry aththammai mamai",
+                "url": "https://youtube.com/watch?v=pNEVdk-tTFU",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/pNEVdk-tTFU/hq720.jpg"
+            },
+            {
+                "title": "මෑ කරල් කිරට | How to make healthy curry | Me karal",
+                "url": "https://youtube.com/watch?v=JHa5rTBY5KM",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/JHa5rTBY5KM/hqdefault.jpg"
+            },
+            {
+                "title": "මෑ කරල් මෙහෙම හැදුවොත් කෑම වේලම ගොඩ | Ma Karal | Long Beans Curry | @mskitchen3708",
+                "url": "https://youtube.com/watch?v=UBpY9mBv2gM",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/UBpY9mBv2gM/hq720.jpg"
+            },
+            {
+                "title": "බත් මුලකට සුපිරි මෑකරල් තෙම්පරාදුව/ mekarl themparadu/long beans curry/",
+                "url": "https://youtube.com/watch?v=mDu_5qoWFSY",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/mDu_5qoWFSY/hq720.jpg"
+            },
+            {
+                "title": "මෑ වගාව බීජ සිටවීමේ සිට අස්වැන්න නෙලනතෙක්ම   How to grow long beans  நீண்ட பீன்ஸ் வளர்ப்பது எப்படி",
+                "url": "https://youtube.com/watch?v=8z_Qf0j53xw",
+                "duration": "17:28",
+                "thumbnail": "https://i.ytimg.com/vi/8z_Qf0j53xw/hq720.jpg"
+            },
+            {
+                "title": "මෑ රසටම උයන්නෙ මෙහෙමයි | Ma Karal | Long Beans Curry | @mskitchen3708",
+                "url": "https://youtube.com/watch?v=8ls6cc16jz8",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/8ls6cc16jz8/hq720.jpg"
+            },
+            {
+                "title": "මෑ කරල් මෙහෙම හැදුවොත් හැමෝම උයපු විදිහ අහයි.හරිම රසයි,හරි සරලයි. Long Beans/ Snake Beans Curry",
+                "url": "https://youtube.com/watch?v=WZDV6aEtWto",
+                "duration": "6:36",
+                "thumbnail": "https://i.ytimg.com/vi/WZDV6aEtWto/hq720.jpg"
+            },
+            {
+                "title": "මෑ කරල් මෙහෙම හදලා බලන්නකෝ රසට සුවඳට නරක් නොවී බත් මුලට බදින්න මරු | long beans recipe sinhala",
+                "url": "https://youtube.com/watch?v=gBdSRjWIhdM",
+                "duration": "6:21",
+                "thumbnail": "https://i.ytimg.com/vi/gBdSRjWIhdM/hq720.jpg"
+            },
+            {
+                "title": "විනාඩි 3න් මෑ කරල් රසට තෙල් දාමු | by #cookwith_shey #SRI LANKAN #LONG_BEANS CURRY WITHIN 3 MINUTES",
+                "url": "https://youtube.com/watch?v=gr6RTDxxWVg",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/gr6RTDxxWVg/hq720.jpg"
+            },
+            {
+                "title": "අපේ පැරැන්නන්ගේ ක්‍රමයට මෑ කරල් කරිය | නොකන අයත් මේ විදියටනම් කයි |Long Beans Curry Recipe| Maakaral",
+                "url": "https://youtube.com/watch?v=uTQ672_3I_4",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/uTQ672_3I_4/frame0.jpg"
+            },
+            {
+                "title": "මෑ කරල් කන්න කලින් අනිවාර්යෙන්ම බලන්න. මෑ කරල් වල හිතකර ප්‍රතිලාභ",
+                "url": "https://youtube.com/watch?v=q7lBn2wppmA",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/q7lBn2wppmA/hqdefault.jpg"
+            },
+            {
+                "title": "සම ආරක්ෂා කරන මෑකරල් ඇට කරිය | Makaral Curry | Long beans curry | Makaral kirata | makaral theldala",
+                "url": "https://youtube.com/watch?v=ao2-KDN6mOk",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/ao2-KDN6mOk/hq720.jpg"
+            },
+            {
+                "title": "Long Beans | ඕනම කාලෙක වැවෙන මෑකරල් | | GREEN HOME SL",
+                "url": "https://youtube.com/watch?v=eFnVelrDRdE",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/eFnVelrDRdE/hq720.jpg"
+            },
+            {
+                "title": "මෑකරල් කෑවොත් වෙන දේ දන්නවා ද : Health benefits of Yard Long Beans",
+                "url": "https://youtube.com/watch?v=8ucLRxaygcU",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/8ucLRxaygcU/frame0.jpg"
+            },
+            {
+                "title": "how to treat long beans මෑ කරල් වැල් තරුණ කරන රහස් makaral wagawa sinhala මෑ කරල් වගාව",
+                "url": "https://youtube.com/watch?v=Q_THIfFFReA",
+                "duration": "6:16",
+                "thumbnail": "https://i.ytimg.com/vi/Q_THIfFFReA/hq720.jpg"
+            },
+            {
+                "title": "ලේසියෙන්ම මෑ කරල් ගෙදරම හදමු - How to grow long beans at home very simply with more harvest",
+                "url": "https://youtube.com/watch?v=GbotpBuDHew",
+                "duration": "12:10",
+                "thumbnail": "https://i.ytimg.com/vi/GbotpBuDHew/hqdefault.jpg"
+            },
+            {
+                "title": "මෑ මෙහෙම කෑවොත් පුදුම වෙයි | Ma Karal | Long Beans | @mskitchen3708",
+                "url": "https://youtube.com/watch?v=nPnf6pbkxOE",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/nPnf6pbkxOE/hq720.jpg"
+            },
+            {
+                "title": "මේ විදියට මෑකරල් හැදුවොත් පුදුම රසක්😋👌/ Long beans curry sinhala.",
+                "url": "https://youtube.com/watch?v=PdsZgh8j_18",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/PdsZgh8j_18/hq720.jpg"
+            },
+            {
+                "title": "මෑකරල් කෑවොත් වෙන දේ දන්නවා ද : Health benefits of Yard Long Beans",
+                "url": "https://youtube.com/watch?v=g28ij7sKhQY",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/g28ij7sKhQY/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gastric Disorders",
-      "sinhala": "ආමාශගත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds",
-    "Roots",
-    "Flowers",
-    "Peduncles"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

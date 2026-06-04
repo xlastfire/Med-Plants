@@ -1,36 +1,695 @@
 {
-  "scientificName": "Drosera burmanni Vahl",
-  "synonyms": [
-    "Drosera burmanni var. dietrichiana (Rchb.f.) Diels",
-    "Drosera dietrichiana Rchb.f.",
-    "Drosera indica var. dietrichiana (Rchb.f.) Diels"
-  ],
-  "familyName": "DROSERACEAE",
-  "englishNames": [
-    "Sundew",
-    "Tropical Sundew",
-    "Burmann's Sundew"
-  ],
-  "sinhalaName": "Vatassa (වටැස්ස)",
-  "description": "මෙය වාර්ෂික පැළෑටියක් වන අතර, විෂ්කම්භය සෙන්ටිමීටර 2ක් පමණ වේ. මෙය ඉතා වේගයෙන් කෘමීන් අල්ලා ගන්නා සන්ඩියු (sundew) විශේෂයක් වන අතර, එහි පත්‍ර තත්පර කිහිපයකින් කෘමියෙකු වටා එතීමට සමත් වේ. පත්‍ර කුඤ්ඤාකාර (wedge-shaped) වන අතර, දිග මිලිමීටර 8-10ක් සහ පළල මිලිමීටර 5-6ක් වේ. පුෂ්ප මංජරිය අසීර්ෂක (racemose) වන අතර, උස සෙන්ටිමීටර 6-15ක් වේ. මල් 3-10 බැගින් වූ කණ්ඩායම් වශයෙන් හටගන්නා අතර, සෑම කණ්ඩායමකම මල් 1-3ක් බැගින් පිහිටයි.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "2061",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/QvfndpLy/plant00444-02061.jpg"
+    "scientificName": "Drosera burmanni Vahl",
+    "synonyms": [
+        "Drosera burmanni var. dietrichiana (Rchb.f.) Diels",
+        "Drosera dietrichiana Rchb.f.",
+        "Drosera indica var. dietrichiana (Rchb.f.) Diels"
+    ],
+    "familyName": "DROSERACEAE",
+    "englishNames": [
+        "Sundew",
+        "Tropical Sundew",
+        "Burmann's Sundew"
+    ],
+    "sinhalaName": "Vatassa (වටැස්ස)",
+    "description": "මෙය වාර්ෂික පැළෑටියක් වන අතර, විෂ්කම්භය සෙන්ටිමීටර 2ක් පමණ වේ. මෙය ඉතා වේගයෙන් කෘමීන් අල්ලා ගන්නා සන්ඩියු (sundew) විශේෂයක් වන අතර, එහි පත්‍ර තත්පර කිහිපයකින් කෘමියෙකු වටා එතීමට සමත් වේ. පත්‍ර කුඤ්ඤාකාර (wedge-shaped) වන අතර, දිග මිලිමීටර 8-10ක් සහ පළල මිලිමීටර 5-6ක් වේ. පුෂ්ප මංජරිය අසීර්ෂක (racemose) වන අතර, උස සෙන්ටිමීටර 6-15ක් වේ. මල් 3-10 බැගින් වූ කණ්ඩායම් වශයෙන් හටගන්නා අතර, සෑම කණ්ඩායමකම මල් 1-3ක් බැගින් පිහිටයි.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "2061",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/QvfndpLy/plant00444-02061.jpg"
+        },
+        {
+            "image_id": "2062",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/gbVBKnX1/plant00444-02062.jpg"
+        },
+        {
+            "image_id": "2063",
+            "caption": "Laft with trapped insect (PMR)",
+            "url": "https://i.ibb.co/DD8Nx5xK/plant00444-02063.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Drosera burmannii | වටැස්ස is a carnivorous plant that belongs to Drosera genera",
+                "url": "https://youtube.com/watch?v=dzvVBZrbKcA",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/dzvVBZrbKcA/hqdefault.jpg"
+            },
+            {
+                "title": "kadulessa   (Drosera) - කඳුලැස්ස",
+                "url": "https://youtube.com/watch?v=FSyyukhcSz0",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/FSyyukhcSz0/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "දැනට ලෝකයේ දකින්නට ලැබෙන​ භායානකම මාංශ භක්ෂක ශාක​ 10 | Top 10 most dangerous carnivorous plant",
+                "url": "https://youtube.com/watch?v=dOGTLCBn74w",
+                "duration": "8:07",
+                "thumbnail": "https://i.ytimg.com/vi/dOGTLCBn74w/hq720.jpg"
+            },
+            {
+                "title": "ශාක ලෝකයේ කිණිතුල්ලා අග මුල නැති වැල Dodder Plant(Cuscuta)",
+                "url": "https://youtube.com/watch?v=edK1tfiBDzA",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/edK1tfiBDzA/hq720.jpg"
+            },
+            {
+                "title": "මාංශ භක්ෂක ශාක/මස් කන ගස් පැළෑටි හා ගස්වැල්/carnivorous plants/singithi iskole",
+                "url": "https://youtube.com/watch?v=6-yE4YlxTZI",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/6-yE4YlxTZI/hqdefault.jpg"
+            },
+            {
+                "title": "කෲඩියා සෙලනිකා වෘක්ෂයට සංඝරත්නයෙන් ආශීර්වාදයක් - යලි ශාකය වර්ධනය වේ දැයි සැකයි? - Hiru News",
+                "url": "https://youtube.com/watch?v=aXamP6QcE1k",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/aXamP6QcE1k/hq720.jpg"
+            },
+            {
+                "title": "සතුන් ගොඳුරු කර ගන්නා  (කෘම් භක්ෂක) ශාක l පැළෑටි හා ගස් වැල් l sathun goduru karaganna mal parisara",
+                "url": "https://youtube.com/watch?v=woLSZ_2kOtw",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/woLSZ_2kOtw/hqdefault.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්කා | දියවැඩියාවට ගුණ දෙන පිටවක්කා | pitawakka |",
+                "url": "https://youtube.com/watch?v=ki1cVB2KQiE",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/ki1cVB2KQiE/hqdefault.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "සාදික්කා හා වසාවාසි වල ගුණ අගුණ හරියට දැනගමු | සාදික්කා | වසාවාසි | Sadikka | Nutmeg",
+                "url": "https://youtube.com/watch?v=Mttq7F2oyWQ",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/Mttq7F2oyWQ/hqdefault.jpg"
+            },
+            {
+                "title": "Haathawariya - Medicinal plants |හාතවාරිය ඔසු ගුණ",
+                "url": "https://youtube.com/watch?v=jcEX06gVbBs",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/jcEX06gVbBs/hqdefault.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "තල ඇට මෙච්චර ගුණ දායකද? | Danuwath",
+                "url": "https://youtube.com/watch?v=Kenl3c4w0Uo",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/Kenl3c4w0Uo/hq720.jpg"
+            },
+            {
+                "title": "අටලොස් වැදෑරුම් ස්ත්‍රී ගුණාංග Atalos wadarum sthri gunanga",
+                "url": "https://youtube.com/watch?v=WOSgJcNOrnw",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/WOSgJcNOrnw/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "වද මල් යුෂ මගින් ලැබෙන සෞඛ්‍ය ප්‍රතිලාභ 9ක් - 9 Health Benefits of Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=xRInp9A-z18",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/xRInp9A-z18/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වල විශ්මිත ගුණ. Ugurassa fruit.",
+                "url": "https://youtube.com/watch?v=aW2FO176HVU",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/aW2FO176HVU/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් වෘෂභ ලග්නයේනම් විතරක් මේක බලන්න Taurus Zodiac Meaning | Simple Traits & Personality Guide",
+                "url": "https://youtube.com/watch?v=M8DE7mvxC9M",
+                "duration": "18:24",
+                "thumbnail": "https://i.ytimg.com/vi/M8DE7mvxC9M/hq720.jpg"
+            },
+            {
+                "title": "Pawatta|Adathoda|කැස්ස ඇදුම ඇතුළු රෝග බොහෝමයකට ගුණදෙන -පාවට්ටා(ආඩතෝඩා )",
+                "url": "https://youtube.com/watch?v=ddPZKZjtGco",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/ddPZKZjtGco/hq720.jpg"
+            },
+            {
+                "title": "රෝග 109 කට ගුණ දෙන වටිනා ශාකය The Miracle Plant That Heals 109 Diseases / Munnoria pinnata",
+                "url": "https://youtube.com/watch?v=PWtpgond4kA",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/PWtpgond4kA/hq720.jpg"
+            },
+            {
+                "title": "''කලාඳුරු අල '' ගුණ අගුණ. රෝග රැසකට ගුණදෙන විශ්මිත ඖෂධ.",
+                "url": "https://youtube.com/watch?v=lKIPz0tGmWc",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/lKIPz0tGmWc/hq720.jpg"
+            },
+            {
+                "title": "ලුණුවරණ   Crateva adansonii ලෙඩ රෝග රැසකට අවශය වටිනා ශාකයක් මෙහෙම දකින්න ලැබෙන්නෙ කලාතුරකින් 🙏🙏🙏",
+                "url": "https://youtube.com/watch?v=RiNshNWi-Ac",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/RiNshNWi-Ac/hq720.jpg"
+            },
+            {
+                "title": "වල් පැළෑටියක් යැයි සිතා ගලවා දමන මහා ඖෂධ ගුණ පිරි ඔසුව - Health Benefits of Stone Breaker",
+                "url": "https://youtube.com/watch?v=kW8LYRHv0RE",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/kW8LYRHv0RE/hq720.jpg"
+            },
+            {
+                "title": "පාවට්ටා /ආඩතෝඩා/අගල්ආධාර. Medicinal value of Pavatta",
+                "url": "https://youtube.com/watch?v=lcyrrINSThE",
+                "duration": "6:17",
+                "thumbnail": "https://i.ytimg.com/vi/lcyrrINSThE/hq720.jpg"
+            },
+            {
+                "title": "ඉන්දියාවෙන් අත්‍යවශ්‍ය ඖශධ වර්ග 17ක් මෙරටට පරිත්‍යාග කරයි",
+                "url": "https://youtube.com/watch?v=mXTtb3uyQYI",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/mXTtb3uyQYI/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ වරම අරගෙන රෝගීන් සුවපත් කරන්න/asvidha astrology",
+                "url": "https://youtube.com/watch?v=-C3faGUEAgI",
+                "duration": "20:44",
+                "thumbnail": "https://i.ytimg.com/vi/-C3faGUEAgI/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල 32ක් | වල් පැල කියල ගලවලා විසිකරන වටිනා ඔසු | Osu Pela 32 k Menna | ඖෂධීය ශාක හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=Fy5R3h2W1kw",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/Fy5R3h2W1kw/hq720.jpg"
+            },
+            {
+                "title": "මේ තරම් වටින වර්ග අඩු මිලකට ගන්න පුලුවන් හොදම විදිය#,anthuriumwagawasinhala#fypvira#plants0765647812",
+                "url": "https://youtube.com/watch?v=4VzoLGrf7Gg",
+                "duration": "10:05",
+                "thumbnail": "https://i.ytimg.com/vi/4VzoLGrf7Gg/hqdefault.jpg"
+            },
+            {
+                "title": "වැඩි අවධානයක් යොමුකළ යුතු වෛරස් රෝග 3 ක් ගැන!! සෞඛ්‍ය අංශ අවධාරණයෙන් කිව්ව කථාව.",
+                "url": "https://youtube.com/watch?v=OB4RDBvtuW0",
+                "duration": "37:03",
+                "thumbnail": "https://i.ytimg.com/vi/OB4RDBvtuW0/hq720.jpg"
+            },
+            {
+                "title": "මත්පැන් ඔබේ ශරීරයට හානි කරන විදිහ මෙන්න  I SUWADIWI SAWIYA| සුවදිවි සවිය",
+                "url": "https://youtube.com/watch?v=5eydFVxZBBU",
+                "duration": "6:01",
+                "thumbnail": "https://i.ytimg.com/vi/5eydFVxZBBU/hq720.jpg"
+            },
+            {
+                "title": "ජනතාවට වස කන්න දීල බලා සිටින සෞඛ්‍ය අමාත්‍යාංශය.......",
+                "url": "https://youtube.com/watch?v=IyoJFo-BOuE",
+                "duration": "13:31",
+                "thumbnail": "https://i.ytimg.com/vi/IyoJFo-BOuE/hq720.jpg"
+            },
+            {
+                "title": "බහුලව පැතිරෙන ඩෙංගු රෝගය ගැන ඔබ මේ දේවල් දන්නවද I SUWADIWI SAWIYA| සුවදිවි සවිය",
+                "url": "https://youtube.com/watch?v=V21uMb6jSdA",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/V21uMb6jSdA/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද ක්‍රම හරහා සිරෝසිස් රෝගය සුවකළ හැකි ආකාරය ඔබ දන්නවද | SUWADIWI SAWIYA|  සුවදිවි සවිය",
+                "url": "https://youtube.com/watch?v=TbhxNkdg4bo",
+                "duration": "3:55",
+                "thumbnail": "https://i.ytimg.com/vi/TbhxNkdg4bo/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල්, ආතරයිටිස් මුලින්ම උපුටා දමන තෛලමය ප්‍රතිකාරයේ හාස්කම්!",
+                "url": "https://youtube.com/watch?v=zP9w7rvW4kk",
+                "duration": "24:45",
+                "thumbnail": "https://i.ytimg.com/vi/zP9w7rvW4kk/hq720.jpg"
+            },
+            {
+                "title": "හාතාවාරිය ශාකයේ ඔබ නොදත් ඖෂධීය ගුණ | Hathawariya | Asparagus benefits🌿",
+                "url": "https://youtube.com/watch?v=lJUZva0jNgw",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/lJUZva0jNgw/hqdefault.jpg"
+            },
+            {
+                "title": "ඔසු පැල 10ක ගුණ දැනගමුද? | Benifits of 10 Herbal Plants | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=Cpdzcr3fXu0",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Cpdzcr3fXu0/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රැසක් සහිත වරා ශාකය | Calotropis gigantea / wara | Episode 30",
+                "url": "https://youtube.com/watch?v=3StW_-_5r9U",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/3StW_-_5r9U/hq720.jpg"
+            },
+            {
+                "title": "Rasakida | රසකිඳ ශාකයේ ඔසු ගුණ වරුන | @osu-1380",
+                "url": "https://youtube.com/watch?v=n-Vn_83Jk-w",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/n-Vn_83Jk-w/hq720.jpg"
+            },
+            {
+                "title": "ඖෂදිය ගුණ ඇති වරා ශාකයෙන් ගත හැකි ප්‍රයෝජන - calotropis gigantea / Wara",
+                "url": "https://youtube.com/watch?v=zZvrg5FXEsE",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/zZvrg5FXEsE/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "ඉබේ හැදෙන වල්පැළයක මෙච්චර ගුණයක් 😲 | බැලතණ වල ගුණ | @sakalawaga",
+                "url": "https://youtube.com/watch?v=aOrClsdu1tI",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/aOrClsdu1tI/hqdefault.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු වලට ගුණ කෑම මෙන්න/Best food for kidney health/#kidneyhealth @Mediupdater #healthykidneys",
+                "url": "https://youtube.com/watch?v=0HRfKGKP0ug",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/0HRfKGKP0ug/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් මිනිසාට ඇති ප්‍රයෝජන, අප අවට සත්තු,sathungen minisata athi preyojana, Apa awata saththu,",
+                "url": "https://youtube.com/watch?v=QKzQ_lIBcr4",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/QKzQ_lIBcr4/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of rain | වැස්සෙන් ඇති ප්‍රයෝජන | 3,4,5 ශ්‍රේණි සදහා පෙරහුරු රචනා | scholarship exam",
+                "url": "https://youtube.com/watch?v=8eb8UaD2Eb4",
+                "duration": "9:54",
+                "thumbnail": "https://i.ytimg.com/vi/8eb8UaD2Eb4/hqdefault.jpg"
+            },
+            {
+                "title": "වා පිත් සෙම් යන තුන්දොස කියන්නේ කුමක්ද? | What is the three dosas of Va Pith Sem?",
+                "url": "https://youtube.com/watch?v=yVZBb1yVNNM",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/yVZBb1yVNNM/hq720.jpg"
+            },
+            {
+                "title": "මුළුතැන්ගෙයි භාවිතවන උපකරණ",
+                "url": "https://youtube.com/watch?v=FQpidG-lkS8",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/FQpidG-lkS8/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "Tissa Jananayake - Episode 50 | ශාක සහ කඩොලාන වල වැදගත්කම",
+                "url": "https://youtube.com/watch?v=o1r4WBRH-2A",
+                "duration": "36:50",
+                "thumbnail": "https://i.ytimg.com/vi/o1r4WBRH-2A/hq720.jpg"
+            },
+            {
+                "title": "Grade4 ජල වාෂ්ප වලින් ගන්නා ප්රයෝජන",
+                "url": "https://youtube.com/watch?v=sAqozMVL_rQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/sAqozMVL_rQ/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "Benifits of eating fruits- පලතුරු ආහාරයට ගැනීමේ ඇති වැදගත්කම.",
+                "url": "https://youtube.com/watch?v=59FPUrLrdzQ",
+                "duration": "12:00",
+                "thumbnail": "https://i.ytimg.com/vi/59FPUrLrdzQ/hqdefault.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන - Benefits of Water",
+                "url": "https://youtube.com/watch?v=kt5Lgg90GcA",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/kt5Lgg90GcA/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "Teak Plant Benefits: Spiritual Uses & Powerful Health Secrets of Teak Leaves",
+                "url": "https://youtube.com/watch?v=w5g_pqslV6g",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/w5g_pqslV6g/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Wormwood",
+                "url": "https://youtube.com/watch?v=F3ZaPJN6Ml0",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/F3ZaPJN6Ml0/hq720.jpg"
+            },
+            {
+                "title": "Amazing Benefits of Tawa Tawa Plant | Tawa Tawa Secret Health Benefits",
+                "url": "https://youtube.com/watch?v=oTsdrVWwBU8",
+                "duration": "6:44",
+                "thumbnail": "https://i.ytimg.com/vi/oTsdrVWwBU8/hq720.jpg"
+            },
+            {
+                "title": "Ashitaba Plant: Health Benefits (Tomorrow Leaf)",
+                "url": "https://youtube.com/watch?v=pxJLhqXJS3Q",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/pxJLhqXJS3Q/hq720.jpg"
+            },
+            {
+                "title": "Guyabano (Soursop): Health Benefits and Uses",
+                "url": "https://youtube.com/watch?v=Ri1G6dxmHng",
+                "duration": "33:10",
+                "thumbnail": "https://i.ytimg.com/vi/Ri1G6dxmHng/hq720.jpg"
+            },
+            {
+                "title": "වට්ටක්කා ඇට කෑවම වෙන දේ මෙන්න : Pumpkin Seeds Benefits",
+                "url": "https://youtube.com/watch?v=I9uPO01zVzE",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/I9uPO01zVzE/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "Sweet Potato Leaves: Benefits and How To Grow",
+                "url": "https://youtube.com/watch?v=_U7lEQ8k2wo",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/_U7lEQ8k2wo/hq720.jpg"
+            },
+            {
+                "title": "වදමල් පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක් | Health Benefits Of Hibiscus Tea | Wadamal Bima",
+                "url": "https://youtube.com/watch?v=fxdjqg4xd4k",
+                "duration": "11:16",
+                "thumbnail": "https://i.ytimg.com/vi/fxdjqg4xd4k/hq720.jpg"
+            },
+            {
+                "title": "Tawa Tawa Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=hN5i3U25EMA",
+                "duration": "6:19",
+                "thumbnail": "https://i.ytimg.com/vi/hN5i3U25EMA/hq720.jpg"
+            },
+            {
+                "title": "Top 5 Benefits of St. John's Wort - Herb Spotlight",
+                "url": "https://youtube.com/watch?v=1E7Va2b8e1g",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/1E7Va2b8e1g/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits of Sage You Should Know | Health Benefits of Sage Leaves",
+                "url": "https://youtube.com/watch?v=8sI6y2FmYBU",
+                "duration": "8:34",
+                "thumbnail": "https://i.ytimg.com/vi/8sI6y2FmYBU/hq720.jpg"
+            },
+            {
+                "title": "Bitter Leaf: Benefits for Health",
+                "url": "https://youtube.com/watch?v=gMUH7ap8cdE",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/gMUH7ap8cdE/hq720.jpg"
+            },
+            {
+                "title": "පෝෂණ ගුණයෙන් සපිරි වට්ටක්කා ඇට.",
+                "url": "https://youtube.com/watch?v=dk-X4qzg3yQ",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/dk-X4qzg3yQ/hq720.jpg"
+            },
+            {
+                "title": "Teak Plant Benefits: Spiritual Uses & Powerful Health Secrets of Teak Leaves",
+                "url": "https://youtube.com/watch?v=vWcANk8ePTg",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/vWcANk8ePTg/frame0.jpg"
+            },
+            {
+                "title": "ජපන් බටු පෝෂණ ගබඩාවක්ද? නැතිනම් මාරාන්තික අනතුරක්ද? 🌿",
+                "url": "https://youtube.com/watch?v=eWHlkehp63Q",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/eWHlkehp63Q/hq720.jpg"
+            },
+            {
+                "title": "අතිවිශිෂ්ඨ ගුණ වලින් හෙබි අපේ ඔසුව | Ithana | Ceylon Agri | Episode 142",
+                "url": "https://youtube.com/watch?v=SOCAHEP3yTA",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/SOCAHEP3yTA/hq720.jpg"
+            },
+            {
+                "title": "පාවට්ටා ශාකය | pawatta shakaya | pawatta guna | Adathoda |",
+                "url": "https://youtube.com/watch?v=Ed1HYzfnmqo",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/Ed1HYzfnmqo/hq720.jpg"
+            },
+            {
+                "title": "🔴LIVE | අද දෙරණ 6.55 ප්‍රධාන පුවත් විකාශය - 2026.06.04 | Ada Derana Prime Time News Bulletin",
+                "url": "https://youtube.com/watch?v=LLiADooEJxA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/LLiADooEJxA/hq720.jpg"
+            },
+            {
+                "title": "විශේෂ හාස්කම් දේවමෙහෙය / SPECIAL HEALING SERVICE 2026.06.04",
+                "url": "https://youtube.com/watch?v=AAAMrPYx1VI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/AAAMrPYx1VI/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "6 Free Weeds That Are Stronger Than Antibiotics",
+                "url": "https://youtube.com/watch?v=VXBU7B4mqwU",
+                "duration": "14:46",
+                "thumbnail": "https://i.ytimg.com/vi/VXBU7B4mqwU/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු වල විෂ සෝදලා හරින්න බොන්නම ඕන බීම වර්ග 6ක් | 6 drinks Cleanse Your Kidneys Naturally",
+                "url": "https://youtube.com/watch?v=jVdnQz2lrBc",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/jVdnQz2lrBc/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "Chemistry Ventilation | වාතභංග 2022 | wathabhanga 2022 | pisonia grandis",
+                "url": "https://youtube.com/watch?v=Hxfa8gHKCCE",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/Hxfa8gHKCCE/hqdefault.jpg"
+            },
+            {
+                "title": "Hathawariya |ගර්භාෂය සිසිල් කරන  | ශරීර උෂ්ණය නිවන ඔසු | හාතාවාරිය",
+                "url": "https://youtube.com/watch?v=Jft8Bz9h2vc",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/Jft8Bz9h2vc/hq720.jpg"
+            },
+            {
+                "title": "වදමල් තේ වල ඇත්ත කතාව | Hibiscus Tea & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=jL-fexKbBb0",
+                "duration": "11:54",
+                "thumbnail": "https://i.ytimg.com/vi/jL-fexKbBb0/hq720.jpg"
+            },
+            {
+                "title": "පටස් ගාලා සීනි බහින බලගතු දේශීය ඔසු වර්ග - Foods that Control Blood Sugar",
+                "url": "https://youtube.com/watch?v=iF6BxqdlhbI",
+                "duration": "10:41",
+                "thumbnail": "https://i.ytimg.com/vi/iF6BxqdlhbI/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka  - What is the best treatment for wheezing?",
+                "url": "https://youtube.com/watch?v=5HfxKwuh44w",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/5HfxKwuh44w/hq720.jpg"
+            },
+            {
+                "title": "රක්ත වාත රෝගය පිළිබද දැනගනිමු -  Gout",
+                "url": "https://youtube.com/watch?v=Ekmz43S3gkA",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/Ekmz43S3gkA/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "වට්ටක්කා වල ඇති කවුරුත් නොදන්නා විශ්මිත ගුණ - Amazing properties of pumpkin For a healthy life",
+                "url": "https://youtube.com/watch?v=vrvnJ7vDeCY",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/vrvnJ7vDeCY/hq720.jpg"
+            },
+            {
+                "title": "ශාකවලට උදව් කරන සත්තු",
+                "url": "https://youtube.com/watch?v=lco1MuIFsW4",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lco1MuIFsW4/hq720.jpg"
+            },
+            {
+                "title": "Grade 4|parisaraya|Benefits of water vapor|4 ශ්‍රේණිය| පරිසරය| ජලය",
+                "url": "https://youtube.com/watch?v=0Gz2stmRqB0",
+                "duration": "7:27",
+                "thumbnail": "https://i.ytimg.com/vi/0Gz2stmRqB0/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "නිවස ඇතුලත තියන්න හොඳම ශාකය | Oxigen Plant | Snake Plant | Ceylon Agri | Episode 161",
+                "url": "https://youtube.com/watch?v=tXaQkLW-uGo",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/tXaQkLW-uGo/hq720.jpg"
+            },
+            {
+                "title": "Parampara Sinhala | X Generation, Y Generation, Z & Alpha, මොනවද මේ පරම්පරා, Sinhala Education",
+                "url": "https://youtube.com/watch?v=YPHcCIp_DVg",
+                "duration": "14:35",
+                "thumbnail": "https://i.ytimg.com/vi/YPHcCIp_DVg/hq720.jpg"
+            },
+            {
+                "title": "තුන් දොස් නසා නවග්‍රහ දොස් සමනය කරන ඖෂධීය සස්සද ශාකය් දැනූම",
+                "url": "https://youtube.com/watch?v=8tIeh2N9oqM",
+                "duration": "8:21",
+                "thumbnail": "https://i.ytimg.com/vi/8tIeh2N9oqM/hq720.jpg"
+            },
+            {
+                "title": "ආහාර සඳහා ගන්නා මල් වර්ග / 3.4.5 පරිසරය",
+                "url": "https://youtube.com/watch?v=JYMwGdiu1go",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/JYMwGdiu1go/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Pumpkin Seeds sinhala - Health tips sinhala - Fitness - Gym sinhala - protein sinhala",
+                "url": "https://youtube.com/watch?v=nTZa2zEdUVQ",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/nTZa2zEdUVQ/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Bitter Leaf Health Benefits ( & SIDE EFFECTS)",
+                "url": "https://youtube.com/watch?v=qtQZNnaVCDQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/qtQZNnaVCDQ/hq720.jpg"
+            },
+            {
+                "title": "13 Amazing Health Benefits Of Dandelion Tea",
+                "url": "https://youtube.com/watch?v=M4rxtjAF3KA",
+                "duration": "12:51",
+                "thumbnail": "https://i.ytimg.com/vi/M4rxtjAF3KA/hq720.jpg"
+            },
+            {
+                "title": "12 Effective Benefits Of Hawthorn Berry On Your Health | Healthspectra",
+                "url": "https://youtube.com/watch?v=MSVrQAWq4NM",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/MSVrQAWq4NM/hq720.jpg"
+            },
+            {
+                "title": "BITTER LEAF BENEFITS - Top 15 Health benefits of bitter leaf tea",
+                "url": "https://youtube.com/watch?v=5FqIzOvxi0Q",
+                "duration": "6:17",
+                "thumbnail": "https://i.ytimg.com/vi/5FqIzOvxi0Q/hq720.jpg"
+            },
+            {
+                "title": "Don’t Ignore Sweet Potato Leaves! 7 Amazing Health Benefits You Should Know",
+                "url": "https://youtube.com/watch?v=CxwyBey_-rs",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/CxwyBey_-rs/hq720.jpg"
+            },
+            {
+                "title": "Teak Plant Benefits: Spiritual Uses & Powerful Health Secrets of Teak Leaves",
+                "url": "https://youtube.com/watch?v=Kwp_tFqlJy8",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/Kwp_tFqlJy8/frame0.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "2062",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/gbVBKnX1/plant00444-02062.jpg"
-    },
-    {
-      "image_id": "2063",
-      "caption": "Laft with trapped insect (PMR)",
-      "url": "https://i.ibb.co/DD8Nx5xK/plant00444-02063.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

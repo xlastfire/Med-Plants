@@ -1,157 +1,258 @@
 {
-  "scientificName": "Benincasa hispida (Thunb.) Cogn.",
-  "synonyms": [
-    "Benincasa cerifera Savi",
-    "Benincasa cylindrica Ser.",
-    "Benincasa hispida var. chieh-qua F.C.How",
-    "Benincasa pruriens (Parkinson) W.J.de Wilde & Duyfjes",
-    "Benincasa pruriens f. hispida (Thunb.) W.J.de Wilde & Duyfjes",
-    "Benincasa vacua (F.Muell.) F.Muell.",
-    "Cucurbita alba Roxb. ex Wight & Arn.",
-    "Cucurbita cerifera Fisch. ex Savi",
-    "Cucurbita farinosa Blume",
-    "Cucurbita hispida Thunb.",
-    "Cucurbita littoralis Hassk.",
-    "Cucurbita pruriens Parkinson",
-    "Cucurbita pruriens Seem.",
-    "Cucurbita vacua F.Muell.",
-    "Cucurbita villosa Blume",
-    "Gymnopetalum septemlobum Miq.",
-    "Lagenaria dasystemon Miq.",
-    "Lagenaria leucantha var. clavata Makino",
-    "Lagenaria leucantha var. hispida (Thunb.) Nakai",
-    "Lagenaria siceraria var. hispida (Thunb.) H.Hara",
-    "Lagenaria vulgaris var. hispida (Thunb.) Nakai",
-    "Pepo farinosus (Blume) Peterm.",
-    "Pepo villosus (Blume) Peterm."
-  ],
-  "familyName": "CUCURBITACEAE",
-  "englishNames": [
-    "White Gourd",
-    "Ash Pumpkin",
-    "Wax Gourd",
-    "Winter Melon",
-    "Fuzzy Gourd",
-    "Ash Gourd"
-  ],
-  "sinhalaName": "Alu puhul (අළු පුහුල්)",
-  "description": "ඝනකම සහ රළු රෝම සහිත (hispid) කඳන් සහිත විශාල බිම දිගේ ඇදෙන හෝ වැල් ලෙස නගින ශාකයකි; ප්‍රරෝහ (tendrils) දෙකට බෙදී ඇත (2-fid). පත්‍ර විෂ්කම්භය සෙන්ටිමීටර 10-25 ක් වන අතර වකුගඩු හැඩැති (reniform), හෘදයාකාර (cordate) සහ බොහෝ දුරට පත්‍ර ඛණ්ඩ 5 කින් යුක්ත වේ; පත්‍ර යටි පැත්ත රළු රෝම සහිතය (hispids); පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 7.5-10 ක් දිග වන අතර ග්‍රන්ථි රහිතය. මල් විශාලය, කහ පැහැතිය, ඒකලිංගික (monoecious) වන අතර තනිව පිහිටයි. පලතුරු සෙන්ටිමීටර 30-45 ක් දිග, පුළුල් සිලින්ඩරාකාර (broadly cylindric) හැඩැති, ඉළ ඇට නොමැති, රෝම සහිත වන අතර අවසානයේ ඉටි වැනි ආලේපයකින් (waxy bloom) වැසී පවතී; බීජ බොහෝ ඇත.",
-  "treatments": [
-    {
-      "treatment": "Malnutrition",
-      "sinhala": "මන්දපෝෂණ තත්ත්වයන් (පෝෂණ ඌනතා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Benincasa hispida (Thunb.) Cogn.",
+    "synonyms": [
+        "Benincasa cerifera Savi",
+        "Benincasa cylindrica Ser.",
+        "Benincasa hispida var. chieh-qua F.C.How",
+        "Benincasa pruriens (Parkinson) W.J.de Wilde & Duyfjes",
+        "Benincasa pruriens f. hispida (Thunb.) W.J.de Wilde & Duyfjes",
+        "Benincasa vacua (F.Muell.) F.Muell.",
+        "Cucurbita alba Roxb. ex Wight & Arn.",
+        "Cucurbita cerifera Fisch. ex Savi",
+        "Cucurbita farinosa Blume",
+        "Cucurbita hispida Thunb.",
+        "Cucurbita littoralis Hassk.",
+        "Cucurbita pruriens Parkinson",
+        "Cucurbita pruriens Seem.",
+        "Cucurbita vacua F.Muell.",
+        "Cucurbita villosa Blume",
+        "Gymnopetalum septemlobum Miq.",
+        "Lagenaria dasystemon Miq.",
+        "Lagenaria leucantha var. clavata Makino",
+        "Lagenaria leucantha var. hispida (Thunb.) Nakai",
+        "Lagenaria siceraria var. hispida (Thunb.) H.Hara",
+        "Lagenaria vulgaris var. hispida (Thunb.) Nakai",
+        "Pepo farinosus (Blume) Peterm.",
+        "Pepo villosus (Blume) Peterm."
+    ],
+    "familyName": "CUCURBITACEAE",
+    "englishNames": [
+        "White Gourd",
+        "Ash Pumpkin",
+        "Wax Gourd",
+        "Winter Melon",
+        "Fuzzy Gourd",
+        "Ash Gourd"
+    ],
+    "sinhalaName": "Alu puhul (අළු පුහුල්)",
+    "description": "ඝනකම සහ රළු රෝම සහිත (hispid) කඳන් සහිත විශාල බිම දිගේ ඇදෙන හෝ වැල් ලෙස නගින ශාකයකි; ප්‍රරෝහ (tendrils) දෙකට බෙදී ඇත (2-fid). පත්‍ර විෂ්කම්භය සෙන්ටිමීටර 10-25 ක් වන අතර වකුගඩු හැඩැති (reniform), හෘදයාකාර (cordate) සහ බොහෝ දුරට පත්‍ර ඛණ්ඩ 5 කින් යුක්ත වේ; පත්‍ර යටි පැත්ත රළු රෝම සහිතය (hispids); පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 7.5-10 ක් දිග වන අතර ග්‍රන්ථි රහිතය. මල් විශාලය, කහ පැහැතිය, ඒකලිංගික (monoecious) වන අතර තනිව පිහිටයි. පලතුරු සෙන්ටිමීටර 30-45 ක් දිග, පුළුල් සිලින්ඩරාකාර (broadly cylindric) හැඩැති, ඉළ ඇට නොමැති, රෝම සහිත වන අතර අවසානයේ ඉටි වැනි ආලේපයකින් (waxy bloom) වැසී පවතී; බීජ බොහෝ ඇත.",
+    "treatments": [
+        {
+            "treatment": "Malnutrition",
+            "sinhala": "මන්දපෝෂණ තත්ත්වයන් (පෝෂණ ඌනතා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burns and Scalds",
+            "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Polydipsia",
+            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worm diseases",
+            "sinhala": "පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gastritis",
+            "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Infection",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Root",
+        "Stem",
+        "Fruit",
+        "Flower",
+        "Seeds",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "2034",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/jkK1z4k7/plant00357-02034.jpg"
+        },
+        {
+            "image_id": "2035",
+            "caption": "Fruit (PMR)",
+            "url": "https://i.ibb.co/xSbLy5gC/plant00357-02035.jpg"
+        },
+        {
+            "image_id": "2036",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/LDVCYpqs/plant00357-02036.jpg"
+        },
+        {
+            "image_id": "2037",
+            "caption": "Leaf- Lower surface (PMR)",
+            "url": "https://i.ibb.co/20kmD8Bx/plant00357-02037.jpg"
+        },
+        {
+            "image_id": "2038",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/1tvwvztJ/plant00357-02038.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "අළු පුහුලේ ඖෂධීය ගුණ-Ash pumpkin",
+                "url": "https://youtube.com/watch?v=HvF7BZu5Hm4",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/HvF7BZu5Hm4/hq720.jpg"
+            },
+            {
+                "title": "අලු පුහුල් - Alu Puhul",
+                "url": "https://youtube.com/watch?v=jpRwEwIE4E4",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/jpRwEwIE4E4/hq720.jpg"
+            },
+            {
+                "title": "අළු පුහුල් වගා කරන්නේ මෙහෙමයි",
+                "url": "https://youtube.com/watch?v=gj6i6W_hLVg",
+                "duration": "9:35",
+                "thumbnail": "https://i.ytimg.com/vi/gj6i6W_hLVg/hqdefault.jpg"
+            },
+            {
+                "title": "අළු පුහුල්",
+                "url": "https://youtube.com/watch?v=KsGL2M8aieo",
+                "duration": "0:39",
+                "thumbnail": "https://i.ytimg.com/vi/KsGL2M8aieo/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු ගල් වලට හොද ආහාරයක් අළු පුහුල්",
+                "url": "https://youtube.com/watch?v=SdtPrHK0ld0",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/SdtPrHK0ld0/hqdefault.jpg"
+            },
+            {
+                "title": "අළු පුහුල් බස්නය|Herbel Medicines|IIM|Unversity Of Colombo",
+                "url": "https://youtube.com/watch?v=a_eLIGvMK4Y",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/a_eLIGvMK4Y/hq720.jpg"
+            },
+            {
+                "title": "අළු පුහුලේ ඖෂධීය ගුණ-Ash pumpkin",
+                "url": "https://youtube.com/watch?v=bdR9Ykpf4Yc",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/bdR9Ykpf4Yc/frame0.jpg"
+            },
+            {
+                "title": "ඉතා ගුණදායක පුහුල් පානය | How to make Healthy Winter Melon Juice | Ash Gourd Juice",
+                "url": "https://youtube.com/watch?v=Fs7jew7pnIw",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/Fs7jew7pnIw/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්ත හැඩ කරන බෝග 12 - අළු පුහුල්",
+                "url": "https://youtube.com/watch?v=TgyNe6GGQpo",
+                "duration": "1:10",
+                "thumbnail": "https://i.ytimg.com/vi/TgyNe6GGQpo/hq720.jpg"
+            },
+            {
+                "title": "පුහුල් වගාව.ලෙඩ රෝග රැසකට ⁣ ගුණ දෙන පුහුල් ගෙඩියෙ කතාව කෙටියෙන්.ඇස්වහ දෝෂ දුරු කරන බෙහෙත් ගෙඩිය.",
+                "url": "https://youtube.com/watch?v=2jwxl5s21a8",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/2jwxl5s21a8/hq720.jpg"
+            },
+            {
+                "title": "අළු පුහුල් දැක්කොත් අනිවා ගෙදර ගෙනියන්න - Health benefits of winter melon",
+                "url": "https://youtube.com/watch?v=BU6awgNdb7Q",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/BU6awgNdb7Q/hq720.jpg"
+            },
+            {
+                "title": "හැමෝම දන්නා රස කෑමක්, ඒ වගේම වටිනා බෙහෙතක් | අළු පුහුල් වල ගුණ මොනවද?",
+                "url": "https://youtube.com/watch?v=YaL5SAXSXm4",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/YaL5SAXSXm4/hq720.jpg"
+            },
+            {
+                "title": "අළු පුහුල් බස්නය|Ash pumpkin|ලේ වඩන,  ශරීරය තර කරන කුෂ්මාණ්ඩය|Ranpatha Suwapatha Medical Service Ayu",
+                "url": "https://youtube.com/watch?v=cYaICb7j5XI",
+                "duration": "6:16",
+                "thumbnail": "https://i.ytimg.com/vi/cYaICb7j5XI/hq720.jpg"
+            },
+            {
+                "title": "7 Amazing Health Benefits of Winter Melon /පුහුල් වල විශ්මිත ගුන",
+                "url": "https://youtube.com/watch?v=HdnbSHtd8A0",
+                "duration": "0:59",
+                "thumbnail": "https://i.ytimg.com/vi/HdnbSHtd8A0/hqdefault.jpg"
+            },
+            {
+                "title": "අළු පුහුල් වගාව 🍐🍐🍐",
+                "url": "https://youtube.com/watch?v=EyOWdrczv1Y",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/EyOWdrczv1Y/hq720.jpg"
+            },
+            {
+                "title": "මේ අවුරුද්දෙත් අලු පුහුල්",
+                "url": "https://youtube.com/watch?v=ME_8rgYDOrY",
+                "duration": "8:38",
+                "thumbnail": "https://i.ytimg.com/vi/ME_8rgYDOrY/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Burns and Scalds",
-      "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Polydipsia",
-      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worm diseases",
-      "sinhala": "පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gastritis",
-      "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Urinary Tract Infection",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Root",
-    "Stem",
-    "Fruit",
-    "Flower",
-    "Seeds",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "2034",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/jkK1z4k7/plant00357-02034.jpg"
-    },
-    {
-      "image_id": "2035",
-      "caption": "Fruit (PMR)",
-      "url": "https://i.ibb.co/xSbLy5gC/plant00357-02035.jpg"
-    },
-    {
-      "image_id": "2036",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/LDVCYpqs/plant00357-02036.jpg"
-    },
-    {
-      "image_id": "2037",
-      "caption": "Leaf- Lower surface (PMR)",
-      "url": "https://i.ibb.co/20kmD8Bx/plant00357-02037.jpg"
-    },
-    {
-      "image_id": "2038",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/1tvwvztJ/plant00357-02038.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

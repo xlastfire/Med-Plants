@@ -1,213 +1,572 @@
 {
-  "scientificName": "Hordeum vulgare L.",
-  "synonyms": [
-    "Frumentum hordeum E.H.L.Krause",
-    "Frumentum sativum E.H.L.Krause",
-    "Hordeum aestivum R.E.Regel",
-    "Hordeum americanum R.E.Regel",
-    "Hordeum barbaricum Risso",
-    "Hordeum bifarium Roth",
-    "Hordeum brachyatherum R.E.Regel",
-    "Hordeum caspicum R.E.Regel",
-    "Hordeum coeleste (L.) P.Beauv.",
-    "Hordeum coeleste var. barbatum Ser.",
-    "Hordeum daghestanicum R.E.Regel",
-    "Hordeum defectoides R.E.Regel",
-    "Hordeum durum R.E.Regel",
-    "Hordeum elongatum R.E.Regel",
-    "Hordeum gymnodistichum Duthie",
-    "Hordeum heterostychon P.Beauv.",
-    "Hordeum hexastichon L.",
-    "Hordeum hexastichon var. densum Ser.",
-    "Hordeum hexastichon var. laxum Ser.",
-    "Hordeum hexastichon var. mandshuricum Regel",
-    "Hordeum hibernaculum R.E.Regel",
-    "Hordeum hibernans R.E.Regel",
-    "Hordeum himalayense Rittig",
-    "Hordeum hirtiusculum R.E.Regel",
-    "Hordeum horsfordianum R.E.Regel",
-    "Hordeum ircutianum R.E.Regel",
-    "Hordeum jarenskianum R.E.Regel",
-    "Hordeum juliae R.E.Regel",
-    "Hordeum kalugense R.E.Regel",
-    "Hordeum karzinianum R.E.Regel",
-    "Hordeum kiarchanum R.E.Regel",
-    "Hordeum laevipaleatum R.E.Regel",
-    "Hordeum lapponicum R.E.Regel",
-    "Hordeum latum Risso",
-    "Hordeum leptostachys Griff.",
-    "Hordeum macrolepis A.Braun",
-    "Hordeum mandshuricum R.E.Regel",
-    "Hordeum mandshuroides R.E.Regel",
-    "Hordeum michalkowii R.E.Regel",
-    "Hordeum nekludowii R.E.Regel",
-    "Hordeum nigrum Willd.",
-    "Hordeum nudum-distichum Risso",
-    "Hordeum pamiricum Vavilov",
-    "Hordeum parvum R.E.Regel",
-    "Hordeum pensanum R.E.Regel",
-    "Hordeum perversum Forssk.",
-    "Hordeum polystichon Haller",
-    "Hordeum polystichon var. hackelii Chiov.",
-    "Hordeum polystichon var. hexastichon Döll",
-    "Hordeum polystichon var. vulgare (L.) Döll",
-    "Hordeum praecox Risso",
-    "Hordeum pyramidatum R.E.Regel",
-    "Hordeum revelatum (Körn.) A.Schulz",
-    "Hordeum sativum Jess.",
-    "Hordeum sativum Pers.",
-    "Hordeum sativum subsp. hexastichon (L.) K.Richt.",
-    "Hordeum sativum subsp. vulgare (L.) K.Richt.",
-    "Hordeum sativum var. trifurcatum Schltdl. ex Orlov & Åberg",
-    "Hordeum scabriusculum R.E.Regel",
-    "Hordeum septentrionale R.E.Regel",
-    "Hordeum stassewitschii R.E.Regel",
-    "Hordeum strobelense Chiov.",
-    "Hordeum taganrocense R.E.Regel",
-    "Hordeum tanaiticum R.E.Regel",
-    "Hordeum tetrastichum Stokes",
-    "Hordeum tetrastichum var. nudum Gray",
-    "Hordeum transcaucasicum R.E.Regel",
-    "Hordeum violaceum R.E.Regel",
-    "Hordeum vulgare convar. hexastichon (L.) Alef.",
-    "Hordeum vulgare convar. revelatum (Körn.) Tzvelev",
-    "Hordeum vulgare f. hexastichon (L.) M.Hiroe",
-    "Hordeum vulgare subsp. antasiaticum Bachteev",
-    "Hordeum vulgare subsp. hexastichon (L.) Celak.",
-    "Hordeum vulgare subsp. medioasiaticum Bachteev",
-    "Hordeum vulgare subsp. tetrastichum (Stokes) Celak.",
-    "Hordeum vulgare var. abdulbasirovii Omarov",
-    "Hordeum vulgare var. addis-abebae Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. aestivum Metzg. ex Alef.",
-    "Hordeum vulgare var. africanum Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. ancoberense Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. atratum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. bachteevii Omarov",
-    "Hordeum vulgare var. brachyura Alef.",
-    "Hordeum vulgare var. breviaristatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. brevispicatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. brunneinudum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. chalunicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. chinense Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. chungense Åberg",
-    "Hordeum vulgare var. coeleste L.",
-    "Hordeum vulgare var. coerulescens Ser.",
-    "Hordeum vulgare var. colonicum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
-    "Hordeum vulgare var. daghestanicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. euryhypatherum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
-    "Hordeum vulgare var. glabribrevisetum Regel ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
-    "Hordeum vulgare var. glabrideficiens Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. glabrierectum Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. glabrigracilius Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
-    "Hordeum vulgare var. glabrispicatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. glabriviride Trofim.",
-    "Hordeum vulgare var. gobicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. griseinigrum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. griseinudum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. hadaka Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. hangaicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. harlanii Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. hexastichon (L.) Asch.",
-    "Hordeum vulgare var. hybernum Viborg",
-    "Hordeum vulgare var. hypatherum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. ibericum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. insularum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. interpallidum Trofim.",
-    "Hordeum vulgare var. ismailii Omarov",
-    "Hordeum vulgare var. japonicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. kobdicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. latibrevisetum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. latinudipyramidatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. latirevelatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. leioheterolepis Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. lukyanovae Omarov",
-    "Hordeum vulgare var. lvovii Omarov",
-    "Hordeum vulgare var. macrosteron Alef.",
-    "Hordeum vulgare var. mandshuricum Regel",
-    "Hordeum vulgare var. micrurum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. mongolicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. multispiculum Trofim.",
-    "Hordeum vulgare var. nanum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. nigrinudum Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. nigrum (Willd.) Rchb.",
-    "Hordeum vulgare var. nipponicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. nudijaponicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. nudinipponicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. palestinicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. pallidum Ser.",
-    "Hordeum vulgare var. patimatae Omarov",
-    "Hordeum vulgare var. rarum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. revelatum Körn.",
-    "Hordeum vulgare var. saidii Omarov",
-    "Hordeum vulgare var. sessilifurcatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. sikangense Åberg",
-    "Hordeum vulgare var. sinicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. sinojaponicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. solitarum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. suberectum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
-    "Hordeum vulgare var. subneogenes Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
-    "Hordeum vulgare var. subnudipiramidatum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
-    "Hordeum vulgare var. subnudum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
-    "Hordeum vulgare var. subnutans Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
-    "Hordeum vulgare var. subpyramidatum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
-    "Hordeum vulgare var. subzeocrithon Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
-    "Hordeum vulgare var. syriacum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. tetranutans Trofim. & Lukyanova",
-    "Hordeum vulgare var. tetrapallidum Trofim. & Lukyanova",
-    "Hordeum vulgare var. tibetanum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. tortile Ser.",
-    "Hordeum vulgare var. trofimovskajae Omarov",
-    "Hordeum vulgare var. uljassutaicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. urgaicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. valentinae Omarov",
-    "Hordeum vulgare var. viride Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. zeocrithideficiens Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
-    "Hordeum vulgare var. zuleichatae Omarov",
-    "Hordeum walpersii R.E.Regel",
-    "Secale orientale Schreb. ex Roth",
-    "Triticum hordeiforme Wall. ex Steud."
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Barley"
-  ],
-  "sinhalaName": "Barley (බාර්ලි )",
-  "description": "වාර්ෂික ශාකයකි; කඳ සෙන්ටිමීටර 90ක් දක්වා උස, කෙළින් පිහිටි, රෝම රහිත (glabrous) වේ. පත්‍ර කොපු සම්පූර්ණයෙන්ම රෝම රහිත (glabrous) වේ; පත්‍ර දිව (ligule) මිලිමීටර 1-3ක් දිගය; පත්‍ර තල සෙන්ටිමීටර 5-40ක් දිග සහ මිලිමීටර 4-15ක් පළල වන අතර, ස්පර්ශයට රළු (scaberulous) ස්වභාවයක් ගනී. කරල (spike) අග්‍රස්ථ කටු (awns) හැර සෙන්ටිමීටර 6-12ක් දිගය; කරල් දණ්ඩ (rachis) වෙන් නොවී පවතින අතර, දාර දිගේ සියුම් රෝම සහිත (puberulent) වේ. මධ්‍යස්ථ කරල් (spikelets) අග්‍රස්ථ කටු හැර මිලිමීටර 8-12ක් දිග, වෘන්ත රහිත (sessile) වේ; තුහින පත්‍ර (glumes) අග්‍රස්ථ කටු සහිතව මිලිමීටර 7-8ක් දිගය; අග්‍රස්ථ කටු (awn) සෙන්ටිමීටර 6-15ක් දිගය; කලංක (stigmas) සුදු පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Indigestion",
-      "sinhala": "අජීර්ණය සහ මන්දාග්නිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Hordeum vulgare L.",
+    "synonyms": [
+        "Frumentum hordeum E.H.L.Krause",
+        "Frumentum sativum E.H.L.Krause",
+        "Hordeum aestivum R.E.Regel",
+        "Hordeum americanum R.E.Regel",
+        "Hordeum barbaricum Risso",
+        "Hordeum bifarium Roth",
+        "Hordeum brachyatherum R.E.Regel",
+        "Hordeum caspicum R.E.Regel",
+        "Hordeum coeleste (L.) P.Beauv.",
+        "Hordeum coeleste var. barbatum Ser.",
+        "Hordeum daghestanicum R.E.Regel",
+        "Hordeum defectoides R.E.Regel",
+        "Hordeum durum R.E.Regel",
+        "Hordeum elongatum R.E.Regel",
+        "Hordeum gymnodistichum Duthie",
+        "Hordeum heterostychon P.Beauv.",
+        "Hordeum hexastichon L.",
+        "Hordeum hexastichon var. densum Ser.",
+        "Hordeum hexastichon var. laxum Ser.",
+        "Hordeum hexastichon var. mandshuricum Regel",
+        "Hordeum hibernaculum R.E.Regel",
+        "Hordeum hibernans R.E.Regel",
+        "Hordeum himalayense Rittig",
+        "Hordeum hirtiusculum R.E.Regel",
+        "Hordeum horsfordianum R.E.Regel",
+        "Hordeum ircutianum R.E.Regel",
+        "Hordeum jarenskianum R.E.Regel",
+        "Hordeum juliae R.E.Regel",
+        "Hordeum kalugense R.E.Regel",
+        "Hordeum karzinianum R.E.Regel",
+        "Hordeum kiarchanum R.E.Regel",
+        "Hordeum laevipaleatum R.E.Regel",
+        "Hordeum lapponicum R.E.Regel",
+        "Hordeum latum Risso",
+        "Hordeum leptostachys Griff.",
+        "Hordeum macrolepis A.Braun",
+        "Hordeum mandshuricum R.E.Regel",
+        "Hordeum mandshuroides R.E.Regel",
+        "Hordeum michalkowii R.E.Regel",
+        "Hordeum nekludowii R.E.Regel",
+        "Hordeum nigrum Willd.",
+        "Hordeum nudum-distichum Risso",
+        "Hordeum pamiricum Vavilov",
+        "Hordeum parvum R.E.Regel",
+        "Hordeum pensanum R.E.Regel",
+        "Hordeum perversum Forssk.",
+        "Hordeum polystichon Haller",
+        "Hordeum polystichon var. hackelii Chiov.",
+        "Hordeum polystichon var. hexastichon Döll",
+        "Hordeum polystichon var. vulgare (L.) Döll",
+        "Hordeum praecox Risso",
+        "Hordeum pyramidatum R.E.Regel",
+        "Hordeum revelatum (Körn.) A.Schulz",
+        "Hordeum sativum Jess.",
+        "Hordeum sativum Pers.",
+        "Hordeum sativum subsp. hexastichon (L.) K.Richt.",
+        "Hordeum sativum subsp. vulgare (L.) K.Richt.",
+        "Hordeum sativum var. trifurcatum Schltdl. ex Orlov & Åberg",
+        "Hordeum scabriusculum R.E.Regel",
+        "Hordeum septentrionale R.E.Regel",
+        "Hordeum stassewitschii R.E.Regel",
+        "Hordeum strobelense Chiov.",
+        "Hordeum taganrocense R.E.Regel",
+        "Hordeum tanaiticum R.E.Regel",
+        "Hordeum tetrastichum Stokes",
+        "Hordeum tetrastichum var. nudum Gray",
+        "Hordeum transcaucasicum R.E.Regel",
+        "Hordeum violaceum R.E.Regel",
+        "Hordeum vulgare convar. hexastichon (L.) Alef.",
+        "Hordeum vulgare convar. revelatum (Körn.) Tzvelev",
+        "Hordeum vulgare f. hexastichon (L.) M.Hiroe",
+        "Hordeum vulgare subsp. antasiaticum Bachteev",
+        "Hordeum vulgare subsp. hexastichon (L.) Celak.",
+        "Hordeum vulgare subsp. medioasiaticum Bachteev",
+        "Hordeum vulgare subsp. tetrastichum (Stokes) Celak.",
+        "Hordeum vulgare var. abdulbasirovii Omarov",
+        "Hordeum vulgare var. addis-abebae Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. aestivum Metzg. ex Alef.",
+        "Hordeum vulgare var. africanum Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. ancoberense Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. atratum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. bachteevii Omarov",
+        "Hordeum vulgare var. brachyura Alef.",
+        "Hordeum vulgare var. breviaristatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. brevispicatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. brunneinudum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. chalunicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. chinense Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. chungense Åberg",
+        "Hordeum vulgare var. coeleste L.",
+        "Hordeum vulgare var. coerulescens Ser.",
+        "Hordeum vulgare var. colonicum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
+        "Hordeum vulgare var. daghestanicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. euryhypatherum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
+        "Hordeum vulgare var. glabribrevisetum Regel ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
+        "Hordeum vulgare var. glabrideficiens Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. glabrierectum Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. glabrigracilius Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
+        "Hordeum vulgare var. glabrispicatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. glabriviride Trofim.",
+        "Hordeum vulgare var. gobicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. griseinigrum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. griseinudum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. hadaka Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. hangaicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. harlanii Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. hexastichon (L.) Asch.",
+        "Hordeum vulgare var. hybernum Viborg",
+        "Hordeum vulgare var. hypatherum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. ibericum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. insularum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. interpallidum Trofim.",
+        "Hordeum vulgare var. ismailii Omarov",
+        "Hordeum vulgare var. japonicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. kobdicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. latibrevisetum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. latinudipyramidatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. latirevelatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. leioheterolepis Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. lukyanovae Omarov",
+        "Hordeum vulgare var. lvovii Omarov",
+        "Hordeum vulgare var. macrosteron Alef.",
+        "Hordeum vulgare var. mandshuricum Regel",
+        "Hordeum vulgare var. micrurum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. mongolicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. multispiculum Trofim.",
+        "Hordeum vulgare var. nanum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. nigrinudum Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. nigrum (Willd.) Rchb.",
+        "Hordeum vulgare var. nipponicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. nudijaponicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. nudinipponicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. palestinicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. pallidum Ser.",
+        "Hordeum vulgare var. patimatae Omarov",
+        "Hordeum vulgare var. rarum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. revelatum Körn.",
+        "Hordeum vulgare var. saidii Omarov",
+        "Hordeum vulgare var. sessilifurcatum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. sikangense Åberg",
+        "Hordeum vulgare var. sinicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. sinojaponicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. solitarum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. suberectum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
+        "Hordeum vulgare var. subneogenes Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
+        "Hordeum vulgare var. subnudipiramidatum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
+        "Hordeum vulgare var. subnudum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
+        "Hordeum vulgare var. subnutans Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
+        "Hordeum vulgare var. subpyramidatum Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
+        "Hordeum vulgare var. subzeocrithon Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yaros",
+        "Hordeum vulgare var. syriacum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. tetranutans Trofim. & Lukyanova",
+        "Hordeum vulgare var. tetrapallidum Trofim. & Lukyanova",
+        "Hordeum vulgare var. tibetanum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. tortile Ser.",
+        "Hordeum vulgare var. trofimovskajae Omarov",
+        "Hordeum vulgare var. uljassutaicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. urgaicum Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. valentinae Omarov",
+        "Hordeum vulgare var. viride Vavilov & Orlov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. zeocrithideficiens Vavilov ex Lukyanova, Trofim., G.N.Gudkova, Terentyeva & Yarosh",
+        "Hordeum vulgare var. zuleichatae Omarov",
+        "Hordeum walpersii R.E.Regel",
+        "Secale orientale Schreb. ex Roth",
+        "Triticum hordeiforme Wall. ex Steud."
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Barley"
+    ],
+    "sinhalaName": "Barley (බාර්ලි )",
+    "description": "වාර්ෂික ශාකයකි; කඳ සෙන්ටිමීටර 90ක් දක්වා උස, කෙළින් පිහිටි, රෝම රහිත (glabrous) වේ. පත්‍ර කොපු සම්පූර්ණයෙන්ම රෝම රහිත (glabrous) වේ; පත්‍ර දිව (ligule) මිලිමීටර 1-3ක් දිගය; පත්‍ර තල සෙන්ටිමීටර 5-40ක් දිග සහ මිලිමීටර 4-15ක් පළල වන අතර, ස්පර්ශයට රළු (scaberulous) ස්වභාවයක් ගනී. කරල (spike) අග්‍රස්ථ කටු (awns) හැර සෙන්ටිමීටර 6-12ක් දිගය; කරල් දණ්ඩ (rachis) වෙන් නොවී පවතින අතර, දාර දිගේ සියුම් රෝම සහිත (puberulent) වේ. මධ්‍යස්ථ කරල් (spikelets) අග්‍රස්ථ කටු හැර මිලිමීටර 8-12ක් දිග, වෘන්ත රහිත (sessile) වේ; තුහින පත්‍ර (glumes) අග්‍රස්ථ කටු සහිතව මිලිමීටර 7-8ක් දිගය; අග්‍රස්ථ කටු (awn) සෙන්ටිමීටර 6-15ක් දිගය; කලංක (stigmas) සුදු පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Indigestion",
+            "sinhala": "අජීර්ණය සහ මන්දාග්නිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Debility",
+            "sinhala": "ශාරීරික දුර්වලතාවය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "✔ මුත්‍රා ආසාදන වලකන බාර්ලි පානය Barley water detox drink by Apé Amma",
+                "url": "https://youtube.com/watch?v=M_v7MMnog9E",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/M_v7MMnog9E/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩක් දුකක් ඇතිවිට නැතිවම බැරි බාර්ලි පානය | භාවිතය සහ එහි ඇති ගුණ දැනගනිමු | Marvelous Barley",
+                "url": "https://youtube.com/watch?v=a7pm2I7qvQ4",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/a7pm2I7qvQ4/hq720.jpg"
+            },
+            {
+                "title": "බාර්ලි පුරුද්දක් විදියට බොන්න හොඳ ද : Barley benefits - Does barley good as an everyday drink",
+                "url": "https://youtube.com/watch?v=bF5f4D4arzg",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/bF5f4D4arzg/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka  - Benefits of Barley",
+                "url": "https://youtube.com/watch?v=kf5795EsHV0",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/kf5795EsHV0/hq720.jpg"
+            },
+            {
+                "title": "උදේට බොන තේ එක වෙනුවට එක සැරයක් බීලා බලන්න | Barley Drink",
+                "url": "https://youtube.com/watch?v=bnMa9XxCKmQ",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/bnMa9XxCKmQ/hq720.jpg"
+            },
+            {
+                "title": "🇱🇰 කිරි වෙනුවට බොන්න පුලුවන් විශ්මිත ගුණ පානය How to make Barley Powder at home Kusala's Simple Life",
+                "url": "https://youtube.com/watch?v=OXEaKrN3Ksc",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/OXEaKrN3Ksc/hq720.jpg"
+            },
+            {
+                "title": "ශරිරය සිසිල්කරන බාර්ලි ඉක්මනින් හදාගන්නෙ මෙහෙමයි |how to make barley drink",
+                "url": "https://youtube.com/watch?v=eBQIGK3zUWs",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/eBQIGK3zUWs/hqdefault.jpg"
+            },
+            {
+                "title": "අධි රුධිර පීඩනය කොලෙස්ටරෝල් ඇතුළු රෝග රැසකට සුව සදන බාර්ලි",
+                "url": "https://youtube.com/watch?v=9UX1rRnEVX0",
+                "duration": "5:47",
+                "thumbnail": "https://i.ytimg.com/vi/9UX1rRnEVX0/hq720.jpg"
+            },
+            {
+                "title": "තරණ වෙන්න කැමති අයට බාර්ලි කිරි තේ | Barley Tea Aththammai Mamai",
+                "url": "https://youtube.com/watch?v=GkIhSCnn7-8",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/GkIhSCnn7-8/hq720.jpg"
+            },
+            {
+                "title": "Barley Tea , කෝපි වගේ බාර්ලි බොමුද, බාර්ලි තේ, ගුණදායක බාර්ලි තේ..",
+                "url": "https://youtube.com/watch?v=KCWKT4rjJ9U",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/KCWKT4rjJ9U/hqdefault.jpg"
+            },
+            {
+                "title": "බාර්ලි පානය | How To Get Flat Belly Easily | Instant Fat Burner | මහත අඩු කරන පානය | obesity",
+                "url": "https://youtube.com/watch?v=txk5SGQAdD4",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/txk5SGQAdD4/hq720.jpg"
+            },
+            {
+                "title": "ඇග නිවන බර අඩු කරන රස ගුණ පිරි බාර්ලි පානය #cooking",
+                "url": "https://youtube.com/watch?v=1OGbSIwGox0",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/1OGbSIwGox0/hq720.jpg"
+            },
+            {
+                "title": "බාර්ලිවල  ඇති ගුණදායි රහස  MBA barley health drink",
+                "url": "https://youtube.com/watch?v=GboDIoLXq1g",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/GboDIoLXq1g/hqdefault.jpg"
+            },
+            {
+                "title": "බාර්ලි මේ තරම් ගුණදායක කියල ඔයා දන්නවද 😱",
+                "url": "https://youtube.com/watch?v=oh_veQI9w4M",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/oh_veQI9w4M/hq720.jpg"
+            },
+            {
+                "title": "බාර්ලි ඕට්ස් පානය |barley oats drink|කොලොස්ටරෝල් , අධි රැධිර පීඩන ඇතුලු රෝග රැසකට ගුණ",
+                "url": "https://youtube.com/watch?v=R9ZMpzid-0o",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/R9ZMpzid-0o/hq720.jpg"
+            },
+            {
+                "title": "මානසික ආතතිය දුරු කරන ජීර්ණය පහසු කරන ඖෂධීය බාර්ලි වතුර හදන විදිය| how to make barley water easily",
+                "url": "https://youtube.com/watch?v=8RvZvU6CJTI",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/8RvZvU6CJTI/hqdefault.jpg"
+            },
+            {
+                "title": "How to make barley water",
+                "url": "https://youtube.com/watch?v=PTinWuq0v-M",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/PTinWuq0v-M/hq720.jpg"
+            },
+            {
+                "title": "Healthy Barley drink | බාර්ලි පානය | Ceylon village foods",
+                "url": "https://youtube.com/watch?v=IAsoovLVCAA",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/IAsoovLVCAA/hq720.jpg"
+            },
+            {
+                "title": "9 Amazing Health Benefits of Barley Grass",
+                "url": "https://youtube.com/watch?v=zPvTq95B7io",
+                "duration": "6:46",
+                "thumbnail": "https://i.ytimg.com/vi/zPvTq95B7io/hq720.jpg"
+            },
+            {
+                "title": "7 Amazing Barley Health Benefits You Never Knew",
+                "url": "https://youtube.com/watch?v=FjS6eR8y4Sc",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/FjS6eR8y4Sc/hq720.jpg"
+            },
+            {
+                "title": "බාර්ලි කැඳ | Barley Porridge | Healthy Food Guide",
+                "url": "https://youtube.com/watch?v=VY7BhMkSOVk",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/VY7BhMkSOVk/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ සියයක් වලක්වන එකම ආහාරය.",
+                "url": "https://youtube.com/watch?v=i5AX0uFgWPs",
+                "duration": "9:48",
+                "thumbnail": "https://i.ytimg.com/vi/i5AX0uFgWPs/hq720.jpg"
+            },
+            {
+                "title": "බාර්ලි පිට්ටු දියවැඩියා රෝගීන්ට ගුණදායකම කෑම තමයි බාර්ලි පිට්ටු / රොටි",
+                "url": "https://youtube.com/watch?v=xSXwoD32R44",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/xSXwoD32R44/hqdefault.jpg"
+            },
+            {
+                "title": "බත් වෙනුවට බාර්ලි 🍲| Barley| ලේසි & healthy recipe 01| Diary by Pulee ❤️",
+                "url": "https://youtube.com/watch?v=l4KRg1A18FA",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/l4KRg1A18FA/hq720.jpg"
+            },
+            {
+                "title": "බාර්ලි කැඳ | Barley Porridge | Healthy Food Guide",
+                "url": "https://youtube.com/watch?v=EGUwMDQiacY",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/EGUwMDQiacY/frame0.jpg"
+            },
+            {
+                "title": "බෙරි වල ඇති විශ්මිත ගුණ 8ක් - 8 amazing properties of berries",
+                "url": "https://youtube.com/watch?v=lJifBrUQ06w",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/lJifBrUQ06w/hq720.jpg"
+            },
+            {
+                "title": "වැල්මී වල අද්භූත ගුණ",
+                "url": "https://youtube.com/watch?v=KtjLcFq9lcQ",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/KtjLcFq9lcQ/hq720.jpg"
+            },
+            {
+                "title": "බෙලි ශාකයේ ඔබ මෙතෙක් නොදත් ඖෂධීය ගුණයන් | Beli tree | Aegle marmelos🌿",
+                "url": "https://youtube.com/watch?v=79rKRR7NIOc",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/79rKRR7NIOc/hqdefault.jpg"
+            },
+            {
+                "title": "අධිරුධිර පීඩනය විනාඩියෙන් සුව කරන, මහබඩවැල් පිළිකා වලක්වන ඖෂධ රාජයා | tea for high blood pressure",
+                "url": "https://youtube.com/watch?v=fiofFmTpGJE",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/fiofFmTpGJE/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ පිරි ලුණුවිල | Lunuwila - Bacopa Monnieri Plant - Brahmi | Dayawathi - දයාවතී",
+                "url": "https://youtube.com/watch?v=m9SUENHexrg",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/m9SUENHexrg/hq720.jpg"
+            },
+            {
+                "title": "බෙලි වල විශ්මිත ගුණය.  Value of Bael fruit",
+                "url": "https://youtube.com/watch?v=M3NTXXjHWWE",
+                "duration": "7:29",
+                "thumbnail": "https://i.ytimg.com/vi/M3NTXXjHWWE/hq720.jpg"
+            },
+            {
+                "title": "බෙලිමල් බොන අයට වෙන අමුතු දේවල් : Benefits of Belimal Tea",
+                "url": "https://youtube.com/watch?v=3oEzGBvwclE",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/3oEzGBvwclE/hq720.jpg"
+            },
+            {
+                "title": "බාදුරා පැල ගැන තොරතුරු | How To Grow Nepenthes Plants In Sinhala",
+                "url": "https://youtube.com/watch?v=_txfTc8ZSAQ",
+                "duration": "5:49",
+                "thumbnail": "https://i.ytimg.com/vi/_txfTc8ZSAQ/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "අතුරු පස කියලා කන්නෙම ජීර්ණයට බාධා  කරන දේවල් | What You Eat As Dessert Can Interfere With Digestion",
+                "url": "https://youtube.com/watch?v=aCgT8Sf_qOk",
+                "duration": "11:11",
+                "thumbnail": "https://i.ytimg.com/vi/aCgT8Sf_qOk/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "මේ දිනවල රට පුරා පැතිරෙන ලෙඩේට සැබෑ හේතුව කුමක්ද? ශාඛ සහ බීජ වල කල්පයක් පුරා පවතින වීර්ය කුමක්ද?",
+                "url": "https://youtube.com/watch?v=8YROIPMGNVc",
+                "duration": "25:24",
+                "thumbnail": "https://i.ytimg.com/vi/8YROIPMGNVc/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "වාසනාව සහ අවාසනාව ලබාදෙන ශාක | නිවසට සුභ ගස් සහ නිවසට අසුභ ගස් - ගුප්ත රහස්",
+                "url": "https://youtube.com/watch?v=FIRaE8srLsQ",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/FIRaE8srLsQ/hq720.jpg"
+            },
+            {
+                "title": "බියර් හදන්න සෝගම් වගාකරන්න ආපූ ආයෝජකයන්ට කෘෂිකර්ම ඇමති දුන් පිළිතුර  - Aruna.lk - Derana Aruna",
+                "url": "https://youtube.com/watch?v=YKTIp7e12rw",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/YKTIp7e12rw/hq720.jpg"
+            },
+            {
+                "title": "බඩඉරිඟු කන්න කලින් අනිවාර්යයෙන් දැන ගන්න | Corn & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=li8Aczz5Cf0",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/li8Aczz5Cf0/hq720.jpg"
+            },
+            {
+                "title": "විටමින් සහ ඛනිජ  ලවන බහුල අලකොල.(දිගිකල් ජීවත්වීමේ රහස් )",
+                "url": "https://youtube.com/watch?v=e7L70ribu00",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/e7L70ribu00/hq720.jpg"
+            },
+            {
+                "title": "Benifits of eating fruits- පලතුරු ආහාරයට ගැනීමේ ඇති වැදගත්කම.",
+                "url": "https://youtube.com/watch?v=59FPUrLrdzQ",
+                "duration": "12:00",
+                "thumbnail": "https://i.ytimg.com/vi/59FPUrLrdzQ/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health & Nutritional Benefits Of Basil | Dr. Berg",
+                "url": "https://youtube.com/watch?v=DYfDMbl535Y",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/DYfDMbl535Y/hq720.jpg"
+            },
+            {
+                "title": "6 Amazing Benefits of Bay Leaf! | What Do Bay Leaves do to Your Body?",
+                "url": "https://youtube.com/watch?v=hIZjQv8OCCs",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/hIZjQv8OCCs/hq720.jpg"
+            },
+            {
+                "title": "The Potential Health Benefits of Barleria Stem and How to Prepare Them",
+                "url": "https://youtube.com/watch?v=cQWSicPaIH0",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/cQWSicPaIH0/hq720.jpg"
+            },
+            {
+                "title": "The Health Benefits of Rosemary",
+                "url": "https://youtube.com/watch?v=oEOTayOXzoE",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/oEOTayOXzoE/hq720.jpg"
+            },
+            {
+                "title": "5 Mind Blowing Health Benefits of Bilberry #bilberry",
+                "url": "https://youtube.com/watch?v=GwJaqHY1cKA",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/GwJaqHY1cKA/hq720.jpg"
+            },
+            {
+                "title": "11 Incredible Health Benefits of Basil Leaves You May Not Have Known",
+                "url": "https://youtube.com/watch?v=EE_IHIu3UJo",
+                "duration": "7:07",
+                "thumbnail": "https://i.ytimg.com/vi/EE_IHIu3UJo/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health Benefits of Basella or Alugbati, Malabar Spinach, Indian Spinach & Vine Spinach",
+                "url": "https://youtube.com/watch?v=Xmbfs8T20_o",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/Xmbfs8T20_o/hq720.jpg"
+            },
+            {
+                "title": "9 Health Benefits Of Eating Blackberries",
+                "url": "https://youtube.com/watch?v=dckgTbDmX4s",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/dckgTbDmX4s/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Bitter Leaf Health Benefits ( & SIDE EFFECTS)",
+                "url": "https://youtube.com/watch?v=qtQZNnaVCDQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/qtQZNnaVCDQ/hq720.jpg"
+            },
+            {
+                "title": "The Surprising Health Benefits of Barleria Flowers and How to Prepare Them",
+                "url": "https://youtube.com/watch?v=kaECnlrRQ8w",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/kaECnlrRQ8w/hq720.jpg"
+            },
+            {
+                "title": "9 POWERFUL Benefits Of Eating Barley Every Day You Must Know",
+                "url": "https://youtube.com/watch?v=t-KgJpSA8JQ",
+                "duration": "10:37",
+                "thumbnail": "https://i.ytimg.com/vi/t-KgJpSA8JQ/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health & Nutritional Benefits Of Basil | Dr. Berg",
+                "url": "https://youtube.com/watch?v=uv37Iep9S_M",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/uv37Iep9S_M/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Debility",
-      "sinhala": "ශාරීරික දුර්වලතාවය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

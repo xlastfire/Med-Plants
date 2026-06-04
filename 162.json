@@ -1,78 +1,95 @@
 {
-  "scientificName": "Calamus metzianus Schltdl.",
-  "synonyms": [
-    "Calamus rivalis Thwaites ex Trimen",
-    "Palmijuncus rivalis (Thwaites ex Trimen) Kuntze"
-  ],
-  "familyName": "ARECACEAE",
-  "englishNames": [],
-  "sinhalaName": "Ela wewel (එළ වේවැල්)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Abdominal Pain",
-      "sinhala": "උදර වේදනාව (බඩේ කැක්කුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Calamus metzianus Schltdl.",
+    "synonyms": [
+        "Calamus rivalis Thwaites ex Trimen",
+        "Palmijuncus rivalis (Thwaites ex Trimen) Kuntze"
+    ],
+    "familyName": "ARECACEAE",
+    "englishNames": [],
+    "sinhalaName": "Ela wewel (එළ වේවැල්)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Abdominal Pain",
+            "sinhala": "උදර වේදනාව (බඩේ කැක්කුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Toothache",
+            "sinhala": "දත් කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Menstrual Disorders",
+            "sinhala": "ඔසප් ආබාධ සහ අක්‍රමිකතා (කෂ්ටාර්තව / ආර්තව දෝෂ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Digestive Disorders",
+            "sinhala": "පූරක/ජීරණ පද්ධතියේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Flatulence",
+            "sinhala": "බඩ පිපුම (වාතය පිරීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Rhizome"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Wewal වේවැල්",
+                "url": "https://youtube.com/watch?v=C7zvneMRT7s",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/C7zvneMRT7s/hq720.jpg"
+            },
+            {
+                "title": "වේ වැල් ගැන ඔබ ‌නොදත් කතාවක්",
+                "url": "https://youtube.com/watch?v=AE3yWUQqDwU",
+                "duration": "7:41",
+                "thumbnail": "https://i.ytimg.com/vi/AE3yWUQqDwU/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Toothache",
-      "sinhala": "දත් කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Menstrual Disorders",
-      "sinhala": "ඔසප් ආබාධ සහ අක්‍රමිකතා (කෂ්ටාර්තව / ආර්තව දෝෂ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Digestive Disorders",
-      "sinhala": "පූරක/ජීරණ පද්ධතියේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Flatulence",
-      "sinhala": "බඩ පිපුම (වාතය පිරීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Rhizome"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

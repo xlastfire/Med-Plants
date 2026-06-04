@@ -1,69 +1,488 @@
 {
-  "scientificName": "Rungia repens (L.) Nees",
-  "synonyms": [
-    "Diapedium repens (L.) Kuntze",
-    "Diapedium repens f. albiflorum Kuntze",
-    "Diapedium repens f. coeruleum Kuntze",
-    "Diapedium repens f. maculatum Kuntze",
-    "Diapedium repens f. roseum Kuntze",
-    "Diapedium repens var. albopalatiferum Kuntze",
-    "Dicliptera repens (L.) Juss.",
-    "Justicia repens L."
-  ],
-  "familyName": "ACANTHACEAE",
-  "englishNames": [
-    "Creeping Rungia",
-    "Creeping Rungia"
-  ],
-  "sinhalaName": "Sulu nayi (සුළු නයි)",
-  "description": "වාර්ෂික ශාකයකි. පත්‍ර ඕවලාකාර (oval) සිට ආයත ඕවලාකාර (oblong-oval) හැඩයක් ගනී, ප්‍රමාණය 1.2 - 2 X 0.5 - 0.8 සෙ.මී. වේ, නැතහොත් රේඛීය-ආයත (linear-oblong) හැඩයක් ගනී, 8 X 0.5 සෙ.මී. දක්වා වේ, දෘශ්‍ය වෘන්ත රහිත (subsessile) වේ, අග්‍රය තරමක් උල් වූ (subacuminate) වේ, සිස්ටොලිත් (cystoliths) සහිත රේඛා වලින් ඝනව වැසී ඇත. මල් කරල් (spikes) 3.5 - 12 සෙ.මී. දිගය, කෙලින් පිහිටයි (erect), කැපී පෙනේ. මල් සුදු පැහැතිය. කරල් (capsule) ඕවලාකාර-ආයත (oval-oblong) හැඩයක් ගනී, 5 X 2.5 මි.මී. දක්වා වේ, තරමක් පැතලි වූ (subcompressed) ස්වභාවයක් ගනී, කෙටි ඝන පාදමක් ඇත. බීජ වෘත්තාකාර (orbicular) වේ, මි.මී. 2ක් පළලය, කේන්ද්‍රීයව පිහිටි වලවල් (concentrically furrowed) සහිතය.",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Rungia repens (L.) Nees",
+    "synonyms": [
+        "Diapedium repens (L.) Kuntze",
+        "Diapedium repens f. albiflorum Kuntze",
+        "Diapedium repens f. coeruleum Kuntze",
+        "Diapedium repens f. maculatum Kuntze",
+        "Diapedium repens f. roseum Kuntze",
+        "Diapedium repens var. albopalatiferum Kuntze",
+        "Dicliptera repens (L.) Juss.",
+        "Justicia repens L."
+    ],
+    "familyName": "ACANTHACEAE",
+    "englishNames": [
+        "Creeping Rungia",
+        "Creeping Rungia"
+    ],
+    "sinhalaName": "Sulu nayi (සුළු නයි)",
+    "description": "වාර්ෂික ශාකයකි. පත්‍ර ඕවලාකාර (oval) සිට ආයත ඕවලාකාර (oblong-oval) හැඩයක් ගනී, ප්‍රමාණය 1.2 - 2 X 0.5 - 0.8 සෙ.මී. වේ, නැතහොත් රේඛීය-ආයත (linear-oblong) හැඩයක් ගනී, 8 X 0.5 සෙ.මී. දක්වා වේ, දෘශ්‍ය වෘන්ත රහිත (subsessile) වේ, අග්‍රය තරමක් උල් වූ (subacuminate) වේ, සිස්ටොලිත් (cystoliths) සහිත රේඛා වලින් ඝනව වැසී ඇත. මල් කරල් (spikes) 3.5 - 12 සෙ.මී. දිගය, කෙලින් පිහිටයි (erect), කැපී පෙනේ. මල් සුදු පැහැතිය. කරල් (capsule) ඕවලාකාර-ආයත (oval-oblong) හැඩයක් ගනී, 5 X 2.5 මි.මී. දක්වා වේ, තරමක් පැතලි වූ (subcompressed) ස්වභාවයක් ගනී, කෙටි ඝන පාදමක් ඇත. බීජ වෘත්තාකාර (orbicular) වේ, මි.මී. 2ක් පළලය, කේන්ද්‍රීයව පිහිටි වලවල් (concentrically furrowed) සහිතය.",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Coma",
+            "sinhala": "අසිහිය / කෝමා තත්ත්වය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Stems",
+        "Whole Plant"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "විශ්මිත ගුණදෙන හෙළ ඔසුව සුලු නයි | Sulu Nai | Hela Osu Sinhala | story eka",
+                "url": "https://youtube.com/watch?v=sodregA_ne4",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/sodregA_ne4/hq720.jpg"
+            },
+            {
+                "title": "මේ ඖෂධීය සුලු නයි ශාකය රෝග ගණනාවක් සූවකරයි",
+                "url": "https://youtube.com/watch?v=GJpCmM5m_ck",
+                "duration": "11:04",
+                "thumbnail": "https://i.ytimg.com/vi/GJpCmM5m_ck/hq720.jpg"
+            },
+            {
+                "title": "නයි ළඟපාතටවත් නොඑන අඳුකොල ඔබ දැක තිබේද?",
+                "url": "https://youtube.com/watch?v=BhLmE-cUFDQ",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/BhLmE-cUFDQ/hq720.jpg"
+            },
+            {
+                "title": "ඇසෙ සුද ඉවත් කරන්න වගේම තව රෝග රැසකට ගන්න වටිනා පැලය | සුළුනයි, මහනයි (Sulunai, Mahanai)",
+                "url": "https://youtube.com/watch?v=XSssXVpZxJs",
+                "duration": "8:29",
+                "thumbnail": "https://i.ytimg.com/vi/XSssXVpZxJs/hq720.jpg"
+            },
+            {
+                "title": "නිර් විෂ සර්පයින් හදුනා ගනිමු - දැනුම සොයන ඔබට දැනුමෙන් බිදක්",
+                "url": "https://youtube.com/watch?v=iDBcAdL_2Cc",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/iDBcAdL_2Cc/hq720.jpg"
+            },
+            {
+                "title": "සුරේෂ් සලේ සිය දිවි නසා ගැනීමේ දැඩි අවධානමක වෛද්‍ය වාර්තාවෙන් හෙලි වූ  A to Z කතාව මෙන්න",
+                "url": "https://youtube.com/watch?v=juUX0cbzAUQ",
+                "duration": "25:42",
+                "thumbnail": "https://i.ytimg.com/vi/juUX0cbzAUQ/hq720.jpg"
+            },
+            {
+                "title": "Nai Adhu | නයි අදු | story eka",
+                "url": "https://youtube.com/watch?v=5W0X-pLvAJ4",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/5W0X-pLvAJ4/hq720.jpg"
+            },
+            {
+                "title": "දරුවො ඉන්න ගෙදරක තිබිය යුතුම විෂ නසන ඖෂධය kadu pahara plants emilia sonchifolia",
+                "url": "https://youtube.com/watch?v=TH0_Td7kGpE",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/TH0_Td7kGpE/hq720.jpg"
+            },
+            {
+                "title": "නයි , පොළොන් , මුගටි ,වෛරයේ සත්‍ය කතාව දන්නවද?.......😱😱😱  @SL vidu",
+                "url": "https://youtube.com/watch?v=rlCmAIGp21o",
+                "duration": "4:53",
+                "thumbnail": "https://i.ytimg.com/vi/rlCmAIGp21o/hqdefault.jpg"
+            },
+            {
+                "title": "හීනෙන් නයි පේනවද ? එය සුභද අසුබද ? නාග ලෝකේ රහස් රැසක්",
+                "url": "https://youtube.com/watch?v=AOltD_nQK0c",
+                "duration": "7:46",
+                "thumbnail": "https://i.ytimg.com/vi/AOltD_nQK0c/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට ගුණ දෙන නික ශාඛය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=cgU7USJ32GA",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/cgU7USJ32GA/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය, පොල්පලා තියනවා නම් මූත්‍රා රෝගවලට තිත | ඖශධීය පාන වර්ග| ශ්‍රී ලංකාවේ ඖශධීය ශාක",
+                "url": "https://youtube.com/watch?v=WA-Rrbl4X4Y",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/WA-Rrbl4X4Y/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Garlic - සුදුළූණු වල ඇති ඖෂධීය ගුණ ගැන ඔබ දැනුවත්ද?",
+                "url": "https://youtube.com/watch?v=yg7ut5YuSfc",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/yg7ut5YuSfc/hq720.jpg"
+            },
+            {
+                "title": "ජවය ශක්තිය සපිරි කොල්ලු පානය - වෛද්‍ය සුසීමා සේනානායක",
+                "url": "https://youtube.com/watch?v=BBlufzuvZvw",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/BBlufzuvZvw/hq720.jpg"
+            },
+            {
+                "title": "සුදුළූණු වල ගුණ | Benefits of Garlic | Sakalawaga",
+                "url": "https://youtube.com/watch?v=hu9uUAxQRz4",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/hu9uUAxQRz4/hqdefault.jpg"
+            },
+            {
+                "title": "#දිවඔසු | #ඔසුපැළ | #Herbal #plants",
+                "url": "https://youtube.com/watch?v=oVN8nFP7_aA",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/oVN8nFP7_aA/hq720.jpg"
+            },
+            {
+                "title": "සුඳුලූනු වතුර වල විශ්මිත ගුණ|garlic benefits|සුඳුලූනු වල විශ්මිත ගුණ|sinnhala",
+                "url": "https://youtube.com/watch?v=31w_aJyatHw",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/31w_aJyatHw/hq720.jpg"
+            },
+            {
+                "title": "උයනකොට විටමින් වැඩිවෙන එළවලු 10 ක්!",
+                "url": "https://youtube.com/watch?v=L9CaqwUOFHY",
+                "duration": "9:39",
+                "thumbnail": "https://i.ytimg.com/vi/L9CaqwUOFHY/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූනු දිනපතා ආහාරයට ගැනීමෙන් ඔබට ලැබෙන විද්‍යාත්මකව තහවුරු කල වටිනා වාසි 8 ක්",
+                "url": "https://youtube.com/watch?v=jCVPqJx99Pc",
+                "duration": "6:49",
+                "thumbnail": "https://i.ytimg.com/vi/jCVPqJx99Pc/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනයට, අධි රුධිර පීඩනයට ගුණ දෙන ඉනිසියුලින් පැල | චීන නිවිති | Longevity spinach Epi.285",
+                "url": "https://youtube.com/watch?v=T3P6LjLm98Y",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/T3P6LjLm98Y/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ අය ලෙඩ වෙන්නෙ අරක්කු බොන්න දන්නෙ නැති නිසා |  Alcohol  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dk3QJjXV938",
+                "duration": "19:12",
+                "thumbnail": "https://i.ytimg.com/vi/dk3QJjXV938/hq720.jpg"
+            },
+            {
+                "title": "diya thippili # රෝග රැසකට ගුණ දෙන දිය තිප්පිලි# hela osu# siw helaya",
+                "url": "https://youtube.com/watch?v=SDWdi4o1Mcs",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/SDWdi4o1Mcs/hqdefault.jpg"
+            },
+            {
+                "title": "සුදුළුණු වල විශ්මිත ගුණ - Amazing properties of garlic / Health Vedeo",
+                "url": "https://youtube.com/watch?v=g0yah5i0RGk",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/g0yah5i0RGk/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු කන්න කලින් මේක බලන්න|thuru tv",
+                "url": "https://youtube.com/watch?v=sI2YsLV_wRo",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/sI2YsLV_wRo/hqdefault.jpg"
+            },
+            {
+                "title": "දිනපතා සුදුළුණු අනුභව කලොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 9ක් | 9 Health Benefits Of Eating Garlic",
+                "url": "https://youtube.com/watch?v=2WDcDb8XECw",
+                "duration": "10:28",
+                "thumbnail": "https://i.ytimg.com/vi/2WDcDb8XECw/hq720.jpg"
+            },
+            {
+                "title": "සූර්යාලෝකයෙන් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=eIAX-iPabsY",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/eIAX-iPabsY/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "සුළගෙන්  ඇති ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=JJaPxvBMGYQ",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/JJaPxvBMGYQ/hqdefault.jpg"
+            },
+            {
+                "title": "යුරියා (නයිට්‍රජන් ) ශාක වල වැඩිවිම 🤔 හිතකරද? #fertilizer #farming",
+                "url": "https://youtube.com/watch?v=DbvZ-m2kpXg",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/DbvZ-m2kpXg/hq720.jpg"
+            },
+            {
+                "title": "සුදුලූණු වල ගුණ, Sudulunu Guna,  Health Benefits  Garlic  සුදුලූණු වල  ප්‍රයෝජන eating garlic daily,",
+                "url": "https://youtube.com/watch?v=THgmmlHpVMM",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/THgmmlHpVMM/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලි වල මෙච්චර ගුණයක්? 🍏 විශ්මිත සෞඛ්‍ය ප්‍රතිලාභ මෙන්න! |",
+                "url": "https://youtube.com/watch?v=rZyWK4LRjHE",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/rZyWK4LRjHE/hq720.jpg"
+            },
+            {
+                "title": "Uses of the Wind | සුළඟින් ඇති ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=tKS-53cEqRk",
+                "duration": "7:30",
+                "thumbnail": "https://i.ytimg.com/vi/tKS-53cEqRk/hqdefault.jpg"
+            },
+            {
+                "title": "සුලගින් ඇති ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ktSN1Brikds",
+                "duration": "0:24",
+                "thumbnail": "https://i.ytimg.com/vi/ktSN1Brikds/hqdefault.jpg"
+            },
+            {
+                "title": "දිනපතා සුදුළූණු ආහාරයට ගැනිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක්  | Health Benefits Of Garlic | Sudulunu",
+                "url": "https://youtube.com/watch?v=Hou6gNof0rI",
+                "duration": "11:03",
+                "thumbnail": "https://i.ytimg.com/vi/Hou6gNof0rI/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම සුදුළුණු අනුභව කරන අයගේ ශරීරයට සිදුවන පුදුම හිතෙන දේවල් 9ක් - 9 Health Benefits Of Raw Garlic",
+                "url": "https://youtube.com/watch?v=mtDUfuiqaQU",
+                "duration": "11:08",
+                "thumbnail": "https://i.ytimg.com/vi/mtDUfuiqaQU/hq720.jpg"
+            },
+            {
+                "title": "නිවස ඇතුලත තියන්න හොඳම ශාකය | Oxigen Plant | Snake Plant | Ceylon Agri | Episode 161",
+                "url": "https://youtube.com/watch?v=tXaQkLW-uGo",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/tXaQkLW-uGo/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් මේ වර්ග 6න් කෙනෙක් නම් සුදුළුෑනු කන්න එපා..!",
+                "url": "https://youtube.com/watch?v=3soO6dj8x34",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/3soO6dj8x34/hq720.jpg"
+            },
+            {
+                "title": "වගා කරන්න කලින් දැන ගන්නම ඕන ගොළුබෙලි පාලනය | How to control Snails | Ceylon Agri | Episode 280",
+                "url": "https://youtube.com/watch?v=fHi-8Vg5ulU",
+                "duration": "8:12",
+                "thumbnail": "https://i.ytimg.com/vi/fHi-8Vg5ulU/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "ශාකවලට උදව් කරන සත්තු",
+                "url": "https://youtube.com/watch?v=lco1MuIFsW4",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lco1MuIFsW4/hq720.jpg"
+            },
+            {
+                "title": "Senna Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=KEbGYSwKVTM",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/KEbGYSwKVTM/hq720.jpg"
+            },
+            {
+                "title": "එළවළු සහ පලතුරු කිලෝ ග්‍රෑම් 1000ක පෝශණය සමානයි ස්පිරුලිනා කිලෝ ග්‍රෑම් 1 කට",
+                "url": "https://youtube.com/watch?v=3C7CS6lQ-oE",
+                "duration": "9:00",
+                "thumbnail": "https://i.ytimg.com/vi/3C7CS6lQ-oE/hq720.jpg"
+            },
+            {
+                "title": "Ten Hidden Benefits of PURSLANE!",
+                "url": "https://youtube.com/watch?v=76rH5A4soko",
+                "duration": "15:07",
+                "thumbnail": "https://i.ytimg.com/vi/76rH5A4soko/hq720.jpg"
+            },
+            {
+                "title": "Purslane: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=AKjcsZRcuQY",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/AKjcsZRcuQY/hq720.jpg"
+            },
+            {
+                "title": "සලාද කන අයට වෙන දේ දැනගමු : Benefits of Lettuce",
+                "url": "https://youtube.com/watch?v=DRuEnL0hYU8",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/DRuEnL0hYU8/hq720.jpg"
+            },
+            {
+                "title": "කංකුං  කනවද? | Kangkung (Water Spinach) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WDR_OvMpd44",
+                "duration": "14:18",
+                "thumbnail": "https://i.ytimg.com/vi/WDR_OvMpd44/hq720.jpg"
+            },
+            {
+                "title": "11 Surprising Benefits of Fennel To Know! | Health Benefits of Fennel Seeds",
+                "url": "https://youtube.com/watch?v=IGJhxDRoA5E",
+                "duration": "5:43",
+                "thumbnail": "https://i.ytimg.com/vi/IGJhxDRoA5E/hq720.jpg"
+            },
+            {
+                "title": "ito pala ang TOTOONG EPEKTO sa KATAWAN ng PAGKAIN NG SUHA / amazing health benefits ng suha",
+                "url": "https://youtube.com/watch?v=3d1J9o5dtLI",
+                "duration": "11:09",
+                "thumbnail": "https://i.ytimg.com/vi/3d1J9o5dtLI/hq720.jpg"
+            },
+            {
+                "title": "Fennel Benefits and Side Effects, Fennel For Bone Health and Boosting Energy",
+                "url": "https://youtube.com/watch?v=Hd1Vj7Pepgk",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/Hd1Vj7Pepgk/hq720.jpg"
+            },
+            {
+                "title": "වයස අවුරුදු 60 පැන්නත් පෙනීම නැවත ලබා දෙන විශ්මිත සලාදය - This Plant Returned My Vision",
+                "url": "https://youtube.com/watch?v=Nf6WYgQtll0",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/Nf6WYgQtll0/hqdefault.jpg"
+            },
+            {
+                "title": "SEAWEED BENEFITS - 15 Amazing Health Benefits of Seaweed You Should Know!",
+                "url": "https://youtube.com/watch?v=UUN022BuNgw",
+                "duration": "9:12",
+                "thumbnail": "https://i.ytimg.com/vi/UUN022BuNgw/hq720.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "ඔබ මවිත වෙන මීපැණි වල දැමූ සුදුළුුනු වල විශ්මිත ගුණ  ඔබත් අදම මේ විදියට හදල කාලා බලන්න",
+                "url": "https://youtube.com/watch?v=mqlbbCSgAzo",
+                "duration": "11:28",
+                "thumbnail": "https://i.ytimg.com/vi/mqlbbCSgAzo/hq720.jpg"
+            },
+            {
+                "title": "🟡පොලිස් නිල සුනඛයා ඉවක් පසුපස හඹා ගිහිං | රංගගේ ශරීරයේ පෙරහුරු කැපුම් දෙකක් | @MeeMassooTV",
+                "url": "https://youtube.com/watch?v=BMEeWX9K7-c",
+                "duration": "33:24",
+                "thumbnail": "https://i.ytimg.com/vi/BMEeWX9K7-c/hq720.jpg"
+            },
+            {
+                "title": "නයි පොලොන් සංවාසය හරි පුදුමයි..| BUDU WEDAKAMA | EPISODE 11",
+                "url": "https://youtube.com/watch?v=3akhS-VRBcQ",
+                "duration": "22:56",
+                "thumbnail": "https://i.ytimg.com/vi/3akhS-VRBcQ/hq720.jpg"
+            },
+            {
+                "title": "🇱🇰 නීරෝගීව ඉන්න දෙවියන් ලබා දුන් මිහිරි රසැති  කොළ මැල්ලුම Miracle of Sauropus Androgynus by Kusala",
+                "url": "https://youtube.com/watch?v=eb_kziGe_y4",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/eb_kziGe_y4/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු මේ විදියට විතරක් කන්න නැත්නම් සුදු ලූණු වල ගුණ නැතිවෙනවා |Take Garlic, Don't Make Mistake",
+                "url": "https://youtube.com/watch?v=h4tX2HGiCgg",
+                "duration": "8:44",
+                "thumbnail": "https://i.ytimg.com/vi/h4tX2HGiCgg/hq720.jpg"
+            },
+            {
+                "title": "Sulu nai",
+                "url": "https://youtube.com/watch?v=nAIorwj7kgk",
+                "duration": "1:17",
+                "thumbnail": "https://i.ytimg.com/vi/nAIorwj7kgk/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "News Alert  ඇමරිකාවෙන් ලැබුණු නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත් කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=QoxbefYPMS4",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/QoxbefYPMS4/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "fiowers/Grade 4/parisaraya/4 ශ්‍රේණිය/පරිසරය/කාල නියමයක් ඇති, නැති මල්,   එක් කාලයකට හටගන්නා පලතුරු.",
+                "url": "https://youtube.com/watch?v=m8WNL2FqM60",
+                "duration": "6:37",
+                "thumbnail": "https://i.ytimg.com/vi/m8WNL2FqM60/hq720.jpg"
+            },
+            {
+                "title": "පහ වසර ශිෂ්‍යත්වයට /සුලඟේ ප්‍රයෝජන - for grade 5 scholarship",
+                "url": "https://youtube.com/watch?v=JHMqo39M4Sk",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/JHMqo39M4Sk/hq720.jpg"
+            },
+            {
+                "title": "මේ විදියට උළුහාල් වතුර පානය කරොත් සම වේගයෙන් තිරිහන් වෙනවා | Your Natural Secret for Glowing Skin",
+                "url": "https://youtube.com/watch?v=aRFwr7oAbrs",
+                "duration": "9:14",
+                "thumbnail": "https://i.ytimg.com/vi/aRFwr7oAbrs/hq720.jpg"
+            },
+            {
+                "title": "Turmeric Water Benefits In The Evening | 10 Health Benefits of Turmeric Water Doctors Never Tell You",
+                "url": "https://youtube.com/watch?v=RsCITGR3IPQ",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/RsCITGR3IPQ/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits of Sunflower Seeds",
+                "url": "https://youtube.com/watch?v=TpZhXPth5J8",
+                "duration": "8:14",
+                "thumbnail": "https://i.ytimg.com/vi/TpZhXPth5J8/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Coma",
-      "sinhala": "අසිහිය / කෝමා තත්ත්වය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Stems",
-    "Whole Plant"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

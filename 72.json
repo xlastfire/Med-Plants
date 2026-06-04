@@ -1,223 +1,534 @@
 {
-  "scientificName": "Annona muricata L.",
-  "synonyms": [
-    "Annona bonplandiana Kunth",
-    "Annona cearaensis Barb.Rodr.",
-    "Annona muricata f. mirabilis R.E.Fr.",
-    "Annona muricata var. borinquensis Morales"
-  ],
-  "familyName": "ANNONACEAE",
-  "englishNames": [
-    "Prickly Custard Apple",
-    "Soursop"
-  ],
-  "sinhalaName": "Katu anoda  (කටු අනෝදා)",
-  "description": "මීටර් 4-10ක් උසැති ගසකි. අතු ළපටි අවස්ථාවේදී තද දුඹුරු පැහැති රෝමවලින් (fulvous hairs) වැසී පවතී (pubescent), නමුත් ඉක්මනින්ම රෝම රහිත වේ (glabrate). පත්‍ර තලය සෙන්ටිමීටර 8-16ක් දිග සහ සෙන්ටිමීටර 3-7ක් පළල වේ. එය ප්‍රතිලෝම බිත්තරාකාර (obovate) හෝ පටු ප්‍රතිලෝම බිත්තරාකාර හැඩයක් ගනී. පත්‍ර පාදය වටකුරු වුවත් කෙටි ලෙස පහළට විහිදී පවතී (short-decurrent), අග්‍රය හදිසියේම කෙටි උල් හැඩයක් ගනී (abruptly short-acuminate). පත්‍රයේ උඩු පැත්ත රෝම රහිත (glabrous) වන අතර යටි පැත්තෙහි විරලව රෝම පිහිටයි (sparsely pubescent). මල් කොළ පැහැති කහ පැහැයක් ගනී, අග්‍රස්ථව හෝ පත්‍රවලට විරුද්ධව පිහිටයි. ඉදුණු පලතුර සෙන්ටිමීටර 10-25ක් දිග සහ සෙන්ටිමීටර 15ක් දක්වා විෂ්කම්භයකින් යුක්ත වේ. එය තද කොළ පැහැති වන අතර මිලිමීටර 6ක් පමණ දිග සාමාන්‍යයෙන් වක්‍ර වූ මෘදු කටුවලින් වැසී පවතී; මදය සුදු පැහැතිය. බීජ කළු පැහැයට හුරු දුඹුරු පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Hypertension",
-      "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
+    "scientificName": "Annona muricata L.",
+    "synonyms": [
+        "Annona bonplandiana Kunth",
+        "Annona cearaensis Barb.Rodr.",
+        "Annona muricata f. mirabilis R.E.Fr.",
+        "Annona muricata var. borinquensis Morales"
+    ],
+    "familyName": "ANNONACEAE",
+    "englishNames": [
+        "Prickly Custard Apple",
+        "Soursop"
+    ],
+    "sinhalaName": "Katu anoda  (කටු අනෝදා)",
+    "description": "මීටර් 4-10ක් උසැති ගසකි. අතු ළපටි අවස්ථාවේදී තද දුඹුරු පැහැති රෝමවලින් (fulvous hairs) වැසී පවතී (pubescent), නමුත් ඉක්මනින්ම රෝම රහිත වේ (glabrate). පත්‍ර තලය සෙන්ටිමීටර 8-16ක් දිග සහ සෙන්ටිමීටර 3-7ක් පළල වේ. එය ප්‍රතිලෝම බිත්තරාකාර (obovate) හෝ පටු ප්‍රතිලෝම බිත්තරාකාර හැඩයක් ගනී. පත්‍ර පාදය වටකුරු වුවත් කෙටි ලෙස පහළට විහිදී පවතී (short-decurrent), අග්‍රය හදිසියේම කෙටි උල් හැඩයක් ගනී (abruptly short-acuminate). පත්‍රයේ උඩු පැත්ත රෝම රහිත (glabrous) වන අතර යටි පැත්තෙහි විරලව රෝම පිහිටයි (sparsely pubescent). මල් කොළ පැහැති කහ පැහැයක් ගනී, අග්‍රස්ථව හෝ පත්‍රවලට විරුද්ධව පිහිටයි. ඉදුණු පලතුර සෙන්ටිමීටර 10-25ක් දිග සහ සෙන්ටිමීටර 15ක් දක්වා විෂ්කම්භයකින් යුක්ත වේ. එය තද කොළ පැහැති වන අතර මිලිමීටර 6ක් පමණ දිග සාමාන්‍යයෙන් වක්‍ර වූ මෘදු කටුවලින් වැසී පවතී; මදය සුදු පැහැතිය. බීජ කළු පැහැයට හුරු දුඹුරු පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Hypertension",
+            "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Depression",
+            "sinhala": "විෂාදය (මානසික අවපීඩනය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Pediculosis Capitis",
+            "sinhala": "හිසේ උකුණන් බෝවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nasopharyngeal Disorders",
+            "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Scurvy",
+            "sinhala": "ස්කර්වි රෝගය (විටමින් C ඌනතාවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Parasitic Infestation",
+            "sinhala": "පරපෝෂිත ආසාදන/පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark",
+        "Leaves",
+        "Fruits",
+        "Flowers",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "1077",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/4HjyJ9p/plant00072-01077.jpg"
+        },
+        {
+            "image_id": "1078",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/kVCjQvr9/plant00072-01078.jpg"
+        },
+        {
+            "image_id": "1079",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/gZKzQkwS/plant00072-01079.jpg"
+        },
+        {
+            "image_id": "1080",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/hFhHZ9yr/plant00072-01080.jpg"
+        },
+        {
+            "image_id": "3342",
+            "caption": "Seeds (PMR)",
+            "url": "https://i.ibb.co/ksG0SyJv/plant00072-03342.jpg"
+        },
+        {
+            "image_id": "3343",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/HmPjQXG/plant00072-03343.jpg"
+        },
+        {
+            "image_id": "3344",
+            "caption": "Leaf Upper Surface(PMR)",
+            "url": "https://i.ibb.co/5ZdsSj7/plant00072-03344.jpg"
+        },
+        {
+            "image_id": "3345",
+            "caption": "Leaf Lower Surface (PMR)",
+            "url": "https://i.ibb.co/LyWbJ4B/plant00072-03345.jpg"
+        },
+        {
+            "image_id": "3346",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/gFhg3pp2/plant00072-03346.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කටු අනෝදා වල ඇත්ත නැත්ත!.. | Soursop ( Graviola) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LTJtQuq7P_g",
+                "duration": "10:12",
+                "thumbnail": "https://i.ytimg.com/vi/LTJtQuq7P_g/hq720.jpg"
+            },
+            {
+                "title": "කවුරුත් කන්න ආස නොදන්න ගුනදායක කටු අනෝදා වෑන්ජනය ✔‍😍 Soursop Curry Recipe | Traditional Sisters",
+                "url": "https://youtube.com/watch?v=TyKrQFqvc9U",
+                "duration": "9:09",
+                "thumbnail": "https://i.ytimg.com/vi/TyKrQFqvc9U/hqdefault.jpg"
+            },
+            {
+                "title": "✔ Katu anoda juice(Soursop) by Ape Amma | සුව නින්දට සහ රෝග රැසකට සුවය දෙන අනෝදා පානය",
+                "url": "https://youtube.com/watch?v=KOjmYOKqqh4",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/KOjmYOKqqh4/hq720.jpg"
+            },
+            {
+                "title": "A vegetable from the garden full of medicinal properties Soursop Curry 🇱🇰 by Kusala's Simple Life ❤",
+                "url": "https://youtube.com/watch?v=X_Np3oooYbo",
+                "duration": "7:11",
+                "thumbnail": "https://i.ytimg.com/vi/X_Np3oooYbo/hq720.jpg"
+            },
+            {
+                "title": "Katu Anoda Juice | Soursop Juice Drink | Soursop Juice Recipes | කටු අනෝදා බීම එකක් හදමු",
+                "url": "https://youtube.com/watch?v=0IemWoDMmiU",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/0IemWoDMmiU/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා ආහාරයට ගන්නා අයගේ සිරුරේ සිදුවන විශ්මිත වෙනස මෙන්​න - Super Benifts of soursop Fruits",
+                "url": "https://youtube.com/watch?v=erCo2T3u1O4",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/erCo2T3u1O4/hq720.jpg"
+            },
+            {
+                "title": "අනෝදා වල විශ්මිත ගුණ - Amazing properties of Soursop",
+                "url": "https://youtube.com/watch?v=VNXS7J8e-tQ",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/VNXS7J8e-tQ/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා (Soursop) වැඩි පැළ ප්‍රමාණයක් අඩු පරතරයට ගෙවත්තේ වවා කප්පාදු කරමින් නඩත්තු කරමු",
+                "url": "https://youtube.com/watch?v=ybcnPph_6e0",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/ybcnPph_6e0/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා වල ඇත්ත නැත්ත!.. | Soursop ( Graviola) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=YdUFYKgFEfU",
+                "duration": "10:12",
+                "thumbnail": "https://i.ytimg.com/vi/YdUFYKgFEfU/frame0.jpg"
+            },
+            {
+                "title": "අනෝදා කොළ වල ඇති සුවිශේෂ වූ මේ විශ්මිත ගුණ ගැන ඔබ දැන සිටියාද? - Benefits Of Graviola Leaf",
+                "url": "https://youtube.com/watch?v=Xu0rFc_Th-A",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/Xu0rFc_Th-A/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා වල  විශ්මිත ගුණ  | Katu anoda",
+                "url": "https://youtube.com/watch?v=CurBJvHadjU",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/CurBJvHadjU/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ නසන  කටු අනෝදා  කොළ | Soursop (Graviola) Tea  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=KdqAxJwIsRE",
+                "duration": "12:38",
+                "thumbnail": "https://i.ytimg.com/vi/KdqAxJwIsRE/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Soursop: කටු අනෝදා කෑවොත් වෙන දේ (2018)",
+                "url": "https://youtube.com/watch?v=MFXquSiprSw",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/MFXquSiprSw/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු වල සහ පිත්තාශයේ ගල් සුවකරන අරුම පුදුම කටු අනෝදා ගෙඩිය! 🍈💪😍🌿",
+                "url": "https://youtube.com/watch?v=N_GNmO375rM",
+                "duration": "5:30",
+                "thumbnail": "https://i.ytimg.com/vi/N_GNmO375rM/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධයක් හැටියටත් භාවිත කරන අනෝදා, රෝග නාශක ගුණයෙන්ද යුතුයි.",
+                "url": "https://youtube.com/watch?v=eue97skOi1w",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/eue97skOi1w/hq720.jpg"
+            },
+            {
+                "title": "පිළිකාව නසන රෝග රැසකට ගුණ දෙන කටු අනෝදා.",
+                "url": "https://youtube.com/watch?v=iMamPl4Lkk8",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/iMamPl4Lkk8/hq720.jpg"
+            },
+            {
+                "title": "අනෝදා ඇට කැවුනොත් මෙතරම් භයානකද? අනෝදා වල ගුණ අගුණ Annona: Benefits & Seed Dangers!",
+                "url": "https://youtube.com/watch?v=Q5tzrsfs-JM",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/Q5tzrsfs-JM/hq720.jpg"
+            },
+            {
+                "title": "සුවහසක් ලෙඩරෝග සුවකරන අනෝදා පානය | Health Benefits of Soursop Leaves Annona muricata Tea",
+                "url": "https://youtube.com/watch?v=Pc5VTXBmM50",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/Pc5VTXBmM50/hqdefault.jpg"
+            },
+            {
+                "title": "මහන්සි වෙලාවට අමෘතය වගේ මේක😌 ගුණ දැනගෙනම හදාගන්න Soursop benefit and Drink - Kusala's Simple Life🍃",
+                "url": "https://youtube.com/watch?v=0YuQDtSXQf4",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/0YuQDtSXQf4/hqdefault.jpg"
+            },
+            {
+                "title": "කටු අනෝදා උයලා කෑවොත් වෙනදේ දන්නවද ??? දන්නවනම් ඔයාලා පුදුම වෙනවා",
+                "url": "https://youtube.com/watch?v=sarq_JclMNQ",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/sarq_JclMNQ/hqdefault.jpg"
+            },
+            {
+                "title": "කටු අනෝදා වල ඇත්ත නැත්ත!.. | Soursop ( Graviola) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Rr64KZo3oj4",
+                "duration": "10:12",
+                "thumbnail": "https://i.ytimg.com/vi/Rr64KZo3oj4/frame0.jpg"
+            },
+            {
+                "title": "Soursop Benefits",
+                "url": "https://youtube.com/watch?v=AxyF8HngqDQ",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/AxyF8HngqDQ/hq720.jpg"
+            },
+            {
+                "title": "සිරුරේ නිවනට සහ සුව නින්දකට රසවත් අනෝදා බීම - Soursop Juice Recipe|anoda juice❤️😋",
+                "url": "https://youtube.com/watch?v=1sojMpAoWpo",
+                "duration": "1:55",
+                "thumbnail": "https://i.ytimg.com/vi/1sojMpAoWpo/hq720.jpg"
+            },
+            {
+                "title": "කෘතිම පරාගනයකින් තොරව කටු අනෝදා වගාවෙන් ඉහල ඵලදාවක් ලබා ගනිමු #කටුඅනෝදා #farming #agriculture #fruit",
+                "url": "https://youtube.com/watch?v=pOhRb8uXIA4",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/pOhRb8uXIA4/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධයක් හැටියටත් භාවිත කරන අනෝදා, රෝග නාශක ගුණයෙන්ද යුතුයි.",
+                "url": "https://youtube.com/watch?v=bvpU09r9Th4",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/bvpU09r9Th4/frame0.jpg"
+            },
+            {
+                "title": "කටු අනෝදා වගාව සහ ඖෂධීය ගුණ . Katu anoda vagava  .",
+                "url": "https://youtube.com/watch?v=HVF77d0PMSY",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/HVF77d0PMSY/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා පානය / Soursop Juice / Katu anoda Juice / ඖෂධීය ගුණ සහිත කටු අනෝදා පානය. Katu anoda bima",
+                "url": "https://youtube.com/watch?v=Ys-JUgVtyoA",
+                "duration": "3:40",
+                "thumbnail": "https://i.ytimg.com/vi/Ys-JUgVtyoA/hq720.jpg"
+            },
+            {
+                "title": "“Annona muricata | කටු අනෝදා වල ඖෂධීය බලය”#කටුඅනෝදා#AnnonaMuricata#NaturalMedicine#HerbalKnowledge",
+                "url": "https://youtube.com/watch?v=6JONghSARqA",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/6JONghSARqA/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා",
+                "url": "https://youtube.com/watch?v=SfxOdVv7c48",
+                "duration": "0:27",
+                "thumbnail": "https://i.ytimg.com/vi/SfxOdVv7c48/hq720.jpg"
+            },
+            {
+                "title": "අනෝදා කොළ වල ඇති සුවිශේෂ වූ මේ විශ්මිත ගුණ ගැන ඔබ දැන සිටියාද? - Benefits Of Graviola Leaf",
+                "url": "https://youtube.com/watch?v=zXSqhPwWCqg",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/zXSqhPwWCqg/frame0.jpg"
+            },
+            {
+                "title": "කටු අනෝදා ශාකයෙන් අපට ලැබෙන ප්‍රයෝජන හා ප්‍රතිලාභUses and benefits that we get from Katu Anoda plant",
+                "url": "https://youtube.com/watch?v=u6h185yFG8U",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/u6h185yFG8U/hq720.jpg"
+            },
+            {
+                "title": "කටු අනොදා sri lankanaryurwedik plant #annona muricata #pricklycusturdapple #wiswaya",
+                "url": "https://youtube.com/watch?v=_sO64JaMUpI",
+                "duration": "6:51",
+                "thumbnail": "https://i.ytimg.com/vi/_sO64JaMUpI/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුනයෙන් පිරි කටු අනොදා ...katu anoda",
+                "url": "https://youtube.com/watch?v=_Fara_E47u0",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/_Fara_E47u0/hq720.jpg"
+            },
+            {
+                "title": "කටු අනොදා පරාගනය කිරිම (උපුටා ගැනීමකි )",
+                "url": "https://youtube.com/watch?v=PYgylDhpL10",
+                "duration": "6:14",
+                "thumbnail": "https://i.ytimg.com/vi/PYgylDhpL10/hqdefault.jpg"
+            },
+            {
+                "title": "කටු අනෝදා|katu atta|healthy food and fruits @knowledge.evolution #katuanodha",
+                "url": "https://youtube.com/watch?v=IoD00VMytsw",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/IoD00VMytsw/hqdefault.jpg"
+            },
+            {
+                "title": "කටු අනෝදා ගැන නොදන්න කතාව",
+                "url": "https://youtube.com/watch?v=m2FQesbFc2Y",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/m2FQesbFc2Y/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා කෑවොත් සිදුවන දේ | Annona muricata | Soursop tree",
+                "url": "https://youtube.com/watch?v=rGFrMQYSqDQ",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/rGFrMQYSqDQ/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Guyabano - කටු අනෝදා ගැන ඔබ නොදත් ගුණ මෙන්න",
+                "url": "https://youtube.com/watch?v=1pm97IQa5iQ",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/1pm97IQa5iQ/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of soursop (katu anoda) | කටු අනෝදා වල ගුණ මහිමය 👈😋",
+                "url": "https://youtube.com/watch?v=wO7MygMdnJM",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/wO7MygMdnJM/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ගල් දියකරන කටු අනෝදා | Katu anoda | Katu Attha | Rata Anoda | Annona muricata | Soursop",
+                "url": "https://youtube.com/watch?v=ONf0oVQ7JRc",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/ONf0oVQ7JRc/hq720.jpg"
+            },
+            {
+                "title": "අනෝදා කොළ වල ඇති සුවිශේෂ වූ මේ විශ්මිත ගුණ ගැන ඔබ දැන සිටියාද? - Benefits Of Graviola Leaf",
+                "url": "https://youtube.com/watch?v=WtZYVFRUot4",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/WtZYVFRUot4/frame0.jpg"
+            },
+            {
+                "title": "How to make a soursop juice රස ගුණ පිරි කටු අනෝදා බීම l Onama Kemak ඕනම කෑමක්",
+                "url": "https://youtube.com/watch?v=lh971S09ekY",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/lh971S09ekY/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා (Soursop) වැඩි පැළ ප්‍රමාණයක් අඩු පරතරයට ගෙවත්තේ වවා කප්පාදු කරමින් නඩත්තු කරමු",
+                "url": "https://youtube.com/watch?v=3wcjAcrQ6fs",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/3wcjAcrQ6fs/frame0.jpg"
+            },
+            {
+                "title": "සම පැහැපත් කරන රෝග නසන කටු අනෝදා පානය/Skin lightening and disease-killing kattu anoda drink",
+                "url": "https://youtube.com/watch?v=dMTsU3KRMaY",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/dMTsU3KRMaY/hqdefault.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ සහිත ශරිරයේ ප්‍රතිශක්තිකරණය වැඩිකරන කටු අනෝදා වැංජනය",
+                "url": "https://youtube.com/watch?v=FFpsHUPDGE4",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/FFpsHUPDGE4/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා කෑවොත් සිදුවන දේ අදහාගත නොහැකියි - Annona Muricata Anticancer Activity",
+                "url": "https://youtube.com/watch?v=6t2Ku_oZXgM",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/6t2Ku_oZXgM/hq720.jpg"
+            },
+            {
+                "title": "Katu anoda - කටු අනෝදා",
+                "url": "https://youtube.com/watch?v=rgfzSeRhh1g",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/rgfzSeRhh1g/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා මල් පිපෙන්නෙ නැද්ද? ගෙඩි හැදෙන්නේ නැද්ද මෙන්න විසඳුම.   |   වගා දැනුම.",
+                "url": "https://youtube.com/watch?v=W-2Sv-wGU5s",
+                "duration": "8:07",
+                "thumbnail": "https://i.ytimg.com/vi/W-2Sv-wGU5s/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා මල් හැල්ලෙනේ ඇයි ? හේතු සියල්ල මෙන්න | Why soursop flower shedding ? | #soursop",
+                "url": "https://youtube.com/watch?v=FzWKlhbs-y4",
+                "duration": "9:58",
+                "thumbnail": "https://i.ytimg.com/vi/FzWKlhbs-y4/hq720.jpg"
+            },
+            {
+                "title": "katu anoda | කටු අනෝදා කෑවොත් සිදුවන දේ අදහාගත නොහැකියි | Annona Muricata Anticancer Activity",
+                "url": "https://youtube.com/watch?v=aGQCFW8ndos",
+                "duration": "5:14",
+                "thumbnail": "https://i.ytimg.com/vi/aGQCFW8ndos/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා වල ඇත්ත නැත්ත!.. | Soursop ( Graviola) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Lz0dCfAj44Y",
+                "duration": "10:12",
+                "thumbnail": "https://i.ytimg.com/vi/Lz0dCfAj44Y/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Depression",
-      "sinhala": "විෂාදය (මානසික අවපීඩනය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Pediculosis Capitis",
-      "sinhala": "හිසේ උකුණන් බෝවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nasopharyngeal Disorders",
-      "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Scurvy",
-      "sinhala": "ස්කර්වි රෝගය (විටමින් C ඌනතාවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Parasitic Infestation",
-      "sinhala": "පරපෝෂිත ආසාදන/පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark",
-    "Leaves",
-    "Fruits",
-    "Flowers",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "1077",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/4HjyJ9p/plant00072-01077.jpg"
-    },
-    {
-      "image_id": "1078",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/kVCjQvr9/plant00072-01078.jpg"
-    },
-    {
-      "image_id": "1079",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/gZKzQkwS/plant00072-01079.jpg"
-    },
-    {
-      "image_id": "1080",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/hFhHZ9yr/plant00072-01080.jpg"
-    },
-    {
-      "image_id": "3342",
-      "caption": "Seeds (PMR)",
-      "url": "https://i.ibb.co/ksG0SyJv/plant00072-03342.jpg"
-    },
-    {
-      "image_id": "3343",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/HmPjQXG/plant00072-03343.jpg"
-    },
-    {
-      "image_id": "3344",
-      "caption": "Leaf Upper Surface(PMR)",
-      "url": "https://i.ibb.co/5ZdsSj7/plant00072-03344.jpg"
-    },
-    {
-      "image_id": "3345",
-      "caption": "Leaf Lower Surface (PMR)",
-      "url": "https://i.ibb.co/LyWbJ4B/plant00072-03345.jpg"
-    },
-    {
-      "image_id": "3346",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/gFhg3pp2/plant00072-03346.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

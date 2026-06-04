@@ -1,74 +1,379 @@
 {
-  "scientificName": "Ochlandra stridula Thwaites",
-  "synonyms": [
-    "Bambusa stridula Moon",
-    "Beesha stridula Munro",
-    "Ochlandra stridula var. maculata (Trimen) Gamble",
-    "Teinostachyum maculatum Trimen"
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Reed bamboo"
-  ],
-  "sinhalaName": "Bata (බට)",
-  "description": "ශාකයේ ස්වභාවය ඒකීය පොකුරු සහිත (unicaespitose) වන අතර රයිසෝම පැචිමෝර්ෆ් (pachymorph) වේ. කඳන් මෘදු වන අතර අලුත් අවස්ථාවේදී ලා දුඹුරු-තද රතු පැහැයක් ගන්නා අතර පසුව තද කොළ පැහැයට හැරේ. උස මීටර් 4-5ක් වන අතර විෂ්කම්භය සෙන්ටිමීටර 1ක් පමණ වේ. අන්තර් පර්ව (internodes) කුහර සහිත වන අතර කඳේ මැද කොටසේ දිග සෙන්ටිමීටර 39-42ක් වන අතර රෝම රහිත (glabrous) වේ. පත්‍ර තල සහිත (laminiferous) වන අතර අලුත් අවස්ථාවේදී යටි පැත්ත කොළ පැහැයට හුරු දුඹුරු පැහැයක් ගනී. පත්‍රයේ මුදුන තැඹිලි-දුඹුරු සිට තද රතු පැහැයට හැරෙන අතර දිග සෙන්ටිමීටර 7.5ක් සහ පළල සෙන්ටිමීටර 1ක් වේ. පත්‍ර සහිත අතු සෙන්ටිමීටර 55-81ක් දිග වන අතර පත්‍ර 8-14ක් දරයි. කරල් (spikelets) සෙන්ටිමීටර 3ක් පමණ දිග සහ මිලිමීටර 5ක් පළල වේ.",
-  "treatments": [
-    {
-      "treatment": "Polyuria",
-      "sinhala": "බහුමුත්‍රතාව (අධික ලෙස මුත්‍රා පිටවීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Ochlandra stridula Thwaites",
+    "synonyms": [
+        "Bambusa stridula Moon",
+        "Beesha stridula Munro",
+        "Ochlandra stridula var. maculata (Trimen) Gamble",
+        "Teinostachyum maculatum Trimen"
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Reed bamboo"
+    ],
+    "sinhalaName": "Bata (බට)",
+    "description": "ශාකයේ ස්වභාවය ඒකීය පොකුරු සහිත (unicaespitose) වන අතර රයිසෝම පැචිමෝර්ෆ් (pachymorph) වේ. කඳන් මෘදු වන අතර අලුත් අවස්ථාවේදී ලා දුඹුරු-තද රතු පැහැයක් ගන්නා අතර පසුව තද කොළ පැහැයට හැරේ. උස මීටර් 4-5ක් වන අතර විෂ්කම්භය සෙන්ටිමීටර 1ක් පමණ වේ. අන්තර් පර්ව (internodes) කුහර සහිත වන අතර කඳේ මැද කොටසේ දිග සෙන්ටිමීටර 39-42ක් වන අතර රෝම රහිත (glabrous) වේ. පත්‍ර තල සහිත (laminiferous) වන අතර අලුත් අවස්ථාවේදී යටි පැත්ත කොළ පැහැයට හුරු දුඹුරු පැහැයක් ගනී. පත්‍රයේ මුදුන තැඹිලි-දුඹුරු සිට තද රතු පැහැයට හැරෙන අතර දිග සෙන්ටිමීටර 7.5ක් සහ පළල සෙන්ටිමීටර 1ක් වේ. පත්‍ර සහිත අතු සෙන්ටිමීටර 55-81ක් දිග වන අතර පත්‍ර 8-14ක් දරයි. කරල් (spikelets) සෙන්ටිමීටර 3ක් පමණ දිග සහ මිලිමීටර 5ක් පළල වේ.",
+    "treatments": [
+        {
+            "treatment": "Polyuria",
+            "sinhala": "බහුමුත්‍රතාව (අධික ලෙස මුත්‍රා පිටවීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "1743",
+            "caption": "Habit 1",
+            "url": "https://i.ibb.co/M59LvdtP/plant01040-01743.jpg"
+        },
+        {
+            "image_id": "1744",
+            "caption": "Habit 2",
+            "url": "https://i.ibb.co/4nFC7DJP/plant01040-01744.jpg"
+        },
+        {
+            "image_id": "1745",
+            "caption": "Young shoot",
+            "url": "https://i.ibb.co/zT8DzxJY/plant01040-01745.jpg"
+        },
+        {
+            "image_id": "3887",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/5xxb65jW/plant01040-03887.jpg"
+        },
+        {
+            "image_id": "3888",
+            "caption": "Leaves - upper surface (PMR)",
+            "url": "https://i.ibb.co/NMH7jYq/plant01040-03888.jpg"
+        },
+        {
+            "image_id": "3889",
+            "caption": "Leaves - lower surface (PMR)",
+            "url": "https://i.ibb.co/zHHYs5rZ/plant01040-03889.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "බට (Ochlandra stridula Thwaites) 🎋",
+                "url": "https://youtube.com/watch?v=P5ZkSFX5ceQ",
+                "duration": "17:30",
+                "thumbnail": "https://i.ytimg.com/vi/P5ZkSFX5ceQ/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බට කෙළ විශ්මිත ගුණ yapanbatu",
+                "url": "https://youtube.com/watch?v=jN0GtUdlNbU",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/jN0GtUdlNbU/hqdefault.jpg"
+            },
+            {
+                "title": "වී වෙනුවට බට පීදෙයි  - \"අපට ඉතිරි වෙන්න කිසිම දෙයක් නෑ\" - Hiru News",
+                "url": "https://youtube.com/watch?v=XHohiqXU9LY",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/XHohiqXU9LY/hq720.jpg"
+            },
+            {
+                "title": "බඩ ඉරිගු වල ගුණ |Corn",
+                "url": "https://youtube.com/watch?v=86vQdk9CZFA",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/86vQdk9CZFA/hqdefault.jpg"
+            },
+            {
+                "title": "බට ගොඩ වැඩිහිටි නිවාසය ගින්නෙන් අලු බවට පත් වෙයි",
+                "url": "https://youtube.com/watch?v=srDLSquUJpY",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/srDLSquUJpY/hqdefault.jpg"
+            },
+            {
+                "title": "තිබ්බටු කෑවට එකේ ගුණ ගැන ඔබ දැනගෙන හිටියේ නැහැ නේද? මේක දිව්‍ය ඖෂධයක්",
+                "url": "https://youtube.com/watch?v=U0eg_h7T6i8",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/U0eg_h7T6i8/hq720.jpg"
+            },
+            {
+                "title": "තිබිබටු ගෙඩියක් කරපු දෙයක්😥ඇත්තටම මෙහෙමද තිබිබටු? තිබිබටු වල ගුණ අගුණ",
+                "url": "https://youtube.com/watch?v=j2F_imzpej4",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/j2F_imzpej4/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ එළබටු වල විශ්මිත ගුණ - Amazing properties of Batu Vegetable",
+                "url": "https://youtube.com/watch?v=krcNHcPh3Zk",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/krcNHcPh3Zk/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "උණ බට අංකුර සාදාගන්නේ මෙහෙමයි",
+                "url": "https://youtube.com/watch?v=s31SDP2Pwrk",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/s31SDP2Pwrk/hq720.jpg"
+            },
+            {
+                "title": "එලබටු වල ගුණ |බටු කොළ බීඩි වල ගුණ.",
+                "url": "https://youtube.com/watch?v=yQ-6jO6HNCw",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/yQ-6jO6HNCw/hqdefault.jpg"
+            },
+            {
+                "title": "උණ බට පලන මැෂීම",
+                "url": "https://youtube.com/watch?v=1tvQDwTtslc",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/1tvQDwTtslc/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "බාදුරා පැල ගැන තොරතුරු | How To Grow Nepenthes Plants In Sinhala",
+                "url": "https://youtube.com/watch?v=_txfTc8ZSAQ",
+                "duration": "5:49",
+                "thumbnail": "https://i.ytimg.com/vi/_txfTc8ZSAQ/hqdefault.jpg"
+            },
+            {
+                "title": "Sauropus androgynus : ජපන් බටු හෙවත් සිංගප්පූරු කොළ ඇත්තටම පිළිකාකාරක ද",
+                "url": "https://youtube.com/watch?v=lzJ4UrN2iJI",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/lzJ4UrN2iJI/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ජපන් බටු පෝෂණ ගබඩාවක්ද? නැතිනම් මාරාන්තික අනතුරක්ද? 🌿",
+                "url": "https://youtube.com/watch?v=eWHlkehp63Q",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/eWHlkehp63Q/hq720.jpg"
+            },
+            {
+                "title": "බීට්රූට් යුෂ බොන අයගේ ශරීරයට සිදුවන පුදුම හිතෙන දේවල් 7ක් - 7 Health Benefits of Drinking Beet Juice",
+                "url": "https://youtube.com/watch?v=02rCtdWXXTI",
+                "duration": "10:07",
+                "thumbnail": "https://i.ytimg.com/vi/02rCtdWXXTI/hq720.jpg"
+            },
+            {
+                "title": "බටු 🍆කුණුවිම ආරම්බක 👉සලකුණු brinjal diseases  phomopsis Episode 4  #brinjal #fungicides",
+                "url": "https://youtube.com/watch?v=FKtSgDCV64c",
+                "duration": "5:58",
+                "thumbnail": "https://i.ytimg.com/vi/FKtSgDCV64c/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "උයනකොට විටමින් වැඩිවෙන එළවලු 10 ක්!",
+                "url": "https://youtube.com/watch?v=L9CaqwUOFHY",
+                "duration": "9:39",
+                "thumbnail": "https://i.ytimg.com/vi/L9CaqwUOFHY/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "වට්ටක්කා වල ඇති කවුරුත් නොදන්නා විශ්මිත ගුණ - Amazing properties of pumpkin For a healthy life",
+                "url": "https://youtube.com/watch?v=vrvnJ7vDeCY",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/vrvnJ7vDeCY/hq720.jpg"
+            },
+            {
+                "title": "පීනට් බටර් ආහාරයට එකතු කරගත්තොත්, ඔබට ලැබෙන විශ්මිත වාසි තොගය | Peanut Butter Benefits",
+                "url": "https://youtube.com/watch?v=rWYGquQMDMY",
+                "duration": "10:15",
+                "thumbnail": "https://i.ytimg.com/vi/rWYGquQMDMY/hq720.jpg"
+            },
+            {
+                "title": "තලන බටු වැඩපුර කන අයට වෙන දේ මෙන්න : Benefits of Thai Eggplant",
+                "url": "https://youtube.com/watch?v=Z-JZPsbUw4E",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/Z-JZPsbUw4E/hq720.jpg"
+            },
+            {
+                "title": "විටමින් සහ ඛනිජ  ලවන බහුල අලකොල.(දිගිකල් ජීවත්වීමේ රහස් )",
+                "url": "https://youtube.com/watch?v=e7L70ribu00",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/e7L70ribu00/hq720.jpg"
+            },
+            {
+                "title": "Ampalaya (Bitter Melons): Health Benefits & Risks - Dr. Gary Sy",
+                "url": "https://youtube.com/watch?v=ChhT9PQ-0ck",
+                "duration": "28:36",
+                "thumbnail": "https://i.ytimg.com/vi/ChhT9PQ-0ck/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Plantain | 10 Reasons to eat plantains | Food Goodies | Plantains",
+                "url": "https://youtube.com/watch?v=ijMRprMK2_I",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/ijMRprMK2_I/hqdefault.jpg"
+            },
+            {
+                "title": "10 Health Benefits Of Rutabaga",
+                "url": "https://youtube.com/watch?v=lA8BFiIDXj8",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/lA8BFiIDXj8/hq720.jpg"
+            },
+            {
+                "title": "Beet Leaves Uses: Unveiling the Hidden Health Benefits Backed by Science and Real Life Stories!",
+                "url": "https://youtube.com/watch?v=67pLr0fz9Ko",
+                "duration": "15:30",
+                "thumbnail": "https://i.ytimg.com/vi/67pLr0fz9Ko/hq720.jpg"
+            },
+            {
+                "title": "Purslane: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=AKjcsZRcuQY",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/AKjcsZRcuQY/hq720.jpg"
+            },
+            {
+                "title": "Beet Leaves: Benefits & Uses",
+                "url": "https://youtube.com/watch?v=q6pTmsvlXhw",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/q6pTmsvlXhw/hq720.jpg"
+            },
+            {
+                "title": "6 Amazing Benefits of Bay Leaf! | What Do Bay Leaves do to Your Body?",
+                "url": "https://youtube.com/watch?v=hIZjQv8OCCs",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/hIZjQv8OCCs/hq720.jpg"
+            },
+            {
+                "title": "Plantain Uses and Benefits",
+                "url": "https://youtube.com/watch?v=-97NXHyxRjA",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/-97NXHyxRjA/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Alugbati (A Versatile and Nutritious Vegetable)",
+                "url": "https://youtube.com/watch?v=Eueb3lcEh9A",
+                "duration": "22:46",
+                "thumbnail": "https://i.ytimg.com/vi/Eueb3lcEh9A/hq720.jpg"
+            },
+            {
+                "title": "Ashitaba Plant: Health Benefits (Tomorrow Leaf)",
+                "url": "https://youtube.com/watch?v=pxJLhqXJS3Q",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/pxJLhqXJS3Q/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of bay leaves",
+                "url": "https://youtube.com/watch?v=WmUbp49XpII",
+                "duration": "0:37",
+                "thumbnail": "https://i.ytimg.com/vi/WmUbp49XpII/hq720.jpg"
+            },
+            {
+                "title": "Bitter Leaf: Benefits for Health",
+                "url": "https://youtube.com/watch?v=gMUH7ap8cdE",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/gMUH7ap8cdE/hq720.jpg"
+            },
+            {
+                "title": "10 HEALTH BENEFITS OF WILD EGGPLANT (Turkey Berry)",
+                "url": "https://youtube.com/watch?v=1E7W24wNt2k",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/1E7W24wNt2k/hq720.jpg"
+            },
+            {
+                "title": "Top 6 Health Benefits Of Blue Pea Flower!",
+                "url": "https://youtube.com/watch?v=xFWj3MP6ZaE",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/xFWj3MP6ZaE/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health Benefits of Basella or Alugbati, Malabar Spinach, Indian Spinach & Vine Spinach",
+                "url": "https://youtube.com/watch?v=Xmbfs8T20_o",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/Xmbfs8T20_o/hq720.jpg"
+            },
+            {
+                "title": "Teak Plant Benefits: Spiritual Uses & Powerful Health Secrets of Teak Leaves",
+                "url": "https://youtube.com/watch?v=w5g_pqslV6g",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/w5g_pqslV6g/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Bitter Leaf Health Benefits ( & SIDE EFFECTS)",
+                "url": "https://youtube.com/watch?v=qtQZNnaVCDQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/qtQZNnaVCDQ/hq720.jpg"
+            },
+            {
+                "title": "Ampalaya (Bitter Melons): Health Benefits & Risks - Dr. Gary Sy",
+                "url": "https://youtube.com/watch?v=vWcANk8ePTg",
+                "duration": "28:36",
+                "thumbnail": "https://i.ytimg.com/vi/vWcANk8ePTg/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "1743",
-      "caption": "Habit 1",
-      "url": "https://i.ibb.co/M59LvdtP/plant01040-01743.jpg"
-    },
-    {
-      "image_id": "1744",
-      "caption": "Habit 2",
-      "url": "https://i.ibb.co/4nFC7DJP/plant01040-01744.jpg"
-    },
-    {
-      "image_id": "1745",
-      "caption": "Young shoot",
-      "url": "https://i.ibb.co/zT8DzxJY/plant01040-01745.jpg"
-    },
-    {
-      "image_id": "3887",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/5xxb65jW/plant01040-03887.jpg"
-    },
-    {
-      "image_id": "3888",
-      "caption": "Leaves - upper surface (PMR)",
-      "url": "https://i.ibb.co/NMH7jYq/plant01040-03888.jpg"
-    },
-    {
-      "image_id": "3889",
-      "caption": "Leaves - lower surface (PMR)",
-      "url": "https://i.ibb.co/zHHYs5rZ/plant01040-03889.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,138 +1,191 @@
 {
-  "scientificName": "Tabernaemontana dichotoma Roxb. ex Wall.",
-  "synonyms": [
-    "Cerbera dichotoma G.Lodd.",
-    "Ervatamia dichotoma (Roxb. ex Wall.) Burkill",
-    "Pagiantha dichotoma (Roxb. ex Wall.) Markgr.",
-    "Rejoua dichotoma (Roxb. ex Wall.) Gamble",
-    "Tabernaemontana laurifolia Ker Gawl.",
-    "Tanghinia dichotoma G.Don"
-  ],
-  "familyName": "APOCYNACEAE",
-  "englishNames": [
-    "Eve's apple",
-    "Forbidden Fruit",
-    "Milk Wood Tree"
-  ],
-  "sinhalaName": "Divi kaduru (දිවි කදුරු)",
-  "description": "කුඩා රෝම රහිත (glabrous) ගස් වේ. ළපටි කොටස් දිලිසෙන, දුම්මල වැනි ආලේපයකින් වැසී ඇත. පත්‍ර වෘන්තය සෙන්ටිමීටර 2-4 ක් දිගය. පත්‍ර අභිමුඛව පිහිටයි; පත්‍ර තලය සෙන්ටිමීටර 8-21 ක් දිග සහ සෙන්ටිමීටර 2-5.9 ක් පළලය. මල් පංච හෝ ෂට් අවයවික (five- or six-merous) වන අතර, දිගු පුෂ්ප දණ්ඩක් සහිත ද්විශාඛ (dichasially branched) සයිම (cymes) පුෂ්ප මංජරියක පිහිටයි. කොරොල්ලාව සුදු පැහැති වන අතර එහි උගුර සහ නාලය ඇතුළතින් කහ පැහැතිය; කොරොල්ලා නාලය සෙන්ටිමීටර 1.8-2.5 ක් දිගය. මෙරොකාප (merocarps) පහළට එල්ලෙන සුළු වන අතර, සෙන්ටිමීටර 3.5-7 ක් දිග සහ සෙන්ටිමීටර 3-5 ක් විෂ්කම්භයෙන් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Tabernaemontana dichotoma Roxb. ex Wall.",
+    "synonyms": [
+        "Cerbera dichotoma G.Lodd.",
+        "Ervatamia dichotoma (Roxb. ex Wall.) Burkill",
+        "Pagiantha dichotoma (Roxb. ex Wall.) Markgr.",
+        "Rejoua dichotoma (Roxb. ex Wall.) Gamble",
+        "Tabernaemontana laurifolia Ker Gawl.",
+        "Tanghinia dichotoma G.Don"
+    ],
+    "familyName": "APOCYNACEAE",
+    "englishNames": [
+        "Eve's apple",
+        "Forbidden Fruit",
+        "Milk Wood Tree"
+    ],
+    "sinhalaName": "Divi kaduru (දිවි කදුරු)",
+    "description": "කුඩා රෝම රහිත (glabrous) ගස් වේ. ළපටි කොටස් දිලිසෙන, දුම්මල වැනි ආලේපයකින් වැසී ඇත. පත්‍ර වෘන්තය සෙන්ටිමීටර 2-4 ක් දිගය. පත්‍ර අභිමුඛව පිහිටයි; පත්‍ර තලය සෙන්ටිමීටර 8-21 ක් දිග සහ සෙන්ටිමීටර 2-5.9 ක් පළලය. මල් පංච හෝ ෂට් අවයවික (five- or six-merous) වන අතර, දිගු පුෂ්ප දණ්ඩක් සහිත ද්විශාඛ (dichasially branched) සයිම (cymes) පුෂ්ප මංජරියක පිහිටයි. කොරොල්ලාව සුදු පැහැති වන අතර එහි උගුර සහ නාලය ඇතුළතින් කහ පැහැතිය; කොරොල්ලා නාලය සෙන්ටිමීටර 1.8-2.5 ක් දිගය. මෙරොකාප (merocarps) පහළට එල්ලෙන සුළු වන අතර, සෙන්ටිමීටර 3.5-7 ක් දිග සහ සෙන්ටිමීටර 3-5 ක් විෂ්කම්භයෙන් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Centipede Bites",
+            "sinhala": "පත්තෑ දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fistula-in-ano",
+            "sinhala": "භගන්දරය (ගුද මාර්ගයේ හටගන්නා වණ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Toothache",
+            "sinhala": "දත් කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Eye Infections",
+            "sinhala": "ඇස් ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "266",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/d08QPdXL/plant00116-00266.jpg"
+        },
+        {
+            "image_id": "267",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/4Zf2zg3V/plant00116-00267.jpg"
+        },
+        {
+            "image_id": "268",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/Q32fs86z/plant00116-00268.jpg"
+        },
+        {
+            "image_id": "1209",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/wNcj7LFq/plant00116-01209.jpg"
+        },
+        {
+            "image_id": "3368",
+            "caption": "Flower Buds (PMR)",
+            "url": "https://i.ibb.co/rKb6NBWs/plant00116-03368.jpg"
+        },
+        {
+            "image_id": "3369",
+            "caption": "Seeds (PMR)",
+            "url": "https://i.ibb.co/4w3vFXTT/plant00116-03369.jpg"
+        },
+        {
+            "image_id": "3370",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/QvtLc0yy/plant00116-03370.jpg"
+        },
+        {
+            "image_id": "3371",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/1hD8YRX/plant00116-03371.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "දිවි කදුරු ශාකය ගැන මේ දේවල් ඔබත් අහල තිබුණද | Divi kaduru| Pagiantha dichotoma🌿",
+                "url": "https://youtube.com/watch?v=IkbgUGY_rvM",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/IkbgUGY_rvM/hqdefault.jpg"
+            },
+            {
+                "title": "\"විෂ නසන දිවි කදුරු - ඔබ නොදැනු ගුණ සහ අවදානම්\"",
+                "url": "https://youtube.com/watch?v=tXYmP24zwCc",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/tXYmP24zwCc/hq720.jpg"
+            },
+            {
+                "title": "සර්ප විසට භාවිතා කරන දිවි කදුරු ඖෂධීය ශාකය කැවූනොත් මාරාන්තිකයි",
+                "url": "https://youtube.com/watch?v=gApmMFU_t5U",
+                "duration": "3:06",
+                "thumbnail": "https://i.ytimg.com/vi/gApmMFU_t5U/hq720.jpg"
+            },
+            {
+                "title": "දිවි කදුරු ඇත්තටම විසද? Diwi Kaduru Plant - කදුරු / දිවිකදුරු (Kaduru / Divikaduru)",
+                "url": "https://youtube.com/watch?v=clovJB0JBFg",
+                "duration": "8:16",
+                "thumbnail": "https://i.ytimg.com/vi/clovJB0JBFg/hq720.jpg"
+            },
+            {
+                "title": "කදුරු ශාකය.... (විෂ සහිත ශාකයකි). Kaduru Tree.... (A poisonous plant)",
+                "url": "https://youtube.com/watch?v=mGnFB0fI-GQ",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/mGnFB0fI-GQ/hq720.jpg"
+            },
+            {
+                "title": "divi kaduru gasa/දිවිකදුරැ ගස /divi kaduru benifits./",
+                "url": "https://youtube.com/watch?v=Plcj-EUH3gc",
+                "duration": "5:26",
+                "thumbnail": "https://i.ytimg.com/vi/Plcj-EUH3gc/hqdefault.jpg"
+            },
+            {
+                "title": "දිවි කදුරු Eve’s Apple | Dhivi Kadhuru",
+                "url": "https://youtube.com/watch?v=XWTp_OPBniE",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/XWTp_OPBniE/hq720_2.jpg"
+            },
+            {
+                "title": "දිවි කදුරු ශාකය ඇත්තටම විෂයිද ☠️ || divi kaduru plant || #views #video #trending #automobile",
+                "url": "https://youtube.com/watch?v=QgvnoRz6A_c",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/QgvnoRz6A_c/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Centipede Bites",
-      "sinhala": "පත්තෑ දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fistula-in-ano",
-      "sinhala": "භගන්දරය (ගුද මාර්ගයේ හටගන්නා වණ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Toothache",
-      "sinhala": "දත් කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Eye Infections",
-      "sinhala": "ඇස් ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "266",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/d08QPdXL/plant00116-00266.jpg"
-    },
-    {
-      "image_id": "267",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/4Zf2zg3V/plant00116-00267.jpg"
-    },
-    {
-      "image_id": "268",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/Q32fs86z/plant00116-00268.jpg"
-    },
-    {
-      "image_id": "1209",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/wNcj7LFq/plant00116-01209.jpg"
-    },
-    {
-      "image_id": "3368",
-      "caption": "Flower Buds (PMR)",
-      "url": "https://i.ibb.co/rKb6NBWs/plant00116-03368.jpg"
-    },
-    {
-      "image_id": "3369",
-      "caption": "Seeds (PMR)",
-      "url": "https://i.ibb.co/4w3vFXTT/plant00116-03369.jpg"
-    },
-    {
-      "image_id": "3370",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/QvtLc0yy/plant00116-03370.jpg"
-    },
-    {
-      "image_id": "3371",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/1hD8YRX/plant00116-03371.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

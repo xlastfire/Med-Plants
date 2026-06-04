@@ -1,159 +1,518 @@
 {
-  "scientificName": "Ceiba pentandra  var. pentandra",
-  "synonyms": [
-    "Bombax cumanense Kunth",
-    "Bombax guineensis Schumach.",
-    "Bombax inerme L.",
-    "Bombax mompoxense Kunth",
-    "Bombax occidentale Spreng.",
-    "Bombax orientale Spreng.",
-    "Bombax pentandrum L.",
-    "Bombax plumosum Noronha",
-    "Ceiba anfractuosa M.Gómez",
-    "Ceiba caribaea (DC.) A.Chev.",
-    "Ceiba casearia Medik.",
-    "Ceiba guineensis (Schumach.) A.Chev.",
-    "Ceiba guineensis var. ampla A.Chev.",
-    "Ceiba guineensis var. clausa A.Chev.",
-    "Ceiba occidentalis (Spreng.) Burkill",
-    "Ceiba pentandra f. albolana Ulbr.",
-    "Ceiba pentandra f. grisea Ulbr.",
-    "Ceiba pentandra var. caribaea (DC.) Bakh.",
-    "Ceiba pentandra var. indica Bakh.",
-    "Ceiba thonningii A.Chev.",
-    "Eriodendron anfractuosum DC.",
-    "Eriodendron anfractuosum var. africanum DC.",
-    "Eriodendron anfractuosum var. caribaeum DC.",
-    "Eriodendron anfractuosum var. guianense Sagot",
-    "Eriodendron anfractuosum var. indicum DC.",
-    "Eriodendron caribaeum (DC.) G.Don",
-    "Eriodendron occidentale (Spreng.) G.Don",
-    "Eriodendron orientale Kostel.",
-    "Eriodendron pentandrum (L.) Kurz",
-    "Gossampinus alba Buch.-Ham.",
-    "Gossampinus rumphii Schott & Endl.",
-    "Xylon pentandrum (L.) Kuntze"
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Kapok Tree",
-    "Silk Cotton Tree",
-    "White Silk Cotton Tree"
-  ],
-  "sinhalaName": "Kotta pulun (කොට්ට පුළුන්)",
-  "description": "මධ්‍යම ප්‍රමාණයේ සිට උසැති ගසක්, කලාතුරකින් මීටර් 20 ඉක්මවයි. පත්‍ර අතු අග්‍රය දෙසට එකතු වී පවතී, පත්‍රිකා 5-9 කින් සමන්විත වේ, රෝම රහිතය (glabrous), දිගු පත්‍ර වෘන්ත සහිතය; පත්‍රිකා පාදම දෙසට පටු වේ, අග්‍රය තියුණු (acute) හෝ උල් වූ (acuminate) සහ කුඩා උල් සහිතය (mucronulate), දිග සෙන්ටිමීටර 20 ක් සහ පළල සෙන්ටිමීටර 4 ක් දක්වා වේ, යටි පැත්ත තරමක් ලා පැහැතිය, පත්‍ර දාරය සම්පූර්ණයි (entire) හෝ කලාතුරකින් අග්‍රය අසල දත් සහිතය (denticulate). මල් සාමාන්‍යයෙන් අතු අග්‍රය දෙසට පොකුරු ලෙස පිහිටයි. කරල් ළපටි අවස්ථාවේ කොළ පැහැතිය, පසුව දුඹුරු පැහැයට හැරේ, ඉලිප්සාකාර (ellipsoid) සිට දෑකැති හැඩැති (fusiform) වේ, දෙපැත්තෙන්ම පටු වී ඇත. බීජ බොහෝය, ගෝලාකාරයට ආසන්නය (subglobose), බීජාවරණය තද දුඹුරු සිට කළු පැහැයට හුරුය.",
-  "treatments": [
-    {
-      "treatment": "Leprosy",
-      "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Ceiba pentandra  var. pentandra",
+    "synonyms": [
+        "Bombax cumanense Kunth",
+        "Bombax guineensis Schumach.",
+        "Bombax inerme L.",
+        "Bombax mompoxense Kunth",
+        "Bombax occidentale Spreng.",
+        "Bombax orientale Spreng.",
+        "Bombax pentandrum L.",
+        "Bombax plumosum Noronha",
+        "Ceiba anfractuosa M.Gómez",
+        "Ceiba caribaea (DC.) A.Chev.",
+        "Ceiba casearia Medik.",
+        "Ceiba guineensis (Schumach.) A.Chev.",
+        "Ceiba guineensis var. ampla A.Chev.",
+        "Ceiba guineensis var. clausa A.Chev.",
+        "Ceiba occidentalis (Spreng.) Burkill",
+        "Ceiba pentandra f. albolana Ulbr.",
+        "Ceiba pentandra f. grisea Ulbr.",
+        "Ceiba pentandra var. caribaea (DC.) Bakh.",
+        "Ceiba pentandra var. indica Bakh.",
+        "Ceiba thonningii A.Chev.",
+        "Eriodendron anfractuosum DC.",
+        "Eriodendron anfractuosum var. africanum DC.",
+        "Eriodendron anfractuosum var. caribaeum DC.",
+        "Eriodendron anfractuosum var. guianense Sagot",
+        "Eriodendron anfractuosum var. indicum DC.",
+        "Eriodendron caribaeum (DC.) G.Don",
+        "Eriodendron occidentale (Spreng.) G.Don",
+        "Eriodendron orientale Kostel.",
+        "Eriodendron pentandrum (L.) Kurz",
+        "Gossampinus alba Buch.-Ham.",
+        "Gossampinus rumphii Schott & Endl.",
+        "Xylon pentandrum (L.) Kuntze"
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Kapok Tree",
+        "Silk Cotton Tree",
+        "White Silk Cotton Tree"
+    ],
+    "sinhalaName": "Kotta pulun (කොට්ට පුළුන්)",
+    "description": "මධ්‍යම ප්‍රමාණයේ සිට උසැති ගසක්, කලාතුරකින් මීටර් 20 ඉක්මවයි. පත්‍ර අතු අග්‍රය දෙසට එකතු වී පවතී, පත්‍රිකා 5-9 කින් සමන්විත වේ, රෝම රහිතය (glabrous), දිගු පත්‍ර වෘන්ත සහිතය; පත්‍රිකා පාදම දෙසට පටු වේ, අග්‍රය තියුණු (acute) හෝ උල් වූ (acuminate) සහ කුඩා උල් සහිතය (mucronulate), දිග සෙන්ටිමීටර 20 ක් සහ පළල සෙන්ටිමීටර 4 ක් දක්වා වේ, යටි පැත්ත තරමක් ලා පැහැතිය, පත්‍ර දාරය සම්පූර්ණයි (entire) හෝ කලාතුරකින් අග්‍රය අසල දත් සහිතය (denticulate). මල් සාමාන්‍යයෙන් අතු අග්‍රය දෙසට පොකුරු ලෙස පිහිටයි. කරල් ළපටි අවස්ථාවේ කොළ පැහැතිය, පසුව දුඹුරු පැහැයට හැරේ, ඉලිප්සාකාර (ellipsoid) සිට දෑකැති හැඩැති (fusiform) වේ, දෙපැත්තෙන්ම පටු වී ඇත. බීජ බොහෝය, ගෝලාකාරයට ආසන්නය (subglobose), බීජාවරණය තද දුඹුරු සිට කළු පැහැයට හුරුය.",
+    "treatments": [
+        {
+            "treatment": "Leprosy",
+            "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Tumors",
+            "sinhala": "ගෙඩි / අර්බුද",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gastric Disorders",
+            "sinhala": "ආමාශගත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "929",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/f6ZCm2k/plant00254-00929.jpg"
+        },
+        {
+            "image_id": "930",
+            "caption": "Twig",
+            "url": "https://i.ibb.co/xtPP5xMC/plant00254-00930.jpg"
+        },
+        {
+            "image_id": "931",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/XrYTwZkz/plant00254-00931.jpg"
+        },
+        {
+            "image_id": "932",
+            "caption": "Seeds within fibers",
+            "url": "https://i.ibb.co/Vccd5vK7/plant00254-00932.jpg"
+        },
+        {
+            "image_id": "3465",
+            "caption": "Flower Buds (PMR)",
+            "url": "https://i.ibb.co/s9PhcDp8/plant00254-03465.jpg"
+        },
+        {
+            "image_id": "3466",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/84MVn3jC/plant00254-03466.jpg"
+        },
+        {
+            "image_id": "3467",
+            "caption": "Mature Fruit (PMR)",
+            "url": "https://i.ibb.co/yBsQsj34/plant00254-03467.jpg"
+        },
+        {
+            "image_id": "3468",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/LDf02pj9/plant00254-03468.jpg"
+        },
+        {
+            "image_id": "3469",
+            "caption": "Leaf lower serface (PMR)",
+            "url": "https://i.ibb.co/LzPQ6yZw/plant00254-03469.jpg"
+        },
+        {
+            "image_id": "3470",
+            "caption": "Young stem(PMR)",
+            "url": "https://i.ibb.co/pj5d3TCW/plant00254-03470.jpg"
+        },
+        {
+            "image_id": "3471",
+            "caption": "Matur stem (PMR)",
+            "url": "https://i.ibb.co/1YdzRgXc/plant00254-03471.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "පුළුන් කොට්ට නිෂ්පාදකයින්ගේ මැසිවිල්ල...",
+                "url": "https://youtube.com/watch?v=ETuaIo6D4PY",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/ETuaIo6D4PY/hq720.jpg"
+            },
+            {
+                "title": "කොට්ට පුළුන් ගස | kotta pulun gasa | silk cotton tree | kapok tree",
+                "url": "https://youtube.com/watch?v=eDC5OjatgQE",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/eDC5OjatgQE/hq720.jpg"
+            },
+            {
+                "title": "Pillow / Kapok tree / කොට්ට පුළුන් / Ceiba pentandra",
+                "url": "https://youtube.com/watch?v=K2C4gPNqON0",
+                "duration": "9:13",
+                "thumbnail": "https://i.ytimg.com/vi/K2C4gPNqON0/hq720.jpg"
+            },
+            {
+                "title": "shall we pack a pillowcase to sleep freely? නිදහ⁣සේ නිදියන්න කොට්ට පුලුන් උරයක් ගමුද?",
+                "url": "https://youtube.com/watch?v=wq74J8_PZcU",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/wq74J8_PZcU/hq720.jpg"
+            },
+            {
+                "title": "Pulun Kotta Ath Deka | පුළුන් කොට්ට අත් දෙක තබලා  | Sinhala Lama Gee | සිංහල ළමා ගීත | Lama geetha",
+                "url": "https://youtube.com/watch?v=FoVsoL485-k",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/FoVsoL485-k/hq720.jpg"
+            },
+            {
+                "title": "100%ලාභ දෙන ඉහල ප්‍රමිතියෙන් යුතු paddin කොට්ට හදල සුපිරි ලාභයක් ලබමු",
+                "url": "https://youtube.com/watch?v=jjfyYWnNhKQ",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/jjfyYWnNhKQ/hq720.jpg"
+            },
+            {
+                "title": "Pulun kotta ath deka | පුළුන් කොට්ට අත් දෙක තබලා",
+                "url": "https://youtube.com/watch?v=lBI9uluAoFU",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/lBI9uluAoFU/hq720.jpg"
+            },
+            {
+                "title": "කොට්ට පුලුන් ගස Drona ඇසින් /The pillow stuffing tree Drone footage",
+                "url": "https://youtube.com/watch?v=5iTqSdH1Bbc",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/5iTqSdH1Bbc/hq720.jpg"
+            },
+            {
+                "title": "Nethmeni fillow production #පුළුන්#Fillow#කොට්ට#kottaa",
+                "url": "https://youtube.com/watch?v=jJk6098Wav4",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/jJk6098Wav4/hqdefault.jpg"
+            },
+            {
+                "title": "Kapok Stuffing Pillow",
+                "url": "https://youtube.com/watch?v=IYVT_MPb0r0",
+                "duration": "3:46",
+                "thumbnail": "https://i.ytimg.com/vi/IYVT_MPb0r0/hq720.jpg"
+            },
+            {
+                "title": "Pulun Kotta | පුළුන් කොට්ට අත් දෙක තබලා | Lama Geetha Sinhala | සිංහල ළමා ගීත",
+                "url": "https://youtube.com/watch?v=gtLxPB2Nl7I",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/gtLxPB2Nl7I/hq720.jpg"
+            },
+            {
+                "title": "කොට්ට ගහේ කොට්ට පුළුන්",
+                "url": "https://youtube.com/watch?v=M2HX0KNTVns",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/M2HX0KNTVns/hq720.jpg"
+            },
+            {
+                "title": "Matters කොට්ට ඇද ඇතිරිලි නිපදවනbusiness එකක් පටන් ගමු සුපිරි ලාභ ලබන",
+                "url": "https://youtube.com/watch?v=D4Z7gM_Nx9Q",
+                "duration": "11:51",
+                "thumbnail": "https://i.ytimg.com/vi/D4Z7gM_Nx9Q/hq720.jpg"
+            },
+            {
+                "title": "කොට්ට මහමු /ස්වයං රැකියා අත්වැල /කොට්ට ව්‍යාපාරය හරියට /pillow sewing",
+                "url": "https://youtube.com/watch?v=Ym5Im1giEw0",
+                "duration": "6:52",
+                "thumbnail": "https://i.ytimg.com/vi/Ym5Im1giEw0/hq720.jpg"
+            },
+            {
+                "title": "පුලුන් කොට්ට අත් දෙක.....බළල් හාමිනේ...( ගායනය - ශිරෝමි ප්‍රනාන්දු )ළමා ගීත  sinhala lama gee",
+                "url": "https://youtube.com/watch?v=xzS2DscvIFQ",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/xzS2DscvIFQ/hq720.jpg"
+            },
+            {
+                "title": "Pulun Kotta Ath Deka | පුළුන් කොට්ට අත් දෙක | සිංහල ළමා ගීත | Sinhala Lama Geetha | Kids Songs",
+                "url": "https://youtube.com/watch?v=Y14sfiGFSsg",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/Y14sfiGFSsg/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම එකම කොට්ට උරේ පාවිච්චි කරනවාද? ඔබ දන්නේ නැති භයානක ඇත්ත මෙන්න!#homehacks #home #hacks#viral",
+                "url": "https://youtube.com/watch?v=hN3ZqJAfe6o",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/hN3ZqJAfe6o/hq720.jpg"
+            },
+            {
+                "title": "හොඳ කොට්න් කොට්ට උර හෙව්වා නේද? ඒහෙම නම් මේක බලන්න",
+                "url": "https://youtube.com/watch?v=Q8GL4QqLjWQ",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/Q8GL4QqLjWQ/hq720.jpg"
+            },
+            {
+                "title": "ඔයාල කොට්ට පුලුන් දැකල තියෙන වද?🤔🤔😱😱",
+                "url": "https://youtube.com/watch?v=NQ2rr6UT5tg",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/NQ2rr6UT5tg/hq720.jpg"
+            },
+            {
+                "title": "කපු පුලුන් natural nature 🌹🌳🌳🌳🙂🙂🙂",
+                "url": "https://youtube.com/watch?v=l2MF0GWWGlg",
+                "duration": "0:24",
+                "thumbnail": "https://i.ytimg.com/vi/l2MF0GWWGlg/hq720.jpg"
+            },
+            {
+                "title": "🎵 පුළුන් කොට්ට අත් දෙක තබලා | Pulun Kotta Ath Deka | Sinhala Kids Song 2026 | ChutiPanchoTV 🎵",
+                "url": "https://youtube.com/watch?v=Pvbms9tB64Y",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/Pvbms9tB64Y/hq720.jpg"
+            },
+            {
+                "title": "කොට්ට වල අපිරිසිඳු බව සහ විශබීජ ඉවත් කරන මැජික් එක#pillowcleaning#cleaningtips#HomeHacks#lifewithme",
+                "url": "https://youtube.com/watch?v=HnakmsbqNJI",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/HnakmsbqNJI/hq720.jpg"
+            },
+            {
+                "title": "cotten tree/කපු වගාව/kapu tree/\"Discovering the Beauty of Cotton Trees\"",
+                "url": "https://youtube.com/watch?v=eDJJgyVkLbI",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/eDJJgyVkLbI/hqdefault.jpg"
+            },
+            {
+                "title": "කොට්ට ,තුවා ,බෙඩ් ෂීට් ,කුෂන්  ගන්න මෙන්න සුපිරි place එකක්  | cushion mart",
+                "url": "https://youtube.com/watch?v=TUN7K8DEa-w",
+                "duration": "12:32",
+                "thumbnail": "https://i.ytimg.com/vi/TUN7K8DEa-w/hq720.jpg"
+            },
+            {
+                "title": "Sinhala Ath Beheth | Kapu Pulun | story eka",
+                "url": "https://youtube.com/watch?v=Y9rDpyoeops",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/Y9rDpyoeops/hq720.jpg"
+            },
+            {
+                "title": "කොට්ට/බෙඩ්ෂීට්/Duvet/matress protectors,මේ හැම Bedding Items වලටම අවුරුද්දට Special Discounts",
+                "url": "https://youtube.com/watch?v=fFRUBNtUTFg",
+                "duration": "10:55",
+                "thumbnail": "https://i.ytimg.com/vi/fFRUBNtUTFg/hq720.jpg"
+            },
+            {
+                "title": "Pulun Kotta | පුළුන් කොට්ට අත් දෙක තබලා | Sinhala Kids Song | Lama Gee | සිංහල ළමා ගීත",
+                "url": "https://youtube.com/watch?v=iE3m9sbL_bE",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/iE3m9sbL_bE/hq720.jpg"
+            },
+            {
+                "title": "ගෙදරට,හොටෙල් එකට කොට්ට ,බෙඩ් ෂීට් ,තුවා ,කූෂන් ගන්න මෙන්න තැන  | cushion | duvet | | bedsheet |towel",
+                "url": "https://youtube.com/watch?v=q3q1RGxpm64",
+                "duration": "11:40",
+                "thumbnail": "https://i.ytimg.com/vi/q3q1RGxpm64/hq720.jpg"
+            },
+            {
+                "title": "ලෝකයේ ප්‍රථම වරට නිෂ්පාදනය කල ශාකසාර ඖෂධීය කොට්ටය සහ ඇද ඇතිරිල්ල ශ්‍රී ලංකාවෙන්. #world'sfirst",
+                "url": "https://youtube.com/watch?v=KYAeaJcAtUg",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/KYAeaJcAtUg/hq720.jpg"
+            },
+            {
+                "title": "පුළුන් කොට්ට අත් දෙක | Pulun Kotta Ath Deka | Sinhala Lama Geetha | ළමා ගීත | Sinhala Kids Songs",
+                "url": "https://youtube.com/watch?v=MSYnAEceJak",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/MSYnAEceJak/hq720.jpg"
+            },
+            {
+                "title": "හොඳ සනීපෙට නිදා ගන්න  පුළුන් කොට්ටා මේක වාසියක් මේ මිලට",
+                "url": "https://youtube.com/watch?v=y6FXi8TwTp0",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/y6FXi8TwTp0/hq720.jpg"
+            },
+            {
+                "title": "උණට, වකුගඩුවලටත් හොඳ කොට්ට පුලුන්.",
+                "url": "https://youtube.com/watch?v=Pj9g5uIODTA",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/Pj9g5uIODTA/hq720.jpg"
+            },
+            {
+                "title": "නිදාගන්න කොට්ටය නිසා ඔබේ සල්ලිත් නාස්ති වෙනවද? | නින්දේ විද්‍යාත්මක රහස 🤔",
+                "url": "https://youtube.com/watch?v=kdER2yy4_Zo",
+                "duration": "6:39",
+                "thumbnail": "https://i.ytimg.com/vi/kdER2yy4_Zo/hq720.jpg"
+            },
+            {
+                "title": "Fiber comfortable කොට්ට තොග හෝ සිල්ලර මිලට විකිණීමට ඇත .Fiber comfortable pillows for sale .",
+                "url": "https://youtube.com/watch?v=P3MnNXIAiBA",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/P3MnNXIAiBA/hq720.jpg"
+            },
+            {
+                "title": "කොන්දේ අමාරුවට බොරුවට බෙහෙත් බොන්න එපා - අදම මේක මාරු කරලා බලන්න |How Your Mattress Causes Back Pain",
+                "url": "https://youtube.com/watch?v=2fmfdDayx50",
+                "duration": "8:25",
+                "thumbnail": "https://i.ytimg.com/vi/2fmfdDayx50/hq720.jpg"
+            },
+            {
+                "title": "ඇයි අපේ ඔලුව හිටපු ගමන් 'කොලොප්පම්' වෙන්නෙ | අපිව නටවන හෝමෝන ගැන දැනගමු 🧠✨",
+                "url": "https://youtube.com/watch?v=uwxvie6IT9o",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/uwxvie6IT9o/hq720.jpg"
+            },
+            {
+                "title": "How to make  a Sacrificial Pillow to offer to Lord  Buddha / pooja kottaya..@maagala production.",
+                "url": "https://youtube.com/watch?v=iqlrTEgB0NU",
+                "duration": "19:47",
+                "thumbnail": "https://i.ytimg.com/vi/iqlrTEgB0NU/hq720.jpg"
+            },
+            {
+                "title": "ලක්ෂ ගණන් වටින Brain Supplement එකට වඩා බලවත් ගොටුකොළ! 😱🌿",
+                "url": "https://youtube.com/watch?v=GB2SkXtyi68",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/GB2SkXtyi68/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=MBR3AVmcWqw",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/MBR3AVmcWqw/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Health Benefits and Possible Side Effects",
+                "url": "https://youtube.com/watch?v=gOwyQDgmJP0",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/gOwyQDgmJP0/hq720.jpg"
+            },
+            {
+                "title": "Manaako Kapok Stuffing Pillow",
+                "url": "https://youtube.com/watch?v=ZBRbDzIjQ48",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/ZBRbDzIjQ48/hq720.jpg"
+            },
+            {
+                "title": "කොට්ට පුළුන් ගස | kotta pulun gasa | silk cotton tree | kapok tree",
+                "url": "https://youtube.com/watch?v=7h3gsclpWOw",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/7h3gsclpWOw/frame0.jpg"
+            },
+            {
+                "title": "කපුපුළුන් ශාකය හදුනා ගන්න | Kapupulun",
+                "url": "https://youtube.com/watch?v=GWWjGFvubuc",
+                "duration": "1:24",
+                "thumbnail": "https://i.ytimg.com/vi/GWWjGFvubuc/hq720.jpg"
+            },
+            {
+                "title": "කුප්පි ලාම්පුවට දින කියු වෙද මහතා",
+                "url": "https://youtube.com/watch?v=8Z8oZc2N_mE",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/8Z8oZc2N_mE/hq720.jpg"
+            },
+            {
+                "title": "​99%ක් දෙනා නොදන්නා කුස්සියේ අලුත් රහස් 20ක්! 😱 වැඩ විනාඩි 5න් ලේසි කරන ආච්චිගේ ක්‍රම (Part 2)#hacks",
+                "url": "https://youtube.com/watch?v=1WH8eia5ieI",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/1WH8eia5ieI/hq720.jpg"
+            },
+            {
+                "title": "දීර්ඝායුෂ ගෙනෙන කොට්ටම්බා වල ගුණ | Properties of almonds that bring longevity | Kottamba",
+                "url": "https://youtube.com/watch?v=ylx163Vldd0",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/ylx163Vldd0/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල ශාකයේ ගුණ අගුණ නිවැරදිව දැනගමු | Health benefits of katupila | කටුපිල | Katupila",
+                "url": "https://youtube.com/watch?v=LnoPt_czJkM",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/LnoPt_czJkM/hqdefault.jpg"
+            },
+            {
+                "title": "Pota wel|කැඩුම් බිදුම් වෙදකමට නැතුවම බැරි පෝටා වැලේ ඖෂධිය ගුණ 🌿",
+                "url": "https://youtube.com/watch?v=RZatkDtYRwI",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/RZatkDtYRwI/hq720.jpg"
+            },
+            {
+                "title": "මතක ශක්තිය වර්දනය කරන ගොටුකොළ වල විශ්මිත ගුණ - A super food that boosts memory",
+                "url": "https://youtube.com/watch?v=jy8Zp6L_RZk",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/jy8Zp6L_RZk/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "කොස් ඇට වල ගුණ | Kos Ata  #jackfruit",
+                "url": "https://youtube.com/watch?v=G5PZxr4bsN8",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/G5PZxr4bsN8/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka  - නිල් කටරොළු ගුණ | Benefits of Butterfly Pea | Health Benefits of Blue Clitoria Ternate",
+                "url": "https://youtube.com/watch?v=5-mHZQeAyYg",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/5-mHZQeAyYg/hq720.jpg"
+            },
+            {
+                "title": "ගොටු කොළවල තියෙන සුපිරිම ගුණ ඔයාලා දන්නවද?  ගොඩාක් ලෙඩවලට හොදම බෙහෙතක්. #ගොටුකොළ #gotukola",
+                "url": "https://youtube.com/watch?v=L15P4zMA-gI",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/L15P4zMA-gI/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොල කැඳවල ඇති විස්මිත ගුණ Amazing properties of gotukola porridge",
+                "url": "https://youtube.com/watch?v=t2A24IOIobY",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/t2A24IOIobY/hqdefault.jpg"
+            },
+            {
+                "title": "රජයේ අනුමත කෝප්ප කොළ කෑවොත් වෙන දේ මෙන්න : Benefits of Croton Leaves",
+                "url": "https://youtube.com/watch?v=sXY5rc_CYSA",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/sXY5rc_CYSA/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ රෝග රැසක් වලකන කොට්ටම්බා ඇටවල තියෙන පුදුමාකාර ගුණය",
+                "url": "https://youtube.com/watch?v=6FSfaZ0Pf-I",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/6FSfaZ0Pf-I/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ වැඩිපුර ආහාරයට ගත්තොත් මොකද වෙන්නේ - health benefits of gotu kola",
+                "url": "https://youtube.com/watch?v=lB6UVx25PCc",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lB6UVx25PCc/hqdefault.jpg"
+            },
+            {
+                "title": "kokmota | කොක් මොට | මුත්‍රා දැවිල්ලට කියාපු ඖෂධය | Eriocaulon ceylanicum | pitta",
+                "url": "https://youtube.com/watch?v=s10NuYMfp6M",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/s10NuYMfp6M/hq720.jpg"
+            },
+            {
+                "title": "කොත්තමල්ලි මේ විදිහට බොන්න ප්‍රබල ලෙඩ රෝග රැසකින් බේරෙන්න පුළුවන් |Coriander",
+                "url": "https://youtube.com/watch?v=UpRVJSLeYl0",
+                "duration": "5:13",
+                "thumbnail": "https://i.ytimg.com/vi/UpRVJSLeYl0/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Tumors",
-      "sinhala": "ගෙඩි / අර්බුද",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gastric Disorders",
-      "sinhala": "ආමාශගත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "929",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/f6ZCm2k/plant00254-00929.jpg"
-    },
-    {
-      "image_id": "930",
-      "caption": "Twig",
-      "url": "https://i.ibb.co/xtPP5xMC/plant00254-00930.jpg"
-    },
-    {
-      "image_id": "931",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/XrYTwZkz/plant00254-00931.jpg"
-    },
-    {
-      "image_id": "932",
-      "caption": "Seeds within fibers",
-      "url": "https://i.ibb.co/Vccd5vK7/plant00254-00932.jpg"
-    },
-    {
-      "image_id": "3465",
-      "caption": "Flower Buds (PMR)",
-      "url": "https://i.ibb.co/s9PhcDp8/plant00254-03465.jpg"
-    },
-    {
-      "image_id": "3466",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/84MVn3jC/plant00254-03466.jpg"
-    },
-    {
-      "image_id": "3467",
-      "caption": "Mature Fruit (PMR)",
-      "url": "https://i.ibb.co/yBsQsj34/plant00254-03467.jpg"
-    },
-    {
-      "image_id": "3468",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/LDf02pj9/plant00254-03468.jpg"
-    },
-    {
-      "image_id": "3469",
-      "caption": "Leaf lower serface (PMR)",
-      "url": "https://i.ibb.co/LzPQ6yZw/plant00254-03469.jpg"
-    },
-    {
-      "image_id": "3470",
-      "caption": "Young stem(PMR)",
-      "url": "https://i.ibb.co/pj5d3TCW/plant00254-03470.jpg"
-    },
-    {
-      "image_id": "3471",
-      "caption": "Matur stem (PMR)",
-      "url": "https://i.ibb.co/1YdzRgXc/plant00254-03471.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

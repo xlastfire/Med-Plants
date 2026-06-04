@@ -1,175 +1,336 @@
 {
-  "scientificName": "Phyllanthus amarus Schumach. & Thonn.",
-  "synonyms": [
-    "Diasperus nanus (Hook.f.) Kuntze",
-    "Phyllanthus amarus subsp. sanyaensis P.T.Li & Y.T.Zhu",
-    "Phyllanthus amarus var. baronianus Leandri",
-    "Phyllanthus nanus Hook.f.",
-    "Phyllanthus niruri var. amarus (Schumach. & Thonn.) Leandri",
-    "Phyllanthus niruri var. baronianus (Leandri) Leandri",
-    "Phyllanthus niruri var. scabrellus (Webb) Müll.Arg.",
-    "Phyllanthus niruroides var. madagascariensis Leandri",
-    "Phyllanthus scabrellus Webb",
-    "Phyllanthus swartzii Kostel."
-  ],
-  "familyName": "PHYLLANTHACEAE",
-  "englishNames": [
-    "Niruri"
-  ],
-  "sinhalaName": "Pitawakka (පිටවක්කා)",
-  "description": "සෙන්ටිමීටර 10-50ක් උසැති, ඒකලිංගික (monoecious), රෝම රහිත (glabrous) වාර්ෂික පැළෑටියකි; ප්‍රධාන කඳේ පත්‍ර කොරපොතු බවට පත්ව ඇත. පතනශීලී අතු සෙන්ටිමීටර 4-12ක් දිග වන අතර, ඒ මත පත්‍ර 15-30ක් පමණ පිහිටයි. උපපත්‍ර (stipules) ලේන්සාකාර (lanceolate) වන අතර මිලිමීටර 0.8-1.3ක් දිගය. පත්‍ර තලය බොහෝ විට මිලිමීටර 5-11 x 3-6 ප්‍රමාණයෙන් යුක්ත වේ. පුෂ්ප මංජරි පතනශීලී අතු මත ගුච්ඡ (glomerules) ලෙස පිහිටයි. ඵල කරල් (capsular) ආකාර වන අතර, පැතලි ගෝලාකාර (oblate) හැඩයක් ගනී; විෂ්කම්භය මිලිමීටර 1.9-2.1කි. බීජ ත්‍රිකෝණාකාර (trigonous) වන අතර මිලිමීටර 0.9-1ක් දිගය.",
-  "treatments": [
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
+    "scientificName": "Phyllanthus amarus Schumach. & Thonn.",
+    "synonyms": [
+        "Diasperus nanus (Hook.f.) Kuntze",
+        "Phyllanthus amarus subsp. sanyaensis P.T.Li & Y.T.Zhu",
+        "Phyllanthus amarus var. baronianus Leandri",
+        "Phyllanthus nanus Hook.f.",
+        "Phyllanthus niruri var. amarus (Schumach. & Thonn.) Leandri",
+        "Phyllanthus niruri var. baronianus (Leandri) Leandri",
+        "Phyllanthus niruri var. scabrellus (Webb) Müll.Arg.",
+        "Phyllanthus niruroides var. madagascariensis Leandri",
+        "Phyllanthus scabrellus Webb",
+        "Phyllanthus swartzii Kostel."
+    ],
+    "familyName": "PHYLLANTHACEAE",
+    "englishNames": [
+        "Niruri"
+    ],
+    "sinhalaName": "Pitawakka (පිටවක්කා)",
+    "description": "සෙන්ටිමීටර 10-50ක් උසැති, ඒකලිංගික (monoecious), රෝම රහිත (glabrous) වාර්ෂික පැළෑටියකි; ප්‍රධාන කඳේ පත්‍ර කොරපොතු බවට පත්ව ඇත. පතනශීලී අතු සෙන්ටිමීටර 4-12ක් දිග වන අතර, ඒ මත පත්‍ර 15-30ක් පමණ පිහිටයි. උපපත්‍ර (stipules) ලේන්සාකාර (lanceolate) වන අතර මිලිමීටර 0.8-1.3ක් දිගය. පත්‍ර තලය බොහෝ විට මිලිමීටර 5-11 x 3-6 ප්‍රමාණයෙන් යුක්ත වේ. පුෂ්ප මංජරි පතනශීලී අතු මත ගුච්ඡ (glomerules) ලෙස පිහිටයි. ඵල කරල් (capsular) ආකාර වන අතර, පැතලි ගෝලාකාර (oblate) හැඩයක් ගනී; විෂ්කම්භය මිලිමීටර 1.9-2.1කි. බීජ ත්‍රිකෝණාකාර (trigonous) වන අතර මිලිමීටර 0.9-1ක් දිගය.",
+    "treatments": [
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers/Sores",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Tuberculous Ulcers",
+            "sinhala": "ක්ෂය රෝගය නිසා ඇතිවන වණ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bruises",
+            "sinhala": "තැලීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Scabies",
+            "sinhala": "හොරි (Scabies)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ringworm",
+            "sinhala": "දද (ඇළුම් හම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Root",
+        "Juice"
+    ],
+    "images": [
+        {
+            "image_id": "3233",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/N6B9wywT/plant00531-03233.jpg"
+        },
+        {
+            "image_id": "3234",
+            "caption": "Leaves with fruits (PMR)",
+            "url": "https://i.ibb.co/MDf74dBw/plant00531-03234.jpg"
+        },
+        {
+            "image_id": "3235",
+            "caption": "Under Side of Leaves with Fruits (PMR)",
+            "url": "https://i.ibb.co/C34PpFxx/plant00531-03235.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "පිටවක්ක බොහෝ රෝග වලට දිව්‍ය ඖෂධයකි| pitawakka| phyllanthus debbillis |A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=4hBzPEcwwOA",
+                "duration": "6:23",
+                "thumbnail": "https://i.ytimg.com/vi/4hBzPEcwwOA/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්කා මෙච්චර වටින ඖෂධයක් කියලා දන්නවද? | Phyllanthus Niruri",
+                "url": "https://youtube.com/watch?v=wOKGcvo6M5Q",
+                "duration": "11:06",
+                "thumbnail": "https://i.ytimg.com/vi/wOKGcvo6M5Q/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්කා | දියවැඩියාවට ගුණ දෙන පිටවක්කා | pitawakka |",
+                "url": "https://youtube.com/watch?v=ki1cVB2KQiE",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/ki1cVB2KQiE/hqdefault.jpg"
+            },
+            {
+                "title": "★ වකුගඩු අක්මාව පිරිසිදු කරන සීනි පාලනයට එළ පිටවක්කා! Stonebreaker plant tonic for kidney health.",
+                "url": "https://youtube.com/watch?v=bUKKlFTkwCk",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/bUKKlFTkwCk/hq720.jpg"
+            },
+            {
+                "title": "අක්මාවේ තෙල් නැත්තටම නැති කරන වගුගඩු පිරිසිදු කරවන \"පිටවක්කා\" මේ විදියට බොන්න! - සියලු රෝග නිවාරණයි!",
+                "url": "https://youtube.com/watch?v=UC6DUMoSXbc",
+                "duration": "19:05",
+                "thumbnail": "https://i.ytimg.com/vi/UC6DUMoSXbc/hq720.jpg"
+            },
+            {
+                "title": "pitawakka|පිටවක්කා.",
+                "url": "https://youtube.com/watch?v=myAx3oOBL1o",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/myAx3oOBL1o/hqdefault.jpg"
+            },
+            {
+                "title": "පිටවක්කා ශාකය ආහාරයට ගත්තොත් වෙන දේ මෙන්න.",
+                "url": "https://youtube.com/watch?v=HCG-C5npl8M",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/HCG-C5npl8M/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්කා සතු ඖෂධිය ගුණ | Pitawakka 🌿",
+                "url": "https://youtube.com/watch?v=mGCvhl2gkW0",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/mGCvhl2gkW0/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්කා/pitawakka /phyllanthus debilis/Euphorbiacae/#medicinal #/sri lanka/Nirui/#ishan #",
+                "url": "https://youtube.com/watch?v=Y46MtML_QTw",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/Y46MtML_QTw/hq720.jpg"
+            },
+            {
+                "title": "සියක් රෝග නසාලන /පංච බල ඖෂධ ශාකය /pitawakka sakaya",
+                "url": "https://youtube.com/watch?v=Yx5rM4JbDsQ",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Yx5rM4JbDsQ/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්කා ශාකය",
+                "url": "https://youtube.com/watch?v=BT0NfeJ2ezk",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/BT0NfeJ2ezk/hqdefault.jpg"
+            },
+            {
+                "title": "එළ පිටවක්කා වල ඇති ගුණ",
+                "url": "https://youtube.com/watch?v=nZpiIZaa4po",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/nZpiIZaa4po/hq720.jpg"
+            },
+            {
+                "title": "එළ පිටවක්කා , බිං නෙල්ලී. Pitawakka. #nature #herbs #gardenherbs #plants #education",
+                "url": "https://youtube.com/watch?v=_lwCasFvVJs",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/_lwCasFvVJs/hqdefault.jpg"
+            },
+            {
+                "title": "එළ පිටවක්කා, Pitawakka | Niruri",
+                "url": "https://youtube.com/watch?v=g70VAyNi8rg",
+                "duration": "6:11",
+                "thumbnail": "https://i.ytimg.com/vi/g70VAyNi8rg/hq720.jpg"
+            },
+            {
+                "title": "පීනස,අක්මාවේ තෙල්,දියවැඩියාව,ගැස්ට්‍රයිටිස්,සෙම්‍ රෝග,මුත්‍රාගල්, තවත් රෝග ගනනාවකට සුව දෙන පිටවක්කා",
+                "url": "https://youtube.com/watch?v=TpKYHTWUVTs",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/TpKYHTWUVTs/hq720.jpg"
+            },
+            {
+                "title": "වල් පැළෑටියක් යැයි සිතා ගලවා දමන මහා ඖෂධ ගුණ පිරි ඔසුව - Health Benefits of Stone Breaker",
+                "url": "https://youtube.com/watch?v=kW8LYRHv0RE",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/kW8LYRHv0RE/hq720.jpg"
+            },
+            {
+                "title": "#පිටවක්කා වල ඇති අසීමිත ගුණ ගැන ඔබ දැනුවත්ද? #SL KAVI",
+                "url": "https://youtube.com/watch?v=kucD2MEV6s0",
+                "duration": "6:38",
+                "thumbnail": "https://i.ytimg.com/vi/kucD2MEV6s0/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට ගුණ, ප්‍රතිශක්තිය වඩන පිටවක්කා | Pitawakka Plant Sinhala",
+                "url": "https://youtube.com/watch?v=G3Op1C7OyC8",
+                "duration": "7:33",
+                "thumbnail": "https://i.ytimg.com/vi/G3Op1C7OyC8/hq720.jpg"
+            },
+            {
+                "title": "මිදුලේ හැදෙන මේ පැලේ මෙහෙම ගුණයක්",
+                "url": "https://youtube.com/watch?v=yj6N5p5Mz28",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/yj6N5p5Mz28/hqdefault.jpg"
+            },
+            {
+                "title": "ගෙදර මිදුලෙ ඉබේ හැදෙන ඇස්ප්‍රින් පැල. මුත්‍රා , වකුගඩු පිලිකා වලට ගුණ දෙන වතුර ගස",
+                "url": "https://youtube.com/watch?v=mHhNiwAH3Go",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/mHhNiwAH3Go/hqdefault.jpg"
+            },
+            {
+                "title": "පිටවක්කා | පිටවක්කා පානය | පිටවක්කා ශාඛය | සුදු පිටවක්කා | pitawakka | 2022",
+                "url": "https://youtube.com/watch?v=VJPtWFyODAc",
+                "duration": "8:33",
+                "thumbnail": "https://i.ytimg.com/vi/VJPtWFyODAc/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්ක බොහෝ රෝග වලට දිව්‍ය ඖෂධයකි new top SL පිටවක්ක බොහෝ රෝග වලට දිව්‍ය #pitawakka #her #sinhala",
+                "url": "https://youtube.com/watch?v=SK0pn0ksaTY",
+                "duration": "5:26",
+                "thumbnail": "https://i.ytimg.com/vi/SK0pn0ksaTY/hq720.jpg"
+            },
+            {
+                "title": "pitawakka hela osuwa",
+                "url": "https://youtube.com/watch?v=WTnLShvy6Vo",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/WTnLShvy6Vo/hq720.jpg"
+            },
+            {
+                "title": "Pitawakka - Ela pitawakka - Phyllanthus debilis - Ayurvedic plants",
+                "url": "https://youtube.com/watch?v=VSatbsxioa8",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/VSatbsxioa8/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්කා/pitawakka (phyllanthus debbillis) herb Corona is one of the most popular prescription drugs",
+                "url": "https://youtube.com/watch?v=p2NDEtQGGKo",
+                "duration": "23:25",
+                "thumbnail": "https://i.ytimg.com/vi/p2NDEtQGGKo/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්කා ශාකය කෙට්ටු අයට ලස්සනට මහත් වෙන්න වටිනා  විස්තරයක්   (pitawakka) #osuwen #medical #plant",
+                "url": "https://youtube.com/watch?v=lXwxpr5yjXI",
+                "duration": "5:40",
+                "thumbnail": "https://i.ytimg.com/vi/lXwxpr5yjXI/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ulcers/Sores",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Tuberculous Ulcers",
-      "sinhala": "ක්ෂය රෝගය නිසා ඇතිවන වණ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Bruises",
-      "sinhala": "තැලීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Scabies",
-      "sinhala": "හොරි (Scabies)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ringworm",
-      "sinhala": "දද (ඇළුම් හම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Root",
-    "Juice"
-  ],
-  "images": [
-    {
-      "image_id": "3233",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/N6B9wywT/plant00531-03233.jpg"
-    },
-    {
-      "image_id": "3234",
-      "caption": "Leaves with fruits (PMR)",
-      "url": "https://i.ibb.co/MDf74dBw/plant00531-03234.jpg"
-    },
-    {
-      "image_id": "3235",
-      "caption": "Under Side of Leaves with Fruits (PMR)",
-      "url": "https://i.ibb.co/C34PpFxx/plant00531-03235.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

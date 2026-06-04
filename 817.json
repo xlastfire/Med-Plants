@@ -1,142 +1,447 @@
 {
-  "scientificName": "Azadirachta indica A.Juss.",
-  "synonyms": [
-    "Antelaea azadirachta (L.) Adelb.",
-    "Antelaea canescens Cels ex Heynh.",
-    "Antelaea javanica Gaertn.",
-    "Azadirachta indica subsp. vartakii Kothari, Londhe & N.P.Singh",
-    "Azadirachta indica var. minor Valeton",
-    "Azadirachta indica var. siamensis Valeton",
-    "Melia azadirachta L.",
-    "Melia fraxinifolia Salisb.",
-    "Melia hasskarlii K.Koch",
-    "Melia indica (A.Juss.) Brandis",
-    "Melia japonica Hassk.",
-    "Melia parviflora Moon",
-    "Melia pinnata Stokes"
-  ],
-  "familyName": "MELIACEAE",
-  "englishNames": [
-    "Neem Tree",
-    "Margosa",
-    "Indian Lilac"
-  ],
-  "sinhalaName": "Kohomba (කොහොඹ)",
-  "description": "පැතිරෙන අතු සහිත උස ගසකි, කඳ සහ ළපටි කොටස් රෝම රහිතය (glabrous). පත්‍ර අසම පිහාටුමය සංයුක්ත පත්‍ර (imparipinnate compound) වන අතර, උප පත්‍රිකා රහිතය (extipulate) සහ පොකුරු වශයෙන් පිහිටයි; පත්‍ර අක්ෂය (rachis) සෙ.මී. 15-22.5 ක් දිගය; පත්‍රිකා යුගල් 2-8 ක් සහ අග්‍රස්ථ පත්‍රිකාවක් සහිතය, කෙටි දඬු සහිතය, සෙ.මී. 5-10 ක් දිගය, දෙපස අසමාන වන අතර පාදම ආනතය (oblique), පත්‍ර දාරය රළු දත් සහිත-කරාත් දාර සහිතය (coarsely dentate-serrate). පුෂ්ප මංජරි පැනිකල් (paniculate) ආකාර වේ, සෙ.මී. 12.5-20 ක් දිගය. මල් සුදු පැහැතිය, සුවඳවත්ය. ඵලය දිගටි-ඩිම්බාකාර (oblong-ovoid) මාංසල ඵලයකි (drupe), සෙ.මී. 1.5-1.8 ක් දිගය, කොළ පැහැයට හුරු කහ පැහැතිය, බීජ එකක් සහිතය.",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Azadirachta indica A.Juss.",
+    "synonyms": [
+        "Antelaea azadirachta (L.) Adelb.",
+        "Antelaea canescens Cels ex Heynh.",
+        "Antelaea javanica Gaertn.",
+        "Azadirachta indica subsp. vartakii Kothari, Londhe & N.P.Singh",
+        "Azadirachta indica var. minor Valeton",
+        "Azadirachta indica var. siamensis Valeton",
+        "Melia azadirachta L.",
+        "Melia fraxinifolia Salisb.",
+        "Melia hasskarlii K.Koch",
+        "Melia indica (A.Juss.) Brandis",
+        "Melia japonica Hassk.",
+        "Melia parviflora Moon",
+        "Melia pinnata Stokes"
+    ],
+    "familyName": "MELIACEAE",
+    "englishNames": [
+        "Neem Tree",
+        "Margosa",
+        "Indian Lilac"
+    ],
+    "sinhalaName": "Kohomba (කොහොඹ)",
+    "description": "පැතිරෙන අතු සහිත උස ගසකි, කඳ සහ ළපටි කොටස් රෝම රහිතය (glabrous). පත්‍ර අසම පිහාටුමය සංයුක්ත පත්‍ර (imparipinnate compound) වන අතර, උප පත්‍රිකා රහිතය (extipulate) සහ පොකුරු වශයෙන් පිහිටයි; පත්‍ර අක්ෂය (rachis) සෙ.මී. 15-22.5 ක් දිගය; පත්‍රිකා යුගල් 2-8 ක් සහ අග්‍රස්ථ පත්‍රිකාවක් සහිතය, කෙටි දඬු සහිතය, සෙ.මී. 5-10 ක් දිගය, දෙපස අසමාන වන අතර පාදම ආනතය (oblique), පත්‍ර දාරය රළු දත් සහිත-කරාත් දාර සහිතය (coarsely dentate-serrate). පුෂ්ප මංජරි පැනිකල් (paniculate) ආකාර වේ, සෙ.මී. 12.5-20 ක් දිගය. මල් සුදු පැහැතිය, සුවඳවත්ය. ඵලය දිගටි-ඩිම්බාකාර (oblong-ovoid) මාංසල ඵලයකි (drupe), සෙ.මී. 1.5-1.8 ක් දිගය, කොළ පැහැයට හුරු කහ පැහැතිය, බීජ එකක් සහිතය.",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Worms",
+            "sinhala": "පණුවන්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds",
+        "Roots",
+        "Bark"
+    ],
+    "images": [
+        {
+            "image_id": "205",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/672tWzK8/plant00817-00205.jpg"
+        },
+        {
+            "image_id": "206",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/HfCCv4qf/plant00817-00206.jpg"
+        },
+        {
+            "image_id": "207",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/ynTy0d9M/plant00817-00207.jpg"
+        },
+        {
+            "image_id": "3743",
+            "caption": "Flowers(PMR)",
+            "url": "https://i.ibb.co/h1TD5BxL/plant00817-03743.jpg"
+        },
+        {
+            "image_id": "3744",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/vxcjmH6g/plant00817-03744.jpg"
+        },
+        {
+            "image_id": "3745",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/9Hh5ZwNp/plant00817-03745.jpg"
+        },
+        {
+            "image_id": "3746",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/Z3x3nnR/plant00817-03746.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Neem tree 🌿Kohomba (කොහොඹ)",
+                "url": "https://youtube.com/watch?v=1R2hw-HHmzk",
+                "duration": "0:12",
+                "thumbnail": "https://i.ytimg.com/vi/1R2hw-HHmzk/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ගුණ. චර්ම රෝග ඇතුලු රෝගාබාධ රැසකට ගුණදෙන ආයුර්වේදීය ඔසු.",
+                "url": "https://youtube.com/watch?v=Uvb_M2tX2Ts",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/Uvb_M2tX2Ts/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල අපට නොපෙනෙන ගුණය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හැරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=hRpzilgWq5o",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/hRpzilgWq5o/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ශාකයේ ඔසු ගුණ | Neem Tree | kohomba",
+                "url": "https://youtube.com/watch?v=B-iZPT8JzD4",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/B-iZPT8JzD4/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ සහ වාස්තු #vastu #shorts",
+                "url": "https://youtube.com/watch?v=QGiTUVZV0iU",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/QGiTUVZV0iU/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ කොළවලින් ලස්සන වෙන අපූරු ක්‍රමය | Beauty remedy using neem leaves!",
+                "url": "https://youtube.com/watch?v=p0pgp8FHFac",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/p0pgp8FHFac/hq720.jpg"
+            },
+            {
+                "title": "සුදු වෙන්න කොහොඹ කොළ වලින් Face Pack එකක් ගෙදරදිම හදාගමු",
+                "url": "https://youtube.com/watch?v=CgdEXI5fLOE",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/CgdEXI5fLOE/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ගැන හැමෝම අහන ප්‍රශ්න | Bin Kohomba | Ceylon Agri | Episode 370",
+                "url": "https://youtube.com/watch?v=bsDV6DgOPZQ",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/bsDV6DgOPZQ/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ/Neem Tree/Azadirachta indica",
+                "url": "https://youtube.com/watch?v=FYlm_44mBpM",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/FYlm_44mBpM/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ කොළ වලින් Toner එකක් හදමුද?🌿 #shorts #fyp #skincare #toner #tranding #pimplesremove",
+                "url": "https://youtube.com/watch?v=H1ew57iJ6Xs",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/H1ew57iJ6Xs/hq720.jpg"
+            },
+            {
+                "title": "දුන්කොල හා කොහොඹ කොල නිස්සාරණය කාබනික වගාව සදහා",
+                "url": "https://youtube.com/watch?v=ZQptDsuYj_c",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/ZQptDsuYj_c/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොඹ තෙල් වලින් පලිබෝධ පාලනය වෙන්නේ මෙහෙමයි, This is how to control pests with Neem oil",
+                "url": "https://youtube.com/watch?v=ioKV2at8L-o",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/ioKV2at8L-o/hq720.jpg"
+            },
+            {
+                "title": "kohoba / කොහොඹ",
+                "url": "https://youtube.com/watch?v=WdBCdcvtSkQ",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/WdBCdcvtSkQ/hq2.jpg"
+            },
+            {
+                "title": "කොහොඹ කොල සත්කාරය #chingu #boy #traditional #way #fordogs #treatment #srilanka #doglovers #puppylove",
+                "url": "https://youtube.com/watch?v=ug6J0PleYPs",
+                "duration": "0:17",
+                "thumbnail": "https://i.ytimg.com/vi/ug6J0PleYPs/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ bonsai 🥰❤#bonsai",
+                "url": "https://youtube.com/watch?v=sDSkZZMLD9A",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/sDSkZZMLD9A/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ කොළ නිස්සාරකය ගෙදරදීම හදමු,How to make Neem Leaves Extract as an Organic Pesticide.",
+                "url": "https://youtube.com/watch?v=xbbMh3WrkJw",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/xbbMh3WrkJw/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ඔබ නොදත් කොහොඹ ගුණ #viralvideo #motivation #healthyfood #health #neem #beauty #fresh",
+                "url": "https://youtube.com/watch?v=BsourPvUEdo",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/BsourPvUEdo/hq720.jpg"
+            },
+            {
+                "title": "සමේ ආසාදන සුව කරන තුවාල වලටත් ගුණ විෂබීජ නාශක ගුණ මෙන්ම තවත් ගුණ රැසක් තිබෙන කොහොඹ තෙල්",
+                "url": "https://youtube.com/watch?v=4fVxFz3m-tc",
+                "duration": "15:23",
+                "thumbnail": "https://i.ytimg.com/vi/4fVxFz3m-tc/hq720.jpg"
+            },
+            {
+                "title": "Kohoba wala oba nodath guna 14 k | කොහොඹ වල ඔබ නොදත් වටිනා ගුණ",
+                "url": "https://youtube.com/watch?v=RH3DqGHQ2e0",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/RH3DqGHQ2e0/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ විශ්මිත ගුණ ගැන ඔබ මීට කලින් දැන සිටියාද?  |  වගා දැනුම   #agriculture #ලංකාවෙ",
+                "url": "https://youtube.com/watch?v=lHHfnKkF3DY",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lHHfnKkF3DY/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ කොළ ගැන ඔබ නොදත් රහස් | Secrets About Neem | Gagana Featured",
+                "url": "https://youtube.com/watch?v=M0OVNawUJrQ",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/M0OVNawUJrQ/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ කොල වල විශ්මිත ගුණ - Amazing properties of kohomba leaves",
+                "url": "https://youtube.com/watch?v=EB7o-9SbXL8",
+                "duration": "0:39",
+                "thumbnail": "https://i.ytimg.com/vi/EB7o-9SbXL8/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබ දන්නවද. හැදෙන දද කුෂ්ඨ වලට සහ ලේ පිරිසිදු කරන කොහොඹ පොතු පානය 😱😱 kohoba pothu#shortvideo",
+                "url": "https://youtube.com/watch?v=8pFUBJmYGpk",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/8pFUBJmYGpk/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ කොළ භාවිතයෙන් පාලනය කරගත හැකි රෝග",
+                "url": "https://youtube.com/watch?v=rp083wnOWLE",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/rp083wnOWLE/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ කොලෙන් ලස්සන වෙන්න || Benefits of Neem leaf (Kohomba)",
+                "url": "https://youtube.com/watch?v=RkJT6mlqYyY",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/RkJT6mlqYyY/hq720.jpg"
+            },
+            {
+                "title": "පැහැපත් සමකට මෙන්ම, අක්මාව රැක දෙන, දියවැඩියාව අඩු කරන කොහොඹ ශාකයේ ඔබ නොදත් පැතිකඩ | Uses of Kohomba",
+                "url": "https://youtube.com/watch?v=5GaPjhiqYgU",
+                "duration": "25:04",
+                "thumbnail": "https://i.ytimg.com/vi/5GaPjhiqYgU/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ | Munronia pinnata - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=aLVxN65TEgg",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/aLVxN65TEgg/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=sF_BrjVGH9Y",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/sF_BrjVGH9Y/hqdefault.jpg"
+            },
+            {
+                "title": "බොමුද රසම රස කොහොඹ කෝප්පයක්",
+                "url": "https://youtube.com/watch?v=KmK2i4CkkIs",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/KmK2i4CkkIs/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ පානය🌳(kohoba healthy drink).",
+                "url": "https://youtube.com/watch?v=kKlSeJjgEaA",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/kKlSeJjgEaA/hq720_2.jpg"
+            },
+            {
+                "title": "හිස්සොරි මර්දනය ට කොහොඹ කොළ ගාමු",
+                "url": "https://youtube.com/watch?v=A6zHQ7Xs1s0",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/A6zHQ7Xs1s0/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ගුණ .SUBSCRIBE කරමු.",
+                "url": "https://youtube.com/watch?v=gHjdcvk_S5c",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/gHjdcvk_S5c/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ ශාකයේ ඇති ඖෂධීය ගුණයන් #nature #දේශිය අත් බෙහෙත්#කොහොඹ ගුණ",
+                "url": "https://youtube.com/watch?v=Nld8Pd2gGKw",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/Nld8Pd2gGKw/hq720.jpg"
+            },
+            {
+                "title": "#shortvideo කොහොඹ වල ඖෂධීය වටිනාකම",
+                "url": "https://youtube.com/watch?v=ohRYJgMSB0c",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/ohRYJgMSB0c/hq720_2.jpg"
+            },
+            {
+                "title": "How to Make Neem Juice     නිරෝගී ජීවිතයකට කොහොඹ කොල පානය",
+                "url": "https://youtube.com/watch?v=KGAlTiFevLE",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/KGAlTiFevLE/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ සුව කරන කොහොඹ  | Kohomba | ඖෂධීය කොහොඹ | @osu-1380",
+                "url": "https://youtube.com/watch?v=NR86jp7sWGE",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/NR86jp7sWGE/hq720.jpg"
+            },
+            {
+                "title": "Azadirachta indica / Nimtree කොහොඹ ගෙඩි 🌿🌿🥰🤗 #shorts #trending #viral #medicine #nature",
+                "url": "https://youtube.com/watch?v=DORUEOG9OYA",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/DORUEOG9OYA/hq720.jpg"
+            },
+            {
+                "title": "දේශීය වෙදදුරන්ට අනුව corona වලට එරෙහිව ප්‍රතිශක්තිය නගාසිටුවන හීන් බින් කොහොඹ",
+                "url": "https://youtube.com/watch?v=WKw3IhMmfmw",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/WKw3IhMmfmw/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ගසේ ඇති ඖෂධීය ප්‍රයෝජන | medical plant of kohomba✅",
+                "url": "https://youtube.com/watch?v=O_U8G6d4cGo",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/O_U8G6d4cGo/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොඹ වල මෙච්චර ගුණයක් තියෙනව කියල කලින් දැනන් හිටියද",
+                "url": "https://youtube.com/watch?v=M73h612F-Gk",
+                "duration": "7:46",
+                "thumbnail": "https://i.ytimg.com/vi/M73h612F-Gk/hq720.jpg"
+            },
+            {
+                "title": "මිල අධික “බිං කොහොඹ “ නිවැරදිව ගෙවත්තෙ වවන්නෙ මෙහෙමයි | Binkohomba | Ceylon Agri | Episode 337",
+                "url": "https://youtube.com/watch?v=PrNeaCjs8m0",
+                "duration": "9:03",
+                "thumbnail": "https://i.ytimg.com/vi/PrNeaCjs8m0/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ශාකයේ ගුණ 🌿| kohomba plant amazing benefits of the Neem tree (kohomba)",
+                "url": "https://youtube.com/watch?v=8Bg3jaj2cs0",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/8Bg3jaj2cs0/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Margosa : Neem benefits (2018) කොහොඹ ගැන පුදුම දේවල් ටිකක්",
+                "url": "https://youtube.com/watch?v=Qy8SGV6Xm70",
+                "duration": "5:03",
+                "thumbnail": "https://i.ytimg.com/vi/Qy8SGV6Xm70/hq720.jpg"
+            },
+            {
+                "title": "Sri Lankan Herbs - Binkohomba |නිතරම ලෙඩ වෙන අයට හොදම බෙහෙත “බිං කොහොඹ” | Ceylon Agri | Episode 34",
+                "url": "https://youtube.com/watch?v=lnJONJ6ou-U",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/lnJONJ6ou-U/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොඹ kohoba වල ඖෂධීය ගුණ😱😱😱",
+                "url": "https://youtube.com/watch?v=aAU9GEpUvoc",
+                "duration": "6:26",
+                "thumbnail": "https://i.ytimg.com/vi/aAU9GEpUvoc/hq720.jpg"
+            },
+            {
+                "title": "කොහොඔ වල ගුණ .චර්ම රෝග  ඇතුළු රෝගාබාධ රැසකට ගුණදෙන,ඇගේ ලේ පිරිසිදු කරනා වටිනාම ඖෂධයක් කොහොඔ .",
+                "url": "https://youtube.com/watch?v=CBJLB2QRD3I",
+                "duration": "6:31",
+                "thumbnail": "https://i.ytimg.com/vi/CBJLB2QRD3I/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ දළු/Neem leaves#shorts🌱🌱🌱🌱🌱🌱",
+                "url": "https://youtube.com/watch?v=DlK9n4dnhbY",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/DlK9n4dnhbY/hq720_2.jpg"
+            },
+            {
+                "title": "kohoba/kohoba benefits/kohoba plant/විෂ නසන කොහොඹ",
+                "url": "https://youtube.com/watch?v=bJEKDA69Yks",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/bJEKDA69Yks/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොඹ ගහේ ගුණ | Properties of the neem (kohomba) tree",
+                "url": "https://youtube.com/watch?v=1nGDL_-YMxc",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/1nGDL_-YMxc/hqdefault.jpg"
+            },
+            {
+                "title": "kohoba/kohoba benefits/kohoba plant/විෂ නසන කොහොඹ",
+                "url": "https://youtube.com/watch?v=LjlaBQ9PoBo",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/LjlaBQ9PoBo/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Worms",
-      "sinhala": "පණුවන්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds",
-    "Roots",
-    "Bark"
-  ],
-  "images": [
-    {
-      "image_id": "205",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/672tWzK8/plant00817-00205.jpg"
-    },
-    {
-      "image_id": "206",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/HfCCv4qf/plant00817-00206.jpg"
-    },
-    {
-      "image_id": "207",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/ynTy0d9M/plant00817-00207.jpg"
-    },
-    {
-      "image_id": "3743",
-      "caption": "Flowers(PMR)",
-      "url": "https://i.ibb.co/h1TD5BxL/plant00817-03743.jpg"
-    },
-    {
-      "image_id": "3744",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/vxcjmH6g/plant00817-03744.jpg"
-    },
-    {
-      "image_id": "3745",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/9Hh5ZwNp/plant00817-03745.jpg"
-    },
-    {
-      "image_id": "3746",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/Z3x3nnR/plant00817-03746.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

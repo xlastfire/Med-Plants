@@ -1,118 +1,861 @@
 {
-  "scientificName": "Wrightia arborea (Dennst.) Mabb.",
-  "synonyms": [
-    "Beaumontia wallichii (A.DC.) Walp.",
-    "Chonemorpha vestita G.Don",
-    "Echites tomentosus Roth",
-    "Echites vestitus Roem. & Schult.",
-    "Hunteria eugeniifolia Wall. ex G.Don",
-    "Nerium coraea Buch.-Ham. ex A.DC.",
-    "Nerium tomentosum (Roem. & Schult.) Roxb.",
-    "Periploca arborea Dennst.",
-    "Wrightia coalita Buch.-Ham. ex Dillwyn",
-    "Wrightia coraia Wall. ex A.DC.",
-    "Wrightia hamiltoniana Wall.",
-    "Wrightia mollissima Wall.",
-    "Wrightia pubescens Roth",
-    "Wrightia rheedei Kostel.",
-    "Wrightia tomentosa Roem. & Schult.",
-    "Wrightia tomentosa subsp. pauciflora Ngan",
-    "Wrightia wallichii A.DC."
-  ],
-  "familyName": "APOCYNACEAE",
-  "englishNames": [
-    "Woolly Dyeing Rosebay"
-  ],
-  "sinhalaName": "Weradi kelinda (වැරදි කැළින්ඳ )",
-  "description": "කුඩා පතනශීලී (deciduous) ගසක් වන මෙහි කුඩා අතු සහ ඝන ලෙස වෙල්වට් වැනි රෝම සහිත (velvety) පත්‍ර දක්නට ලැබේ. ප්‍රතිවිරුද්ධව පිහිටි ඉලිප්සාකාර (elliptic) හෝ ප්‍රතිඩිම්බාකාර (obovate) පත්‍ර සියුම් අග්‍රයක් සහිත වන අතර ඒවා අඟල් 3-5 ක් දිග සහ අඟල් 1.5-2 ක් පළල වේ. අඟලක් පමණ පළලැති මල් අප්‍රසන්න ගන්ධයකින් යුක්ත වන අතර, ලා කහ හෝ කහ පැහැති දුඹුරු පැහැයක් ගනී; මේරීමේදී ඒවා අඳුරු දම් පැහැයට හැරේ. මල් ලා කහ පැහැති වන අතර මධ්‍යයේ මාංසල තැඹිලි පැහැති කොරෝනා (corona) කොරපොතු පිහිටා ඇත. පෙති ආයත (oblong) හැඩැති වන අතර වමට අතිච්ඡාදනය (overlapping) වේ. රේණු මලෙන් පිටතට නෙරා නොපවතී. පලතුරු එකිනෙක සම්බන්ධ වූ සිලින්ඩරාකාර (cylindric) කරල් වන අතර ඒවා සෙන්ටිමීටර 14-21 ක් දිග සහ සෙන්ටිමීටර 3-4 ක් පළල වේ.",
-  "treatments": [
-    {
-      "treatment": "Chronic Diarrhea",
-      "sinhala": "නිදන්ගත අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Wrightia arborea (Dennst.) Mabb.",
+    "synonyms": [
+        "Beaumontia wallichii (A.DC.) Walp.",
+        "Chonemorpha vestita G.Don",
+        "Echites tomentosus Roth",
+        "Echites vestitus Roem. & Schult.",
+        "Hunteria eugeniifolia Wall. ex G.Don",
+        "Nerium coraea Buch.-Ham. ex A.DC.",
+        "Nerium tomentosum (Roem. & Schult.) Roxb.",
+        "Periploca arborea Dennst.",
+        "Wrightia coalita Buch.-Ham. ex Dillwyn",
+        "Wrightia coraia Wall. ex A.DC.",
+        "Wrightia hamiltoniana Wall.",
+        "Wrightia mollissima Wall.",
+        "Wrightia pubescens Roth",
+        "Wrightia rheedei Kostel.",
+        "Wrightia tomentosa Roem. & Schult.",
+        "Wrightia tomentosa subsp. pauciflora Ngan",
+        "Wrightia wallichii A.DC."
+    ],
+    "familyName": "APOCYNACEAE",
+    "englishNames": [
+        "Woolly Dyeing Rosebay"
+    ],
+    "sinhalaName": "Weradi kelinda (වැරදි කැළින්ඳ )",
+    "description": "කුඩා පතනශීලී (deciduous) ගසක් වන මෙහි කුඩා අතු සහ ඝන ලෙස වෙල්වට් වැනි රෝම සහිත (velvety) පත්‍ර දක්නට ලැබේ. ප්‍රතිවිරුද්ධව පිහිටි ඉලිප්සාකාර (elliptic) හෝ ප්‍රතිඩිම්බාකාර (obovate) පත්‍ර සියුම් අග්‍රයක් සහිත වන අතර ඒවා අඟල් 3-5 ක් දිග සහ අඟල් 1.5-2 ක් පළල වේ. අඟලක් පමණ පළලැති මල් අප්‍රසන්න ගන්ධයකින් යුක්ත වන අතර, ලා කහ හෝ කහ පැහැති දුඹුරු පැහැයක් ගනී; මේරීමේදී ඒවා අඳුරු දම් පැහැයට හැරේ. මල් ලා කහ පැහැති වන අතර මධ්‍යයේ මාංසල තැඹිලි පැහැති කොරෝනා (corona) කොරපොතු පිහිටා ඇත. පෙති ආයත (oblong) හැඩැති වන අතර වමට අතිච්ඡාදනය (overlapping) වේ. රේණු මලෙන් පිටතට නෙරා නොපවතී. පලතුරු එකිනෙක සම්බන්ධ වූ සිලින්ඩරාකාර (cylindric) කරල් වන අතර ඒවා සෙන්ටිමීටර 14-21 ක් දිග සහ සෙන්ටිමීටර 3-4 ක් පළල වේ.",
+    "treatments": [
+        {
+            "treatment": "Chronic Diarrhea",
+            "sinhala": "නිදන්ගත අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhage",
+            "sinhala": "අධික රුධිර වහනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Cardiac Disorders",
+            "sinhala": "හෘද ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Psoriasis",
+            "sinhala": "සොරායසිස් (පොතු කබර රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark of the Root",
+        "Seeds",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "1908",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/M5CwH45V/plant00126-01908.jpg"
+        },
+        {
+            "image_id": "1909",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/s9g3mHGf/plant00126-01909.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Waradi | වැරදි - Thilina Srikantha",
+                "url": "https://youtube.com/watch?v=CsWxVumBkho",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/CsWxVumBkho/hq720.jpg"
+            },
+            {
+                "title": "Warakatha | වරකත | Episode 54 | 2026-06-02 | Rupavahini TeleDrama",
+                "url": "https://youtube.com/watch?v=qpHC7QcKCA0",
+                "duration": "19:56",
+                "thumbnail": "https://i.ytimg.com/vi/qpHC7QcKCA0/hq720.jpg"
+            },
+            {
+                "title": "Kala Weradi Therewi ( කල වැරදි තේරේවි ) Isuru Chathuranga | Official Music Video",
+                "url": "https://youtube.com/watch?v=IwFYT2Mg0vc",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/IwFYT2Mg0vc/hq720.jpg"
+            },
+            {
+                "title": "#Lka #BREAKING හේමරතන සාදු සහ මවුලවිතුමාගේ කතාවේ ඇත්ත, මීඩියාවලින් හංඟපු කතාව මෙන්න",
+                "url": "https://youtube.com/watch?v=B-Pbk9O5RXQ",
+                "duration": "11:33",
+                "thumbnail": "https://i.ytimg.com/vi/B-Pbk9O5RXQ/hq720.jpg"
+            },
+            {
+                "title": "රාජපක්ෂලාගේ නඩුවලට මෙහෙම වෙන්නෙ ඇයි...? Chandana Kariyawasam @Wayama-",
+                "url": "https://youtube.com/watch?v=NI2GKKNHf4E",
+                "duration": "20:09",
+                "thumbnail": "https://i.ytimg.com/vi/NI2GKKNHf4E/hq720.jpg"
+            },
+            {
+                "title": "වැරදි ප්‍රවෘත්ති ප්‍රචාරය කරලා, බොරු දැන්වීම් හදලාප්‍රචාරය කරපු අයට වැඩ වරදි",
+                "url": "https://youtube.com/watch?v=8EBU1j8pXi4",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/8EBU1j8pXi4/hq720.jpg"
+            },
+            {
+                "title": "වෘත්තිය නිසා ඝාතනය වූ පළමු නීතිඥයා විජේදාස ලියනාරච්චි",
+                "url": "https://youtube.com/watch?v=LpxJnvj7EBU",
+                "duration": "46:38",
+                "thumbnail": "https://i.ytimg.com/vi/LpxJnvj7EBU/hq720.jpg"
+            },
+            {
+                "title": "මහකනදරාව වැවේ වැරදි වැඩකළ ධීවරයෝ | Ada Derana",
+                "url": "https://youtube.com/watch?v=KwjE6vyh7Tw",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/KwjE6vyh7Tw/hq720.jpg"
+            },
+            {
+                "title": "වැලිකොට්ට දාද්දි කියපු කතාවලට සමන්ත සමතලා වෙන්න ගහයි! දෙයියන්ගේ සල්ලිවලට වඩා වටින දේ",
+                "url": "https://youtube.com/watch?v=stpH2pYV4lo",
+                "duration": "11:22",
+                "thumbnail": "https://i.ytimg.com/vi/stpH2pYV4lo/hq720.jpg"
+            },
+            {
+                "title": "වැරදි කරපු ඔබට ගැලවෙන මගක්..ven welimada saddhaseela thero.පූජ්‍ය වැලිමඩ සද්ධාසීල ස්වාමීන්වහන්සේ",
+                "url": "https://youtube.com/watch?v=U0mH4x5escc",
+                "duration": "1:35:50",
+                "thumbnail": "https://i.ytimg.com/vi/U0mH4x5escc/hqdefault.jpg"
+            },
+            {
+                "title": "වරදින් අත් මිදිමෙි ක්‍රමය welimada saddaseela theru.#trending #buddha",
+                "url": "https://youtube.com/watch?v=Gok-_A6P-1c",
+                "duration": "1:23:27",
+                "thumbnail": "https://i.ytimg.com/vi/Gok-_A6P-1c/hq720.jpg"
+            },
+            {
+                "title": "ගෝඨාභයටත් බඩු හරි...රට යාම තහනම්...Chandana Kariyawasam @Wayama-",
+                "url": "https://youtube.com/watch?v=HNNwRGFBJH0",
+                "duration": "11:26",
+                "thumbnail": "https://i.ytimg.com/vi/HNNwRGFBJH0/hq720.jpg"
+            },
+            {
+                "title": "වැරදි මිනිස්සුන්ට වඩා හිස් අසුන් වටිනවා🙂❤️ #viral #quotes #trending",
+                "url": "https://youtube.com/watch?v=7SmZgf74sMQ",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/7SmZgf74sMQ/hq720.jpg"
+            },
+            {
+                "title": "සුරේෂ් සලේ සිය දි#වි නසා ගනී...? Chandana Kariyawasam ... @Wayama-",
+                "url": "https://youtube.com/watch?v=Z1RNskjfKa8",
+                "duration": "14:19",
+                "thumbnail": "https://i.ytimg.com/vi/Z1RNskjfKa8/hq720.jpg"
+            },
+            {
+                "title": "වෙලේ සුදාට මරණ දඩුවම ස්ථිරයි",
+                "url": "https://youtube.com/watch?v=xsEpj93OZX0",
+                "duration": "9:10",
+                "thumbnail": "https://i.ytimg.com/vi/xsEpj93OZX0/hq720.jpg"
+            },
+            {
+                "title": "මෙන්න මිනිස්සු - වරද පෙන්වා දෙයි, වරද පිළිගෙන බුලත් කෙල ගැසූ තැන සෝදයි",
+                "url": "https://youtube.com/watch?v=WhGMDhgahUU",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/WhGMDhgahUU/hq720.jpg"
+            },
+            {
+                "title": "කලයුතු දෙය දැනගෙන කරන්න",
+                "url": "https://youtube.com/watch?v=wKRfzJpraIA",
+                "duration": "0:17",
+                "thumbnail": "https://i.ytimg.com/vi/wKRfzJpraIA/hq720_2.jpg"
+            },
+            {
+                "title": "මහින්දානන්දට වැලිකඩ අරක්කු දන්සලක්...Chandana Kariyawasam @Wayama-",
+                "url": "https://youtube.com/watch?v=1xzzRD0bxwc",
+                "duration": "22:25",
+                "thumbnail": "https://i.ytimg.com/vi/1xzzRD0bxwc/hq720.jpg"
+            },
+            {
+                "title": "දෙවන වාර විභාගයට වැඩිම ලකුණු ගන්න / 6වන පාඩම / Recording Day 03",
+                "url": "https://youtube.com/watch?v=y45YhoDjAH8",
+                "duration": "58:38",
+                "thumbnail": "https://i.ytimg.com/vi/y45YhoDjAH8/hq720.jpg"
+            },
+            {
+                "title": "කෙලෙහි ගුණ | පින්වත් වැලිමඩ සද්ධාසීල ස්වාමින් වහන්සේ | bana 2022",
+                "url": "https://youtube.com/watch?v=GZPM8gFHdcY",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/GZPM8gFHdcY/hqdefault.jpg"
+            },
+            {
+                "title": "වකුගඩු වල විෂ සෝදලා හරින්න බොන්නම ඕන බීම වර්ග 6ක් | 6 drinks Cleanse Your Kidneys Naturally",
+                "url": "https://youtube.com/watch?v=jVdnQz2lrBc",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/jVdnQz2lrBc/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම කෑවත් ඔබ නොදන්න, පරිප්පු වල අරුම පුදුම ගුණ 8 | 8 Benefits of Masoor Dal",
+                "url": "https://youtube.com/watch?v=Ai8-TDexZlY",
+                "duration": "11:24",
+                "thumbnail": "https://i.ytimg.com/vi/Ai8-TDexZlY/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ ශරීරය යකඩ ඌණතාවයෙන් පෙළෙන බවට හැගවෙන ලක්ෂණ 10ක් | 10 Signs and Symptoms of Iron Deficiency",
+                "url": "https://youtube.com/watch?v=ugOan13cIgs",
+                "duration": "10:05",
+                "thumbnail": "https://i.ytimg.com/vi/ugOan13cIgs/hq720.jpg"
+            },
+            {
+                "title": "කිරිවලට වඩා කැල්සියම් තියෙන ඉතාම ගුණදායක ආහාර 10 ක් | Foods That Have More Calcium Than Milk",
+                "url": "https://youtube.com/watch?v=oOC-Gg1R7AM",
+                "duration": "9:19",
+                "thumbnail": "https://i.ytimg.com/vi/oOC-Gg1R7AM/hq720.jpg"
+            },
+            {
+                "title": "දණහිසේ කාටිලේජ වේගයෙන් වර්ධනය කරන සුපිරිම ආහාර 08 | 7 Foods that Help Rebuild Cartilage",
+                "url": "https://youtube.com/watch?v=V-TVL5tMWSI",
+                "duration": "9:47",
+                "thumbnail": "https://i.ytimg.com/vi/V-TVL5tMWSI/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ලේ වඩවන ආහාර 20 ක් | රක්තහීනතාවය වලක්වන්න කන්න | Iron Rich Foods",
+                "url": "https://youtube.com/watch?v=Iwh34rqk7iA",
+                "duration": "16:24",
+                "thumbnail": "https://i.ytimg.com/vi/Iwh34rqk7iA/hq720.jpg"
+            },
+            {
+                "title": "උදේට පාන් එපා මෙන්න රක්තහීනතාවයට ගුණ ලේ වඩවන පානයන් 2ක් | මේක බිව්වම කන්න ඕනත් නෑ | le wadawana kama",
+                "url": "https://youtube.com/watch?v=cl3XLpXplVQ",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/cl3XLpXplVQ/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ කරවිලවල ඇත්ත නැත්ත | Bitter Melon For Blood Sugar By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0SdTXNz-LDE",
+                "duration": "12:53",
+                "thumbnail": "https://i.ytimg.com/vi/0SdTXNz-LDE/hq720.jpg"
+            },
+            {
+                "title": "මෙනේරි කෑවොත් වෙන දේ මෙන්න : How millet effects our health (2019)",
+                "url": "https://youtube.com/watch?v=1xZdxJRVAkI",
+                "duration": "1:48",
+                "thumbnail": "https://i.ytimg.com/vi/1xZdxJRVAkI/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැඳවල තිත්ත ඇත්ත? Kola Kanda & Bitter Truth By Nutritionist Hiroshan  Jayaranga",
+                "url": "https://youtube.com/watch?v=l1DagmLR9Zg",
+                "duration": "15:56",
+                "thumbnail": "https://i.ytimg.com/vi/l1DagmLR9Zg/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "ලේ කැටි ස්වභාවිකව දියකරන ආහාර. | Foods That Naturally Dissolve Blood Clots.",
+                "url": "https://youtube.com/watch?v=Fzufvgf-64U",
+                "duration": "9:07",
+                "thumbnail": "https://i.ytimg.com/vi/Fzufvgf-64U/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා වියළි මිදි 5ක් කෑවොත් ඔබේ සිරුරට සිදුවෙන හිතාගන්නවත් බැරි විස්මිත දේ |Raisins",
+                "url": "https://youtube.com/watch?v=L7YCJe4CdSc",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/L7YCJe4CdSc/hq720.jpg"
+            },
+            {
+                "title": "මේ ස්වාභාවික පානය බොනකොට වකුගඩු නිකන්ම පිරිසිදු වෙනවා - Kidney Cleaning Natural Drink",
+                "url": "https://youtube.com/watch?v=lv32TXOGcdo",
+                "duration": "10:09",
+                "thumbnail": "https://i.ytimg.com/vi/lv32TXOGcdo/hq720.jpg"
+            },
+            {
+                "title": "සෑම උදෑසනකම කරපිංචා කොළයක් හැපුවොත් ඔබේ ශරීරයට සිදුවන පුදුම දේවල් 8ක් | 8 benefits of curry leaves.",
+                "url": "https://youtube.com/watch?v=S9j0qyXZ5G4",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/S9j0qyXZ5G4/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන, ලෙඩවීම වලක්වන, පිටි වර්ග 7 ක්!",
+                "url": "https://youtube.com/watch?v=S_RsfSLzUw8",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/S_RsfSLzUw8/hq720.jpg"
+            },
+            {
+                "title": "බඩවැල් නිරෝගීව තියෙන තන්තු බහුල ආහාර 5ක්..#viral #viralvideo @DrKavindaJayawardenaMedia",
+                "url": "https://youtube.com/watch?v=ZBmu3eMSAdA",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/ZBmu3eMSAdA/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "කෙහෙළිය ගෙදර යැව්වත් තවමත් ඉටු නොවූ දෙයක් වෛද්‍ය චමල් මතක් කරයි",
+                "url": "https://youtube.com/watch?v=BauFF14Vo6Y",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/BauFF14Vo6Y/hq720.jpg"
+            },
+            {
+                "title": "විෂබීජ දැන් හැමතැනම, මේ වැරදිනම් කරන්න එපා | Sinhala | Dr. Iranga | SLDOC",
+                "url": "https://youtube.com/watch?v=C736szj7Yc8",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/C736szj7Yc8/hq720_2.jpg"
+            },
+            {
+                "title": "කාලින විග්‍රහය: වකුගඩු රෝග ප්‍රතිකාරක Jardiance ඖෂධය Pharmaceutical Benefits Scheme ලැයිස්තුවට |...",
+                "url": "https://youtube.com/watch?v=Qu3v8RrD9LY",
+                "duration": "6:30",
+                "thumbnail": "https://i.ytimg.com/vi/Qu3v8RrD9LY/hq720.jpg"
+            },
+            {
+                "title": "ගැසට් පත්‍රයක් නිසා ආයුර්වේද ඖෂධ අලෙවිසැල් අර්බුධයක හිරවුණු හැටි - Hiru News",
+                "url": "https://youtube.com/watch?v=fkR0quMkJj0",
+                "duration": "5:44",
+                "thumbnail": "https://i.ytimg.com/vi/fkR0quMkJj0/hq720.jpg"
+            },
+            {
+                "title": "කෙහෙළියගේ වස බෙහෙත් ගැන අනුර කළ හෙළිදරව්ව | Neth News",
+                "url": "https://youtube.com/watch?v=HRafgXd_4NQ",
+                "duration": "10:17",
+                "thumbnail": "https://i.ytimg.com/vi/HRafgXd_4NQ/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු රෝග සඳහා භාවිත කරන ඖෂධ ශරීරයට හිතකර ද? | Medicines used for kidney disease #kidneydisease",
+                "url": "https://youtube.com/watch?v=BI7ggcWdx4k",
+                "duration": "43:08",
+                "thumbnail": "https://i.ytimg.com/vi/BI7ggcWdx4k/hq720.jpg"
+            },
+            {
+                "title": "බරකොකු තෙල ලෝකෙටම අරගෙන ගිය ආයුර්වේද වෛද්‍ය රන්දෙනිගම",
+                "url": "https://youtube.com/watch?v=c18DimgCt0U",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/c18DimgCt0U/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද වෛද්‍ය ක්‍රමයේ දක්නට ලැබෙන තවත් එක් සුපිරි ඖශධයක් වන වැල්මී, ඔබ නොදත් කරුනු රැසක්",
+                "url": "https://youtube.com/watch?v=vGKRA3RKadE",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/vGKRA3RKadE/hq720.jpg"
+            },
+            {
+                "title": "ඔබ දන්නේ නැති! ගොඩක් ලෙඩවල මුලය තියෙන තැන | The Root Of Many Diseases That You Don't Know About",
+                "url": "https://youtube.com/watch?v=tw9-ti2j9mQ",
+                "duration": "10:00",
+                "thumbnail": "https://i.ytimg.com/vi/tw9-ti2j9mQ/hq720.jpg"
+            },
+            {
+                "title": "දණහිස් වේදනාව සන්ධි අමාරුව නිට්ටාවට සුව කරගන බෙහෙතක්! - මේ ආහාර නිතර කනවා නම් සන්ධි අමාරු එන්නේ නැහැ",
+                "url": "https://youtube.com/watch?v=4h3b2hPD5GA",
+                "duration": "16:40",
+                "thumbnail": "https://i.ytimg.com/vi/4h3b2hPD5GA/hq720.jpg"
+            },
+            {
+                "title": "වෙදගෙදර අඩපැය|  උරහිස් වේදනාව,බෙල්ලේ වේදනාව සුවකර ගැනීමට පාරම්පරික ආයුර්වේද ප්‍රතිකාර | iTV SriLanka",
+                "url": "https://youtube.com/watch?v=ZDDRRXalAL4",
+                "duration": "20:59",
+                "thumbnail": "https://i.ytimg.com/vi/ZDDRRXalAL4/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද ඖෂධ වෙනුවෙන් ජනතාව මේ වෙද්දි දැඩි නැඹුරුවක් වෙලාද?",
+                "url": "https://youtube.com/watch?v=E57hlDis1Ow",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/E57hlDis1Ow/hq720.jpg"
+            },
+            {
+                "title": "Click Here බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය| Repair & Clean Gut Naturally",
+                "url": "https://youtube.com/watch?v=7spkXvR6ad8",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/7spkXvR6ad8/hq720_2.jpg"
+            },
+            {
+                "title": "✔ ඖෂධීය හාතවාරිය කොළ කැඳ එකක් හරියට හදමු (උදැසන ආහාරය) Hathawariya Kola kanda by Apé Amma",
+                "url": "https://youtube.com/watch?v=Kx6on2aC2FA",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/Kx6on2aC2FA/hq720.jpg"
+            },
+            {
+                "title": "Around 200 cases of meningitis reported so far from several areas; Health Ministry issues guidelines",
+                "url": "https://youtube.com/watch?v=FAdNMhZuUok",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/FAdNMhZuUok/hq720.jpg"
+            },
+            {
+                "title": "Click Here බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය| Repair & Clean Gut Naturally",
+                "url": "https://youtube.com/watch?v=3ZmQx32-Hu4",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/3ZmQx32-Hu4/hq720_2.jpg"
+            },
+            {
+                "title": "මේ පලතුර දවසට එකක් කෑවොත් මොකද වෙන්නෙ?  #ayurveda",
+                "url": "https://youtube.com/watch?v=q4L2R_0mqRI",
+                "duration": "0:48",
+                "thumbnail": "https://i.ytimg.com/vi/q4L2R_0mqRI/hq720.jpg"
+            },
+            {
+                "title": "Heda Arana / Leshika Wejayarathne / cartilage tissue / ayurvedic medicine",
+                "url": "https://youtube.com/watch?v=yhjNVFIHf6w",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/yhjNVFIHf6w/hq720.jpg"
+            },
+            {
+                "title": "කෙහෙළිය බාල බෙහෙත් ගෙනාවේ විදලා බලලා නෙමෙයිනේ",
+                "url": "https://youtube.com/watch?v=FmWbrATifv4",
+                "duration": "6:08",
+                "thumbnail": "https://i.ytimg.com/vi/FmWbrATifv4/hq720.jpg"
+            },
+            {
+                "title": "🔥 වකුගඩු වලට දැනගත යුතු හොඳ සහ නරක අතිරේක⚠️ වකුගඩු වලට හානි කරයිද?! kidney health Vitamins",
+                "url": "https://youtube.com/watch?v=9OrQHJynr4I",
+                "duration": "20:03",
+                "thumbnail": "https://i.ytimg.com/vi/9OrQHJynr4I/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රැසක් සහිත වරා ශාකය | Calotropis gigantea / wara | Episode 30",
+                "url": "https://youtube.com/watch?v=3StW_-_5r9U",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/3StW_-_5r9U/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ සිරවී ඇති ලේ කැටි දිය කරන ආහාර වර්ග 10ක්  - Foods That Dissolve Blood Clots",
+                "url": "https://youtube.com/watch?v=JJsOY2xdAc4",
+                "duration": "10:28",
+                "thumbnail": "https://i.ytimg.com/vi/JJsOY2xdAc4/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "ගෙවී ගිය කාටිලේජ නැවත වර්ධනය කරන ආහාර 12 ක් - 12 Foods that Help Rebuild Cartilage",
+                "url": "https://youtube.com/watch?v=6Q-u6bs3OAI",
+                "duration": "10:15",
+                "thumbnail": "https://i.ytimg.com/vi/6Q-u6bs3OAI/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු ගල් සදහා හොඳම ආහාර 05 ක්...",
+                "url": "https://youtube.com/watch?v=jXWvg2Wrc18",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/jXWvg2Wrc18/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "මේ සම්බෝලේ මාසයක් කාලා ලේ චෙක් කරන්න නරක කොලෙස්ටරෝල් නැත්තටම නැති වෙනවා | diyawadiyawata kanna dewal",
+                "url": "https://youtube.com/watch?v=ag3Bnm2xThc",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/ag3Bnm2xThc/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව කොලෙස්ටරෝල් නසන පෝෂණීය ආහාරයක් | diyawadiyawata kanna dewal | සීනි මට්ටම අඩු කරන ආහාර",
+                "url": "https://youtube.com/watch?v=mUd_gzS55ts",
+                "duration": "12:56",
+                "thumbnail": "https://i.ytimg.com/vi/mUd_gzS55ts/hq720.jpg"
+            },
+            {
+                "title": "හැදෙන්න තියන පිළිකාවක් උනත් වලකන ලෙඩ 300කට ගුණ පානයක් | දියවැඩියාවට කොලෙස්ටරෝල් වලට බෙහෙත් nira S",
+                "url": "https://youtube.com/watch?v=5TmsOIyY_W8",
+                "duration": "6:33",
+                "thumbnail": "https://i.ytimg.com/vi/5TmsOIyY_W8/hq720.jpg"
+            },
+            {
+                "title": "දෙමව්පියන්ගේ පොදු වැරදි 05ක්#motivation #facts #viralvideo #viral #video #srilanka #health #science",
+                "url": "https://youtube.com/watch?v=SBT-sLZjUH8",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/SBT-sLZjUH8/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ ඇති වැල වරකා කන්න.",
+                "url": "https://youtube.com/watch?v=obdM6DJgh54",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/obdM6DJgh54/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "වාචාලයෝ එක්ක වාද නොකර වාද දිනන්නෙ කොහොමද?  | 48 Laws of Power in Sinhala | 9th Rule",
+                "url": "https://youtube.com/watch?v=ftHhiKwlurs",
+                "duration": "10:21",
+                "thumbnail": "https://i.ytimg.com/vi/ftHhiKwlurs/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "මේ දිනවල රට පුරා පැතිරෙන ලෙඩේට සැබෑ හේතුව කුමක්ද? ශාඛ සහ බීජ වල කල්පයක් පුරා පවතින වීර්ය කුමක්ද?",
+                "url": "https://youtube.com/watch?v=8YROIPMGNVc",
+                "duration": "25:24",
+                "thumbnail": "https://i.ytimg.com/vi/8YROIPMGNVc/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "කොළකැඳ බොන්න කලින් දැන ගන්න| Kola Kenda - 10 Plants for Herbal Porridge | Part 01",
+                "url": "https://youtube.com/watch?v=rU6NDyBgfGU",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/rU6NDyBgfGU/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "දැනගෙනම හිටවන්න | Pranajeewa Plant | Ceylon Agri| Episode 359",
+                "url": "https://youtube.com/watch?v=7VR4o-3yMxY",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/7VR4o-3yMxY/hq720.jpg"
+            },
+            {
+                "title": "කී කිරි දිය | නිතර හැදෙන රෝග නසන කීකිරිදිය | kikiridiya prAna TV | medicine plants | Kikiridhiya |",
+                "url": "https://youtube.com/watch?v=WI8M64F67jI",
+                "duration": "3:25",
+                "thumbnail": "https://i.ytimg.com/vi/WI8M64F67jI/hq720.jpg"
+            },
+            {
+                "title": "රණවරා නිතර බොන අයට වෙන දේ මෙන්න  : Benefits of Ranawara Tea",
+                "url": "https://youtube.com/watch?v=TGIjF3H7E8Y",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/TGIjF3H7E8Y/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Bitter Leaf Health Benefits ( & SIDE EFFECTS)",
+                "url": "https://youtube.com/watch?v=qtQZNnaVCDQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/qtQZNnaVCDQ/hq720.jpg"
+            },
+            {
+                "title": "Exploring the Surprising Health Benefits of Castor Leaves! 🌿🌟",
+                "url": "https://youtube.com/watch?v=LKcqFdkDITE",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/LKcqFdkDITE/hq720.jpg"
+            },
+            {
+                "title": "Periwinkle herbal tea health benefits with Dr  Debs - Oct 20th, 2020",
+                "url": "https://youtube.com/watch?v=LM5geh7_1Jw",
+                "duration": "22:16",
+                "thumbnail": "https://i.ytimg.com/vi/LM5geh7_1Jw/hq720.jpg"
+            },
+            {
+                "title": "Discover the Health Benefits of Castor Leaves You Didn't Know About",
+                "url": "https://youtube.com/watch?v=ctagZVzxQQI",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/ctagZVzxQQI/hq720.jpg"
+            },
+            {
+                "title": "මෙවැනි ශාඛ ඔබේ නිවසේ ඇත්තදැයි විමසිලිමත් වෙන්න | Geda Plant",
+                "url": "https://youtube.com/watch?v=9hlue8QMZOQ",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/9hlue8QMZOQ/hq720.jpg"
+            },
+            {
+                "title": "Bitter Leaf: Benefits for Health",
+                "url": "https://youtube.com/watch?v=gMUH7ap8cdE",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/gMUH7ap8cdE/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Kale - 7 Reasons to Eat It | When to Avoid",
+                "url": "https://youtube.com/watch?v=8_hFjbmNsBs",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/8_hFjbmNsBs/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits Of Cilantro You Should Know! | Health Benefits Of Cilantro",
+                "url": "https://youtube.com/watch?v=jlaelYqV94o",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/jlaelYqV94o/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩුවල එකතු වෙන විෂ ස්වාභාවිකව ඉවත් කරන පාන වර්ග 06ක් | 6 Drinks to Clean Your Kidneys Naturally",
+                "url": "https://youtube.com/watch?v=DKQ78pxfGyE",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/DKQ78pxfGyE/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ අය ලෙඩ වෙන්නෙ අරක්කු බොන්න දන්නෙ නැති නිසා |  Alcohol  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dk3QJjXV938",
+                "duration": "19:12",
+                "thumbnail": "https://i.ytimg.com/vi/dk3QJjXV938/hq720.jpg"
+            },
+            {
+                "title": "යකඩ පෙති බිව්වට හිමොග්ලොබින් වැඩි වෙන්නේ නෑ.| Iron &  Himoglobin By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=19q9lC3dPMA",
+                "duration": "13:17",
+                "thumbnail": "https://i.ytimg.com/vi/19q9lC3dPMA/hq720.jpg"
+            },
+            {
+                "title": "හිමොග්ලොබින් වැඩි කරන ආහාර",
+                "url": "https://youtube.com/watch?v=K1N1MASlHSM",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/K1N1MASlHSM/hqdefault.jpg"
+            },
+            {
+                "title": "සිරුරේ දුෂිත ලේ පිරිසිදු කරන හොදම ආහාර 09ක් - Top 9 Foods to Purify Your Blood",
+                "url": "https://youtube.com/watch?v=qzPe94OV7dI",
+                "duration": "10:20",
+                "thumbnail": "https://i.ytimg.com/vi/qzPe94OV7dI/hq720.jpg"
+            },
+            {
+                "title": "එක කරාඹු නැට්ටෙන්  ලෙඩ ගොඩක් ඉවරයි! Clive & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=NqnVK-pIrXA",
+                "duration": "14:04",
+                "thumbnail": "https://i.ytimg.com/vi/NqnVK-pIrXA/hq720.jpg"
+            },
+            {
+                "title": "වෛරස් රෝග වලදී අඩුවෙන ප්ලේට්ලට් මට්ටම වේගයෙන් ඉහල නන්වන ආහාර 10ක් | Blood platelet count increasing",
+                "url": "https://youtube.com/watch?v=aQqpg8W1_oM",
+                "duration": "8:32",
+                "thumbnail": "https://i.ytimg.com/vi/aQqpg8W1_oM/hq720.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "ලේ තුනී වෙන්න බෙහෙත් බොන ගමන් සුදුළූණු කන එක මාරාන්තිකයි! 🧄⚠️ | Aspirin & Garlic Danger #science",
+                "url": "https://youtube.com/watch?v=f36FuttjYTg",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/f36FuttjYTg/hq720.jpg"
+            },
+            {
+                "title": "SCIENCE දෙවන වරම-10-11 SUPER REVISION නියත A සාමාර්ථයේ සුපිරි්ම වැඩසටහන...",
+                "url": "https://youtube.com/watch?v=LfBazqLVXrA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/LfBazqLVXrA/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "🔴 Every Morning | ආයුර්වේද වෛද්‍ය රංජිත් අබේවර්ධන  | 2026.06.02",
+                "url": "https://youtube.com/watch?v=l2UiYeknTTo",
+                "duration": "26:46",
+                "thumbnail": "https://i.ytimg.com/vi/l2UiYeknTTo/hq720.jpg"
+            },
+            {
+                "title": "අක්මාව වේගයෙන් පිරිසුදු කරන හොදම ආහාර 10ක් | 10 Super Foods that Naturally Cleanse Your Liver",
+                "url": "https://youtube.com/watch?v=Mw2T2PeyGo4",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Mw2T2PeyGo4/hq720.jpg"
+            },
+            {
+                "title": "මේ ආහාර වැරදිලාවත් කන්න එපා! අධි රුධිර පීඩනය වැඩි වෙනවා! - අධි රුධිර පීඩනය ඉකමනින්ම් අඩු කරන විදිය",
+                "url": "https://youtube.com/watch?v=cREjIdUYDn4",
+                "duration": "20:30",
+                "thumbnail": "https://i.ytimg.com/vi/cREjIdUYDn4/hq720.jpg"
+            },
+            {
+                "title": "අධි රුධිර පීඩනය ස්වාභාවිකව පාලනය කරන ආහාර ර්ග 15ක් | 15 Best Foods for High Blood Pressure",
+                "url": "https://youtube.com/watch?v=iD2L88GekBM",
+                "duration": "11:55",
+                "thumbnail": "https://i.ytimg.com/vi/iD2L88GekBM/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල් බොරු බය නැතිකර කන්න හොද නරක දේ| Dr vajira explains | හොදට කන්න බය නැතුව",
+                "url": "https://youtube.com/watch?v=J0SOPg5brpo",
+                "duration": "12:06",
+                "thumbnail": "https://i.ytimg.com/vi/J0SOPg5brpo/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල් තියෙන අයට බය නැතුව කන්න පුළුවන් කෑම 10ක් - මේ ආහාර කනකොට රුධිර ධමනි පිරිසිදු වෙනවා!",
+                "url": "https://youtube.com/watch?v=cYxNBwdNLHA",
+                "duration": "14:13",
+                "thumbnail": "https://i.ytimg.com/vi/cYxNBwdNLHA/hq720.jpg"
+            },
+            {
+                "title": "පරිප්පු කෑවට ගුණ ගැන දන්නවද?.අනික වට්ටක්කා වල පෝෂනයත් බලන්න",
+                "url": "https://youtube.com/watch?v=BrBvAhTTcDs",
+                "duration": "1:10",
+                "thumbnail": "https://i.ytimg.com/vi/BrBvAhTTcDs/hq720.jpg"
+            },
+            {
+                "title": "ඖෂදිය ගුණ ඇති වරා ශාකයෙන් ගත හැකි ප්‍රයෝජන - calotropis gigantea / Wara",
+                "url": "https://youtube.com/watch?v=zZvrg5FXEsE",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/zZvrg5FXEsE/hq720.jpg"
+            },
+            {
+                "title": "වියළි කලාපීය පරිසරයේ වැවෙන ශාක/🍂plants growing in dry zone environment#foryou#youtube#education#cute",
+                "url": "https://youtube.com/watch?v=Nx50myrGyLI",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/Nx50myrGyLI/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "කරදරකාරී වේයන්ට සහ මිදුලේ තණකොළවලට සාර්ථක සරල සංයෝගයක් Simple solution for Grass and Termites Kusala",
+                "url": "https://youtube.com/watch?v=c42ckFDP8Os",
+                "duration": "7:38",
+                "thumbnail": "https://i.ytimg.com/vi/c42ckFDP8Os/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "පුරුෂ ශක්තිය වඩවන වැල් පෙණල කොළ කැඳ - Herbal Plants Of Sri Lanka Wel Penela Juice",
+                "url": "https://youtube.com/watch?v=sRWYctWfRjE",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/sRWYctWfRjE/hq720.jpg"
+            },
+            {
+                "title": "The Hidden Power of This Leaf – 108 Secrets Inside | Ancient Remedy Proven to Kill Cancer Cells",
+                "url": "https://youtube.com/watch?v=6Wjf2xQGWI8",
+                "duration": "22:55",
+                "thumbnail": "https://i.ytimg.com/vi/6Wjf2xQGWI8/hq720.jpg"
+            },
+            {
+                "title": "බාර්ලි පුරුද්දක් විදියට බොන්න හොඳ ද : Barley benefits - Does barley good as an everyday drink",
+                "url": "https://youtube.com/watch?v=bF5f4D4arzg",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/bF5f4D4arzg/hq720.jpg"
+            },
+            {
+                "title": "water berry with medicinal properties that cures many diseases /2024",
+                "url": "https://youtube.com/watch?v=ZxJbzctUXzw",
+                "duration": "14:01",
+                "thumbnail": "https://i.ytimg.com/vi/ZxJbzctUXzw/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhage",
-      "sinhala": "අධික රුධිර වහනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Cardiac Disorders",
-      "sinhala": "හෘද ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Psoriasis",
-      "sinhala": "සොරායසිස් (පොතු කබර රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark of the Root",
-    "Seeds",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "1908",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/M5CwH45V/plant00126-01908.jpg"
-    },
-    {
-      "image_id": "1909",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/s9g3mHGf/plant00126-01909.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

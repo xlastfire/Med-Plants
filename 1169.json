@@ -1,111 +1,320 @@
 {
-  "scientificName": "Citrus × aurantiifolia (Christm.) Swingle",
-  "synonyms": [
-    "Citrus × acida Roxb.",
-    "Citrus × aurantiifolia subsp. murgetana García Lidón & al.",
-    "Citrus × aurantium var. lima (Lunan) Guillaumin",
-    "Citrus × davaoensis (Wester) Yu.Tanaka",
-    "Citrus × excelsa var. davaoensis Wester",
-    "Citrus × excelsa Wester",
-    "Citrus × javanica Blume",
-    "Citrus × lima Lunan",
-    "Citrus × limon var. abyssinica Riccob.",
-    "Citrus × limon var. pusilla Risso",
-    "Citrus × limonellus Hassk.",
-    "Citrus × limonellus var. amblycarpa Hassk.",
-    "Citrus × limonellus var. oxycarpa Hassk.",
-    "Citrus × longispina Wester",
-    "Citrus × macrophylla Wester",
-    "Citrus × montana (Wester) Yu.Tanaka",
-    "Citrus × nipis Michel",
-    "Citrus × notissima Blanco",
-    "Citrus × ovata Hassk.",
-    "Citrus × papaya Hassk.",
-    "Citrus × pseudolimonum Wester",
-    "Citrus × spinosissima G.Mey.",
-    "Citrus × voangasay (Bory) Bojer",
-    "Citrus × webberi var. montana Wester",
-    "Citrus amblycarpa (Hassk.) Ochse",
-    "Citrus hystrix subsp. acida Engl.",
-    "Citrus medica f. aurantiifolium (Christm.) M.Hiroe",
-    "Citrus medica var. acida (Roxb.) Brandis",
-    "Limonia × aurantiifolia Christm."
-  ],
-  "familyName": "RUTACEAE",
-  "englishNames": [
-    "Lime",
-    "True Lime",
-    "Common Lime",
-    "Sour Lime"
-  ],
-  "sinhalaName": "Dehi (දෙහි)",
-  "description": "කුඩා ගසකි, අතු කෙටි, තද සහ උල් කටු සහිතය. පත්‍ර කුඩා වන අතර බොහෝ විට සෙන්ටිමීටර 5-7.5 ක් වේ. පුෂ්ප මංජරිය කෙටි වන අතර, පත්‍ර කක්ෂීය (axillary) වේ; මල් 2-7 ක් අඩංගු වන අතර කලාතුරකින් මල් 1 ක් පමණක් දැකිය හැක. මල් කුඩා සහ සුදු පැහැතිය. පලතුරු කුඩා, ගෝලාකාර (globose) සිට බිත්තරාකාර (ovoid) හැඩයක් ගනී, කොළ පැහැයට හුරු කහ පැහැතිය, පලතුරු බිත්තිය (pericarp) ග්‍රන්ථිමය තිත් සහිත (glandular dotted) සහ ඉතා සිහින්ය, යුෂ ඉතා ඇඹුල් රසයෙන් යුක්ත වන අතර බීජ කුඩාය.",
-  "treatments": [
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Citrus × aurantiifolia (Christm.) Swingle",
+    "synonyms": [
+        "Citrus × acida Roxb.",
+        "Citrus × aurantiifolia subsp. murgetana García Lidón & al.",
+        "Citrus × aurantium var. lima (Lunan) Guillaumin",
+        "Citrus × davaoensis (Wester) Yu.Tanaka",
+        "Citrus × excelsa var. davaoensis Wester",
+        "Citrus × excelsa Wester",
+        "Citrus × javanica Blume",
+        "Citrus × lima Lunan",
+        "Citrus × limon var. abyssinica Riccob.",
+        "Citrus × limon var. pusilla Risso",
+        "Citrus × limonellus Hassk.",
+        "Citrus × limonellus var. amblycarpa Hassk.",
+        "Citrus × limonellus var. oxycarpa Hassk.",
+        "Citrus × longispina Wester",
+        "Citrus × macrophylla Wester",
+        "Citrus × montana (Wester) Yu.Tanaka",
+        "Citrus × nipis Michel",
+        "Citrus × notissima Blanco",
+        "Citrus × ovata Hassk.",
+        "Citrus × papaya Hassk.",
+        "Citrus × pseudolimonum Wester",
+        "Citrus × spinosissima G.Mey.",
+        "Citrus × voangasay (Bory) Bojer",
+        "Citrus × webberi var. montana Wester",
+        "Citrus amblycarpa (Hassk.) Ochse",
+        "Citrus hystrix subsp. acida Engl.",
+        "Citrus medica f. aurantiifolium (Christm.) M.Hiroe",
+        "Citrus medica var. acida (Roxb.) Brandis",
+        "Limonia × aurantiifolia Christm."
+    ],
+    "familyName": "RUTACEAE",
+    "englishNames": [
+        "Lime",
+        "True Lime",
+        "Common Lime",
+        "Sour Lime"
+    ],
+    "sinhalaName": "Dehi (දෙහි)",
+    "description": "කුඩා ගසකි, අතු කෙටි, තද සහ උල් කටු සහිතය. පත්‍ර කුඩා වන අතර බොහෝ විට සෙන්ටිමීටර 5-7.5 ක් වේ. පුෂ්ප මංජරිය කෙටි වන අතර, පත්‍ර කක්ෂීය (axillary) වේ; මල් 2-7 ක් අඩංගු වන අතර කලාතුරකින් මල් 1 ක් පමණක් දැකිය හැක. මල් කුඩා සහ සුදු පැහැතිය. පලතුරු කුඩා, ගෝලාකාර (globose) සිට බිත්තරාකාර (ovoid) හැඩයක් ගනී, කොළ පැහැයට හුරු කහ පැහැතිය, පලතුරු බිත්තිය (pericarp) ග්‍රන්ථිමය තිත් සහිත (glandular dotted) සහ ඉතා සිහින්ය, යුෂ ඉතා ඇඹුල් රසයෙන් යුක්ත වන අතර බීජ කුඩාය.",
+    "treatments": [
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dandruff",
+            "sinhala": "හිස්හොරි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds",
+        "Bark",
+        "Root",
+        "Leaves",
+        "Juice of the fruit",
+        "Raw un-ripened fruit"
+    ],
+    "images": [
+        {
+            "image_id": "273",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/HLTsDWjJ/plant01169-00273.jpg"
+        },
+        {
+            "image_id": "274",
+            "caption": "Twig with young Fruits",
+            "url": "https://i.ibb.co/dJgq7Ywv/plant01169-00274.jpg"
+        },
+        {
+            "image_id": "275",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/fY6yw34B/plant01169-00275.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "දෙහි වල ගුණ",
+                "url": "https://youtube.com/watch?v=b1sahl7bYfM",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/b1sahl7bYfM/hq720.jpg"
+            },
+            {
+                "title": "උදෑසන හිස් බඩ දෙහි යුෂ පානය කරනවානම් ශරීරයට සිදුවෙන දේවල් 06ක් | 06 Benefits of Drinking Lemon",
+                "url": "https://youtube.com/watch?v=cV9JcYc1Nd8",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/cV9JcYc1Nd8/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා දෙහි පානය කලොත් වෙන දේ මෙන්න  | Isiwara Adawiya | Hela herbals",
+                "url": "https://youtube.com/watch?v=dqFa3rOvCGk",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/dqFa3rOvCGk/hq720.jpg"
+            },
+            {
+                "title": "දෙහි හෝ ලෙමන් යුශ එකතු කල වතුර වීදුරුවක් පානය කිරීමෙන් ශරීරයට ලබා ගත හැකි වටිනා වාසි රැසක්",
+                "url": "https://youtube.com/watch?v=6LM2BZAjdHM",
+                "duration": "13:59",
+                "thumbnail": "https://i.ytimg.com/vi/6LM2BZAjdHM/hq720.jpg"
+            },
+            {
+                "title": "දෙහි යුෂ වල ඇති අවධානම 😯 | Benefits of lemon juice",
+                "url": "https://youtube.com/watch?v=snWx-2Fwlzg",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/snWx-2Fwlzg/hq720.jpg"
+            },
+            {
+                "title": "දෙහි බිව්වම සම සුදු වෙන්නෙ මෙහෙමයි. දෙහි වල තියන අරුම පුදුම ගුණ..",
+                "url": "https://youtube.com/watch?v=zPKnw-8OZmY",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/zPKnw-8OZmY/hqdefault.jpg"
+            },
+            {
+                "title": "දෙහි අපේ ඇඟට ඇත්තටම හොඳද : Benefits of Lemon",
+                "url": "https://youtube.com/watch?v=QA4XlFulYLk",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/QA4XlFulYLk/hq720.jpg"
+            },
+            {
+                "title": "ලෙමන් වලට මෙච්ච්චර දේවල් කරන්න පුලුවන් කියල දන්නව නම් ඔබ හැමදාම බොයි benifits of lemon",
+                "url": "https://youtube.com/watch?v=m_9daE7Vykw",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/m_9daE7Vykw/hq720.jpg"
+            },
+            {
+                "title": "උදේට දෙහි යුෂ මිශ්‍ර උණු වතුර එකක් බිව්වොත් මොකද වෙන්නෙ #lemon #hot_water #drinkingwater #benifits",
+                "url": "https://youtube.com/watch?v=Dzmroh4eKTA",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/Dzmroh4eKTA/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් මුලුතැන්ගෙයි ප්‍රයෝජනයට දෙහි ගන්නවාද?🍋The valu of lime",
+                "url": "https://youtube.com/watch?v=AS5tKFBCAgU",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/AS5tKFBCAgU/hq720.jpg"
+            },
+            {
+                "title": "රුක් / Ruk (Trees) දෙහි ග‍සේ ගුණ",
+                "url": "https://youtube.com/watch?v=veaHLyiQaYs",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/veaHLyiQaYs/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් දෙහි යුෂ පානය කරනවා නේද....හැබැයි හරියටම දැනගෙනද බොන්නේ... || @CNLSRILANKA",
+                "url": "https://youtube.com/watch?v=Mku7mRuOEDI",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/Mku7mRuOEDI/hq720.jpg"
+            },
+            {
+                "title": "දෙහි යුෂ මූණෙ ගෑවොත් මොකද වෙන්නෙ? /lime for skin",
+                "url": "https://youtube.com/watch?v=AUjYlwIhuMM",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/AUjYlwIhuMM/hqdefault.jpg"
+            },
+            {
+                "title": "උණු වතුරට දෙහි දාලා බිව්වම වෙනදේ දන්නවද? නොදන්නා අය අනිවාර්යෙන් බලන්න",
+                "url": "https://youtube.com/watch?v=w3t7YWvXkFg",
+                "duration": "5:25",
+                "thumbnail": "https://i.ytimg.com/vi/w3t7YWvXkFg/hq720.jpg"
+            },
+            {
+                "title": "නාරං, දොඩං, දෙහි වල තියෙන අපූරු ගුණබල මෙන්න | For Your Healthy Life",
+                "url": "https://youtube.com/watch?v=ne3vRpd2QvM",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/ne3vRpd2QvM/hq720.jpg"
+            },
+            {
+                "title": "දෙහි වල ඇති විශේෂ ගුණ /පිළිකා අවම කරන දෙහි  මේ විදියට දෙහි යුෂ පානය කලොත් කිසිම ලෙඩක් හැදෙන්නේ නැ",
+                "url": "https://youtube.com/watch?v=h77GIHd69dc",
+                "duration": "7:34",
+                "thumbnail": "https://i.ytimg.com/vi/h77GIHd69dc/hq720.jpg"
+            },
+            {
+                "title": "මී පැණි සමග දෙහි වලින් මිනිස් සිරුරට ගුණ රැසක්",
+                "url": "https://youtube.com/watch?v=T-5Rg5b3Hmc",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/T-5Rg5b3Hmc/hqdefault.jpg"
+            },
+            {
+                "title": "දෙහි වල ගුණ",
+                "url": "https://youtube.com/watch?v=A6tRiqeXT8M",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/A6tRiqeXT8M/frame0.jpg"
+            },
+            {
+                "title": "දෙහි වගාවට සෑදෙන ලෙඩරෝග සහ ඒවාට කෘමිනාශක යෙදීම Aluth Wagawa අලුත් වගාව #Lime plantation srilanka",
+                "url": "https://youtube.com/watch?v=qE13ZB8RXKI",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/qE13ZB8RXKI/hq720.jpg"
+            },
+            {
+                "title": "අවාරේ දෙහි ගහක ගෙඩි ගන්නා විධිහ",
+                "url": "https://youtube.com/watch?v=l8sT7EYheYc",
+                "duration": "8:52",
+                "thumbnail": "https://i.ytimg.com/vi/l8sT7EYheYc/hq720.jpg"
+            },
+            {
+                "title": "උදේට හිස් බඩට දෙහි බොනවා නම් අනිවාර්යයෙන් මේක බලන්න | The Dark Truth About Lime Water 🍋",
+                "url": "https://youtube.com/watch?v=8JAYVmfmNz4",
+                "duration": "10:08",
+                "thumbnail": "https://i.ytimg.com/vi/8JAYVmfmNz4/hq720.jpg"
+            },
+            {
+                "title": "Drinking Lemon Water?   | උණු වතුරවලට දෙහි දාලා බිව්වොත් සිද්ධ වෙන පුදුම හිතෙන දේවල් 05ක්",
+                "url": "https://youtube.com/watch?v=_MCEVbByq8M",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/_MCEVbByq8M/hq720.jpg"
+            },
+            {
+                "title": "Lemon Seed Plant | දෙහි ඇට පැල කරන සරල ක්‍රමය",
+                "url": "https://youtube.com/watch?v=wbbCm3kIako",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/wbbCm3kIako/hq720.jpg"
+            },
+            {
+                "title": "වගා කරන්න හොඳම දෙහි පැළ තෝරාගන්නේ කොහොමද ?සිටවන්නේ කොහොමද ?lime plantation sinhala අලුත් වගාව",
+                "url": "https://youtube.com/watch?v=tNAOYCF-y8I",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/tNAOYCF-y8I/hq720.jpg"
+            },
+            {
+                "title": "දෙහි ගෙඩි 3 කින් ගැස්ට්‍රයිටිස් දවස් 3 න් හොද කරගමු",
+                "url": "https://youtube.com/watch?v=AVhrUST-M_4",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/AVhrUST-M_4/hq720.jpg"
+            },
+            {
+                "title": "උදෑසන දෙහි වීදුරුවක් බිවුවොත් වෙන දේ දන්නවද? | Amaizing Benifits of Lime | Ceylon Green Market",
+                "url": "https://youtube.com/watch?v=9c7ob7fTOCM",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/9c7ob7fTOCM/hq720.jpg"
+            },
+            {
+                "title": "තාමත් කඩෙන් දෙහි ගන්නවද?| Seedless Lime | Ceylon Agri | Episode 470",
+                "url": "https://youtube.com/watch?v=qFJuslCXm_Y",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/qFJuslCXm_Y/hq720.jpg"
+            },
+            {
+                "title": "වැඩි වැඩ නැති දකුණේ දෙහි ආනම |කල් තබා ගත හැකි සුපිරි කටගැස්මක්|Srilankan Spicy Lime Curry|Dehi Anama",
+                "url": "https://youtube.com/watch?v=8z-Ikdnmj0Q",
+                "duration": "5:40",
+                "thumbnail": "https://i.ytimg.com/vi/8z-Ikdnmj0Q/hqdefault.jpg"
+            },
+            {
+                "title": "දෙහි ගෙඩියකින් ලස්සන වෙමුද? 😮 Weight loss & skin whitening drink  #weigthloss #skincare",
+                "url": "https://youtube.com/watch?v=ev2S9egou90",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/ev2S9egou90/hq720.jpg"
+            },
+            {
+                "title": "Kaffir Lime |නිරෝගි දිවියකට - කෆීර් දෙහි |Ceylon Agri | Episode 43",
+                "url": "https://youtube.com/watch?v=h057GR78sT8",
+                "duration": "4:48",
+                "thumbnail": "https://i.ytimg.com/vi/h057GR78sT8/hqdefault.jpg"
+            },
+            {
+                "title": "දෙහි වලින් ලෙඩ සුව කර ගන්නේ මෙහෙමයි - Home Remedies using lemons!",
+                "url": "https://youtube.com/watch?v=_A6L3MpBObM",
+                "duration": "3:56",
+                "thumbnail": "https://i.ytimg.com/vi/_A6L3MpBObM/hq720.jpg"
+            },
+            {
+                "title": "දෙහි හෝ ලෙමන් යුශ උණු වතුර සමග පානය කිරීමෙන් ලැබෙන වාසි Lime & Lemon with Hot Water Drink, Dehi Bima",
+                "url": "https://youtube.com/watch?v=Pfxk_TnPPrw",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/Pfxk_TnPPrw/hq720.jpg"
+            },
+            {
+                "title": "දෙහි වගාවට සෑදෙන ලෙඩරෝග සහ ඒවාට කෘමිනාශක යෙදීම Aluth Wagawa අලුත් වගාව #Lime plantation srilanka",
+                "url": "https://youtube.com/watch?v=DngnhOiSMX8",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/DngnhOiSMX8/frame0.jpg"
+            },
+            {
+                "title": "The virtues of lemon - දෙහිවල ඇති ගුණය - anamanmamam tv 2025 | 12 | 08",
+                "url": "https://youtube.com/watch?v=J65OvJOVszg",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/J65OvJOVszg/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dandruff",
-      "sinhala": "හිස්හොරි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds",
-    "Bark",
-    "Root",
-    "Leaves",
-    "Juice of the fruit",
-    "Raw un-ripened fruit"
-  ],
-  "images": [
-    {
-      "image_id": "273",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/HLTsDWjJ/plant01169-00273.jpg"
-    },
-    {
-      "image_id": "274",
-      "caption": "Twig with young Fruits",
-      "url": "https://i.ibb.co/dJgq7Ywv/plant01169-00274.jpg"
-    },
-    {
-      "image_id": "275",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/fY6yw34B/plant01169-00275.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

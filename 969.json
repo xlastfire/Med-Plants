@@ -1,135 +1,242 @@
 {
-  "scientificName": "Pandanus kaida Kurz",
-  "synonyms": [
-    "Pandanus candelabrum (Gaudich.) Kurz",
-    "Pandanus forceps Martelli",
-    "Pandanus siamensis F.N.Williams",
-    "Pandanus unipapillatus Dennst.",
-    "Tuckeya candelabrum Gaudich."
-  ],
-  "familyName": "PANDANACEAE",
-  "englishNames": [
-    "False Pineapple"
-  ],
-  "sinhalaName": "Wetakeiya (වැටකෙයියා)",
-  "description": "විශාල පඳුරු ශාකයකි; කඳ මීටර් 2-4ක් උසය; පාදස්ථ ආධාරක මුල් (prop-roots) ස්වල්පයක් සහ කෙටි වේ. වැඩුණු පත්‍ර මීටර් 3-4ක් දිගු වන අතර පළල සෙන්ටිමීටර 9ක් දක්වා වේ, පත්‍ර මතුපිට නිල්-කොළ පැහැති ආලේපයක් (glaucous) නොමැත; පත්‍ර දාර සහ මධ්‍ය නාරටිය (යටි පැත්තෙන්) ශක්තිමත් කටු සහිතය. පුෂ්ප මංජරි අග්‍රස්ථ වේ. ස්ත්‍රී පුෂ්ප මංජරි වෘන්ත සහිත වන අතර, පුෂ්ප වෘන්ත සෙන්ටිමීටර 40-50ක් දක්වා දිගු වේ. පුරුෂ පුෂ්ප මංජරි විශාල පොකුරු (racemes) ලෙස පවතී, පුෂ්ප කරල් (spikes) සෙන්ටිමීටර 8-11ක් දිගු සහ සෙන්ටිමීටර 2.5-3ක් ඝනකම වන අතර, ඒවා කෙටි වෘන්ත සහිත (subsessile) වේ.",
-  "treatments": [
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Pandanus kaida Kurz",
+    "synonyms": [
+        "Pandanus candelabrum (Gaudich.) Kurz",
+        "Pandanus forceps Martelli",
+        "Pandanus siamensis F.N.Williams",
+        "Pandanus unipapillatus Dennst.",
+        "Tuckeya candelabrum Gaudich."
+    ],
+    "familyName": "PANDANACEAE",
+    "englishNames": [
+        "False Pineapple"
+    ],
+    "sinhalaName": "Wetakeiya (වැටකෙයියා)",
+    "description": "විශාල පඳුරු ශාකයකි; කඳ මීටර් 2-4ක් උසය; පාදස්ථ ආධාරක මුල් (prop-roots) ස්වල්පයක් සහ කෙටි වේ. වැඩුණු පත්‍ර මීටර් 3-4ක් දිගු වන අතර පළල සෙන්ටිමීටර 9ක් දක්වා වේ, පත්‍ර මතුපිට නිල්-කොළ පැහැති ආලේපයක් (glaucous) නොමැත; පත්‍ර දාර සහ මධ්‍ය නාරටිය (යටි පැත්තෙන්) ශක්තිමත් කටු සහිතය. පුෂ්ප මංජරි අග්‍රස්ථ වේ. ස්ත්‍රී පුෂ්ප මංජරි වෘන්ත සහිත වන අතර, පුෂ්ප වෘන්ත සෙන්ටිමීටර 40-50ක් දක්වා දිගු වේ. පුරුෂ පුෂ්ප මංජරි විශාල පොකුරු (racemes) ලෙස පවතී, පුෂ්ප කරල් (spikes) සෙන්ටිමීටර 8-11ක් දිගු සහ සෙන්ටිමීටර 2.5-3ක් ඝනකම වන අතර, ඒවා කෙටි වෘන්ත සහිත (subsessile) වේ.",
+    "treatments": [
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ear Diseases",
+            "sinhala": "කන් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Back Pain",
+            "sinhala": "කොන්දේ කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatoid Arthritis",
+            "sinhala": "ආමවාතය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Psychological Disorders",
+            "sinhala": "මානසික ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Stem",
+        "Sap",
+        "Flower"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "වැටකෙයියා (Watakeiya) #shorts තුන පහ Thuna Paha | තුන පහ Thuna Paha",
+                "url": "https://youtube.com/watch?v=_LYKV8XlspQ",
+                "duration": "0:37",
+                "thumbnail": "https://i.ytimg.com/vi/_LYKV8XlspQ/hq720.jpg"
+            },
+            {
+                "title": "අළුහම් හොද කරන වැටකෙයියා | අකලට කොණ්ඩය ඉදෙනවද? | How to use Pandanus Tree as a Medicine #watakeiya",
+                "url": "https://youtube.com/watch?v=v9DxKG54wSU",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/v9DxKG54wSU/hq720.jpg"
+            },
+            {
+                "title": "වැටකෙයියා | Watakeiya",
+                "url": "https://youtube.com/watch?v=wFBsW9avXeE",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/wFBsW9avXeE/hq720.jpg"
+            },
+            {
+                "title": "#රාහු අපල සඳහා වැටකෙයියා මල් / #Wetakeiya flower / #SL Zero 🇱🇰",
+                "url": "https://youtube.com/watch?v=4USib7swjLg",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/4USib7swjLg/hqdefault.jpg"
+            },
+            {
+                "title": "රාහුගේ අපලයට වැටකෙයියා වන්දනාව ශාස්ත්‍රීයව",
+                "url": "https://youtube.com/watch?v=cthxSxdCDU0",
+                "duration": "16:12",
+                "thumbnail": "https://i.ytimg.com/vi/cthxSxdCDU0/hq720.jpg"
+            },
+            {
+                "title": "වැටකෙයියා ශාකය ඉදුනු ගෙඩියක් හා ඉදුනෙ නැති ගෙඩියකුත් ඔන්න තියනවා මෙච්චර ගුණයි කියලා හිතුවද",
+                "url": "https://youtube.com/watch?v=EZLPaDxV0Gg",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/EZLPaDxV0Gg/hq720.jpg"
+            },
+            {
+                "title": "වැටකෙයියා (Watakeiya) #shorts තුන පහ Thuna Paha | තුන පහ Thuna Paha",
+                "url": "https://youtube.com/watch?v=GGVrNGwHOlk",
+                "duration": "0:37",
+                "thumbnail": "https://i.ytimg.com/vi/GGVrNGwHOlk/frame0.jpg"
+            },
+            {
+                "title": "kuru wetakeiya /Pandanus tectorius bonsai at home easy වැටකෙයියා බොන්සායි කරමු",
+                "url": "https://youtube.com/watch?v=MS7RUd5BRxo",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/MS7RUd5BRxo/hq720.jpg"
+            },
+            {
+                "title": "හිසකෙස් කළු කරණ වැටකෙයියා (watakeiya) ශාකයේ විශ්මිත ගුණ.",
+                "url": "https://youtube.com/watch?v=A5DLSXkSZvM",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/A5DLSXkSZvM/hq720.jpg"
+            },
+            {
+                "title": "I saw amazing fruit  වැටකෙයියා  ගෙඩි දැකලා තියෙනවද ?#shorts #viral",
+                "url": "https://youtube.com/watch?v=0dgELwrHn38",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/0dgELwrHn38/hq720.jpg"
+            },
+            {
+                "title": "කලාතුරකින්  පිපෙන  වැටකෙයියා  මල",
+                "url": "https://youtube.com/watch?v=8028SUsDzwU",
+                "duration": "1:55",
+                "thumbnail": "https://i.ytimg.com/vi/8028SUsDzwU/hq720.jpg"
+            },
+            {
+                "title": "වැටකෙයියා ශාකය ඉදුනු ගෙඩියක් හා ඉදුනෙ නැති ගෙඩියකුත් ඔන්න තියනවා මෙච්චර ගුණයි කියලා හිතුවද",
+                "url": "https://youtube.com/watch?v=cyL1EIhh_38",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/cyL1EIhh_38/frame0.jpg"
+            },
+            {
+                "title": "අපල නසන වැටකෙයියා  මල  දෙවියන්ගෙන් දෙයක් ඉල්ලනවා නම් මේක පූජා කරල ඉල්ලන්න",
+                "url": "https://youtube.com/watch?v=rhVJzWCkZsw",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/rhVJzWCkZsw/hq720.jpg"
+            },
+            {
+                "title": "වැටකෙයියා මල ජිවිත රකින්නේ කොහොමද.?",
+                "url": "https://youtube.com/watch?v=AMKdDKNh0ac",
+                "duration": "5:33",
+                "thumbnail": "https://i.ytimg.com/vi/AMKdDKNh0ac/hqdefault.jpg"
+            },
+            {
+                "title": "මේ ශාකය භාවිතයට නොගන්නා ඔබ බත් කාලා වැඩක් නෑ /ausadiya kikiridiya",
+                "url": "https://youtube.com/watch?v=scqO5Np5pcU",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/scqO5Np5pcU/hq720.jpg"
+            },
+            {
+                "title": "Watakeiya flower 🌺",
+                "url": "https://youtube.com/watch?v=uY9xeufr-LI",
+                "duration": "1:27",
+                "thumbnail": "https://i.ytimg.com/vi/uY9xeufr-LI/hqdefault.jpg"
+            },
+            {
+                "title": "අපල වලට මල් ගත්තට ශාකයේ ගුණ දන්නවද? උණ අපස්මාර ඇතුළු රෝග රැසකට ගුණ කටු පදුර | වැටකෙයියා",
+                "url": "https://youtube.com/watch?v=bSmjsNHcay8",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/bSmjsNHcay8/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ear Diseases",
-      "sinhala": "කන් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Back Pain",
-      "sinhala": "කොන්දේ කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatoid Arthritis",
-      "sinhala": "ආමවාතය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Psychological Disorders",
-      "sinhala": "මානසික ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Stem",
-    "Sap",
-    "Flower"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

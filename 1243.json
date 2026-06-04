@@ -1,119 +1,604 @@
 {
-  "scientificName": "Brucea javanica (L.) Merr.",
-  "synonyms": [
-    "Ailanthus gracilis Salisb.",
-    "Brucea amarissima Desv. ex Gomes",
-    "Brucea glabrata Decne.",
-    "Brucea gracilis (Salisb.) DC.",
-    "Brucea sumatrana Roxb.",
-    "Brucea sumatrensis Spreng.",
-    "Gonus amarissimus Lour.",
-    "Lussa amarissima Kuntze",
-    "Rhus affinis Wall.",
-    "Rhus bucki-amela Roxb.",
-    "Rhus bucki-amelam Roxb.",
-    "Rhus bucku-amela Wall. ex Lindl.",
-    "Rhus fastuosa Salisb.",
-    "Rhus javanica L.",
-    "Tetradium amarissimum Poir."
-  ],
-  "familyName": "SIMAROUBACEAE",
-  "englishNames": [
-    "Macassar Kernel"
-  ],
-  "sinhalaName": "Titta kohomba (තිත්ත කොහොඹ)",
-  "description": "මීටර් 10ක් දක්වා උසැති පඳුරක් හෝ කුඩා ගසකි, ද්විගෘහී (dioecious) හෝ ද්විලිංගික වේ. පත්‍ර සෙන්ටිමීටර 20 - 50ක් දිගය, පත්‍රිකා 3 - 15ක්, සාමාන්‍යයෙන් 5 - 7ක් ඇත, ඒවා ඩිම්බාකාර-දීර්ඝ (ovate-oblong) සිට ඩිම්බාකාර-ලන්සාකාර (ovate-lanceolate) හැඩයක් ගනී, සෙන්ටිමීටර 3.5 - 12 X 2 - 4.5 ප්‍රමාණයෙන් යුක්තය, අග්‍රය උල් වූ (acuminate) වේ, පාදය තරමක් ඇල (oblique) වේ, දාරය කියත් දත් සහිත (serrate) වේ, යටි පැත්ත තරමක් රෝම සහිත (pubescent) වේ, සමහර විට රෝම රහිත (glabrous) විය හැක. මල් කොළ පැහැති සුදු, රතු සිට දම් පැහැයක් ගනී, පත්‍ර කක්ෂීය (axillary), රෝම සහිත (pubescent), මංජරි (paniculate) සයිම (cymes) ලෙස පිහිටයි. මේරූ වියළි ගෙඩි හෝ කුඩා ඇට (druplets) 1 - 4ක් එකට පිහිටයි, ඩිම්බාකාර (ovoid) හෝ ඉලිප්සාකාර (ellipsoid) වේ, මිලිමීටර 4 - 6.5ක් දිගය, රෝම රහිත (glabrous) වේ, තරමක් ඉළ ඇට දෙකක් සහිත (2-ribbed) වේ; ඇටය දැල් වැනි රටාවක් සහිත (reticulated) වේ.",
-  "treatments": [
-    {
-      "treatment": "Amoebic Dysentery",
-      "sinhala": "ඇමීබා අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Brucea javanica (L.) Merr.",
+    "synonyms": [
+        "Ailanthus gracilis Salisb.",
+        "Brucea amarissima Desv. ex Gomes",
+        "Brucea glabrata Decne.",
+        "Brucea gracilis (Salisb.) DC.",
+        "Brucea sumatrana Roxb.",
+        "Brucea sumatrensis Spreng.",
+        "Gonus amarissimus Lour.",
+        "Lussa amarissima Kuntze",
+        "Rhus affinis Wall.",
+        "Rhus bucki-amela Roxb.",
+        "Rhus bucki-amelam Roxb.",
+        "Rhus bucku-amela Wall. ex Lindl.",
+        "Rhus fastuosa Salisb.",
+        "Rhus javanica L.",
+        "Tetradium amarissimum Poir."
+    ],
+    "familyName": "SIMAROUBACEAE",
+    "englishNames": [
+        "Macassar Kernel"
+    ],
+    "sinhalaName": "Titta kohomba (තිත්ත කොහොඹ)",
+    "description": "මීටර් 10ක් දක්වා උසැති පඳුරක් හෝ කුඩා ගසකි, ද්විගෘහී (dioecious) හෝ ද්විලිංගික වේ. පත්‍ර සෙන්ටිමීටර 20 - 50ක් දිගය, පත්‍රිකා 3 - 15ක්, සාමාන්‍යයෙන් 5 - 7ක් ඇත, ඒවා ඩිම්බාකාර-දීර්ඝ (ovate-oblong) සිට ඩිම්බාකාර-ලන්සාකාර (ovate-lanceolate) හැඩයක් ගනී, සෙන්ටිමීටර 3.5 - 12 X 2 - 4.5 ප්‍රමාණයෙන් යුක්තය, අග්‍රය උල් වූ (acuminate) වේ, පාදය තරමක් ඇල (oblique) වේ, දාරය කියත් දත් සහිත (serrate) වේ, යටි පැත්ත තරමක් රෝම සහිත (pubescent) වේ, සමහර විට රෝම රහිත (glabrous) විය හැක. මල් කොළ පැහැති සුදු, රතු සිට දම් පැහැයක් ගනී, පත්‍ර කක්ෂීය (axillary), රෝම සහිත (pubescent), මංජරි (paniculate) සයිම (cymes) ලෙස පිහිටයි. මේරූ වියළි ගෙඩි හෝ කුඩා ඇට (druplets) 1 - 4ක් එකට පිහිටයි, ඩිම්බාකාර (ovoid) හෝ ඉලිප්සාකාර (ellipsoid) වේ, මිලිමීටර 4 - 6.5ක් දිගය, රෝම රහිත (glabrous) වේ, තරමක් ඉළ ඇට දෙකක් සහිත (2-ribbed) වේ; ඇටය දැල් වැනි රටාවක් සහිත (reticulated) වේ.",
+    "treatments": [
+        {
+            "treatment": "Amoebic Dysentery",
+            "sinhala": "ඇමීබා අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Malaria",
+            "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Warts",
+            "sinhala": "ඉන්නන්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Corns and Calluses",
+            "sinhala": "පාදවල හටගන්නා කරඳ / කරපොතු තත්ත්වයන්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Syphilis",
+            "sinhala": "උපදංශය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "2703",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/jcpkP55/plant01243-02703.jpg"
+        },
+        {
+            "image_id": "2704",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/rWN7b4Z/plant01243-02704.jpg"
+        },
+        {
+            "image_id": "2705",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/8gXt97B2/plant01243-02705.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "තිත්ත නැති කොහොඹ ගස",
+                "url": "https://youtube.com/watch?v=sBKmhD8_UtE",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/sBKmhD8_UtE/hqdefault.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ වෙනුවට යොදාගත හැකි කිරාත 😱😱 #kiratha #Kirata #කිරාත #Swertia_chirata #Kiratha",
+                "url": "https://youtube.com/watch?v=W5LiluS4KXc",
+                "duration": "0:57",
+                "thumbnail": "https://i.ytimg.com/vi/W5LiluS4KXc/hq720_2.jpg"
+            },
+            {
+                "title": "තිත්ත කොහොඹ කොළෙන්  මිහිරි බණ පදයක් | සුපින්බර හිමිදිරිය | 2026.01.25",
+                "url": "https://youtube.com/watch?v=3wMinmetDQg",
+                "duration": "23:51",
+                "thumbnail": "https://i.ytimg.com/vi/3wMinmetDQg/hq720.jpg"
+            },
+            {
+                "title": "කන්න කන්න ආස හිතෙන 😁😁😁ලංකාවේ තිත්ත නැති කොහොඹ ගහ 🌴Gangasiripura Dhammaloka Thero #sandagiriseya",
+                "url": "https://youtube.com/watch?v=1fZ8JikfAWY",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/1fZ8JikfAWY/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත උනත් වටින කියන ඔසුවකි කොහොඹ",
+                "url": "https://youtube.com/watch?v=w44STWaPKLQ",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/w44STWaPKLQ/hqdefault.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකය | Bin kohomba | Munronia pinnata",
+                "url": "https://youtube.com/watch?v=xtBPxIkm9tk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/xtBPxIkm9tk/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත කොහොඹ ගහකින් යට ඉදගෙන ජනතාව පැණිරස අඹ ගෙඩියක් බලාපොරොත්ත වෙනවා - වෛද්‍ය චන්දිමා විජේගුණවර්ධන",
+                "url": "https://youtube.com/watch?v=iX-YfTBN69c",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/iX-YfTBN69c/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ගැන හැමෝම අහන ප්‍රශ්න | Bin Kohomba | Ceylon Agri | Episode 370",
+                "url": "https://youtube.com/watch?v=bsDV6DgOPZQ",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/bsDV6DgOPZQ/hq720.jpg"
+            },
+            {
+                "title": "ඇයි ගේ ඉස්සරහා කොහොඹ අත්තක් එල්ලන්නේ ?",
+                "url": "https://youtube.com/watch?v=dy6DHyVm6CI",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/dy6DHyVm6CI/hq720.jpg"
+            },
+            {
+                "title": "Tranquil morning under a neem tree | අවුරුදු 2ක් පැරණි කොහොඹ ගස",
+                "url": "https://youtube.com/watch?v=4K6a-yeEUBM",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/4K6a-yeEUBM/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ දළු/Neem leaves#shorts🌱🌱🌱🌱🌱🌱",
+                "url": "https://youtube.com/watch?v=DlK9n4dnhbY",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/DlK9n4dnhbY/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ සත්කාරයෙන් පසු හාල් දිගු කලක් කියාගන්න පුළුවන්ද? තිත්ත රස දැනේද?",
+                "url": "https://youtube.com/watch?v=4SzxrBOISIg",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/4SzxrBOISIg/hq720.jpg"
+            },
+            {
+                "title": "ඉ‌බේ කැරකෙන කොහොඹ ගහ| Wishwa dhoratuwa short",
+                "url": "https://youtube.com/watch?v=XAJouDC8qSU",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/XAJouDC8qSU/hq720.jpg"
+            },
+            {
+                "title": "අපේ සෙතූ කොහොඹ කලේ නැටුවා.🥰🥰🥰ලයික් එකක් දාගෙන ම යං යාළුවනේ.👍👍",
+                "url": "https://youtube.com/watch?v=z6ZQABZ9m-o",
+                "duration": "0:10",
+                "thumbnail": "https://i.ytimg.com/vi/z6ZQABZ9m-o/hq720_2.jpg"
+            },
+            {
+                "title": "kohoba / කොහොඹ",
+                "url": "https://youtube.com/watch?v=WdBCdcvtSkQ",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/WdBCdcvtSkQ/hq2.jpg"
+            },
+            {
+                "title": "තිත්ත නැතිව කොහොඹ.ඇඹුල් නැතිව දෙහි කනවා.🤔",
+                "url": "https://youtube.com/watch?v=BaTygMGA4H4",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/BaTygMGA4H4/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ගුණ. චර්ම රෝග ඇතුලු රෝගාබාධ රැසකට ගුණදෙන ආයුර්වේදීය ඔසු.",
+                "url": "https://youtube.com/watch?v=Uvb_M2tX2Ts",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/Uvb_M2tX2Ts/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ප්‍රතිශක්තිය වැඩි කරන බිං කොහොඹ - Mumronia pinnata",
+                "url": "https://youtube.com/watch?v=J1CJ5jgcAYE",
+                "duration": "11:07",
+                "thumbnail": "https://i.ytimg.com/vi/J1CJ5jgcAYE/hq720.jpg"
+            },
+            {
+                "title": "දේශීය වෙදදුරන්ට අනුව corona වලට එරෙහිව ප්‍රතිශක්තිය නගාසිටුවන හීන් බින් කොහොඹ",
+                "url": "https://youtube.com/watch?v=WKw3IhMmfmw",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/WKw3IhMmfmw/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ශාකයේ ඔසු ගුණ | Neem Tree | kohomba",
+                "url": "https://youtube.com/watch?v=B-iZPT8JzD4",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/B-iZPT8JzD4/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත උනත් ඇත්ත කියන කොහොඹ.",
+                "url": "https://youtube.com/watch?v=SiRDHI4dHP0",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/SiRDHI4dHP0/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ කන්න පුලුවන් මේක බෑ. තිත්ත උපරිම",
+                "url": "https://youtube.com/watch?v=Tcrr48SPFm8",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/Tcrr48SPFm8/hq720_2.jpg"
+            },
+            {
+                "title": "බොමුද රසම රස කොහොඹ කෝප්පයක්",
+                "url": "https://youtube.com/watch?v=KmK2i4CkkIs",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/KmK2i4CkkIs/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ඔබ නොදත් කොහොඹ ගුණ #viralvideo #motivation #healthyfood #health #neem #beauty #fresh",
+                "url": "https://youtube.com/watch?v=BsourPvUEdo",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/BsourPvUEdo/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ගුණ .SUBSCRIBE කරමු.",
+                "url": "https://youtube.com/watch?v=gHjdcvk_S5c",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/gHjdcvk_S5c/hq720_2.jpg"
+            },
+            {
+                "title": "ඔබ දන්නවද. හැදෙන දද කුෂ්ඨ වලට සහ ලේ පිරිසිදු කරන කොහොඹ පොතු පානය 😱😱 kohoba pothu#shortvideo",
+                "url": "https://youtube.com/watch?v=8pFUBJmYGpk",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/8pFUBJmYGpk/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල අපට නොපෙනෙන ගුණය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හැරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=hRpzilgWq5o",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/hRpzilgWq5o/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ විශ්මිත ගුණ ගැන ඔබ මීට කලින් දැන සිටියාද?  |  වගා දැනුම   #agriculture #ලංකාවෙ",
+                "url": "https://youtube.com/watch?v=lHHfnKkF3DY",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lHHfnKkF3DY/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ කොළ ගැන ඔබ නොදත් රහස් | Secrets About Neem | Gagana Featured",
+                "url": "https://youtube.com/watch?v=M0OVNawUJrQ",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/M0OVNawUJrQ/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=sF_BrjVGH9Y",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/sF_BrjVGH9Y/hqdefault.jpg"
+            },
+            {
+                "title": "Kohoba wala oba nodath guna 14 k | කොහොඹ වල ඔබ නොදත් වටිනා ගුණ",
+                "url": "https://youtube.com/watch?v=RH3DqGHQ2e0",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/RH3DqGHQ2e0/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ගහේ ගුණ | Properties of the neem (kohomba) tree",
+                "url": "https://youtube.com/watch?v=1nGDL_-YMxc",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/1nGDL_-YMxc/hqdefault.jpg"
+            },
+            {
+                "title": "හිස්සොරි මර්දනය ට කොහොඹ කොළ ගාමු",
+                "url": "https://youtube.com/watch?v=A6zHQ7Xs1s0",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/A6zHQ7Xs1s0/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ පානය🌳(kohoba healthy drink).",
+                "url": "https://youtube.com/watch?v=kKlSeJjgEaA",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/kKlSeJjgEaA/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ ශාකයේ ඇති ඖෂධීය ගුණයන් #nature #දේශිය අත් බෙහෙත්#කොහොඹ ගුණ",
+                "url": "https://youtube.com/watch?v=Nld8Pd2gGKw",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/Nld8Pd2gGKw/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ සුව කරන කොහොඹ  | Kohomba | ඖෂධීය කොහොඹ | @osu-1380",
+                "url": "https://youtube.com/watch?v=NR86jp7sWGE",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/NR86jp7sWGE/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට දිව්‍ය ඔසුවක් | හීං බිං කොහොඹ | Munronia pinnata",
+                "url": "https://youtube.com/watch?v=m_fCLMWvIzI",
+                "duration": "0:47",
+                "thumbnail": "https://i.ytimg.com/vi/m_fCLMWvIzI/hq720_2.jpg"
+            },
+            {
+                "title": "සමේ ආසාදන සුව කරන තුවාල වලටත් ගුණ විෂබීජ නාශක ගුණ මෙන්ම තවත් ගුණ රැසක් තිබෙන කොහොඹ තෙල්",
+                "url": "https://youtube.com/watch?v=4fVxFz3m-tc",
+                "duration": "15:23",
+                "thumbnail": "https://i.ytimg.com/vi/4fVxFz3m-tc/hq720.jpg"
+            },
+            {
+                "title": "දේවහාස්කමින් මතු වුණ | ලෙඩ රෝග සුවකරන අරුම පුදුම පානය | කොහොඹ රා | #viral #traveltrinco #news",
+                "url": "https://youtube.com/watch?v=KjY2Qav-bWA",
+                "duration": "6:08",
+                "thumbnail": "https://i.ytimg.com/vi/KjY2Qav-bWA/hq720.jpg"
+            },
+            {
+                "title": "සුග කොලොස්ටරෝල් ආමාසගත රෝග රැසකට ගුණ දෙන තිත්ත තිබ්බටු ඖෂධ ශාකය",
+                "url": "https://youtube.com/watch?v=x9dIEUQ_7us",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/x9dIEUQ_7us/hq720.jpg"
+            },
+            {
+                "title": "මේ තිබ්බටුද? ඔව් නමුත් මේක තිත්ත තිබ්බටු.",
+                "url": "https://youtube.com/watch?v=yPLwFQFUzAA",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/yPLwFQFUzAA/hq720_2.jpg"
+            },
+            {
+                "title": "තිත්ත වැල් ගැන අහල තිබ්බට ගුණ ගැන දැනම් හිටියද? Thiththa Plant",
+                "url": "https://youtube.com/watch?v=zBvXlGJ_T_0",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/zBvXlGJ_T_0/hq720.jpg"
+            },
+            {
+                "title": "ලෝකයේ සුවද වැඩිම මල් වර්ග 10|The most fragrant flowers in the world🌺🌹🌷#shorts  #viral  #top10",
+                "url": "https://youtube.com/watch?v=VWBT-5caKlc",
+                "duration": "0:37",
+                "thumbnail": "https://i.ytimg.com/vi/VWBT-5caKlc/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ ගසේ ඇති ඖෂධීය ප්‍රයෝජන | medical plant of kohomba✅",
+                "url": "https://youtube.com/watch?v=O_U8G6d4cGo",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/O_U8G6d4cGo/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන තිත්ත තිබ්බටු තෙම්පරාදුව #thiththathibbatu#villagefood",
+                "url": "https://youtube.com/watch?v=7rqIk9e_9os",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/7rqIk9e_9os/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල තිත්ත ඇත්ත | Heenbovitiya & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=lBsI67rHBnE",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/lBsI67rHBnE/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු වල තිත්ත ඇත්ත | Turkey Berry & Bitter Truth By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Yxcn99C76YM",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Yxcn99C76YM/hq720.jpg"
+            },
+            {
+                "title": "217 ඉබේ වැවෙන බෙහෙත් ගබඩාව. පිලිකා , ගැස්ට්‍රයිටිස් , පේනහලු රෝග , වකුගඩු රෝග වනසන තිත්ත තිබ්බටු",
+                "url": "https://youtube.com/watch?v=9FF0wIG2rEU",
+                "duration": "6:31",
+                "thumbnail": "https://i.ytimg.com/vi/9FF0wIG2rEU/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත නැති තුඹ වල ගුණ අගුණ සමෙහි ඇති වන ආසාදනයන්ට තිත baby bottle gourd benefits",
+                "url": "https://youtube.com/watch?v=WOUOlSpAplM",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/WOUOlSpAplM/hq720.jpg"
+            },
+            {
+                "title": "🙂කැලෑවල් වල ඉබේ හැදෙන රස වගේම ගුණයෙන්  පිරුණ  ගමේ කෑම.☘️🍀 Thiththa thibbatu",
+                "url": "https://youtube.com/watch?v=sfiCxPMYaAU",
+                "duration": "8:30",
+                "thumbnail": "https://i.ytimg.com/vi/sfiCxPMYaAU/hqdefault.jpg"
+            },
+            {
+                "title": "ලෝකයේ තෙල් මිල වැඩි වෙන කොට මේ රටේ තෙල් වැඩි කරන්න ආණ්ඩුවක් ඕනේ නෑ",
+                "url": "https://youtube.com/watch?v=JbnmgWV3sLw",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/JbnmgWV3sLw/hq720.jpg"
+            },
+            {
+                "title": "මේ ගහ ගෙදර තිබුණොත් පිළිකාවලින් මැරෙන් නෑ | පිළිකා | Dinesh Muthugala | Episode 131",
+                "url": "https://youtube.com/watch?v=EgdN1UosHj4",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/EgdN1UosHj4/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැඳවල තිත්ත ඇත්ත? Kola Kanda & Bitter Truth By Nutritionist Hiroshan  Jayaranga",
+                "url": "https://youtube.com/watch?v=l1DagmLR9Zg",
+                "duration": "15:56",
+                "thumbnail": "https://i.ytimg.com/vi/l1DagmLR9Zg/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම ඔයා විට කෑවට බුලත් විටෙ උපත දැනන්හිටියද ? 🌿",
+                "url": "https://youtube.com/watch?v=J49Yannf698",
+                "duration": "7:14",
+                "thumbnail": "https://i.ytimg.com/vi/J49Yannf698/hq720.jpg"
+            },
+            {
+                "title": "දත් කැක්කුමට \"රන් මානිස්ස\" - තිලක් කන්දේගම / Herbal Plant for Toothache @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=m2dVCqj-WRU",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/m2dVCqj-WRU/hq720.jpg"
+            },
+            {
+                "title": "වැට මායිමේ තියෙන \"තිබ්බටු\" ගහෙන් මාසෙට ලක්ෂ 7ක් හොයන්න පුළුවන් කිව්වොත් ඔබ විශ්වාස කරනවද? 🤔",
+                "url": "https://youtube.com/watch?v=RUCLHtd7l2Y",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/RUCLHtd7l2Y/hq720.jpg"
+            },
+            {
+                "title": "අත්දුටු පුස්කොළ පොත් රහස්: ගැස්ට්‍රයිටිස් සහ සීනි වලට සහනයක් | Gastritis & Diabetes Sinhala",
+                "url": "https://youtube.com/watch?v=jMDXDwPGi4k",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/jMDXDwPGi4k/hq720.jpg"
+            },
+            {
+                "title": "තන්තුමය ආහාර වල ඔබ නොදන්නා ගුණ | Benefits of Fiber | Dietary Fiber",
+                "url": "https://youtube.com/watch?v=Qjyv5-JQM30",
+                "duration": "9:40",
+                "thumbnail": "https://i.ytimg.com/vi/Qjyv5-JQM30/hq720.jpg"
+            },
+            {
+                "title": "බිඳ නොවැටී ඉන්න හිත හදාගමු | How to build mental toughness & resilience sinhala",
+                "url": "https://youtube.com/watch?v=OcrfpgwkX94",
+                "duration": "15:23",
+                "thumbnail": "https://i.ytimg.com/vi/OcrfpgwkX94/hq720.jpg"
+            },
+            {
+                "title": "තලවල අතිවිශිෂ්ට සෞඛ්‍ය ප්‍රතිලාභ | Superfood For Strong Bones and Heart @Knowdiet496",
+                "url": "https://youtube.com/watch?v=ouCp3BpFNEI",
+                "duration": "8:38",
+                "thumbnail": "https://i.ytimg.com/vi/ouCp3BpFNEI/hq720.jpg"
+            },
+            {
+                "title": "තිබිබටු ගෙඩියක් කරපු දෙයක්😥ඇත්තටම මෙහෙමද තිබිබටු? තිබිබටු වල ගුණ අගුණ",
+                "url": "https://youtube.com/watch?v=j2F_imzpej4",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/j2F_imzpej4/hq720.jpg"
+            },
+            {
+                "title": "බලන්න ඔයා හිටවන් ඉන්න තෙබු ශාකය මේකද කියලා... එහෙනම් ඔයා හරි",
+                "url": "https://youtube.com/watch?v=acdDw6FLGHs",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/acdDw6FLGHs/hq720.jpg"
+            },
+            {
+                "title": "Gotukola and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LcQ_lwSLdIA",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/LcQ_lwSLdIA/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටුවල ඇති විශේෂිත ගුණ.  Turkey Berry.",
+                "url": "https://youtube.com/watch?v=KAsZe_2Z-F0",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/KAsZe_2Z-F0/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට කොතලහිඹුටු ? | Sitha FM",
+                "url": "https://youtube.com/watch?v=SD0s9z1JyUY",
+                "duration": "1:41",
+                "thumbnail": "https://i.ytimg.com/vi/SD0s9z1JyUY/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු කෑවොත් මෙන්න මේ රෝග වලට ගුණයි | Thibbutu | Solanum torvum",
+                "url": "https://youtube.com/watch?v=Vs1ZvRhKNlA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/Vs1ZvRhKNlA/hqdefault.jpg"
+            },
+            {
+                "title": "වෙනිවැල් - තිත්ත වැල් \"කොහොමද හොයන්නේ \" / Herbal Plants - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=e37sZqGCbfM",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/e37sZqGCbfM/hq720.jpg"
+            },
+            {
+                "title": "හෙළ යක්කයින්ගේ ආහාරයක් | තිත්ත ඇට | thiththa ata",
+                "url": "https://youtube.com/watch?v=c4I8bwla4Sc",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/c4I8bwla4Sc/hqdefault.jpg"
+            },
+            {
+                "title": "Hibiscus Tea Benefits - 10 Benefits You Didn't Know About Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=osmO5QURWjQ",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/osmO5QURWjQ/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළවල තිත්ත ඇත්ත | Drumstick leaves & Health  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=aj0a9Jt6_GE",
+                "duration": "10:50",
+                "thumbnail": "https://i.ytimg.com/vi/aj0a9Jt6_GE/hq720.jpg"
+            },
+            {
+                "title": "රජයේ අනුමත කෝප්ප කොළ කෑවොත් වෙන දේ මෙන්න : Benefits of Croton Leaves",
+                "url": "https://youtube.com/watch?v=sXY5rc_CYSA",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/sXY5rc_CYSA/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 6ක් | Health Benefits Of Butterfly Pea Tea",
+                "url": "https://youtube.com/watch?v=lwZGAN8NJaM",
+                "duration": "9:22",
+                "thumbnail": "https://i.ytimg.com/vi/lwZGAN8NJaM/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ",
+                "url": "https://youtube.com/watch?v=7-R_C_VVIHg",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/7-R_C_VVIHg/hq720.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "ගෙදර ඉන්න කෙනෙක් Toxic නම්, එයාලව හැසිරවීමේ රහස් | How to deal with a toxic person | Mental Health",
+                "url": "https://youtube.com/watch?v=RppSOSRc9xo",
+                "duration": "18:32",
+                "thumbnail": "https://i.ytimg.com/vi/RppSOSRc9xo/hq720.jpg"
+            },
+            {
+                "title": "නිවසට වී සිටීමෙන් මනසට වන බලපෑම | The Mind's Home Effect | Mental Health Sinhala",
+                "url": "https://youtube.com/watch?v=zKAZfRlCkY4",
+                "duration": "15:23",
+                "thumbnail": "https://i.ytimg.com/vi/zKAZfRlCkY4/hq720.jpg"
+            },
+            {
+                "title": "විෂ සහිත දෙමාපියන් නිසා ඇතිවන මානසික තුවාල සුවපත් කරගමු - ප්‍රබල ක්‍රම | Thitha",
+                "url": "https://youtube.com/watch?v=tYstFkCK18o",
+                "duration": "14:15",
+                "thumbnail": "https://i.ytimg.com/vi/tYstFkCK18o/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Malaria",
-      "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Warts",
-      "sinhala": "ඉන්නන්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Corns and Calluses",
-      "sinhala": "පාදවල හටගන්නා කරඳ / කරපොතු තත්ත්වයන්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Syphilis",
-      "sinhala": "උපදංශය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "2703",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/jcpkP55/plant01243-02703.jpg"
-    },
-    {
-      "image_id": "2704",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/rWN7b4Z/plant01243-02704.jpg"
-    },
-    {
-      "image_id": "2705",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/8gXt97B2/plant01243-02705.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

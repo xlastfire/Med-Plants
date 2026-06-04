@@ -1,131 +1,304 @@
 {
-  "scientificName": "Phoenix pusilla Gaertn.",
-  "synonyms": [
-    "Phoenix farinifera Roxb.",
-    "Phoenix zeylanica Trimen",
-    "Zelonops pusilla (Gaertn.) Raf."
-  ],
-  "familyName": "ARECACEAE",
-  "englishNames": [
-    "Ceylon Palm",
-    "Flour Palm"
-  ],
-  "sinhalaName": "Indi (ඉඳි)",
-  "description": "මෙය ද්විත්ව ලිංගික (dioecious) තල් වර්ගයකි, කඳ මීටර් 2.6-7ක් උසය. පත්‍ර පක්ෂාකාරව බෙදුණු (pinnatisect) ස්වභාවයක් ගනී; පත්‍රිකා සෙන්ටිමීටර 17.5-20ක් දිගය. පත්‍ර කොපුව (spathe) සෙන්ටිමීටර 20-35ක් දිගය. පුෂ්ප මංජරිය (spadix) සෙන්ටිමීටර 30ක් පමණ දිග වන අතර එහි පුෂ්ප දණ්ඩ (peduncle) මහතය. පිරිමි මල්වල අක්ෂය (rachis) සෙන්ටිමීටර 10-15ක් දිග වන අතර ගැහැණු මල්වල අක්ෂය ඊට වඩා දිගු වේ. පලතුර සෙන්ටිමීටර 1.2ක් පමණ දිග සහ මිලිමීටර 6ක විෂ්කම්භයකින් යුක්ත වන අතර, රතු පැහැතිය; පලතුරු බිත්ති (pericarp) මාංසල වේ.",
-  "treatments": [
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Phoenix pusilla Gaertn.",
+    "synonyms": [
+        "Phoenix farinifera Roxb.",
+        "Phoenix zeylanica Trimen",
+        "Zelonops pusilla (Gaertn.) Raf."
+    ],
+    "familyName": "ARECACEAE",
+    "englishNames": [
+        "Ceylon Palm",
+        "Flour Palm"
+    ],
+    "sinhalaName": "Indi (ඉඳි)",
+    "description": "මෙය ද්විත්ව ලිංගික (dioecious) තල් වර්ගයකි, කඳ මීටර් 2.6-7ක් උසය. පත්‍ර පක්ෂාකාරව බෙදුණු (pinnatisect) ස්වභාවයක් ගනී; පත්‍රිකා සෙන්ටිමීටර 17.5-20ක් දිගය. පත්‍ර කොපුව (spathe) සෙන්ටිමීටර 20-35ක් දිගය. පුෂ්ප මංජරිය (spadix) සෙන්ටිමීටර 30ක් පමණ දිග වන අතර එහි පුෂ්ප දණ්ඩ (peduncle) මහතය. පිරිමි මල්වල අක්ෂය (rachis) සෙන්ටිමීටර 10-15ක් දිග වන අතර ගැහැණු මල්වල අක්ෂය ඊට වඩා දිගු වේ. පලතුර සෙන්ටිමීටර 1.2ක් පමණ දිග සහ මිලිමීටර 6ක විෂ්කම්භයකින් යුක්ත වන අතර, රතු පැහැතිය; පලතුරු බිත්ති (pericarp) මාංසල වේ.",
+    "treatments": [
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Infection",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Bladder Stones",
+            "sinhala": "මුත්‍රාශයේ ගල්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Rectal Prolapse",
+            "sinhala": "ගුද මාර්ගය පිටතට පැමිණීම (ගුද භ්‍රංශය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Root",
+        "Leaves",
+        "Buds",
+        "Soft wood"
+    ],
+    "images": [
+        {
+            "image_id": "234",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/1JPrwY0b/plant00172-00234.jpg"
+        },
+        {
+            "image_id": "235",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/v60XpHkS/plant00172-00235.jpg"
+        },
+        {
+            "image_id": "1274",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/My7gywdx/plant00172-01274.jpg"
+        },
+        {
+            "image_id": "3426",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/rKq6vwFy/plant00172-03426.jpg"
+        },
+        {
+            "image_id": "3427",
+            "caption": "Young Fruits (PMR)",
+            "url": "https://i.ibb.co/kgnXbqNw/plant00172-03427.jpg"
+        },
+        {
+            "image_id": "3428",
+            "caption": "Mature Fruits (PMR)",
+            "url": "https://i.ibb.co/QjxjnNgh/plant00172-03428.jpg"
+        },
+        {
+            "image_id": "3429",
+            "caption": "Compound Leaf (PMR)",
+            "url": "https://i.ibb.co/Mk7CMKVR/plant00172-03429.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "180 රට ඉදි තරම් ගෙඩි ලොකු නැති ලංකාවෙ ඉදි වල්ලක් කැඩුවා. කටු විමානෙ",
+                "url": "https://youtube.com/watch?v=CYERF6TRxsQ",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/CYERF6TRxsQ/hq720.jpg"
+            },
+            {
+                "title": "රට ඉඳි ගැන  ප්‍රශ්න වලට උත්තර | Dates Short Vedio Answers By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=sMbSoeiSPm4",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/sMbSoeiSPm4/hq720.jpg"
+            },
+            {
+                "title": "ඉදි ගැන ඔයා දන්නවද ? ඉදි කියන්නෙ මොකද්ද ? බලන්න 🤗🤗 #youtube #sinhala #rattu bro youtube channel",
+                "url": "https://youtube.com/watch?v=Vk335iaYqtg",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/Vk335iaYqtg/hqdefault.jpg"
+            },
+            {
+                "title": "අරුම පුදුම රට ඉඳි වල ඔබ නොදන්නා ගුණ| Nutritional Benefits of Dates Madhushan athugala",
+                "url": "https://youtube.com/watch?v=pUajW9xCbmY",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/pUajW9xCbmY/hq720.jpg"
+            },
+            {
+                "title": "ගෙඩි පිරුනු රට ඉදි වත්තක් බලමු 🤩 ඩුබායි වල සුන්දර රට ඉදි වත්තක් 🤩🤩🤩🤩🤩🌴🌴🌴🌴🌴🌴🌴",
+                "url": "https://youtube.com/watch?v=QOI0DWteHXU",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/QOI0DWteHXU/hq720.jpg"
+            },
+            {
+                "title": "ඇඟ හදන රට ඉඳි ගැන හැම දේම දැනගන්න | රට ඉඳි මගින් අපට ලැබෙන වටිනා වාසි 5 ක්",
+                "url": "https://youtube.com/watch?v=jVdYBXURzec",
+                "duration": "8:24",
+                "thumbnail": "https://i.ytimg.com/vi/jVdYBXURzec/hqdefault.jpg"
+            },
+            {
+                "title": "හැමදාම රට ඉඳි කෑවොත් ලැබෙන පුදුම හිතෙන Benefits",
+                "url": "https://youtube.com/watch?v=QdVo5NMp4-U",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/QdVo5NMp4-U/hq720.jpg"
+            },
+            {
+                "title": "රට ඉදි කෑවම ලිංගික ශක්තිය වැඩ්වෙන්නෙ මෙහෙමයි(dates )😳😱🙈💁‍♀️",
+                "url": "https://youtube.com/watch?v=vp5tdLKUgCM",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/vp5tdLKUgCM/hqdefault.jpg"
+            },
+            {
+                "title": "රට ඉදි බීජ පැලකිරිම ,rata idhi bija pelakirima ,How to grow a date palm tree from seed",
+                "url": "https://youtube.com/watch?v=JbMqev6-7r8",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/JbMqev6-7r8/hqdefault.jpg"
+            },
+            {
+                "title": "පිරිපුන් සිරුරකට ගිතෙල් මිශ්‍ර රටඉඳි | Dates with Ghee -EP150",
+                "url": "https://youtube.com/watch?v=_EwfKCF1lwY",
+                "duration": "4:34",
+                "thumbnail": "https://i.ytimg.com/vi/_EwfKCF1lwY/hq720.jpg"
+            },
+            {
+                "title": "ජීවත්ව සිටියදීම දිව්‍ය සැප ලැබෙන රහස් ඉඳි කිරි පානය  - Benefits of dates with milk",
+                "url": "https://youtube.com/watch?v=puRAdviFDjY",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/puRAdviFDjY/hq720.jpg"
+            },
+            {
+                "title": "රට ඉඳි සතු මේ හැකියාවන් ඇහුවොත් ඔබ පුදුම වේවි. | Amazing facts about Dates!",
+                "url": "https://youtube.com/watch?v=BVqdrecsIZc",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/BVqdrecsIZc/hq720.jpg"
+            },
+            {
+                "title": "බලන්න රට ඉදි වර්ග කීයක් තියෙනවා ද කියලා  😋😋😋😋😋😋😋😋",
+                "url": "https://youtube.com/watch?v=GFU6e-vGnvw",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/GFU6e-vGnvw/hqdefault.jpg"
+            },
+            {
+                "title": "හැමදාම රට ඉදි මදුළු 3ක් කෑවොත් ඔබට ලැබෙන ප්‍රයෝජන 9 මෙන්න | Eat 3 Dates See What Happens",
+                "url": "https://youtube.com/watch?v=mnCrDH12RH8",
+                "duration": "11:27",
+                "thumbnail": "https://i.ytimg.com/vi/mnCrDH12RH8/hq720.jpg"
+            },
+            {
+                "title": "Indi gasa ඉඳි ගස",
+                "url": "https://youtube.com/watch?v=aGQwWl2aheQ",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/aGQwWl2aheQ/hq720.jpg"
+            },
+            {
+                "title": "මහත් කරවන රට ඉදි කන්න කලිං මේ ටික දැනගෙන කන්න | What Happens If You Eats Dates Everyday|EverythingLK",
+                "url": "https://youtube.com/watch?v=xCmtX3q2oc8",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/xCmtX3q2oc8/hq720.jpg"
+            },
+            {
+                "title": "සීනි වෙනුවට රට ඉඳි කෑවොත් Nutrition by Madhushan Athugala",
+                "url": "https://youtube.com/watch?v=JNOhAPGkidE",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/JNOhAPGkidE/hq720.jpg"
+            },
+            {
+                "title": "පෙනහළු රෝග ඇතුළු රෝග රැසකට ගුණ දෙන දේශීය ඉඳි | ඉඳි (දේශීය ඉඳි)",
+                "url": "https://youtube.com/watch?v=3-bKaVNTI_U",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/3-bKaVNTI_U/hq720.jpg"
+            },
+            {
+                "title": "දරු ප්‍රසූතිය පහසු කරන දියවැඩියාව පාලනය කරන රටඉඳි වල පුදුම හිතෙන ගුන",
+                "url": "https://youtube.com/watch?v=kqwoHKwBGvs",
+                "duration": "8:24",
+                "thumbnail": "https://i.ytimg.com/vi/kqwoHKwBGvs/hqdefault.jpg"
+            },
+            {
+                "title": "හැමදාම රට ඉදි ගෙඩි දෙකක් කෑමට ගන්න ඔබට ලැබෙන පුදුම වාසි 14ක් | Start Eating 2 Dates Every Day",
+                "url": "https://youtube.com/watch?v=_QaP3jhxJ_E",
+                "duration": "7:52",
+                "thumbnail": "https://i.ytimg.com/vi/_QaP3jhxJ_E/hq720.jpg"
+            },
+            {
+                "title": "රට ඉඳි වල සැඟවුණු ගුණ",
+                "url": "https://youtube.com/watch?v=V8qHiPhGBbQ",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/V8qHiPhGBbQ/hq720.jpg"
+            },
+            {
+                "title": "රට ඉදි වල තියෙන අමිල ගුණ",
+                "url": "https://youtube.com/watch?v=MWu23s2eRjg",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/MWu23s2eRjg/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා රටඉඳි ආහාරයට ගැනීමෙන් ලබා ගන්න පුළුවන් වාසි  10 ක් - https://youtu.be/shwV_cKz_T8",
+                "url": "https://youtube.com/watch?v=shwV_cKz_T8",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/shwV_cKz_T8/hq720.jpg"
+            },
+            {
+                "title": "kuwait dates ඇගට ගුණ හොඳින් ඉදුණු රට ඉඳි ගැනයි මේ කාතාව",
+                "url": "https://youtube.com/watch?v=72GHFGQ_OpU",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/72GHFGQ_OpU/hq720.jpg"
+            },
+            {
+                "title": "රට ඉඳිවලට සමාන රසයක් තියෙන ලංකාවේ ඉඳි - එන්න ලංකාවේ ඉඳි ශාකය බලන්න.",
+                "url": "https://youtube.com/watch?v=t2M9Mn7CKSs",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/t2M9Mn7CKSs/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා රෝගීන්ට රටඉඳි ගැනීම සුදුසුද? | Dates for Diabetes | Dates & Blood Sugar",
+                "url": "https://youtube.com/watch?v=xkJEFOmAkmQ",
+                "duration": "8:34",
+                "thumbnail": "https://i.ytimg.com/vi/xkJEFOmAkmQ/hq720.jpg"
+            },
+            {
+                "title": "රට ඉඳි කෑවොත් වෙන දේ මෙන්න - Dates which boost up your body",
+                "url": "https://youtube.com/watch?v=0PHU-Oi2E9s",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/0PHU-Oi2E9s/hq720.jpg"
+            },
+            {
+                "title": "අරුම පුදුම රට ඉඳි වල ඔබ නොදන්නා ගුණ| Nutritional Benefits of Dates Madhushan athugala",
+                "url": "https://youtube.com/watch?v=ve8EjLeGEp4",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/ve8EjLeGEp4/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Urinary Tract Infection",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Bladder Stones",
-      "sinhala": "මුත්‍රාශයේ ගල්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Rectal Prolapse",
-      "sinhala": "ගුද මාර්ගය පිටතට පැමිණීම (ගුද භ්‍රංශය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Root",
-    "Leaves",
-    "Buds",
-    "Soft wood"
-  ],
-  "images": [
-    {
-      "image_id": "234",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/1JPrwY0b/plant00172-00234.jpg"
-    },
-    {
-      "image_id": "235",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/v60XpHkS/plant00172-00235.jpg"
-    },
-    {
-      "image_id": "1274",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/My7gywdx/plant00172-01274.jpg"
-    },
-    {
-      "image_id": "3426",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/rKq6vwFy/plant00172-03426.jpg"
-    },
-    {
-      "image_id": "3427",
-      "caption": "Young Fruits (PMR)",
-      "url": "https://i.ibb.co/kgnXbqNw/plant00172-03427.jpg"
-    },
-    {
-      "image_id": "3428",
-      "caption": "Mature Fruits (PMR)",
-      "url": "https://i.ibb.co/QjxjnNgh/plant00172-03428.jpg"
-    },
-    {
-      "image_id": "3429",
-      "caption": "Compound Leaf (PMR)",
-      "url": "https://i.ibb.co/Mk7CMKVR/plant00172-03429.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

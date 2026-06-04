@@ -1,47 +1,250 @@
 {
-  "scientificName": "Garcinia morella (Gaertn.) Desr.",
-  "synonyms": [
-    "Garcinia cambogioides (Murray) Royle",
-    "Garcinia gutta Wight",
-    "Hebradendron cambogioides Graham",
-    "Mangostana morella Gaertn.",
-    "Stalagmitis cambogia Pers.",
-    "Stalagmitis cambogioides Murray"
-  ],
-  "familyName": "CLUSIACEAE",
-  "englishNames": [
-    "Gamboge",
-    "Indian Gamboge",
-    "Mysore Gamboge",
-    "Sri Lanka Gamboge"
-  ],
-  "sinhalaName": "Gokatu (ගොකටු)",
-  "description": "මීටර් 20ක් දක්වා උසැති, රෝම රහිත (glabrous) ගසකි. පොත්ත දුඹුරු සිට තද දුඹුරු පැහැතිය. පත්‍ර තුනී සිට ඉතා තද සම් වැනි (coriaceous) ස්වභාවයක් ගනී; (2 x 5-) 6 x 9-7 x 13 සෙ.මී. ප්‍රමාණයෙන් යුක්තය; පත්‍ර වෘන්ත (petioles) මි.මී. 5-10ක් දිගය. මල් බොහෝ දුරට වෘන්ත රහිත (sessile) වේ. පිරිමි මල් 2-3 බැගින් පොකුරු ලෙසද, ගැහැණු මල් සාමාන්‍යයෙන් තනිවද පිහිටයි. බාහිර දල (sepals) 4ක් ඇත, ඒවා කොළ පැහැති සුදු පැහැතිය. පෙති (petals) 4ක් ඇත, සුදු සිට රෝස පැහැයක් ගන්නා අතර මි.මී. 5-8ක් දිගය. ගෙඩිය ගෝලාකාර (globose) වේ, සිනිඳුය, කහ පැහැතිය, සෙ.මී. 2.5ක් දක්වා විශාල වේ. බාහිර පලාවරණය (exocarp) තරමක් තුනී වන අතර, මදය පැණි රස හා ඇඹුල් රසයෙන් යුක්ත වන අතර ආහාරයට ගත හැකිය. බීජ වකුගඩු හැඩැති (kidney shaped) වේ.",
-  "treatments": [
-    {
-      "treatment": "Amenorrhea",
-      "sinhala": "ඔසප් වීම නතර වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
+    "scientificName": "Garcinia morella (Gaertn.) Desr.",
+    "synonyms": [
+        "Garcinia cambogioides (Murray) Royle",
+        "Garcinia gutta Wight",
+        "Hebradendron cambogioides Graham",
+        "Mangostana morella Gaertn.",
+        "Stalagmitis cambogia Pers.",
+        "Stalagmitis cambogioides Murray"
+    ],
+    "familyName": "CLUSIACEAE",
+    "englishNames": [
+        "Gamboge",
+        "Indian Gamboge",
+        "Mysore Gamboge",
+        "Sri Lanka Gamboge"
+    ],
+    "sinhalaName": "Gokatu (ගොකටු)",
+    "description": "මීටර් 20ක් දක්වා උසැති, රෝම රහිත (glabrous) ගසකි. පොත්ත දුඹුරු සිට තද දුඹුරු පැහැතිය. පත්‍ර තුනී සිට ඉතා තද සම් වැනි (coriaceous) ස්වභාවයක් ගනී; (2 x 5-) 6 x 9-7 x 13 සෙ.මී. ප්‍රමාණයෙන් යුක්තය; පත්‍ර වෘන්ත (petioles) මි.මී. 5-10ක් දිගය. මල් බොහෝ දුරට වෘන්ත රහිත (sessile) වේ. පිරිමි මල් 2-3 බැගින් පොකුරු ලෙසද, ගැහැණු මල් සාමාන්‍යයෙන් තනිවද පිහිටයි. බාහිර දල (sepals) 4ක් ඇත, ඒවා කොළ පැහැති සුදු පැහැතිය. පෙති (petals) 4ක් ඇත, සුදු සිට රෝස පැහැයක් ගන්නා අතර මි.මී. 5-8ක් දිගය. ගෙඩිය ගෝලාකාර (globose) වේ, සිනිඳුය, කහ පැහැතිය, සෙ.මී. 2.5ක් දක්වා විශාල වේ. බාහිර පලාවරණය (exocarp) තරමක් තුනී වන අතර, මදය පැණි රස හා ඇඹුල් රසයෙන් යුක්ත වන අතර ආහාරයට ගත හැකිය. බීජ වකුගඩු හැඩැති (kidney shaped) වේ.",
+    "treatments": [
+        {
+            "treatment": "Amenorrhea",
+            "sinhala": "ඔසප් වීම නතර වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Brain Disorders",
+            "sinhala": "මොළය ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Entire plant"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ආයුර්වේද ඖෂධයක් ලෙස ඉතාමත් ප්‍රයෝජනවත් ගොටුකොළ",
+                "url": "https://youtube.com/watch?v=IJk4Yn-fcUI",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/IJk4Yn-fcUI/hq720.jpg"
+            },
+            {
+                "title": "ගොටු කොළවල තියෙන සුපිරිම ගුණ ඔයාලා දන්නවද?  ගොඩාක් ලෙඩවලට හොදම බෙහෙතක්. #ගොටුකොළ #gotukola",
+                "url": "https://youtube.com/watch?v=L15P4zMA-gI",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/L15P4zMA-gI/hq720.jpg"
+            },
+            {
+                "title": "මතක ශක්තිය වර්දනය කරන ගොටුකොළ වල විශ්මිත ගුණ - A super food that boosts memory",
+                "url": "https://youtube.com/watch?v=jy8Zp6L_RZk",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/jy8Zp6L_RZk/hq720.jpg"
+            },
+            {
+                "title": "#Aratuwa# Gotukola # ගොටුකොළවල ගුණ ඔබ දන්නවාද #",
+                "url": "https://youtube.com/watch?v=LatcXZZ0Dl4",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/LatcXZZ0Dl4/hq720.jpg"
+            },
+            {
+                "title": "තරුණ බව රැක දෙන, ආයුශ වඩන ගොටුකොල | ගුණ බහුල, රෝග දුරු කරන සහ ඔබ නොදන්නා තවත් ගුණ #gotukola",
+                "url": "https://youtube.com/watch?v=mwERMwsBry0",
+                "duration": "15:49",
+                "thumbnail": "https://i.ytimg.com/vi/mwERMwsBry0/hq720.jpg"
+            },
+            {
+                "title": "මේ විශ්මිත ශාකයේ ගුණ ..ඔබ නැරඹුවොත් පුදුම වේවි",
+                "url": "https://youtube.com/watch?v=LpV6u0iPaqs",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/LpV6u0iPaqs/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ දවස් 14ක් කෑවොත් මොළයට සහ සමට වෙන මැජික් එක! | Science of Gotu Kola (Sinhala)",
+                "url": "https://youtube.com/watch?v=abZ4CG02CBQ",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/abZ4CG02CBQ/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ වැඩිපුර ආහාරයට ගත්තොත් මොකද වෙන්නේ - health benefits of gotu kola",
+                "url": "https://youtube.com/watch?v=lB6UVx25PCc",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lB6UVx25PCc/hqdefault.jpg"
+            },
+            {
+                "title": "මූණේ ලප කැළැල් නැති කරවන ගොටුකොළ! ගොටුකොළවල ඇති විශ්මිත ගුණ ගැන වෛද්‍යවරයා සියල්ල හෙළිකරයි!",
+                "url": "https://youtube.com/watch?v=OY19hqyyxX0",
+                "duration": "17:44",
+                "thumbnail": "https://i.ytimg.com/vi/OY19hqyyxX0/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ ටිකකින් Scalp එක Cool කරගන්න පුළුවන්ද | කවුරුත් නොකියන ගොටුකොළ Hair Hack එක | Ruwata Aruthak",
+                "url": "https://youtube.com/watch?v=snYCkKgFLfI",
+                "duration": "8:16",
+                "thumbnail": "https://i.ytimg.com/vi/snYCkKgFLfI/hq720.jpg"
+            },
+            {
+                "title": "මෙය ඇසුවොත් ඔබ දිනපතාම ගොටුකොල කෝප්පයක් පානය කරයි - You will drink a cup of gotukola every day.",
+                "url": "https://youtube.com/watch?v=fzi1PgXR0Vo",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/fzi1PgXR0Vo/hq720.jpg"
+            },
+            {
+                "title": "Gotukola and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LcQ_lwSLdIA",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/LcQ_lwSLdIA/hq720.jpg"
+            },
+            {
+                "title": "Gotukola, Mukunuwanna , Kankun ගොටුකොල , මුකුනුවැන්න, කංකුන් සාර්ථකව වගා කරන්න Gotukola cultivating",
+                "url": "https://youtube.com/watch?v=TdLu1KpVU5w",
+                "duration": "11:17",
+                "thumbnail": "https://i.ytimg.com/vi/TdLu1KpVU5w/hq720.jpg"
+            },
+            {
+                "title": "එදා අපේ අම්මා වැවූ තාවල්ලෙන් කඩාපූ ගොටූකොළ/අද බදූන්වල /gotukola /ikmanwaga",
+                "url": "https://youtube.com/watch?v=KMO04xIRIkY",
+                "duration": "0:42",
+                "thumbnail": "https://i.ytimg.com/vi/KMO04xIRIkY/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Benefits",
+                "url": "https://youtube.com/watch?v=iU9Enpt2hgc",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/iU9Enpt2hgc/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Health Benefits and Possible Side Effects",
+                "url": "https://youtube.com/watch?v=gOwyQDgmJP0",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/gOwyQDgmJP0/hq720.jpg"
+            },
+            {
+                "title": "11 BENEFITS of GOTU KOLA for BODY and can Reduce Anxiety",
+                "url": "https://youtube.com/watch?v=sieP0wAoVSE",
+                "duration": "5:43",
+                "thumbnail": "https://i.ytimg.com/vi/sieP0wAoVSE/hqdefault.jpg"
+            },
+            {
+                "title": "6 Amazing Benefits Of Gotu Kola For Your Skin, Hair And Health",
+                "url": "https://youtube.com/watch?v=6vFlsOHju-Y",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/6vFlsOHju-Y/hqdefault.jpg"
+            },
+            {
+                "title": "Gotu Kola Benefits -12 Amazing Health Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=QVx5byve-EE",
+                "duration": "6:17",
+                "thumbnail": "https://i.ytimg.com/vi/QVx5byve-EE/hq720.jpg"
+            },
+            {
+                "title": "The Health Benefits of Gotu Kola are Rarely Revealed",
+                "url": "https://youtube.com/watch?v=jtUFaooMB68",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/jtUFaooMB68/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Pennywort or Gotu Kola",
+                "url": "https://youtube.com/watch?v=WQ0_2PzoZCM",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/WQ0_2PzoZCM/hqdefault.jpg"
+            },
+            {
+                "title": "Gotukola Health Benefits",
+                "url": "https://youtube.com/watch?v=ZB1qgulIwMU",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/ZB1qgulIwMU/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=AKve1LHsqXk",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/AKve1LHsqXk/frame0.jpg"
+            },
+            {
+                "title": "ගොටුකොළ කෑවට මේ ගැන දැන සිට්යෙ නෑ නේද | Gotukola | Centrella Asiatica benefits🌿",
+                "url": "https://youtube.com/watch?v=zVp5YK4hHHw",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/zVp5YK4hHHw/hq720.jpg"
+            },
+            {
+                "title": "Gotukola| ගොටුකොළ සතු විශ්මිත ගුණ ☘️🌿",
+                "url": "https://youtube.com/watch?v=UGow-SiOzqk",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/UGow-SiOzqk/hq720.jpg"
+            },
+            {
+                "title": "advantages of eating gotukola centella acitika sinhala",
+                "url": "https://youtube.com/watch?v=tEJJJc2KcIo",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/tEJJJc2KcIo/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොල කැඳවල ඇති විස්මිත ගුණ Amazing properties of gotukola porridge",
+                "url": "https://youtube.com/watch?v=t2A24IOIobY",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/t2A24IOIobY/hqdefault.jpg"
+            },
+            {
+                "title": "ගොටුකොළ වගා කරමු! නිරෝගී දිවියකට ගොටුකොළ වල පුදුම ගුණ | Gotu Kola Benefits 🍃",
+                "url": "https://youtube.com/watch?v=pdDEfEOvljg",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/pdDEfEOvljg/hqdefault.jpg"
+            },
+            {
+                "title": "Gotu Kola Plant Benefits || Centella Asiatica Benefits || Beauty & Health Benefits || Homefoodgarden",
+                "url": "https://youtube.com/watch?v=hH1vglJ6UD4",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/hH1vglJ6UD4/hqdefault.jpg"
+            },
+            {
+                "title": "Gotu Kola 🌿 The CHINESE Secret to ANTI AGING And Longevity | Ancient Herb with Modern Power",
+                "url": "https://youtube.com/watch?v=YBEbXwSSVa8",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/YBEbXwSSVa8/hq720.jpg"
+            },
+            {
+                "title": "8 Amazing Health Benefits of Gotu Kola Herb",
+                "url": "https://youtube.com/watch?v=ksFg2knJung",
+                "duration": "10:58",
+                "thumbnail": "https://i.ytimg.com/vi/ksFg2knJung/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=lrLD7ZN2838",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lrLD7ZN2838/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Brain Disorders",
-      "sinhala": "මොළය ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Entire plant"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

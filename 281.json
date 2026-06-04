@@ -1,47 +1,508 @@
 {
-  "scientificName": "Capparis moonii Wight",
-  "synonyms": [],
-  "familyName": "CAPPARACEAE",
-  "englishNames": [
-    "Large Caper"
-  ],
-  "sinhalaName": "Suduwellangiriya (සුදුවෙල්ලන්ගිරිය)",
-  "description": "මීටර් 3ක් දක්වා උසැති, ඉතා විශාල, දැවමය ආරෝහක ශාකයකි. පත්‍ර අර්ධ-චර්මීය (subcoriaceous) වේ; පත්‍ර තලය සෙ.මී. 5 - 12 X 2.5 - 5.75 ප්‍රමාණයෙන් යුක්ත වන අතර, බිත්තරාකාර-දීර්ඝ (ovate-oblong) සිට දීර්ඝ-លාන්සාකාර (oblong-lanceolate) හැඩයක් ගනී. පත්‍ර අග්‍රය මොට හෝ උල් වූ (acute), කෙටි උල් සහිත (apiculate) වන අතර, පාදම වටකුරු සිට අර්ධ-උල් (subacute) හෝ කුඤ්ඤාකාර (cuneate) වේ. මල් සුදු පැහැතිය, සුවඳවත්ය, අතු අග දෙසට 2 - 6 බැගින් පොකුරු ලෙස පිහිටයි; පහළම මල් බොහෝ විට තනිවම පත්‍ර කක්ෂයකින් හටගනී. ඵලය ගෝලාකාර (globose) වේ; ඵල දරන පුෂ්ප මංජරිය (fruiting pedicel) සෙ.මී. 8ක් පමණ දක්වා විශාල වන අතර, එය සහ ගයිනොෆෝරය (gynophore) ඉතා ඝන වූ දැවමය ස්වභාවයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Capparis moonii Wight",
+    "synonyms": [],
+    "familyName": "CAPPARACEAE",
+    "englishNames": [
+        "Large Caper"
+    ],
+    "sinhalaName": "Suduwellangiriya (සුදුවෙල්ලන්ගිරිය)",
+    "description": "මීටර් 3ක් දක්වා උසැති, ඉතා විශාල, දැවමය ආරෝහක ශාකයකි. පත්‍ර අර්ධ-චර්මීය (subcoriaceous) වේ; පත්‍ර තලය සෙ.මී. 5 - 12 X 2.5 - 5.75 ප්‍රමාණයෙන් යුක්ත වන අතර, බිත්තරාකාර-දීර්ඝ (ovate-oblong) සිට දීර්ඝ-លාන්සාකාර (oblong-lanceolate) හැඩයක් ගනී. පත්‍ර අග්‍රය මොට හෝ උල් වූ (acute), කෙටි උල් සහිත (apiculate) වන අතර, පාදම වටකුරු සිට අර්ධ-උල් (subacute) හෝ කුඤ්ඤාකාර (cuneate) වේ. මල් සුදු පැහැතිය, සුවඳවත්ය, අතු අග දෙසට 2 - 6 බැගින් පොකුරු ලෙස පිහිටයි; පහළම මල් බොහෝ විට තනිවම පත්‍ර කක්ෂයකින් හටගනී. ඵලය ගෝලාකාර (globose) වේ; ඵල දරන පුෂ්ප මංජරිය (fruiting pedicel) සෙ.මී. 8ක් පමණ දක්වා විශාල වන අතර, එය සහ ගයිනොෆෝරය (gynophore) ඉතා ඝන වූ දැවමය ස්වභාවයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tonsillitis",
+            "sinhala": "ටොන්සිල් ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tumors",
+            "sinhala": "ගෙඩි / අර්බුද",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "වෙලේ සුදාට මරණ දඩුවම ස්ථිරයි",
+                "url": "https://youtube.com/watch?v=xsEpj93OZX0",
+                "duration": "9:10",
+                "thumbnail": "https://i.ytimg.com/vi/xsEpj93OZX0/hq720.jpg"
+            },
+            {
+                "title": "සුව සැරිය කොට උඩ  | BUKIYE WISTHARE ORGINAL",
+                "url": "https://youtube.com/watch?v=VqTiLuBCh_w",
+                "duration": "22:23",
+                "thumbnail": "https://i.ytimg.com/vi/VqTiLuBCh_w/hq720.jpg"
+            },
+            {
+                "title": "සජිත්ගේ වෛරල් යන වීඩියෝවේ හොදම ටික - විලච්චියේ ඇත් රජු සූර්යා හමුවෙලා",
+                "url": "https://youtube.com/watch?v=VfhA3J6NJA4",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/VfhA3J6NJA4/hq720.jpg"
+            },
+            {
+                "title": "වැවේ ගිලෙමින් සිටි උකුස්සා බේරාගන්න පිහිනා ගිය මිනිසා..  | Ada Derana",
+                "url": "https://youtube.com/watch?v=TuRWaIjI8EY",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/TuRWaIjI8EY/hq720.jpg"
+            },
+            {
+                "title": "හොරණ වැඩිහිටි නිවාසයක මහා ගින්නක් වැඩිහිටියන් රැසක් නිරුපද්‍රිතව මුදාගනියි",
+                "url": "https://youtube.com/watch?v=_pT5q18jsX4",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/_pT5q18jsX4/hqdefault.jpg"
+            },
+            {
+                "title": "සුපිරිම දන්සල වැල්ලවායෙන් | ඇතිලිවැව වළං හදන මිනිස්සු එකතුවෙලා ලක්ෂ ගාණක් වටිනා වළං තොගයක් පිනට දෙයි",
+                "url": "https://youtube.com/watch?v=Y3u96VgTmyA",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/Y3u96VgTmyA/hq720.jpg"
+            },
+            {
+                "title": "නුවර වැවේ ගිලුණු උකුස්සාගේ සංවේදී දර්ශන පෙළක් එළියට,නිලධාරියෙක් උකුස්සා හොයාගෙන වැවට පිහිනගෙන යයි!",
+                "url": "https://youtube.com/watch?v=G1MhVb_CNng",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/G1MhVb_CNng/hq720.jpg"
+            },
+            {
+                "title": "උඹලම සුර සැප විඳපල්ලා - අස්වැන්න ඕන රෙද්දක දාගනිල්ලා",
+                "url": "https://youtube.com/watch?v=4UkMbDblzm8",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/4UkMbDblzm8/hq720.jpg"
+            },
+            {
+                "title": "මීගොඩ දන්සල අසල සිදුවු අනතුරේ අලුත්ම තොරතුරු",
+                "url": "https://youtube.com/watch?v=52Cn3J0b0wY",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/52Cn3J0b0wY/hqdefault.jpg"
+            },
+            {
+                "title": "මිනිස්සු මැරිය හැකි Cassowary | Dr. Ru Somaweera | #යංසත්තුබලන්න #rugoeswild",
+                "url": "https://youtube.com/watch?v=S-NlBwRaskk",
+                "duration": "35:56",
+                "thumbnail": "https://i.ytimg.com/vi/S-NlBwRaskk/hq720.jpg"
+            },
+            {
+                "title": "මීගොඩ දන්සලක පෝළිමේ සිටි හයක් එළොව යැවූ ජීප් රථයේ රියදුරා හෝමාගම අධිකරණයට",
+                "url": "https://youtube.com/watch?v=M3nUhoc4Rgw",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/M3nUhoc4Rgw/hq720.jpg"
+            },
+            {
+                "title": "බුලතාගේ නිදහානේ බිංතැන්⁣නේ මුහුද සොරබොර ගැන ඔබ නොදත් රහස| the Sorabora Wewa Inscription",
+                "url": "https://youtube.com/watch?v=FLhdIeEq-Jk",
+                "duration": "8:52",
+                "thumbnail": "https://i.ytimg.com/vi/FLhdIeEq-Jk/hqdefault.jpg"
+            },
+            {
+                "title": "\"සුදෝ සුදින් සැරසුණු බැතිමත් ජනගඟකින් ඓතිහාසික දළදා මාලිගා පරිශ්‍රය පිරී ඉතිරී යයි.\"",
+                "url": "https://youtube.com/watch?v=4k7LtxILuso",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/4k7LtxILuso/hq720.jpg"
+            },
+            {
+                "title": "කඳු වළලු අතර සැඟවූ පැරණි පන්සල | ප්‍රතිසංස්කරණයෙන් පසු සුන්දර දර්ශනය 🇱🇰",
+                "url": "https://youtube.com/watch?v=rESQhwDephU",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/rESQhwDephU/hq720.jpg"
+            },
+            {
+                "title": "සුදු දෝණිලාව චූන් කරන්න බයික් මොඩිෆයි කරපු  සුදු තාත්තිලා වැලිගම පොලීසියෙන් කුදලන් යයි",
+                "url": "https://youtube.com/watch?v=OBvPVbBSMsc",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/OBvPVbBSMsc/hq720.jpg"
+            },
+            {
+                "title": "Sacred Offerings Stolen From Sandagiri Seya in Kandy",
+                "url": "https://youtube.com/watch?v=vFWzhUSZ1Ms",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/vFWzhUSZ1Ms/hq720.jpg"
+            },
+            {
+                "title": "සඳගිර බින්ද සොරමුල \"සර්වඥ ධාතූන් වැඩසිටි රන් නෙළුමත් පැත්තකට දාලා\"| Ada Derana",
+                "url": "https://youtube.com/watch?v=5vlXriY2Dyg",
+                "duration": "1:32",
+                "thumbnail": "https://i.ytimg.com/vi/5vlXriY2Dyg/hq720.jpg"
+            },
+            {
+                "title": "Monsoon rains continue to batter Sri Lanka; Fishermen warned of rough seas and strong winds",
+                "url": "https://youtube.com/watch?v=28HuOqhDa8I",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/28HuOqhDa8I/hq720.jpg"
+            },
+            {
+                "title": "මහා සුළං නිසා හැටන් පෙරපාසලකට  විශාල ෆයිනස් ගසක් කඩා වැටී මහා විනාශයක්",
+                "url": "https://youtube.com/watch?v=KTXKJcq0fvA",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/KTXKJcq0fvA/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා සුදුළුණු අනුභව කලොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 9ක් | 9 Health Benefits Of Eating Garlic",
+                "url": "https://youtube.com/watch?v=2WDcDb8XECw",
+                "duration": "10:28",
+                "thumbnail": "https://i.ytimg.com/vi/2WDcDb8XECw/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ සපිරි සුදුරු",
+                "url": "https://youtube.com/watch?v=HrrB8n3mkys",
+                "duration": "5:24",
+                "thumbnail": "https://i.ytimg.com/vi/HrrB8n3mkys/hq720.jpg"
+            },
+            {
+                "title": "හදවත රකින සූදුරු .  සූදුරු  වල ඇති ආයුර්වේදීය ගුණ .",
+                "url": "https://youtube.com/watch?v=Ty2rR_aZVDY",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ty2rR_aZVDY/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල ගුණ|Properties of Garlic|wishma danuma|",
+                "url": "https://youtube.com/watch?v=UIWnLyhp0TU",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/UIWnLyhp0TU/hqdefault.jpg"
+            },
+            {
+                "title": "සූදුරු කන අයට වෙන අමුතු දේවල් : Health benefits of Caraway seeds",
+                "url": "https://youtube.com/watch?v=MMqX2bcpj-s",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/MMqX2bcpj-s/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා සුදුළූණු ආහාරයට ගැනිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක්  | Health Benefits Of Garlic | Sudulunu",
+                "url": "https://youtube.com/watch?v=Hou6gNof0rI",
+                "duration": "11:03",
+                "thumbnail": "https://i.ytimg.com/vi/Hou6gNof0rI/hq720.jpg"
+            },
+            {
+                "title": "මහදුරු වල විශ්මිත ගුණ - Amazing quality of fennel for a healthy life",
+                "url": "https://youtube.com/watch?v=yu87jayqE8U",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/yu87jayqE8U/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු මේ විදියට විතරක් කන්න නැත්නම් සුදු ලූණු වල ගුණ නැතිවෙනවා |Take Garlic, Don't Make Mistake",
+                "url": "https://youtube.com/watch?v=h4tX2HGiCgg",
+                "duration": "8:44",
+                "thumbnail": "https://i.ytimg.com/vi/h4tX2HGiCgg/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "Gansuriya Plants (SLBC) Dr.H.D.P Dharshani",
+                "url": "https://youtube.com/watch?v=6MgvnEzyOVc",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/6MgvnEzyOVc/hq720.jpg"
+            },
+            {
+                "title": "සුදුලූණු වල ගුණ, Sudulunu Guna,  Health Benefits  Garlic  සුදුලූණු වල  ප්‍රයෝජන eating garlic daily,",
+                "url": "https://youtube.com/watch?v=THgmmlHpVMM",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/THgmmlHpVMM/hq720.jpg"
+            },
+            {
+                "title": "මේ මල් ටිකක් වෙනිවැල්ගැට කෝප්පයකට දාලා උදේ හවස බොන්න | පුදුමයි! දියවැඩියාව අයේ ජිවිතේට හැදෙන්නේ නැහැ",
+                "url": "https://youtube.com/watch?v=pUE4ckk8h4I",
+                "duration": "22:50",
+                "thumbnail": "https://i.ytimg.com/vi/pUE4ckk8h4I/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම සුදුළුණු අනුභව කරන අයගේ ශරීරයට සිදුවන පුදුම හිතෙන දේවල් 9ක් - 9 Health Benefits Of Raw Garlic",
+                "url": "https://youtube.com/watch?v=mtDUfuiqaQU",
+                "duration": "11:08",
+                "thumbnail": "https://i.ytimg.com/vi/mtDUfuiqaQU/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා සමඟ ප්‍රෝටීන් පිටවීම වකුගඩු රෝග ලක්ෂණයක්ද ?",
+                "url": "https://youtube.com/watch?v=W_VsK2w_4_4",
+                "duration": "1:29",
+                "thumbnail": "https://i.ytimg.com/vi/W_VsK2w_4_4/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ආසාදන , සන්ධි ඉඳිමුම් හා වකුගඩු ආශ්‍රිත රෝග සඳහා නීරමුල්ලිය | Neeramulliya - Sobadam Piyasa",
+                "url": "https://youtube.com/watch?v=fz673LGhGMw",
+                "duration": "9:09",
+                "thumbnail": "https://i.ytimg.com/vi/fz673LGhGMw/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වල විශ්මිත ගුණ. Ugurassa fruit.",
+                "url": "https://youtube.com/watch?v=aW2FO176HVU",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/aW2FO176HVU/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "\"Wellangiriya\" flower",
+                "url": "https://youtube.com/watch?v=GizlF3xDZ2U",
+                "duration": "0:10",
+                "thumbnail": "https://i.ytimg.com/vi/GizlF3xDZ2U/hq720_2.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "වේදනාව ආවට පස්සේ බෙහෙත් බීලා වැඩක් නෑ | #aginghealth",
+                "url": "https://youtube.com/watch?v=Y0OPkqoH2J0",
+                "duration": "1:17",
+                "thumbnail": "https://i.ytimg.com/vi/Y0OPkqoH2J0/hq720_2.jpg"
+            },
+            {
+                "title": "Medicinal Plants Names and Pictures | 50 Medicinal Plants | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=2Fk5D9OQR-w",
+                "duration": "7:15",
+                "thumbnail": "https://i.ytimg.com/vi/2Fk5D9OQR-w/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා බෙහෙත් නිසා වකුගඩු නරක් වෙනවද ? | #aginghealth",
+                "url": "https://youtube.com/watch?v=xNwNgd0QZYQ",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/xNwNgd0QZYQ/hq720_2.jpg"
+            },
+            {
+                "title": "බෙහෙත් වලින් දියවැඩියාව සනීප කරන්න බෑ  | #diabetestips #සෞඛ්‍යසම්පන්නජීවිතයක්",
+                "url": "https://youtube.com/watch?v=yGDakUi7TQo",
+                "duration": "0:27",
+                "thumbnail": "https://i.ytimg.com/vi/yGDakUi7TQo/hq720_2.jpg"
+            },
+            {
+                "title": "100 Ayurveda plant’s  in Srilanka",
+                "url": "https://youtube.com/watch?v=cm1yVeiu5dU",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/cm1yVeiu5dU/hqdefault.jpg"
+            },
+            {
+                "title": "osu pela | medicinal plants names and pictures | sinhala beheth | hela osu | sinhala beheth warga",
+                "url": "https://youtube.com/watch?v=nwwxnC7lKhg",
+                "duration": "9:17",
+                "thumbnail": "https://i.ytimg.com/vi/nwwxnC7lKhg/hqdefault.jpg"
+            },
+            {
+                "title": "ලේ තුනී වෙන්න බෙහෙත් බොන ගමන් සුදුළූණු කන එක මාරාන්තිකයි! 🧄⚠️ | Aspirin & Garlic Danger #science",
+                "url": "https://youtube.com/watch?v=f36FuttjYTg",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/f36FuttjYTg/hq720.jpg"
+            },
+            {
+                "title": "\" කැලේ හැදෙන ලස්සන වැලක් \" / A medicinal plant that grows in the forest @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=rME6x2nqyQw",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/rME6x2nqyQw/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා රෝගීන් සදහා භාවිතා කරන ඖෂධ - වෛද්‍ය සොනාලි ගුණතිලක",
+                "url": "https://youtube.com/watch?v=5q3AQpcJ_jk",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/5q3AQpcJ_jk/hq720.jpg"
+            },
+            {
+                "title": "හෙද වෘත්තිකයන්ට ඖෂධ නිර්දේශ කිරීමේ අවසර හිමි වන පුහුණු වැඩසටහනක් ලබන වසරේ ඇරඹෙයි: කාලීන විග්‍රහය...",
+                "url": "https://youtube.com/watch?v=AkOEbecxGsM",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/AkOEbecxGsM/hq720.jpg"
+            },
+            {
+                "title": "දීර්ඝ කාලීනව ඖෂධ ලබා ගැනීමත් එක්ක ඔබ සිදුකරන වැරදි සහ සැලකිළිමත්ව ඖෂධ ගාන්නා ආකාරය",
+                "url": "https://youtube.com/watch?v=0PsqRaSMWCI",
+                "duration": "16:45",
+                "thumbnail": "https://i.ytimg.com/vi/0PsqRaSMWCI/hq720.jpg"
+            },
+            {
+                "title": "🔴⚪️Four Powerful Ayurvedic Seeds to Burn Fat: The Science Behind the Secret | Hela Suwa TV",
+                "url": "https://youtube.com/watch?v=WJ8Jq4zCCuQ",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/WJ8Jq4zCCuQ/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ  වර්ග 344ක්  එකට එකතු කරලා හදන ලෝකයම පුදුම කරවූ අපේ විශ්මිත ඔසුව",
+                "url": "https://youtube.com/watch?v=mes0a8hb8fw",
+                "duration": "44:40",
+                "thumbnail": "https://i.ytimg.com/vi/mes0a8hb8fw/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ # ගංසූරිය #nature දණහිස වේදනාවට අපූරු ඖෂධය",
+                "url": "https://youtube.com/watch?v=hG9T5P0WoYY",
+                "duration": "0:19",
+                "thumbnail": "https://i.ytimg.com/vi/hG9T5P0WoYY/hq720_2.jpg"
+            },
+            {
+                "title": "දියවැඩියා රෝගියෙකුට පිළිකා ඖෂධ දීලා - රජයේ ඖෂධවේදීන්ගේ සංගමයෙන් දැනුවත් කිරීමක්",
+                "url": "https://youtube.com/watch?v=_GXyUGH_X_0",
+                "duration": "12:57",
+                "thumbnail": "https://i.ytimg.com/vi/_GXyUGH_X_0/hq720.jpg"
+            },
+            {
+                "title": "SBS සිංහල පුවත්: පුරස්ථි ග්‍රන්ථි පිළිකා සඳහා ඖෂධ ප්‍රතිලාභ යෝජනා ක්‍රමය යටතේ සහන මිලට ඖෂධ | SBS...",
+                "url": "https://youtube.com/watch?v=vD_Vkr6jsH4",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/vD_Vkr6jsH4/hq720.jpg"
+            },
+            {
+                "title": "Uses of the Wind | සුළඟින් ඇති ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=tKS-53cEqRk",
+                "duration": "7:30",
+                "thumbnail": "https://i.ytimg.com/vi/tKS-53cEqRk/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "සූර්යාලෝකයෙන් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=eIAX-iPabsY",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/eIAX-iPabsY/hqdefault.jpg"
+            },
+            {
+                "title": "පහ වසර ශිෂ්‍යත්වයට /සුලඟේ ප්‍රයෝජන - for grade 5 scholarship",
+                "url": "https://youtube.com/watch?v=JHMqo39M4Sk",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/JHMqo39M4Sk/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "උදුපියළිය වල ඖෂධීය ගුණ | Desmodium Triflorum  | Sakala waga",
+                "url": "https://youtube.com/watch?v=3Z9Uc7pAGQc",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/3Z9Uc7pAGQc/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "මුළුතැන්ගෙයි භාවිතවන උපකරණ",
+                "url": "https://youtube.com/watch?v=FQpidG-lkS8",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/FQpidG-lkS8/hq720.jpg"
+            },
+            {
+                "title": "මේ දිනවල රට පුරා පැතිරෙන ලෙඩේට සැබෑ හේතුව කුමක්ද? ශාඛ සහ බීජ වල කල්පයක් පුරා පවතින වීර්ය කුමක්ද?",
+                "url": "https://youtube.com/watch?v=8YROIPMGNVc",
+                "duration": "25:24",
+                "thumbnail": "https://i.ytimg.com/vi/8YROIPMGNVc/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "අව්වේ සහ හෙවනේ වැවෙන භෝග නිවැරැදිව හදුනගමු - Sunny and Shade  Loving Vegetables - Shra Raji",
+                "url": "https://youtube.com/watch?v=Z5WXrTn3sRU",
+                "duration": "17:54",
+                "thumbnail": "https://i.ytimg.com/vi/Z5WXrTn3sRU/hqdefault.jpg"
+            },
+            {
+                "title": "මේ පැළෑටිය මිදුලේ දැක්කොත් වල් පැළයක් කියලා ගලවලා විසි කරන්න එපා - 7 Health Benefits Of Purslane",
+                "url": "https://youtube.com/watch?v=_p0Ohee_ocs",
+                "duration": "10:52",
+                "thumbnail": "https://i.ytimg.com/vi/_p0Ohee_ocs/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවෙන් පිටරටට යන බෝග #sujaya #sujayaonline #srilanka",
+                "url": "https://youtube.com/watch?v=I2y6SxBuxL0",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/I2y6SxBuxL0/hq720.jpg"
+            },
+            {
+                "title": "Grade 4 | පරිසරය | ශාක සහ සතුන් අතර ඇති සම්බන්ධතා",
+                "url": "https://youtube.com/watch?v=mmHuVAJH9Oo",
+                "duration": "8:39",
+                "thumbnail": "https://i.ytimg.com/vi/mmHuVAJH9Oo/hq720.jpg"
+            },
+            {
+                "title": "supportive structures of plants | science sinhala medium #passionfruit #plants",
+                "url": "https://youtube.com/watch?v=eeIqoTkE7i0",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/eeIqoTkE7i0/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Tonsillitis",
-      "sinhala": "ටොන්සිල් ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tumors",
-      "sinhala": "ගෙඩි / අර්බුද",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

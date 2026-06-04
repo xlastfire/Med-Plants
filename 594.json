@@ -1,154 +1,243 @@
 {
-  "scientificName": "Senna sophera (L.) Roxb.",
-  "synonyms": [
-    "Cassia aegyptiaca Willd.",
-    "Cassia atroviridis Span.",
-    "Cassia canca Cav.",
-    "Cassia chinensis Jacq.",
-    "Cassia coromandeliana Jacq.",
-    "Cassia esculenta Roxb.",
-    "Cassia frutescens Mill.",
-    "Cassia geminiflora Schrank",
-    "Cassia indica Poir.",
-    "Cassia lanceolata Pers.",
-    "Cassia ligustrina Forssk. ex Benth.",
-    "Cassia linearis Michx.",
-    "Cassia occidentalis var. glabra DC.",
-    "Cassia occidentalis var. sophera (L.) Kuntze",
-    "Cassia patula Aiton",
-    "Cassia proboscidea Pollard",
-    "Cassia purpurea Roxb. ex Lindl.",
-    "Cassia robinioides Willd.",
-    "Cassia ruscifolia Jacq.",
-    "Cassia socotrana Serrato",
-    "Cassia sophera L.",
-    "Cassia sophera subsp. purpurea (Roxb. ex Lindl.) Bennet",
-    "Cassia sophera var. ligustrinoides Benth.",
-    "Cassia sophera var. penghuana Y.C.Liu & F.Y.Lu",
-    "Cassia sophera var. purpurea (Roxb. ex Lindl.) Voigt",
-    "Cassia sophera var. torulosa Benth.",
-    "Cassia sopheroides Collad.",
-    "Cassia torosa Cav.",
-    "Cassia torulosa Poir.",
-    "Chamaefistula chinensis G.Don",
-    "Chamaefistula coromandelina (Jacq.) G.Don",
-    "Chamaefistula sophera (L.) G.Don",
-    "Chamaefistula torosa (Cav.) G.Don",
-    "Ditremexa sophera (L.) Britton & Rose",
-    "Octelisia aurea Raf.",
-    "Senna esculenta Roxb.",
-    "Senna lanceolata Link",
-    "Senna occidentalis var. sophera (L.) X.Y.Zhu",
-    "Senna officinalis Gaertn.",
-    "Senna purpurea Roxb.",
-    "Senna socotrana (Serrato) Lock",
-    "Senna sophera var. purpurea (Roxb. ex Lindl.) V.Singh"
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Sophera Senna",
-    "Paper leaf Senna"
-  ],
-  "sinhalaName": "Uru thora (ඌරු තෝර)",
-  "description": "මීටර් 3ක් පමණ උසැති පඳුරු; ලපටි කඳන් රෝම රහිතය (glabrous); පත්‍ර (7-)15-25 සෙ.මී. දිගැති අතර පත්‍රිකා යුගල් 6-10කින් සමන්විත වේ, පත්‍ර දණ්ඩේ පාදමෙහි ග්‍රන්ථියක් පිහිටයි; පත්‍රිකා (2-)3-9 සෙ.මී. දිග සහ 1-2.5 සෙ.මී. පළල වේ; පුෂ්ප මංජරි සරල හෝ සංයුක්ත වන අතර මල් 4-10ක් පමණ දරයි; මල් පුෂ්ප වෘන්ත මත පිහිටන අතර ඒවා (8-)10-15(-18) මි.මී. දිග වේ; පෙති කහ පැහැතිය; පලය 5-10 සෙ.මී. දිග සහ 0.5-1 සෙ.මී. පළල වන අතර බීජ 30-40ක් අඩංගු වේ; බීජ 4-4.5 මි.මී. දිග සහ 3.5-4.5 මි.මී. පළල වේ.",
-  "treatments": [
-    {
-      "treatment": "Ringworm",
-      "sinhala": "දද (ඇළුම් හම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Senna sophera (L.) Roxb.",
+    "synonyms": [
+        "Cassia aegyptiaca Willd.",
+        "Cassia atroviridis Span.",
+        "Cassia canca Cav.",
+        "Cassia chinensis Jacq.",
+        "Cassia coromandeliana Jacq.",
+        "Cassia esculenta Roxb.",
+        "Cassia frutescens Mill.",
+        "Cassia geminiflora Schrank",
+        "Cassia indica Poir.",
+        "Cassia lanceolata Pers.",
+        "Cassia ligustrina Forssk. ex Benth.",
+        "Cassia linearis Michx.",
+        "Cassia occidentalis var. glabra DC.",
+        "Cassia occidentalis var. sophera (L.) Kuntze",
+        "Cassia patula Aiton",
+        "Cassia proboscidea Pollard",
+        "Cassia purpurea Roxb. ex Lindl.",
+        "Cassia robinioides Willd.",
+        "Cassia ruscifolia Jacq.",
+        "Cassia socotrana Serrato",
+        "Cassia sophera L.",
+        "Cassia sophera subsp. purpurea (Roxb. ex Lindl.) Bennet",
+        "Cassia sophera var. ligustrinoides Benth.",
+        "Cassia sophera var. penghuana Y.C.Liu & F.Y.Lu",
+        "Cassia sophera var. purpurea (Roxb. ex Lindl.) Voigt",
+        "Cassia sophera var. torulosa Benth.",
+        "Cassia sopheroides Collad.",
+        "Cassia torosa Cav.",
+        "Cassia torulosa Poir.",
+        "Chamaefistula chinensis G.Don",
+        "Chamaefistula coromandelina (Jacq.) G.Don",
+        "Chamaefistula sophera (L.) G.Don",
+        "Chamaefistula torosa (Cav.) G.Don",
+        "Ditremexa sophera (L.) Britton & Rose",
+        "Octelisia aurea Raf.",
+        "Senna esculenta Roxb.",
+        "Senna lanceolata Link",
+        "Senna occidentalis var. sophera (L.) X.Y.Zhu",
+        "Senna officinalis Gaertn.",
+        "Senna purpurea Roxb.",
+        "Senna socotrana (Serrato) Lock",
+        "Senna sophera var. purpurea (Roxb. ex Lindl.) V.Singh"
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Sophera Senna",
+        "Paper leaf Senna"
+    ],
+    "sinhalaName": "Uru thora (ඌරු තෝර)",
+    "description": "මීටර් 3ක් පමණ උසැති පඳුරු; ලපටි කඳන් රෝම රහිතය (glabrous); පත්‍ර (7-)15-25 සෙ.මී. දිගැති අතර පත්‍රිකා යුගල් 6-10කින් සමන්විත වේ, පත්‍ර දණ්ඩේ පාදමෙහි ග්‍රන්ථියක් පිහිටයි; පත්‍රිකා (2-)3-9 සෙ.මී. දිග සහ 1-2.5 සෙ.මී. පළල වේ; පුෂ්ප මංජරි සරල හෝ සංයුක්ත වන අතර මල් 4-10ක් පමණ දරයි; මල් පුෂ්ප වෘන්ත මත පිහිටන අතර ඒවා (8-)10-15(-18) මි.මී. දිග වේ; පෙති කහ පැහැතිය; පලය 5-10 සෙ.මී. දිග සහ 0.5-1 සෙ.මී. පළල වන අතර බීජ 30-40ක් අඩංගු වේ; බීජ 4-4.5 මි.මී. දිග සහ 3.5-4.5 මි.මී. පළල වේ.",
+    "treatments": [
+        {
+            "treatment": "Ringworm",
+            "sinhala": "දද (ඇළුම් හම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Tinea Cruris",
+            "sinhala": "ධෝබි කැසීම (දද වර්ගයක්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Rheumatic Fever",
+            "sinhala": "වාත උණ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Whole Plant",
+        "Bark",
+        "Seeds"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඖෂධීය 'තෝර' ශාකය හදුනා ගනිමු (vamos identiflcar as plantas medicinais)",
+                "url": "https://youtube.com/watch?v=sa_Ag62AiKI",
+                "duration": "7:40",
+                "thumbnail": "https://i.ytimg.com/vi/sa_Ag62AiKI/hq720.jpg"
+            },
+            {
+                "title": "pethi tora/cassia thora/පෙති තෝර/",
+                "url": "https://youtube.com/watch?v=a7gaIejNdKE",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/a7gaIejNdKE/hq720.jpg"
+            },
+            {
+                "title": "ආහාර හිගයට විසදුම් | තෝර | Episode 4",
+                "url": "https://youtube.com/watch?v=h2Uik7bIcys",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/h2Uik7bIcys/hq720.jpg"
+            },
+            {
+                "title": "පෙති තෝර කොළ මැල්ලුම | pethi thora kola malluma",
+                "url": "https://youtube.com/watch?v=Lfn2L_dAGWc",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/Lfn2L_dAGWc/hq720.jpg"
+            },
+            {
+                "title": "තෝර බේරගෙන සීතල හා ඌෂ්ණ කෑම බබාට දෙන්නේ කොහොමද? - Baby Food Sinhala Recipe - බබාට කෑම - Babata Kema",
+                "url": "https://youtube.com/watch?v=3mOCPsw6g9U",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/3mOCPsw6g9U/hq720.jpg"
+            },
+            {
+                "title": "Hiwalthora Melluma හිවල්තෝර මැල්ලුම-Senna occidentalis | @Secrets of Nature | Wild Cooking | වනපසරස",
+                "url": "https://youtube.com/watch?v=19ZeCb3qTHg",
+                "duration": "23:14",
+                "thumbnail": "https://i.ytimg.com/vi/19ZeCb3qTHg/hq720.jpg"
+            },
+            {
+                "title": "වටපණු කිරිපණු සහ  ආමාශගත සමේ රෝග සුවකරන ඖෂධ ඇත් තෝර ශාකය",
+                "url": "https://youtube.com/watch?v=a_wr7ougXJ8",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/a_wr7ougXJ8/hq720.jpg"
+            },
+            {
+                "title": "පෙති තෝර වල පුදුම සහගත ගුණ මෙන්න 🌿☘️",
+                "url": "https://youtube.com/watch?v=nOhc0GT54uU",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/nOhc0GT54uU/hq720.jpg"
+            },
+            {
+                "title": "පෙති තෝර |ලෙඩ රෝග ගණනාවකට ගුණදායක පෙති තෝර ශාකය |cassiavthora",
+                "url": "https://youtube.com/watch?v=-wZXpW8Pjas",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/-wZXpW8Pjas/hq720.jpg"
+            },
+            {
+                "title": "agriculture in srilanka|tora gasa|තෝර ගස.",
+                "url": "https://youtube.com/watch?v=jVtIPzd2LM4",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/jVtIPzd2LM4/hqdefault.jpg"
+            },
+            {
+                "title": "දධ කුෂ්ඨ අලුහම් සුව කරන ඇත්තෝර |eththora | aththora | cassia alata",
+                "url": "https://youtube.com/watch?v=haoEjG0IDDk",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/haoEjG0IDDk/hqdefault.jpg"
+            },
+            {
+                "title": "දේශීය අවූසද තෝර ශාකයේ වටිනාකම| , ආහාරයට අරගෙනම බලන්න",
+                "url": "https://youtube.com/watch?v=GyFnZF3pgH0",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/GyFnZF3pgH0/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණ | Winged ring worm plant benefits | Cassia didymobotrya benefits",
+                "url": "https://youtube.com/watch?v=Wulixhh-eNA",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/Wulixhh-eNA/hqdefault.jpg"
+            },
+            {
+                "title": "ඇත්තෝර: දිව්‍ය ඖෂධයක් බඳු ඇත්තෝර පිළිබඳ විවරණයක් - ආයුර්වේද වෛද්‍ය තාරක සමන්ත ශ්‍රී මැතිතුමා සමග",
+                "url": "https://youtube.com/watch?v=C-qu6Mxk0FA",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/C-qu6Mxk0FA/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Tinea Cruris",
-      "sinhala": "ධෝබි කැසීම (දද වර්ගයක්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Rheumatic Fever",
-      "sinhala": "වාත උණ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Whole Plant",
-    "Bark",
-    "Seeds"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

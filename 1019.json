@@ -1,104 +1,511 @@
 {
-  "scientificName": "Digitaria ciliaris (Retz.) Koeler",
-  "synonyms": [
-    "Asprella digitaria Lam.",
-    "Digitaria abortiva Reeder",
-    "Digitaria adscendens (Kunth) Henrard",
-    "Digitaria adscendens subsp. chrysoblephara (Fig. & De Not.) Henrard",
-    "Digitaria adscendens subsp. marginata (Link) Henrard",
-    "Digitaria adscendens subsp. nubica (Stapf) Henrard",
-    "Digitaria adscendens var. criniformis Henrard",
-    "Digitaria adscendens var. fimbriata (Link) Cufod.",
-    "Digitaria adscendens var. pes-avis (Buse) Henrard",
-    "Digitaria adscendens var. sericea (Honda) Henrard",
-    "Digitaria biformis var. chrysoblephara (Fig. & De Not.) Beetle",
-    "Digitaria brevifolia Link",
-    "Digitaria chinensis Hornem.",
-    "Digitaria chrysoblephara Fig. & De Not.",
-    "Digitaria ciliaris f. albovariegata T.Oishi",
-    "Digitaria ciliaris subsp. chrysoblephara (Fig. & De Not.) R.B.Majumdar",
-    "Digitaria ciliaris subsp. marginata (Link) S.K.Jain & Doli Das",
-    "Digitaria ciliaris subsp. nubica (Stapf) S.K.Jain & Doli Das",
-    "Digitaria ciliaris var. chrysoblephara (Fig. & De Not.) R.R.Stewart",
-    "Digitaria ciliaris var. criniformis (Henrard) R.B.Majumdar",
-    "Digitaria ciliaris var. fimbriata (Link) S.K.Jain & Doli Das",
-    "Digitaria ciliaris var. nubica (Stapf) S.T.Blake",
-    "Digitaria ciliaris var. pes-avis (Buse) S.K.Jain & Doli Das",
-    "Digitaria ciliaris var. sericea (Honda) S.K.Jain & Doli Das",
-    "Digitaria ciliata Lag.",
-    "Digitaria fimbriata Link",
-    "Digitaria henryi Rendle",
-    "Digitaria inaequalis (Link) Spreng.",
-    "Digitaria marginata Link",
-    "Digitaria marginata var. ciliaris (Retz.) Ridl.",
-    "Digitaria marginata var. fimbriata (Link) Stapf",
-    "Digitaria marginata var. linkii Stapf",
-    "Digitaria marginata var. nubica Stapf",
-    "Digitaria pes-avis Buse",
-    "Digitaria sanguinalis f. ciliaris (Retz.) Haines",
-    "Digitaria sanguinalis subsp. ciliaris (Retz.) Parl.",
-    "Digitaria sanguinalis var. ciliaris (Retz.) Parl.",
-    "Digitaria sanguinalis var. fimbriata (Link) Merr.",
-    "Digitaria sanguinalis var. marginata (Link) Fernald",
-    "Digitaria sasakii (Honda) Tuyama",
-    "Digitaria sericea (Honda) Ohwi",
-    "Digitaria tarapacana Phil.",
-    "Leersia digitaria (Lam.) Poir.",
-    "Milium ciliare (Retz.) Moench",
-    "Milium ciliatum Moench",
-    "Panicum adscendens Kunth",
-    "Panicum aegyptiacum var. blepharanthum (T.Durand & Schinz) Chiov.",
-    "Panicum brachyphyllum Steud.",
-    "Panicum brevifolium (Link) Kunth",
-    "Panicum ciliare Retz.",
-    "Panicum fimbriatum (Link) Kunth",
-    "Panicum henryi (Rendle) Makino & Nemoto",
-    "Panicum inaequale (Link) E.Fourn.",
-    "Panicum linkianum Kunth",
-    "Panicum linkianum var. minus E.Fourn.",
-    "Panicum marginellum Schrad.",
-    "Panicum ornithopus Trin.",
-    "Panicum pes-avis (Buse) Koord.",
-    "Panicum sanguinale subsp. longiglume (Trin. ex Nees) Chiov.",
-    "Panicum sanguinale subsp. marginatum (Link) Thell.",
-    "Panicum sanguinale subvar. marginatum (Link) Döll",
-    "Panicum sanguinale var. blepharanthum T.Durand & Schinz",
-    "Panicum sanguinale var. ciliare (Retz.) St.-Amans",
-    "Panicum sanguinale var. fimbriatum (Link) A.Usteri",
-    "Panicum sanguinale var. longiglume Trin. ex Nees",
-    "Panicum sanguinale var. macrostachyum T.Durand & Schinz",
-    "Panicum villiferum Nees",
-    "Paspalum ciliare (Retz.) DC.",
-    "Paspalum inaequale Link",
-    "Paspalum sanguinale var. ciliare (Retz.) Hook.f.",
-    "Sanguinaria ciliaris (Retz.) Bubani",
-    "Spartina pubera Hassk.",
-    "Syntherisma ciliaris (Retz.) Schrad.",
-    "Syntherisma fimbriata (Link) Nash",
-    "Syntherisma henryi (Rendle) Newbould",
-    "Syntherisma marginata (Link) Nash",
-    "Syntherisma sanguinalis subsp. ciliaris (Retz.) Masamura & Yanagih.",
-    "Syntherisma sanguinalis var. ciliaris (Retz.) Honda",
-    "Syntherisma sasakii Honda",
-    "Syntherisma sericea Honda"
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Wild Crabgrass",
-    "Bamboo Grass",
-    "Crabgrass",
-    "Henry's Crabgrass",
-    "Large Crabgrass",
-    "Smooth Crabgrass",
-    "Southern Crabgrass",
-    "Summer Grass",
-    "Tropical Crab Grassa",
-    "Tropical Finger Grass"
-  ],
-  "sinhalaName": "Guruthana (ගුරුතණ)",
-  "description": "සෙන්ටිමීටර කිහිපයක සිට මීටරයකට වඩා දිගු විය හැකි, දුර්වල, අතු බෙදුණු කඳන් සහිත වාර්ෂික ශාකයකි. පත්‍ර රෝම රහිත (glabrous) සිට විරලව රළු රෝම සහිත (hispid) හෝ පක්ෂ්මල (ciliate) වේ; බොහෝ විට පාදස්ථයේ පැපිලාවන් සහිත රෝම දක්නට ලැබෙන අතර, ඇතැම් විට ඉතා සියුම් ලෙස මෘදු රෝම සහිත (pubescent) වේ. පත්‍රිකා පටලමය (membranous) ලිගියුලයකින් (ligule) සමන්විත වේ; පත්‍ර තල කෙටි හෝ දිගු විය හැක. පුෂ්ප මංජරියේ අක්ෂය සහ පුෂ්ප වෘන්ත පුළුල් ලෙස පියාපත් සහිත වන අතර, කොළ පැහැති පියාපත් ලා පැහැති මධ්‍ය කොටස තරමටම පළල් වේ. මල් කරල් (spikelets) අසමාන පුෂ්ප වෘන්ත සහිත යුගල වශයෙන් පිහිටයි; ඉන් එකක් වෘන්ත රහිත (subsessile) වේ, නැතහොත් වෘන්ත රහිත මල් කරල අකර්මණ්‍ය වීම නිසා තනිව පිහිටයි. වෘන්ත රහිත සහ වෘන්ත සහිත මල් කරල් දෙකෙහිම මල්වල ලෙමා (lemma) සාමාන්‍යයෙන් නහර 5කින් යුක්ත වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Digitaria ciliaris (Retz.) Koeler",
+    "synonyms": [
+        "Asprella digitaria Lam.",
+        "Digitaria abortiva Reeder",
+        "Digitaria adscendens (Kunth) Henrard",
+        "Digitaria adscendens subsp. chrysoblephara (Fig. & De Not.) Henrard",
+        "Digitaria adscendens subsp. marginata (Link) Henrard",
+        "Digitaria adscendens subsp. nubica (Stapf) Henrard",
+        "Digitaria adscendens var. criniformis Henrard",
+        "Digitaria adscendens var. fimbriata (Link) Cufod.",
+        "Digitaria adscendens var. pes-avis (Buse) Henrard",
+        "Digitaria adscendens var. sericea (Honda) Henrard",
+        "Digitaria biformis var. chrysoblephara (Fig. & De Not.) Beetle",
+        "Digitaria brevifolia Link",
+        "Digitaria chinensis Hornem.",
+        "Digitaria chrysoblephara Fig. & De Not.",
+        "Digitaria ciliaris f. albovariegata T.Oishi",
+        "Digitaria ciliaris subsp. chrysoblephara (Fig. & De Not.) R.B.Majumdar",
+        "Digitaria ciliaris subsp. marginata (Link) S.K.Jain & Doli Das",
+        "Digitaria ciliaris subsp. nubica (Stapf) S.K.Jain & Doli Das",
+        "Digitaria ciliaris var. chrysoblephara (Fig. & De Not.) R.R.Stewart",
+        "Digitaria ciliaris var. criniformis (Henrard) R.B.Majumdar",
+        "Digitaria ciliaris var. fimbriata (Link) S.K.Jain & Doli Das",
+        "Digitaria ciliaris var. nubica (Stapf) S.T.Blake",
+        "Digitaria ciliaris var. pes-avis (Buse) S.K.Jain & Doli Das",
+        "Digitaria ciliaris var. sericea (Honda) S.K.Jain & Doli Das",
+        "Digitaria ciliata Lag.",
+        "Digitaria fimbriata Link",
+        "Digitaria henryi Rendle",
+        "Digitaria inaequalis (Link) Spreng.",
+        "Digitaria marginata Link",
+        "Digitaria marginata var. ciliaris (Retz.) Ridl.",
+        "Digitaria marginata var. fimbriata (Link) Stapf",
+        "Digitaria marginata var. linkii Stapf",
+        "Digitaria marginata var. nubica Stapf",
+        "Digitaria pes-avis Buse",
+        "Digitaria sanguinalis f. ciliaris (Retz.) Haines",
+        "Digitaria sanguinalis subsp. ciliaris (Retz.) Parl.",
+        "Digitaria sanguinalis var. ciliaris (Retz.) Parl.",
+        "Digitaria sanguinalis var. fimbriata (Link) Merr.",
+        "Digitaria sanguinalis var. marginata (Link) Fernald",
+        "Digitaria sasakii (Honda) Tuyama",
+        "Digitaria sericea (Honda) Ohwi",
+        "Digitaria tarapacana Phil.",
+        "Leersia digitaria (Lam.) Poir.",
+        "Milium ciliare (Retz.) Moench",
+        "Milium ciliatum Moench",
+        "Panicum adscendens Kunth",
+        "Panicum aegyptiacum var. blepharanthum (T.Durand & Schinz) Chiov.",
+        "Panicum brachyphyllum Steud.",
+        "Panicum brevifolium (Link) Kunth",
+        "Panicum ciliare Retz.",
+        "Panicum fimbriatum (Link) Kunth",
+        "Panicum henryi (Rendle) Makino & Nemoto",
+        "Panicum inaequale (Link) E.Fourn.",
+        "Panicum linkianum Kunth",
+        "Panicum linkianum var. minus E.Fourn.",
+        "Panicum marginellum Schrad.",
+        "Panicum ornithopus Trin.",
+        "Panicum pes-avis (Buse) Koord.",
+        "Panicum sanguinale subsp. longiglume (Trin. ex Nees) Chiov.",
+        "Panicum sanguinale subsp. marginatum (Link) Thell.",
+        "Panicum sanguinale subvar. marginatum (Link) Döll",
+        "Panicum sanguinale var. blepharanthum T.Durand & Schinz",
+        "Panicum sanguinale var. ciliare (Retz.) St.-Amans",
+        "Panicum sanguinale var. fimbriatum (Link) A.Usteri",
+        "Panicum sanguinale var. longiglume Trin. ex Nees",
+        "Panicum sanguinale var. macrostachyum T.Durand & Schinz",
+        "Panicum villiferum Nees",
+        "Paspalum ciliare (Retz.) DC.",
+        "Paspalum inaequale Link",
+        "Paspalum sanguinale var. ciliare (Retz.) Hook.f.",
+        "Sanguinaria ciliaris (Retz.) Bubani",
+        "Spartina pubera Hassk.",
+        "Syntherisma ciliaris (Retz.) Schrad.",
+        "Syntherisma fimbriata (Link) Nash",
+        "Syntherisma henryi (Rendle) Newbould",
+        "Syntherisma marginata (Link) Nash",
+        "Syntherisma sanguinalis subsp. ciliaris (Retz.) Masamura & Yanagih.",
+        "Syntherisma sanguinalis var. ciliaris (Retz.) Honda",
+        "Syntherisma sasakii Honda",
+        "Syntherisma sericea Honda"
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Wild Crabgrass",
+        "Bamboo Grass",
+        "Crabgrass",
+        "Henry's Crabgrass",
+        "Large Crabgrass",
+        "Smooth Crabgrass",
+        "Southern Crabgrass",
+        "Summer Grass",
+        "Tropical Crab Grassa",
+        "Tropical Finger Grass"
+    ],
+    "sinhalaName": "Guruthana (ගුරුතණ)",
+    "description": "සෙන්ටිමීටර කිහිපයක සිට මීටරයකට වඩා දිගු විය හැකි, දුර්වල, අතු බෙදුණු කඳන් සහිත වාර්ෂික ශාකයකි. පත්‍ර රෝම රහිත (glabrous) සිට විරලව රළු රෝම සහිත (hispid) හෝ පක්ෂ්මල (ciliate) වේ; බොහෝ විට පාදස්ථයේ පැපිලාවන් සහිත රෝම දක්නට ලැබෙන අතර, ඇතැම් විට ඉතා සියුම් ලෙස මෘදු රෝම සහිත (pubescent) වේ. පත්‍රිකා පටලමය (membranous) ලිගියුලයකින් (ligule) සමන්විත වේ; පත්‍ර තල කෙටි හෝ දිගු විය හැක. පුෂ්ප මංජරියේ අක්ෂය සහ පුෂ්ප වෘන්ත පුළුල් ලෙස පියාපත් සහිත වන අතර, කොළ පැහැති පියාපත් ලා පැහැති මධ්‍ය කොටස තරමටම පළල් වේ. මල් කරල් (spikelets) අසමාන පුෂ්ප වෘන්ත සහිත යුගල වශයෙන් පිහිටයි; ඉන් එකක් වෘන්ත රහිත (subsessile) වේ, නැතහොත් වෘන්ත රහිත මල් කරල අකර්මණ්‍ය වීම නිසා තනිව පිහිටයි. වෘන්ත රහිත සහ වෘන්ත සහිත මල් කරල් දෙකෙහිම මල්වල ලෙමා (lemma) සාමාන්‍යයෙන් නහර 5කින් යුක්ත වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "24 AMAZING HEALTH BENEFITS OF PARAGIS (WIRE GRASS)| MUST WATCH IT'S IMPRESSIVE.",
+                "url": "https://youtube.com/watch?v=KxAUhOBefnE",
+                "duration": "5:18",
+                "thumbnail": "https://i.ytimg.com/vi/KxAUhOBefnE/hqdefault.jpg"
+            },
+            {
+                "title": "උතුම් ධර්මයේ ගුණ සිහිකරමින් ඔබේ ජීවිතය පින් කෙතක් කරගන්නා අයුරු | Galigamuwe Gnanadeepa Thero",
+                "url": "https://youtube.com/watch?v=hJiukNN77Cg",
+                "duration": "39:26",
+                "thumbnail": "https://i.ytimg.com/vi/hJiukNN77Cg/hq720.jpg"
+            },
+            {
+                "title": "කුළුණු ගුණෙන් ‍| Kulunu Gunen",
+                "url": "https://youtube.com/watch?v=IID8xp2dBjE",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/IID8xp2dBjE/hq720.jpg"
+            },
+            {
+                "title": "දහම් ගුණ හදුනා ගනිමු Daham Guna Hadunaganimu",
+                "url": "https://youtube.com/watch?v=REHl8wH4DrA",
+                "duration": "1:30:28",
+                "thumbnail": "https://i.ytimg.com/vi/REHl8wH4DrA/hqdefault.jpg"
+            },
+            {
+                "title": "ත්‍රිවිධ රත්නයේ ගුණ වර්ණනා කරලා ඉවර කරන්න පුළුවන් කමක් නෑ.618Ven Hasalaka Seelawimala Thero",
+                "url": "https://youtube.com/watch?v=5aZWA4JKjLI",
+                "duration": "52:46",
+                "thumbnail": "https://i.ytimg.com/vi/5aZWA4JKjLI/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ මෛත්‍රී භාවනාව​ | Budu Guna Maithree Bhavanawa",
+                "url": "https://youtube.com/watch?v=RFcKN5qEz4k",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/RFcKN5qEz4k/hqdefault.jpg"
+            },
+            {
+                "title": "සංඝ රත්නයේ ගුණ Ven Galagamuwe Gnanadeepa Thero sirasa damsak nada 04-03-2017",
+                "url": "https://youtube.com/watch?v=zFsIwpMm6Tc",
+                "duration": "40:40",
+                "thumbnail": "https://i.ytimg.com/vi/zFsIwpMm6Tc/hqdefault.jpg"
+            },
+            {
+                "title": "බුදු ගුණ | ධම් ගුණ | සංඝ ගුණ |  තෙරුවන ගුණ | theruwan guna | පූජ්‍ය වටගොඩ මග්ගවිහාරී ස්වාමීන්වහන්සේ",
+                "url": "https://youtube.com/watch?v=myn72vNMM38",
+                "duration": "1:50:00",
+                "thumbnail": "https://i.ytimg.com/vi/myn72vNMM38/hq720.jpg"
+            },
+            {
+                "title": "ගුණ ධර්ම දියුණු කරගන්නේ කෙසේද welimada saddaseela theru.#trending #buddha",
+                "url": "https://youtube.com/watch?v=50Y6UGqq9bw",
+                "duration": "57:02",
+                "thumbnail": "https://i.ytimg.com/vi/50Y6UGqq9bw/hq720.jpg"
+            },
+            {
+                "title": "ගුරු දෙවිදුන් යයි නිවනට ඉවසනා ගුණෙන් | Amatha TV",
+                "url": "https://youtube.com/watch?v=7NdZKuszHHw",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/7NdZKuszHHw/hqdefault.jpg"
+            },
+            {
+                "title": "බුදු ගුණ අර්ථය ඉතාම සරලව බුද්ධානුස්සති භාවනාවට වැදගත් ධර්ම දේශනාව - Galigamuwe Gnanadeepa Thero",
+                "url": "https://youtube.com/watch?v=J3xMNCE28GY",
+                "duration": "47:11",
+                "thumbnail": "https://i.ytimg.com/vi/J3xMNCE28GY/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ පාඩම",
+                "url": "https://youtube.com/watch?v=zBSWMyrnn9w",
+                "duration": "1:02:12",
+                "thumbnail": "https://i.ytimg.com/vi/zBSWMyrnn9w/hqdefault.jpg"
+            },
+            {
+                "title": "saga guna | සඝ ගුණ | kin sachcha magga/sanganussathiya/kakuluwela vipulasara hamuduruwo",
+                "url": "https://youtube.com/watch?v=iJ2xiLDpR2k",
+                "duration": "2:28",
+                "thumbnail": "https://i.ytimg.com/vi/iJ2xiLDpR2k/hqdefault.jpg"
+            },
+            {
+                "title": "ඖෂධ පූජාව 🙏🙏",
+                "url": "https://youtube.com/watch?v=pLQsS0ZIMIg",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/pLQsS0ZIMIg/hq720_2.jpg"
+            },
+            {
+                "title": "යශෝදරා තෙරණිය පිණිස ඖෂධ පුඡාවක්",
+                "url": "https://youtube.com/watch?v=34JeTiBUJBU",
+                "duration": "0:25",
+                "thumbnail": "https://i.ytimg.com/vi/34JeTiBUJBU/hq720_2.jpg"
+            },
+            {
+                "title": "ඖෂධ # ගංසූරිය #nature දණහිස වේදනාවට අපූරු ඖෂධය",
+                "url": "https://youtube.com/watch?v=hG9T5P0WoYY",
+                "duration": "0:19",
+                "thumbnail": "https://i.ytimg.com/vi/hG9T5P0WoYY/hq720_2.jpg"
+            },
+            {
+                "title": "ඉක්මනින් ධාතු පිට නොවිමට #athbeheth",
+                "url": "https://youtube.com/watch?v=yHaz4u8Q8ec",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/yHaz4u8Q8ec/hq720_2.jpg"
+            },
+            {
+                "title": "සතුන්ව ආහාරයට ගන්නා ශාක | This plant EATS animals",
+                "url": "https://youtube.com/watch?v=26r_D6ZWuco",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/26r_D6ZWuco/hq720_2.jpg"
+            },
+            {
+                "title": "ඖෂධ පූජාව | Oushadha Pujawa | 2023.01.13",
+                "url": "https://youtube.com/watch?v=QnEfpRIpHZ4",
+                "duration": "53:42",
+                "thumbnail": "https://i.ytimg.com/vi/QnEfpRIpHZ4/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ පූජාව | Oushadha Pujawa | 2026.05.10",
+                "url": "https://youtube.com/watch?v=u7859pSB_TY",
+                "duration": "55:07",
+                "thumbnail": "https://i.ytimg.com/vi/u7859pSB_TY/hq720.jpg"
+            },
+            {
+                "title": "එදිනෙදා ජිවිතයට අවශ්‍ය අත් බෙහෙත් 😲🙏#athbeheth",
+                "url": "https://youtube.com/watch?v=B-AvDSC1uUk",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/B-AvDSC1uUk/hq720_2.jpg"
+            },
+            {
+                "title": "අසිරිමත් වෙසක් පොහය නිමිත්තෙන් පැවති  අසිරිමත් සත්බුදු වන්දනාව හා ඖෂධ ගිලන්පස පූජාව | 2026.06.01",
+                "url": "https://youtube.com/watch?v=pYTXFJtzTUg",
+                "duration": "1:01:46",
+                "thumbnail": "https://i.ytimg.com/vi/pYTXFJtzTUg/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ පූජාව | Oushadha Pujawa | 2026.05.12",
+                "url": "https://youtube.com/watch?v=bXPHfYDjIxo",
+                "duration": "1:07:45",
+                "thumbnail": "https://i.ytimg.com/vi/bXPHfYDjIxo/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ පූජා පැවැත්වීමේ ආනිසංස #walpolagothama #bana #buduvandanamaga #darmadeshana #budubana",
+                "url": "https://youtube.com/watch?v=McpOUHXE7o4",
+                "duration": "50:54",
+                "thumbnail": "https://i.ytimg.com/vi/McpOUHXE7o4/hqdefault.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "108 කින් සමන්විත මහා ඖෂධ පූජාව. දෙබැද්දපිටියේ පඤ්ඤාසාර හිමි (aushadha puja) #buddha #srilanka",
+                "url": "https://youtube.com/watch?v=zRPN_uyTMpI",
+                "duration": "38:58",
+                "thumbnail": "https://i.ytimg.com/vi/zRPN_uyTMpI/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ පූජාව | Oushadha Pujawa | 2026.05.19",
+                "url": "https://youtube.com/watch?v=5XntB6TlQyU",
+                "duration": "1:02:13",
+                "thumbnail": "https://i.ytimg.com/vi/5XntB6TlQyU/hq720.jpg"
+            },
+            {
+                "title": "සාමාන්‍ය උණට ඉපැරණි අත් බෙහෙත්  #athbeheth",
+                "url": "https://youtube.com/watch?v=e-Gs4CHzJBY",
+                "duration": "0:20",
+                "thumbnail": "https://i.ytimg.com/vi/e-Gs4CHzJBY/hq720_2.jpg"
+            },
+            {
+                "title": "ඖෂද කොල පූජාව 🌿☘️ පින්ද? පව්ද?#bana #welimada_saddhaseela_thero #budu_bana #dharmadeshana #banakatha",
+                "url": "https://youtube.com/watch?v=c_9snuG1WCs",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/c_9snuG1WCs/hq720.jpg"
+            },
+            {
+                "title": "අමතක වෙන ලෙඩේට බෙහෙත් ගන්න ගියාම 😁 MARU DABALAK #chamathhasaranga #dilipthejana #marudabalak #shorts",
+                "url": "https://youtube.com/watch?v=K_q_q-1cp78",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/K_q_q-1cp78/hq720_2.jpg"
+            },
+            {
+                "title": "බුදුන් පුදන ඖෂධ වර්ග 108 මෙන්න",
+                "url": "https://youtube.com/watch?v=SuMnT67W53Q",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/SuMnT67W53Q/hq720.jpg"
+            },
+            {
+                "title": "''ඉඟුරු ''ගුණ  අගුණ",
+                "url": "https://youtube.com/watch?v=xeUVyF6wBzQ",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/xeUVyF6wBzQ/hq720.jpg"
+            },
+            {
+                "title": "කහ වල ඇති ඔෳෂධිය ගුණ 15ක්|Turmeric15 medicinal properties of",
+                "url": "https://youtube.com/watch?v=_eRkyprVr4o",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/_eRkyprVr4o/hqdefault.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "ගෝරෝචන - ගවයාගෙන් ලබා ගන්නා විස්මිත ඖෂධ, අපේ පැරැන්නන් භාවිතා කල විවිධ කෙම් ක්‍රම සහ හදි හූනියම්",
+                "url": "https://youtube.com/watch?v=GefNR3siSFw",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/GefNR3siSFw/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු වල ඔබ නොදත් දිව්‍යමය ගුණ [Characteristics about ginger you wonder]",
+                "url": "https://youtube.com/watch?v=qwWWczTGdZE",
+                "duration": "5:26",
+                "thumbnail": "https://i.ytimg.com/vi/qwWWczTGdZE/hq720.jpg"
+            },
+            {
+                "title": "විද්‍යාත්මකව තාහවුරු කල ශ්‍රී ලාංකික කුරුඳු සතු විශ්මිත ගුන 8 ක්",
+                "url": "https://youtube.com/watch?v=LskI19qCTMY",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/LskI19qCTMY/hqdefault.jpg"
+            },
+            {
+                "title": "✔ මතකය වැඩි කරන,ගැස්ට්‍රයිටිස්ට් සුවයට උගුරැස්ස Governor's plum for gastritis cure by Apé Amma",
+                "url": "https://youtube.com/watch?v=m6H7mQ_LSRA",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/m6H7mQ_LSRA/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු වල විශ්මිත ගුණ . Ayurvedic value of cinnamon.",
+                "url": "https://youtube.com/watch?v=HYqpafpiFWE",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/HYqpafpiFWE/hq720.jpg"
+            },
+            {
+                "title": "හිගුරල|hingurala|higurala wala guna|drchaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=FNl7ZRiIWQ0",
+                "duration": "20:35",
+                "thumbnail": "https://i.ytimg.com/vi/FNl7ZRiIWQ0/hq720.jpg"
+            },
+            {
+                "title": "මළ බතේ රහස – අපේ මුතුන්මිත්තන් දැනසිටි ආහාර වල ගුණ | පැරණි දැනුම හා නවින විද්‍යාව",
+                "url": "https://youtube.com/watch?v=DiNA1aaDOk0",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/DiNA1aaDOk0/hq720.jpg"
+            },
+            {
+                "title": "Gotukola and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LcQ_lwSLdIA",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/LcQ_lwSLdIA/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු වලට ගුණ කෑම මෙන්න/Best food for kidney health/#kidneyhealth @Mediupdater #healthykidneys",
+                "url": "https://youtube.com/watch?v=0HRfKGKP0ug",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/0HRfKGKP0ug/hq720.jpg"
+            },
+            {
+                "title": "දන්නෙ නැතුවද කුරුදු බිවුවෙ? | Cinnamon for Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WlVF9YZgJQ8",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/WlVF9YZgJQ8/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "ඇදුම,අතීසාරය,විදුරුමස් රෝග සදහා ගුණ දෙන \"ගොඩපර\"  | Dillenia retusa Thunb        -  Episode 24",
+                "url": "https://youtube.com/watch?v=TSS5Uobtl7A",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/TSS5Uobtl7A/hq720.jpg"
+            },
+            {
+                "title": "රක්ත වාත රෝගය පිළිබද දැනගනිමු -  Gout",
+                "url": "https://youtube.com/watch?v=Ekmz43S3gkA",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/Ekmz43S3gkA/hq720.jpg"
+            },
+            {
+                "title": "ගොරක චූර්ණයේ ඇත්ත නැත්ත |Goraka Choornaya |Garcinia By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=wXWik7NrQAY",
+                "duration": "8:34",
+                "thumbnail": "https://i.ytimg.com/vi/wXWik7NrQAY/hq720.jpg"
+            },
+            {
+                "title": "කලාඳුරු අලයේ පුදුම ගුණ | වල් පැළයක් කියා ඉවත දැමූ අගනා ඖෂධය! 🌿",
+                "url": "https://youtube.com/watch?v=Qk2ZpZWKXz0",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/Qk2ZpZWKXz0/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "Parampara Sinhala | X Generation, Y Generation, Z & Alpha, මොනවද මේ පරම්පරා, Sinhala Education",
+                "url": "https://youtube.com/watch?v=YPHcCIp_DVg",
+                "duration": "14:35",
+                "thumbnail": "https://i.ytimg.com/vi/YPHcCIp_DVg/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits Of Trees | ගස්වලින් ලැබෙන ප්‍රයෝජන 🌳",
+                "url": "https://youtube.com/watch?v=LZeEzBhxUGg",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/LZeEzBhxUGg/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "supportive structures of plants | science sinhala medium #passionfruit #plants",
+                "url": "https://youtube.com/watch?v=eeIqoTkE7i0",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/eeIqoTkE7i0/hq720.jpg"
+            },
+            {
+                "title": "Hand pollination/අතින්  පරාගනය සිදුකර ලබාගත් බටානා ඵලදාව/Butternut harvest",
+                "url": "https://youtube.com/watch?v=kScpug3K2ic",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/kScpug3K2ic/hq720.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "සත්තුන්ගෙන් අපට ලැබෙන ප්‍රයෝජන  | 03 වන තේමාව  | 01 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=8tfTs8fo9pU",
+                "duration": "14:31",
+                "thumbnail": "https://i.ytimg.com/vi/8tfTs8fo9pU/hq720.jpg"
+            },
+            {
+                "title": "The Garden Gurus - Benefits of Lawn to our Environment",
+                "url": "https://youtube.com/watch?v=RWABrTSM9vg",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/RWABrTSM9vg/hqdefault.jpg"
+            },
+            {
+                "title": "The Hidden Power of Goosegrass | The Unpretentious Wonder of Nature",
+                "url": "https://youtube.com/watch?v=0476EjI8cSw",
+                "duration": "3:40",
+                "thumbnail": "https://i.ytimg.com/vi/0476EjI8cSw/hq720.jpg"
+            },
+            {
+                "title": "The Garden Gurus - Benefits of a Natural Turf",
+                "url": "https://youtube.com/watch?v=AP8BiKfS78g",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/AP8BiKfS78g/hqdefault.jpg"
+            },
+            {
+                "title": "The Garden Gurus - Benefits of Lawn to our Environment",
+                "url": "https://youtube.com/watch?v=8L_SSr-reDE",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/8L_SSr-reDE/frame0.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

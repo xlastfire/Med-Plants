@@ -1,210 +1,287 @@
 {
-  "scientificName": "Portulaca oleracea L.",
-  "synonyms": [
-    "Portulaca aurea DC.",
-    "Portulaca consanguinea Schltdl.",
-    "Portulaca cryptopetala var. poellnitziana (D.Legrand) D.Legrand",
-    "Portulaca dichotoma Gueldenst.",
-    "Portulaca fosbergii Poelln.",
-    "Portulaca fosbergii var. major Poelln.",
-    "Portulaca hortensis Rupr.",
-    "Portulaca laevis Buch.-Ham.",
-    "Portulaca latifolia Hornem.",
-    "Portulaca marginata Kunth",
-    "Portulaca maritima S.G.Gmel.",
-    "Portulaca neglecta Mack. & Bush",
-    "Portulaca officinarum Crantz",
-    "Portulaca oleracea subsp. sativa (DC.) Celak.",
-    "Portulaca oleracea subsp. stellata Danin & H.G.Baker",
-    "Portulaca oleracea subsp. sylvestris Thell.",
-    "Portulaca oleracea var. alba Alef.",
-    "Portulaca oleracea var. aurantia Alef.",
-    "Portulaca oleracea var. aurea Alef.",
-    "Portulaca oleracea var. caryophyllina Alef.",
-    "Portulaca oleracea var. gillesii Alef.",
-    "Portulaca oleracea var. gracilescens Domin",
-    "Portulaca oleracea var. grandiflora Benth.",
-    "Portulaca oleracea var. haageana Alef.",
-    "Portulaca oleracea var. linearifolia Sivar. & Manilal",
-    "Portulaca oleracea var. macrantha Eggers",
-    "Portulaca oleracea var. macrantha Speg.",
-    "Portulaca oleracea var. micrantha Eggers",
-    "Portulaca oleracea var. micrantha Speg.",
-    "Portulaca oleracea var. parvifolia (Haw.) Griseb.",
-    "Portulaca oleracea var. rosea Alef.",
-    "Portulaca oleracea var. sativa (Haw.) DC.",
-    "Portulaca oleracea var. striata Alef.",
-    "Portulaca oleracea var. sylvestris DC.",
-    "Portulaca oleracea var. violacea Alef.",
-    "Portulaca olitoria Pall.",
-    "Portulaca opposita Poelln.",
-    "Portulaca papillosa Sennen",
-    "Portulaca parviflora Griseb.",
-    "Portulaca parvifolia Haw.",
-    "Portulaca pilosa var. marginata (Kunth) Kuntze",
-    "Portulaca poellnitziana D.Legrand",
-    "Portulaca repens Noronha",
-    "Portulaca retusa Engelm.",
-    "Portulaca rostellata Brign.",
-    "Portulaca sativa Haw.",
-    "Portulaca stellata (Danin & H.G.Baker) Ricceri & Arrigoni",
-    "Portulaca suffruticosa Thwaites",
-    "Portulaca sylvestris Garsault",
-    "Portulaca sylvestris Montandon",
-    "Portulaca terraereginae Poelln.",
-    "Portulaca viridis DC."
-  ],
-  "familyName": "PORTULACACEAE",
-  "englishNames": [
-    "Purslane",
-    "Common Purslane",
-    "Pigweed",
-    "Purslain",
-    "Pusky",
-    "Pusley",
-    "Wild Purslane",
-    "Little Hogweed",
-    "Red Root",
-    "Rock Moss"
-  ],
-  "sinhalaName": "Genda kola (ගෙඳ කොළ)",
-  "description": "සෙන්ටිමීටර 35ක් දක්වා උසැති වාර්ෂික පැළෑටි වේ. පත්‍ර මිලිමීටර 20-40 x 15-20 ප්‍රමාණයේ, මාංසල (fleshy) සහ රෝම රහිත (glabrous) වේ. මල් 3-6 බැගින් පුෂ්ප මංජරියක (capitula) පිහිටන අතර, විෂ්කම්භය සෙන්ටිමීටර 1ක් පමණ වේ; පෙති (4-) 5ක් සහිත, කහ පැහැති, මිලිමීටර 3-9 x 7 ප්‍රමාණයේ වේ. කරල් (capsule) බිත්තරාකාර (ovoid) හෝ ගෝලාකාර (subglobose) හැඩැති, මිලිමීටර 4 x 3 ප්‍රමාණයේ සහ පිදුරු පැහැති (straw-yellow) වේ. බීජ විෂ්කම්භය මිලිමීටර 1ක් පමණ වන අතර, කළු පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Portulaca oleracea L.",
+    "synonyms": [
+        "Portulaca aurea DC.",
+        "Portulaca consanguinea Schltdl.",
+        "Portulaca cryptopetala var. poellnitziana (D.Legrand) D.Legrand",
+        "Portulaca dichotoma Gueldenst.",
+        "Portulaca fosbergii Poelln.",
+        "Portulaca fosbergii var. major Poelln.",
+        "Portulaca hortensis Rupr.",
+        "Portulaca laevis Buch.-Ham.",
+        "Portulaca latifolia Hornem.",
+        "Portulaca marginata Kunth",
+        "Portulaca maritima S.G.Gmel.",
+        "Portulaca neglecta Mack. & Bush",
+        "Portulaca officinarum Crantz",
+        "Portulaca oleracea subsp. sativa (DC.) Celak.",
+        "Portulaca oleracea subsp. stellata Danin & H.G.Baker",
+        "Portulaca oleracea subsp. sylvestris Thell.",
+        "Portulaca oleracea var. alba Alef.",
+        "Portulaca oleracea var. aurantia Alef.",
+        "Portulaca oleracea var. aurea Alef.",
+        "Portulaca oleracea var. caryophyllina Alef.",
+        "Portulaca oleracea var. gillesii Alef.",
+        "Portulaca oleracea var. gracilescens Domin",
+        "Portulaca oleracea var. grandiflora Benth.",
+        "Portulaca oleracea var. haageana Alef.",
+        "Portulaca oleracea var. linearifolia Sivar. & Manilal",
+        "Portulaca oleracea var. macrantha Eggers",
+        "Portulaca oleracea var. macrantha Speg.",
+        "Portulaca oleracea var. micrantha Eggers",
+        "Portulaca oleracea var. micrantha Speg.",
+        "Portulaca oleracea var. parvifolia (Haw.) Griseb.",
+        "Portulaca oleracea var. rosea Alef.",
+        "Portulaca oleracea var. sativa (Haw.) DC.",
+        "Portulaca oleracea var. striata Alef.",
+        "Portulaca oleracea var. sylvestris DC.",
+        "Portulaca oleracea var. violacea Alef.",
+        "Portulaca olitoria Pall.",
+        "Portulaca opposita Poelln.",
+        "Portulaca papillosa Sennen",
+        "Portulaca parviflora Griseb.",
+        "Portulaca parvifolia Haw.",
+        "Portulaca pilosa var. marginata (Kunth) Kuntze",
+        "Portulaca poellnitziana D.Legrand",
+        "Portulaca repens Noronha",
+        "Portulaca retusa Engelm.",
+        "Portulaca rostellata Brign.",
+        "Portulaca sativa Haw.",
+        "Portulaca stellata (Danin & H.G.Baker) Ricceri & Arrigoni",
+        "Portulaca suffruticosa Thwaites",
+        "Portulaca sylvestris Garsault",
+        "Portulaca sylvestris Montandon",
+        "Portulaca terraereginae Poelln.",
+        "Portulaca viridis DC."
+    ],
+    "familyName": "PORTULACACEAE",
+    "englishNames": [
+        "Purslane",
+        "Common Purslane",
+        "Pigweed",
+        "Purslain",
+        "Pusky",
+        "Pusley",
+        "Wild Purslane",
+        "Little Hogweed",
+        "Red Root",
+        "Rock Moss"
+    ],
+    "sinhalaName": "Genda kola (ගෙඳ කොළ)",
+    "description": "සෙන්ටිමීටර 35ක් දක්වා උසැති වාර්ෂික පැළෑටි වේ. පත්‍ර මිලිමීටර 20-40 x 15-20 ප්‍රමාණයේ, මාංසල (fleshy) සහ රෝම රහිත (glabrous) වේ. මල් 3-6 බැගින් පුෂ්ප මංජරියක (capitula) පිහිටන අතර, විෂ්කම්භය සෙන්ටිමීටර 1ක් පමණ වේ; පෙති (4-) 5ක් සහිත, කහ පැහැති, මිලිමීටර 3-9 x 7 ප්‍රමාණයේ වේ. කරල් (capsule) බිත්තරාකාර (ovoid) හෝ ගෝලාකාර (subglobose) හැඩැති, මිලිමීටර 4 x 3 ප්‍රමාණයේ සහ පිදුරු පැහැති (straw-yellow) වේ. බීජ විෂ්කම්භය මිලිමීටර 1ක් පමණ වන අතර, කළු පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Peptic Ulcer Disease",
+            "sinhala": "ආමාශයික වණ (ගැස්ට්‍රයිටිස් / ආමාශගත ව්‍රණ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemoptysis",
+            "sinhala": "කැස්ස සමඟ ලේ පිටවීම (ලේ කැස්ස)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Scurvy",
+            "sinhala": "ස්කර්වි රෝගය (විටමින් C ඌනතාවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Pulmonary Disorders",
+            "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Urogenital Disorders",
+            "sinhala": "මුත්‍රා හා ප්‍රජනක පද්ධතියේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burns and Scalds",
+            "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Young stem"
+    ],
+    "images": [
+        {
+            "image_id": "",
+            "caption": "",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ7gzijewvsHnJxGM7s0dX3l_UbgdxElNu02nwRBL9xV5fGe4BrjLCN1yDcerk28L2V34-DBOLtzzUoMX658RweMVNcIgxgmyzlrMDM0imnAKWJT0-K83Akuc1FmWjJ7J07ze_oruO/w1200-h630-p-k-no-nu/geda+-Portulacaria+oleracea.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "වල් පැලෑටියක් කියලා ගලවලා විසිකරන අරුම පුදුම පොඩි පැලය | ගෙඳ (Genda)",
+                "url": "https://youtube.com/watch?v=7-GkSQ_sE3w",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/7-GkSQ_sE3w/hq720.jpg"
+            },
+            {
+                "title": "වල් පැලෑටියක් කියලා ගලවලා විසිකරන අරුම පුදුම පොඩි පැලය | ගෙඳ (Genda)",
+                "url": "https://youtube.com/watch?v=2QshivoApgY",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/2QshivoApgY/frame0.jpg"
+            },
+            {
+                "title": "golden-puerslane ගෙඳ පලා.  healthy food Sri Lanka.",
+                "url": "https://youtube.com/watch?v=08DKhLixeF8",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/08DKhLixeF8/hqdefault.jpg"
+            },
+            {
+                "title": "ගෙද පළා geda pala",
+                "url": "https://youtube.com/watch?v=wlJYKTVpTl0",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/wlJYKTVpTl0/hq720.jpg"
+            },
+            {
+                "title": "ආහාර හිගයට විසදුම් | ගෙද | Episode 8",
+                "url": "https://youtube.com/watch?v=CCgUXwQ3K-s",
+                "duration": "1:20",
+                "thumbnail": "https://i.ytimg.com/vi/CCgUXwQ3K-s/hq720.jpg"
+            },
+            {
+                "title": "පලා ලොවේ රැජිනිය හීන් ගෙඳ | geda pala 2022 | ගෙඳ පලා 2022 | genda pala | hela osu samaga ama 2022",
+                "url": "https://youtube.com/watch?v=vUzAiAvf23k",
+                "duration": "5:37",
+                "thumbnail": "https://i.ytimg.com/vi/vUzAiAvf23k/hqdefault.jpg"
+            },
+            {
+                "title": "මෙවැනි ශාඛ ඔබේ නිවසේ ඇත්තදැයි විමසිලිමත් වෙන්න | Geda Plant",
+                "url": "https://youtube.com/watch?v=9hlue8QMZOQ",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/9hlue8QMZOQ/hq720.jpg"
+            },
+            {
+                "title": "රෝග 18 ක් සුවකරන ගෙඳපළා #osu",
+                "url": "https://youtube.com/watch?v=eOd1_bPYO34",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/eOd1_bPYO34/hqdefault.jpg"
+            },
+            {
+                "title": "ගෙඳපලාවල ගුණ ඇගුන දැනගෙන මෙන්න මෙහෙම හදන්න/How to make a houseplant",
+                "url": "https://youtube.com/watch?v=5vYLhwG1CFE",
+                "duration": "5:14",
+                "thumbnail": "https://i.ytimg.com/vi/5vYLhwG1CFE/hqdefault.jpg"
+            },
+            {
+                "title": "ගෙදපලා මෙහෙම හදලා බලන්නකෝ.හිතා ගන්නවත් බැ මේ ගෙදපලාද කියලා.#ගෙදපලා තෙලට#gedapala recipy#nkitchen",
+                "url": "https://youtube.com/watch?v=dWMt0k-W7fc",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/dWMt0k-W7fc/hqdefault.jpg"
+            },
+            {
+                "title": "හීන්සාරන සහ ගෙදපලා වගාව|දිව්‍යමය අවූසදයකින්| සමන්විත",
+                "url": "https://youtube.com/watch?v=Eyrua4lrOwU",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/Eyrua4lrOwU/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Peptic Ulcer Disease",
-      "sinhala": "ආමාශයික වණ (ගැස්ට්‍රයිටිස් / ආමාශගත ව්‍රණ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemoptysis",
-      "sinhala": "කැස්ස සමඟ ලේ පිටවීම (ලේ කැස්ස)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Scurvy",
-      "sinhala": "ස්කර්වි රෝගය (විටමින් C ඌනතාවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Pulmonary Disorders",
-      "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Urogenital Disorders",
-      "sinhala": "මුත්‍රා හා ප්‍රජනක පද්ධතියේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Burns and Scalds",
-      "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Young stem"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

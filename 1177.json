@@ -1,109 +1,216 @@
 {
-  "scientificName": "",
-  "synonyms": [],
-  "familyName": "",
-  "englishNames": [
-    "Sweet Orange",
-    "Orange"
-  ],
-  "sinhalaName": "Peni dodam (පැණි දොඩම්)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "",
+    "synonyms": [],
+    "familyName": "",
+    "englishNames": [
+        "Sweet Orange",
+        "Orange"
+    ],
+    "sinhalaName": "Peni dodam (පැණි දොඩම්)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Heart Diseases",
+            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Malaria",
+            "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruit",
+        "Leaves"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "පැණි දොඩම් කන අයට මොනවද වෙන්නෙ : Sweet Lemon Benefits (2019)",
+                "url": "https://youtube.com/watch?v=9_X-nRhdP4k",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/9_X-nRhdP4k/hq720.jpg"
+            },
+            {
+                "title": "පැණි බේරෙන අලුත්ම පැණි දොඩම් | New Sweet Orange|  Ceylon Agri | Episode 437",
+                "url": "https://youtube.com/watch?v=ZBQaqJCFvds",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZBQaqJCFvds/hq720.jpg"
+            },
+            {
+                "title": "වසවිස දොඩම් වෙනුවට පොඩි ඉඩක බිබිලෙ පැණි දොඩම්|Bibile Sweet Orange|Episode 436 with English Subtitles",
+                "url": "https://youtube.com/watch?v=86ZVj9QWSoA",
+                "duration": "6:54",
+                "thumbnail": "https://i.ytimg.com/vi/86ZVj9QWSoA/hq720.jpg"
+            },
+            {
+                "title": "නිවැරදිව පැණි දොඩම් වගා කරමුDepartment Of Agriculture Sri lanka Krushi tv channel",
+                "url": "https://youtube.com/watch?v=Fn1_xR1MgZ8",
+                "duration": "12:17",
+                "thumbnail": "https://i.ytimg.com/vi/Fn1_xR1MgZ8/hq720.jpg"
+            },
+            {
+                "title": "ඉක්මනින් ගෙඩි එන්න පැණි දොඩම් වලට සුපිරිම බදුන් මිශ්‍රණය How to grow Lemons in Buckets at Home",
+                "url": "https://youtube.com/watch?v=f4Eup17C2c8",
+                "duration": "8:12",
+                "thumbnail": "https://i.ytimg.com/vi/f4Eup17C2c8/hq720.jpg"
+            },
+            {
+                "title": "Variegated Orangeමිහිරි රස කහ පැණි දොඩම් ගහක් පොඩි ඉඩක | Ceylon Agri | Episode 25",
+                "url": "https://youtube.com/watch?v=lAgS0qebfx0",
+                "duration": "8:51",
+                "thumbnail": "https://i.ytimg.com/vi/lAgS0qebfx0/hq720.jpg"
+            },
+            {
+                "title": "ගහ පිරෙන්න දොඩම් ගන්නනම් මෙහෙමයි වගා කරන්න ඕන | Pani Dodam wagawa | Bibile Sweet Orange | orange",
+                "url": "https://youtube.com/watch?v=DZdJ_xhepnc",
+                "duration": "41:56",
+                "thumbnail": "https://i.ytimg.com/vi/DZdJ_xhepnc/hq720.jpg"
+            },
+            {
+                "title": "ඕනෑම ඉඩෝරයකට ඔරොත්තු දෙන පැණි දොඩම් වගාව | Pani Dodam wagawa | Bibile Sweet Orange | orange",
+                "url": "https://youtube.com/watch?v=f0qawGVmn0w",
+                "duration": "27:49",
+                "thumbnail": "https://i.ytimg.com/vi/f0qawGVmn0w/hq720.jpg"
+            },
+            {
+                "title": "උදෙන්ම දොඩම් ගොඩකට යටවෙලා ඉන්නෙ..🍊🍋🍋‍🟩🍊🍋🍋‍🟩දැකල තියෙනවද බලන්නකො මේ වර්ග.. Citrus varieties.",
+                "url": "https://youtube.com/watch?v=eR-ya4SDSl4",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/eR-ya4SDSl4/hq720.jpg"
+            },
+            {
+                "title": "ගොවිබිමට අරුණළු - නිවැරදි තාක්ෂණයට අනුව පැණි දොඩම් වගා කරමු",
+                "url": "https://youtube.com/watch?v=nZumvaA1wNk",
+                "duration": "13:17",
+                "thumbnail": "https://i.ytimg.com/vi/nZumvaA1wNk/hq720.jpg"
+            },
+            {
+                "title": "පැණි බේරෙන අලුත්ම පැණි දොඩම් | New Sweet Orange|  Ceylon Agri | Episode 437",
+                "url": "https://youtube.com/watch?v=uU22YayEDkI",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/uU22YayEDkI/frame0.jpg"
+            },
+            {
+                "title": "පැණි රස උපරිමයි | Variegated Yellow Orange | Ceylon Agri | Episode 136",
+                "url": "https://youtube.com/watch?v=8F3GmfPq3Io",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/8F3GmfPq3Io/hq720.jpg"
+            },
+            {
+                "title": "බද්ධ  පැණි දොඩම් පැලයක් නඩත්තු කරන ආකාරය",
+                "url": "https://youtube.com/watch?v=r1jGlw_vmuc",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/r1jGlw_vmuc/hqdefault.jpg"
+            },
+            {
+                "title": "ORANGE | Orange in my home garden | පැණි දොඩම් වගාව",
+                "url": "https://youtube.com/watch?v=b1oX1EVz6Jk",
+                "duration": "7:54",
+                "thumbnail": "https://i.ytimg.com/vi/b1oX1EVz6Jk/hq720.jpg"
+            },
+            {
+                "title": "කඩෙන් දොඩම් ගේන එක නතර කරන සාර්ථක පැණි දොඩම් වගාව | How to Grow Sweet Orange 🍊",
+                "url": "https://youtube.com/watch?v=S1oFWMoG1cY",
+                "duration": "0:45",
+                "thumbnail": "https://i.ytimg.com/vi/S1oFWMoG1cY/hqdefault.jpg"
+            },
+            {
+                "title": "දොඩම් වගාව මුල සිට",
+                "url": "https://youtube.com/watch?v=N8Y5SoZSZ14",
+                "duration": "16:56",
+                "thumbnail": "https://i.ytimg.com/vi/N8Y5SoZSZ14/hq720.jpg"
+            },
+            {
+                "title": "බඳුනක පැණි දොඩම් ගහක් වවමුද? | Bibile Penidodam | බඳුනක වගා කරන්න පුළුවන්  පළතුරු වර්ග -04",
+                "url": "https://youtube.com/watch?v=ykf4Ul94Xy8",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/ykf4Ul94Xy8/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Heart Diseases",
-      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Malaria",
-      "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruit",
-    "Leaves"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

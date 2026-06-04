@@ -1,45 +1,704 @@
 {
-  "scientificName": "Agrostistachys borneensis Becc.",
-  "synonyms": [
-    "Agrostistachys coriacea Alston",
-    "Agrostistachys intramarginalis Philcox",
-    "Agrostistachys latifolia (Hook.f.) Pax & K.Hoffm.",
-    "Agrostistachys leptostachya Pax & K.Hoffm.",
-    "Agrostistachys longifolia (Wight) Trimen",
-    "Agrostistachys longifolia var. latifolia Hook.f.",
-    "Agrostistachys longifolia var. leptostachya (Pax & K.Hoffm.) Whitmore",
-    "Agrostistachys meeboldii Pax & K.Hoffm.",
-    "Sarcoclinium longifolium Wight"
-  ],
-  "familyName": "EUPHORBIACEAE",
-  "englishNames": [
-    "Beru"
-  ],
-  "sinhalaName": "Beru (බේරු)",
-  "description": "මීටර් 1 - 8 ක් උසැති පඳුරක් හෝ කුඩා ගසකි. පත්‍ර තලය සෙන්ටිමීටර 9 - 20 (-25) X 2.5 - 7 (-8.5) ක් වන අතර, ප්‍රතිලෝම ඩිම්බාකාර-දීර්ඝාකාර (obovate-oblong) හැඩයක් ගනී. පත්‍ර අග කෙටි උල් සහිත (acuminate) සහ මොට වේ. පත්‍ර පාදය නොපැහැදිලි පත්‍ර වෘන්තයක් (petiole) දක්වා ක්‍රමයෙන් සිහින් වේ (attenuate). පත්‍ර දාරය සම්පූර්ණ හෝ විශේෂයෙන් ඉහළ කොටසේ නොගැඹුරු දන්ත සහිත (crenate) වේ. පත්‍ර සම් වැනි (coriaceous) සහ රෝම රහිත (glabrous) වේ. පුෂ්ප මංජරිය ලිහිල් කරල් වැනි පොකුරු (spicate racemes) ආකාර වන අතර, කෙටි රළු රෝම සහිත (hispid-pubescent) වේ. මේවා පත්‍රවලට වඩා දිගින් අඩුය. කරල් කුඩා වන අතර විෂ්කම්භය මිලිමීටර 10 - 11 කි. ඒවා අර්ධ ගෝලාකාර (subglobose) හැඩයක් ගන්නා අතර කෙටි සහ විරල ලෙස පැතිරී පවතින රෝම සහිත (appressed pubescent) වේ. බීජ විෂ්කම්භය මිලිමීටර 4.5 - 5 ක් වන අතර, ගෝලාකාර (globose), තැඹිලි-දුඹුරු පැහැති සහ රෝම රහිත (glabrous) වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "2095",
-      "caption": "Fruit (PMR)",
-      "url": "https://i.ibb.co/KcWsXhvH/plant00475-02095.jpg"
+    "scientificName": "Agrostistachys borneensis Becc.",
+    "synonyms": [
+        "Agrostistachys coriacea Alston",
+        "Agrostistachys intramarginalis Philcox",
+        "Agrostistachys latifolia (Hook.f.) Pax & K.Hoffm.",
+        "Agrostistachys leptostachya Pax & K.Hoffm.",
+        "Agrostistachys longifolia (Wight) Trimen",
+        "Agrostistachys longifolia var. latifolia Hook.f.",
+        "Agrostistachys longifolia var. leptostachya (Pax & K.Hoffm.) Whitmore",
+        "Agrostistachys meeboldii Pax & K.Hoffm.",
+        "Sarcoclinium longifolium Wight"
+    ],
+    "familyName": "EUPHORBIACEAE",
+    "englishNames": [
+        "Beru"
+    ],
+    "sinhalaName": "Beru (බේරු)",
+    "description": "මීටර් 1 - 8 ක් උසැති පඳුරක් හෝ කුඩා ගසකි. පත්‍ර තලය සෙන්ටිමීටර 9 - 20 (-25) X 2.5 - 7 (-8.5) ක් වන අතර, ප්‍රතිලෝම ඩිම්බාකාර-දීර්ඝාකාර (obovate-oblong) හැඩයක් ගනී. පත්‍ර අග කෙටි උල් සහිත (acuminate) සහ මොට වේ. පත්‍ර පාදය නොපැහැදිලි පත්‍ර වෘන්තයක් (petiole) දක්වා ක්‍රමයෙන් සිහින් වේ (attenuate). පත්‍ර දාරය සම්පූර්ණ හෝ විශේෂයෙන් ඉහළ කොටසේ නොගැඹුරු දන්ත සහිත (crenate) වේ. පත්‍ර සම් වැනි (coriaceous) සහ රෝම රහිත (glabrous) වේ. පුෂ්ප මංජරිය ලිහිල් කරල් වැනි පොකුරු (spicate racemes) ආකාර වන අතර, කෙටි රළු රෝම සහිත (hispid-pubescent) වේ. මේවා පත්‍රවලට වඩා දිගින් අඩුය. කරල් කුඩා වන අතර විෂ්කම්භය මිලිමීටර 10 - 11 කි. ඒවා අර්ධ ගෝලාකාර (subglobose) හැඩයක් ගන්නා අතර කෙටි සහ විරල ලෙස පැතිරී පවතින රෝම සහිත (appressed pubescent) වේ. බීජ විෂ්කම්භය මිලිමීටර 4.5 - 5 ක් වන අතර, ගෝලාකාර (globose), තැඹිලි-දුඹුරු පැහැති සහ රෝම රහිත (glabrous) වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "2095",
+            "caption": "Fruit (PMR)",
+            "url": "https://i.ibb.co/KcWsXhvH/plant00475-02095.jpg"
+        },
+        {
+            "image_id": "2096",
+            "caption": "Leaf- upper surface (PMR)",
+            "url": "https://i.ibb.co/nqDRr4GN/plant00475-02096.jpg"
+        },
+        {
+            "image_id": "2097",
+            "caption": "Leaf-lower surface (PMR)",
+            "url": "https://i.ibb.co/rGPc4QJC/plant00475-02097.jpg"
+        },
+        {
+            "image_id": "2098",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/whrcTKfP/plant00475-02098.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "before & after ❤️ #srilanka #excavator #2023 බේරු කැලෑව මකා පාත්ති දැමීම",
+                "url": "https://youtube.com/watch?v=3G0O7byc8Z8",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/3G0O7byc8Z8/hqdefault.jpg"
+            },
+            {
+                "title": "Hero Goat Saves Chicken from Hawk Attack - කුකුළා බේරු එළුවා.",
+                "url": "https://youtube.com/watch?v=rC6upB4mW50",
+                "duration": "0:29",
+                "thumbnail": "https://i.ytimg.com/vi/rC6upB4mW50/hq720.jpg"
+            },
+            {
+                "title": "ජීවිතයක් බේරු තෙල් පෝලිමේ එකමුතුකම - Yathra TV",
+                "url": "https://youtube.com/watch?v=ACAnX8Yzi_c",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/ACAnX8Yzi_c/hq720.jpg"
+            },
+            {
+                "title": "පුංචි ශ්‍රී පාදයට නැග්ග විදෙස් කත බිහිසුණු අනතුර|  ජීවිතය බේරු දුෂ්කර මෙහෙයුමේ සජීවී දර්ශන පෙළ මෙන්න",
+                "url": "https://youtube.com/watch?v=JG42pf0y-cM",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/JG42pf0y-cM/hq720.jpg"
+            },
+            {
+                "title": "සියදිවි නසා ගැනීමට ගිය හමුදා සෙබළාගේ දිවි බේරු පොලිස් නිලධාරියා - Hiru News",
+                "url": "https://youtube.com/watch?v=opz2WoGFQAU",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/opz2WoGFQAU/hq720.jpg"
+            },
+            {
+                "title": "ජිවිත 3නක් බේරු ඒ වාසනාව🥺❤️",
+                "url": "https://youtube.com/watch?v=hJeW82z4kKI",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/hJeW82z4kKI/hqdefault.jpg"
+            },
+            {
+                "title": "ඇල්ලේ බස් අනතුරේ දිවි බේරු මෙහෙයුම - සංවේදී දර්ශන සහිතයි",
+                "url": "https://youtube.com/watch?v=Jwxh3Jhjej4",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/Jwxh3Jhjej4/hq720.jpg"
+            },
+            {
+                "title": "බේරු වැවෙ නාන මිනිස්සු",
+                "url": "https://youtube.com/watch?v=GaVES7LjXbI",
+                "duration": "0:40",
+                "thumbnail": "https://i.ytimg.com/vi/GaVES7LjXbI/hq720_2.jpg"
+            },
+            {
+                "title": "ජිවිත 14ක් බේරු සුනඛයෙකු ගැන ආන්දෝලනාත්මක හෙළිදරව්වක්. | Paththare |",
+                "url": "https://youtube.com/watch?v=GRfrIHf087A",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/GRfrIHf087A/hq720.jpg"
+            },
+            {
+                "title": "මරණ හරක් බේරු මර්වින් සිල්වාට ඇපත් ඕනී නැති වෙයි",
+                "url": "https://youtube.com/watch?v=-vL8hIgXB7o",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/-vL8hIgXB7o/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ලීටර් එකහමාරක් තමාගේ කටින් ඉවත්කර ජිවිතයක් බේරු වෛද්‍යවරු",
+                "url": "https://youtube.com/watch?v=5dEwL7zV-Nw",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/5dEwL7zV-Nw/hq720.jpg"
+            },
+            {
+                "title": "නාය යන්නත් කලින් නාය පෙරහුරුවක් තබා දරුවන් බේරු තුප්පිටිය ඉස්කෝලේ - Hiru News",
+                "url": "https://youtube.com/watch?v=CKLeJuOfALc",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/CKLeJuOfALc/hq720.jpg"
+            },
+            {
+                "title": "ජීවිත 69ක් බේරු පිංවන්ත වහලේ කතාව  | kala oya bus anathura | kala oya wahale kathawa | Gan wathura",
+                "url": "https://youtube.com/watch?v=tyVa-RUNQtE",
+                "duration": "8:39",
+                "thumbnail": "https://i.ytimg.com/vi/tyVa-RUNQtE/hq720.jpg"
+            },
+            {
+                "title": "ගොදුරක් ගිල රේල්ලුවට බෙල්ල තබන්නට සැරසුණු පිඹුරා බේරු මෙහෙයුම - Hiru News",
+                "url": "https://youtube.com/watch?v=CIhDAKmtE_o",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/CIhDAKmtE_o/hq720.jpg"
+            },
+            {
+                "title": "දිවි බේරු අනුරගේ  ගුරුතුමිය",
+                "url": "https://youtube.com/watch?v=Xs5bRGffno0",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/Xs5bRGffno0/hqdefault.jpg"
+            },
+            {
+                "title": "අඩි 400ක් පතුලට කිමිදී වික්ටෝරියා වේල්ල බේරු විරුවන්ගේ කතාව මෙන්න",
+                "url": "https://youtube.com/watch?v=uxti_iYfycM",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/uxti_iYfycM/hq720.jpg"
+            },
+            {
+                "title": "බේරු වැවේ බයියෝ 😹🥲",
+                "url": "https://youtube.com/watch?v=Hd-Hsl5RAlI",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/Hd-Hsl5RAlI/hqdefault.jpg"
+            },
+            {
+                "title": "බේරු වලට ගිහින් එමු/Let's go to Beruwela/srilanka travel/family trip/travel vlog/help traveller/",
+                "url": "https://youtube.com/watch?v=rWLopLTcZC4",
+                "duration": "21:37",
+                "thumbnail": "https://i.ytimg.com/vi/rWLopLTcZC4/hq720.jpg"
+            },
+            {
+                "title": "මිනිස් ජීවිත බේරු වීර සත්වයින්.",
+                "url": "https://youtube.com/watch?v=p5uoG5ZiHbY",
+                "duration": "8:43",
+                "thumbnail": "https://i.ytimg.com/vi/p5uoG5ZiHbY/hq720.jpg"
+            },
+            {
+                "title": "උඩු ගුවනේදී ජීවිතයක් බේරු ඇගේ කතාව...(2023-02-26)",
+                "url": "https://youtube.com/watch?v=90HvtZw2Ias",
+                "duration": "12:47",
+                "thumbnail": "https://i.ytimg.com/vi/90HvtZw2Ias/hq720.jpg"
+            },
+            {
+                "title": "බදුල්ලේ ගැටුමේ දිවි පරදුවට තබා දිවි බේරු පොලිස් නිලධාරියා සහ රෝහලේ රියදුරු",
+                "url": "https://youtube.com/watch?v=cFOVmAYQhOM",
+                "duration": "5:21",
+                "thumbnail": "https://i.ytimg.com/vi/cFOVmAYQhOM/hq720.jpg"
+            },
+            {
+                "title": "අඩි 50ට වැඩිය ගැබුරට ගිහින් වේල්ල බේරු අපේ රටේ අයියයි මල්ලි මේ",
+                "url": "https://youtube.com/watch?v=0DaeCZWIcyM",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/0DaeCZWIcyM/hq720.jpg"
+            },
+            {
+                "title": "ගුණ ධර්ම දියුණු කරගන්නේ කෙසේද welimada saddaseela theru.#trending #buddha",
+                "url": "https://youtube.com/watch?v=50Y6UGqq9bw",
+                "duration": "57:02",
+                "thumbnail": "https://i.ytimg.com/vi/50Y6UGqq9bw/hq720.jpg"
+            },
+            {
+                "title": "බෙරි වල ඇති විශ්මිත ගුණ 8ක් - 8 amazing properties of berries",
+                "url": "https://youtube.com/watch?v=lJifBrUQ06w",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/lJifBrUQ06w/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ වරුණ විරිඳු බණ | Viridu Bana | M V Gunadasa",
+                "url": "https://youtube.com/watch?v=JWO19Pk0Pfs",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/JWO19Pk0Pfs/hq720.jpg"
+            },
+            {
+                "title": "කුළුණු ගුණෙන් ‍| Kulunu Gunen",
+                "url": "https://youtube.com/watch?v=IID8xp2dBjE",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/IID8xp2dBjE/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "බඩ ඉරිගු වල ගුණ |Corn",
+                "url": "https://youtube.com/watch?v=86vQdk9CZFA",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/86vQdk9CZFA/hqdefault.jpg"
+            },
+            {
+                "title": "Binura Methsara - Budu Guna Mahime ( බුදු ගුණ මහිමේ) | Official Music Video",
+                "url": "https://youtube.com/watch?v=_ha6PoiSbcI",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/_ha6PoiSbcI/hq720.jpg"
+            },
+            {
+                "title": "Budu Guna Warnanawa | බුදු ගුණ වර්ණනාව | Ven. Welimada Saddaseela Thero",
+                "url": "https://youtube.com/watch?v=5EzsDHDeDck",
+                "duration": "2:01:36",
+                "thumbnail": "https://i.ytimg.com/vi/5EzsDHDeDck/hq720.jpg"
+            },
+            {
+                "title": "එරබදු ඔසු ගුණ . රෝගාබාධ රැසකට සුව ගෙනෙන එරබදු .",
+                "url": "https://youtube.com/watch?v=-e0-joCS_xY",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/-e0-joCS_xY/hq720.jpg"
+            },
+            {
+                "title": "Budu Guna Virindu | බුදු ගුණ විරිඳු | M V Gunadasa",
+                "url": "https://youtube.com/watch?v=f7oPkMqJvpw",
+                "duration": "32:03",
+                "thumbnail": "https://i.ytimg.com/vi/f7oPkMqJvpw/hqdefault.jpg"
+            },
+            {
+                "title": "දීපංකර පාද මූලයටත් පෙර යශෝදරා දේවිය සහ බෝසතුන් අතර සම්බන්ධය  Koralayagama Saranathissa Thero",
+                "url": "https://youtube.com/watch?v=LsKVHbFNHO8",
+                "duration": "56:36",
+                "thumbnail": "https://i.ytimg.com/vi/LsKVHbFNHO8/hq720.jpg"
+            },
+            {
+                "title": "⭕ බියර්වල ගුණ සහ අඟුණ හරියටම මෙන්නෙ | #dineshmuthugala #education #karma",
+                "url": "https://youtube.com/watch?v=rWBPXbIxXxY",
+                "duration": "9:56",
+                "thumbnail": "https://i.ytimg.com/vi/rWBPXbIxXxY/hqdefault.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "ගැබිනි මවුවරුන්ට ඉතාමත් ගුණ දායක වෙරළු | weralu | Elaeocarpus serratus",
+                "url": "https://youtube.com/watch?v=cboxlyPwr6E",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/cboxlyPwr6E/hqdefault.jpg"
+            },
+            {
+                "title": "බීට්රූට් යුෂ බොන අයගේ ශරීරයට සිදුවන පුදුම හිතෙන දේවල් 7ක් - 7 Health Benefits of Drinking Beet Juice",
+                "url": "https://youtube.com/watch?v=02rCtdWXXTI",
+                "duration": "10:07",
+                "thumbnail": "https://i.ytimg.com/vi/02rCtdWXXTI/hq720.jpg"
+            },
+            {
+                "title": "දඹල | Winged Bean | PODCAST | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=nwEJVYkpnLI",
+                "duration": "7:47",
+                "thumbnail": "https://i.ytimg.com/vi/nwEJVYkpnLI/hq720.jpg"
+            },
+            {
+                "title": "වෛරය පිරිමසා ගන්නේ මෙහෙමයි.welimada saddaseela theru.#buddha #trending #banadeshana #bana #banana",
+                "url": "https://youtube.com/watch?v=97bS3ZoDMj0",
+                "duration": "46:20",
+                "thumbnail": "https://i.ytimg.com/vi/97bS3ZoDMj0/hq720.jpg"
+            },
+            {
+                "title": "පේර මේ තරම් ගුණ බව ඔබ දන්නවාද ? පෙර සතු විශ්මිත ගුණ 11 ක් මෙන්න The best health benefits of Guava",
+                "url": "https://youtube.com/watch?v=dJaMZLTbW5k",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/dJaMZLTbW5k/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු වල තිත්ත ඇත්ත | Turkey Berry & Bitter Truth By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Yxcn99C76YM",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Yxcn99C76YM/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ අය ලෙඩ වෙන්නෙ අරක්කු බොන්න දන්නෙ නැති නිසා |  Alcohol  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dk3QJjXV938",
+                "duration": "19:12",
+                "thumbnail": "https://i.ytimg.com/vi/dk3QJjXV938/hq720.jpg"
+            },
+            {
+                "title": "“බේරේ වැවේ දුර්ගන්ධය අපි පැය 24ම අත්විඳිනවා” ගංගාරාමයේ අස්සජි හාමුදුරුවෝ බේරේ වැව ගැන කිව්ව කතාව",
+                "url": "https://youtube.com/watch?v=oY_1VHDd6z4",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/oY_1VHDd6z4/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "විෂබීජ දැන් හැමතැනම, මේ වැරදිනම් කරන්න එපා | Sinhala | Dr. Iranga | SLDOC",
+                "url": "https://youtube.com/watch?v=C736szj7Yc8",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/C736szj7Yc8/hq720_2.jpg"
+            },
+            {
+                "title": "​සොබාදහමේ අසිරිමත් ඔසුව: \"ඉරමුසු\" (Indian Sarsaparilla) ඖෂධීය ගුණ | Raveendra Osu Sewana #Iramusu",
+                "url": "https://youtube.com/watch?v=KolAsz0mNZU",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/KolAsz0mNZU/hq720.jpg"
+            },
+            {
+                "title": "Click Here බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය| Repair & Clean Gut Naturally",
+                "url": "https://youtube.com/watch?v=7spkXvR6ad8",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/7spkXvR6ad8/hq720_2.jpg"
+            },
+            {
+                "title": "Click Here බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය| Repair & Clean Gut Naturally",
+                "url": "https://youtube.com/watch?v=3ZmQx32-Hu4",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/3ZmQx32-Hu4/hq720_2.jpg"
+            },
+            {
+                "title": "srilankan healthy foods අපිට අගේ නැති වුණාට විදේශිකයෝ හොයන Careya arborea 🌿",
+                "url": "https://youtube.com/watch?v=fxYyVouLgHk",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/fxYyVouLgHk/hq720.jpg"
+            },
+            {
+                "title": "The Medicine Hunter: Natural Remedies for Bug Bites",
+                "url": "https://youtube.com/watch?v=nqdE4Vj25mc",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/nqdE4Vj25mc/hq720.jpg"
+            },
+            {
+                "title": "🔥 වකුගඩු වලට දැනගත යුතු හොඳ සහ නරක අතිරේක⚠️ වකුගඩු වලට හානි කරයිද?! kidney health Vitamins",
+                "url": "https://youtube.com/watch?v=9OrQHJynr4I",
+                "duration": "20:03",
+                "thumbnail": "https://i.ytimg.com/vi/9OrQHJynr4I/hq720.jpg"
+            },
+            {
+                "title": "6 Free Weeds That Are Stronger Than Antibiotics",
+                "url": "https://youtube.com/watch?v=VXBU7B4mqwU",
+                "duration": "14:46",
+                "thumbnail": "https://i.ytimg.com/vi/VXBU7B4mqwU/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ස්වසන රෝග රැසකට ගුණ දෙන එළබටු #nature #health #tips #healthylifestyle #viral #shortvideo",
+                "url": "https://youtube.com/watch?v=bgdiOKU6Wkw",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/bgdiOKU6Wkw/hq720_2.jpg"
+            },
+            {
+                "title": "මේ ඇබ්බැහි වීම නවත්තන්න පුළුවන් එකම කෙනා ඔයයි Doctor | Doctor Viraj Perera",
+                "url": "https://youtube.com/watch?v=1Pbn6ASi31I",
+                "duration": "9:22",
+                "thumbnail": "https://i.ytimg.com/vi/1Pbn6ASi31I/hq720.jpg"
+            },
+            {
+                "title": "මේකෙ රසට පිස්සු වැටිල ඉන්නේ 🥴 අසමෝදගම් ස්පීතු | Asamodagam spirit | බඩේ කැක්කුම | කෑම අජීර්ණය",
+                "url": "https://youtube.com/watch?v=s4hJNarE9aY",
+                "duration": "0:40",
+                "thumbnail": "https://i.ytimg.com/vi/s4hJNarE9aY/hqdefault.jpg"
+            },
+            {
+                "title": "Elderberry Benefits | HSV, Hantavirus",
+                "url": "https://youtube.com/watch?v=7W-T_cOmiTw",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/7W-T_cOmiTw/hq720_2.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "This Parasite Wiping Out Honeybees | How to Stop them ?",
+                "url": "https://youtube.com/watch?v=Gpd-vB365ok",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/Gpd-vB365ok/hq720_custom_1.jpg"
+            },
+            {
+                "title": "cebu aura වල සීමිත පැළ ප්‍රමාණයක් තියෙනවා රුපියල් 950 සිට",
+                "url": "https://youtube.com/watch?v=lppXGszUEq8",
+                "duration": "0:10",
+                "thumbnail": "https://i.ytimg.com/vi/lppXGszUEq8/hq720.jpg"
+            },
+            {
+                "title": "අධිරුධිර පීඩනය විනාඩියෙන් සුව කරන, මහබඩවැල් පිළිකා වලක්වන ඖෂධ රාජයා | tea for high blood pressure",
+                "url": "https://youtube.com/watch?v=fiofFmTpGJE",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/fiofFmTpGJE/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "උදේට පාන් එපා මෙන්න රක්තහීනතාවයට ගුණ ලේ වඩවන පානයන් 2ක් | මේක බිව්වම කන්න ඕනත් නෑ | le wadawana kama",
+                "url": "https://youtube.com/watch?v=cl3XLpXplVQ",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/cl3XLpXplVQ/hq720.jpg"
+            },
+            {
+                "title": "හැදෙන්න තියන පිළිකාවක් උනත් වලකන ලෙඩ 300කට ගුණ පානයක් | දියවැඩියාවට කොලෙස්ටරෝල් වලට බෙහෙත් nira S",
+                "url": "https://youtube.com/watch?v=5TmsOIyY_W8",
+                "duration": "6:33",
+                "thumbnail": "https://i.ytimg.com/vi/5TmsOIyY_W8/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල තිත්ත ඇත්ත | Heenbovitiya & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=lBsI67rHBnE",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/lBsI67rHBnE/hq720.jpg"
+            },
+            {
+                "title": "බෙලි වල විශ්මිත ගුණය.  Value of Bael fruit",
+                "url": "https://youtube.com/watch?v=M3NTXXjHWWE",
+                "duration": "7:29",
+                "thumbnail": "https://i.ytimg.com/vi/M3NTXXjHWWE/hq720.jpg"
+            },
+            {
+                "title": "අධි රුධිර පීඩනය ස්වාභාවිකව පාලනය කරන ආහාර ර්ග 15ක් | 15 Best Foods for High Blood Pressure",
+                "url": "https://youtube.com/watch?v=iD2L88GekBM",
+                "duration": "11:55",
+                "thumbnail": "https://i.ytimg.com/vi/iD2L88GekBM/hq720.jpg"
+            },
+            {
+                "title": "මේ සියළු රෝග සුවකර ඔබව පැහැපත් කර තරුණ කරන ලොව හොදම පානය.. Turmeric Tea Benefits & Recipe.",
+                "url": "https://youtube.com/watch?v=XnH1pCjnbNo",
+                "duration": "12:08",
+                "thumbnail": "https://i.ytimg.com/vi/XnH1pCjnbNo/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂයින්ගේ ලිංගික ශක්තිය වැඩි කරන, ඉක්මනින් ධාතු පිටවීමට හොදම ප්‍රතිකාරයක් වන බිංතල් වල ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=LHYxIfW9T4M",
+                "duration": "14:36",
+                "thumbnail": "https://i.ytimg.com/vi/LHYxIfW9T4M/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ලේ වඩවන ආහාර 20 ක් | රක්තහීනතාවය වලක්වන්න කන්න | Iron Rich Foods",
+                "url": "https://youtube.com/watch?v=Iwh34rqk7iA",
+                "duration": "16:24",
+                "thumbnail": "https://i.ytimg.com/vi/Iwh34rqk7iA/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල්, තරබාරුව මට්ටු කරන්න පුරාණයේ සිට පැවැත එන විශ්මිත ගුලිය",
+                "url": "https://youtube.com/watch?v=e290CnJkWGs",
+                "duration": "16:31",
+                "thumbnail": "https://i.ytimg.com/vi/e290CnJkWGs/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "බාදුරා පැල ගැන තොරතුරු | How To Grow Nepenthes Plants In Sinhala",
+                "url": "https://youtube.com/watch?v=_txfTc8ZSAQ",
+                "duration": "5:49",
+                "thumbnail": "https://i.ytimg.com/vi/_txfTc8ZSAQ/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "මේ දිනවල රට පුරා පැතිරෙන ලෙඩේට සැබෑ හේතුව කුමක්ද? ශාඛ සහ බීජ වල කල්පයක් පුරා පවතින වීර්ය කුමක්ද?",
+                "url": "https://youtube.com/watch?v=8YROIPMGNVc",
+                "duration": "25:24",
+                "thumbnail": "https://i.ytimg.com/vi/8YROIPMGNVc/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "supportive structures of plants | science sinhala medium #passionfruit #plants",
+                "url": "https://youtube.com/watch?v=eeIqoTkE7i0",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/eeIqoTkE7i0/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "ජීවිතේ පස්සෙන් නම් ඉන්නේ, පීඩනය දරන්න අමාරු නම් මේ විද්‍යාත්මක කරුණු 3 කරලා බලන්න!",
+                "url": "https://youtube.com/watch?v=9PL6k-o5D-w",
+                "duration": "27:51",
+                "thumbnail": "https://i.ytimg.com/vi/9PL6k-o5D-w/hq720.jpg"
+            },
+            {
+                "title": "ක්ෂූදර ජීවින් අපට කරන [වාසි/අවාසි]",
+                "url": "https://youtube.com/watch?v=wGYCquLMlvE",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/wGYCquLMlvE/hq720.jpg"
+            },
+            {
+                "title": "Beer වලට බඩ එනවද ? Beer & Belly Fat By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=GJ7B7Z2tbIY",
+                "duration": "10:55",
+                "thumbnail": "https://i.ytimg.com/vi/GJ7B7Z2tbIY/hq720.jpg"
+            },
+            {
+                "title": "කල් යල් බලා කළ මාල කැඩිල්ල  - Hirunews.lk",
+                "url": "https://youtube.com/watch?v=8VKLT8OFGwc",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/8VKLT8OFGwc/hq720.jpg"
+            },
+            {
+                "title": "බිරින්දෑවරු මරනෙන් මතු යනතැන l  Welimada Saddaseela Thero",
+                "url": "https://youtube.com/watch?v=aKjutFKYPXY",
+                "duration": "13:54",
+                "thumbnail": "https://i.ytimg.com/vi/aKjutFKYPXY/hq720.jpg"
+            },
+            {
+                "title": "දන්නෙ නැතිව කන,බොන බීට් වල ඇත්ත කතාව | Beet Root By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=hQtDEMI1YoI",
+                "duration": "10:23",
+                "thumbnail": "https://i.ytimg.com/vi/hQtDEMI1YoI/hq720.jpg"
+            },
+            {
+                "title": "Mulberry Health Benefits : මල්බෙරි ගැන ආස හිතෙන කතාවක්",
+                "url": "https://youtube.com/watch?v=qQ7pbuc1RWs",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/qQ7pbuc1RWs/hq720.jpg"
+            },
+            {
+                "title": "මේ කෑම හීනෙකින්වත් එකට කන්න එපා | පොතු කබර සහ පිළිකා සුව කරන හෙළ වෙදකමේ රහස්",
+                "url": "https://youtube.com/watch?v=Bb0gEY7pN-U",
+                "duration": "24:16",
+                "thumbnail": "https://i.ytimg.com/vi/Bb0gEY7pN-U/hq720.jpg"
+            },
+            {
+                "title": "කෙණ්ඩා පෙරලීම මෙතරම් භයානකද? The Hidden Danger of Leg Cramps!",
+                "url": "https://youtube.com/watch?v=DKFnTu2dVyI",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/DKFnTu2dVyI/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "LIVE 🔴 හිරු සවස 6.55 ප්‍රධාන ප්‍රවෘත්ති විකාශය - Hiru TV NEWS 6:55 PM LIVE | 2026-06-04 | Hiru News",
+                "url": "https://youtube.com/watch?v=up5kU91k2PM",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/up5kU91k2PM/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health & Nutritional Benefits Of Basil | Dr. Berg",
+                "url": "https://youtube.com/watch?v=DYfDMbl535Y",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/DYfDMbl535Y/hq720.jpg"
+            },
+            {
+                "title": "Baobab Fruit Health Benefits: 10x More Vitamin C Than Oranges & More Calcium Than Milk",
+                "url": "https://youtube.com/watch?v=l45u-CHsE90",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/l45u-CHsE90/hq720.jpg"
+            },
+            {
+                "title": "The Health Benefits of Rosemary",
+                "url": "https://youtube.com/watch?v=oEOTayOXzoE",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/oEOTayOXzoE/hq720.jpg"
+            },
+            {
+                "title": "10 Benefits Of Blueberries To Know! | Blueberry Health Benefits",
+                "url": "https://youtube.com/watch?v=f2MzpiZuGJE",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/f2MzpiZuGJE/hq720.jpg"
+            },
+            {
+                "title": "The hidden benefits of blueberries",
+                "url": "https://youtube.com/watch?v=dte4yLhvO0Q",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/dte4yLhvO0Q/hq720.jpg"
+            },
+            {
+                "title": "The Potential Health Benefits of Barleria Stem and How to Prepare Them",
+                "url": "https://youtube.com/watch?v=cQWSicPaIH0",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/cQWSicPaIH0/hq720.jpg"
+            },
+            {
+                "title": "9 Amazing Health Benefits of Berries",
+                "url": "https://youtube.com/watch?v=OL-tA2AUVDc",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/OL-tA2AUVDc/hq720.jpg"
+            },
+            {
+                "title": "FIVE HEALTH BENEFITS OF BAOBAB",
+                "url": "https://youtube.com/watch?v=aVPeWOodSlw",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/aVPeWOodSlw/hq720.jpg"
+            },
+            {
+                "title": "The Mind-Blowing Benefits of Berberine",
+                "url": "https://youtube.com/watch?v=QX6gCRJZ0dk",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/QX6gCRJZ0dk/hq720.jpg"
+            },
+            {
+                "title": "6 Amazing Benefits of Bay Leaf! | What Do Bay Leaves do to Your Body?",
+                "url": "https://youtube.com/watch?v=hIZjQv8OCCs",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/hIZjQv8OCCs/hq720.jpg"
+            },
+            {
+                "title": "8 Benefits of Rosemary You Should Know! | Rosemary Uses and Benefits",
+                "url": "https://youtube.com/watch?v=IBvUJluIBu0",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/IBvUJluIBu0/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health & Nutritional Benefits Of Basil | Dr. Berg",
+                "url": "https://youtube.com/watch?v=OKGRSJn1L0c",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/OKGRSJn1L0c/frame0.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "2096",
-      "caption": "Leaf- upper surface (PMR)",
-      "url": "https://i.ibb.co/nqDRr4GN/plant00475-02096.jpg"
-    },
-    {
-      "image_id": "2097",
-      "caption": "Leaf-lower surface (PMR)",
-      "url": "https://i.ibb.co/rGPc4QJC/plant00475-02097.jpg"
-    },
-    {
-      "image_id": "2098",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/whrcTKfP/plant00475-02098.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

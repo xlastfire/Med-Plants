@@ -1,196 +1,495 @@
 {
-  "scientificName": "Raphanus raphanistrum subsp. sativus (L.) Domin",
-  "synonyms": [
-    "Raphanistrum gayanum Fisch. & C.A.Mey.",
-    "Raphanus acanthiformis Morel ex L.Sisley",
-    "Raphanus acanthiformis var. raphanistroides (Makino) Hara",
-    "Raphanus candidus Vorosch.",
-    "Raphanus caudatus L.",
-    "Raphanus caudatus L.f.",
-    "Raphanus chinensis Mill.",
-    "Raphanus gayanus (Fisch. & C.A.Mey.) G.Don",
-    "Raphanus indicus Sinskaya",
-    "Raphanus macropodus H.Lév.",
-    "Raphanus macropodus var. spontaneus Nakai",
-    "Raphanus niger Mill.",
-    "Raphanus niger var. albus DC.",
-    "Raphanus niger var. vulgaris DC.",
-    "Raphanus oleifer Steud.",
-    "Raphanus orbicularis Mill.",
-    "Raphanus radicula Pers.",
-    "Raphanus radicula var. oblongus DC.",
-    "Raphanus radicula var. oleifera DC.",
-    "Raphanus radicula var. rotundus (Mill.) DC.",
-    "Raphanus raphanistrum subsp. caudatus (L.) Thell.",
-    "Raphanus raphanistrum subvar. niger (Mill.) Thell.",
-    "Raphanus raphanistrum var. sativus (L.) Beck",
-    "Raphanus rotundus Mill.",
-    "Raphanus sativus convar. esculentus (Metzg.) Alef.",
-    "Raphanus sativus convar. hybernus (Alef.) Sazonova",
-    "Raphanus sativus convar. minowase (Kitam.) Sazonova",
-    "Raphanus sativus convar. oleifer Alef.",
-    "Raphanus sativus convar. radicula (Pers.) Sazonova",
-    "Raphanus sativus f. albescens (Makino) M.Hiroe",
-    "Raphanus sativus f. esculentus (Metzg.) M.Hiroe",
-    "Raphanus sativus f. exsuccus (Thell.) M.Hiroe",
-    "Raphanus sativus f. raphanistroides Makino",
-    "Raphanus sativus L.",
-    "Raphanus sativus subf. niger (Mill.) M.Hiroe",
-    "Raphanus sativus subf. oleifer (DC.) M.Hiroe",
-    "Raphanus sativus subf. silvester (W.D.J.Koch) M.Hiroe",
-    "Raphanus sativus subsp. acanthiformis (Morel ex L.Sisley) Stank.",
-    "Raphanus sativus subsp. esculentus Metzg.",
-    "Raphanus sativus subsp. niger (Mill.) Lej. & Courtois",
-    "Raphanus sativus subsp. oleifer (Stokes) Metzg.",
-    "Raphanus sativus subsp. radicula (Pers.) Lej. & Courtois",
-    "Raphanus sativus subsp. sinensis Sazonova & Stank.",
-    "Raphanus sativus var. aka-daikon (Kitam.) Sazonova",
-    "Raphanus sativus var. albus Alef.",
-    "Raphanus sativus var. augustanus Alef.",
-    "Raphanus sativus var. autumnalis Alef.",
-    "Raphanus sativus var. brunneus Alef.",
-    "Raphanus sativus var. carneus Alef.",
-    "Raphanus sativus var. caudatus (L.) Alef.",
-    "Raphanus sativus var. chinensis (Mill.) Boenn.",
-    "Raphanus sativus var. chloris Alef.",
-    "Raphanus sativus var. crininus Alef.",
-    "Raphanus sativus var. fusiformis Stokes",
-    "Raphanus sativus var. griseus Alef.",
-    "Raphanus sativus var. hortensis Backer",
-    "Raphanus sativus var. incarnatus Sazonova",
-    "Raphanus sativus var. julianus Alef.",
-    "Raphanus sativus var. leucoplax Alef.",
-    "Raphanus sativus var. lobo Sazonova & Stank.",
-    "Raphanus sativus var. longipinnatus L.H.Bailey",
-    "Raphanus sativus var. melanoplax Alef.",
-    "Raphanus sativus var. melanops Alef.",
-    "Raphanus sativus var. minor J.Kern.",
-    "Raphanus sativus var. mougri H.W.J.Helm",
-    "Raphanus sativus var. napiformis (Mill.)",
-    "Raphanus sativus var. niger (Mill.) J.Kern.",
-    "Raphanus sativus var. nonpinnatus L.H.Bailey",
-    "Raphanus sativus var. oblongus Gaudin",
-    "Raphanus sativus var. oleifer Stokes",
-    "Raphanus sativus var. oleiformis Pers.",
-    "Raphanus sativus var. parvipinnatus L.H.Bailey",
-    "Raphanus sativus var. praecox Alef.",
-    "Raphanus sativus var. purpureus Alef.",
-    "Raphanus sativus var. radicula Pers.",
-    "Raphanus sativus var. raphanistroides (Makino) Makino",
-    "Raphanus sativus var. roseus Sazonova",
-    "Raphanus sativus var. rotundus Gaudin",
-    "Raphanus sativus var. rotundus Gaudin",
-    "Raphanus sativus var. rotundus Stokes",
-    "Raphanus sativus var. rubidus Sazonova",
-    "Raphanus sativus var. salmoneus Alef.",
-    "Raphanus sativus var. scarlatinosus Alef.",
-    "Raphanus sativus var. syrengeus Sazonova",
-    "Raphanus sativus var. tristis Alef.",
-    "Raphanus sativus var. violaceus Alef.",
-    "Raphanus sativus var. virens Sazonova",
-    "Raphanus sativus var. vitreus Alef.",
-    "Raphanus sativus var. vulgaris Gaudin",
-    "Raphanus sinensis Thunb. ex Pritz.",
-    "Raphanus stenocarpus Kitag.",
-    "Raphanus taquetii H.Lév."
-  ],
-  "familyName": "BRASSICACEAE",
-  "englishNames": [
-    "Radish",
-    "Garden Radish",
-    "Wild Radish",
-    "Cultivated Radish"
-  ],
-  "sinhalaName": "Rabu (රාබු )",
-  "description": "මෙය වාර්ෂික හෝ ද්විවාර්ෂික පැළෑටියකි. ගෙවතු එළවළුවක් ලෙස වගා කරන මෙය ඉතා විචල්‍යතාවයකින් යුත් විශේෂයකි. පරිණත වූ විට සෙන්ටිමීටර 10කට වඩා මඳක් වැඩි උසකින් යුක්ත වන අතර, දෙවන වර්ධන සමයේදී මීටර් 1.8කට වඩා උසට වැඩේ. ළපටි අවස්ථාවේදී අස්වනු නෙළා සාමාන්‍යයෙන් අමුවෙන් ආහාරයට ගනු ලැබේ. අනෙකුත් රාබු වර්ග රාත්තල් 60 (කිලෝග්‍රෑම් 27) දක්වා විශාල විය හැක. පුෂ්ප මංජරිය (Inflorescences) මීටර් 1.5ක් දක්වා උස වේ. මල් සුදු, රෝස හෝ දම් පැහැතිය. පලය දෑකැත්තක හැඩැති කරලක් (sickle shaped pod) වන අතර එය සෙන්ටිමීටර 5-30ක් දිගය. බීජ කුඩා සහ ගෝලාකාර (spherical) වේ.",
-  "treatments": [
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Raphanus raphanistrum subsp. sativus (L.) Domin",
+    "synonyms": [
+        "Raphanistrum gayanum Fisch. & C.A.Mey.",
+        "Raphanus acanthiformis Morel ex L.Sisley",
+        "Raphanus acanthiformis var. raphanistroides (Makino) Hara",
+        "Raphanus candidus Vorosch.",
+        "Raphanus caudatus L.",
+        "Raphanus caudatus L.f.",
+        "Raphanus chinensis Mill.",
+        "Raphanus gayanus (Fisch. & C.A.Mey.) G.Don",
+        "Raphanus indicus Sinskaya",
+        "Raphanus macropodus H.Lév.",
+        "Raphanus macropodus var. spontaneus Nakai",
+        "Raphanus niger Mill.",
+        "Raphanus niger var. albus DC.",
+        "Raphanus niger var. vulgaris DC.",
+        "Raphanus oleifer Steud.",
+        "Raphanus orbicularis Mill.",
+        "Raphanus radicula Pers.",
+        "Raphanus radicula var. oblongus DC.",
+        "Raphanus radicula var. oleifera DC.",
+        "Raphanus radicula var. rotundus (Mill.) DC.",
+        "Raphanus raphanistrum subsp. caudatus (L.) Thell.",
+        "Raphanus raphanistrum subvar. niger (Mill.) Thell.",
+        "Raphanus raphanistrum var. sativus (L.) Beck",
+        "Raphanus rotundus Mill.",
+        "Raphanus sativus convar. esculentus (Metzg.) Alef.",
+        "Raphanus sativus convar. hybernus (Alef.) Sazonova",
+        "Raphanus sativus convar. minowase (Kitam.) Sazonova",
+        "Raphanus sativus convar. oleifer Alef.",
+        "Raphanus sativus convar. radicula (Pers.) Sazonova",
+        "Raphanus sativus f. albescens (Makino) M.Hiroe",
+        "Raphanus sativus f. esculentus (Metzg.) M.Hiroe",
+        "Raphanus sativus f. exsuccus (Thell.) M.Hiroe",
+        "Raphanus sativus f. raphanistroides Makino",
+        "Raphanus sativus L.",
+        "Raphanus sativus subf. niger (Mill.) M.Hiroe",
+        "Raphanus sativus subf. oleifer (DC.) M.Hiroe",
+        "Raphanus sativus subf. silvester (W.D.J.Koch) M.Hiroe",
+        "Raphanus sativus subsp. acanthiformis (Morel ex L.Sisley) Stank.",
+        "Raphanus sativus subsp. esculentus Metzg.",
+        "Raphanus sativus subsp. niger (Mill.) Lej. & Courtois",
+        "Raphanus sativus subsp. oleifer (Stokes) Metzg.",
+        "Raphanus sativus subsp. radicula (Pers.) Lej. & Courtois",
+        "Raphanus sativus subsp. sinensis Sazonova & Stank.",
+        "Raphanus sativus var. aka-daikon (Kitam.) Sazonova",
+        "Raphanus sativus var. albus Alef.",
+        "Raphanus sativus var. augustanus Alef.",
+        "Raphanus sativus var. autumnalis Alef.",
+        "Raphanus sativus var. brunneus Alef.",
+        "Raphanus sativus var. carneus Alef.",
+        "Raphanus sativus var. caudatus (L.) Alef.",
+        "Raphanus sativus var. chinensis (Mill.) Boenn.",
+        "Raphanus sativus var. chloris Alef.",
+        "Raphanus sativus var. crininus Alef.",
+        "Raphanus sativus var. fusiformis Stokes",
+        "Raphanus sativus var. griseus Alef.",
+        "Raphanus sativus var. hortensis Backer",
+        "Raphanus sativus var. incarnatus Sazonova",
+        "Raphanus sativus var. julianus Alef.",
+        "Raphanus sativus var. leucoplax Alef.",
+        "Raphanus sativus var. lobo Sazonova & Stank.",
+        "Raphanus sativus var. longipinnatus L.H.Bailey",
+        "Raphanus sativus var. melanoplax Alef.",
+        "Raphanus sativus var. melanops Alef.",
+        "Raphanus sativus var. minor J.Kern.",
+        "Raphanus sativus var. mougri H.W.J.Helm",
+        "Raphanus sativus var. napiformis (Mill.)",
+        "Raphanus sativus var. niger (Mill.) J.Kern.",
+        "Raphanus sativus var. nonpinnatus L.H.Bailey",
+        "Raphanus sativus var. oblongus Gaudin",
+        "Raphanus sativus var. oleifer Stokes",
+        "Raphanus sativus var. oleiformis Pers.",
+        "Raphanus sativus var. parvipinnatus L.H.Bailey",
+        "Raphanus sativus var. praecox Alef.",
+        "Raphanus sativus var. purpureus Alef.",
+        "Raphanus sativus var. radicula Pers.",
+        "Raphanus sativus var. raphanistroides (Makino) Makino",
+        "Raphanus sativus var. roseus Sazonova",
+        "Raphanus sativus var. rotundus Gaudin",
+        "Raphanus sativus var. rotundus Gaudin",
+        "Raphanus sativus var. rotundus Stokes",
+        "Raphanus sativus var. rubidus Sazonova",
+        "Raphanus sativus var. salmoneus Alef.",
+        "Raphanus sativus var. scarlatinosus Alef.",
+        "Raphanus sativus var. syrengeus Sazonova",
+        "Raphanus sativus var. tristis Alef.",
+        "Raphanus sativus var. violaceus Alef.",
+        "Raphanus sativus var. virens Sazonova",
+        "Raphanus sativus var. vitreus Alef.",
+        "Raphanus sativus var. vulgaris Gaudin",
+        "Raphanus sinensis Thunb. ex Pritz.",
+        "Raphanus stenocarpus Kitag.",
+        "Raphanus taquetii H.Lév."
+    ],
+    "familyName": "BRASSICACEAE",
+    "englishNames": [
+        "Radish",
+        "Garden Radish",
+        "Wild Radish",
+        "Cultivated Radish"
+    ],
+    "sinhalaName": "Rabu (රාබු )",
+    "description": "මෙය වාර්ෂික හෝ ද්විවාර්ෂික පැළෑටියකි. ගෙවතු එළවළුවක් ලෙස වගා කරන මෙය ඉතා විචල්‍යතාවයකින් යුත් විශේෂයකි. පරිණත වූ විට සෙන්ටිමීටර 10කට වඩා මඳක් වැඩි උසකින් යුක්ත වන අතර, දෙවන වර්ධන සමයේදී මීටර් 1.8කට වඩා උසට වැඩේ. ළපටි අවස්ථාවේදී අස්වනු නෙළා සාමාන්‍යයෙන් අමුවෙන් ආහාරයට ගනු ලැබේ. අනෙකුත් රාබු වර්ග රාත්තල් 60 (කිලෝග්‍රෑම් 27) දක්වා විශාල විය හැක. පුෂ්ප මංජරිය (Inflorescences) මීටර් 1.5ක් දක්වා උස වේ. මල් සුදු, රෝස හෝ දම් පැහැතිය. පලය දෑකැත්තක හැඩැති කරලක් (sickle shaped pod) වන අතර එය සෙන්ටිමීටර 5-30ක් දිගය. බීජ කුඩා සහ ගෝලාකාර (spherical) වේ.",
+    "treatments": [
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Abdominal Pain",
+            "sinhala": "උදර වේදනාව (බඩේ කැක්කුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burns and Scalds",
+            "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Leaves",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "1245",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/gbBmzQQ1/plant00268-01245.jpg"
+        },
+        {
+            "image_id": "980",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/Kx6ym5h4/plant00268-00980.jpg"
+        },
+        {
+            "image_id": "1246",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/CKrwj14Q/plant00268-01246.jpg"
+        },
+        {
+            "image_id": "1247",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/d4bLZYw8/plant00268-01247.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "රාබු වල විශ්මිත ගුණ - Amazing properties of radish",
+                "url": "https://youtube.com/watch?v=800TgsDzqRU",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/800TgsDzqRU/hq720.jpg"
+            },
+            {
+                "title": "මෙන්න මේ අය රාබු කන්න එපා : Radish Negative Effects (2019)",
+                "url": "https://youtube.com/watch?v=ulR-PaX98ww",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/ulR-PaX98ww/hq720.jpg"
+            },
+            {
+                "title": "Radish Negative Effects | මෙන්න මේ අය රාබු කන්න එපා",
+                "url": "https://youtube.com/watch?v=OuUamk8Sk0g",
+                "duration": "1:29",
+                "thumbnail": "https://i.ytimg.com/vi/OuUamk8Sk0g/hq720.jpg"
+            },
+            {
+                "title": "රාබු කෑවොත් වෙන දේ මෙන්න : Benefits of Radish (in 2018)",
+                "url": "https://youtube.com/watch?v=NcDYduZb0jM",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/NcDYduZb0jM/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රාශය පිරිසුදු කරන රාබු (rabu)වල විශ්මිත ගුණ😲😲",
+                "url": "https://youtube.com/watch?v=63x7QJIYrC8",
+                "duration": "4:16",
+                "thumbnail": "https://i.ytimg.com/vi/63x7QJIYrC8/hq720.jpg"
+            },
+            {
+                "title": "රාබු (Ravanello)  යුද්දේ | Rabu yudde | Radish War - Part 1 - by Indu Kitchen SL",
+                "url": "https://youtube.com/watch?v=J-_V1LSJOBI",
+                "duration": "6:57",
+                "thumbnail": "https://i.ytimg.com/vi/J-_V1LSJOBI/hq720.jpg"
+            },
+            {
+                "title": "රාබු කොළ සලාදය | Radish Leaf Salad from my garden | Raw Radish Greens Salad",
+                "url": "https://youtube.com/watch?v=iYO1ubHEFqs",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/iYO1ubHEFqs/hq720.jpg"
+            },
+            {
+                "title": "✔️රාබු කරිය පොල් කිරි වතුර නොදා රසට උයන වෙනස්ම විදිහ|rabu curry|rabu thel dala|rabu kirata|Radish",
+                "url": "https://youtube.com/watch?v=pkZEi8Do2RM",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/pkZEi8Do2RM/hq720.jpg"
+            },
+            {
+                "title": "කෑම රුචිය හා මුත්‍රා වඩන රාබු කොළ සම්බෝලය |Rabu/Raddish Leaf Sambal|රාබු කොළ ගුණ| Gami Sirikatha",
+                "url": "https://youtube.com/watch?v=dgDcPWsdUSQ",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/dgDcPWsdUSQ/hqdefault.jpg"
+            },
+            {
+                "title": "Radish curry (රාබු ) #radishrecipes #radishbenefits #radish #curry",
+                "url": "https://youtube.com/watch?v=ZoHnr1sYq4g",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/ZoHnr1sYq4g/hq720.jpg"
+            },
+            {
+                "title": "Radish Sambol : රාබු සම්බෝල",
+                "url": "https://youtube.com/watch?v=ovFCh0Wve8k",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/ovFCh0Wve8k/hqdefault.jpg"
+            },
+            {
+                "title": "නොකන අයත් ඉල්ල ඉල්ලා කන්න මේ විදිහට රාබු තෙල් දන්න/Rabu Recipe Sinhala/Radish Curry/Rabu Thelata",
+                "url": "https://youtube.com/watch?v=B9n8ZUQz2iM",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/B9n8ZUQz2iM/hq720.jpg"
+            },
+            {
+                "title": "රාබු කන්නෙම නැද්ද? මේ විදියට හැදුවොත් මස්, මාළු ඕන වෙන්නෑ | Raabu Thel Dala | Radish Stir-Fry",
+                "url": "https://youtube.com/watch?v=QbXjIjXlEPI",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/QbXjIjXlEPI/hq720.jpg"
+            },
+            {
+                "title": "රාබු උයන රසම රස ක්‍රම දෙකක් | rabu curry | bath mulata curry warga | radish recipe | rabu thelata",
+                "url": "https://youtube.com/watch?v=7nTZBARilZk",
+                "duration": "11:41",
+                "thumbnail": "https://i.ytimg.com/vi/7nTZBARilZk/hq720.jpg"
+            },
+            {
+                "title": "රාබු වගාව   Radish Cultivation rabu wagawa gewathu wagawa ගෙවතු වගාව Home gardening sinhala srilanka",
+                "url": "https://youtube.com/watch?v=9ahjjaietWM",
+                "duration": "13:28",
+                "thumbnail": "https://i.ytimg.com/vi/9ahjjaietWM/hqdefault.jpg"
+            },
+            {
+                "title": "Radish tuber Sambol රාබු අල සම්බෝලය @GAMIRASA",
+                "url": "https://youtube.com/watch?v=rpGE_r1G2Eg",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/rpGE_r1G2Eg/hq720.jpg"
+            },
+            {
+                "title": "රාබු ගන්නෙ කඩෙන්ද? මේ විදියට හිටවන්න How to Grow Radish | Ceylon Agri | Episode 302",
+                "url": "https://youtube.com/watch?v=mWwKhhLsshk",
+                "duration": "9:41",
+                "thumbnail": "https://i.ytimg.com/vi/mWwKhhLsshk/hq720.jpg"
+            },
+            {
+                "title": "මාස දෙකෙන් රාබු කන්න - මේ විදියට පැල කරන්න.  Growing radish in just 2 months (updated for 2020)",
+                "url": "https://youtube.com/watch?v=cD46K9mmyvo",
+                "duration": "6:00",
+                "thumbnail": "https://i.ytimg.com/vi/cD46K9mmyvo/hq720.jpg"
+            },
+            {
+                "title": "අලුත් ක්‍රමයට හල්මස්සෝ දාලා හදන රාබු තෙම්පරාදුවක් | Radish And Dry Fish Tempered | Rabu Themparaduwa",
+                "url": "https://youtube.com/watch?v=PqkFetw3Cpc",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/PqkFetw3Cpc/hq720.jpg"
+            },
+            {
+                "title": "නොකන අයත් ඉල්ල ඉල්ලා කන්න මේ විදිහට රාබු තෙල් දන්න/Rabu Recipe Sinhala/Radish Curry/Rabu Thelata",
+                "url": "https://youtube.com/watch?v=-B-q4dUm3Sk",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/-B-q4dUm3Sk/frame0.jpg"
+            },
+            {
+                "title": "හදවත රකින සූදුරු .  සූදුරු  වල ඇති ආයුර්වේදීය ගුණ .",
+                "url": "https://youtube.com/watch?v=Ty2rR_aZVDY",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ty2rR_aZVDY/hq720.jpg"
+            },
+            {
+                "title": "එරබදු ඔසු ගුණ . රෝගාබාධ රැසකට සුව ගෙනෙන එරබදු .",
+                "url": "https://youtube.com/watch?v=-e0-joCS_xY",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/-e0-joCS_xY/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "රසකිද වල ඖෂධීය ගුණ/Rasakinda Wala aushadeeya guna",
+                "url": "https://youtube.com/watch?v=BWqC5vJIdMo",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/BWqC5vJIdMo/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "Nugasewana රාබුවල ගුණ දැනගමු | 2021-07-20 |Rupavahini",
+                "url": "https://youtube.com/watch?v=P62h4PzKLE4",
+                "duration": "11:00",
+                "thumbnail": "https://i.ytimg.com/vi/P62h4PzKLE4/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "රතු ළූණු වල ඇති කවුරුත් නොදන්න විශ්මිත ගුණ - Amazing quality of red onion for a healthy life",
+                "url": "https://youtube.com/watch?v=wD24UUt56Ic",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/wD24UUt56Ic/hq720.jpg"
+            },
+            {
+                "title": "උදේට පාන් එපා මෙන්න රක්තහීනතාවයට ගුණ ලේ වඩවන පානයන් 2ක් | මේක බිව්වම කන්න ඕනත් නෑ | le wadawana kama",
+                "url": "https://youtube.com/watch?v=cl3XLpXplVQ",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/cl3XLpXplVQ/hq720.jpg"
+            },
+            {
+                "title": "Rambai fruit benefits : ගඩුගුඩා ඇත්තටම හොඳද",
+                "url": "https://youtube.com/watch?v=dpvbUYqGkWU",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/dpvbUYqGkWU/hq720.jpg"
+            },
+            {
+                "title": "බීට්රූට් යුෂ බොන අයගේ ශරීරයට සිදුවන පුදුම හිතෙන දේවල් 7ක් - 7 Health Benefits of Drinking Beet Juice",
+                "url": "https://youtube.com/watch?v=02rCtdWXXTI",
+                "duration": "10:07",
+                "thumbnail": "https://i.ytimg.com/vi/02rCtdWXXTI/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "10 Health Benefits Of Rutabaga",
+                "url": "https://youtube.com/watch?v=lA8BFiIDXj8",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/lA8BFiIDXj8/hq720.jpg"
+            },
+            {
+                "title": "11 Health Benefits of Rhubarb",
+                "url": "https://youtube.com/watch?v=kQ3WGIHPwxQ",
+                "duration": "6:30",
+                "thumbnail": "https://i.ytimg.com/vi/kQ3WGIHPwxQ/hq720.jpg"
+            },
+            {
+                "title": "Amazing Arugula: 6 Benefits",
+                "url": "https://youtube.com/watch?v=veel2QMC-Xc",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/veel2QMC-Xc/hq720.jpg"
+            },
+            {
+                "title": "6 Amazing Health Benefits Of Rhubarb",
+                "url": "https://youtube.com/watch?v=xVf_a2d6Vbk",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/xVf_a2d6Vbk/hqdefault.jpg"
+            },
+            {
+                "title": "Rhodiola Root's Many Health Benefits",
+                "url": "https://youtube.com/watch?v=TZxyTIlXGYk",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/TZxyTIlXGYk/hq720.jpg"
+            },
+            {
+                "title": "3 Amazing Health Benefits of Radish – Dr.Berg",
+                "url": "https://youtube.com/watch?v=Bo9yeFUEhjc",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/Bo9yeFUEhjc/hq720.jpg"
+            },
+            {
+                "title": "8 Things About Arugula Greens - Rocket Lettuce Nutrition",
+                "url": "https://youtube.com/watch?v=DkVQINORQdA",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/DkVQINORQdA/hq720.jpg"
+            },
+            {
+                "title": "Broccoli Rabe Health Benefits | 10 Amazing Health Benefits of Broccoli Rabe | Dr. Eilbra Younan",
+                "url": "https://youtube.com/watch?v=OuG8OwtHqsE",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/OuG8OwtHqsE/hq720.jpg"
+            },
+            {
+                "title": "Rhubarb recipes and benefits : මොනවද මේ රුබාබ්",
+                "url": "https://youtube.com/watch?v=SOtmQ_k9HYA",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/SOtmQ_k9HYA/hq720.jpg"
+            },
+            {
+                "title": "10 Health Benefits Of Rutabaga",
+                "url": "https://youtube.com/watch?v=FdcwgfXMkEc",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/FdcwgfXMkEc/frame0.jpg"
+            },
+            {
+                "title": "රාබු මේ විදිහට හදලා බලන්නකෝ | rabu thel dala | rabu recipe",
+                "url": "https://youtube.com/watch?v=YIC3jYg2DPs",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/YIC3jYg2DPs/hq720.jpg"
+            },
+            {
+                "title": "රාබු වගාව මුල සිට සරලවම #cultivation#of#radish#sl#green#garden",
+                "url": "https://youtube.com/watch?v=MTuRwzV7fpk",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/MTuRwzV7fpk/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්තේ ලේසියෙන් රාබු වවන විදිහ | How to Grow Radish in Home Gardening | Rabu wagawa |  රාබු වගාව",
+                "url": "https://youtube.com/watch?v=kYNKl3Iw7TI",
+                "duration": "16:01",
+                "thumbnail": "https://i.ytimg.com/vi/kYNKl3Iw7TI/hq720.jpg"
+            },
+            {
+                "title": "රාබු වගාව කාබනිකව කරන්නේ කොහොමද How to grow radish organically කාබනික ගෙවතුවගාව Organic gardening",
+                "url": "https://youtube.com/watch?v=ulEqNw9LCMo",
+                "duration": "21:59",
+                "thumbnail": "https://i.ytimg.com/vi/ulEqNw9LCMo/hq720.jpg"
+            },
+            {
+                "title": "රාබු වගාව Rabu wagawa | Radish cultivation | Gewathu wagawa | ගෙවතු වගාව",
+                "url": "https://youtube.com/watch?v=2QVJ_Ofk0zQ",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/2QVJ_Ofk0zQ/hq720.jpg"
+            },
+            {
+                "title": "අධිරුධිර පීඩනය විනාඩියෙන් සුව කරන, මහබඩවැල් පිළිකා වලක්වන ඖෂධ රාජයා | tea for high blood pressure",
+                "url": "https://youtube.com/watch?v=fiofFmTpGJE",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/fiofFmTpGJE/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Abdominal Pain",
-      "sinhala": "උදර වේදනාව (බඩේ කැක්කුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Burns and Scalds",
-      "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Leaves",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "1245",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/gbBmzQQ1/plant00268-01245.jpg"
-    },
-    {
-      "image_id": "980",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/Kx6ym5h4/plant00268-00980.jpg"
-    },
-    {
-      "image_id": "1246",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/CKrwj14Q/plant00268-01246.jpg"
-    },
-    {
-      "image_id": "1247",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/d4bLZYw8/plant00268-01247.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

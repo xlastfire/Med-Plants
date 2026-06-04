@@ -1,139 +1,246 @@
 {
-  "scientificName": "Psophocarpus tetragonolobus (L.) DC.",
-  "synonyms": [
-    "Botor tetragonoloba (L.) Kuntze",
-    "Dolichos ovatus Graham",
-    "Dolichos tetragonolobus L.",
-    "Psophocarpus tetragonolobus var. aequalis Hassk.",
-    "Psophocarpus tetragonolobus var. macrocarpus Hassk.",
-    "Psophocarpus tetragonolobus var. micropterus Hassk."
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Asparagus Bean",
-    "Princess Bean",
-    "Winged Bean",
-    "Winged Pea",
-    "Goa Bean",
-    "Manila Bean",
-    "Prince's Pea",
-    "Dambala",
-    "Four Angled Bean"
-  ],
-  "sinhalaName": "Dara dambala (දාර දඹල)",
-  "description": "පැටලෙන සුළු, ආරෝහක වැල් වර්ගයකි; කඳ සිලින්ඩරාකාර (terete) වන අතර රෝම රහිත (glabrous) වේ. පත්‍ර පක්ෂාකාරව පත්‍රිකා තුනකින් යුක්ත වන අතර (pinnately trifoliate), පත්‍ර අක්ෂය (rachis) සෙන්ටිමීටර 2-5ක් දිගය, පත්‍ර වෘන්තය (petiole) පත්‍ර අක්ෂය මෙන් 3-4 ගුණයක් දිගු වේ, පත්‍රිකා සෙන්ටිමීටර 6-14.5 x 3-9 ප්‍රමාණයෙන් යුක්ත වේ. පුෂ්ප මංජරිය සෙන්ටිමීටර 15ක් පමණ දිග වන අතර මල් 1-2කින් සමන්විත වේ. මල් සෙන්ටිමීටර 3ක් පමණ දිගය. පල සෙන්ටිමීටර 18 x 3 ප්‍රමාණයෙන් යුක්ත වන අතර රෝම රහිත (glabrous) වේ, එක් එක් පියාපත මිලිමීටර 5-15ක් පළලය. බීජ මිලිමීටර 6 x 5 පමණ වේ.",
-  "treatments": [
-    {
-      "treatment": "Ear Diseases",
-      "sinhala": "කන් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Psophocarpus tetragonolobus (L.) DC.",
+    "synonyms": [
+        "Botor tetragonoloba (L.) Kuntze",
+        "Dolichos ovatus Graham",
+        "Dolichos tetragonolobus L.",
+        "Psophocarpus tetragonolobus var. aequalis Hassk.",
+        "Psophocarpus tetragonolobus var. macrocarpus Hassk.",
+        "Psophocarpus tetragonolobus var. micropterus Hassk."
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Asparagus Bean",
+        "Princess Bean",
+        "Winged Bean",
+        "Winged Pea",
+        "Goa Bean",
+        "Manila Bean",
+        "Prince's Pea",
+        "Dambala",
+        "Four Angled Bean"
+    ],
+    "sinhalaName": "Dara dambala (දාර දඹල)",
+    "description": "පැටලෙන සුළු, ආරෝහක වැල් වර්ගයකි; කඳ සිලින්ඩරාකාර (terete) වන අතර රෝම රහිත (glabrous) වේ. පත්‍ර පක්ෂාකාරව පත්‍රිකා තුනකින් යුක්ත වන අතර (pinnately trifoliate), පත්‍ර අක්ෂය (rachis) සෙන්ටිමීටර 2-5ක් දිගය, පත්‍ර වෘන්තය (petiole) පත්‍ර අක්ෂය මෙන් 3-4 ගුණයක් දිගු වේ, පත්‍රිකා සෙන්ටිමීටර 6-14.5 x 3-9 ප්‍රමාණයෙන් යුක්ත වේ. පුෂ්ප මංජරිය සෙන්ටිමීටර 15ක් පමණ දිග වන අතර මල් 1-2කින් සමන්විත වේ. මල් සෙන්ටිමීටර 3ක් පමණ දිගය. පල සෙන්ටිමීටර 18 x 3 ප්‍රමාණයෙන් යුක්ත වන අතර රෝම රහිත (glabrous) වේ, එක් එක් පියාපත මිලිමීටර 5-15ක් පළලය. බීජ මිලිමීටර 6 x 5 පමණ වේ.",
+    "treatments": [
+        {
+            "treatment": "Ear Diseases",
+            "sinhala": "කන් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Tumors",
+            "sinhala": "ගෙඩි / අර්බුද",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seed"
+    ],
+    "images": [
+        {
+            "image_id": "276",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/2VTV21Z/plant00657-00276.jpg"
+        },
+        {
+            "image_id": "277",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/GfVrmDDV/plant00657-00277.jpg"
+        },
+        {
+            "image_id": "278",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/hFBy7pSb/plant00657-00278.jpg"
+        },
+        {
+            "image_id": "3671",
+            "caption": "Flower Bud (PMR)",
+            "url": "https://i.ibb.co/GvXdKWY1/plant00657-03671.jpg"
+        },
+        {
+            "image_id": "3672",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/1YP997SX/plant00657-03672.jpg"
+        },
+        {
+            "image_id": "3673",
+            "caption": "Compund Leaf - upper surface  (PMR)",
+            "url": "https://i.ibb.co/70mmWCJ/plant00657-03673.jpg"
+        },
+        {
+            "image_id": "3674",
+            "caption": "Compund Leaf - lower surface  (PMR)",
+            "url": "https://i.ibb.co/6Jm1W7Rh/plant00657-03674.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "දඹල | Winged Bean | PODCAST | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=nwEJVYkpnLI",
+                "duration": "7:47",
+                "thumbnail": "https://i.ytimg.com/vi/nwEJVYkpnLI/hq720.jpg"
+            },
+            {
+                "title": "දඹල, Dabala,winged bean.",
+                "url": "https://youtube.com/watch?v=AACSWcBdYW0",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/AACSWcBdYW0/hq720.jpg"
+            },
+            {
+                "title": "දඹල කෑවම වෙන දේ දන්නවා ද : Benefits of Wing Beans",
+                "url": "https://youtube.com/watch?v=axgp4pAxYnE",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/axgp4pAxYnE/hq720.jpg"
+            },
+            {
+                "title": "#Winged_Bean ( දඹල වගාව )",
+                "url": "https://youtube.com/watch?v=WBnPeHiaBB0",
+                "duration": "16:17",
+                "thumbnail": "https://i.ytimg.com/vi/WBnPeHiaBB0/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තටම දඹල වල ප්‍රෝටීන් තියෙනවද? | Winged Bean By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=SCji-ot3wcM",
+                "duration": "10:06",
+                "thumbnail": "https://i.ytimg.com/vi/SCji-ot3wcM/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රෙෂර් එක, දියවැඩියාව මට්ටු කරන දඹල වල ඇති අරුම පුදුම ගුණ...",
+                "url": "https://youtube.com/watch?v=JetUn8uQW-c",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/JetUn8uQW-c/hqdefault.jpg"
+            },
+            {
+                "title": "winged cultivation දඹල වගාව ගෙවතු වගාව කාබනික වගාව .dabala wagawa Home gardening Organic cultivation",
+                "url": "https://youtube.com/watch?v=P0QCWf9Ipd4",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/P0QCWf9Ipd4/hq720.jpg"
+            },
+            {
+                "title": "“රෝග රැසකට ගුණ!”ඖෂධීය ගුණයෙන් යුතු දඹල සම්බලය",
+                "url": "https://youtube.com/watch?v=spzUIwoHB-M",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/spzUIwoHB-M/hqdefault.jpg"
+            },
+            {
+                "title": "The unimaginable properties of dambala vegetable  - දඹල කන්නේ නැති අය බලන්න එපා",
+                "url": "https://youtube.com/watch?v=eYCjg_0wrC4",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/eYCjg_0wrC4/hq720.jpg"
+            },
+            {
+                "title": "දඹල වල ගුණ | Dambala wala guna | Winged beans | Psophocarpus tetragonolobus | Sakalawaga",
+                "url": "https://youtube.com/watch?v=NsU9VA8rr2I",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/NsU9VA8rr2I/hqdefault.jpg"
+            },
+            {
+                "title": "\"ගුණයෙන් සපිරි රසවත් දඹල ව්‍යාංජනයක් සාදාගමු\" | ආරෝග්‍යා | iTV SriLanka",
+                "url": "https://youtube.com/watch?v=cRMH2143LZ4",
+                "duration": "18:50",
+                "thumbnail": "https://i.ytimg.com/vi/cRMH2143LZ4/hq720.jpg"
+            },
+            {
+                "title": "කරල් බර උන සරුසාර දඹල වැලක් හදාගන්න සියලු රහස් ඇතුලත් විශේෂ වීඩියෝව",
+                "url": "https://youtube.com/watch?v=AaamuMKA9Hs",
+                "duration": "18:08",
+                "thumbnail": "https://i.ytimg.com/vi/AaamuMKA9Hs/hqdefault.jpg"
+            },
+            {
+                "title": "දඹල හැදෙන්නේ මෙහෙමයි",
+                "url": "https://youtube.com/watch?v=NVzzHdTSoa4",
+                "duration": "10:35",
+                "thumbnail": "https://i.ytimg.com/vi/NVzzHdTSoa4/hqdefault.jpg"
+            },
+            {
+                "title": "අවුරුද්ද පුරා අස්වැන්න දෙන යාර දඹල | Haritha Tv | Yara Dambala",
+                "url": "https://youtube.com/watch?v=vtOMLTluGWY",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/vtOMLTluGWY/hq720.jpg"
+            },
+            {
+                "title": "දඹල වගාව බිජ සිටවිමේ සිට අස්වැන්න  How to grow winged bean දබල dabala wagawa சிறகு கொண்ட பீன் வளர",
+                "url": "https://youtube.com/watch?v=74UqaQ_aR1g",
+                "duration": "17:56",
+                "thumbnail": "https://i.ytimg.com/vi/74UqaQ_aR1g/hq720.jpg"
+            },
+            {
+                "title": "දඹල ශාකය ශරීරයට වගේම තවත් දේවල් රැසකට ඵල ප්‍ර‍යෝජන බොහෝමයක් ලබාගන්න පුලුවන් වටිනා ශාකයක්.",
+                "url": "https://youtube.com/watch?v=rWPe4Ois9tw",
+                "duration": "8:43",
+                "thumbnail": "https://i.ytimg.com/vi/rWPe4Ois9tw/hq720.jpg"
+            },
+            {
+                "title": "දඹල වගාව,winged bean#shorts",
+                "url": "https://youtube.com/watch?v=Gg6g6TSkhZ4",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/Gg6g6TSkhZ4/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Tumors",
-      "sinhala": "ගෙඩි / අර්බුද",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seed"
-  ],
-  "images": [
-    {
-      "image_id": "276",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/2VTV21Z/plant00657-00276.jpg"
-    },
-    {
-      "image_id": "277",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/GfVrmDDV/plant00657-00277.jpg"
-    },
-    {
-      "image_id": "278",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/hFBy7pSb/plant00657-00278.jpg"
-    },
-    {
-      "image_id": "3671",
-      "caption": "Flower Bud (PMR)",
-      "url": "https://i.ibb.co/GvXdKWY1/plant00657-03671.jpg"
-    },
-    {
-      "image_id": "3672",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/1YP997SX/plant00657-03672.jpg"
-    },
-    {
-      "image_id": "3673",
-      "caption": "Compund Leaf - upper surface  (PMR)",
-      "url": "https://i.ibb.co/70mmWCJ/plant00657-03673.jpg"
-    },
-    {
-      "image_id": "3674",
-      "caption": "Compund Leaf - lower surface  (PMR)",
-      "url": "https://i.ibb.co/6Jm1W7Rh/plant00657-03674.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

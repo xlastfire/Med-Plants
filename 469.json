@@ -1,40 +1,429 @@
 {
-  "scientificName": "Eriocaulon quinquangulare L.",
-  "synonyms": [
-    "Sphaerochloa quinquangularis (L.) P.Beauv. ex Desv."
-  ],
-  "familyName": "ERIOCAULACEAE",
-  "englishNames": [
-    "Five Angled Pipewort"
-  ],
-  "sinhalaName": "Heen kokmota (හීන් කොක්මොට)",
-  "description": "සිහින් පඳුරු ලෙස වැඩෙන වාර්ෂික ශාකයකි. පත්‍ර රේඛීය (linear) සිට කඩුවක හැඩැති (ensiform) දක්වා වන අතර, දිග සෙ.මී. 2-10 ක් සහ පළල මි.මී. 1.5-4 ක් වේ. පත්‍ර තුනී වන අතර පරතරයකින් යුත් නහර සහිතය, ජාලාකාර (fenestrate) පෙනුමකින් යුක්තය, අග්‍රය උල්වූ (acute) ස්වභාවයක් ගනී. මේරූ පසු පත්‍ර වියළී ගොස් මධ්‍යයේ ඇති පුෂ්ප දණ්ඩ ආවරණ (scape-sheaths) නිරාවරණය වේ. පුෂ්ප දණ්ඩ නූල් වැනි (filiform) වන අතර ඉළ ඇට 5-6 කින් යුක්තය; ආවරණ ලිහිල් සහ කඩදාසි වැනි (papery) වන අතර පත්‍රවලට වඩා කෙටි සහ තරමක් උල්වූ (subacute) ස්වභාවයක් ගනී. පුෂ්ප මංජරිය ගෝලාකාර (globose) වන අතර අපිරිසිදු සුදු පැහැතිය, මේරූ පසු පාදස්ථය ඇතුළට නෙරා ගිය (intruded) ස්වභාවයක් ගනී. මල් ත්‍රි-අවයවික (3-merous) වන අතර, සුදුමැලි පැහැති, දිග මි.මී. 1.3-1.6 ක් වන අතර කෙටි රෝම රහිත (glabrous) වෘන්තයක් මත පිහිටයි. බීජ දිග මි.මී. 0.3-0.4 ක් වන අතර, ලා කහ පැහැතිය, දිලිසෙන සුළුය සහ ඉතා සියුම් දැල් වැනි රටාවකින් (reticulate) යුක්තය.",
-  "treatments": [
-    {
-      "treatment": "Infertility",
-      "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole plant"
-  ],
-  "images": [
-    {
-      "image_id": "1413",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/KpmvrvyS/plant00469-01413.jpg"
+    "scientificName": "Eriocaulon quinquangulare L.",
+    "synonyms": [
+        "Sphaerochloa quinquangularis (L.) P.Beauv. ex Desv."
+    ],
+    "familyName": "ERIOCAULACEAE",
+    "englishNames": [
+        "Five Angled Pipewort"
+    ],
+    "sinhalaName": "Heen kokmota (හීන් කොක්මොට)",
+    "description": "සිහින් පඳුරු ලෙස වැඩෙන වාර්ෂික ශාකයකි. පත්‍ර රේඛීය (linear) සිට කඩුවක හැඩැති (ensiform) දක්වා වන අතර, දිග සෙ.මී. 2-10 ක් සහ පළල මි.මී. 1.5-4 ක් වේ. පත්‍ර තුනී වන අතර පරතරයකින් යුත් නහර සහිතය, ජාලාකාර (fenestrate) පෙනුමකින් යුක්තය, අග්‍රය උල්වූ (acute) ස්වභාවයක් ගනී. මේරූ පසු පත්‍ර වියළී ගොස් මධ්‍යයේ ඇති පුෂ්ප දණ්ඩ ආවරණ (scape-sheaths) නිරාවරණය වේ. පුෂ්ප දණ්ඩ නූල් වැනි (filiform) වන අතර ඉළ ඇට 5-6 කින් යුක්තය; ආවරණ ලිහිල් සහ කඩදාසි වැනි (papery) වන අතර පත්‍රවලට වඩා කෙටි සහ තරමක් උල්වූ (subacute) ස්වභාවයක් ගනී. පුෂ්ප මංජරිය ගෝලාකාර (globose) වන අතර අපිරිසිදු සුදු පැහැතිය, මේරූ පසු පාදස්ථය ඇතුළට නෙරා ගිය (intruded) ස්වභාවයක් ගනී. මල් ත්‍රි-අවයවික (3-merous) වන අතර, සුදුමැලි පැහැති, දිග මි.මී. 1.3-1.6 ක් වන අතර කෙටි රෝම රහිත (glabrous) වෘන්තයක් මත පිහිටයි. බීජ දිග මි.මී. 0.3-0.4 ක් වන අතර, ලා කහ පැහැතිය, දිලිසෙන සුළුය සහ ඉතා සියුම් දැල් වැනි රටාවකින් (reticulate) යුක්තය.",
+    "treatments": [
+        {
+            "treatment": "Infertility",
+            "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole plant"
+    ],
+    "images": [
+        {
+            "image_id": "1413",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/KpmvrvyS/plant00469-01413.jpg"
+        },
+        {
+            "image_id": "1414",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/B2VWJZvF/plant00469-01414.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "හීන් නිදිකුම්බ|ඔසු පැලයේ ගුණ | Heen nidikumba | Biophytum reinwardti |A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=0aY7gRgkIpY",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/0aY7gRgkIpY/hq720.jpg"
+            },
+            {
+                "title": "kokmota | කොක් මොට | මුත්‍රා දැවිල්ලට කියාපු ඖෂධය | Eriocaulon ceylanicum | pitta",
+                "url": "https://youtube.com/watch?v=s10NuYMfp6M",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/s10NuYMfp6M/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල තිත්ත ඇත්ත | Heenbovitiya & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=lBsI67rHBnE",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/lBsI67rHBnE/hq720.jpg"
+            },
+            {
+                "title": "අයේ කවදාවත් මේ විදියට හීන් බෝවිටියා කැද බොන්න හිතන්නවත් එපා! - මාරයා ඇත ලගයි! අක්මාව විනාශ වෙනවා",
+                "url": "https://youtube.com/watch?v=fhLOMYDPve8",
+                "duration": "21:41",
+                "thumbnail": "https://i.ytimg.com/vi/fhLOMYDPve8/hq720.jpg"
+            },
+            {
+                "title": "Covid වලට හොදම බෙහෙත / හීන් බින් කොහොඹ / Heen Bin Kohomba / Kiratha / Andrographis paniculata",
+                "url": "https://youtube.com/watch?v=CpBgmAJPAXg",
+                "duration": "6:46",
+                "thumbnail": "https://i.ytimg.com/vi/CpBgmAJPAXg/hq720.jpg"
+            },
+            {
+                "title": "කැලෑවේ පවා තියෙන මේ පුංචි ගහ බරපතල රෝග රැසක් සුවවෙන ඖශධයක්.හීන් බෝවිටියා ගහේ තියෙන විශ්මිත ගුණය",
+                "url": "https://youtube.com/watch?v=DvVN_d-b3ak",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/DvVN_d-b3ak/hq720.jpg"
+            },
+            {
+                "title": "Heen nidikumba | හීන් නිදිකුම්බා | Indika Koralage",
+                "url": "https://youtube.com/watch?v=53YF0idR9eU",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/53YF0idR9eU/hq720.jpg"
+            },
+            {
+                "title": "හීන් බිං කොහොඹ(heen bin kohomba)",
+                "url": "https://youtube.com/watch?v=WhapyYWS4-E",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/WhapyYWS4-E/hqdefault.jpg"
+            },
+            {
+                "title": "පෙනහළු ආසාදන, ඇදුම, කැස්ස ඇතුළු රෝග රැසකට ගුණ දෙන හීං දෙමට (Heen Demata)",
+                "url": "https://youtube.com/watch?v=xT-qqoTd-Uk",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/xT-qqoTd-Uk/hq720.jpg"
+            },
+            {
+                "title": "දේශීය වෙදදුරන්ට අනුව corona වලට එරෙහිව ප්‍රතිශක්තිය නගාසිටුවන හීන් බින් කොහොඹ",
+                "url": "https://youtube.com/watch?v=WKw3IhMmfmw",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/WKw3IhMmfmw/hq720.jpg"
+            },
+            {
+                "title": "අමුක්‍රා | හීන් අමුක්කරා |වල් අමුක්කරා | Minnieroot | Cracker Plant | Popping pod | Ruellia tuberosa",
+                "url": "https://youtube.com/watch?v=62gGh74KDVk",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/62gGh74KDVk/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ශාකයේ ඔසු ගුණ | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=29JyQOFg1WI",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/29JyQOFg1WI/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ගැන හැමෝම අහන ප්‍රශ්න | Bin Kohomba | Ceylon Agri | Episode 370",
+                "url": "https://youtube.com/watch?v=bsDV6DgOPZQ",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/bsDV6DgOPZQ/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා ශාකයේ ගුණ අගුණ හරියට දැනගමු | Health benefits of Heen Bovitiya | Osbeckia octandra",
+                "url": "https://youtube.com/watch?v=qWhvPW9o2XI",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/qWhvPW9o2XI/hqdefault.jpg"
+            },
+            {
+                "title": "හීං අරත්ත | heen Araththa | ඔසු ගුණ",
+                "url": "https://youtube.com/watch?v=O8-hUoMgxqs",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/O8-hUoMgxqs/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්තෙන් අයින් කරන්න ඕන විස සහිත ශාක ඔබ ලගත් තියනවද? List Of Poison Plants| Ceylon Agri|Episode 235",
+                "url": "https://youtube.com/watch?v=iyq95nCHM9k",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/iyq95nCHM9k/hq720.jpg"
+            },
+            {
+                "title": "මොකද්ද මේ හීං බිංකොහොඹ ? Heen Binkohomba | Ceylon Agri | Episode 67",
+                "url": "https://youtube.com/watch?v=uqESdU4cYa4",
+                "duration": "7:58",
+                "thumbnail": "https://i.ytimg.com/vi/uqESdU4cYa4/hq720.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බා ශාකය ගැන විස්තර සහ ඖෂධීය ගුණ | Benefits of Biophytum reinwardtii | හීන් නිදිකුම්බා",
+                "url": "https://youtube.com/watch?v=8iRynAE_2_E",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/8iRynAE_2_E/hq720.jpg"
+            },
+            {
+                "title": "මේ අල කැබැල්ලක් තමිබා බොන්න මරණය පවා වළකාලයි/ඖෂධීය හීන් අරත්ත ශාකය",
+                "url": "https://youtube.com/watch?v=wN_Rt6aNHXQ",
+                "duration": "6:38",
+                "thumbnail": "https://i.ytimg.com/vi/wN_Rt6aNHXQ/hq720.jpg"
+            },
+            {
+                "title": "හීන්බෝවිටියා වල ගුණ | හීන්බෝවිටියා ලෙඩ රෝග කිහිපයකට ගුණදායකයි | Health benefits of Heen Bovitiya",
+                "url": "https://youtube.com/watch?v=gPgK8x0YzGc",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/gPgK8x0YzGc/hq720.jpg"
+            },
+            {
+                "title": "විස්මිත ගුණ දෙන හීන් බෝවිටියා|The humble Bovitiya who gives amazing qualities",
+                "url": "https://youtube.com/watch?v=cC4GCszFlw8",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/cC4GCszFlw8/hq720.jpg"
+            },
+            {
+                "title": "ජීවිතය ජීවත් කරවන අමරස ඖෂධයක් | දියවැඩියාව කොලෙස්ටරෝල් වලට මාස 3 එක දිගට බොන්න  | හීං බෝවිටියා කැඳ",
+                "url": "https://youtube.com/watch?v=o0YbAVei1Pk",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/o0YbAVei1Pk/hq720.jpg"
+            },
+            {
+                "title": "අක්මාවේ තෙල් අඩු කර නරක කොලෙස්ටරෝල් පාලනය කරන  ඖෂධීය කරපිංචා හීන් බෝවිටියා පානය  |😘| Healthy Drink",
+                "url": "https://youtube.com/watch?v=aLGuGCSuOzo",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/aLGuGCSuOzo/hqdefault.jpg"
+            },
+            {
+                "title": "ශරීරයේ ප්‍රතිශක්තිය වැඩි කරන බිං කොහොඹ - Mumronia pinnata",
+                "url": "https://youtube.com/watch?v=J1CJ5jgcAYE",
+                "duration": "11:07",
+                "thumbnail": "https://i.ytimg.com/vi/J1CJ5jgcAYE/hq720.jpg"
+            },
+            {
+                "title": "උදෙන්ම කොත්තමල්ලි එකක් බිවුවොත් ? Coriander & Health By Nutritionist Hiroshan Jayaranaga",
+                "url": "https://youtube.com/watch?v=_LNiYTaxW6Y",
+                "duration": "16:54",
+                "thumbnail": "https://i.ytimg.com/vi/_LNiYTaxW6Y/hq720.jpg"
+            },
+            {
+                "title": "විද්‍යාත්මකව තාහවුරු කල ශ්‍රී ලාංකික කුරුඳු සතු විශ්මිත ගුන 8 ක්",
+                "url": "https://youtube.com/watch?v=LskI19qCTMY",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/LskI19qCTMY/hqdefault.jpg"
+            },
+            {
+                "title": "පාචනය, උණ බැස්සවීමට, හිස්හොරි ඇතුළු රෝග ගණනාවකට ගුණ වන පලතුර කොහුකිරිල්ල | කොහුකිරිල්ල Kohukirilla",
+                "url": "https://youtube.com/watch?v=MB1zFRiN8r8",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/MB1zFRiN8r8/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවම ඇත්තටම ලෙඩ හොද වෙනවද? Finger Millet By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0KOSVb6dZNM",
+                "duration": "11:05",
+                "thumbnail": "https://i.ytimg.com/vi/0KOSVb6dZNM/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ශාකයේ ඔසු ගුණ | Neem Tree | kohomba",
+                "url": "https://youtube.com/watch?v=B-iZPT8JzD4",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/B-iZPT8JzD4/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "අටවිසි බෝධින්ගෙන් එකක් වෙන කිණිහිරියා | Cochlospermum religiosum | Kinihiriya",
+                "url": "https://youtube.com/watch?v=h1nCh4ujYJk",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/h1nCh4ujYJk/hq720.jpg"
+            },
+            {
+                "title": "හෝමියෝපති තුලින් කොදු ඇටපෙළ ආශ්‍රිත රෝග පූර්ණ සුවය ලබමු",
+                "url": "https://youtube.com/watch?v=Ebxco3bWuGY",
+                "duration": "56:06",
+                "thumbnail": "https://i.ytimg.com/vi/Ebxco3bWuGY/hqdefault.jpg"
+            },
+            {
+                "title": "ජපන් බටු පෝෂණ ගබඩාවක්ද? නැතිනම් මාරාන්තික අනතුරක්ද? 🌿",
+                "url": "https://youtube.com/watch?v=eWHlkehp63Q",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/eWHlkehp63Q/hq720.jpg"
+            },
+            {
+                "title": "කොන්දේ අමාරුවට බොරුවට බෙහෙත් බොන්න එපා - අදම මේක මාරු කරලා බලන්න |How Your Mattress Causes Back Pain",
+                "url": "https://youtube.com/watch?v=2fmfdDayx50",
+                "duration": "8:25",
+                "thumbnail": "https://i.ytimg.com/vi/2fmfdDayx50/hq720.jpg"
+            },
+            {
+                "title": "කටු කියලා බයවන මේ ශාකය වෛද්‍ය ගබඩාවක් හෙළ ඔසුව නිදිකූම්බා",
+                "url": "https://youtube.com/watch?v=bqR0czcO9Vw",
+                "duration": "12:05",
+                "thumbnail": "https://i.ytimg.com/vi/bqR0czcO9Vw/hq720.jpg"
+            },
+            {
+                "title": "මේ ගසේ කොළ ටිකක් කුඩු කරලා කෑවෙත් දියවැඩියාව සදහටම මට්ටුයි! - ඇගේ පටස් ගාලා ක්ෂණිකව සීනි බහිනවා!",
+                "url": "https://youtube.com/watch?v=juTMsxstz7k",
+                "duration": "23:43",
+                "thumbnail": "https://i.ytimg.com/vi/juTMsxstz7k/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට කොතලහිඹුටු ? | Sitha FM",
+                "url": "https://youtube.com/watch?v=SD0s9z1JyUY",
+                "duration": "1:41",
+                "thumbnail": "https://i.ytimg.com/vi/SD0s9z1JyUY/hq720.jpg"
+            },
+            {
+                "title": "අක්මාව අලුත් කරන කොලෙස්ටරෝල්, ෆැටි ලිවර් නැති කරන දියවැඩියාව පාලනය කරන තේ එක | heen bowitiya tea",
+                "url": "https://youtube.com/watch?v=YhjYcXSQpLE",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/YhjYcXSQpLE/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල ගුණ|Osbeckia octandra",
+                "url": "https://youtube.com/watch?v=2LtRzIpW4ag",
+                "duration": "9:57",
+                "thumbnail": "https://i.ytimg.com/vi/2LtRzIpW4ag/hqdefault.jpg"
+            },
+            {
+                "title": "Kokmota(කොක්මොට) (SLBC) Dr.H.D.P Dharshani",
+                "url": "https://youtube.com/watch?v=hLDiG0YiorA",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/hLDiG0YiorA/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ අය ලෙඩ වෙන්නෙ අරක්කු බොන්න දන්නෙ නැති නිසා |  Alcohol  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dk3QJjXV938",
+                "duration": "19:12",
+                "thumbnail": "https://i.ytimg.com/vi/dk3QJjXV938/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ගුණ. චර්ම රෝග ඇතුලු රෝගාබාධ රැසකට ගුණදෙන ආයුර්වේදීය ඔසු.",
+                "url": "https://youtube.com/watch?v=Uvb_M2tX2Ts",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/Uvb_M2tX2Ts/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සදහා හීංබිංකොහොඹ වල ගුණ,  මහාචාර්ය පියල් මාරසිංහ Andrographis Paniculata",
+                "url": "https://youtube.com/watch?v=clGbn5FqpJ4",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/clGbn5FqpJ4/hq720.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බා  මෙච්චර ගුණයි කියලා දැනගෙන ඉදියද ?🌿|Heen nidikumba🌿",
+                "url": "https://youtube.com/watch?v=dGoVjE0YPko",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/dGoVjE0YPko/hqdefault.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා හරියට පැල කරමු.. ලක්ෂ ගණන් මුදල් හොයමූ(how to plant Eight-Stamen Osbeckia plant home)",
+                "url": "https://youtube.com/watch?v=OXHZRQ2ZV4Q",
+                "duration": "6:52",
+                "thumbnail": "https://i.ytimg.com/vi/OXHZRQ2ZV4Q/hqdefault.jpg"
+            },
+            {
+                "title": "ඖෂධීය භෝග, ඖෂධීය වාණිජ වගාව, හීන් බෝවිටිය, අඩු වියදම් භෝග වගාව, Medicinal Plant Cultivation,",
+                "url": "https://youtube.com/watch?v=pbWdOngCXXI",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/pbWdOngCXXI/hq720.jpg"
+            },
+            {
+                "title": "Heen Bovitiya (Osbeckia octandra) හීන් බෝවිටියා Medicinal plants #medicine #helthytips",
+                "url": "https://youtube.com/watch?v=9jqoTIxECW4",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/9jqoTIxECW4/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් මේ මාරාන්තික හීන්බෝවිටියා භාවිතා කරනවාද? අක්මාව ආරක්ෂා කරගන්න මේ ටික කලින් දැනගන්න",
+                "url": "https://youtube.com/watch?v=R7lH10NMWZU",
+                "duration": "14:38",
+                "thumbnail": "https://i.ytimg.com/vi/R7lH10NMWZU/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල ඇති ඖෂධීය ගුණ 😱👍",
+                "url": "https://youtube.com/watch?v=pbyG59djyC0",
+                "duration": "7:37",
+                "thumbnail": "https://i.ytimg.com/vi/pbyG59djyC0/hq720.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බා වල විශ්මිත ගුණ ය /heen nidikumba/hen nidikumb sinhala",
+                "url": "https://youtube.com/watch?v=ePaVTP1cGh0",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/ePaVTP1cGh0/hqdefault.jpg"
+            },
+            {
+                "title": "🌿 හීං බෝවිටියා (Osbeckia octandra)",
+                "url": "https://youtube.com/watch?v=C_59Ym7ADwM",
+                "duration": "14:27",
+                "thumbnail": "https://i.ytimg.com/vi/C_59Ym7ADwM/hq720.jpg"
+            },
+            {
+                "title": "කොළකැඳ බොන්න කලින් දැන ගන්න| Kola Kenda - 10 Plants for Herbal Porridge | Part 01",
+                "url": "https://youtube.com/watch?v=rU6NDyBgfGU",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/rU6NDyBgfGU/hq720.jpg"
+            },
+            {
+                "title": "අක්මාවේ  මිත්‍රයා  දකුණු පළාතේ පුෂ්පය මෙච්චර වටිනවද? හීන් බෝවිටියා  ගුණ osbeckia octandra benefits",
+                "url": "https://youtube.com/watch?v=YMWU9zBhDNc",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/YMWU9zBhDNc/hq720.jpg"
+            },
+            {
+                "title": "Fatty Liver ද ? අක්මාව රකින හීන් බෝවිටියා ගැන දන්නවද? | Heen Bovitiya Benifits",
+                "url": "https://youtube.com/watch?v=euYmPJs27Tg",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/euYmPJs27Tg/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "මේක මහ පුදුම බීමක් එක උළුහාල් වතුර වීදුරුවක මෙච්චර ගුන තියෙනවද ?",
+                "url": "https://youtube.com/watch?v=E8e5hg7wZA4",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/E8e5hg7wZA4/hqdefault.jpg"
+            },
+            {
+                "title": "මේව දන්නෙ නැතිවද ඔබත්  Ginger  බොන්නෙ? | Ginger for Health  Issues | Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=98vuUH62esI",
+                "duration": "8:14",
+                "thumbnail": "https://i.ytimg.com/vi/98vuUH62esI/hq720.jpg"
+            },
+            {
+                "title": "\"කමටහන්\" යනු කුමක්ද? ජීවිතයේ හැම මොහොතක්ම භාවනාවක් කරගන්නා රහස",
+                "url": "https://youtube.com/watch?v=_wdLO1kKPjw",
+                "duration": "7:03",
+                "thumbnail": "https://i.ytimg.com/vi/_wdLO1kKPjw/hq720.jpg"
+            },
+            {
+                "title": "මියැදෙන රෝගින්ට පවා නැවත ජීවය ලබා දෙන ඖෂධීය ශාකය /හීන් බෝවිටියා",
+                "url": "https://youtube.com/watch?v=kwAcdPyYMGw",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/kwAcdPyYMGw/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ගසේ ඇති ඖෂධීය ප්‍රයෝජන | medical plant of kohomba✅",
+                "url": "https://youtube.com/watch?v=O_U8G6d4cGo",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/O_U8G6d4cGo/hqdefault.jpg"
+            },
+            {
+                "title": "Osbeckia octandra  is endemic to Sri Lanka. \"Heen Bovitiya - හීන් බෝවිටියා\"",
+                "url": "https://youtube.com/watch?v=tN33jyoTmRU",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/tN33jyoTmRU/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රතිශක්තිය වඩන, මේ දවස් වල වටිනාම ශාකය | හීන් බිං කොහොඹ | Heen Bin Kohomba/ Kiratha",
+                "url": "https://youtube.com/watch?v=JMvCZZzTvJU",
+                "duration": "10:54",
+                "thumbnail": "https://i.ytimg.com/vi/JMvCZZzTvJU/hq720.jpg"
+            },
+            {
+                "title": "Nidikumba/නිදිකුම්බා ශාකයේ විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=Rcg4VWgOhh8",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/Rcg4VWgOhh8/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "1414",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/B2VWJZvF/plant00469-01414.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

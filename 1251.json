@@ -1,146 +1,571 @@
 {
-  "scientificName": "Capsicum frutescens L.",
-  "synonyms": [
-    "Capsicum annuum var. frutescens (L.) Alef.",
-    "Capsicum annuum var. minus (Fingerh.) Shinners",
-    "Capsicum assamicum J.Purkay. & Lok.Singh",
-    "Capsicum baccatum var. pendulum (Willd.) Eshbaugh",
-    "Capsicum conoides Roem. & Schult.",
-    "Capsicum fastigiatum Blume",
-    "Capsicum frutescens var. lanicaule Greenm.",
-    "Capsicum frutescens var. minus Fingerh.",
-    "Capsicum frutescens var. pendulum (Willd.) Besser",
-    "Capsicum indicum Dierb.",
-    "Capsicum indicum subsp. elaeocarpon Dierb.",
-    "Capsicum indicum var. pendulum (Willd.) Dierb.",
-    "Capsicum indicum var. ribesium Dierb.",
-    "Capsicum minimum Roxb.",
-    "Capsicum pendulum var. majus Dunal",
-    "Capsicum pendulum var. minus Fingerh.",
-    "Capsicum pendulum Willd."
-  ],
-  "familyName": "SOLANACEAE",
-  "englishNames": [
-    "Bird Chilli",
-    "Bird Pepper",
-    "Tabasco Pepper",
-    "Cayenne pepper . Capsicum",
-    "Hot Pepper"
-  ],
-  "sinhalaName": "Nai miris (නයි මිරිස්)",
-  "description": "මීටර් 2ක් දක්වා උසැති කෙටි කඳක් සහිත පඳුරකි. පත්‍ර තනිව හෝ යුගල වශයෙන් පිහිටයි, දිග සෙ.මී. 2-10ක් සහ පළල සෙ.මී. 1-4ක් වේ; පත්‍ර වෘන්ත (petioles) දිග සෙ.මී. 0.5-3කි. මල් සාමාන්‍යයෙන් එක් ගැටයකට (node) දෙක බැගින් පිහිටයි; මල් කිරීටයේ පෙති (corolla lobes) විහිදී පවතින අතර කොළ පැහැයට හුරු සුදු පැහැයක් ගනී. ඵලය කෙලින් පිහිටයි, ඉදුණු විට රතු පැහැ වේ.",
-  "treatments": [
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Capsicum frutescens L.",
+    "synonyms": [
+        "Capsicum annuum var. frutescens (L.) Alef.",
+        "Capsicum annuum var. minus (Fingerh.) Shinners",
+        "Capsicum assamicum J.Purkay. & Lok.Singh",
+        "Capsicum baccatum var. pendulum (Willd.) Eshbaugh",
+        "Capsicum conoides Roem. & Schult.",
+        "Capsicum fastigiatum Blume",
+        "Capsicum frutescens var. lanicaule Greenm.",
+        "Capsicum frutescens var. minus Fingerh.",
+        "Capsicum frutescens var. pendulum (Willd.) Besser",
+        "Capsicum indicum Dierb.",
+        "Capsicum indicum subsp. elaeocarpon Dierb.",
+        "Capsicum indicum var. pendulum (Willd.) Dierb.",
+        "Capsicum indicum var. ribesium Dierb.",
+        "Capsicum minimum Roxb.",
+        "Capsicum pendulum var. majus Dunal",
+        "Capsicum pendulum var. minus Fingerh.",
+        "Capsicum pendulum Willd."
+    ],
+    "familyName": "SOLANACEAE",
+    "englishNames": [
+        "Bird Chilli",
+        "Bird Pepper",
+        "Tabasco Pepper",
+        "Cayenne pepper . Capsicum",
+        "Hot Pepper"
+    ],
+    "sinhalaName": "Nai miris (නයි මිරිස්)",
+    "description": "මීටර් 2ක් දක්වා උසැති කෙටි කඳක් සහිත පඳුරකි. පත්‍ර තනිව හෝ යුගල වශයෙන් පිහිටයි, දිග සෙ.මී. 2-10ක් සහ පළල සෙ.මී. 1-4ක් වේ; පත්‍ර වෘන්ත (petioles) දිග සෙ.මී. 0.5-3කි. මල් සාමාන්‍යයෙන් එක් ගැටයකට (node) දෙක බැගින් පිහිටයි; මල් කිරීටයේ පෙති (corolla lobes) විහිදී පවතින අතර කොළ පැහැයට හුරු සුදු පැහැයක් ගනී. ඵලය කෙලින් පිහිටයි, ඉදුණු විට රතු පැහැ වේ.",
+    "treatments": [
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Lethargy",
+            "sinhala": "අධික තෙහෙට්ටුව සහ අලස බව (තන්ද්‍රා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Parasitic Skin Infections",
+            "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ear Diseases",
+            "sinhala": "කන් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Pulmonary Disorders",
+            "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Arthritis",
+            "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "684",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/NgGsKp6t/plant01251-00684.jpg"
+        },
+        {
+            "image_id": "1207",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/zhgK7dB8/plant01251-01207.jpg"
+        },
+        {
+            "image_id": "1208",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/pjbXDL7Q/plant01251-01208.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "නයි මිරිස් වගාකර අමතර ලක්ශයක් මාසෙට හොයමු.",
+                "url": "https://youtube.com/watch?v=BwXx7k8VFa0",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/BwXx7k8VFa0/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාව: පැල සිටුවීමේ සිට අස්වැන්න නෙළීම තෙක් සියලූම විස්තර [PART 02]",
+                "url": "https://youtube.com/watch?v=i9DulcumSmg",
+                "duration": "18:32",
+                "thumbnail": "https://i.ytimg.com/vi/i9DulcumSmg/hqdefault.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාව: පැල සිටුවීමේ සිට අස්වැන්න නෙළීම තෙක් සියලූම විස්තර [PART 01]",
+                "url": "https://youtube.com/watch?v=iikh3jmOXuI",
+                "duration": "11:20",
+                "thumbnail": "https://i.ytimg.com/vi/iikh3jmOXuI/hqdefault.jpg"
+            },
+            {
+                "title": "එලිමහනේ නයිමිරිස් වගාව සාර්තක කරගමු. Nai miris wagaawa.",
+                "url": "https://youtube.com/watch?v=GzHvltJFISc",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/GzHvltJFISc/hq720.jpg"
+            },
+            {
+                "title": "නයි  මිරිස්  වර්ග - 4",
+                "url": "https://youtube.com/watch?v=tpJvNmFhk_4",
+                "duration": "1:05",
+                "thumbnail": "https://i.ytimg.com/vi/tpJvNmFhk_4/hqdefault.jpg"
+            },
+            {
+                "title": "නව අත්දැකීම් මත නයි මිරිස් වගාව.දින 9න් 40kgයි. දිරිය මිනිසුන් අගය කිරීමු@govisadhaEpisode 14",
+                "url": "https://youtube.com/watch?v=XHhoxCj7tpw",
+                "duration": "30:29",
+                "thumbnail": "https://i.ytimg.com/vi/XHhoxCj7tpw/hq720.jpg"
+            },
+            {
+                "title": "හොදින් නඩත්තු කල ගස් 500 නයි මිරිස් වගාවේ කරල්.",
+                "url": "https://youtube.com/watch?v=GujYidighlw",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/GujYidighlw/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් පැල කාලයට යෙදිය යුතු පොහොර| Nai miris Pala Kalayata Yodana Pohora|Hiru Plant Nursery",
+                "url": "https://youtube.com/watch?v=zvCcryJ-wj8",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/zvCcryJ-wj8/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස්  වගාවේ කොදු නාරටිය වන පස් මිශ්‍රණය නිවැරදිව සදා ගැනීම🤗🤗(episode 02)",
+                "url": "https://youtube.com/watch?v=DGHcQvdRwpg",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/DGHcQvdRwpg/hq720.jpg"
+            },
+            {
+                "title": "Organic Gardening of Snake Peppers නයි මිරිස් කාබනික ගෙවතු වගාව Organic gardening",
+                "url": "https://youtube.com/watch?v=flJzNjzKHwY",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/flJzNjzKHwY/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාව | Miris wagawa Sinhala | Swayan Rakiya | Business Ideas | Scotch Bonnet Sinhala 2025",
+                "url": "https://youtube.com/watch?v=63TH1Y-p-wo",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/63TH1Y-p-wo/hq720.jpg"
+            },
+            {
+                "title": "එලිමහන් නයි මිරිස් වගාව . Elimahan naimiris wagawa.",
+                "url": "https://youtube.com/watch?v=9ptuy1bfg6o",
+                "duration": "9:12",
+                "thumbnail": "https://i.ytimg.com/vi/9ptuy1bfg6o/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාකර අමතර ලක්ශයක් මාසෙට හොයමු.",
+                "url": "https://youtube.com/watch?v=ORjUMlyDUNM",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/MSujjBQzmCY/frame0.jpg"
+            },
+            {
+                "title": "Nadagamkarayo මාලන්ගේ scotch bonnet  nayimiris  නයි මිරිස් වගාව - 0776395088 Dilco plantation",
+                "url": "https://youtube.com/watch?v=DgTgrxwoebw",
+                "duration": "30:10",
+                "thumbnail": "https://i.ytimg.com/vi/DgTgrxwoebw/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාව: නිවැරදිව පොහොර, කෘමිනාශක සහ දිලීර නාශක යොදන්නේ කොහොමද බලමු.",
+                "url": "https://youtube.com/watch?v=ZhIZaP_I6gg",
+                "duration": "19:48",
+                "thumbnail": "https://i.ytimg.com/vi/ZhIZaP_I6gg/hq720.jpg"
+            },
+            {
+                "title": "නයිමිරිස් ගැන අල්විස් කියන සැර කතාව  | Krushi Radio",
+                "url": "https://youtube.com/watch?v=TVMBRqs3Lmw",
+                "duration": "12:38",
+                "thumbnail": "https://i.ytimg.com/vi/TVMBRqs3Lmw/hq720.jpg"
+            },
+            {
+                "title": "කොච්චි මිරිස් කෑවොත් වෙන දේ මෙන්න : Benefits of bird's eye chilli",
+                "url": "https://youtube.com/watch?v=ytGFvlkDgbM",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/ytGFvlkDgbM/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ නයි මිරිස් අමු මිරිස් වගාවෙත් මල් හැලෙනවාද ?අස්වැන්න අඩුයි ද ?මෙන්න විසදුම් Agri Expert",
+                "url": "https://youtube.com/watch?v=r_OK18z2Lc4",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/r_OK18z2Lc4/hqdefault.jpg"
+            },
+            {
+                "title": "මිරිස්වල ඇති නිරෝගී භාවයේ සහ දීර්ඝායු ලැබීමේ රහස්. | The secrets of health and longevity in chilies.",
+                "url": "https://youtube.com/watch?v=JnImMgbkdQ4",
+                "duration": "10:32",
+                "thumbnail": "https://i.ytimg.com/vi/JnImMgbkdQ4/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ සියයක් වලක්වන එකම ආහාරය.",
+                "url": "https://youtube.com/watch?v=i5AX0uFgWPs",
+                "duration": "9:48",
+                "thumbnail": "https://i.ytimg.com/vi/i5AX0uFgWPs/hq720.jpg"
+            },
+            {
+                "title": "Mage Widhiya|නයි මිරිස් දිලීර රෝග|Nayi Miris Dhilira Roga|Nayi Miris|Ep-04",
+                "url": "https://youtube.com/watch?v=VnsjQEIpKsI",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/VnsjQEIpKsI/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාවෙන් ලාභ ගන්න හැටි | Nai Miris Farming Sinhala | Low Investment Business Sri Lanka",
+                "url": "https://youtube.com/watch?v=evTScD_wleY",
+                "duration": "10:03",
+                "thumbnail": "https://i.ytimg.com/vi/evTScD_wleY/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාවේ බැක්ටීරියා හිටුමැරීම හදුනාගනිමු|bacterial effects of scotch bonnet|Ceylon Survival",
+                "url": "https://youtube.com/watch?v=4bI8tpVSoXo",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/4bI8tpVSoXo/hqdefault.jpg"
+            },
+            {
+                "title": "Nai Miris rooga paalanaya/Nai miris kola koda weema/නයි මිරිස් රෝග /scotch bonnet /Ceylon Survival",
+                "url": "https://youtube.com/watch?v=NBgH0njqINI",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/NBgH0njqINI/hq720.jpg"
+            },
+            {
+                "title": "රට මිරිස් වල විශ්මිත ගුණ - Amazing properties of country chilies",
+                "url": "https://youtube.com/watch?v=C5NDSm11Dsk",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/C5NDSm11Dsk/hq720.jpg"
+            },
+            {
+                "title": "කොච්චි වලින් අපට ලැබෙන්නේ මොනවාද ? | Herbal properties of Tabasco Pepper | Healing of diseases",
+                "url": "https://youtube.com/watch?v=c6AF10UxImM",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/c6AF10UxImM/hqdefault.jpg"
+            },
+            {
+                "title": "නයි මිරිස් අවුරුද්දක් කල්තියාගමු, How to Make Pickled Hot Chili Peppers at Home",
+                "url": "https://youtube.com/watch?v=MRKuTCLG13w",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/MRKuTCLG13w/hqdefault.jpg"
+            },
+            {
+                "title": "නයි මිරිස් අස්වැන්න දෙගුණ කරන රහස: හාල් වතුරේ පුදුම ගුණ 😲🌱 #sideincome #savemoney",
+                "url": "https://youtube.com/watch?v=ac1HX-VaF0M",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/ac1HX-VaF0M/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස්/ මාලු මිරිස් මල් වැඩි කර ගැනීමට බෙහෙත්.. Nai miris mal.",
+                "url": "https://youtube.com/watch?v=yg_koN1eZRc",
+                "duration": "5:50",
+                "thumbnail": "https://i.ytimg.com/vi/yg_koN1eZRc/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් මල් එලදාව වැඩිකරගමු.. Nai miris mal.",
+                "url": "https://youtube.com/watch?v=jzygyZm5qyk",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/jzygyZm5qyk/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වඩාත් සුදුසු අවුවෙද නැත්නම් හෙවනෙද ? What is the best place for scotch bonnet.",
+                "url": "https://youtube.com/watch?v=AOJp1nLX6l0",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/AOJp1nLX6l0/hq720.jpg"
+            },
+            {
+                "title": "නයි  මිරිස්  වර්ග - 1",
+                "url": "https://youtube.com/watch?v=GR5QZV2-42M",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/GR5QZV2-42M/hqdefault.jpg"
+            },
+            {
+                "title": "එලිමහන් නයි මිරිස් වගාවක සියලු වැදගත් කරුණු | Elimahan Nai Miris Wagawa| Hiru Plant Nursery",
+                "url": "https://youtube.com/watch?v=QRYdG4qpgYE",
+                "duration": "7:57",
+                "thumbnail": "https://i.ytimg.com/vi/QRYdG4qpgYE/hq720.jpg"
+            },
+            {
+                "title": "නයිමිරිස් වගාව එපා වෙලාද?|Scotch bonnet harvest selling |Ceylon survival",
+                "url": "https://youtube.com/watch?v=-7-Q11oCKdw",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/-7-Q11oCKdw/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාවේ අස්වනු නෙලීම | Nai miris wagawa | Nai kochchi wagawa | Scotch Bonnet",
+                "url": "https://youtube.com/watch?v=BURsBaV7RtI",
+                "duration": "18:53",
+                "thumbnail": "https://i.ytimg.com/vi/BURsBaV7RtI/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාවකට වැරදිලාවත් නොකල යුතු දේවල්.. Nai miris wagawata nokala yuthu de",
+                "url": "https://youtube.com/watch?v=YUerNCPhwUI",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/YUerNCPhwUI/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාව දිලීර රෝගවලින් වලකාගමු.nai miris dilira roga.",
+                "url": "https://youtube.com/watch?v=kpmUnH_NB0k",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/kpmUnH_NB0k/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාවේ රෝග පාලනය කරන්නේ මෙහෙමයි   Nai miris Wagawa diseases control techniques Sri Lanka",
+                "url": "https://youtube.com/watch?v=HnE7LG_IlT0",
+                "duration": "5:33",
+                "thumbnail": "https://i.ytimg.com/vi/HnE7LG_IlT0/hq720.jpg"
+            },
+            {
+                "title": "වියලි කලාපෙ නයි මිරිස් වගාව",
+                "url": "https://youtube.com/watch?v=PyOKq9_jx6Y",
+                "duration": "6:31",
+                "thumbnail": "https://i.ytimg.com/vi/PyOKq9_jx6Y/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් පළමු කප්පාදුව | Pruning Of Scotch bonnet | Polytunnel | Greenhouse | නයි මිරිස් වගාව..",
+                "url": "https://youtube.com/watch?v=_89QAHY9JTE",
+                "duration": "7:11",
+                "thumbnail": "https://i.ytimg.com/vi/_89QAHY9JTE/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාවට පොහොර හා බෙහෙත් කාලසටහන 2 | nai miris wagawata pohora ha beheth",
+                "url": "https://youtube.com/watch?v=ghwkkW2RFqg",
+                "duration": "10:54",
+                "thumbnail": "https://i.ytimg.com/vi/ghwkkW2RFqg/hq720.jpg"
+            },
+            {
+                "title": "නයිමිරිස් වගාවේ රෝග වලට විසඳුම් | Nai miris wagawa | Scotch Bonnet | Nai miris wagawe leda rooga",
+                "url": "https://youtube.com/watch?v=5g9rZDMEvGw",
+                "duration": "28:47",
+                "thumbnail": "https://i.ytimg.com/vi/5g9rZDMEvGw/hq720.jpg"
+            },
+            {
+                "title": "මේ විදිහට නයි මිරිස් හැදුවොත් රෝග වැලදීම බොහෝ දුරට අඩු වෙයි",
+                "url": "https://youtube.com/watch?v=JyHPOXSCTSg",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/JyHPOXSCTSg/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාව පටන්ගන්න අයට වැදගත් පියවර 7ක්|Best 7 Steps for scotch bonnet growing|Ceylon Survival",
+                "url": "https://youtube.com/watch?v=kvYs2ThsfnY",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/kvYs2ThsfnY/hqdefault.jpg"
+            },
+            {
+                "title": "දිලීර සහ කොළ කොඩවීමට 100% හරියනම බෙහෙත් | TANYK Cultivation | නයි මිරිස්",
+                "url": "https://youtube.com/watch?v=xUe0hKPZMLA",
+                "duration": "16:50",
+                "thumbnail": "https://i.ytimg.com/vi/xUe0hKPZMLA/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් අස්වැන්න දෙගුණ කරන ක්‍රම 7ක් | How to double the harvest of hot pepper | arunasiri",
+                "url": "https://youtube.com/watch?v=Ap6owW1MRCo",
+                "duration": "12:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ap6owW1MRCo/hqdefault.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාව (8 0f 10) weeks 08 nai miris wagawa",
+                "url": "https://youtube.com/watch?v=a2m01hYgtB8",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/a2m01hYgtB8/hqdefault.jpg"
+            },
+            {
+                "title": "නයි මිර්ස් වගාවේ ලෙඩ රෝග සහ විසදුම් | Nai miris wagawe roga | Nai kochchi wagawa |  Scotch Bonnet",
+                "url": "https://youtube.com/watch?v=jm8Y9v5yjsM",
+                "duration": "22:06",
+                "thumbnail": "https://i.ytimg.com/vi/jm8Y9v5yjsM/hq720.jpg"
+            },
+            {
+                "title": "කාබනික නයි මිරිස් වගාව කාබනිකව නෙට් හවුස් නැතිව Organic snake chili cultivation organically without",
+                "url": "https://youtube.com/watch?v=j9Azp10ohYk",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/j9Azp10ohYk/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාව A to Z . Nai miris wagawa A to Z.",
+                "url": "https://youtube.com/watch?v=oR7-WdJDnsQ",
+                "duration": "11:23",
+                "thumbnail": "https://i.ytimg.com/vi/oR7-WdJDnsQ/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වලට ආධාරක සපයමු | Supporters For Nai Miris | Polytunnel Srilanka | Greenhouse Srilanka",
+                "url": "https://youtube.com/watch?v=W3YfqFRZZ3M",
+                "duration": "14:38",
+                "thumbnail": "https://i.ytimg.com/vi/W3YfqFRZZ3M/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස්/ මාලු මිරිස් මල් වැඩි කර ගැනීමට බෙහෙත්.. Nai miris mal.",
+                "url": "https://youtube.com/watch?v=Z1IcBx32Yco",
+                "duration": "5:50",
+                "thumbnail": "https://i.ytimg.com/vi/Z1IcBx32Yco/frame0.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාවට සම්බන්ධ ස්වයං රැකියා 9ක්|top9 Scotch bonnet business for earn money|Ceylon Survival",
+                "url": "https://youtube.com/watch?v=MckjqzGd8mw",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/MckjqzGd8mw/hqdefault.jpg"
+            },
+            {
+                "title": "නිවසේදීම නිවැරදිව නයි මිරිස් වගාකරමු, How to grow Hot Chilli Peppers  at Home",
+                "url": "https://youtube.com/watch?v=kim0jh6AclY",
+                "duration": "14:00",
+                "thumbnail": "https://i.ytimg.com/vi/kim0jh6AclY/hq720.jpg"
+            },
+            {
+                "title": "Scotch bonnet Dark green seeds | Nai miris | නයි මිරිස් | online Oder | Sl products",
+                "url": "https://youtube.com/watch?v=ULPSoY4lAHE",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/ULPSoY4lAHE/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාවේ ඔබ දැනගත යුතුම දේවල් |nai miris wagawa sinhala|grow scotch bonnet from seed",
+                "url": "https://youtube.com/watch?v=_BAnbDwwNRo",
+                "duration": "13:48",
+                "thumbnail": "https://i.ytimg.com/vi/_BAnbDwwNRo/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වල ඔෟෂධිය වටිනා කම හා වගාවක් අාරම්භ කිරිම සහා තවන් පාලනය",
+                "url": "https://youtube.com/watch?v=gDBXWNRXOsE",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/gDBXWNRXOsE/hqdefault.jpg"
+            },
+            {
+                "title": "Organic Gardening of Snake Peppers නයි මිරිස් කාබනික ගෙවතු වගාව Organic gardening",
+                "url": "https://youtube.com/watch?v=-ovbp8hGXLo",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/-ovbp8hGXLo/frame0.jpg"
+            },
+            {
+                "title": "අමූ ම්රිස් කෑවට මේ ගැන දැනගෙන හිටියද? | Green Chili By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=AyzwLUDmSXs",
+                "duration": "8:04",
+                "thumbnail": "https://i.ytimg.com/vi/AyzwLUDmSXs/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාවේ ගොළුබෙලි හානියට විසදුම්",
+                "url": "https://youtube.com/watch?v=WVMXkbZG0eE",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/WVMXkbZG0eE/hq720.jpg"
+            },
+            {
+                "title": "Best incest control tips for scotch bonnet |නයි මිරිස් වගාවේ සුදු මැස්සන් පාලනය කරමු|Ceylon Survival",
+                "url": "https://youtube.com/watch?v=bzBTIaYRrK0",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/bzBTIaYRrK0/hqdefault.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් ටොන් ගනන් කඩන්න තිතටම පොහොර යොදමු|Fertilizer for  Scotch bonnet|Ceylon Survival",
+                "url": "https://youtube.com/watch?v=g4fKs08MEEc",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/g4fKs08MEEc/hqdefault.jpg"
+            },
+            {
+                "title": "නයා කියන්නේ නපුරු සතෙක් නෙමෙයි | ඇයි නයි ගෙවල් වලටම එන්නේ",
+                "url": "https://youtube.com/watch?v=bgqVuoXQHKc",
+                "duration": "9:09",
+                "thumbnail": "https://i.ytimg.com/vi/bgqVuoXQHKc/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් අඩු වියදම් පොහොර..nai miris pohora.",
+                "url": "https://youtube.com/watch?v=zFT7aIZjtQ4",
+                "duration": "9:56",
+                "thumbnail": "https://i.ytimg.com/vi/zFT7aIZjtQ4/hq720.jpg"
+            },
+            {
+                "title": "how to protect chili plants from snails/නයි මිරිස් පැල ගොලුබෙල්ලන්ගෙන් රැක ගනිමු/Ceylon Survival.",
+                "url": "https://youtube.com/watch?v=3MZtCnHjMdQ",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/3MZtCnHjMdQ/hq720.jpg"
+            },
+            {
+                "title": "නයි  මිරිස්  වර්ග - 3",
+                "url": "https://youtube.com/watch?v=lgHZ4m2yDGs",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/lgHZ4m2yDGs/hqdefault.jpg"
+            },
+            {
+                "title": "How to grow bird chill |නයි මිරිස් වවන රහස මෙන්න | Ceylon Agri | Episode 17",
+                "url": "https://youtube.com/watch?v=-r0gagtE5N0",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/-r0gagtE5N0/hq720.jpg"
+            },
+            {
+                "title": "නිවසේදීම නිවැරදිව නයි මිරිස් වගාකරමු, How to grow Hot Chilli Peppers  at Home",
+                "url": "https://youtube.com/watch?v=ESV42bQNhO8",
+                "duration": "14:00",
+                "thumbnail": "https://i.ytimg.com/vi/ESV42bQNhO8/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Lethargy",
-      "sinhala": "අධික තෙහෙට්ටුව සහ අලස බව (තන්ද්‍රා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Parasitic Skin Infections",
-      "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ear Diseases",
-      "sinhala": "කන් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Pulmonary Disorders",
-      "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Arthritis",
-      "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "684",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/NgGsKp6t/plant01251-00684.jpg"
-    },
-    {
-      "image_id": "1207",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/zhgK7dB8/plant01251-01207.jpg"
-    },
-    {
-      "image_id": "1208",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/pjbXDL7Q/plant01251-01208.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

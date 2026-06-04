@@ -1,132 +1,329 @@
 {
-  "scientificName": "Passiflora edulis Sims",
-  "synonyms": [
-    "Passiflora cuneifolia Cav.",
-    "Passiflora diaden Vell.",
-    "Passiflora edulis f. flavicarpa O.Deg.",
-    "Passiflora edulis var. pomifera (M.Roem.) Mast.",
-    "Passiflora edulis var. rubricaulis (J.Jacq.) Mast.",
-    "Passiflora edulis var. verrucifera (Lindl.) Mast.",
-    "Passiflora fragrans Regel ex Mast.",
-    "Passiflora incarnata Ker Gawl.",
-    "Passiflora iodocarpa Barb.Rodr.",
-    "Passiflora middletoniana Paxton",
-    "Passiflora pallidiflora Bertol.",
-    "Passiflora perfecta J.R.Duncan & V.C.Davies",
-    "Passiflora picroderma Barb.Rodr.",
-    "Passiflora pomifera M.Roem.",
-    "Passiflora rubricaulis J.Jacq.",
-    "Passiflora vernicosa Barb.Rodr.",
-    "Passiflora verrucifera Lindl."
-  ],
-  "familyName": "PASSIFLORACEAE",
-  "englishNames": [
-    "Passion Fruit",
-    "Banana Passion Fruit",
-    "Sweet Cup",
-    "Purple Passion Fruit"
-  ],
-  "sinhalaName": "Wel dodam (වැල් දොඩම්)",
-  "description": "මීටර් 12ක් දක්වා උසැති, රෝම රහිත (glabrous) වැල් වර්ගයකි. පත්‍ර ඛණ්ඩ 3කින් යුක්ත වන අතර, සෙන්ටිමීටර 5-11 x 4-10 ප්‍රමාණයෙන් යුක්ත වේ. පත්‍ර පාදයේ සිට නහර 3ක් විහිදේ; පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 1-4ක් දිගය. පුෂ්ප මංජරියෙහි ඇත්තේ එක් පුෂ්පයක් පමණි; පුෂ්ප දණ්ඩ (peduncle) සෙන්ටිමීටර 2-6ක් දිග වන අතර, ප්‍රරෝහ (tendril) සෙන්ටිමීටර 5-20ක් දිගය; උප පත්‍ර (bracts) සෙන්ටිමීටර 1.5-2 x 1-1.5 ප්‍රමාණයෙන් යුක්ත වේ. මල් විෂ්කම්භය සෙන්ටිමීටර 4-7ක් වන අතර, සුදු පැහැතිය. ඵල බෙරි ගෙඩියක් වැනි, ගෝලාකාර (globose), සෙන්ටිමීටර 4-5ක විෂ්කම්භයකින් යුත්, රෝම රහිත (glabrous), කහ හෝ දම් පැහැති ඒවා වේ. බීජ බොහෝ සංඛ්‍යාවක් ඇති අතර, ඒවා මිලිමීටර 5-6 x 3-4 ප්‍රමාණයෙන් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Passiflora edulis Sims",
+    "synonyms": [
+        "Passiflora cuneifolia Cav.",
+        "Passiflora diaden Vell.",
+        "Passiflora edulis f. flavicarpa O.Deg.",
+        "Passiflora edulis var. pomifera (M.Roem.) Mast.",
+        "Passiflora edulis var. rubricaulis (J.Jacq.) Mast.",
+        "Passiflora edulis var. verrucifera (Lindl.) Mast.",
+        "Passiflora fragrans Regel ex Mast.",
+        "Passiflora incarnata Ker Gawl.",
+        "Passiflora iodocarpa Barb.Rodr.",
+        "Passiflora middletoniana Paxton",
+        "Passiflora pallidiflora Bertol.",
+        "Passiflora perfecta J.R.Duncan & V.C.Davies",
+        "Passiflora picroderma Barb.Rodr.",
+        "Passiflora pomifera M.Roem.",
+        "Passiflora rubricaulis J.Jacq.",
+        "Passiflora vernicosa Barb.Rodr.",
+        "Passiflora verrucifera Lindl."
+    ],
+    "familyName": "PASSIFLORACEAE",
+    "englishNames": [
+        "Passion Fruit",
+        "Banana Passion Fruit",
+        "Sweet Cup",
+        "Purple Passion Fruit"
+    ],
+    "sinhalaName": "Wel dodam (වැල් දොඩම්)",
+    "description": "මීටර් 12ක් දක්වා උසැති, රෝම රහිත (glabrous) වැල් වර්ගයකි. පත්‍ර ඛණ්ඩ 3කින් යුක්ත වන අතර, සෙන්ටිමීටර 5-11 x 4-10 ප්‍රමාණයෙන් යුක්ත වේ. පත්‍ර පාදයේ සිට නහර 3ක් විහිදේ; පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 1-4ක් දිගය. පුෂ්ප මංජරියෙහි ඇත්තේ එක් පුෂ්පයක් පමණි; පුෂ්ප දණ්ඩ (peduncle) සෙන්ටිමීටර 2-6ක් දිග වන අතර, ප්‍රරෝහ (tendril) සෙන්ටිමීටර 5-20ක් දිගය; උප පත්‍ර (bracts) සෙන්ටිමීටර 1.5-2 x 1-1.5 ප්‍රමාණයෙන් යුක්ත වේ. මල් විෂ්කම්භය සෙන්ටිමීටර 4-7ක් වන අතර, සුදු පැහැතිය. ඵල බෙරි ගෙඩියක් වැනි, ගෝලාකාර (globose), සෙන්ටිමීටර 4-5ක විෂ්කම්භයකින් යුත්, රෝම රහිත (glabrous), කහ හෝ දම් පැහැති ඒවා වේ. බීජ බොහෝ සංඛ්‍යාවක් ඇති අතර, ඒවා මිලිමීටර 5-6 x 3-4 ප්‍රමාණයෙන් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ear Diseases",
+            "sinhala": "කන් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Pulmonary Disorders",
+            "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits",
+        "Leaves",
+        "Roots",
+        "Stem"
+    ],
+    "images": [
+        {
+            "image_id": "2997",
+            "caption": "Flower bud (PMR)",
+            "url": "https://i.ibb.co/bgMwWx6K/plant00976-02997.jpg"
+        },
+        {
+            "image_id": "2998",
+            "caption": "Young fruit (PMR)",
+            "url": "https://i.ibb.co/Z6DNcmsJ/plant00976-02998.jpg"
+        },
+        {
+            "image_id": "2999",
+            "caption": "Mature Fruits (PMR)",
+            "url": "https://i.ibb.co/Xrptf1HT/plant00976-02999.jpg"
+        },
+        {
+            "image_id": "3000",
+            "caption": "Seeds (PMR)",
+            "url": "https://i.ibb.co/9mdTY664/plant00976-03000.jpg"
+        },
+        {
+            "image_id": "3001",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/pmG3h1q/plant00976-03001.jpg"
+        },
+        {
+            "image_id": "3002",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/7JPrdP4h/plant00976-03002.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Organic Passion fruit Cultivation in Sri Lanka | කාබනිකව වැල් දොඩම් වගා කරන කෘෂි ව්‍යවසායකයෙක්",
+                "url": "https://youtube.com/watch?v=BN9AD7l4dlE",
+                "duration": "13:49",
+                "thumbnail": "https://i.ytimg.com/vi/BN9AD7l4dlE/hq720.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් වගාව අලුතෙන් පටන් ගන්නා ඔබට-Department Of Agriculture Sri lanka Krushi tv channel",
+                "url": "https://youtube.com/watch?v=JPt-G_FXTEc",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/JPt-G_FXTEc/hq720.jpg"
+            },
+            {
+                "title": "මාස හතරක් වයස වැල් දොඩම් වගාවට පොහොර යොදන විදිහ | passion fruit cultivation | View lanka",
+                "url": "https://youtube.com/watch?v=torDaWbgdX4",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/torDaWbgdX4/hqdefault.jpg"
+            },
+            {
+                "title": "C විටමින් අධික, ගුණයෙන් අනූන වැල් දොඩම්  | Passion Fruit | Ceylon Agri | Episode 161",
+                "url": "https://youtube.com/watch?v=PpsIXiFmS_8",
+                "duration": "12:35",
+                "thumbnail": "https://i.ytimg.com/vi/PpsIXiFmS_8/hq720.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් වගාව දෙවැනි කප්පාදුව නිවැරැදිව කරමු | passion fruit pruning | passion fruit cultivation",
+                "url": "https://youtube.com/watch?v=InKtDU-MNN8",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/InKtDU-MNN8/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් දොඩම්  කප්පදු හා වැල් පුහුණු කරන ආකාරය - pruning and Training Methods Of Passion Fruit",
+                "url": "https://youtube.com/watch?v=By_X4JsR2mw",
+                "duration": "7:18",
+                "thumbnail": "https://i.ytimg.com/vi/By_X4JsR2mw/hq720.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් කොළ මැල්ලුම ගුණ කෝට්යයි | passion fruit leaves benefits🌿",
+                "url": "https://youtube.com/watch?v=_uot4bZ4r0U",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/_uot4bZ4r0U/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් වගාවේ නඩත්තුව | passion fruit maintenance | cultivation | view lanka",
+                "url": "https://youtube.com/watch?v=HDajG3TaTkM",
+                "duration": "10:58",
+                "thumbnail": "https://i.ytimg.com/vi/HDajG3TaTkM/hq720.jpg"
+            },
+            {
+                "title": "හදවතට ගුණ දෙන වැල් දොඩම් passion fruits that are good for the heart",
+                "url": "https://youtube.com/watch?v=JW5_7yvw1YA",
+                "duration": "7:00",
+                "thumbnail": "https://i.ytimg.com/vi/JW5_7yvw1YA/hq720.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් ගැන ඔබ නොදන්න කතාව...",
+                "url": "https://youtube.com/watch?v=1E9Sb3IPPs4",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/1E9Sb3IPPs4/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් වගාව අධිගනත්ව | hypertension passion fruit | passion fruit cultivation | view lanka",
+                "url": "https://youtube.com/watch?v=7qDGWsgLMnQ",
+                "duration": "10:28",
+                "thumbnail": "https://i.ytimg.com/vi/7qDGWsgLMnQ/hqdefault.jpg"
+            },
+            {
+                "title": "පැෂන් ෆෘට් පානය හරිම බයානකයි | passion fruit drink very danger | passion fruit benefits🌿",
+                "url": "https://youtube.com/watch?v=9oxYVe8SAIA",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/9oxYVe8SAIA/hqdefault.jpg"
+            },
+            {
+                "title": "ෆැෂන් කන්න කලින් හැම දේම දැනගන්න Passion Fruit  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=OzoM7pHu-U8",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/OzoM7pHu-U8/hqdefault.jpg"
+            },
+            {
+                "title": "පිළිකා වැළැක්වීමේ ගුණ ඇති වැල් දොඩම් | Passion Fruit |පැෂන් පළතුර | Passiflora edulis",
+                "url": "https://youtube.com/watch?v=EfNA1SC3O3k",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/EfNA1SC3O3k/hq720.jpg"
+            },
+            {
+                "title": "passion fruit පැෂන් වල ගුණ",
+                "url": "https://youtube.com/watch?v=ot4XVGyWpno",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/ot4XVGyWpno/hqdefault.jpg"
+            },
+            {
+                "title": "පැෂන් වැල්දොඩම් වගාවට ප්‍රශ්නයක් දුඹුරු පුල්ලි රෝගයෙන් වගාව බේරගන්න Brown Spot disease in Passion",
+                "url": "https://youtube.com/watch?v=h3GiuOKHV8I",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/h3GiuOKHV8I/hq720.jpg"
+            },
+            {
+                "title": "වැඩි අස්වැන්නකට වැල් දොඩම් පරාගනය (Passion fruit pollination)",
+                "url": "https://youtube.com/watch?v=LVLI4OPfNiw",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/LVLI4OPfNiw/hq720.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් වගාව සදහා | Krushi Tv",
+                "url": "https://youtube.com/watch?v=8KjiejA7yTk",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/8KjiejA7yTk/hq720.jpg"
+            },
+            {
+                "title": "✔ප්‍රතිශක්තිය වඩන රසවත් වැල් දොඩම් පානය | ෆැෂන් ෆෘට් පානය | Passion Fruit Juice | Gami Sirikatha",
+                "url": "https://youtube.com/watch?v=kNGEppqX2XQ",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/kNGEppqX2XQ/hq720.jpg"
+            },
+            {
+                "title": "හදවතට ගුණ දෙන වැල් දොඩම් passion fruits that are good for the heart",
+                "url": "https://youtube.com/watch?v=DxqhKByhDgY",
+                "duration": "7:00",
+                "thumbnail": "https://i.ytimg.com/vi/DxqhKByhDgY/frame0.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් කෘතිම පාරාගනය කරමු...  | Krushi Radio",
+                "url": "https://youtube.com/watch?v=XsEIE1oey-0",
+                "duration": "7:47",
+                "thumbnail": "https://i.ytimg.com/vi/XsEIE1oey-0/hq720.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් වගාවේ නිවැරදි 02 කප්පාදුව-Department Of Agriculture Sri lanka Krushi tv channel",
+                "url": "https://youtube.com/watch?v=qNrQHZ9BMCw",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/qNrQHZ9BMCw/hq720.jpg"
+            },
+            {
+                "title": "වැල් දොඩම්,පැශන් ෆෘට් .වගාව.#pashanfrut.#fruits #agriculture #palathuru.#manga #farming .😀",
+                "url": "https://youtube.com/watch?v=cXg5Wq9qQ0s",
+                "duration": "9:58",
+                "thumbnail": "https://i.ytimg.com/vi/cXg5Wq9qQ0s/hqdefault.jpg"
+            },
+            {
+                "title": "පැසන් වැල් පැලකිරිම   Passion fruit Planting of vines  pesan wel pelakirima",
+                "url": "https://youtube.com/watch?v=jmYnBUio-l8",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/jmYnBUio-l8/hqdefault.jpg"
+            },
+            {
+                "title": "\"වැල් දොඩම් කියල හිතලා කන්න එපා - කෑවොත් මැරෙනවා\"  / POISONOUS PLANTS IN SRI LANKA @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=8hH9Im9m-ds",
+                "duration": "10:05",
+                "thumbnail": "https://i.ytimg.com/vi/8hH9Im9m-ds/hq720.jpg"
+            },
+            {
+                "title": "ගුණදායි වැල්දොඩම් කොළ සම්බෝලය|Passion Fruit Leaves Sambal For High Blood Pressure|Gami Sirikatha",
+                "url": "https://youtube.com/watch?v=8niB0LHfvjQ",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/8niB0LHfvjQ/hq720.jpg"
+            },
+            {
+                "title": "පැෂන් වැල පිරෙන්න ගෙඩි ගන්න විදිය | Passion Fruit | Ceylon Agri | Episode 143",
+                "url": "https://youtube.com/watch?v=NgUTdvVLnlg",
+                "duration": "7:23",
+                "thumbnail": "https://i.ytimg.com/vi/NgUTdvVLnlg/hq720.jpg"
+            },
+            {
+                "title": "පැෂන් ෆෘට් වගාව / වැල්දොඩම් වගාව / pasan wagawa sinhala/Passion fruit Cultivation / pashan wagawa",
+                "url": "https://youtube.com/watch?v=0PwoJpqZ9vE",
+                "duration": "31:17",
+                "thumbnail": "https://i.ytimg.com/vi/0PwoJpqZ9vE/hq720.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් |fashion fruit",
+                "url": "https://youtube.com/watch?v=h27_Ml1zt9M",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/h27_Ml1zt9M/hqdefault.jpg"
+            },
+            {
+                "title": "පැෂන් ෆෘට් කෑවොත් වෙන දේ - Health benefits of passion fruit",
+                "url": "https://youtube.com/watch?v=wWL2U9M8iVI",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/wWL2U9M8iVI/hq720.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් මල් වැඩිකර අස්වැන්න වැඩිකරගන්නෙ මේ විදිහටයි | passion fruit big harvest | passion fruit",
+                "url": "https://youtube.com/watch?v=9xC-7-yDMno",
+                "duration": "10:37",
+                "thumbnail": "https://i.ytimg.com/vi/9xC-7-yDMno/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් වගාවේ මල් පරාගනය-Department Of Agriculture Sri lanka Krushi tv channel",
+                "url": "https://youtube.com/watch?v=1kfSgLelIo4",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/1kfSgLelIo4/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ear Diseases",
-      "sinhala": "කන් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Pulmonary Disorders",
-      "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits",
-    "Leaves",
-    "Roots",
-    "Stem"
-  ],
-  "images": [
-    {
-      "image_id": "2997",
-      "caption": "Flower bud (PMR)",
-      "url": "https://i.ibb.co/bgMwWx6K/plant00976-02997.jpg"
-    },
-    {
-      "image_id": "2998",
-      "caption": "Young fruit (PMR)",
-      "url": "https://i.ibb.co/Z6DNcmsJ/plant00976-02998.jpg"
-    },
-    {
-      "image_id": "2999",
-      "caption": "Mature Fruits (PMR)",
-      "url": "https://i.ibb.co/Xrptf1HT/plant00976-02999.jpg"
-    },
-    {
-      "image_id": "3000",
-      "caption": "Seeds (PMR)",
-      "url": "https://i.ibb.co/9mdTY664/plant00976-03000.jpg"
-    },
-    {
-      "image_id": "3001",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/pmG3h1q/plant00976-03001.jpg"
-    },
-    {
-      "image_id": "3002",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/7JPrdP4h/plant00976-03002.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

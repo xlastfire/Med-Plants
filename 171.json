@@ -1,95 +1,256 @@
 {
-  "scientificName": "Phoenix dactylifera L.",
-  "synonyms": [
-    "Encephalartos pungens (L.f. ex Aiton) Lehm.",
-    "Macrozamia tridentata var. pungens J.Schust.",
-    "Palma dactylifera (L.) Mill.",
-    "Palma major Garsault",
-    "Phoenix atlantica var. maroccana A.Chev.",
-    "Phoenix chevalieri D.Rivera, S.Ríos & Obón",
-    "Phoenix dactylifera var. adunca D.H.Christ ex Becc.",
-    "Phoenix dactylifera var. costata Becc.",
-    "Phoenix dactylifera var. cylindrocarpa Mart.",
-    "Phoenix dactylifera var. gonocarpa Mart.",
-    "Phoenix dactylifera var. oocarpa Mart.",
-    "Phoenix dactylifera var. oxysperma Mart.",
-    "Phoenix dactylifera var. sphaerocarpa Mart.",
-    "Phoenix dactylifera var. sphaerosperma Mart.",
-    "Phoenix dactylifera var. sylvestris Mart.",
-    "Phoenix excelsior Cav.",
-    "Phoenix iberica D.Rivera, S.Ríos & Obón",
-    "Zamia pallida Salisb.",
-    "Zamia pungens L.f. ex Aiton"
-  ],
-  "familyName": "ARECACEAE",
-  "englishNames": [
-    "Date",
-    "Date Palm"
-  ],
-  "sinhalaName": "Rata indi (රට ඉඳි)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Hiccups",
-      "sinhala": "හිකිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Phoenix dactylifera L.",
+    "synonyms": [
+        "Encephalartos pungens (L.f. ex Aiton) Lehm.",
+        "Macrozamia tridentata var. pungens J.Schust.",
+        "Palma dactylifera (L.) Mill.",
+        "Palma major Garsault",
+        "Phoenix atlantica var. maroccana A.Chev.",
+        "Phoenix chevalieri D.Rivera, S.Ríos & Obón",
+        "Phoenix dactylifera var. adunca D.H.Christ ex Becc.",
+        "Phoenix dactylifera var. costata Becc.",
+        "Phoenix dactylifera var. cylindrocarpa Mart.",
+        "Phoenix dactylifera var. gonocarpa Mart.",
+        "Phoenix dactylifera var. oocarpa Mart.",
+        "Phoenix dactylifera var. oxysperma Mart.",
+        "Phoenix dactylifera var. sphaerocarpa Mart.",
+        "Phoenix dactylifera var. sphaerosperma Mart.",
+        "Phoenix dactylifera var. sylvestris Mart.",
+        "Phoenix excelsior Cav.",
+        "Phoenix iberica D.Rivera, S.Ríos & Obón",
+        "Zamia pallida Salisb.",
+        "Zamia pungens L.f. ex Aiton"
+    ],
+    "familyName": "ARECACEAE",
+    "englishNames": [
+        "Date",
+        "Date Palm"
+    ],
+    "sinhalaName": "Rata indi (රට ඉඳි)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Hiccups",
+            "sinhala": "හිකිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Prostate Enlargement",
+            "sinhala": "ප්‍රොස්ටේට් ග්‍රන්ථිය විශාල වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Vertigo",
+            "sinhala": "කැරකැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits",
+        "Pith"
+    ],
+    "images": [
+        {
+            "image_id": "2869",
+            "caption": "Habit 1 (PMR)",
+            "url": "https://i.ibb.co/Kjbxhk0s/plant00171-02869.jpg"
+        },
+        {
+            "image_id": "2870",
+            "caption": "Habit 2 (PMR)",
+            "url": "https://i.ibb.co/Zp1QTP3W/plant00171-02870.jpg"
+        },
+        {
+            "image_id": "2871",
+            "caption": "Leaflets (PMR)",
+            "url": "https://i.ibb.co/xKyBmPrh/plant00171-02871.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "රට ඉඳි ගැන  ප්‍රශ්න වලට උත්තර | Dates Short Vedio Answers By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=sMbSoeiSPm4",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/sMbSoeiSPm4/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම රට ඉදි මදුළු 3ක් කෑවොත් ඔබට ලැබෙන ප්‍රයෝජන 9 මෙන්න | Eat 3 Dates See What Happens",
+                "url": "https://youtube.com/watch?v=mnCrDH12RH8",
+                "duration": "11:27",
+                "thumbnail": "https://i.ytimg.com/vi/mnCrDH12RH8/hq720.jpg"
+            },
+            {
+                "title": "ඇඟ හදන රට ඉඳි ගැන හැම දේම දැනගන්න | රට ඉඳි මගින් අපට ලැබෙන වටිනා වාසි 5 ක්",
+                "url": "https://youtube.com/watch?v=jVdYBXURzec",
+                "duration": "8:24",
+                "thumbnail": "https://i.ytimg.com/vi/jVdYBXURzec/hqdefault.jpg"
+            },
+            {
+                "title": "හැමදාම රට ඉදි ගෙඩි දෙකක් කෑමට ගන්න ඔබට ලැබෙන පුදුම වාසි 14ක් | Start Eating 2 Dates Every Day",
+                "url": "https://youtube.com/watch?v=_QaP3jhxJ_E",
+                "duration": "7:52",
+                "thumbnail": "https://i.ytimg.com/vi/_QaP3jhxJ_E/hq720.jpg"
+            },
+            {
+                "title": "අරුම පුදුම රට ඉඳි වල ඔබ නොදන්නා ගුණ| Nutritional Benefits of Dates Madhushan athugala",
+                "url": "https://youtube.com/watch?v=pUajW9xCbmY",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/pUajW9xCbmY/hq720.jpg"
+            },
+            {
+                "title": "රට ඉඳි කෑවොත් වෙන දේ මෙන්න - Dates which boost up your body",
+                "url": "https://youtube.com/watch?v=0PHU-Oi2E9s",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/0PHU-Oi2E9s/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා රටඉඳි ආහාරයට ගැනීමෙන් ලබා ගන්න පුළුවන් වාසි  10 ක් - https://youtu.be/shwV_cKz_T8",
+                "url": "https://youtube.com/watch?v=shwV_cKz_T8",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/shwV_cKz_T8/hq720.jpg"
+            },
+            {
+                "title": "රට ඉඳි සතු මේ හැකියාවන් ඇහුවොත් ඔබ පුදුම වේවි. | Amazing facts about Dates!",
+                "url": "https://youtube.com/watch?v=BVqdrecsIZc",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/BVqdrecsIZc/hq720.jpg"
+            },
+            {
+                "title": "රටඉදි කන්න කලින් මේ ටික දැනගෙන කන්න  | Dates By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=RQQeyw-z3pg",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/RQQeyw-z3pg/hq720.jpg"
+            },
+            {
+                "title": "රට ඉඳි වල සැඟවුණු ගුණ",
+                "url": "https://youtube.com/watch?v=V8qHiPhGBbQ",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/V8qHiPhGBbQ/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා රෝගීන්ට රටඉඳි ගැනීම සුදුසුද? | Dates for Diabetes | Dates & Blood Sugar",
+                "url": "https://youtube.com/watch?v=xkJEFOmAkmQ",
+                "duration": "8:34",
+                "thumbnail": "https://i.ytimg.com/vi/xkJEFOmAkmQ/hq720.jpg"
+            },
+            {
+                "title": "kuwait dates ඇගට ගුණ හොඳින් ඉදුණු රට ඉඳි ගැනයි මේ කාතාව",
+                "url": "https://youtube.com/watch?v=72GHFGQ_OpU",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/72GHFGQ_OpU/hq720.jpg"
+            },
+            {
+                "title": "සීනි වෙනුවට රට ඉඳි කෑවොත් Nutrition by Madhushan Athugala",
+                "url": "https://youtube.com/watch?v=JNOhAPGkidE",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/JNOhAPGkidE/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා රටඉඳි 3ක් දවස් 14ක් කෑවොත්? | What Happens If You Eat 3 Dates a Day for 14 Days?",
+                "url": "https://youtube.com/watch?v=XbQBi3oPNNw",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/XbQBi3oPNNw/hq720.jpg"
+            },
+            {
+                "title": "බබාට හොද රට ඉදි ගැන හරියට දැනුවත් වෙන්න හරියට තෝර ගන්න- Dates for babies by baby's food book-Sinhala",
+                "url": "https://youtube.com/watch?v=TFA2PQIswAw",
+                "duration": "6:29",
+                "thumbnail": "https://i.ytimg.com/vi/TFA2PQIswAw/hqdefault.jpg"
+            },
+            {
+                "title": "හැමදාම රට ඉඳි කෑවොත් ලැබෙන පුදුම හිතෙන Benefits",
+                "url": "https://youtube.com/watch?v=QdVo5NMp4-U",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/QdVo5NMp4-U/hq720.jpg"
+            },
+            {
+                "title": "Rataidi wala puduma guna  රට ඉඳිවල පුදුම රහස්( හරි දැනුම)",
+                "url": "https://youtube.com/watch?v=K-UT2IkuL_U",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/K-UT2IkuL_U/hqdefault.jpg"
+            },
+            {
+                "title": "රටඉඳි කන්න පටන්ගමුද..",
+                "url": "https://youtube.com/watch?v=PP2mFfoPFfE",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/PP2mFfoPFfE/hq720.jpg"
+            },
+            {
+                "title": "රට ඉදි බීජ පැලකිරිම ,rata idhi bija pelakirima ,How to grow a date palm tree from seed",
+                "url": "https://youtube.com/watch?v=JbMqev6-7r8",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/JbMqev6-7r8/hqdefault.jpg"
+            },
+            {
+                "title": "රට ඉඳි ගැන  ප්‍රශ්න වලට උත්තර | Dates Short Vedio Answers By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=ve8EjLeGEp4",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/ve8EjLeGEp4/frame0.jpg"
+            },
+            {
+                "title": "රට ඉදි වල තියෙන අමිල ගුණ",
+                "url": "https://youtube.com/watch?v=MWu23s2eRjg",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/MWu23s2eRjg/hq720.jpg"
+            },
+            {
+                "title": "Amazing Benefits Of Dates | සෞඛ්‍ය ප්‍රතිලාභ රැසක් ඇති රට ඉදි @Knowdiet496",
+                "url": "https://youtube.com/watch?v=NoCjYraKJ6o",
+                "duration": "11:00",
+                "thumbnail": "https://i.ytimg.com/vi/NoCjYraKJ6o/hq720.jpg"
+            },
+            {
+                "title": "රට ඉඳි වලින් අපගේ ශරීරයට හා මනසට ලැබෙන ප්‍රතිලාභ .Benefits of dates for our body and mind",
+                "url": "https://youtube.com/watch?v=yFKw0JkqjkU",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/yFKw0JkqjkU/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා රටඉදි ගෙඩි 3 ක් ආහාරයට ගතහොත් ඔබේ ශරීරයට ලැබෙන වාසි | Health Benefits of Dates Fruit",
+                "url": "https://youtube.com/watch?v=NliburWx6Ws",
+                "duration": "5:09",
+                "thumbnail": "https://i.ytimg.com/vi/NliburWx6Ws/hq720.jpg"
+            },
+            {
+                "title": "රටඉඳි කන ඔයා නොදැන කෑවෙ නේද |Benefits datesTrue Sense #dateseveryday#eatdatesdaily#sinhala youtube",
+                "url": "https://youtube.com/watch?v=qs8L0yXJIgc",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/qs8L0yXJIgc/hq720.jpg"
+            },
+            {
+                "title": "රටඉදිවල ඇති හිතාගන්න බැරි ගුණ.The incredible qualities of dates",
+                "url": "https://youtube.com/watch?v=VeOSZtzDMMY",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/VeOSZtzDMMY/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Prostate Enlargement",
-      "sinhala": "ප්‍රොස්ටේට් ග්‍රන්ථිය විශාල වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Vertigo",
-      "sinhala": "කැරකැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits",
-    "Pith"
-  ],
-  "images": [
-    {
-      "image_id": "2869",
-      "caption": "Habit 1 (PMR)",
-      "url": "https://i.ibb.co/Kjbxhk0s/plant00171-02869.jpg"
-    },
-    {
-      "image_id": "2870",
-      "caption": "Habit 2 (PMR)",
-      "url": "https://i.ibb.co/Zp1QTP3W/plant00171-02870.jpg"
-    },
-    {
-      "image_id": "2871",
-      "caption": "Leaflets (PMR)",
-      "url": "https://i.ibb.co/xKyBmPrh/plant00171-02871.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,183 +1,332 @@
 {
-  "scientificName": "Sida cordifolia L.",
-  "synonyms": [
-    "Abutilon truncatum (Cav.) G.Don",
-    "Malvastrum cordifolium Rojas Acosta",
-    "Malvinda cordifolia (L.) Medik.",
-    "Sida aristata Willd. ex Spreng.",
-    "Sida borbonica Cav.",
-    "Sida byssina Schrank",
-    "Sida ciliosa Bojer ex Baker",
-    "Sida conferta Link",
-    "Sida cordifolia var. conferta (Link) Griseb.",
-    "Sida decagyna Schumach. & Thonn.",
-    "Sida hamulosa Salzm. ex Griseb.",
-    "Sida herbacea Cav.",
-    "Sida holosericea Willd. ex Spreng.",
-    "Sida hongkongensis Gand.",
-    "Sida micans Cav.",
-    "Sida mollis Banks ex Griseb.",
-    "Sida multiflora Cav.",
-    "Sida portoricensis Spreng.",
-    "Sida pungens Kunth",
-    "Sida rotundifolia Lam.",
-    "Sida subspicata Colla",
-    "Sida tomentosa Vell.",
-    "Sida truncata Cav.",
-    "Sida velloziana Steud.",
-    "Sida velutina Willd. ex Spreng.",
-    "Sida vestita Steud.",
-    "Sida waltheriifolia Bojer ex Baker"
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Flannel Weed",
-    "Heartleaf Sida"
-  ],
-  "sinhalaName": "Heen anoda (හීන් අනෝදා )",
-  "description": "පඳුරු ශාකයක් වන මෙය කෙලින් වැඩෙන, (0.1 -) 0.5 - 0.7 (-1) මීටර උසකින් යුත්, හොඳින් අතු බෙදුණු, අප්‍රසන්න ගන්ධයක් සහිත ශාකයකි. පත්‍රවල පත්‍ර තලය (lamina) 1 - 5.5 X 0.8 - 3.5 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, බිත්තරාකාර (ovate) සිට ආයත (oblong) හැඩයක් ගනී. පත්‍ර අග මොට (obtuse) වන අතර පාදම මඳක් හෘදයාකාර (shallowly cordate) වේ; කලාතුරකින් පාදම අර්ධ-කපා දැමූ (subtruncate) හෝ වටකුරු විය හැක. පත්‍ර දාර කියත් දත් සහිත (serrate) සිට දන්තමය (crenate) වේ. පත්‍ර දෙපසම කුඩා තරු හැඩැති රෝම (stellate hairs) සහිතව වෙල්වට් වැනි ස්වභාවයක් (velutinous) ගනී. පත්‍ර පාදමෙන් නිකුත් වන නහර 3 - 5 (-7) ක් ඇත. මල් තැඹිලි සිට ලා කහ පැහැයක් ගනී, කලාතුරකින් සුදු පැහැ විය හැක. මල් සාමාන්‍යයෙන් තනිව පත්‍ර කක්ෂවල (solitary-axillary) පිහිටන අතර, සමහර විට කඳේ හෝ අතු අග දෙසට 2 - 5 බැගින් පොකුරු ලෙස පිහිටයි. මල් දඬුව (pedicel) 5 - 14 මි.මී. දිගු, සිහින් සහ රෝම සහිත (pubescent) වන අතර, සාමාන්‍යයෙන් ඉහළ කාර්තුවේ සන්ධි වී ඇත. මෙරිකාප (mericarp) 8 - 10 ක් පවතී, ඒවා දළ වශයෙන් 3 - 3.5 X 2 මි.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, පැතලි ත්‍රිකෝණාකාර (flattened-trigonous) හැඩයක් ගනී. පිටුපස සහ අග්‍රස්ථයේ කුඩා තරු හැඩැති රෝම සහිත වන අතර, අග්‍රයේ 2 - 5 මි.මී. දිගු, පසුපසට නැමුණු රෝම සහිත (retrorsely hairy) කටු (awns) දෙකක් ඇත. බීජ 2 - 2.5 මි.මී. විෂ්කම්භයකින් යුක්ත වන අතර, පැතලි වකුගඩු හැඩැති (flattened-reniform) වේ. බීජ ලා දුඹුරු පැහැති වන අතර, නාභිය (hilum) අසල ඇති කෙටි රෝම හැරුණු විට සිනිඳු (glabrous) වේ.",
-  "treatments": [
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Sida cordifolia L.",
+    "synonyms": [
+        "Abutilon truncatum (Cav.) G.Don",
+        "Malvastrum cordifolium Rojas Acosta",
+        "Malvinda cordifolia (L.) Medik.",
+        "Sida aristata Willd. ex Spreng.",
+        "Sida borbonica Cav.",
+        "Sida byssina Schrank",
+        "Sida ciliosa Bojer ex Baker",
+        "Sida conferta Link",
+        "Sida cordifolia var. conferta (Link) Griseb.",
+        "Sida decagyna Schumach. & Thonn.",
+        "Sida hamulosa Salzm. ex Griseb.",
+        "Sida herbacea Cav.",
+        "Sida holosericea Willd. ex Spreng.",
+        "Sida hongkongensis Gand.",
+        "Sida micans Cav.",
+        "Sida mollis Banks ex Griseb.",
+        "Sida multiflora Cav.",
+        "Sida portoricensis Spreng.",
+        "Sida pungens Kunth",
+        "Sida rotundifolia Lam.",
+        "Sida subspicata Colla",
+        "Sida tomentosa Vell.",
+        "Sida truncata Cav.",
+        "Sida velloziana Steud.",
+        "Sida velutina Willd. ex Spreng.",
+        "Sida vestita Steud.",
+        "Sida waltheriifolia Bojer ex Baker"
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Flannel Weed",
+        "Heartleaf Sida"
+    ],
+    "sinhalaName": "Heen anoda (හීන් අනෝදා )",
+    "description": "පඳුරු ශාකයක් වන මෙය කෙලින් වැඩෙන, (0.1 -) 0.5 - 0.7 (-1) මීටර උසකින් යුත්, හොඳින් අතු බෙදුණු, අප්‍රසන්න ගන්ධයක් සහිත ශාකයකි. පත්‍රවල පත්‍ර තලය (lamina) 1 - 5.5 X 0.8 - 3.5 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, බිත්තරාකාර (ovate) සිට ආයත (oblong) හැඩයක් ගනී. පත්‍ර අග මොට (obtuse) වන අතර පාදම මඳක් හෘදයාකාර (shallowly cordate) වේ; කලාතුරකින් පාදම අර්ධ-කපා දැමූ (subtruncate) හෝ වටකුරු විය හැක. පත්‍ර දාර කියත් දත් සහිත (serrate) සිට දන්තමය (crenate) වේ. පත්‍ර දෙපසම කුඩා තරු හැඩැති රෝම (stellate hairs) සහිතව වෙල්වට් වැනි ස්වභාවයක් (velutinous) ගනී. පත්‍ර පාදමෙන් නිකුත් වන නහර 3 - 5 (-7) ක් ඇත. මල් තැඹිලි සිට ලා කහ පැහැයක් ගනී, කලාතුරකින් සුදු පැහැ විය හැක. මල් සාමාන්‍යයෙන් තනිව පත්‍ර කක්ෂවල (solitary-axillary) පිහිටන අතර, සමහර විට කඳේ හෝ අතු අග දෙසට 2 - 5 බැගින් පොකුරු ලෙස පිහිටයි. මල් දඬුව (pedicel) 5 - 14 මි.මී. දිගු, සිහින් සහ රෝම සහිත (pubescent) වන අතර, සාමාන්‍යයෙන් ඉහළ කාර්තුවේ සන්ධි වී ඇත. මෙරිකාප (mericarp) 8 - 10 ක් පවතී, ඒවා දළ වශයෙන් 3 - 3.5 X 2 මි.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, පැතලි ත්‍රිකෝණාකාර (flattened-trigonous) හැඩයක් ගනී. පිටුපස සහ අග්‍රස්ථයේ කුඩා තරු හැඩැති රෝම සහිත වන අතර, අග්‍රයේ 2 - 5 මි.මී. දිගු, පසුපසට නැමුණු රෝම සහිත (retrorsely hairy) කටු (awns) දෙකක් ඇත. බීජ 2 - 2.5 මි.මී. විෂ්කම්භයකින් යුක්ත වන අතර, පැතලි වකුගඩු හැඩැති (flattened-reniform) වේ. බීජ ලා දුඹුරු පැහැති වන අතර, නාභිය (hilum) අසල ඇති කෙටි රෝම හැරුණු විට සිනිඳු (glabrous) වේ.",
+    "treatments": [
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bleeding Hemorrhoids",
+            "sinhala": "ලේ අර්ශස්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Spermatorrhea",
+            "sinhala": "ධාතු නොදැනුවත්ව පිටවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Nervous System Disorders",
+            "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Disorders",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Blood Disorders",
+            "sinhala": "රුධිරය ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tenesmus",
+            "sinhala": "මලපහ කිරීමේදී ඇතිවන තැටමීමේ වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Cystitis",
+            "sinhala": "මුත්‍රාශ ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "1016",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/ymCRSsFc/plant00792-01016.jpg"
+        },
+        {
+            "image_id": "1017",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/4gSX7Ygq/plant00792-01017.jpg"
+        },
+        {
+            "image_id": "1018",
+            "caption": "Young fruit",
+            "url": "https://i.ibb.co/7xhjQN6b/plant00792-01018.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Treatment for cancer patients ANODA FRUITS AND MEDICINE - පැලැනාවෙන් මිදෙන්න අනෝදා කන්න",
+                "url": "https://youtube.com/watch?v=9OnXR7UNYKM",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/9OnXR7UNYKM/hq720.jpg"
+            },
+            {
+                "title": "අනෝදා කෘතිම පරාගනය | ගෙවතු වගාව | artificial polination of anona | home garden | gewathu wagawa",
+                "url": "https://youtube.com/watch?v=l0SEyum4utA",
+                "duration": "14:05",
+                "thumbnail": "https://i.ytimg.com/vi/l0SEyum4utA/hq720.jpg"
+            },
+            {
+                "title": "ඉතාම රසවත් ගූණවත් පලතුර අනෝදා වැලි අනෝදා / anoda /anoda",
+                "url": "https://youtube.com/watch?v=XXX-7CxBVa8",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/XXX-7CxBVa8/hq720.jpg"
+            },
+            {
+                "title": "කවුරුත් කන්න ආස නොදන්න ගුනදායක කටු අනෝදා වෑන්ජනය ✔‍😍 Soursop Curry Recipe | Traditional Sisters",
+                "url": "https://youtube.com/watch?v=TyKrQFqvc9U",
+                "duration": "9:09",
+                "thumbnail": "https://i.ytimg.com/vi/TyKrQFqvc9U/hqdefault.jpg"
+            },
+            {
+                "title": "#කටුඅනෝදා කෑවොත් වෙන දේ මෙන්න|#ගතට හිතකර #කටු අනෝදා|#ox-heart",
+                "url": "https://youtube.com/watch?v=77iL-TFaepk",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/77iL-TFaepk/hq720.jpg"
+            },
+            {
+                "title": "Bullock's heart වැලි අනෝදා",
+                "url": "https://youtube.com/watch?v=JncXC9RfXxA",
+                "duration": "0:57",
+                "thumbnail": "https://i.ytimg.com/vi/JncXC9RfXxA/hq720.jpg"
+            },
+            {
+                "title": "සුවහසක් ලෙඩරෝග සුවකරන අනෝදා පානය | Health Benefits of Soursop Leaves Annona muricata Tea",
+                "url": "https://youtube.com/watch?v=Pc5VTXBmM50",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/Pc5VTXBmM50/hqdefault.jpg"
+            },
+            {
+                "title": "අනෝදා ඇට කැවුනොත් මෙතරම් භයානකද? අනෝදා වල ගුණ අගුණ Annona: Benefits & Seed Dangers!",
+                "url": "https://youtube.com/watch?v=Q5tzrsfs-JM",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/Q5tzrsfs-JM/hq720.jpg"
+            },
+            {
+                "title": "අනෝදා වල විශ්මිත ගුණ - Amazing properties of Soursop",
+                "url": "https://youtube.com/watch?v=VNXS7J8e-tQ",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/VNXS7J8e-tQ/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා ආහාරයට ගන්නා අයගේ සිරුරේ සිදුවන විශ්මිත වෙනස මෙන්​න - Super Benifts of soursop Fruits",
+                "url": "https://youtube.com/watch?v=erCo2T3u1O4",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/erCo2T3u1O4/hq720.jpg"
+            },
+            {
+                "title": "කෘතිම පරාගනයකින් තොරව කටු අනෝදා වගාවෙන් ඉහල ඵලදාවක් ලබා ගනිමු #කටුඅනෝදා #farming #agriculture #fruit",
+                "url": "https://youtube.com/watch?v=pOhRb8uXIA4",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/pOhRb8uXIA4/hq720.jpg"
+            },
+            {
+                "title": "අනෝදා කොළ වල ඇති සුවිශේෂ වූ මේ විශ්මිත ගුණ ගැන ඔබ දැන සිටියාද? - Benefits Of Graviola Leaf",
+                "url": "https://youtube.com/watch?v=Xu0rFc_Th-A",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/Xu0rFc_Th-A/hq720.jpg"
+            },
+            {
+                "title": "Treatment for cancer patients ANODA FRUITS AND MEDICINE - පැලැනාවෙන් මිදෙන්න අනෝදා කන්න",
+                "url": "https://youtube.com/watch?v=zXSqhPwWCqg",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/zXSqhPwWCqg/frame0.jpg"
+            },
+            {
+                "title": "Anoda | Soursop Fruit| නැවුම් අනෝදා | Ceylon Village Life,",
+                "url": "https://youtube.com/watch?v=HP1SDZV9Jk0",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/HP1SDZV9Jk0/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා මෙහෙම කාල තියේද බන් 😋 Can soursop be cooked? #coking #viralvideo #coking",
+                "url": "https://youtube.com/watch?v=LyJbkSo8Sr0",
+                "duration": "3:06",
+                "thumbnail": "https://i.ytimg.com/vi/LyJbkSo8Sr0/hqdefault.jpg"
+            },
+            {
+                "title": "කටු අනෝදා වල ඇත්ත නැත්ත!.. | Soursop ( Graviola) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LTJtQuq7P_g",
+                "duration": "10:12",
+                "thumbnail": "https://i.ytimg.com/vi/LTJtQuq7P_g/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා වල  විශ්මිත ගුණ  | Katu anoda",
+                "url": "https://youtube.com/watch?v=CurBJvHadjU",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/CurBJvHadjU/hq720.jpg"
+            },
+            {
+                "title": "සීනි අනෝදා කාල තියෙනවාද : Benefits of Custard apple",
+                "url": "https://youtube.com/watch?v=KZT4ockipy4",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/KZT4ockipy4/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ දෙන බෙහෙත් අනෝදා | Beheth Anodha | Ath Beheth | story eka",
+                "url": "https://youtube.com/watch?v=9JbhEMatFFY",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/9JbhEMatFFY/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Soursop: කටු අනෝදා කෑවොත් වෙන දේ (2018)",
+                "url": "https://youtube.com/watch?v=MFXquSiprSw",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/MFXquSiprSw/hq720.jpg"
+            },
+            {
+                "title": "අනෝදා කොළ වල ඇති සුවිශේෂ වූ මේ විශ්මිත ගුණ ගැන ඔබ දැන සිටියාද? - Benefits Of Graviola Leaf",
+                "url": "https://youtube.com/watch?v=WtZYVFRUot4",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/WtZYVFRUot4/frame0.jpg"
+            },
+            {
+                "title": "කටු අනෝදා කෑවොත් සිදුවන දේ අදහාගත නොහැකියි - Annona Muricata Anticancer Activity",
+                "url": "https://youtube.com/watch?v=6t2Ku_oZXgM",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/6t2Ku_oZXgM/hq720.jpg"
+            },
+            {
+                "title": "Episode 19 පල නොදරන පලතුරු ගස් අස්වද්දන්න පිලියමක් | How to promote fruiting in plants",
+                "url": "https://youtube.com/watch?v=XmapkxLLzT0",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/XmapkxLLzT0/hq720.jpg"
+            },
+            {
+                "title": "අනෝදා කොළ වල ඇති සුවිශේෂ වූ මේ විශ්මිත ගුණ ගැන ඔබ දැන සිටියාද? - Benefits Of Graviola Leaf",
+                "url": "https://youtube.com/watch?v=3wcjAcrQ6fs",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/3wcjAcrQ6fs/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Bleeding Hemorrhoids",
-      "sinhala": "ලේ අර්ශස්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Spermatorrhea",
-      "sinhala": "ධාතු නොදැනුවත්ව පිටවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Nervous System Disorders",
-      "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Tract Disorders",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Blood Disorders",
-      "sinhala": "රුධිරය ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tenesmus",
-      "sinhala": "මලපහ කිරීමේදී ඇතිවන තැටමීමේ වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Cystitis",
-      "sinhala": "මුත්‍රාශ ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "1016",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/ymCRSsFc/plant00792-01016.jpg"
-    },
-    {
-      "image_id": "1017",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/4gSX7Ygq/plant00792-01017.jpg"
-    },
-    {
-      "image_id": "1018",
-      "caption": "Young fruit",
-      "url": "https://i.ibb.co/7xhjQN6b/plant00792-01018.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

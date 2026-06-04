@@ -1,67 +1,282 @@
 {
-  "scientificName": "Syngonium angustatum Schott",
-  "synonyms": [
-    "Nephthytis triphylla Nash",
-    "Syngonium albolineatum W.Bull",
-    "Syngonium gracile Matuda",
-    "Syngonium oerstedianum Schott",
-    "Syngonium podophyllum var. albolineatum (W.Bull) Engl.",
-    "Syngonium podophyllum var. oerstedianum (Schott) Engl."
-  ],
-  "familyName": "ARACEAE",
-  "englishNames": [
-    "Arrowhead Plant",
-    "Fivefingers"
-  ],
-  "sinhalaName": "Wel kohila (වැල් කොහිල)",
-  "description": "කිරි වැනි යුෂ සහිත වැල් වර්ගයකි. කඳන් සෙන්ටිමීටර 1.5ක් දක්වා ඝනකම වන අතර අන්තර් පර්ව (internodes) සෙන්ටිමීටර 10ක් දක්වා වේ. පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 35ක් දක්වා දිග වන අතර, පත්‍ර කොපු (sheath) පත්‍ර වෘන්තයේ ??- ?? ප්‍රමාණයක් ආවරණය කරයි. පත්‍ර තලය පාදස්ථව සංයුක්ත (pedately compound) වන අතර, තරමක් පටු පත්‍රිකා 7-9කින් සමන්විත වේ. මධ්‍යම පත්‍රිකාව සෙන්ටිමීටර 23-7ක් දක්වා වේ. පුෂ්ප මංජරිය (inflorescence) එක් ගැටයකට 8ක් දක්වා පිහිටයි. පුෂ්ප මංජරිය දණ්ඩ (peduncle) සෙන්ටිමීටර 15ක් දක්වා වේ.",
-  "treatments": [
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Syngonium angustatum Schott",
+    "synonyms": [
+        "Nephthytis triphylla Nash",
+        "Syngonium albolineatum W.Bull",
+        "Syngonium gracile Matuda",
+        "Syngonium oerstedianum Schott",
+        "Syngonium podophyllum var. albolineatum (W.Bull) Engl.",
+        "Syngonium podophyllum var. oerstedianum (Schott) Engl."
+    ],
+    "familyName": "ARACEAE",
+    "englishNames": [
+        "Arrowhead Plant",
+        "Fivefingers"
+    ],
+    "sinhalaName": "Wel kohila (වැල් කොහිල)",
+    "description": "කිරි වැනි යුෂ සහිත වැල් වර්ගයකි. කඳන් සෙන්ටිමීටර 1.5ක් දක්වා ඝනකම වන අතර අන්තර් පර්ව (internodes) සෙන්ටිමීටර 10ක් දක්වා වේ. පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 35ක් දක්වා දිග වන අතර, පත්‍ර කොපු (sheath) පත්‍ර වෘන්තයේ ??- ?? ප්‍රමාණයක් ආවරණය කරයි. පත්‍ර තලය පාදස්ථව සංයුක්ත (pedately compound) වන අතර, තරමක් පටු පත්‍රිකා 7-9කින් සමන්විත වේ. මධ්‍යම පත්‍රිකාව සෙන්ටිමීටර 23-7ක් දක්වා වේ. පුෂ්ප මංජරිය (inflorescence) එක් ගැටයකට 8ක් දක්වා පිහිටයි. පුෂ්ප මංජරිය දණ්ඩ (peduncle) සෙන්ටිමීටර 15ක් දක්වා වේ.",
+    "treatments": [
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Vitamin A Deficiency",
+            "sinhala": "විටමින් A ඌනතාවය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "1161",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/tP3gCC1g/plant00150-01161.jpg"
+        },
+        {
+            "image_id": "1162",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/JwhVQ77b/plant00150-01162.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "අර්ශස් නසන වැල් කොහිල ව්‍යංජනය | wal kohila curry by aththamma",
+                "url": "https://youtube.com/watch?v=f2aruuq31iA",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/f2aruuq31iA/hq720.jpg"
+            },
+            {
+                "title": "ඉතා ගුණදායක වැල් කොහිල ව්‍යාංජනය.| wel kohila curry.| Nadee's kitchen.",
+                "url": "https://youtube.com/watch?v=8wUcMNgeiWg",
+                "duration": "5:36",
+                "thumbnail": "https://i.ytimg.com/vi/8wUcMNgeiWg/hq720.jpg"
+            },
+            {
+                "title": "වැල් කොහිල ශාකය ගැන දැනගමු | Wel kohila | Syngonium angustatum🌿✅",
+                "url": "https://youtube.com/watch?v=lEuvSECe6wE",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/lEuvSECe6wE/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් කොහිල ශාකයේ ගුණ අගුණ 🌿",
+                "url": "https://youtube.com/watch?v=sq_l6eMRseo",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/sq_l6eMRseo/hqdefault.jpg"
+            },
+            {
+                "title": "අර්ශස් අමාරුවට වැල්කොහිල දළු බැදුම | Wel Kohila Baduma | Wel Kohila Curry | Arrowhead Plant",
+                "url": "https://youtube.com/watch?v=HfQwpW8DXck",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/HfQwpW8DXck/hq720.jpg"
+            },
+            {
+                "title": "|ගමේ විදියට වැල් කොහිල මාලුවක් උයමු...😋❤️🌿",
+                "url": "https://youtube.com/watch?v=LJgrrWJjvs8",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/LJgrrWJjvs8/hqdefault.jpg"
+            },
+            {
+                "title": "සතියට දෙවරක් මෙන්න මේ දළු මැල්ලුම කෑවොත් අර්ශස් රෝගය මලබද්ධය ඉක්මනින් සුව වෙනවා | වැල් කොහිල දළු",
+                "url": "https://youtube.com/watch?v=67ZHWtgO-AQ",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/67ZHWtgO-AQ/hq720.jpg"
+            },
+            {
+                "title": "වැල් කොහිල Rhaphidophora decursiva",
+                "url": "https://youtube.com/watch?v=Wk8UkEqdm74",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/Wk8UkEqdm74/hq720.jpg"
+            },
+            {
+                "title": "අර්සස් නිට්ටාවට සුව කරන (වැල් කොහිල ) සල්ලි දිලවත් මේවා හොයාගන්න බෑ 😔😔",
+                "url": "https://youtube.com/watch?v=wS-Y0Ja0WY8",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/wS-Y0Ja0WY8/hqdefault.jpg"
+            },
+            {
+                "title": "ඉතා රසවත් ගුනවත් පරිප්පු මිෂ්ර වැල් කොහිල එකක් හදමු  Cook With World",
+                "url": "https://youtube.com/watch?v=HfmnnOZmWeI",
+                "duration": "10:28",
+                "thumbnail": "https://i.ytimg.com/vi/HfmnnOZmWeI/hqdefault.jpg"
+            },
+            {
+                "title": "Wal Kohila Dalu Malluma  වැල් කොහිල  දළු මැල්ලුම @GAMI RASA",
+                "url": "https://youtube.com/watch?v=GgEd6XUhYQQ",
+                "duration": "4:16",
+                "thumbnail": "https://i.ytimg.com/vi/GgEd6XUhYQQ/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් වලට ගුණවැල් කොහිල දළු ව්‍යාංජනය | WAL KOHILA DALU WYANJANYA | #SriLankanFood #food",
+                "url": "https://youtube.com/watch?v=JebFcPMA2Zw",
+                "duration": "11:10",
+                "thumbnail": "https://i.ytimg.com/vi/JebFcPMA2Zw/hq720.jpg"
+            },
+            {
+                "title": "වැල් කොහිල දළු ඇඹුල",
+                "url": "https://youtube.com/watch?v=Dp5xfVpo2oI",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/Dp5xfVpo2oI/hq720.jpg"
+            },
+            {
+                "title": "wel kohila dalu maluwa /wel kohila curry/වැල් කොහිල දළු මාලුව / /sri lankan traditional food recipes",
+                "url": "https://youtube.com/watch?v=_ltsh3MPn3c",
+                "duration": "14:28",
+                "thumbnail": "https://i.ytimg.com/vi/_ltsh3MPn3c/hq720.jpg"
+            },
+            {
+                "title": "Wel kohila Leaves with Dhal (වැල් කොහිල දලු සමග පරිප්පු කිරට)",
+                "url": "https://youtube.com/watch?v=xCvXZTG-m0U",
+                "duration": "7:21",
+                "thumbnail": "https://i.ytimg.com/vi/xCvXZTG-m0U/hq720.jpg"
+            },
+            {
+                "title": "වැල් කොහිල/wal kohila/nilantha's kitchen",
+                "url": "https://youtube.com/watch?v=RmuryaCP5IE",
+                "duration": "7:33",
+                "thumbnail": "https://i.ytimg.com/vi/RmuryaCP5IE/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් නිට්ටාවට හොඳ කරන වැල් කොහිල වල ගුණ මෙන්න",
+                "url": "https://youtube.com/watch?v=97CyJn0zj90",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/97CyJn0zj90/hq720.jpg"
+            },
+            {
+                "title": "දිව ඔසුවක් වන් වැල් කොහිල",
+                "url": "https://youtube.com/watch?v=MtFUV5BgHMo",
+                "duration": "7:31",
+                "thumbnail": "https://i.ytimg.com/vi/MtFUV5BgHMo/hqdefault.jpg"
+            },
+            {
+                "title": "අර්ශස් වලට ගුණ වැල් කොහිල මේ විදියට හදලා තියෙනවද බලන්න",
+                "url": "https://youtube.com/watch?v=1I74PYROGT0",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/1I74PYROGT0/hq720.jpg"
+            },
+            {
+                "title": "වැල්කොහිල ගුණ |walkohila plant",
+                "url": "https://youtube.com/watch?v=yV1Vu6R3g8U",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/yV1Vu6R3g8U/hqdefault.jpg"
+            },
+            {
+                "title": "මලබද්ධය ඇතුළු රෝග ගණනාවකට ගුණ දෙන වැල් කොහිල ඇඹුල Mum's Food Sri Lanka",
+                "url": "https://youtube.com/watch?v=lXDIuECCE-A",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/lXDIuECCE-A/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් නසන ගුණ පිරි වැල් කොහිල දලු මිශ්‍ර පරිප්පු කරිය |Gemiliya kitchen wel kohila recipe |Easy",
+                "url": "https://youtube.com/watch?v=cUIH6Ec5UEY",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/cUIH6Ec5UEY/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් කොහිල ඇඹුල | walkohila ambula | #lifewithsn",
+                "url": "https://youtube.com/watch?v=-zrckIZjtlo",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/-zrckIZjtlo/hqdefault.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගයට දිවි ඔසුව වැල් කොහිල / Wel Kohila / Kohila Dewal / Kohila Devilled",
+                "url": "https://youtube.com/watch?v=cPgmVJYrN1w",
+                "duration": "5:24",
+                "thumbnail": "https://i.ytimg.com/vi/cPgmVJYrN1w/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් කොහිල මැල්ළුම සාදාගන්නා ආකාරය | How to make healthy wal kohila",
+                "url": "https://youtube.com/watch?v=HUr2jKaIg1E",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/HUr2jKaIg1E/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් කොහිල දලු මාලුවක් හදාගන්න විදිහ/wel kohila curry recipe.",
+                "url": "https://youtube.com/watch?v=WYBG8N1me_4",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/WYBG8N1me_4/hqdefault.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගීන්ට ඉතා සුදුසු, වැල් කොහිල ව්‍යාංජනය | How To Make Healthy Wel Kohila Curry.",
+                "url": "https://youtube.com/watch?v=GRxTWY4tFm8",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/GRxTWY4tFm8/hq720.jpg"
+            },
+            {
+                "title": "✔  පරිප්පු මිශ්‍ර වැල් කොහිල ව්‍යංජනය  Wel Kohila Curry | Hela Rasa on Lankatube",
+                "url": "https://youtube.com/watch?v=kJbcD270en4",
+                "duration": "6:46",
+                "thumbnail": "https://i.ytimg.com/vi/kJbcD270en4/hq720.jpg"
+            },
+            {
+                "title": "වැල් කොහිල දළු ව්‍යංජනය | ගමේ කෑම Episode 01 | Cooking With තාත්තයි දුවයි",
+                "url": "https://youtube.com/watch?v=BJbCu1vCgN0",
+                "duration": "10:21",
+                "thumbnail": "https://i.ytimg.com/vi/BJbCu1vCgN0/hq720.jpg"
+            },
+            {
+                "title": "වැල් කොහිල ශාකය ගැන දැනගමු | Wel kohila | Syngonium angustatum🌿✅",
+                "url": "https://youtube.com/watch?v=yiFTQIGvwFE",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/yiFTQIGvwFE/frame0.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගය නසන ගුණදායි වැල් කොහිල",
+                "url": "https://youtube.com/watch?v=iJ32dbnqv5w",
+                "duration": "5:16",
+                "thumbnail": "https://i.ytimg.com/vi/iJ32dbnqv5w/hq720.jpg"
+            },
+            {
+                "title": "අර් ශස් නසන වැල් කොහිල කාලා බලමු",
+                "url": "https://youtube.com/watch?v=FIqxZwZgKXk",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/FIqxZwZgKXk/hq720.jpg"
+            },
+            {
+                "title": "මළ බද්ධය නැතිකරන වැල්කොහිල මැල්ලුම/ Syngonium angustatum/Herbal plants of Sri Lanka",
+                "url": "https://youtube.com/watch?v=au5zLlDmqok",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/au5zLlDmqok/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් කොහිල ශාකය ගැන දැනගමු | Wel kohila | Syngonium angustatum🌿✅",
+                "url": "https://youtube.com/watch?v=DttiLKkssZ4",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/DttiLKkssZ4/frame0.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගය සදහා ඉතාමත් ගුණදායක වැල් කොහිල දළු මාළුව 😋😋😋☘️☘️☘️",
+                "url": "https://youtube.com/watch?v=wCLxABnrOds",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/wCLxABnrOds/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Vitamin A Deficiency",
-      "sinhala": "විටමින් A ඌනතාවය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "1161",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/tP3gCC1g/plant00150-01161.jpg"
-    },
-    {
-      "image_id": "1162",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/JwhVQ77b/plant00150-01162.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

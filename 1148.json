@@ -1,136 +1,219 @@
 {
-  "scientificName": "Oldenlandia herbacea (L.) Roxb.",
-  "synonyms": [
-    "Hedyotis herbacea L.",
-    "Hedyotis linearis Steud.",
-    "Hedyotis micrantha Hochst. ex Hiern",
-    "Hedyotis triflora Wall."
-  ],
-  "familyName": "RUBIACEAE",
-  "englishNames": [
-    "Clusterflower Mille Grains",
-    "Slender Diamond Flower"
-  ],
-  "sinhalaName": "Wal koththamalli (වල් කොත්තමල්ලි)",
-  "description": "වාර්ෂික හෝ බහුවාර්ෂික පැළෑටි වේ. කඳන් සෘජු වන අතර සෙන්ටිමීටර 60ක් දක්වා උසට වැඩේ. උප පත්‍ර (stipules) මිලිමීටර 2-4ක් දිගය. පත්‍ර රේඛීය ලාන්සාකාර (linear lanceolate) වන අතර මිලිමීටර 6-55 x 3-5 ප්‍රමාණයෙන් යුක්ත වේ. පත්‍ර වෘන්තය (petiole) මිලිමීටර 0.2-0.4ක් වේ. මල් පත්‍ර කක්ෂීය (axillary) වන අතර එක් ගැටයකට එකක් හෝ දෙකක් බැගින් පිහිටයි. මල් කිරීට නාලය (corolla tube) මිලිමීටර 2-3ක් දිගය. කරල් (capsule) උප ගෝලාකාර (subglobose) වන අතර මිලිමීටර 2-5 x 1.5-2 ප්‍රමාණයෙන් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Oldenlandia herbacea (L.) Roxb.",
+    "synonyms": [
+        "Hedyotis herbacea L.",
+        "Hedyotis linearis Steud.",
+        "Hedyotis micrantha Hochst. ex Hiern",
+        "Hedyotis triflora Wall."
+    ],
+    "familyName": "RUBIACEAE",
+    "englishNames": [
+        "Clusterflower Mille Grains",
+        "Slender Diamond Flower"
+    ],
+    "sinhalaName": "Wal koththamalli (වල් කොත්තමල්ලි)",
+    "description": "වාර්ෂික හෝ බහුවාර්ෂික පැළෑටි වේ. කඳන් සෘජු වන අතර සෙන්ටිමීටර 60ක් දක්වා උසට වැඩේ. උප පත්‍ර (stipules) මිලිමීටර 2-4ක් දිගය. පත්‍ර රේඛීය ලාන්සාකාර (linear lanceolate) වන අතර මිලිමීටර 6-55 x 3-5 ප්‍රමාණයෙන් යුක්ත වේ. පත්‍ර වෘන්තය (petiole) මිලිමීටර 0.2-0.4ක් වේ. මල් පත්‍ර කක්ෂීය (axillary) වන අතර එක් ගැටයකට එකක් හෝ දෙකක් බැගින් පිහිටයි. මල් කිරීට නාලය (corolla tube) මිලිමීටර 2-3ක් දිගය. කරල් (capsule) උප ගෝලාකාර (subglobose) වන අතර මිලිමීටර 2-5 x 1.5-2 ප්‍රමාණයෙන් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Menstrual Disorders",
+            "sinhala": "ඔසප් ආබාධ සහ අක්‍රමිකතා (කෂ්ටාර්තව / ආර්තව දෝෂ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Ear Diseases",
+            "sinhala": "කන් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Vomiting",
+            "sinhala": "වමනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Leprosy",
+            "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nasopharyngeal Disorders",
+            "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gastric Disorders",
+            "sinhala": "ආමාශගත රෝග/අපහසුතා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Venereal Disease",
+            "sinhala": "ලිංගික රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Parasitic Infestation",
+            "sinhala": "පරපෝෂිත ආසාදන/පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds",
+        "Root",
+        "Whole Plant"
+    ],
+    "images": [
+        {
+            "image_id": "",
+            "caption": "",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9ZmIUoawjPT7BwJeK6TQ94aAUAxJbZEjQw&s"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Wal koththamalli|රෝග  රැසකට ගුණදෙන වල් කොත්තමල්ලි පැළැටියේ විශ්මිත ඖෂධිය ගුණ",
+                "url": "https://youtube.com/watch?v=ky8SextNuXc",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/ky8SextNuXc/hq720.jpg"
+            },
+            {
+                "title": "walkothtta malli |වල් කොත්තමල්ලි.",
+                "url": "https://youtube.com/watch?v=l_Mamm4eNbk",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/l_Mamm4eNbk/hqdefault.jpg"
+            },
+            {
+                "title": "පිළිකා, දියවැඩියාව ඇතුළු රෝග රැසකට ගුණ වල් කොත්තමල්ලි | වල් කොත්තමල්ලි | Wal Koththamalli Plant",
+                "url": "https://youtube.com/watch?v=F-Eb7gnhF2I",
+                "duration": "7:56",
+                "thumbnail": "https://i.ytimg.com/vi/F-Eb7gnhF2I/hq720.jpg"
+            },
+            {
+                "title": "අපි ගණන් ගන්නැති දියවැඩියාව ඇතූලු රෝග රැසකට ගූණදෙන වල් කොත්තමල්ලි",
+                "url": "https://youtube.com/watch?v=JKVGk77ADC8",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/JKVGk77ADC8/hq720.jpg"
+            },
+            {
+                "title": "වල් කොත්තමල්ලි|Scoparia dulcis Sirlank",
+                "url": "https://youtube.com/watch?v=UounQ5OkR9k",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/UounQ5OkR9k/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සඳහා හෙළ ඔසුවක් | වල් කොත්තමල්ලි | Scoparia dulcis | #helaosu",
+                "url": "https://youtube.com/watch?v=ql_MYHbpcRg",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/ql_MYHbpcRg/hq720.jpg"
+            },
+            {
+                "title": "Scoparia dulcis Helth tree.. secreat benfist",
+                "url": "https://youtube.com/watch?v=zI_xDPJZVyg",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/zI_xDPJZVyg/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව මූත්‍රාශය ගල් දියකර පියයුරු පිළිකා වැනි දරුණු රෝග සුවපත් කරන/වල් කොත්තමල්ලි",
+                "url": "https://youtube.com/watch?v=aszMlHK5jEs",
+                "duration": "9:34",
+                "thumbnail": "https://i.ytimg.com/vi/aszMlHK5jEs/hq720.jpg"
+            },
+            {
+                "title": "Ellaya TV:-2025 ජුනි මස 12  දේශීය පැළෑටි වල් යන නම යෙදු අපේ ඖෂදිය ශාකය වල් කොත්තමල්ලි 0718669451.",
+                "url": "https://youtube.com/watch?v=qjicrLMPURU",
+                "duration": "13:12",
+                "thumbnail": "https://i.ytimg.com/vi/qjicrLMPURU/hq720.jpg"
+            },
+            {
+                "title": "Wal Koththamalli",
+                "url": "https://youtube.com/watch?v=0C6_cj20JHE",
+                "duration": "1:32",
+                "thumbnail": "https://i.ytimg.com/vi/0C6_cj20JHE/hq720.jpg"
+            },
+            {
+                "title": "වල් කොත්තමල්ලි , #education #herbs #nature #plants #medicinalherbs #gardenherbs",
+                "url": "https://youtube.com/watch?v=GxemCW4gz3w",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/GxemCW4gz3w/hq720.jpg"
+            },
+            {
+                "title": "වල් කොත්තමල්ලි | Wal Kotthamalli",
+                "url": "https://youtube.com/watch?v=CWHypmNTg3U",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/CWHypmNTg3U/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Menstrual Disorders",
-      "sinhala": "ඔසප් ආබාධ සහ අක්‍රමිකතා (කෂ්ටාර්තව / ආර්තව දෝෂ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Ear Diseases",
-      "sinhala": "කන් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Vomiting",
-      "sinhala": "වමනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Leprosy",
-      "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nasopharyngeal Disorders",
-      "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gastric Disorders",
-      "sinhala": "ආමාශගත රෝග/අපහසුතා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Venereal Disease",
-      "sinhala": "ලිංගික රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Parasitic Infestation",
-      "sinhala": "පරපෝෂිත ආසාදන/පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds",
-    "Root",
-    "Whole Plant"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

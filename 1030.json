@@ -1,290 +1,565 @@
 {
-  "scientificName": "Heteropogon contortus (L.) P.Beauv. ex Roem. & Schult.",
-  "synonyms": [
-    "Andropogon allionii DC.",
-    "Andropogon austrocaledonicus Vieill.",
-    "Andropogon bellardii Bubani",
-    "Andropogon besukiensis Steud.",
-    "Andropogon contortus L.",
-    "Andropogon contortus subvar. hispidissimus Hack.",
-    "Andropogon contortus subvar. roxburghii (Arn. ex Nees) Hack.",
-    "Andropogon contortus subvar. secundus Hack.",
-    "Andropogon contortus var. glaber (Hack.) Hack.",
-    "Andropogon contortus var. macroglumis Pilg.",
-    "Andropogon firmus (J.Presl) Kunth",
-    "Andropogon glaber Raspail",
-    "Andropogon hispidissimus Steud.",
-    "Andropogon hohenackeri Hochst. ex Steud.",
-    "Andropogon messanensis Biv.",
-    "Andropogon polystachyos Roxb.",
-    "Andropogon secundus Griseb.",
-    "Heteropogon allionii (DC.) Roem. & Schult.",
-    "Heteropogon besukiensis (Steud.) Miq.",
-    "Heteropogon contortus subvar. secundus (Hack.) Domin",
-    "Heteropogon contortus var. allionii (DC.) Cuénod",
-    "Heteropogon contortus var. glaber Hack.",
-    "Heteropogon contortus var. hirtus Hack.",
-    "Heteropogon contortus var. hispidissimus (Hack.) M.R.Almeida",
-    "Heteropogon contortus var. hispidissimus (Steud.) Honda",
-    "Heteropogon contortus var. polystachyos (Roxb.) Deshp.",
-    "Heteropogon fertilis B.S.Sun & S.Wang",
-    "Heteropogon firmus J.Presl",
-    "Heteropogon glaber Pers.",
-    "Heteropogon hirsutus P.Beauv.",
-    "Heteropogon hirtus Pers.",
-    "Heteropogon hirtus var. glaber (Hack.) Rendle",
-    "Heteropogon hispidissimus Hochst. ex Steud.",
-    "Heteropogon hohenackeri Hochst. ex Miq.",
-    "Heteropogon messanensis (Biv.) Guss.",
-    "Heteropogon polystachyos (Roxb.) Schult.",
-    "Heteropogon roxburghii Arn. ex Nees",
-    "Holcus contortus (L.) Stuck.",
-    "Sorghum contortum (L.) Kuntze"
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Spear Grass",
-    "Stick Grass",
-    "Black Speargrass",
-    "Tanglehead Grass",
-    "Tanglehead",
-    "Bunch Speargrass",
-    "Bunched Spear Grass",
-    "Twisted Beardgrass"
-  ],
-  "sinhalaName": "E thana (ඊ තණ)",
-  "description": "අවුල් සහගත ලෙස පොකුරු ගැසුණු බහුවාර්ෂික ශාකයකි, පාදස්ථ පත්‍ර කොපු පාර්ශ්විකව තෙරපී ඇත (laterally compressed). කඳන් සෙන්ටිමීටර 30 - 100 ක් උසය. පත්‍ර තල පැතලිය, සෙන්ටිමීටර 4 - 30 x මිලිමීටර 2 - 5 ප්‍රමාණයෙන් යුක්ත වන අතර අග්‍රය හදිසියේ පටු වේ (abruptly narrowed). මල් පොකුරු (racemes) එකක් හෝ කිහිපයක් පවතී, සමහර විට ව්‍යාජ මල් කරලක් (false panicle) සාදයි, අග්‍රයේ ඇති කටු (awns) ඇඹරුණු කුළුණක් මෙන් පිහිටයි. පාදස්ථ සමජාතීය යුගල (basal homogamous pairs) 3 - 10 ක් පවතින අතර, ඒවායේ තුහින (glumes) වෘන්ත සහිත මල් කරල්වල (pedicelled spikelets) තුහිනවලට සමාන වේ. කටුව (awn) සෙන්ටිමීටර 5 - 8 ක් දිගය, සියුම් රෝම සහිතය (hirtellous), පහළ තුහින (lower glume) කොළ පැහැති වන අතර කහ පැහැති පටලමය දාරවලින් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Heteropogon contortus (L.) P.Beauv. ex Roem. & Schult.",
+    "synonyms": [
+        "Andropogon allionii DC.",
+        "Andropogon austrocaledonicus Vieill.",
+        "Andropogon bellardii Bubani",
+        "Andropogon besukiensis Steud.",
+        "Andropogon contortus L.",
+        "Andropogon contortus subvar. hispidissimus Hack.",
+        "Andropogon contortus subvar. roxburghii (Arn. ex Nees) Hack.",
+        "Andropogon contortus subvar. secundus Hack.",
+        "Andropogon contortus var. glaber (Hack.) Hack.",
+        "Andropogon contortus var. macroglumis Pilg.",
+        "Andropogon firmus (J.Presl) Kunth",
+        "Andropogon glaber Raspail",
+        "Andropogon hispidissimus Steud.",
+        "Andropogon hohenackeri Hochst. ex Steud.",
+        "Andropogon messanensis Biv.",
+        "Andropogon polystachyos Roxb.",
+        "Andropogon secundus Griseb.",
+        "Heteropogon allionii (DC.) Roem. & Schult.",
+        "Heteropogon besukiensis (Steud.) Miq.",
+        "Heteropogon contortus subvar. secundus (Hack.) Domin",
+        "Heteropogon contortus var. allionii (DC.) Cuénod",
+        "Heteropogon contortus var. glaber Hack.",
+        "Heteropogon contortus var. hirtus Hack.",
+        "Heteropogon contortus var. hispidissimus (Hack.) M.R.Almeida",
+        "Heteropogon contortus var. hispidissimus (Steud.) Honda",
+        "Heteropogon contortus var. polystachyos (Roxb.) Deshp.",
+        "Heteropogon fertilis B.S.Sun & S.Wang",
+        "Heteropogon firmus J.Presl",
+        "Heteropogon glaber Pers.",
+        "Heteropogon hirsutus P.Beauv.",
+        "Heteropogon hirtus Pers.",
+        "Heteropogon hirtus var. glaber (Hack.) Rendle",
+        "Heteropogon hispidissimus Hochst. ex Steud.",
+        "Heteropogon hohenackeri Hochst. ex Miq.",
+        "Heteropogon messanensis (Biv.) Guss.",
+        "Heteropogon polystachyos (Roxb.) Schult.",
+        "Heteropogon roxburghii Arn. ex Nees",
+        "Holcus contortus (L.) Stuck.",
+        "Sorghum contortum (L.) Kuntze"
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Spear Grass",
+        "Stick Grass",
+        "Black Speargrass",
+        "Tanglehead Grass",
+        "Tanglehead",
+        "Bunch Speargrass",
+        "Bunched Spear Grass",
+        "Twisted Beardgrass"
+    ],
+    "sinhalaName": "E thana (ඊ තණ)",
+    "description": "අවුල් සහගත ලෙස පොකුරු ගැසුණු බහුවාර්ෂික ශාකයකි, පාදස්ථ පත්‍ර කොපු පාර්ශ්විකව තෙරපී ඇත (laterally compressed). කඳන් සෙන්ටිමීටර 30 - 100 ක් උසය. පත්‍ර තල පැතලිය, සෙන්ටිමීටර 4 - 30 x මිලිමීටර 2 - 5 ප්‍රමාණයෙන් යුක්ත වන අතර අග්‍රය හදිසියේ පටු වේ (abruptly narrowed). මල් පොකුරු (racemes) එකක් හෝ කිහිපයක් පවතී, සමහර විට ව්‍යාජ මල් කරලක් (false panicle) සාදයි, අග්‍රයේ ඇති කටු (awns) ඇඹරුණු කුළුණක් මෙන් පිහිටයි. පාදස්ථ සමජාතීය යුගල (basal homogamous pairs) 3 - 10 ක් පවතින අතර, ඒවායේ තුහින (glumes) වෘන්ත සහිත මල් කරල්වල (pedicelled spikelets) තුහිනවලට සමාන වේ. කටුව (awn) සෙන්ටිමීටර 5 - 8 ක් දිගය, සියුම් රෝම සහිතය (hirtellous), පහළ තුහින (lower glume) කොළ පැහැති වන අතර කහ පැහැති පටලමය දාරවලින් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Bronchial Disorders",
+            "sinhala": "ශ්වාසනාල ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Pyelitis",
+            "sinhala": "වකුගඩු ශ්‍රෝණි ප්‍රදාහය (වෘක්ක ශ්‍රෝණි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cystitis",
+            "sinhala": "මුත්‍රාශ ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Strangury",
+            "sinhala": "මුත්‍රා බිංදු බිංදු පිටවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Renal Calculi",
+            "sinhala": "වකුගඩු ගල්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Reptile/Snake Poisoning",
+            "sinhala": "උරග සහ සර්ප විෂ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Vomiting",
+            "sinhala": "වමනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Body Heat Relief",
+            "sinhala": "ශරීරයේ දැවිල්ල/අධික උෂ්ණත්වය නිවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Eczema",
+            "sinhala": "දද (එක්සීමා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "3112",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/v480mnvs/plant01030-03112.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "sri lanka magic ඊ තණ​",
+                "url": "https://youtube.com/watch?v=OhQZST47B98",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/OhQZST47B98/hq720.jpg"
+            },
+            {
+                "title": "Heteropogon contortus /E thana/e-thana/ ඊ-තණ",
+                "url": "https://youtube.com/watch?v=XIc7JlQIZuw",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/XIc7JlQIZuw/hq720.jpg"
+            },
+            {
+                "title": "sri lanka magic ඊ තණ​",
+                "url": "https://youtube.com/watch?v=RRLb99aGIvQ",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/RRLb99aGIvQ/hq720.jpg"
+            },
+            {
+                "title": "ඊතන.  Heteropogon contortus",
+                "url": "https://youtube.com/watch?v=epHIcWgnfDk",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/epHIcWgnfDk/hq720.jpg"
+            },
+            {
+                "title": "වැරදිලා හරි ඔබේ ගෙවත්තෙත් තියනවද  -  Ithana",
+                "url": "https://youtube.com/watch?v=uIhUhlHAF04",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/uIhUhlHAF04/hq720.jpg"
+            },
+            {
+                "title": "අතිවිශිෂ්ඨ ගුණ වලින් හෙබි අපේ ඔසුව | Ithana | Ceylon Agri | Episode 142",
+                "url": "https://youtube.com/watch?v=SOCAHEP3yTA",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/SOCAHEP3yTA/hq720.jpg"
+            },
+            {
+                "title": "සොත්ථිය නම් බමුණා විසින් සිදුහත් කුමරාට වාඩිවීමට පිලිගැන්වූ  කුස තණ ශාකය",
+                "url": "https://youtube.com/watch?v=2gfAxSl7v3I",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/2gfAxSl7v3I/hqdefault.jpg"
+            },
+            {
+                "title": "මිදුලේ හැදෙන මේ පැලේ මෙහෙම ගුණයක්",
+                "url": "https://youtube.com/watch?v=yj6N5p5Mz28",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/yj6N5p5Mz28/hqdefault.jpg"
+            },
+            {
+                "title": "Ath adiya|ඇත් අඩි ශාකය | ඔසු ගුණ | ඇත් අඩිය |Similar  Elephantopus | ඔසු-Osu",
+                "url": "https://youtube.com/watch?v=JDVM2UpeEJI",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/JDVM2UpeEJI/hq720.jpg"
+            },
+            {
+                "title": "ඇඟ හදන රට ඉඳි ගැන හැම දේම දැනගන්න | රට ඉඳි මගින් අපට ලැබෙන වටිනා වාසි 5 ක්",
+                "url": "https://youtube.com/watch?v=jVdYBXURzec",
+                "duration": "8:24",
+                "thumbnail": "https://i.ytimg.com/vi/jVdYBXURzec/hqdefault.jpg"
+            },
+            {
+                "title": "Spear grass corkscrew action.                   11 August 2021",
+                "url": "https://youtube.com/watch?v=wL9gacpSEQY",
+                "duration": "0:05",
+                "thumbnail": "https://i.ytimg.com/vi/wL9gacpSEQY/hqdefault.jpg"
+            },
+            {
+                "title": "හෙල ඔසු - ගිනි තණ",
+                "url": "https://youtube.com/watch?v=cQJXTnJ2aDA",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/cQJXTnJ2aDA/hq720.jpg"
+            },
+            {
+                "title": "බුදුරජාණන්වහන්සේගේ  ශ්‍රීපාදසටහන් වු ශාකය.",
+                "url": "https://youtube.com/watch?v=bnSAvZQbxRA",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/bnSAvZQbxRA/hqdefault.jpg"
+            },
+            {
+                "title": "බැබිල ශාකයේ තිබෙන ඖෂධීය ගුණයෙන් දැනගන්න වීඩියෝව බලන්න",
+                "url": "https://youtube.com/watch?v=H-hrAwEH-N4",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/H-hrAwEH-N4/hq720.jpg"
+            },
+            {
+                "title": "IEE   Home | VYZEN.lk | 075 66 55 544",
+                "url": "https://youtube.com/watch?v=0FIGiQoDxnk",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/0FIGiQoDxnk/hq720.jpg"
+            },
+            {
+                "title": "දත් කැක්කුමට \"රන් මානිස්ස\" - තිලක් කන්දේගම / Herbal Plant for Toothache @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=m2dVCqj-WRU",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/m2dVCqj-WRU/hq720.jpg"
+            },
+            {
+                "title": "IEE   Product | VYZEN.lk | 075 66 55 544",
+                "url": "https://youtube.com/watch?v=B4SqfO5nbYo",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/B4SqfO5nbYo/hq720.jpg"
+            },
+            {
+                "title": "බැලතණ මෙච්චර වටින පැලයක්ද | Goosegrass | Eleusine indica (L.) Gaertn.",
+                "url": "https://youtube.com/watch?v=PxhW7peWWu4",
+                "duration": "8:55",
+                "thumbnail": "https://i.ytimg.com/vi/PxhW7peWWu4/hq720.jpg"
+            },
+            {
+                "title": "Tiger Grass | බෝසතාණන් වහන්සේට සොත්තිය බමුණා විසින් පූජා කරන ලද | කුසතණ |Ceylon Agri | Episode 72",
+                "url": "https://youtube.com/watch?v=THnhuIZsmQ4",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/THnhuIZsmQ4/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "නීරෝගී ලස්සනටම හැදුනු පැල ඔයාලට ගන්න පුලුවන්#anthuriumwagawasinhala#fypviral#plants0765647812",
+                "url": "https://youtube.com/watch?v=5sUz5dj8UGM",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/5sUz5dj8UGM/hqdefault.jpg"
+            },
+            {
+                "title": "ජපන් බටු පෝෂණ ගබඩාවක්ද? නැතිනම් මාරාන්තික අනතුරක්ද? 🌿",
+                "url": "https://youtube.com/watch?v=eWHlkehp63Q",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/eWHlkehp63Q/hq720.jpg"
+            },
+            {
+                "title": "ඉපැරැණි අධි ප්‍රතිශක්ති ඖෂධ වට්ටෝරුවක හෙළිදරව්ව",
+                "url": "https://youtube.com/watch?v=VXq3wD-vc0k",
+                "duration": "10:53",
+                "thumbnail": "https://i.ytimg.com/vi/VXq3wD-vc0k/hqdefault.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "බැල තණ වල ඖෂධීය ගුණ 😱😱😱",
+                "url": "https://youtube.com/watch?v=6hOb7EXSy8o",
+                "duration": "5:13",
+                "thumbnail": "https://i.ytimg.com/vi/6hOb7EXSy8o/hq720.jpg"
+            },
+            {
+                "title": "බැලතණ ශාකයේ ඇති  ඖෂධීය ප්‍රයෝජන | Medicinal Benefits of Balatana Plant | Indian goosegrass benefits🌿",
+                "url": "https://youtube.com/watch?v=WKMPrCnv0iQ",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/WKMPrCnv0iQ/hqdefault.jpg"
+            },
+            {
+                "title": "අමු, මෙනේරි සහ තණ සහල් කන අයට ලැබෙන දේවල් මෙන්න : Benefits of millet grain",
+                "url": "https://youtube.com/watch?v=egPfLQtF2Cg",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/egPfLQtF2Cg/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු පානය කිරීමෙන් ලැබෙන විශ්මිත ප්‍රතිඵල ඇහුවොත් පුදුම වෙයි | Sinhala",
+                "url": "https://youtube.com/watch?v=F10dJnQEgjw",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/F10dJnQEgjw/hq720.jpg"
+            },
+            {
+                "title": "ඉබේ හැදෙන වල්පැළයක මෙච්චර ගුණයක් 😲 | බැලතණ වල ගුණ | @sakalawaga",
+                "url": "https://youtube.com/watch?v=aOrClsdu1tI",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/aOrClsdu1tI/hqdefault.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "ඉඟුරු වල අරුම පුදුම ගුණ 7ක් මෙන්න | 7 Amazing Benefits Of Ginger",
+                "url": "https://youtube.com/watch?v=FPmSMqgXkcQ",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/FPmSMqgXkcQ/hq720.jpg"
+            },
+            {
+                "title": "තයිරොයිඩ් රෝග වලින් සුවවීමට සහ බේරීමට නම්!",
+                "url": "https://youtube.com/watch?v=cc1Pi2VRDvI",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/cc1Pi2VRDvI/hq720.jpg"
+            },
+            {
+                "title": "මේ ඖෂධීය වේල ශාකය බාහිර සහ අභ්‍යන්තර රෝග ගණනාවක් සූවකරයි",
+                "url": "https://youtube.com/watch?v=2n6XNLiFtQE",
+                "duration": "4:52",
+                "thumbnail": "https://i.ytimg.com/vi/2n6XNLiFtQE/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රධාන අමුද්‍රව්‍ය සහ ඒවායින් ලැබෙන ප්‍රයෝජන/Main ingredients and their benefits",
+                "url": "https://youtube.com/watch?v=_4znOLu1MLM",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/_4znOLu1MLM/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "සූර්යාලෝකයෙන් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=eIAX-iPabsY",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/eIAX-iPabsY/hqdefault.jpg"
+            },
+            {
+                "title": "ධනවතුන් සහ දුප්පතුන් හැදෙන හැටි කියන | ලෝක ප්‍රසිද්ධ මේ සෙන් කතාව දන්නවාද ? | A Powerful Story",
+                "url": "https://youtube.com/watch?v=-jj6b6--NGk",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/-jj6b6--NGk/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "Power Hands Plantation සප්ත වර්ෂාභිමානය 💚✨ ජුනි 4 වනදා උදෑසන 9.30 ට iTV ඔස්සේ සජීවීව නරඹන්න📺",
+                "url": "https://youtube.com/watch?v=XPZWOi0EX9g",
+                "duration": "0:29",
+                "thumbnail": "https://i.ytimg.com/vi/XPZWOi0EX9g/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "අවධානය සහ ශක්තිය",
+                "url": "https://youtube.com/watch?v=09xwoxS5ONs",
+                "duration": "6:15",
+                "thumbnail": "https://i.ytimg.com/vi/09xwoxS5ONs/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of rain | වැස්සෙන් ඇති ප්‍රයෝජන | 3,4,5 ශ්‍රේණි සදහා පෙරහුරු රචනා | scholarship exam",
+                "url": "https://youtube.com/watch?v=8eb8UaD2Eb4",
+                "duration": "9:54",
+                "thumbnail": "https://i.ytimg.com/vi/8eb8UaD2Eb4/hqdefault.jpg"
+            },
+            {
+                "title": "පෝෂ්‍ය පදාර්ථ අවශ්‍ය ප්‍රමාණයට නොලැබුණු විට ඇති විය හැකි තත්වයන් | පරිසරය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=i_AxCr1Y9-o",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/i_AxCr1Y9-o/hq720.jpg"
+            },
+            {
+                "title": "Benefits Of Trees | ගස්වලින් ලැබෙන ප්‍රයෝජන 🌳",
+                "url": "https://youtube.com/watch?v=LZeEzBhxUGg",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/LZeEzBhxUGg/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Bronchial Disorders",
-      "sinhala": "ශ්වාසනාල ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Pyelitis",
-      "sinhala": "වකුගඩු ශ්‍රෝණි ප්‍රදාහය (වෘක්ක ශ්‍රෝණි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Cystitis",
-      "sinhala": "මුත්‍රාශ ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Strangury",
-      "sinhala": "මුත්‍රා බිංදු බිංදු පිටවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Renal Calculi",
-      "sinhala": "වකුගඩු ගල්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Reptile/Snake Poisoning",
-      "sinhala": "උරග සහ සර්ප විෂ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Vomiting",
-      "sinhala": "වමනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Body Heat Relief",
-      "sinhala": "ශරීරයේ දැවිල්ල/අධික උෂ්ණත්වය නිවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Eczema",
-      "sinhala": "දද (එක්සීමා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "3112",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/v480mnvs/plant01030-03112.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

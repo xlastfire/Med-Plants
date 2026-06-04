@@ -1,129 +1,320 @@
 {
-  "scientificName": "Mangifera indica L.",
-  "synonyms": [
-    "Mangifera amba Forssk.",
-    "Mangifera anisodora Blanco",
-    "Mangifera austroyunnanensis Hu",
-    "Mangifera balba Crevost & Lemarié",
-    "Mangifera cambodiana (Pierre) Anon.",
-    "Mangifera domestica Gaertn.",
-    "Mangifera equina Crevost & Lemarié",
-    "Mangifera gladiata Bojer",
-    "Mangifera indica var. bapang Blume",
-    "Mangifera indica var. cambodiana Pierre",
-    "Mangifera indica var. compressa Blume",
-    "Mangifera indica var. deropong Blume",
-    "Mangifera indica var. dodol Blume",
-    "Mangifera indica var. domestica (Gaertn.) Blume",
-    "Mangifera indica var. gratissima Blume",
-    "Mangifera indica var. kaijer Blume",
-    "Mangifera indica var. kalapa Blume",
-    "Mangifera indica var. kidang Blume",
-    "Mangifera indica var. marundana Blume",
-    "Mangifera indica var. marunga Blume",
-    "Mangifera indica var. mekongensis Pierre",
-    "Mangifera indica var. niela Blume",
-    "Mangifera indica var. pallens Blume",
-    "Mangifera indica var. piit Blume",
-    "Mangifera indica var. sangier Blume",
-    "Mangifera indica var. sentok Blume",
-    "Mangifera indica var. teloor Blume",
-    "Mangifera kukulu Blume",
-    "Mangifera laurina var. deropong Blume",
-    "Mangifera laxiflora Desr.",
-    "Mangifera linnaei Korth. ex Hassk.",
-    "Mangifera maritima Lechaume",
-    "Mangifera mekongensis (Pierre) Anon.",
-    "Mangifera montana B.Heyne ex Wight & Arn.",
-    "Mangifera oryza Crevost & Lemarié",
-    "Mangifera racemosa Bojer",
-    "Mangifera rostrata Blanco",
-    "Mangifera rubra Bojer",
-    "Mangifera sativa Roem. & Schult.",
-    "Mangifera siamensis Warb. ex Craib",
-    "Mangifera viridis Bojer"
-  ],
-  "familyName": "ANACARDIACEAE",
-  "englishNames": [
-    "Mango"
-  ],
-  "sinhalaName": "Amba (අඹ)",
-  "description": "මීටර් 8-30ක් උසැති මධ්‍යම ප්‍රමාණයේ සිට විශාල ප්‍රමාණයේ ගසකි. පත්‍ර ආයත-ලන්සාකාර (oblong-lanceolate) වන අතර සෙන්ටිමීටර 10-32 x 2-12 ප්‍රමාණයෙන් යුක්ත වේ. පාර්ශ්වික පත්‍රිකා 12-25ක් පවතින අතර පත්‍රයේ යටි පැත්තේ නහර කැපී පෙනේ. තෘතීයික නහර සහ නාලිකා දැල් වැනි රටාවකින් (reticulate) යුක්ත වේ. ළපටි පත්‍ර පහළට එල්ලෙන සුළු වන අතර දම් පැහැයක් ගනී. පුෂ්ප මංජරි (panicles) සෙන්ටිමීටර 6-40ක් දිග වන අතර සාමාන්‍යයෙන් රෝම සහිතය. පුෂ්ප වෘන්ත මිලිමීටර 2-4ක් වේ. බාහිර දල (sepals) ඩිම්බාකාර-ආයත (ovoid-oblong) වන අතර රෝම සහිතව මිලිමීටර 2-3ක් දිග වේ. පෙති (petals) ඩිම්බාකාර-ආයත (ovoid-oblong) වන අතර මිලිමීටර 3-5ක් පමණ දිග වේ. ඒවා සුදු පැහැති වන අතර පසුව දම් පැහැයට හැරේ; කහ හෝ දම් පැහැති නහර වලින් යුක්ත වේ. සරු රේණු (fertile stamens) මල් කිරීටය (corolla) තරම් දිගු වේ. වඳ රේණු (staminodes) ඉතා කෙටි වේ. ඵල ඩිම්බාකාර සිට ඉලිප්සාකාර (ovoid to ellipsoid) හැඩයක් ගන්නා අතර පාදම ඇලවූ (oblique) ස්වභාවයක් ගනී; සෙන්ටිමීටර 10-20ක් දිග වේ.",
-  "treatments": [
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Mangifera indica L.",
+    "synonyms": [
+        "Mangifera amba Forssk.",
+        "Mangifera anisodora Blanco",
+        "Mangifera austroyunnanensis Hu",
+        "Mangifera balba Crevost & Lemarié",
+        "Mangifera cambodiana (Pierre) Anon.",
+        "Mangifera domestica Gaertn.",
+        "Mangifera equina Crevost & Lemarié",
+        "Mangifera gladiata Bojer",
+        "Mangifera indica var. bapang Blume",
+        "Mangifera indica var. cambodiana Pierre",
+        "Mangifera indica var. compressa Blume",
+        "Mangifera indica var. deropong Blume",
+        "Mangifera indica var. dodol Blume",
+        "Mangifera indica var. domestica (Gaertn.) Blume",
+        "Mangifera indica var. gratissima Blume",
+        "Mangifera indica var. kaijer Blume",
+        "Mangifera indica var. kalapa Blume",
+        "Mangifera indica var. kidang Blume",
+        "Mangifera indica var. marundana Blume",
+        "Mangifera indica var. marunga Blume",
+        "Mangifera indica var. mekongensis Pierre",
+        "Mangifera indica var. niela Blume",
+        "Mangifera indica var. pallens Blume",
+        "Mangifera indica var. piit Blume",
+        "Mangifera indica var. sangier Blume",
+        "Mangifera indica var. sentok Blume",
+        "Mangifera indica var. teloor Blume",
+        "Mangifera kukulu Blume",
+        "Mangifera laurina var. deropong Blume",
+        "Mangifera laxiflora Desr.",
+        "Mangifera linnaei Korth. ex Hassk.",
+        "Mangifera maritima Lechaume",
+        "Mangifera mekongensis (Pierre) Anon.",
+        "Mangifera montana B.Heyne ex Wight & Arn.",
+        "Mangifera oryza Crevost & Lemarié",
+        "Mangifera racemosa Bojer",
+        "Mangifera rostrata Blanco",
+        "Mangifera rubra Bojer",
+        "Mangifera sativa Roem. & Schult.",
+        "Mangifera siamensis Warb. ex Craib",
+        "Mangifera viridis Bojer"
+    ],
+    "familyName": "ANACARDIACEAE",
+    "englishNames": [
+        "Mango"
+    ],
+    "sinhalaName": "Amba (අඹ)",
+    "description": "මීටර් 8-30ක් උසැති මධ්‍යම ප්‍රමාණයේ සිට විශාල ප්‍රමාණයේ ගසකි. පත්‍ර ආයත-ලන්සාකාර (oblong-lanceolate) වන අතර සෙන්ටිමීටර 10-32 x 2-12 ප්‍රමාණයෙන් යුක්ත වේ. පාර්ශ්වික පත්‍රිකා 12-25ක් පවතින අතර පත්‍රයේ යටි පැත්තේ නහර කැපී පෙනේ. තෘතීයික නහර සහ නාලිකා දැල් වැනි රටාවකින් (reticulate) යුක්ත වේ. ළපටි පත්‍ර පහළට එල්ලෙන සුළු වන අතර දම් පැහැයක් ගනී. පුෂ්ප මංජරි (panicles) සෙන්ටිමීටර 6-40ක් දිග වන අතර සාමාන්‍යයෙන් රෝම සහිතය. පුෂ්ප වෘන්ත මිලිමීටර 2-4ක් වේ. බාහිර දල (sepals) ඩිම්බාකාර-ආයත (ovoid-oblong) වන අතර රෝම සහිතව මිලිමීටර 2-3ක් දිග වේ. පෙති (petals) ඩිම්බාකාර-ආයත (ovoid-oblong) වන අතර මිලිමීටර 3-5ක් පමණ දිග වේ. ඒවා සුදු පැහැති වන අතර පසුව දම් පැහැයට හැරේ; කහ හෝ දම් පැහැති නහර වලින් යුක්ත වේ. සරු රේණු (fertile stamens) මල් කිරීටය (corolla) තරම් දිගු වේ. වඳ රේණු (staminodes) ඉතා කෙටි වේ. ඵල ඩිම්බාකාර සිට ඉලිප්සාකාර (ovoid to ellipsoid) හැඩයක් ගන්නා අතර පාදම ඇලවූ (oblique) ස්වභාවයක් ගනී; සෙන්ටිමීටර 10-20ක් දිග වේ.",
+    "treatments": [
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Endometritis",
+            "sinhala": "ගර්භාෂ අභ්‍යන්තර පටල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark",
+        "Leaves",
+        "Flowers",
+        "Fruits",
+        "Flesh of the seed"
+    ],
+    "images": [
+        {
+            "image_id": "331",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/LzL0Sj3j/plant00058-00331.jpg"
+        },
+        {
+            "image_id": "332",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/SWz7KN5/plant00058-00332.jpg"
+        },
+        {
+            "image_id": "333",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/ksYk4WCM/plant00058-00333.jpg"
+        },
+        {
+            "image_id": "3334",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/wTj9bMC/plant00058-03334.jpg"
+        },
+        {
+            "image_id": "3335",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/KpnwCHgw/plant00058-03335.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඔබ කන්න ඕනේ ඉදුණු අඹ ද අමු අඹ ද තීරණය කරන්නේ මෙහෙමයි!|  Raw & Ripen Mango By Nutritionist Hiroshan",
+                "url": "https://youtube.com/watch?v=aGd2Kcyxs80",
+                "duration": "12:51",
+                "thumbnail": "https://i.ytimg.com/vi/aGd2Kcyxs80/hq720.jpg"
+            },
+            {
+                "title": "අඹ වල විශ්මිත ගුණ - Amazing properties of mangoes",
+                "url": "https://youtube.com/watch?v=NI175lZx2M0",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/NI175lZx2M0/hq720.jpg"
+            },
+            {
+                "title": "අඹ පැලයක පළමු කප්පාදුව | TJC අඹ වගාව | HARTI",
+                "url": "https://youtube.com/watch?v=LVSilA_JTro",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/LVSilA_JTro/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තටම අඹ කියන තරම් ගුණයිද? මෙන්න ඇත්ත. : Is mango good to eat? (2018)",
+                "url": "https://youtube.com/watch?v=9kqJp-r5CSY",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/9kqJp-r5CSY/hq720.jpg"
+            },
+            {
+                "title": "අඹ දියවැඩියාවට හොදයි කියල දන්නවද? | අඹ ගැන මේ දේවල් ඔයත් දැනගෙන හිටියද බලන්න | #biokuppiya | #health",
+                "url": "https://youtube.com/watch?v=SPRkf3K0j7Y",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/SPRkf3K0j7Y/hq720.jpg"
+            },
+            {
+                "title": "අඹ ආහාරයට ගැනීමෙන් ලැබෙන ගුණ I Dr. Swarna Hapuarachchi I Ayurweda Prathikara I 2021.06.28",
+                "url": "https://youtube.com/watch?v=uDBazfHv8TE",
+                "duration": "51:26",
+                "thumbnail": "https://i.ytimg.com/vi/uDBazfHv8TE/hq720.jpg"
+            },
+            {
+                "title": "අඹ සමඟ රුධිර සීනි පරීක්ෂණය | Blood Sugar Test with Mango | Are Mangoes Good For Diabetes",
+                "url": "https://youtube.com/watch?v=XDg0AI__ijA",
+                "duration": "11:50",
+                "thumbnail": "https://i.ytimg.com/vi/XDg0AI__ijA/hq720.jpg"
+            },
+            {
+                "title": "අඹ කන වැරදි ක්‍රම සහ හරි ක්‍රම  | Best Way to eat Mango By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=FZGZQVPOCVA",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/FZGZQVPOCVA/hq720.jpg"
+            },
+            {
+                "title": "රස අඹ වල ඔබ නොදත් ගුණ",
+                "url": "https://youtube.com/watch?v=gkIZo3CMwMM",
+                "duration": "1:29",
+                "thumbnail": "https://i.ytimg.com/vi/gkIZo3CMwMM/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව නිට්ටාවටම සුව කරන අඹ කොළ පානය. | Mango leaves drink for diabetes!",
+                "url": "https://youtube.com/watch?v=DXFTgKUeqBo",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/DXFTgKUeqBo/hq720.jpg"
+            },
+            {
+                "title": "අඹ වල තියෙන හිතාගන්න බැරි ගුණ #ceylongreenmarket",
+                "url": "https://youtube.com/watch?v=CvJHtjAVPQU",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/CvJHtjAVPQU/hq720.jpg"
+            },
+            {
+                "title": "ගෙදර ගහේ අඹ ටික නිවැරදිව ඉදවගමු The mango",
+                "url": "https://youtube.com/watch?v=p7P-CyqhUvg",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/p7P-CyqhUvg/hq720.jpg"
+            },
+            {
+                "title": "අඹ වල විශ්මිත ගුණ - Amazing properties of mangoes",
+                "url": "https://youtube.com/watch?v=rOaKcfilbdc",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/rOaKcfilbdc/frame0.jpg"
+            },
+            {
+                "title": "අඹ ගහේ මල් කළු වෙලා හැලෙනවද ? මෙන්න විසඳුම",
+                "url": "https://youtube.com/watch?v=AQAMgaNjHro",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/AQAMgaNjHro/hqdefault.jpg"
+            },
+            {
+                "title": "ගහ පිරෙන්න පෝච්චියක අඹ ගන්න රහස් | How to Grow Mango Plants | Ceylon Agri | Epi. 459",
+                "url": "https://youtube.com/watch?v=-bMOHdJjnCg",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/-bMOHdJjnCg/hq720.jpg"
+            },
+            {
+                "title": "පළතුරු මැස්සාගෙන් අඹ වගාව බේරාගමු (Lets’s protect mangoes from fruit flies)",
+                "url": "https://youtube.com/watch?v=vld8ptVSiFw",
+                "duration": "10:20",
+                "thumbnail": "https://i.ytimg.com/vi/vld8ptVSiFw/hq720.jpg"
+            },
+            {
+                "title": "වෙළදපලෙන් හොදට පැහුනු TJC අඹ ගෙඩියක් තෝරා ගනිමු.😋#mango #viralvideo #farming #trending #fyp #fypシ",
+                "url": "https://youtube.com/watch?v=j1km-TFzXFw",
+                "duration": "1:20",
+                "thumbnail": "https://i.ytimg.com/vi/j1km-TFzXFw/hq720.jpg"
+            },
+            {
+                "title": "Mango Anthracnose Disease of Leaves (අඹ වගාවේ ඇන්ත්රැක් නෝසේ රෝගය ) පත්‍ර වලට හානි කිරීම පාලනය",
+                "url": "https://youtube.com/watch?v=QtZ3JqTOHxg",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/QtZ3JqTOHxg/hq720.jpg"
+            },
+            {
+                "title": "පොඩි පෝච්චියක පිරෙන්න අඹ | Easy Mango Growing Guide | Ceylon Agri | Episode 488",
+                "url": "https://youtube.com/watch?v=aT7flZfz2Rc",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/aT7flZfz2Rc/hq720.jpg"
+            },
+            {
+                "title": "TJC අඹ වගාවේ අඹ ගෙඩි සුද්ද කිරීම Cleaning Mango Fruits in the TJC Mango Plantation",
+                "url": "https://youtube.com/watch?v=5UIMfsHVxEQ",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/5UIMfsHVxEQ/hq720.jpg"
+            },
+            {
+                "title": "අඹ ගහේ මල් කළු වෙලා හැලෙනවද ? මෙන්න විසඳුම",
+                "url": "https://youtube.com/watch?v=eA2alytEwrU",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/eA2alytEwrU/frame0.jpg"
+            },
+            {
+                "title": "අබ ගසෙහි ඖෂදීය ගුණ | Aba | Mustard | Brassica juncea | Kaduku",
+                "url": "https://youtube.com/watch?v=wR64jT47b_Y",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/wR64jT47b_Y/hq720.jpg"
+            },
+            {
+                "title": "අඹ ගහටත් කක්කි යනවද? | Dinesh Muthugala | Episode  79",
+                "url": "https://youtube.com/watch?v=NIFyfIvhcsE",
+                "duration": "5:33",
+                "thumbnail": "https://i.ytimg.com/vi/NIFyfIvhcsE/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සුව කරන අඹමල් පානය ඇතුළු අඹ ගසේ සම්පුර්ණ විස්තරේ | Medical plant of mango tree🌿",
+                "url": "https://youtube.com/watch?v=a6jGTw5HVNw",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/a6jGTw5HVNw/hqdefault.jpg"
+            },
+            {
+                "title": "2kg බර , පැණි බේරෙන අලුත්ම අඹ | TRN Sweet Giant Mango |  Episode 349",
+                "url": "https://youtube.com/watch?v=yJ0_5hU6kXE",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/yJ0_5hU6kXE/hq720.jpg"
+            },
+            {
+                "title": "අඹ වගාවේ ඇන්ත්‍රැක්නෝස් රෝගය   Anthracnose Disease in Mango orchard¬Agri Life -Dilupa Akalanka",
+                "url": "https://youtube.com/watch?v=5lYCprEbXrk",
+                "duration": "7:16",
+                "thumbnail": "https://i.ytimg.com/vi/5lYCprEbXrk/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව ඇතුලු රෝග රැසකට සුව ගෙනෙන අඹ කොළ සත්කාරය | Treated with  Mango Leaves | Mango Liaves",
+                "url": "https://youtube.com/watch?v=7RhHAKtjSyU",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/7RhHAKtjSyU/hqdefault.jpg"
+            },
+            {
+                "title": "පළතුරු මැස්සාගෙන් අඹ වගාව බේරාගමු (Lets’s protect mangoes from fruit flies)",
+                "url": "https://youtube.com/watch?v=oaeO1ge09vY",
+                "duration": "10:20",
+                "thumbnail": "https://i.ytimg.com/vi/oaeO1ge09vY/frame0.jpg"
+            },
+            {
+                "title": "12 INSANE Health Benefits and Uses of Mango Leaves That Will Change Your Life!",
+                "url": "https://youtube.com/watch?v=oR5JbjxRZUQ",
+                "duration": "13:42",
+                "thumbnail": "https://i.ytimg.com/vi/oR5JbjxRZUQ/hq720.jpg"
+            },
+            {
+                "title": "Benefits of mango leaves| Health benefits of mango leaves| Mango leaves for diabetes| Mango leaves",
+                "url": "https://youtube.com/watch?v=wEGe7uQt-zc",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/wEGe7uQt-zc/hq720.jpg"
+            },
+            {
+                "title": "12 INSANE Health Benefits and Uses of Mango Leaves That Will Change Your Life!",
+                "url": "https://youtube.com/watch?v=47tGz4j8bZI",
+                "duration": "13:42",
+                "thumbnail": "https://i.ytimg.com/vi/47tGz4j8bZI/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Endometritis",
-      "sinhala": "ගර්භාෂ අභ්‍යන්තර පටල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark",
-    "Leaves",
-    "Flowers",
-    "Fruits",
-    "Flesh of the seed"
-  ],
-  "images": [
-    {
-      "image_id": "331",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/LzL0Sj3j/plant00058-00331.jpg"
-    },
-    {
-      "image_id": "332",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/SWz7KN5/plant00058-00332.jpg"
-    },
-    {
-      "image_id": "333",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/ksYk4WCM/plant00058-00333.jpg"
-    },
-    {
-      "image_id": "3334",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/wTj9bMC/plant00058-03334.jpg"
-    },
-    {
-      "image_id": "3335",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/KpnwCHgw/plant00058-03335.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

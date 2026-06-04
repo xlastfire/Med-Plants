@@ -1,230 +1,733 @@
 {
-  "scientificName": "Solanum virginianum L.",
-  "synonyms": [
-    "Solanum arabicum Dunal",
-    "Solanum armatum Forssk.",
-    "Solanum ferox Burm.f.",
-    "Solanum gula Buch.-Ham.",
-    "Solanum jacquinii Miq.",
-    "Solanum jacquinii Willd.",
-    "Solanum macannii Santapau",
-    "Solanum mairei H.Lév.",
-    "Solanum melongena Wall.",
-    "Solanum surattense Burm.f.",
-    "Solanum virginicum L.",
-    "Solanum xanthocarpum Schrad."
-  ],
-  "familyName": "SOLANACEAE",
-  "englishNames": [
-    "Wild Eggplant",
-    "Thorny Nightshade",
-    "Yellow Berried Nightshade",
-    "Thai Eggplant"
-  ],
-  "sinhalaName": "Katuwel batu (කටුවැල්බටු)",
-  "description": "සෙන්ටිමීටර 20-40ක් පමණ උසැති කුඩා පඳුරකි; කටු රාශියක් ඇත, දීප්තිමත් කහ පැහැතිය. පත්‍ර ගැඹුරින් පිහාටු ආකාරයට බෙදී ඇත (pinnately lobed), දිග සෙන්ටිමීටර 6-10ක් සහ පළල සෙන්ටිමීටර 5-9ක් වේ; පත්‍ර වෘන්තය (petiole) පත්‍රයේ දිගෙන් අඩක් පමණ වේ. පුෂ්ප මංජරියෙහි මල් කිහිපයක් පමණක් අඩංගු වන අතර දිග සෙන්ටිමීටර 10ක් දක්වා වේ. පුෂ්ප වෘන්තය (pedicels) සෙන්ටිමීටර 1ක් පමණ දිගය; මල් කිරීටය (corolla) දම් පැහැතිය, විෂ්කම්භය සෙන්ටිමීටර 2ක් පමණ වේ. ඵල ගෝලාකාරය (spherical), කහ පැහැතිය, විෂ්කම්භය සෙන්ටිමීටර 2ක් පමණ වේ.",
-  "treatments": [
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Solanum virginianum L.",
+    "synonyms": [
+        "Solanum arabicum Dunal",
+        "Solanum armatum Forssk.",
+        "Solanum ferox Burm.f.",
+        "Solanum gula Buch.-Ham.",
+        "Solanum jacquinii Miq.",
+        "Solanum jacquinii Willd.",
+        "Solanum macannii Santapau",
+        "Solanum mairei H.Lév.",
+        "Solanum melongena Wall.",
+        "Solanum surattense Burm.f.",
+        "Solanum virginicum L.",
+        "Solanum xanthocarpum Schrad."
+    ],
+    "familyName": "SOLANACEAE",
+    "englishNames": [
+        "Wild Eggplant",
+        "Thorny Nightshade",
+        "Yellow Berried Nightshade",
+        "Thai Eggplant"
+    ],
+    "sinhalaName": "Katuwel batu (කටුවැල්බටු)",
+    "description": "සෙන්ටිමීටර 20-40ක් පමණ උසැති කුඩා පඳුරකි; කටු රාශියක් ඇත, දීප්තිමත් කහ පැහැතිය. පත්‍ර ගැඹුරින් පිහාටු ආකාරයට බෙදී ඇත (pinnately lobed), දිග සෙන්ටිමීටර 6-10ක් සහ පළල සෙන්ටිමීටර 5-9ක් වේ; පත්‍ර වෘන්තය (petiole) පත්‍රයේ දිගෙන් අඩක් පමණ වේ. පුෂ්ප මංජරියෙහි මල් කිහිපයක් පමණක් අඩංගු වන අතර දිග සෙන්ටිමීටර 10ක් දක්වා වේ. පුෂ්ප වෘන්තය (pedicels) සෙන්ටිමීටර 1ක් පමණ දිගය; මල් කිරීටය (corolla) දම් පැහැතිය, විෂ්කම්භය සෙන්ටිමීටර 2ක් පමණ වේ. ඵල ගෝලාකාරය (spherical), කහ පැහැතිය, විෂ්කම්භය සෙන්ටිමීටර 2ක් පමණ වේ.",
+    "treatments": [
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Chest Pain",
+            "sinhala": "පපුවේ වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Toothache",
+            "sinhala": "දත් කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Worm infestations",
+            "sinhala": "පණුවන් බෝවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Pruritus",
+            "sinhala": "චර්ම රෝග නිසා ඇතිවන කැසීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Vaginal Candidiasis",
+            "sinhala": "යෝනි මාර්ගයේ දිලීර ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Erectile Dysfunction",
+            "sinhala": "ලිංගික අප්‍රාණිකත්වය / ධ්වජභංගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Alopecia Areata",
+            "sinhala": "තැනින් තැන කෙස් හැලී යාම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Vomiting",
+            "sinhala": "වමනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Renal Calculi",
+            "sinhala": "වකුගඩු ගල්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tuberculosis",
+            "sinhala": "ක්ෂය රෝගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds",
+        "Root"
+    ],
+    "images": [
+        {
+            "image_id": "481",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/TjDsG6v/plant01268-00481.jpg"
+        },
+        {
+            "image_id": "482",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/PvDwwx61/plant01268-00482.jpg"
+        },
+        {
+            "image_id": "483",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/nq6PKrsM/plant01268-00483.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කටුවැල් බටු ශාකයේ ඖෂධීය ගුණ | katuwelbatu | solanum virginianum🌿",
+                "url": "https://youtube.com/watch?v=24oT1labluk",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/24oT1labluk/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන කටුවැල්බටු....",
+                "url": "https://youtube.com/watch?v=lE2rtQHtsqA",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/lE2rtQHtsqA/hq720.jpg"
+            },
+            {
+                "title": "කටුවැල්බටු ශාකය | Solanum virginianum | Prickly pear plant  - Wishmakarma youtube channel",
+                "url": "https://youtube.com/watch?v=ydj2nut-L5o",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/ydj2nut-L5o/hq720.jpg"
+            },
+            {
+                "title": "Ath Beheth Sinhala | Wel Thubbotu | story eka",
+                "url": "https://youtube.com/watch?v=loPJNmxclfs",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/loPJNmxclfs/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "ඕනෑම කටුවක් විනාඩි කිහිපයෙන් නිකන්ම එලියට එනවා. ශල්‍යකමයක් නැතුව කටුව එලියට ගන්න ගැමි වෙදකමේ රහසක්.",
+                "url": "https://youtube.com/watch?v=nhp8_Hld0y4",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/nhp8_Hld0y4/hq720.jpg"
+            },
+            {
+                "title": "moragollaa pawulata udaw ගෙදරම වාට්ටුවක් , ඔක්කොමලා ලෙඩ්ඩු   මෙත් සිතින් අතදෙන මිනිස්සු",
+                "url": "https://youtube.com/watch?v=u6T9yKbhHU0",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/u6T9yKbhHU0/hq720.jpg"
+            },
+            {
+                "title": "කටුවැල් බටු ශාකයේ ඖෂධීය ගුණ | katuwelbatu | solanum virginianum🌿",
+                "url": "https://youtube.com/watch?v=7iuuAnXcmsg",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/7iuuAnXcmsg/frame0.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "තිබ්බටු කෑවට එකේ ගුණ ගැන ඔබ දැනගෙන හිටියේ නැහැ නේද? මේක දිව්‍ය ඖෂධයක්",
+                "url": "https://youtube.com/watch?v=U0eg_h7T6i8",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/U0eg_h7T6i8/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු වල තිත්ත ඇත්ත | Turkey Berry & Bitter Truth By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Yxcn99C76YM",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Yxcn99C76YM/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "කුප්පමේනිය ඖෂධ පැලෑටිය | kuppameniya | Acalypha indica | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=6ysXbzyxa7c",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/6ysXbzyxa7c/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු වල ඖෂධීය ගුණ Medicinal properties of papaya - wishmakarma you tube channel",
+                "url": "https://youtube.com/watch?v=pTHYcO_20Q0",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/pTHYcO_20Q0/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ එළබටු වල විශ්මිත ගුණ - Amazing properties of Batu Vegetable",
+                "url": "https://youtube.com/watch?v=krcNHcPh3Zk",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/krcNHcPh3Zk/hq720.jpg"
+            },
+            {
+                "title": "තිබිබටු ගෙඩියක් කරපු දෙයක්😥ඇත්තටම මෙහෙමද තිබිබටු? තිබිබටු වල ගුණ අගුණ",
+                "url": "https://youtube.com/watch?v=j2F_imzpej4",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/j2F_imzpej4/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටුවල ඇති විශේෂිත ගුණ.  Turkey Berry.",
+                "url": "https://youtube.com/watch?v=KAsZe_2Z-F0",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/KAsZe_2Z-F0/hq720.jpg"
+            },
+            {
+                "title": "කහ බතල ද?| සුදු බතල ද? |හොදද?| නරකද?| තව බොහෝ දේ |Good or Bad? |Yellow or White ?| & more",
+                "url": "https://youtube.com/watch?v=DLvrcL8oXtQ",
+                "duration": "13:02",
+                "thumbnail": "https://i.ytimg.com/vi/DLvrcL8oXtQ/hq720.jpg"
+            },
+            {
+                "title": "#Aratuwa# Gotukola # ගොටුකොළවල ගුණ ඔබ දන්නවාද #",
+                "url": "https://youtube.com/watch?v=LatcXZZ0Dl4",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/LatcXZZ0Dl4/hq720.jpg"
+            },
+            {
+                "title": "ඉතාම ගුණදායක බටු කොළ කැද/ස්වසන රෝග සඳහා වඩාත් ගුණදායකයි.",
+                "url": "https://youtube.com/watch?v=6Rjs3TZbDmE",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/6Rjs3TZbDmE/hqdefault.jpg"
+            },
+            {
+                "title": "වටු බිත්තර වල විශ්මිත ගුණ - Quail eggs",
+                "url": "https://youtube.com/watch?v=OmMqkIZ4q7s",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/OmMqkIZ4q7s/hq720.jpg"
+            },
+            {
+                "title": "රුව රැකදෙන රෝග රාශියකට ගුණ දෙන ඖෂධීය කටරොළු පානය",
+                "url": "https://youtube.com/watch?v=dazG0fwdLyo",
+                "duration": "5:52",
+                "thumbnail": "https://i.ytimg.com/vi/dazG0fwdLyo/hqdefault.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "මේ අල කැබැල්ලක් තමිබා බොන්න මරණය පවා වළකාලයි/ඖෂධීය හීන් අරත්ත ශාකය",
+                "url": "https://youtube.com/watch?v=wN_Rt6aNHXQ",
+                "duration": "6:38",
+                "thumbnail": "https://i.ytimg.com/vi/wN_Rt6aNHXQ/hq720.jpg"
+            },
+            {
+                "title": "කෙහෙළිය ගෙදර යැව්වත් තවමත් ඉටු නොවූ දෙයක් වෛද්‍ය චමල් මතක් කරයි",
+                "url": "https://youtube.com/watch?v=BauFF14Vo6Y",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/BauFF14Vo6Y/hq720.jpg"
+            },
+            {
+                "title": "පිලිකාව නසන කටුපිල | දිව ඔසුවක් බදු කටුපිල | කටුපිල ශාකය | කටුපිල | katupila | 2024",
+                "url": "https://youtube.com/watch?v=aHQSr4LSJWQ",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/aHQSr4LSJWQ/hqdefault.jpg"
+            },
+            {
+                "title": "ශරීරය ලෙඩ කරන බලවේග මෙන්න හරි විදිහට ශරීරය සුද්ද කර කදබාර දුන්නොත් වරමට එන ආකාරය මෙන්න ,,",
+                "url": "https://youtube.com/watch?v=d3NWmZJa4B4",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/d3NWmZJa4B4/hq720.jpg"
+            },
+            {
+                "title": "අනුෂා ඩොක්ට මගේ දුවගේ වකුගඩුවල ගල් ඉවත් කර සුව කලේ එක මාසෙන්",
+                "url": "https://youtube.com/watch?v=tRUzDxKI24k",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/tRUzDxKI24k/hq720.jpg"
+            },
+            {
+                "title": "දීර්ඝායුෂ ගෙනෙන කොට්ටම්බා වල ගුණ | Properties of almonds that bring longevity | Kottamba",
+                "url": "https://youtube.com/watch?v=ylx163Vldd0",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/ylx163Vldd0/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට කොතලහිඹුටු ? | Sitha FM",
+                "url": "https://youtube.com/watch?v=SD0s9z1JyUY",
+                "duration": "1:41",
+                "thumbnail": "https://i.ytimg.com/vi/SD0s9z1JyUY/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "මේ සියළු රෝග සුවකර ඔබව පැහැපත් කර තරුණ කරන ලොව හොදම පානය.. Turmeric Tea Benefits & Recipe.",
+                "url": "https://youtube.com/watch?v=XnH1pCjnbNo",
+                "duration": "12:08",
+                "thumbnail": "https://i.ytimg.com/vi/XnH1pCjnbNo/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ ශාකයේ ගුණ Leucas aspera geta thuba getathuba guna ගැට තුබ වගාව getathuba wagawa badungathawa",
+                "url": "https://youtube.com/watch?v=oUs0G1l121Y",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/oUs0G1l121Y/hq720.jpg"
+            },
+            {
+                "title": "එලබටු වල ගුණ |බටු කොළ බීඩි වල ගුණ.",
+                "url": "https://youtube.com/watch?v=yQ-6jO6HNCw",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/yQ-6jO6HNCw/hqdefault.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 6ක් | Health Benefits Of Butterfly Pea Tea",
+                "url": "https://youtube.com/watch?v=lwZGAN8NJaM",
+                "duration": "9:22",
+                "thumbnail": "https://i.ytimg.com/vi/lwZGAN8NJaM/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම ඔයා විට කෑවට බුලත් විටෙ උපත දැනන්හිටියද ? 🌿",
+                "url": "https://youtube.com/watch?v=J49Yannf698",
+                "duration": "7:14",
+                "thumbnail": "https://i.ytimg.com/vi/J49Yannf698/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු කෑවොත් මෙන්න මේ රෝග වලට ගුණයි | Thibbutu | Solanum torvum",
+                "url": "https://youtube.com/watch?v=Vs1ZvRhKNlA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/Vs1ZvRhKNlA/hqdefault.jpg"
+            },
+            {
+                "title": "කටුපිල ශාකයේ ගුණ අගුණ නිවැරදිව දැනගමු | Health benefits of katupila | කටුපිල | Katupila",
+                "url": "https://youtube.com/watch?v=LnoPt_czJkM",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/LnoPt_czJkM/hqdefault.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "වට්ටක්කා වල ඇති කවුරුත් නොදන්නා විශ්මිත ගුණ - Amazing properties of pumpkin For a healthy life",
+                "url": "https://youtube.com/watch?v=vrvnJ7vDeCY",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/vrvnJ7vDeCY/hq720.jpg"
+            },
+            {
+                "title": "වණ, කුෂ්ඨ, යටි පතුල් පැලීම් ඇතුළු රෝග අවස්ථා රැසකට ගුණ දෙන කටු ආකරය | දළුක් (Daluk)",
+                "url": "https://youtube.com/watch?v=o6LdT7NHnkc",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/o6LdT7NHnkc/hq720.jpg"
+            },
+            {
+                "title": "katuwel batu | Solanum |  මල්_Flowers.",
+                "url": "https://youtube.com/watch?v=9jVchc-mYTg",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/9jVchc-mYTg/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ඖෂධ ගුණයක් ඇති  කොටුකල ගැන විස්තර",
+                "url": "https://youtube.com/watch?v=xfzU2eTtAmU",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/xfzU2eTtAmU/hq720.jpg"
+            },
+            {
+                "title": "වට්ටක්කා වැඩිපුර ආහාරයට ගන්නා අයට සිදු වෙන දේ - Health Benefits of Pumpkin",
+                "url": "https://youtube.com/watch?v=XoFwzhJfJ-w",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/XoFwzhJfJ-w/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "වැටකොළු කෑවොත් වෙන දේ මෙන්න : Benefits of Luffa (Ridge Gourd)",
+                "url": "https://youtube.com/watch?v=Me5YrS9yvRw",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/Me5YrS9yvRw/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "වද මල් යුෂ මගින් ලැබෙන සෞඛ්‍ය ප්‍රතිලාභ 9ක් - 9 Health Benefits of Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=xRInp9A-z18",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/xRInp9A-z18/hq720.jpg"
+            },
+            {
+                "title": "කැඩූම් බ්දුම් තැලීම් උළුක්කූ වැනි සර්වාංග රෝග සුවකරන බැලතණ ශාකය",
+                "url": "https://youtube.com/watch?v=E--4qpYMeC8",
+                "duration": "8:54",
+                "thumbnail": "https://i.ytimg.com/vi/E--4qpYMeC8/hq720.jpg"
+            },
+            {
+                "title": "Pota wel|කැඩුම් බිදුම් වෙදකමට නැතුවම බැරි පෝටා වැලේ ඖෂධිය ගුණ 🌿",
+                "url": "https://youtube.com/watch?v=RZatkDtYRwI",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/RZatkDtYRwI/hq720.jpg"
+            },
+            {
+                "title": "වට්ටක්කා කෑවොත් සිද්දවෙන දේ | Pumpkin By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=wS093D4TyB4",
+                "duration": "10:31",
+                "thumbnail": "https://i.ytimg.com/vi/wS093D4TyB4/hq720.jpg"
+            },
+            {
+                "title": "අපල වලට මල් ගත්තට ශාකයේ ගුණ දන්නවද? උණ අපස්මාර ඇතුළු රෝග රැසකට ගුණ කටු පදුර | වැටකෙයියා",
+                "url": "https://youtube.com/watch?v=bSmjsNHcay8",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/bSmjsNHcay8/hq720.jpg"
+            },
+            {
+                "title": "බැලතණ ඔයත් කැවද නොදන්නා කමට | thuru tv",
+                "url": "https://youtube.com/watch?v=Xyr3d01byak",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/Xyr3d01byak/hq720.jpg"
+            },
+            {
+                "title": "🔥 වකුගඩු වලට දැනගත යුතු හොඳ සහ නරක අතිරේක⚠️ වකුගඩු වලට හානි කරයිද?! kidney health Vitamins",
+                "url": "https://youtube.com/watch?v=9OrQHJynr4I",
+                "duration": "20:03",
+                "thumbnail": "https://i.ytimg.com/vi/9OrQHJynr4I/hq720.jpg"
+            },
+            {
+                "title": "10 Amazing Benefits of Katuk Leaves You’ve Probably Never Heard Of!",
+                "url": "https://youtube.com/watch?v=IcZNO1NOmic",
+                "duration": "7:33",
+                "thumbnail": "https://i.ytimg.com/vi/IcZNO1NOmic/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=MBR3AVmcWqw",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/MBR3AVmcWqw/hq720.jpg"
+            },
+            {
+                "title": "Cactus Leaf: Benefits & Uses (Nopales)",
+                "url": "https://youtube.com/watch?v=ayQyCUyKk-U",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/ayQyCUyKk-U/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්කා ශාකය ආහාරයට ගත්තොත් වෙන දේ මෙන්න.",
+                "url": "https://youtube.com/watch?v=HCG-C5npl8M",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/HCG-C5npl8M/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "Physalis Fruit: Benefits and Uses (Cape Gooseberry)",
+                "url": "https://youtube.com/watch?v=-nZzH9_rMYM",
+                "duration": "5:54",
+                "thumbnail": "https://i.ytimg.com/vi/-nZzH9_rMYM/hq720.jpg"
+            },
+            {
+                "title": "What Is Katuk (Sweet Leaf): The Amazing Health Benefits! / TOP 10 Indian Herbs",
+                "url": "https://youtube.com/watch?v=3I5DpafffFM",
+                "duration": "2:05",
+                "thumbnail": "https://i.ytimg.com/vi/3I5DpafffFM/hq720.jpg"
+            },
+            {
+                "title": "Top 7 Surprising Health Benefits of Cactus!",
+                "url": "https://youtube.com/watch?v=8WlF1RVNxFM",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/8WlF1RVNxFM/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Health Benefits Of Cactus Water",
+                "url": "https://youtube.com/watch?v=v4l2A9XmpUE",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/v4l2A9XmpUE/hq720.jpg"
+            },
+            {
+                "title": "කටු ඔටුන්න ශාකයේ විවිධ ප්‍රතිලාභ Crown-of-Thorns Plant benefits",
+                "url": "https://youtube.com/watch?v=tl97Js3FUvg",
+                "duration": "4:52",
+                "thumbnail": "https://i.ytimg.com/vi/tl97Js3FUvg/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Bitter Leaf Health Benefits ( & SIDE EFFECTS)",
+                "url": "https://youtube.com/watch?v=qtQZNnaVCDQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/qtQZNnaVCDQ/hq720.jpg"
+            },
+            {
+                "title": "Here are several Health Benefits when you use Cactus 🌵 Tuna #health ##educational #healthylifestyle",
+                "url": "https://youtube.com/watch?v=dc-oGrvjwK4",
+                "duration": "19:03",
+                "thumbnail": "https://i.ytimg.com/vi/dc-oGrvjwK4/hqdefault.jpg"
+            },
+            {
+                "title": "බැලතණ ශාකයේ ඇති  ඖෂධීය ප්‍රයෝජන | Medicinal Benefits of Balatana Plant | Indian goosegrass benefits🌿",
+                "url": "https://youtube.com/watch?v=WKMPrCnv0iQ",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/WKMPrCnv0iQ/hqdefault.jpg"
+            },
+            {
+                "title": "Kabella tree| කැබැල්ල ගස| Kebilla tree | Ayurvedic plants of Sri Lanka | | Sinhala Beth | Kebella",
+                "url": "https://youtube.com/watch?v=gwTQk5pN0KA",
+                "duration": "8:43",
+                "thumbnail": "https://i.ytimg.com/vi/gwTQk5pN0KA/hq720.jpg"
+            },
+            {
+                "title": "Bitter Leaf: Benefits for Health",
+                "url": "https://youtube.com/watch?v=gMUH7ap8cdE",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/gMUH7ap8cdE/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු පෝෂණ ගබඩාවක්ද? නැතිනම් මාරාන්තික අනතුරක්ද? 🌿",
+                "url": "https://youtube.com/watch?v=eWHlkehp63Q",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/eWHlkehp63Q/hq720.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "බුලත්  විට  හැපීමෙන් විශ්මිත ප්‍රතිපල | Betel Chewing & Health  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=uch_5dcnSHk",
+                "duration": "9:00",
+                "thumbnail": "https://i.ytimg.com/vi/uch_5dcnSHk/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "Kadukamberiya |කඩුකම්බේරියා | ලේ වඩන ඔසු | osu-ඔසු",
+                "url": "https://youtube.com/watch?v=FxjYd4HaAik",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/FxjYd4HaAik/hqdefault.jpg"
+            },
+            {
+                "title": "Health benefits of Koththamalli (Coriander). Ayurvedic and medicinal value of Coriander.",
+                "url": "https://youtube.com/watch?v=RBZc65_lO5U",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/RBZc65_lO5U/hq720.jpg"
+            },
+            {
+                "title": "සුව නොවන රෝග සූවකරන අරුම පුදුම ශාකය වතූ පාළු|watupalu /mikania cordata/ikmanwga",
+                "url": "https://youtube.com/watch?v=rugj2RyXK6w",
+                "duration": "12:24",
+                "thumbnail": "https://i.ytimg.com/vi/rugj2RyXK6w/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "දත් වලට, කටේ තුවාල වලට ඉතා ගුණ , බඩේ දෝෂ, හෘදයේ ගැටළු ඇතුළු රෝග රැසකට හොදම ඖශධිය ශාකය | මුණ මල් ශාකය",
+                "url": "https://youtube.com/watch?v=6WHr-kmwPzg",
+                "duration": "9:47",
+                "thumbnail": "https://i.ytimg.com/vi/6WHr-kmwPzg/hq720.jpg"
+            },
+            {
+                "title": "තලන බටු වැඩපුර කන අයට වෙන දේ මෙන්න : Benefits of Thai Eggplant",
+                "url": "https://youtube.com/watch?v=Z-JZPsbUw4E",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/Z-JZPsbUw4E/hq720.jpg"
+            },
+            {
+                "title": "බෝවිටියා ගෙඩි කෑවොත් ලැබෙන දේවල් : Melastoma affine – Bovitiya – Benefits of Blue tongue fruit",
+                "url": "https://youtube.com/watch?v=y1bAMxKNLTM",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/y1bAMxKNLTM/hq720.jpg"
+            },
+            {
+                "title": "බතල දලු මැල්ලුම කෑවම වෙන දේ මෙන්න : Benefits of Sweet Potato Leaves",
+                "url": "https://youtube.com/watch?v=XU_DUN6sH58",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/XU_DUN6sH58/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Chest Pain",
-      "sinhala": "පපුවේ වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Toothache",
-      "sinhala": "දත් කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Worm infestations",
-      "sinhala": "පණුවන් බෝවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Pruritus",
-      "sinhala": "චර්ම රෝග නිසා ඇතිවන කැසීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Vaginal Candidiasis",
-      "sinhala": "යෝනි මාර්ගයේ දිලීර ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Erectile Dysfunction",
-      "sinhala": "ලිංගික අප්‍රාණිකත්වය / ධ්වජභංගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Alopecia Areata",
-      "sinhala": "තැනින් තැන කෙස් හැලී යාම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Vomiting",
-      "sinhala": "වමනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Renal Calculi",
-      "sinhala": "වකුගඩු ගල්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tuberculosis",
-      "sinhala": "ක්ෂය රෝගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds",
-    "Root"
-  ],
-  "images": [
-    {
-      "image_id": "481",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/TjDsG6v/plant01268-00481.jpg"
-    },
-    {
-      "image_id": "482",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/PvDwwx61/plant01268-00482.jpg"
-    },
-    {
-      "image_id": "483",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/nq6PKrsM/plant01268-00483.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

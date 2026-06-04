@@ -1,106 +1,579 @@
 {
-  "scientificName": "Alstonia macrophylla Wall. ex G.Don",
-  "synonyms": [
-    "Alstonia acuminata Miq.",
-    "Alstonia batino Blanco",
-    "Alstonia brassii Monach.",
-    "Alstonia costata Wall. ex Miq.",
-    "Alstonia glabriflora Markgr.",
-    "Alstonia macrophylla var. acuminata (Miq.) Monach.",
-    "Alstonia macrophylla var. glabra A.DC.",
-    "Alstonia macrophylla var. mollis Merr.",
-    "Alstonia oblongifolia Merr.",
-    "Alstonia pangkorensis King & Gamble",
-    "Alstonia paucinervia Merr.",
-    "Alstonia subsessilis Miq.",
-    "Echites trifidus Blanco"
-  ],
-  "familyName": "APOCYNACEAE",
-  "englishNames": [
-    "Thungfaa",
-    "Batino",
-    "Devil Tree",
-    "Hard Alstonia"
-  ],
-  "sinhalaName": "Havari nuga (හවරිනුග)",
-  "description": "තරුණ අතු රෝම සහිත (pubescent) උසැති ගස් වේ. පත්‍ර 3ක් හෝ බොහෝ විට 4ක් බැගින් වටල (whorls) ලෙස පිහිටයි. පත්‍ර වෘන්තය (petiole) සෙ.මී. 1.3ක් දිගය. පත්‍ර තලය සෙ.මී. 10-50ක් දිග සහ සෙ.මී. 4-14ක් පළලය. පුෂ්ප මංජරිය තරමක් ලිහිල් (lax) වන අතර, වෘන්ත රහිත (sessile) අම්බෙලාවක (umbel) ආකාරයට සැකසී ඇත. මල් කිරීටය (corolla) සුදු හෝ කොළ පැහැයට හුරු සුදු පැහැතිය; නලය සෙ.මී. 0.5-0.6ක් දිගය. ඵල (merocarps) පහළට එල්ලෙන සුළු වන අතර, සෙ.මී. 30-45ක් දිග සහ විෂ්කම්භය සෙ.මී. 0.25-0.35ක් වේ.",
-  "treatments": [
-    {
-      "treatment": "Abdominal Pain",
-      "sinhala": "උදර වේදනාව (බඩේ කැක්කුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Alstonia macrophylla Wall. ex G.Don",
+    "synonyms": [
+        "Alstonia acuminata Miq.",
+        "Alstonia batino Blanco",
+        "Alstonia brassii Monach.",
+        "Alstonia costata Wall. ex Miq.",
+        "Alstonia glabriflora Markgr.",
+        "Alstonia macrophylla var. acuminata (Miq.) Monach.",
+        "Alstonia macrophylla var. glabra A.DC.",
+        "Alstonia macrophylla var. mollis Merr.",
+        "Alstonia oblongifolia Merr.",
+        "Alstonia pangkorensis King & Gamble",
+        "Alstonia paucinervia Merr.",
+        "Alstonia subsessilis Miq.",
+        "Echites trifidus Blanco"
+    ],
+    "familyName": "APOCYNACEAE",
+    "englishNames": [
+        "Thungfaa",
+        "Batino",
+        "Devil Tree",
+        "Hard Alstonia"
+    ],
+    "sinhalaName": "Havari nuga (හවරිනුග)",
+    "description": "තරුණ අතු රෝම සහිත (pubescent) උසැති ගස් වේ. පත්‍ර 3ක් හෝ බොහෝ විට 4ක් බැගින් වටල (whorls) ලෙස පිහිටයි. පත්‍ර වෘන්තය (petiole) සෙ.මී. 1.3ක් දිගය. පත්‍ර තලය සෙ.මී. 10-50ක් දිග සහ සෙ.මී. 4-14ක් පළලය. පුෂ්ප මංජරිය තරමක් ලිහිල් (lax) වන අතර, වෘන්ත රහිත (sessile) අම්බෙලාවක (umbel) ආකාරයට සැකසී ඇත. මල් කිරීටය (corolla) සුදු හෝ කොළ පැහැයට හුරු සුදු පැහැතිය; නලය සෙ.මී. 0.5-0.6ක් දිගය. ඵල (merocarps) පහළට එල්ලෙන සුළු වන අතර, සෙ.මී. 30-45ක් දිග සහ විෂ්කම්භය සෙ.මී. 0.25-0.35ක් වේ.",
+    "treatments": [
+        {
+            "treatment": "Abdominal Pain",
+            "sinhala": "උදර වේදනාව (බඩේ කැක්කුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Infection",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Bark"
+    ],
+    "images": [
+        {
+            "image_id": "1885",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/HD5kNL1L/plant00103-01885.jpg"
+        },
+        {
+            "image_id": "1886",
+            "caption": "Infloroscence 1 (PMR)",
+            "url": "https://i.ibb.co/nsdd7dbk/plant00103-01886.jpg"
+        },
+        {
+            "image_id": "1887",
+            "caption": "Infloroscence 1 (PMR)",
+            "url": "https://i.ibb.co/V0k70443/plant00103-01887.jpg"
+        },
+        {
+            "image_id": "1888",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/HTB0wRQn/plant00103-01888.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "The Benefits of Hawthorn Berry",
+                "url": "https://youtube.com/watch?v=84ZNrBoVNKU",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/84ZNrBoVNKU/hq720.jpg"
+            },
+            {
+                "title": "Hawthorn Tree  - Herbal Medicinal Properties",
+                "url": "https://youtube.com/watch?v=DSvAVr-umSE",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/DSvAVr-umSE/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Hawthorn",
+                "url": "https://youtube.com/watch?v=pXgIJQ1pg7Q",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/pXgIJQ1pg7Q/hq720.jpg"
+            },
+            {
+                "title": "Hawthorn - Herb of Myth and Medicine",
+                "url": "https://youtube.com/watch?v=8Akjss1rpI4",
+                "duration": "13:51",
+                "thumbnail": "https://i.ytimg.com/vi/8Akjss1rpI4/hq720.jpg"
+            },
+            {
+                "title": "Forensic Night | ප්‍රොපේතමය රාත්‍රිය with Prophet Jerome Fernando",
+                "url": "https://youtube.com/watch?v=MhLJvDBc5Eg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/MhLJvDBc5Eg/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ අය ලෙඩ වෙන්නෙ අරක්කු බොන්න දන්නෙ නැති නිසා |  Alcohol  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dk3QJjXV938",
+                "duration": "19:12",
+                "thumbnail": "https://i.ytimg.com/vi/dk3QJjXV938/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live | ඕයි කපටි මිනිහෝ හිතුව ද මම මෝඩයෙක් කියලා..අගමැතිට කුණුහරප සමග ගුණ මකුවෙකු යැයි කියයි...",
+                "url": "https://youtube.com/watch?v=EdhTusCByKs",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/EdhTusCByKs/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "හිසේ උෂ්ණය අඩු කරන හිසට ඉතාමත් ගුණ භෘංගාමාලක තෛලයේ සුවිශේෂී රහස්",
+                "url": "https://youtube.com/watch?v=Y0Lpv76QyZ8",
+                "duration": "12:27",
+                "thumbnail": "https://i.ytimg.com/vi/Y0Lpv76QyZ8/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ඔසුවක ගුණ - හීරැස්ස ශාකය",
+                "url": "https://youtube.com/watch?v=z8GHMIZXSe4",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/z8GHMIZXSe4/hq720_2.jpg"
+            },
+            {
+                "title": "නිවසට වාසනාව ගෙන දෙන පැළ වර්ග 05ක් ☘️😱 05 types of plants that bring good luck to the house",
+                "url": "https://youtube.com/watch?v=iwO3fLNxW0U",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/iwO3fLNxW0U/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවේ කඳුකරයෙන් ලොව ජයගත් මේ ශාකයේ පුදුම ගුණ #srilanka #nature #health #tips #shortsfeed #short",
+                "url": "https://youtube.com/watch?v=Rci7dh19Frk",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/Rci7dh19Frk/hq720_2.jpg"
+            },
+            {
+                "title": "ආයුර්වේද වෛද්‍ය ක්‍රමයේ දක්නට ලැබෙන තවත් එක් සුපිරි ඖශධයක් වන වැල්මී, ඔබ නොදත් කරුනු රැසක්",
+                "url": "https://youtube.com/watch?v=vGKRA3RKadE",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/vGKRA3RKadE/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "හුලංකීරිය / ඈරුක්කා (Maranta arundinacea) වගාවේ රහස් සහ ගුණ ගෙවතු වගාව ,gewathu wagawa ,kabanika",
+                "url": "https://youtube.com/watch?v=eNorGaOQhhk",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/eNorGaOQhhk/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "Amazing benefits in higurala #හිගුරල අල සතු විශ්මිත ගුණාංග#srilanka 🇱🇰#colombo#subscribe 👍👍",
+                "url": "https://youtube.com/watch?v=qTkDLN_6Qio",
+                "duration": "0:19",
+                "thumbnail": "https://i.ytimg.com/vi/qTkDLN_6Qio/hq720_2.jpg"
+            },
+            {
+                "title": "මේ ගස් 3 ගෙදර තියෙනවා නම් කවදාවත් දියවැඩියාව හැදෙන්නේ නැහැ - මේ ගෙඩියක් කන්න පටගාල සීනි බහිනවා",
+                "url": "https://youtube.com/watch?v=ySXYL6YHSpo",
+                "duration": "26:55",
+                "thumbnail": "https://i.ytimg.com/vi/ySXYL6YHSpo/hq720.jpg"
+            },
+            {
+                "title": "හාතාවාරිය  ඔබ නොදත් පුදුම හිතෙන ගුණ සහ අගුණ මෙන්න 🌿",
+                "url": "https://youtube.com/watch?v=zp_ljHTE53c",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/zp_ljHTE53c/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල් වලින් මෙච්චර දෙයක්? උළුහාල් පාවිච්චි කරලා මේ තරම් ගුණ රැසක් ලබාගෙන රෝග රැසකින් බේරෙන්න",
+                "url": "https://youtube.com/watch?v=IF7JzzJCbYE",
+                "duration": "11:06",
+                "thumbnail": "https://i.ytimg.com/vi/IF7JzzJCbYE/hq720.jpg"
+            },
+            {
+                "title": "හිඟුරල සහ ඇඟිලි අල වෙන් කර හඳුනා ගන්නා ක්‍රමය",
+                "url": "https://youtube.com/watch?v=SNAzaCQfIpw",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/SNAzaCQfIpw/hq720.jpg"
+            },
+            {
+                "title": "🌱 හීන් බෝවිටියා: අක්මාවේ සහ කොලෙස්ටරෝල් ගැටළුවලට ස්වභාවික විසඳුමක්! ❤️",
+                "url": "https://youtube.com/watch?v=8yIZoBYkQaI",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/8yIZoBYkQaI/hq720_2.jpg"
+            },
+            {
+                "title": "​සොබාදහමේ අසිරිමත් ඔසුව: \"ඉරමුසු\" (Indian Sarsaparilla) ඖෂධීය ගුණ | Raveendra Osu Sewana #Iramusu",
+                "url": "https://youtube.com/watch?v=KolAsz0mNZU",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/KolAsz0mNZU/hq720.jpg"
+            },
+            {
+                "title": "උගුඩු කවිය ♥️🍃 ලංකාවට ආවේණික, උගුඩු හල් 🔴 Symplocos coronata Thwaites",
+                "url": "https://youtube.com/watch?v=ZD9oYpnF8Gc",
+                "duration": "0:39",
+                "thumbnail": "https://i.ytimg.com/vi/ZD9oYpnF8Gc/hq720_2.jpg"
+            },
+            {
+                "title": "පාද හිරි වැටීම කොන්දේ අමාරුවට බලපෑම් කරන්නේ කෙසේදැයි දැනුවත් වෙමු",
+                "url": "https://youtube.com/watch?v=W_bcOhc73vg",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/W_bcOhc73vg/hq720.jpg"
+            },
+            {
+                "title": "අඹ මල් කළුවීම වළක්වා ගනිමු #farming #agriculture #fruit",
+                "url": "https://youtube.com/watch?v=pbzq4qbpPsM",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/pbzq4qbpPsM/hq720_2.jpg"
+            },
+            {
+                "title": "👅ස්වභාවික වර්ණක භාවිතයේදී හැමෝම වරද්දන තැන් 4ක්! | 4 Mistakes to Avoid with Natural Food Coloring 🎨🌱",
+                "url": "https://youtube.com/watch?v=IOpwvzQWIP8",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/IOpwvzQWIP8/hq720_2.jpg"
+            },
+            {
+                "title": "The Hosta secret every gardener should know #herbalist #gardeningtips #plantmedicine",
+                "url": "https://youtube.com/watch?v=x_-RiRpoBBk",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/x_-RiRpoBBk/hq720_2.jpg"
+            },
+            {
+                "title": "කොදු ඇට පෙළ ආශ්‍රිත රෝග සදහා හෝමියෝපතිකාර",
+                "url": "https://youtube.com/watch?v=Yhm3pFQBsww",
+                "duration": "14:01",
+                "thumbnail": "https://i.ytimg.com/vi/Yhm3pFQBsww/hqdefault.jpg"
+            },
+            {
+                "title": "The hidden secret behind the cape gooseberry's husk 🤫🍬 #uvilla #uchuva #goldenberry",
+                "url": "https://youtube.com/watch?v=ddaAGuZ98Do",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/ddaAGuZ98Do/hq720.jpg"
+            },
+            {
+                "title": "srilankan healthy foods අපිට අගේ නැති වුණාට විදේශිකයෝ හොයන Careya arborea 🌿",
+                "url": "https://youtube.com/watch?v=fxYyVouLgHk",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/fxYyVouLgHk/hq720.jpg"
+            },
+            {
+                "title": "අවු. 16ක Arthrits සති 11න් 65%ක් සුවයි",
+                "url": "https://youtube.com/watch?v=OkXhZIiuVqI",
+                "duration": "1:27",
+                "thumbnail": "https://i.ytimg.com/vi/OkXhZIiuVqI/hq720_2.jpg"
+            },
+            {
+                "title": "හදවතට හොදම කෑමක් Best Foods for Your Heart #healthyliving #ayurveda #food #fruit",
+                "url": "https://youtube.com/watch?v=L9YPwJA0mlY",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/L9YPwJA0mlY/hqdefault.jpg"
+            },
+            {
+                "title": "ඖෂධ වරම අරගෙන රෝගීන් සුවපත් කරන්න/asvidha astrology",
+                "url": "https://youtube.com/watch?v=-C3faGUEAgI",
+                "duration": "20:44",
+                "thumbnail": "https://i.ytimg.com/vi/-C3faGUEAgI/hq720.jpg"
+            },
+            {
+                "title": "Secrets of Ephedra equisetina",
+                "url": "https://youtube.com/watch?v=ALhANPYk1rs",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/ALhANPYk1rs/hq720.jpg"
+            },
+            {
+                "title": "ඇට්ටමුරා (ඇටඹුරු) දේශීය හෙළ වෙදකමේ මහාර්ඝ ඔසුව - #Ettamura #Medicinal #Plant",
+                "url": "https://youtube.com/watch?v=R-O8lYlimRQ",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/R-O8lYlimRQ/hq720_2.jpg"
+            },
+            {
+                "title": "ඔලුවේ උදුගොව්වා කෑම දින 7න් නවත්වන සුපිරිම ක්‍රම 10 | Udugovva Kema Treatment Sri Lanka",
+                "url": "https://youtube.com/watch?v=kw0UJcr0bLA",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/kw0UJcr0bLA/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිය වඩවන දිව්‍යමය ඖෂධය ||The divine potion that increases strength #Amukkara",
+                "url": "https://youtube.com/watch?v=JNtQ2Yhl1iM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/JNtQ2Yhl1iM/hqdefault.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "අනුෂා ඩොක්ට මගේ දුවගේ වකුගඩුවල ගල් ඉවත් කර සුව කලේ එක මාසෙන්",
+                "url": "https://youtube.com/watch?v=tRUzDxKI24k",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/tRUzDxKI24k/hq720.jpg"
+            },
+            {
+                "title": "වයසට යාම ප්‍රමාද කරන, ඇගේ සරුබව මෙන්ම බලය ජවය වඩන ඇගේ විෂ නසන අග්‍රගන්‍ය ඖෂධය ශිලාජතු",
+                "url": "https://youtube.com/watch?v=r49tjtt3ztQ",
+                "duration": "13:28",
+                "thumbnail": "https://i.ytimg.com/vi/r49tjtt3ztQ/hq720.jpg"
+            },
+            {
+                "title": "Alstonia macrophylla හවරි නුග",
+                "url": "https://youtube.com/watch?v=CDBtwS8PIaI",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/CDBtwS8PIaI/hq720.jpg"
+            },
+            {
+                "title": "රණවරා ශාකය සතු ඇදහිය නොහැකි ඖෂධීය ගුණ | Ranawara benefite | senna auriculata🌿♻",
+                "url": "https://youtube.com/watch?v=zQNKlgAF0k8",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/zQNKlgAF0k8/hqdefault.jpg"
+            },
+            {
+                "title": "හාතාවාරිය ශාකයේ ඔබ නොදත් ඖෂධීය ගුණ | Hathawariya | Asparagus benefits🌿",
+                "url": "https://youtube.com/watch?v=lJUZva0jNgw",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/lJUZva0jNgw/hqdefault.jpg"
+            },
+            {
+                "title": "Haathawariya - Medicinal plants |හාතවාරිය ඔසු ගුණ",
+                "url": "https://youtube.com/watch?v=jcEX06gVbBs",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/jcEX06gVbBs/hqdefault.jpg"
+            },
+            {
+                "title": "කැද වලින් හොදම හාතාවාරිය කැද | ඖෂධීය ගුණ කැද වර්ග @helaosuarana",
+                "url": "https://youtube.com/watch?v=-A2BY9kask8",
+                "duration": "1:44",
+                "thumbnail": "https://i.ytimg.com/vi/-A2BY9kask8/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "#Nuga නුග ගස ගැන ඔබට යමක් #banyan trees #srilanka#nature",
+                "url": "https://youtube.com/watch?v=vvEDgUaPJSg",
+                "duration": "13:38",
+                "thumbnail": "https://i.ytimg.com/vi/vvEDgUaPJSg/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "ශරීර ප්‍රතිශක්තිය වැඩි කරන උගුරැස්ස I Dr. Swarna Hapuarachchi I Ayurweda Prathikara I 2021.07.12",
+                "url": "https://youtube.com/watch?v=wVPEvBfG1zw",
+                "duration": "44:01",
+                "thumbnail": "https://i.ytimg.com/vi/wVPEvBfG1zw/hq720.jpg"
+            },
+            {
+                "title": "දවස් 5න් ඇස් පෙනීම වැඩි කරන බලගතු දේශීය ඔසු 11 |Herbs that help your Health and Eye sight in Sinhala",
+                "url": "https://youtube.com/watch?v=fVNutwFTXNY",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/fVNutwFTXNY/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ගසේ ඇති ඖෂධීය ප්‍රයෝජන | medical plant of kohomba✅",
+                "url": "https://youtube.com/watch?v=O_U8G6d4cGo",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/O_U8G6d4cGo/hqdefault.jpg"
+            },
+            {
+                "title": "දිනපතා උදෑසන උළු හාල් වතුර වීදුරුවකින් දවස පටන් ගත්තොත් ඔබට ලැබෙන වටිනා වාසි 10 ක්",
+                "url": "https://youtube.com/watch?v=YghdyV7tigk",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/YghdyV7tigk/hqdefault.jpg"
+            },
+            {
+                "title": "ආතරයිටිස් රෝගයෙන් බේරී ඉන්න නම් මේ ආහාර 10 අනුභව කරන්න | 10 Best Foods to Eat If You Have Arthritis",
+                "url": "https://youtube.com/watch?v=tqZN5DyE6Jc",
+                "duration": "11:14",
+                "thumbnail": "https://i.ytimg.com/vi/tqZN5DyE6Jc/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල් වතුර බිව්වම වකුගඩු නරක් වෙනවද? වකුගඩු රෝගීන්ට උළුහාල් බොන්න පුලුවන් ද?",
+                "url": "https://youtube.com/watch?v=Od3FueIVsgc",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/Od3FueIVsgc/hqdefault.jpg"
+            },
+            {
+                "title": "😱😱හීන් බැබිල ශාක වල විශේෂ ගුණ😱😱",
+                "url": "https://youtube.com/watch?v=oHk7QrKsXb0",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/oHk7QrKsXb0/hq720.jpg"
+            },
+            {
+                "title": "පෝෂ්‍ය පදාර්ථ අවශ්‍ය ප්‍රමාණයට නොලැබුණු විට ඇති විය හැකි තත්වයන් | පරිසරය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=i_AxCr1Y9-o",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/i_AxCr1Y9-o/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "හිගුරල|හාතාවාරිය|Hathawariyaguna|higuralaguna|suwahasclinic",
+                "url": "https://youtube.com/watch?v=nKSpQzGrwyc",
+                "duration": "16:17",
+                "thumbnail": "https://i.ytimg.com/vi/nKSpQzGrwyc/hq720.jpg"
+            },
+            {
+                "title": "පාන වර්ග - 03 ශ්‍රේණිය(පරිසරය)",
+                "url": "https://youtube.com/watch?v=kN0t7RcumJ4",
+                "duration": "25:25",
+                "thumbnail": "https://i.ytimg.com/vi/kN0t7RcumJ4/hq720.jpg"
+            },
+            {
+                "title": "Benefits of rain | වැස්සෙන් ඇති ප්‍රයෝජන | 3,4,5 ශ්‍රේණි සදහා පෙරහුරු රචනා | scholarship exam",
+                "url": "https://youtube.com/watch?v=8eb8UaD2Eb4",
+                "duration": "9:54",
+                "thumbnail": "https://i.ytimg.com/vi/8eb8UaD2Eb4/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "මොනවාද හොඳ ආයෝජන? කොහොමද ඒවා තෝරා ගන්නේ? : පියවරෙන් පියවර සරලව",
+                "url": "https://youtube.com/watch?v=rIvZKMl3ALU",
+                "duration": "40:53",
+                "thumbnail": "https://i.ytimg.com/vi/rIvZKMl3ALU/hq720.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "හුමාලයෙන් තම්බා සකස් කර ගනු ලබන ආහාර  | 3 ශ්‍රේණිය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=oc2JSHiN8yA",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/oc2JSHiN8yA/hq720.jpg"
+            },
+            {
+                "title": "පරාගනය කියන්නේ... | පරිසරය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=6ku28DQnc8Q",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/6ku28DQnc8Q/hq720.jpg"
+            },
+            {
+                "title": "Benifits of eating fruits- පලතුරු ආහාරයට ගැනීමේ ඇති වැදගත්කම.",
+                "url": "https://youtube.com/watch?v=59FPUrLrdzQ",
+                "duration": "12:00",
+                "thumbnail": "https://i.ytimg.com/vi/59FPUrLrdzQ/hqdefault.jpg"
+            },
+            {
+                "title": "එක පාරක් කෑවොත් ලිංගික ශක්තිය දෙගුණ තෙගුණ වෙන පුදුම ගුණ දෙන - ආයුර්වේදීය ගුණ අනූන හෙළ ඔසුව වදුරු මෑ",
+                "url": "https://youtube.com/watch?v=OXUbwWoXMHo",
+                "duration": "16:13",
+                "thumbnail": "https://i.ytimg.com/vi/OXUbwWoXMHo/hq720.jpg"
+            },
+            {
+                "title": "Diseases caused by unhealthy eating habits | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=0yIqxW89bwU",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/0yIqxW89bwU/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ප්‍රතිශක්තිය වැඩි කරන , හොදම පානය | Yaki Naran  |  Episode 409",
+                "url": "https://youtube.com/watch?v=2xmVGboWJ6g",
+                "duration": "6:20",
+                "thumbnail": "https://i.ytimg.com/vi/2xmVGboWJ6g/hq720.jpg"
+            },
+            {
+                "title": "හිරු එළිය සෘජුව අවශ්‍ය නොවන ශාක වර්ග / 4,5 පරිසරය || primary අපි",
+                "url": "https://youtube.com/watch?v=uKhelMwwKcg",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/uKhelMwwKcg/hqdefault.jpg"
+            },
+            {
+                "title": "උයනකොට විටමින් වැඩිවෙන එළවලු 10 ක්!",
+                "url": "https://youtube.com/watch?v=L9CaqwUOFHY",
+                "duration": "9:39",
+                "thumbnail": "https://i.ytimg.com/vi/L9CaqwUOFHY/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "Grade 4 | පරිසරය | ශාක සහ සතුන් අතර ඇති සම්බන්ධතා",
+                "url": "https://youtube.com/watch?v=mmHuVAJH9Oo",
+                "duration": "8:39",
+                "thumbnail": "https://i.ytimg.com/vi/mmHuVAJH9Oo/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිජනක ආහාර, වර්ධක ආහාර හා ආරක්ෂක ආහාර හඳුනාගනිමු | පරිසරය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=XS8LRHvHn7Q",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/XS8LRHvHn7Q/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල තිත්ත ඇත්ත | Heenbovitiya & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=lBsI67rHBnE",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/lBsI67rHBnE/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Tract Infection",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Bark"
-  ],
-  "images": [
-    {
-      "image_id": "1885",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/HD5kNL1L/plant00103-01885.jpg"
-    },
-    {
-      "image_id": "1886",
-      "caption": "Infloroscence 1 (PMR)",
-      "url": "https://i.ibb.co/nsdd7dbk/plant00103-01886.jpg"
-    },
-    {
-      "image_id": "1887",
-      "caption": "Infloroscence 1 (PMR)",
-      "url": "https://i.ibb.co/V0k70443/plant00103-01887.jpg"
-    },
-    {
-      "image_id": "1888",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/HTB0wRQn/plant00103-01888.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

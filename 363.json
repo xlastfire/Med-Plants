@@ -1,157 +1,222 @@
 {
-  "scientificName": "Cucumis sativus L.",
-  "synonyms": [
-    "Cucumis esculentus Salisb.",
-    "Cucumis hardwickii Royle",
-    "Cucumis muricatus Willd.",
-    "Cucumis rumphii Hassk.",
-    "Cucumis sativus convar. excellens Alef.",
-    "Cucumis sativus convar. pallidus Alef.",
-    "Cucumis sativus convar. viridis (Ser.) Alef.",
-    "Cucumis sativus f. albus (Ser.) Pangalo",
-    "Cucumis sativus f. albus M.Hiroe",
-    "Cucumis sativus f. australis Kitam.",
-    "Cucumis sativus f. borealis Kitam.",
-    "Cucumis sativus f. brunnescens Gabaev",
-    "Cucumis sativus f. hardwickii (Royle) W.J.de Wilde & Duyfjes",
-    "Cucumis sativus f. pallescens Gabaev",
-    "Cucumis sativus f. typicus Gabaev",
-    "Cucumis sativus f. viridis (Ser.) Gabaev",
-    "Cucumis sativus subsp. agrestis Gabaev",
-    "Cucumis sativus subsp. gracilior Gabaev",
-    "Cucumis sativus subsp. rigidus Gabaev",
-    "Cucumis sativus var. albus Ser.",
-    "Cucumis sativus var. anatolicus Gabaev",
-    "Cucumis sativus var. anglicus L.H.Bailey",
-    "Cucumis sativus var. battich-djebbal Forssk.",
-    "Cucumis sativus var. brullos Forssk.",
-    "Cucumis sativus var. chatte Forssk.",
-    "Cucumis sativus var. chiar Forssk.",
-    "Cucumis sativus var. cilicicus Gabaev",
-    "Cucumis sativus var. curtus Alef.",
-    "Cucumis sativus var. donii Alef.",
-    "Cucumis sativus var. ennemis Forssk.",
-    "Cucumis sativus var. europaeus Gabaev",
-    "Cucumis sativus var. fakus Forssk.",
-    "Cucumis sativus var. falcatus Gabaev",
-    "Cucumis sativus var. fastigiatus Ser.",
-    "Cucumis sativus var. flavus Ser.",
-    "Cucumis sativus var. flexuosus Alef.",
-    "Cucumis sativus var. grossularioides Tkatsch.",
-    "Cucumis sativus var. hardwickii (Royle) Alef.",
-    "Cucumis sativus var. hollandicus Alef.",
-    "Cucumis sativus var. indoeuropeus Gabaev",
-    "Cucumis sativus var. iranoturanicus Gabaev",
-    "Cucumis sativus var. izmir Gabaev",
-    "Cucumis sativus var. pallidus Gabaev",
-    "Cucumis sativus var. praecox Alef.",
-    "Cucumis sativus var. rossicus Alef.",
-    "Cucumis sativus var. schemmam Forssk.",
-    "Cucumis sativus var. serotinus Alef.",
-    "Cucumis sativus var. setosus Alef.",
-    "Cucumis sativus var. sikkimensis Hook.f.",
-    "Cucumis sativus var. squamosus Gabaev",
-    "Cucumis sativus var. testudaceus Gabaev",
-    "Cucumis sativus var. tuberculatus Gabaev",
-    "Cucumis sativus var. turcicus Alef.",
-    "Cucumis sativus var. variegatus Ser.",
-    "Cucumis sativus var. viridis Ser.",
-    "Cucumis sativus var. vulgatus Alef.",
-    "Cucumis sativus var. xishuangbannanensis J.Qi & Z.Yuan ex S.S.Renner",
-    "Cucumis sphaerocarpus Gabaev",
-    "Cucumis vilmorinii Spreng."
-  ],
-  "familyName": "CUCURBITACEAE",
-  "englishNames": [
-    "Cucmber",
-    "Garden Cucumber",
-    "Apple Cucumber",
-    "Gherkin"
-  ],
-  "sinhalaName": "Pipignana  (පිපිංඤ්ඤා )",
-  "description": "මෙය වැල් ලෙස හෝ බිම දිගේ ඇදෙන කඳක් සහිත වාර්ෂික ශාකයකි; ඒකලිංගික (monoecious) වන අතර ප්‍රරෝහක (tendrils) සරල වේ. පත්‍ර නොගැඹුරු 3-5(-7) කණ්ඩිත (lobed) වන අතර වෘන්ත සහිතය (petiolate); පත්‍ර වෘන්තය සෙ.මී. 3.5-8 ක් දිග වන අතර තදින් රළු සහ ගොරෝසු (hispid-scabrid) වේ. මල් කහ පැහැතිය, කෙටි පුෂ්ප වෘන්ත සහිතය (peduncled); මල් කිරීටය (corolla) විෂ්කම්භයෙන් සෙ.මී. 2 ක් පමණ වේ. ඵලය මාංසල වන අතර සෙ.මී. 5-20 ක් හෝ ඊට වැඩි දිගකින් යුක්ත වේ. බීජ මි.මී. 2-10 x 3-4.5 x 1.5 ප්‍රමාණයේ වන අතර ක්‍රීම් පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Cucumis sativus L.",
+    "synonyms": [
+        "Cucumis esculentus Salisb.",
+        "Cucumis hardwickii Royle",
+        "Cucumis muricatus Willd.",
+        "Cucumis rumphii Hassk.",
+        "Cucumis sativus convar. excellens Alef.",
+        "Cucumis sativus convar. pallidus Alef.",
+        "Cucumis sativus convar. viridis (Ser.) Alef.",
+        "Cucumis sativus f. albus (Ser.) Pangalo",
+        "Cucumis sativus f. albus M.Hiroe",
+        "Cucumis sativus f. australis Kitam.",
+        "Cucumis sativus f. borealis Kitam.",
+        "Cucumis sativus f. brunnescens Gabaev",
+        "Cucumis sativus f. hardwickii (Royle) W.J.de Wilde & Duyfjes",
+        "Cucumis sativus f. pallescens Gabaev",
+        "Cucumis sativus f. typicus Gabaev",
+        "Cucumis sativus f. viridis (Ser.) Gabaev",
+        "Cucumis sativus subsp. agrestis Gabaev",
+        "Cucumis sativus subsp. gracilior Gabaev",
+        "Cucumis sativus subsp. rigidus Gabaev",
+        "Cucumis sativus var. albus Ser.",
+        "Cucumis sativus var. anatolicus Gabaev",
+        "Cucumis sativus var. anglicus L.H.Bailey",
+        "Cucumis sativus var. battich-djebbal Forssk.",
+        "Cucumis sativus var. brullos Forssk.",
+        "Cucumis sativus var. chatte Forssk.",
+        "Cucumis sativus var. chiar Forssk.",
+        "Cucumis sativus var. cilicicus Gabaev",
+        "Cucumis sativus var. curtus Alef.",
+        "Cucumis sativus var. donii Alef.",
+        "Cucumis sativus var. ennemis Forssk.",
+        "Cucumis sativus var. europaeus Gabaev",
+        "Cucumis sativus var. fakus Forssk.",
+        "Cucumis sativus var. falcatus Gabaev",
+        "Cucumis sativus var. fastigiatus Ser.",
+        "Cucumis sativus var. flavus Ser.",
+        "Cucumis sativus var. flexuosus Alef.",
+        "Cucumis sativus var. grossularioides Tkatsch.",
+        "Cucumis sativus var. hardwickii (Royle) Alef.",
+        "Cucumis sativus var. hollandicus Alef.",
+        "Cucumis sativus var. indoeuropeus Gabaev",
+        "Cucumis sativus var. iranoturanicus Gabaev",
+        "Cucumis sativus var. izmir Gabaev",
+        "Cucumis sativus var. pallidus Gabaev",
+        "Cucumis sativus var. praecox Alef.",
+        "Cucumis sativus var. rossicus Alef.",
+        "Cucumis sativus var. schemmam Forssk.",
+        "Cucumis sativus var. serotinus Alef.",
+        "Cucumis sativus var. setosus Alef.",
+        "Cucumis sativus var. sikkimensis Hook.f.",
+        "Cucumis sativus var. squamosus Gabaev",
+        "Cucumis sativus var. testudaceus Gabaev",
+        "Cucumis sativus var. tuberculatus Gabaev",
+        "Cucumis sativus var. turcicus Alef.",
+        "Cucumis sativus var. variegatus Ser.",
+        "Cucumis sativus var. viridis Ser.",
+        "Cucumis sativus var. vulgatus Alef.",
+        "Cucumis sativus var. xishuangbannanensis J.Qi & Z.Yuan ex S.S.Renner",
+        "Cucumis sphaerocarpus Gabaev",
+        "Cucumis vilmorinii Spreng."
+    ],
+    "familyName": "CUCURBITACEAE",
+    "englishNames": [
+        "Cucmber",
+        "Garden Cucumber",
+        "Apple Cucumber",
+        "Gherkin"
+    ],
+    "sinhalaName": "Pipignana  (පිපිංඤ්ඤා )",
+    "description": "මෙය වැල් ලෙස හෝ බිම දිගේ ඇදෙන කඳක් සහිත වාර්ෂික ශාකයකි; ඒකලිංගික (monoecious) වන අතර ප්‍රරෝහක (tendrils) සරල වේ. පත්‍ර නොගැඹුරු 3-5(-7) කණ්ඩිත (lobed) වන අතර වෘන්ත සහිතය (petiolate); පත්‍ර වෘන්තය සෙ.මී. 3.5-8 ක් දිග වන අතර තදින් රළු සහ ගොරෝසු (hispid-scabrid) වේ. මල් කහ පැහැතිය, කෙටි පුෂ්ප වෘන්ත සහිතය (peduncled); මල් කිරීටය (corolla) විෂ්කම්භයෙන් සෙ.මී. 2 ක් පමණ වේ. ඵලය මාංසල වන අතර සෙ.මී. 5-20 ක් හෝ ඊට වැඩි දිගකින් යුක්ත වේ. බීජ මි.මී. 2-10 x 3-4.5 x 1.5 ප්‍රමාණයේ වන අතර ක්‍රීම් පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Sprue",
+            "sinhala": "ග්‍රහණී රෝගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Kidney Diseases",
+            "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Disorders",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "148",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/C38xzYJQ/plant00363-00148.jpg"
+        },
+        {
+            "image_id": "149",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/fYq673YP/plant00363-00149.jpg"
+        },
+        {
+            "image_id": "150",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/GSmprPz/plant00363-00150.jpg"
+        },
+        {
+            "image_id": "3533",
+            "caption": "Female Flower (PMR)",
+            "url": "https://i.ibb.co/8gP2Zg1P/plant00363-03533.jpg"
+        },
+        {
+            "image_id": "3534",
+            "caption": "Male Flower (PMR)",
+            "url": "https://i.ibb.co/pv3NDXKL/plant00363-03534.jpg"
+        },
+        {
+            "image_id": "3535",
+            "caption": "Mature Fruit (PMR)",
+            "url": "https://i.ibb.co/JF8QGBMp/plant00363-03535.jpg"
+        },
+        {
+            "image_id": "3536",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/5XvJK4wy/plant00363-03536.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ගෑස්ට්‍රයිටිස් හැදුන ගමන් තප්පරෙන් සුව වෙන්න මේ පානය බොන්න | gastic walata beheth |පිපිඤ්ඤා යුෂ පානය",
+                "url": "https://youtube.com/watch?v=1un13mr-xB4",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/1un13mr-xB4/hq720.jpg"
+            },
+            {
+                "title": "පිපිඤ්ඤා වල ඇති විශ්මිත ගුණ - Amazing properties of cucumber",
+                "url": "https://youtube.com/watch?v=Cv2co9dfqlE",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/Cv2co9dfqlE/hq720.jpg"
+            },
+            {
+                "title": "දිනපතාම පිපිඤ්ඤා වතුර පානයෙන් ඔබට ලැබෙන විශ්මිත වාසි 7 ක් | Benefits Of Drinking Cucumber Water",
+                "url": "https://youtube.com/watch?v=zS6_tbn_xVg",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/zS6_tbn_xVg/hq720.jpg"
+            },
+            {
+                "title": "Medicinal properties of cucumber10",
+                "url": "https://youtube.com/watch?v=UjLo8DFSTt8",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/UjLo8DFSTt8/hq720.jpg"
+            },
+            {
+                "title": "ක්‍රම 2කට - ලෙඩ සියයකට ගුණ දී ඔයාව ලස්සන කරන එළවළුවක් ගැන දන්නවද?- Cucumber water and Juice - Kusala",
+                "url": "https://youtube.com/watch?v=mPrxl-x1roc",
+                "duration": "7:21",
+                "thumbnail": "https://i.ytimg.com/vi/mPrxl-x1roc/hq720.jpg"
+            },
+            {
+                "title": "​සිරුරේ බර අඩු කර සම පැහැපත් කරන පිපිඤ්ඤා ජූස් | Cucumber Juice for Weight Loss & Glowing Skin❤️💪",
+                "url": "https://youtube.com/watch?v=GQOMDfMGEg8",
+                "duration": "5:58",
+                "thumbnail": "https://i.ytimg.com/vi/GQOMDfMGEg8/hqdefault.jpg"
+            },
+            {
+                "title": "පිපිඤ්ඤා වගාව /pipincha wagawe pathra wichithra wairas rogaya Cucumber cultivation Home gardening",
+                "url": "https://youtube.com/watch?v=4KNjmTjOrFc",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/4KNjmTjOrFc/hqdefault.jpg"
+            },
+            {
+                "title": "පිපිඤ්ඤා වගාව මුලසිට",
+                "url": "https://youtube.com/watch?v=Aln4NXvNmc8",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/Aln4NXvNmc8/hqdefault.jpg"
+            },
+            {
+                "title": "පිපිඤ්ඤා වගාව හරියටම දැනගන පටන්ගමු | Farming with life | Sinhala",
+                "url": "https://youtube.com/watch?v=q0GRaUCtpmg",
+                "duration": "9:33",
+                "thumbnail": "https://i.ytimg.com/vi/q0GRaUCtpmg/hq720.jpg"
+            },
+            {
+                "title": "දිනපතාම පිපිඤ්ඤා වතුර පානය කළොත් ලැබෙන සෞඛ්‍ය වාසි | 7 Health Benefits Of Drinking Cucumber Water",
+                "url": "https://youtube.com/watch?v=Vvq4X0-SD3k",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/Vvq4X0-SD3k/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Sprue",
-      "sinhala": "ග්‍රහණී රෝගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Kidney Diseases",
-      "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Urinary Tract Disorders",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "148",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/C38xzYJQ/plant00363-00148.jpg"
-    },
-    {
-      "image_id": "149",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/fYq673YP/plant00363-00149.jpg"
-    },
-    {
-      "image_id": "150",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/GSmprPz/plant00363-00150.jpg"
-    },
-    {
-      "image_id": "3533",
-      "caption": "Female Flower (PMR)",
-      "url": "https://i.ibb.co/8gP2Zg1P/plant00363-03533.jpg"
-    },
-    {
-      "image_id": "3534",
-      "caption": "Male Flower (PMR)",
-      "url": "https://i.ibb.co/pv3NDXKL/plant00363-03534.jpg"
-    },
-    {
-      "image_id": "3535",
-      "caption": "Mature Fruit (PMR)",
-      "url": "https://i.ibb.co/JF8QGBMp/plant00363-03535.jpg"
-    },
-    {
-      "image_id": "3536",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/5XvJK4wy/plant00363-03536.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

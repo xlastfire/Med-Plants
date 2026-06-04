@@ -1,73 +1,90 @@
 {
-  "scientificName": "Cucurbita moschata Duchesne",
-  "synonyms": [
-    "Cucurbita colombiana (Zhit.) Bukasov",
-    "Cucurbita hippopera Ser.",
-    "Cucurbita macrocarpa Gasp.",
-    "Cucurbita meloniformis Carrière",
-    "Cucurbita moschata f. yokohamana Makino",
-    "Cucurbita moschata var. abbreviata Alef.",
-    "Cucurbita moschata var. barbarica Alef.",
-    "Cucurbita moschata var. brachiina Alef.",
-    "Cucurbita moschata var. brunnea Alef.",
-    "Cucurbita moschata var. claviformis Harz",
-    "Cucurbita moschata var. colombiana Zhit.",
-    "Cucurbita moschata var. cubensis Tod.",
-    "Cucurbita moschata var. depressa Harz",
-    "Cucurbita moschata var. macrocarpa (Gasp.) Tod.",
-    "Cucurbita moschata var. madagascariensis Alef.",
-    "Cucurbita moschata var. magna Harz",
-    "Cucurbita moschata var. manticalis Alef.",
-    "Cucurbita moschata var. meloniformis (Carrière) L.H.Bailey",
-    "Cucurbita moschata var. mexicana Zhit.",
-    "Cucurbita moschata var. minor Tod.",
-    "Cucurbita moschata var. naudinii Alef.",
-    "Cucurbita moschata var. pusilla Tod.",
-    "Cucurbita moschata var. toonas Makino",
-    "Cucurbita moschata var. vulgaris Tod.",
-    "Cucurbita pepo var. moschata (Duchesne) Duchesne",
-    "Gymnopetalum calyculatum Miq.",
-    "Pepo eximius Sageret",
-    "Pepo indicus Burm.",
-    "Pepo macrocarpus Poit.",
-    "Pepo moschatus (Duchesne) Britton"
-  ],
-  "familyName": "CUCURBITACEAE",
-  "englishNames": [
-    "Butternut Pumpkin",
-    "Butternut Squash",
-    "Calabasa",
-    "Calabaza",
-    "Crookneck Squash",
-    "Pumpkin",
-    "Squash",
-    "Winter Squash"
-  ],
-  "sinhalaName": "Rata labu (රටලබු)",
-  "description": "මීටර් 5ක් දක්වා දිගැති වාර්ෂික වැල් වර්ගයකි; ප්‍රරෝහ (tendrils) අතු බෙදී ඇත. පත්‍ර වෘන්ත සහිතය (petiolated); පත්‍ර වෘන්තවල තියුණු රෝම නොමැත; පත්‍ර තලය (lamina) 5-7ක් ලෙස විභේදනය වී ඇත, පත්‍ර ඛණ්ඩ උල්වූ (acute) අතර, ඉහළ පෘෂ්ඨයේ සුදු පැහැති ලප සහ වෙල්වට් වැනි රෝම (velvety hairs) දක්නට ලැබේ. මල් තනිව පිහිටයි, ලා කහ පැහැතිය; මල් දඬුව (peduncle) මහත, තද සහ කෝණ 5-6කින් යුක්තය. පලතුරු වල වර්ණය, හැඩය සහ ප්‍රමාණය විවිධ වේ. බීජ අළු-සුදු හෝ ලා දුඹුරු පැහැති වන අතර, දාරය තද පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Not a Disease",
-      "sinhala": "රෝගී තත්ත්වයක් නොවේ (ශාක පත්‍ර)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Cucurbita moschata Duchesne",
+    "synonyms": [
+        "Cucurbita colombiana (Zhit.) Bukasov",
+        "Cucurbita hippopera Ser.",
+        "Cucurbita macrocarpa Gasp.",
+        "Cucurbita meloniformis Carrière",
+        "Cucurbita moschata f. yokohamana Makino",
+        "Cucurbita moschata var. abbreviata Alef.",
+        "Cucurbita moschata var. barbarica Alef.",
+        "Cucurbita moschata var. brachiina Alef.",
+        "Cucurbita moschata var. brunnea Alef.",
+        "Cucurbita moschata var. claviformis Harz",
+        "Cucurbita moschata var. colombiana Zhit.",
+        "Cucurbita moschata var. cubensis Tod.",
+        "Cucurbita moschata var. depressa Harz",
+        "Cucurbita moschata var. macrocarpa (Gasp.) Tod.",
+        "Cucurbita moschata var. madagascariensis Alef.",
+        "Cucurbita moschata var. magna Harz",
+        "Cucurbita moschata var. manticalis Alef.",
+        "Cucurbita moschata var. meloniformis (Carrière) L.H.Bailey",
+        "Cucurbita moschata var. mexicana Zhit.",
+        "Cucurbita moschata var. minor Tod.",
+        "Cucurbita moschata var. naudinii Alef.",
+        "Cucurbita moschata var. pusilla Tod.",
+        "Cucurbita moschata var. toonas Makino",
+        "Cucurbita moschata var. vulgaris Tod.",
+        "Cucurbita pepo var. moschata (Duchesne) Duchesne",
+        "Gymnopetalum calyculatum Miq.",
+        "Pepo eximius Sageret",
+        "Pepo indicus Burm.",
+        "Pepo macrocarpus Poit.",
+        "Pepo moschatus (Duchesne) Britton"
+    ],
+    "familyName": "CUCURBITACEAE",
+    "englishNames": [
+        "Butternut Pumpkin",
+        "Butternut Squash",
+        "Calabasa",
+        "Calabaza",
+        "Crookneck Squash",
+        "Pumpkin",
+        "Squash",
+        "Winter Squash"
+    ],
+    "sinhalaName": "Rata labu (රටලබු)",
+    "description": "මීටර් 5ක් දක්වා දිගැති වාර්ෂික වැල් වර්ගයකි; ප්‍රරෝහ (tendrils) අතු බෙදී ඇත. පත්‍ර වෘන්ත සහිතය (petiolated); පත්‍ර වෘන්තවල තියුණු රෝම නොමැත; පත්‍ර තලය (lamina) 5-7ක් ලෙස විභේදනය වී ඇත, පත්‍ර ඛණ්ඩ උල්වූ (acute) අතර, ඉහළ පෘෂ්ඨයේ සුදු පැහැති ලප සහ වෙල්වට් වැනි රෝම (velvety hairs) දක්නට ලැබේ. මල් තනිව පිහිටයි, ලා කහ පැහැතිය; මල් දඬුව (peduncle) මහත, තද සහ කෝණ 5-6කින් යුක්තය. පලතුරු වල වර්ණය, හැඩය සහ ප්‍රමාණය විවිධ වේ. බීජ අළු-සුදු හෝ ලා දුඹුරු පැහැති වන අතර, දාරය තද පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Not a Disease",
+            "sinhala": "රෝගී තත්ත්වයක් නොවේ (ශාක පත්‍ර)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Fruits",
+            "sinhala": "පලතුරු",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "10 Health Benefits Of Rutabaga",
+                "url": "https://youtube.com/watch?v=lA8BFiIDXj8",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/lA8BFiIDXj8/hq720.jpg"
+            },
+            {
+                "title": "Rutabagas 101 - Nutrition and Health Benefits",
+                "url": "https://youtube.com/watch?v=uGyEyx6Adbc",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/uGyEyx6Adbc/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fruits",
-      "sinhala": "පලතුරු",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

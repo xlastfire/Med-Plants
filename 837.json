@@ -1,218 +1,295 @@
 {
-  "scientificName": "Tinospora cordifolia (Willd.) Hook.f. & Thomson",
-  "synonyms": [
-    "Menispermum cordifolium Willd.",
-    "Tinospora cordifolia var. congesta Mujaffar, Yasin & Solanki",
-    "Tinospora fosbergii Kundu"
-  ],
-  "familyName": "MENISPERMACEAE",
-  "englishNames": [
-    "Heart Leaved Mooseed"
-  ],
-  "sinhalaName": "Rasakinda (රසකිඳ)",
-  "description": "විශාල ආරෝහක ශාකයකි, රෝම රහිතය (glabrous); කඳ මාංසල වේ; මුල් දිගු නූල් වැනි වන අතර වායව (aerial) වේ, අතු වලින් හටගනී; පොත්ත සිහින්ය, අළු පැහැති හෝ ක්‍රීම් සුදු පැහැතිය, පොත්ත ඉවත් කළ විට මාංසල කඳ නිරාවරණය වේ. පත්‍ර හෘදයාකාර (cordate) වන අතර පටලමය (membranous) සහ යුෂ සහිත වේ. පිරිමි මල් කුඩාය, කහ හෝ කොළ පැහැතිය, පොකුරු වශයෙන් හටගනී; ගැහැණු මල් තනිව හටගනී. පලතුරු කඩල ඇටයක හැඩැති, මාංසල සහ දිලිසෙන සුළුය, තැම්බූ විට රතු පැහැයට හැරේ. බීජ වක්‍ර වේ, කඩල ඇටයක ප්‍රමාණයෙන් යුක්තය.",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Tinospora cordifolia (Willd.) Hook.f. & Thomson",
+    "synonyms": [
+        "Menispermum cordifolium Willd.",
+        "Tinospora cordifolia var. congesta Mujaffar, Yasin & Solanki",
+        "Tinospora fosbergii Kundu"
+    ],
+    "familyName": "MENISPERMACEAE",
+    "englishNames": [
+        "Heart Leaved Mooseed"
+    ],
+    "sinhalaName": "Rasakinda (රසකිඳ)",
+    "description": "විශාල ආරෝහක ශාකයකි, රෝම රහිතය (glabrous); කඳ මාංසල වේ; මුල් දිගු නූල් වැනි වන අතර වායව (aerial) වේ, අතු වලින් හටගනී; පොත්ත සිහින්ය, අළු පැහැති හෝ ක්‍රීම් සුදු පැහැතිය, පොත්ත ඉවත් කළ විට මාංසල කඳ නිරාවරණය වේ. පත්‍ර හෘදයාකාර (cordate) වන අතර පටලමය (membranous) සහ යුෂ සහිත වේ. පිරිමි මල් කුඩාය, කහ හෝ කොළ පැහැතිය, පොකුරු වශයෙන් හටගනී; ගැහැණු මල් තනිව හටගනී. පලතුරු කඩල ඇටයක හැඩැති, මාංසල සහ දිලිසෙන සුළුය, තැම්බූ විට රතු පැහැයට හැරේ. බීජ වක්‍ර වේ, කඩල ඇටයක ප්‍රමාණයෙන් යුක්තය.",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Syphilis",
+            "sinhala": "උපදංශය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Chronic Diarrhea",
+            "sinhala": "නිදන්ගත අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Insect Bites and Stings",
+            "sinhala": "කෘමීන් දෂ්ට කිරීම් සහ විෂවීම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Anemia",
+            "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eczema",
+            "sinhala": "දද (එක්සීමා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Heart Diseases",
+            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Stem",
+        "Root"
+    ],
+    "images": [
+        {
+            "image_id": "563",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/RTmNCk93/plant00837-00563.jpg"
+        },
+        {
+            "image_id": "1254",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/7JTXCSnk/plant00837-01254.jpg"
+        },
+        {
+            "image_id": "564",
+            "caption": "Twig",
+            "url": "https://i.ibb.co/tTsbg7qy/plant00837-00564.jpg"
+        },
+        {
+            "image_id": "1255",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/Y4rVLhPg/plant00837-01255.jpg"
+        },
+        {
+            "image_id": "1256",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/0Rm1yvsv/plant00837-01256.jpg"
+        },
+        {
+            "image_id": "3760",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/XxZ0rQCW/plant00837-03760.jpg"
+        },
+        {
+            "image_id": "3761",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/qFNjqMZG/plant00837-03761.jpg"
+        },
+        {
+            "image_id": "3762",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/dwfKgGQM/plant00837-03762.jpg"
+        },
+        {
+            "image_id": "3763",
+            "caption": "Mature Fruits (PMR)",
+            "url": "https://i.ibb.co/xNMqkVX/plant00837-03763.jpg"
+        },
+        {
+            "image_id": "3764",
+            "caption": "Leaves - upper surface (PMR)",
+            "url": "https://i.ibb.co/bjRRpWGJ/plant00837-03764.jpg"
+        },
+        {
+            "image_id": "3765",
+            "caption": "Leaf - lower surface (PMR)",
+            "url": "https://i.ibb.co/QjnVtmw5/plant00837-03765.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Rasakida | රසකිඳ ශාකයේ ඔසු ගුණ වරුන | @osu-1380",
+                "url": "https://youtube.com/watch?v=n-Vn_83Jk-w",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/n-Vn_83Jk-w/hq720.jpg"
+            },
+            {
+                "title": "ශරීරය සිසිල් කරන, උණ නැති කරන, ප්‍රතිශක්තිය වඩන දිවඔසුව | රසකිඳ (Rasakida)",
+                "url": "https://youtube.com/watch?v=vNQrs1BV6HE",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/vNQrs1BV6HE/hq720.jpg"
+            },
+            {
+                "title": "රසකිඳ වැලක් | Tinospora cordifolia",
+                "url": "https://youtube.com/watch?v=8rM6_68HunA",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/8rM6_68HunA/hq720.jpg"
+            },
+            {
+                "title": "රසකිඳ  | Heart Leaved / Moon Seed  Ruk",
+                "url": "https://youtube.com/watch?v=EriBqBPnFCQ",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/EriBqBPnFCQ/hq720.jpg"
+            },
+            {
+                "title": "රසකිඳ.-Rasakinda (Tinospora cordifolia).",
+                "url": "https://youtube.com/watch?v=b_usvbsuC5g",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/b_usvbsuC5g/hqdefault.jpg"
+            },
+            {
+                "title": "දෙවියන් එවූ විශ්මිත ඔසු වැල රසකිඳ |heart leaved |moon seed | rasakida 2021 | hela osu samaga ama",
+                "url": "https://youtube.com/watch?v=-JqlYZeQqYQ",
+                "duration": "6:08",
+                "thumbnail": "https://i.ytimg.com/vi/-JqlYZeQqYQ/hqdefault.jpg"
+            },
+            {
+                "title": "rasakida/hela wedakama/nelli rasakida herbal drink/ රසකිඳ වල ඔබ නොදත් ගුණ",
+                "url": "https://youtube.com/watch?v=yugefCc1cII",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/yugefCc1cII/hqdefault.jpg"
+            },
+            {
+                "title": "රසකිද වල ඖෂධීය ගුණ/Rasakinda Wala aushadeeya guna",
+                "url": "https://youtube.com/watch?v=BWqC5vJIdMo",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/BWqC5vJIdMo/hq720.jpg"
+            },
+            {
+                "title": "Rasakinda. Senani Jayasundara.",
+                "url": "https://youtube.com/watch?v=pQ7Ve41d4z8",
+                "duration": "9:15",
+                "thumbnail": "https://i.ytimg.com/vi/pQ7Ve41d4z8/hq720.jpg"
+            },
+            {
+                "title": "Rasakida Plants (SLBC) Dr.H.D.P Dharshani",
+                "url": "https://youtube.com/watch?v=TZm-Fdw0uBI",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/TZm-Fdw0uBI/hqdefault.jpg"
+            },
+            {
+                "title": "Rasakida | Hela Wedakama | story eka",
+                "url": "https://youtube.com/watch?v=TzPKL9Qp3Qo",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/TzPKL9Qp3Qo/hq720.jpg"
+            },
+            {
+                "title": "Rasakida | රසකිඳ ශාකයේ ඔසු ගුණ වරුන | @osu-1380",
+                "url": "https://youtube.com/watch?v=71ucm-B2O3E",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/71ucm-B2O3E/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Syphilis",
-      "sinhala": "උපදංශය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Chronic Diarrhea",
-      "sinhala": "නිදන්ගත අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Insect Bites and Stings",
-      "sinhala": "කෘමීන් දෂ්ට කිරීම් සහ විෂවීම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Anemia",
-      "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Eczema",
-      "sinhala": "දද (එක්සීමා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Heart Diseases",
-      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Stem",
-    "Root"
-  ],
-  "images": [
-    {
-      "image_id": "563",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/RTmNCk93/plant00837-00563.jpg"
-    },
-    {
-      "image_id": "1254",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/7JTXCSnk/plant00837-01254.jpg"
-    },
-    {
-      "image_id": "564",
-      "caption": "Twig",
-      "url": "https://i.ibb.co/tTsbg7qy/plant00837-00564.jpg"
-    },
-    {
-      "image_id": "1255",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/Y4rVLhPg/plant00837-01255.jpg"
-    },
-    {
-      "image_id": "1256",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/0Rm1yvsv/plant00837-01256.jpg"
-    },
-    {
-      "image_id": "3760",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/XxZ0rQCW/plant00837-03760.jpg"
-    },
-    {
-      "image_id": "3761",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/qFNjqMZG/plant00837-03761.jpg"
-    },
-    {
-      "image_id": "3762",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/dwfKgGQM/plant00837-03762.jpg"
-    },
-    {
-      "image_id": "3763",
-      "caption": "Mature Fruits (PMR)",
-      "url": "https://i.ibb.co/xNMqkVX/plant00837-03763.jpg"
-    },
-    {
-      "image_id": "3764",
-      "caption": "Leaves - upper surface (PMR)",
-      "url": "https://i.ibb.co/bjRRpWGJ/plant00837-03764.jpg"
-    },
-    {
-      "image_id": "3765",
-      "caption": "Leaf - lower surface (PMR)",
-      "url": "https://i.ibb.co/QjnVtmw5/plant00837-03765.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

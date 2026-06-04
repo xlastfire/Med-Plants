@@ -1,84 +1,275 @@
 {
-  "scientificName": "Crotalaria juncea L.",
-  "synonyms": [
-    "Crotalaria benghalensis Lam.",
-    "Crotalaria cannabinua Royle",
-    "Crotalaria fenestrata Sims",
-    "Crotalaria juncea var. bengalensis (Lam.) Kuntze",
-    "Crotalaria juncea var. puncticulata DC.",
-    "Crotalaria porrecta Wall.",
-    "Crotalaria sericea Willd.",
-    "Crotalaria tenuifolia Roxb. ex Hornem.",
-    "Crotalaria viminea Graham ex Wight & Arn.",
-    "Isotropis argentea Ewart & Morrison"
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Sunn Hemp",
-    "Hemp",
-    "Sun Hemp",
-    "San Hemp",
-    "Benares Hemp",
-    "Bengal Hemp",
-    "Bombay Hemp",
-    "Brown Hemp",
-    "Indian Hemp",
-    "Jubbalpore Hemp",
-    "Madras Hemp"
-  ],
-  "sinhalaName": "Hana (හණ)",
-  "description": "වාර්ෂික පැළෑටියක් වන මෙය මීටර් 2.5ක් පමණ උසට වැඩේ. පත්‍ර සරල වන අතර, දිගටි හෝ ලාන්සාකාර (oblanceolate) හැඩයක් ගනී. පත්‍රවල ප්‍රමාණය (2.5 -) 3 - 10 (- 13) X 0.5 - 1.5 (- 2.2) සෙ.මී. වේ. පත්‍ර අග මොට හෝ තරමක් උල් (subacute) වන අතර, පත්‍රයේ උඩු පැත්ත සිනිඳු (glabrous) හෝ විරල රෝම සහිත (sparsely pubescent) වේ; යටි පැත්ත තරමක් සිල්ක් වැනි රෝමවලින් (subsericeous) වැසී ඇත. පුෂ්ප මංජරිය අග්‍රස්ථ (terminal) වන අතර, පොකුරු ආකාර (racemose) වේ. මල් බොහෝ සංඛ්‍යාවක් පවතින අතර, ඒවා තද කහ පැහැයෙන් යුක්ත වන අතර තද රතු හෝ දුඹුරු පැහැ ඉරි දක්නට ලැබේ. පල දඬු රහිත (sessile) වන අතර, දිගටි සිලින්ඩරාකාර (oblong-cylindrical) හැඩයක් ගනී; බීජ 6 - 15ක් අඩංගු වේ. බීජ ආනත හෘදයාකාර (obliquely-cordiform) වන අතර, ලා දුඹුරු සිට කළු පැහැයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Crotalaria juncea L.",
+    "synonyms": [
+        "Crotalaria benghalensis Lam.",
+        "Crotalaria cannabinua Royle",
+        "Crotalaria fenestrata Sims",
+        "Crotalaria juncea var. bengalensis (Lam.) Kuntze",
+        "Crotalaria juncea var. puncticulata DC.",
+        "Crotalaria porrecta Wall.",
+        "Crotalaria sericea Willd.",
+        "Crotalaria tenuifolia Roxb. ex Hornem.",
+        "Crotalaria viminea Graham ex Wight & Arn.",
+        "Isotropis argentea Ewart & Morrison"
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Sunn Hemp",
+        "Hemp",
+        "Sun Hemp",
+        "San Hemp",
+        "Benares Hemp",
+        "Bengal Hemp",
+        "Bombay Hemp",
+        "Brown Hemp",
+        "Indian Hemp",
+        "Jubbalpore Hemp",
+        "Madras Hemp"
+    ],
+    "sinhalaName": "Hana (හණ)",
+    "description": "වාර්ෂික පැළෑටියක් වන මෙය මීටර් 2.5ක් පමණ උසට වැඩේ. පත්‍ර සරල වන අතර, දිගටි හෝ ලාන්සාකාර (oblanceolate) හැඩයක් ගනී. පත්‍රවල ප්‍රමාණය (2.5 -) 3 - 10 (- 13) X 0.5 - 1.5 (- 2.2) සෙ.මී. වේ. පත්‍ර අග මොට හෝ තරමක් උල් (subacute) වන අතර, පත්‍රයේ උඩු පැත්ත සිනිඳු (glabrous) හෝ විරල රෝම සහිත (sparsely pubescent) වේ; යටි පැත්ත තරමක් සිල්ක් වැනි රෝමවලින් (subsericeous) වැසී ඇත. පුෂ්ප මංජරිය අග්‍රස්ථ (terminal) වන අතර, පොකුරු ආකාර (racemose) වේ. මල් බොහෝ සංඛ්‍යාවක් පවතින අතර, ඒවා තද කහ පැහැයෙන් යුක්ත වන අතර තද රතු හෝ දුඹුරු පැහැ ඉරි දක්නට ලැබේ. පල දඬු රහිත (sessile) වන අතර, දිගටි සිලින්ඩරාකාර (oblong-cylindrical) හැඩයක් ගනී; බීජ 6 - 15ක් අඩංගු වේ. බීජ ආනත හෘදයාකාර (obliquely-cordiform) වන අතර, ලා දුඹුරු සිට කළු පැහැයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Mucosal Disorders",
+            "sinhala": "ශ්ලේෂ්මල පටල ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant"
+    ],
+    "images": [
+        {
+            "image_id": "2240",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/8gbhn9yw/plant00601-02240.jpg"
+        },
+        {
+            "image_id": "2241",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/pk18Ln2/plant00601-02241.jpg"
+        },
+        {
+            "image_id": "2242",
+            "caption": "Pods (PMR)",
+            "url": "https://i.ibb.co/99YntQpn/plant00601-02242.jpg"
+        },
+        {
+            "image_id": "2243",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/RTfnPnps/plant00601-02243.jpg"
+        },
+        {
+            "image_id": "2244",
+            "caption": "Seeds (PMR)",
+            "url": "https://i.ibb.co/ZRGgX1p1/plant00601-02244.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "දිනපතා හණ ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 8ක් | 8 Health Benefits Of Eating Flaxseeds",
+                "url": "https://youtube.com/watch?v=Qb26INPmYAY",
+                "duration": "10:10",
+                "thumbnail": "https://i.ytimg.com/vi/Qb26INPmYAY/hq720.jpg"
+            },
+            {
+                "title": "හණ ඇට ජෙල් Flaxseed ගෑවම ඇත්තටම කොණ්ඩෙ වැවෙනවද? 🤔 | Flaxseed Gel for Hair Growth (Science Explained)",
+                "url": "https://youtube.com/watch?v=Dqary1ef-3Q",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/Dqary1ef-3Q/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම මේකෙන් හැන්දක් කෑවොත් ඔබේ සිරුරේ සිදුවන විශ්මිත වෙනස | The Secrets of Using Flax seeds",
+                "url": "https://youtube.com/watch?v=UJOk_VyYO2I",
+                "duration": "8:37",
+                "thumbnail": "https://i.ytimg.com/vi/UJOk_VyYO2I/hq720.jpg"
+            },
+            {
+                "title": "මගේ Glass Skin එකේ රහස|සතියට 3 වතාවක්|Flaxseed mask|korean glass skin",
+                "url": "https://youtube.com/watch?v=chkfZEjfHVQ",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/chkfZEjfHVQ/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා මේස හැඳි දෙකක් Flax seed ( හණ ඇට ) ලබා ගැනී මෙන් ජීවිතයට ලැබෙන පුදුම හිතෙන වාසි 7 ක්",
+                "url": "https://youtube.com/watch?v=lipMCebz8c4",
+                "duration": "12:23",
+                "thumbnail": "https://i.ytimg.com/vi/lipMCebz8c4/hqdefault.jpg"
+            },
+            {
+                "title": "අමුද්‍රව්‍ය 1යි මුළු ඇගයි, කොන්ඩෙයි දෙකම ලස්සන කරනවා |හණ ඇට ජෙල් |Flaxseed gel sinhala |Yuwathi Tips",
+                "url": "https://youtube.com/watch?v=Z9ygd834Rzo",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/Z9ygd834Rzo/hq720.jpg"
+            },
+            {
+                "title": "Hana Trees - හණ ශාකය",
+                "url": "https://youtube.com/watch?v=b_-Smw4d51c",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/b_-Smw4d51c/hq720.jpg"
+            },
+            {
+                "title": "බර අඩු කරගන්න හණ ඇට මේ විදිහට ගන්න | Weight loss with flax seeds | Fat Burning drink",
+                "url": "https://youtube.com/watch?v=urCYTPbvHsY",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/urCYTPbvHsY/hq720.jpg"
+            },
+            {
+                "title": "එකම එක අමුද්‍රව්‍යයි සුදුත් වෙනවා කොන්ඩෙ දෙගුණයක් ශක්තිමත් වෙනවා | Flax seeds for Skin Glowing",
+                "url": "https://youtube.com/watch?v=fQoUFmxjqiI",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/fQoUFmxjqiI/hq720.jpg"
+            },
+            {
+                "title": "Rs.100/-🥰එක අමුද්‍රවයෙන් මුන ඇග කොන්ඩෙ 3ම/නිකලැල් පැහැපත් සමක් සතියෙන්#flaxseed#shanivlogs",
+                "url": "https://youtube.com/watch?v=NKFjtM8LYDc",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/NKFjtM8LYDc/hqdefault.jpg"
+            },
+            {
+                "title": "හණ ඇට කැවෝත් මොකද? වෙන්නේ අම්මෝ මෙක නම් ඔබ අනිවාරෙන්ම නැරඹිය යුතුයි....",
+                "url": "https://youtube.com/watch?v=rTfal5GyYmQ",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/rTfal5GyYmQ/hq720.jpg"
+            },
+            {
+                "title": "හන ගහෙන් මවන විස්මකම්.",
+                "url": "https://youtube.com/watch?v=hzOEGoOnL8I",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/hzOEGoOnL8I/hqdefault.jpg"
+            },
+            {
+                "title": "හණ කෙදි නිර්මාණ",
+                "url": "https://youtube.com/watch?v=_zyALBXc_ZQ",
+                "duration": "0:29",
+                "thumbnail": "https://i.ytimg.com/vi/_zyALBXc_ZQ/hq720.jpg"
+            },
+            {
+                "title": "පාවිච්චිය පරිස්සමෙන්❗මෙච්චර ගුණ දෙයක් දැකලා තිබුණ ද |Information Of Flax Seed|කෙට්ටු වෙන්න ආසා අයට🥰",
+                "url": "https://youtube.com/watch?v=Js9RehG7WUk",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/Js9RehG7WUk/hq720.jpg"
+            },
+            {
+                "title": "හණ ඇට වලින් කොන්ඩේ වවමු.|flax seeds for hair growth",
+                "url": "https://youtube.com/watch?v=0I6HTv2hSOs",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/0I6HTv2hSOs/hqdefault.jpg"
+            },
+            {
+                "title": "හණ මල් | Flax Flowers",
+                "url": "https://youtube.com/watch?v=zrgaPrn3R7A",
+                "duration": "1:20",
+                "thumbnail": "https://i.ytimg.com/vi/zrgaPrn3R7A/hq720.jpg"
+            },
+            {
+                "title": "Flax seeds වලින් සුදු වෙමු .|Flax seeds for face",
+                "url": "https://youtube.com/watch?v=Rf3n301gphc",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/Rf3n301gphc/hqdefault.jpg"
+            },
+            {
+                "title": "දිනපතා හණ ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 8ක් | 8 Health Benefits Of Eating Flaxseeds",
+                "url": "https://youtube.com/watch?v=Jx487XszRoE",
+                "duration": "10:10",
+                "thumbnail": "https://i.ytimg.com/vi/Jx487XszRoE/frame0.jpg"
+            },
+            {
+                "title": "විනාඩි 10න් skin එක මේ තරම් glow වෙනවද | කුරුලෑ ලප කැලැල් නැති සමකට 😱 #foryou #skincare #Flaxseed",
+                "url": "https://youtube.com/watch?v=vW-Q8ZOFis0",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/vW-Q8ZOFis0/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා හන ඇට මේ විදියට භාවිතා කලොත් වාසි ගොඩක් #flaxseedbenefits",
+                "url": "https://youtube.com/watch?v=Sp9x-5CEthE",
+                "duration": "8:54",
+                "thumbnail": "https://i.ytimg.com/vi/Sp9x-5CEthE/hqdefault.jpg"
+            },
+            {
+                "title": "මේ තරම් ගුන විෂ්මිත හන ඇට flax seeds ගැන ඔබ දන්නවාද....",
+                "url": "https://youtube.com/watch?v=Vg628kAAKy4",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/Vg628kAAKy4/hqdefault.jpg"
+            },
+            {
+                "title": "දිනපතා හණ ඇට අනුභව කලොත් ශරීරයට සිදුවන වාසි | Benefits of Flazseeds",
+                "url": "https://youtube.com/watch?v=vdy89mlH1bk",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/vdy89mlH1bk/hq720.jpg"
+            },
+            {
+                "title": "තරබාරුව.. දියවැඩියාව.. පාලනයට හණ ඇට වලින් විශ්මිත පානයක්..",
+                "url": "https://youtube.com/watch?v=FWB-u4wMzvg",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/FWB-u4wMzvg/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා හණ ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල්",
+                "url": "https://youtube.com/watch?v=D4kiAgZIUZc",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/D4kiAgZIUZc/hq720.jpg"
+            },
+            {
+                "title": "Flax Seed Smoothie | ශරීරයේ බරඅඩු කර නීරෝගීව පවත්වාගෙන යාමට හන ඇට ස්මූතී",
+                "url": "https://youtube.com/watch?v=aQsQ_lPDEgg",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/aQsQ_lPDEgg/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා හණ ඇට අනුභව කලොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 8 ක් | 8Health Benefits Of Eating Flaxseeds",
+                "url": "https://youtube.com/watch?v=uVMW_OejK8c",
+                "duration": "11:07",
+                "thumbnail": "https://i.ytimg.com/vi/uVMW_OejK8c/hq720.jpg"
+            },
+            {
+                "title": "බර අඩු කරගන්න, සුදු වෙන්න  හණ ඇට මේ විදිහට ගන්න  /  Weight loss with flax seeds ( hanaata )",
+                "url": "https://youtube.com/watch?v=mqpr8u5845E",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/mqpr8u5845E/hq720.jpg"
+            },
+            {
+                "title": "මුහුනේ සම එල්ලා වැටීම නවතන රැලි මකන හන බීජ Flaxseed gel for skin tightening",
+                "url": "https://youtube.com/watch?v=VcLAdrZ87vw",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/VcLAdrZ87vw/hqdefault.jpg"
+            },
+            {
+                "title": "flax seeds skin glass jell  හන ඇට වලින් කරන විශ්මිත සත්කාරයක් .",
+                "url": "https://youtube.com/watch?v=zm-14HJYV2o",
+                "duration": "8:09",
+                "thumbnail": "https://i.ytimg.com/vi/zm-14HJYV2o/hqdefault.jpg"
+            },
+            {
+                "title": "ලංකාවේ හැදෙන වැඩිය දැකගත නොහැකි පුෂ්පයක් ....හණ",
+                "url": "https://youtube.com/watch?v=hIOT06you28",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/hIOT06you28/hqdefault.jpg"
+            },
+            {
+                "title": "හණ ඇට මේස හැඳි දෙකක් දිනපතා ගැනීමෙන් ඔබට ලැබෙන වටිනා ගුන #flaxseed #chiaseeds #basilseeds @NurseHesh",
+                "url": "https://youtube.com/watch?v=MC5pLXfpPGQ",
+                "duration": "10:35",
+                "thumbnail": "https://i.ytimg.com/vi/MC5pLXfpPGQ/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Mucosal Disorders",
-      "sinhala": "ශ්ලේෂ්මල පටල ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant"
-  ],
-  "images": [
-    {
-      "image_id": "2240",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/8gbhn9yw/plant00601-02240.jpg"
-    },
-    {
-      "image_id": "2241",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/pk18Ln2/plant00601-02241.jpg"
-    },
-    {
-      "image_id": "2242",
-      "caption": "Pods (PMR)",
-      "url": "https://i.ibb.co/99YntQpn/plant00601-02242.jpg"
-    },
-    {
-      "image_id": "2243",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/RTfnPnps/plant00601-02243.jpg"
-    },
-    {
-      "image_id": "2244",
-      "caption": "Seeds (PMR)",
-      "url": "https://i.ibb.co/ZRGgX1p1/plant00601-02244.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

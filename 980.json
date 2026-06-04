@@ -1,232 +1,381 @@
 {
-  "scientificName": "Sesamum indicum L.",
-  "synonyms": [
-    "Anthadenia sesamoides Lem.",
-    "Sesamum africanum Tod.",
-    "Sesamum auriculatum C.Presl",
-    "Sesamum brasiliense Vell.",
-    "Sesamum edule Steud.",
-    "Sesamum foetidum Afzel ex Engl.",
-    "Sesamum hopkinsii Suess.",
-    "Sesamum indicum subsp. malabaricum (Burm.) Bedigian",
-    "Sesamum indicum var. grandidentatum DC.",
-    "Sesamum indicum var. integerrimum Engl.",
-    "Sesamum indicum var. subdentatum DC.",
-    "Sesamum indicum var. subindivisum DC.",
-    "Sesamum luteum Retz.",
-    "Sesamum malabaricum Burm.",
-    "Sesamum mulayanum N.C.Nair",
-    "Sesamum occidentalis Heer & Regel",
-    "Sesamum oleiferum Moench",
-    "Sesamum orientale L.",
-    "Sesamum somalense Chiov.",
-    "Sesamum tavakarii M.R.Almeida & S.M.Almeida",
-    "Sesamum trifoliatum Mill.",
-    "Strobilanthes gentiliana H.Lév.",
-    "Volkameria orientalis (L.) Kuntze",
-    "Volkameria orientalis var. indica (L.) Kuntze",
-    "Volkameria sesamoides (Lem.) Kuntze"
-  ],
-  "familyName": "PEDALIACEAE",
-  "englishNames": [
-    "Sesame"
-  ],
-  "sinhalaName": "Thala (තල)",
-  "description": "මීටර 1ක් දක්වා උසට වැඩෙන, අතු බෙදුණු, කෙලින් සිටින පැළෑටි; කඳ හතරැස් හැඩැති (quadrangular) වන අතර වලවල් සහිතය (furrowed). පත්‍ර විවිධ හැඩගනී, දිග සෙ.මී. 6-15ක් සහ පළල සෙ.මී. 3-10ක් වේ; පත්‍ර වෘන්ත (petioles) මි.මී. 1-3ක් දිගය. මල් කිරීටය (corolla) සාමාන්‍යයෙන් සුදු පැහැතිය, සමහර විට ලා රෝස පැහැයට හුරු දම් පැහැයක් ගනී, බොහෝ විට ඇතුළත කහ පැහැති තිත් සහිත වන අතර පහළ තොල් පෙත්තේ කහ පැහැති ලපයක් දක්නට ලැබේ, දිග සෙ.මී. 2.5-3.5කි. කරල් (capsule) කෙලින් පිහිටයි, දිග මි.මී. 15-28ක් සහ පළල මි.මී. 5-7ක් වන අතර ඝන ලෙස රෝම සහිතය (villous-pubescent). බීජ මි.මී. 2ක් පමණ දිග වන අතර ලා කහ, දුඹුරු හෝ කළු පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Sesamum indicum L.",
+    "synonyms": [
+        "Anthadenia sesamoides Lem.",
+        "Sesamum africanum Tod.",
+        "Sesamum auriculatum C.Presl",
+        "Sesamum brasiliense Vell.",
+        "Sesamum edule Steud.",
+        "Sesamum foetidum Afzel ex Engl.",
+        "Sesamum hopkinsii Suess.",
+        "Sesamum indicum subsp. malabaricum (Burm.) Bedigian",
+        "Sesamum indicum var. grandidentatum DC.",
+        "Sesamum indicum var. integerrimum Engl.",
+        "Sesamum indicum var. subdentatum DC.",
+        "Sesamum indicum var. subindivisum DC.",
+        "Sesamum luteum Retz.",
+        "Sesamum malabaricum Burm.",
+        "Sesamum mulayanum N.C.Nair",
+        "Sesamum occidentalis Heer & Regel",
+        "Sesamum oleiferum Moench",
+        "Sesamum orientale L.",
+        "Sesamum somalense Chiov.",
+        "Sesamum tavakarii M.R.Almeida & S.M.Almeida",
+        "Sesamum trifoliatum Mill.",
+        "Strobilanthes gentiliana H.Lév.",
+        "Volkameria orientalis (L.) Kuntze",
+        "Volkameria orientalis var. indica (L.) Kuntze",
+        "Volkameria sesamoides (Lem.) Kuntze"
+    ],
+    "familyName": "PEDALIACEAE",
+    "englishNames": [
+        "Sesame"
+    ],
+    "sinhalaName": "Thala (තල)",
+    "description": "මීටර 1ක් දක්වා උසට වැඩෙන, අතු බෙදුණු, කෙලින් සිටින පැළෑටි; කඳ හතරැස් හැඩැති (quadrangular) වන අතර වලවල් සහිතය (furrowed). පත්‍ර විවිධ හැඩගනී, දිග සෙ.මී. 6-15ක් සහ පළල සෙ.මී. 3-10ක් වේ; පත්‍ර වෘන්ත (petioles) මි.මී. 1-3ක් දිගය. මල් කිරීටය (corolla) සාමාන්‍යයෙන් සුදු පැහැතිය, සමහර විට ලා රෝස පැහැයට හුරු දම් පැහැයක් ගනී, බොහෝ විට ඇතුළත කහ පැහැති තිත් සහිත වන අතර පහළ තොල් පෙත්තේ කහ පැහැති ලපයක් දක්නට ලැබේ, දිග සෙ.මී. 2.5-3.5කි. කරල් (capsule) කෙලින් පිහිටයි, දිග මි.මී. 15-28ක් සහ පළල මි.මී. 5-7ක් වන අතර ඝන ලෙස රෝම සහිතය (villous-pubescent). බීජ මි.මී. 2ක් පමණ දිග වන අතර ලා කහ, දුඹුරු හෝ කළු පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Strangury",
+            "sinhala": "මුත්‍රා බිංදු බිංදු පිටවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cystitis",
+            "sinhala": "මුත්‍රාශ ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Bladder Disorders",
+            "sinhala": "මුත්‍රාශයේ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Otorrhoea",
+            "sinhala": "කනෙන් සැරව ගැලීම (කර්ණස්‍රාවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Burns and Scalds",
+            "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Pediculosis Capitis",
+            "sinhala": "හිසේ උකුණන් බෝවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Body Ache",
+            "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Nervous System Disorders",
+            "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Stalk",
+        "Leaves",
+        "Seeds",
+        "Oils"
+    ],
+    "images": [
+        {
+            "image_id": "578",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/9HJt4mYw/plant00980-00578.jpg"
+        },
+        {
+            "image_id": "579",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/TMpN63kG/plant00980-00579.jpg"
+        },
+        {
+            "image_id": "580",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/TM6hhPxD/plant00980-00580.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "තල ඇට මෙච්චර ගුණ දායකද? | Danuwath",
+                "url": "https://youtube.com/watch?v=Kenl3c4w0Uo",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/Kenl3c4w0Uo/hq720.jpg"
+            },
+            {
+                "title": "වස විස නැති තල වගාව - තිලක් කන්දේගම / Sesame Cultivation - Sri Lanka",
+                "url": "https://youtube.com/watch?v=cz2IuAhxHno",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/cz2IuAhxHno/hq720.jpg"
+            },
+            {
+                "title": "1 October 2023මාස්කන්නයට තල වැපිරීම#slfarmers,👌",
+                "url": "https://youtube.com/watch?v=w_vMWj7uCrs",
+                "duration": "9:25",
+                "thumbnail": "https://i.ytimg.com/vi/w_vMWj7uCrs/hq720.jpg"
+            },
+            {
+                "title": "සාර්ථක තල වගාවකට මූලික දැනුම | thala wagawa | Sesame Cultivation  Sri Lanka | thala wagawa sinhala",
+                "url": "https://youtube.com/watch?v=tKD4vLDg9J0",
+                "duration": "31:44",
+                "thumbnail": "https://i.ytimg.com/vi/tKD4vLDg9J0/hq720.jpg"
+            },
+            {
+                "title": "තල හේනක තල වැපිරීම / තල වගාව / thala wagawa / Sowing seeds in a sesame field",
+                "url": "https://youtube.com/watch?v=h7vrTvbSDss",
+                "duration": "22:27",
+                "thumbnail": "https://i.ytimg.com/vi/h7vrTvbSDss/hq720.jpg"
+            },
+            {
+                "title": "වස විස නැති තල වගාව / තල වගාවේ අස්වනු නෙලීම / thala wagawa / Sesame Cultivation - Sri Lanka",
+                "url": "https://youtube.com/watch?v=XfbCGbbciaE",
+                "duration": "27:38",
+                "thumbnail": "https://i.ytimg.com/vi/XfbCGbbciaE/hq720.jpg"
+            },
+            {
+                "title": "වියදම් අඩුවෙන් කරන තල වගාව | Haritha Tv | Waga Perahuru | Thala wagawa",
+                "url": "https://youtube.com/watch?v=ty_9cI_9Ico",
+                "duration": "12:01",
+                "thumbnail": "https://i.ytimg.com/vi/ty_9cI_9Ico/hq720.jpg"
+            },
+            {
+                "title": "හේනක තල වගා කරනවනම් මේ දේවල් දැනගන්න | thala wagawa | Sesame Cultivation | thala wagawa sinhala",
+                "url": "https://youtube.com/watch?v=FG-bZpLTX88",
+                "duration": "36:30",
+                "thumbnail": "https://i.ytimg.com/vi/FG-bZpLTX88/hq720.jpg"
+            },
+            {
+                "title": "තල ගුලියක් දවස් 14ක් කෑවොත් ඇටකටු වලට වෙන මැජික් එක! | Science of Sesame Seeds (Sinhala)",
+                "url": "https://youtube.com/watch?v=gYY3yS2rZ1E",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/gYY3yS2rZ1E/hq720.jpg"
+            },
+            {
+                "title": "තල වගාව පිළිබඳ සම්පූර්ණ මාර්ගෝපදේශය 🌱 | Sesame Cultivation Guide in Sinhala | Sri Lankan Agriculture",
+                "url": "https://youtube.com/watch?v=q0VC9APIo7Y",
+                "duration": "8:16",
+                "thumbnail": "https://i.ytimg.com/vi/q0VC9APIo7Y/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ සමට ගුණ දෙන තල ගැන දැනගන්න",
+                "url": "https://youtube.com/watch?v=G_Q5qSb_r9g",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/G_Q5qSb_r9g/hq720.jpg"
+            },
+            {
+                "title": "තලවල ගුණ/sesame tree/",
+                "url": "https://youtube.com/watch?v=njKTxWzaqZo",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/njKTxWzaqZo/hqdefault.jpg"
+            },
+            {
+                "title": "කට ගඳද..? විදුරුමස් රිදෙනවද..? දත් සෙලවවෙනවද.?  මුඛ ගැටළු වලට තල තෙලෙන් විශ්මිත සත්කාරයක්..!",
+                "url": "https://youtube.com/watch?v=S2veuN15LnQ",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/S2veuN15LnQ/hq720.jpg"
+            },
+            {
+                "title": "Sesame Seeds /තල ඇට .... Health Benefits",
+                "url": "https://youtube.com/watch?v=1-cACswKGVI",
+                "duration": "1:44",
+                "thumbnail": "https://i.ytimg.com/vi/1-cACswKGVI/hqdefault.jpg"
+            },
+            {
+                "title": "තලවල අතිවිශිෂ්ට සෞඛ්‍ය ප්‍රතිලාභ | Superfood For Strong Bones and Heart @Knowdiet496",
+                "url": "https://youtube.com/watch?v=ouCp3BpFNEI",
+                "duration": "8:38",
+                "thumbnail": "https://i.ytimg.com/vi/ouCp3BpFNEI/hq720.jpg"
+            },
+            {
+                "title": "thala thel/sesame/sesame oil/thala thel vala guna/ලිංගිකත්වයට බලපාන තල",
+                "url": "https://youtube.com/watch?v=DVRkFFmHxo8",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/DVRkFFmHxo8/hqdefault.jpg"
+            },
+            {
+                "title": "තල තෙල් ගෑවොත් ලොකු කරගන්න පුලුවන්ද? - Dr. Namal Wijesinghe",
+                "url": "https://youtube.com/watch?v=7Mk-Qu5-j4s",
+                "duration": "10:01",
+                "thumbnail": "https://i.ytimg.com/vi/7Mk-Qu5-j4s/hq720.jpg"
+            },
+            {
+                "title": "හිසකෙස් ගැලවී යාම නතර කර ඉක්මනින් වර්ධනය කරන තල තෙල්|Sesame oil for faster hair growth|ApuruWishwaya",
+                "url": "https://youtube.com/watch?v=jaVpKVYjlOY",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/jaVpKVYjlOY/hq720.jpg"
+            },
+            {
+                "title": "හිස කෙස් කළු කර ගැනීමට තල ඇටවලින් පහසු ප්‍රතිකාරයක්",
+                "url": "https://youtube.com/watch?v=KV05gTSn6Oc",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/KV05gTSn6Oc/hq720.jpg"
+            },
+            {
+                "title": "Sesame | තල #UnseenLanka",
+                "url": "https://youtube.com/watch?v=iQtFlvuIm-c",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/iQtFlvuIm-c/hq720.jpg"
+            },
+            {
+                "title": "Sesame seeds කවුරුත් රස කර කර කාලා තිබුනට දැකලා නැති තල  #sesamumindicum #Sesameseeds #thala",
+                "url": "https://youtube.com/watch?v=Pd82w9Uv0is",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/Pd82w9Uv0is/hq720.jpg"
+            },
+            {
+                "title": "තල හේනක් කරනවා නම් මෙන්න මේවාගේ කරල හොදම අස්වැන්න ගන්න",
+                "url": "https://youtube.com/watch?v=e0-tPDjElHs",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/e0-tPDjElHs/hq720.jpg"
+            },
+            {
+                "title": "හෙළ වෙදකමට ගන්නා මොනවද මේ \"තලා\" - තිලක් කන්දේගම / Medicinal plants - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=pSn1303tnAU",
+                "duration": "5:46",
+                "thumbnail": "https://i.ytimg.com/vi/pSn1303tnAU/hq720.jpg"
+            },
+            {
+                "title": "කළු තල සාදන ආකාරය.🤩",
+                "url": "https://youtube.com/watch?v=YiFSVTKZIy0",
+                "duration": "8:14",
+                "thumbnail": "https://i.ytimg.com/vi/YiFSVTKZIy0/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Strangury",
-      "sinhala": "මුත්‍රා බිංදු බිංදු පිටවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Cystitis",
-      "sinhala": "මුත්‍රාශ ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Bladder Disorders",
-      "sinhala": "මුත්‍රාශයේ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Otorrhoea",
-      "sinhala": "කනෙන් සැරව ගැලීම (කර්ණස්‍රාවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Burns and Scalds",
-      "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Pediculosis Capitis",
-      "sinhala": "හිසේ උකුණන් බෝවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Body Ache",
-      "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Nervous System Disorders",
-      "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Stalk",
-    "Leaves",
-    "Seeds",
-    "Oils"
-  ],
-  "images": [
-    {
-      "image_id": "578",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/9HJt4mYw/plant00980-00578.jpg"
-    },
-    {
-      "image_id": "579",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/TMpN63kG/plant00980-00579.jpg"
-    },
-    {
-      "image_id": "580",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/TM6hhPxD/plant00980-00580.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,94 +1,279 @@
 {
-  "scientificName": "Andrographis paniculata (Burm.f.) Nees",
-  "synonyms": [
-    "Andrographis paniculata var. glandulosa Trimen",
-    "Justicia latebrosa Russell ex Wall.",
-    "Justicia paniculata Burm.f.",
-    "Justicia stricta Lam. ex Steud."
-  ],
-  "familyName": "ACANTHACEAE",
-  "englishNames": [
-    "Bitterweed",
-    "King of Bitters",
-    "Creat",
-    "Indian Echinachea"
-  ],
-  "sinhalaName": "Heen binkohomba (හීන් බිංකොහොඹ)",
-  "description": "කඳ සෙන්ටිමීටර 75ක් දක්වා උසය. පත්‍ර ඩිම්බකෝෂාකාර-ඉලිප්සාකාර (ovate-elliptic) සිට ඉලිප්සාකාර-ලන්සාකාර (elliptic-lanceolate) හැඩයක් ගනී, ප්‍රමාණය සෙන්ටිමීටර 3.5 - 8.5 X 1.5 - 2.3 වේ, පාදය දෙසට සිහින් වේ, සිස්ටොලිත් (cystoliths) සහිතව මඳක් රේඛීය වේ, රෝම රහිතය (glabrous). පුෂ්ප මංජරිය අග්‍රස්ථ සහ කක්ෂීය වන අතර පිරමිඩාකාර මංජරියක් (panicle) සාදයි. කරල් සෘජුය, රේඛීය-ආයත (linear-oblong) හැඩැති වේ, පැතලි වේ, ප්‍රතිවිරුද්ධ පැතිවලින් වලවල් සහිත වේ, උල් අග්‍රයක් සහිත (mucronate) වේ, විරලව කටු සහිත වේ. බීජ 12ක් ඇත, වෘත්තාකාර (orbicular) වේ.",
-  "treatments": [
-    {
-      "treatment": "Chronic Fever",
-      "sinhala": "නිදන්ගත උණ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Andrographis paniculata (Burm.f.) Nees",
+    "synonyms": [
+        "Andrographis paniculata var. glandulosa Trimen",
+        "Justicia latebrosa Russell ex Wall.",
+        "Justicia paniculata Burm.f.",
+        "Justicia stricta Lam. ex Steud."
+    ],
+    "familyName": "ACANTHACEAE",
+    "englishNames": [
+        "Bitterweed",
+        "King of Bitters",
+        "Creat",
+        "Indian Echinachea"
+    ],
+    "sinhalaName": "Heen binkohomba (හීන් බිංකොහොඹ)",
+    "description": "කඳ සෙන්ටිමීටර 75ක් දක්වා උසය. පත්‍ර ඩිම්බකෝෂාකාර-ඉලිප්සාකාර (ovate-elliptic) සිට ඉලිප්සාකාර-ලන්සාකාර (elliptic-lanceolate) හැඩයක් ගනී, ප්‍රමාණය සෙන්ටිමීටර 3.5 - 8.5 X 1.5 - 2.3 වේ, පාදය දෙසට සිහින් වේ, සිස්ටොලිත් (cystoliths) සහිතව මඳක් රේඛීය වේ, රෝම රහිතය (glabrous). පුෂ්ප මංජරිය අග්‍රස්ථ සහ කක්ෂීය වන අතර පිරමිඩාකාර මංජරියක් (panicle) සාදයි. කරල් සෘජුය, රේඛීය-ආයත (linear-oblong) හැඩැති වේ, පැතලි වේ, ප්‍රතිවිරුද්ධ පැතිවලින් වලවල් සහිත වේ, උල් අග්‍රයක් සහිත (mucronate) වේ, විරලව කටු සහිත වේ. බීජ 12ක් ඇත, වෘත්තාකාර (orbicular) වේ.",
+    "treatments": [
+        {
+            "treatment": "Chronic Fever",
+            "sinhala": "නිදන්ගත උණ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hepatomegaly",
+            "sinhala": "අක්මාව විශාල වීම (යකෘද්දරය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worm infestations",
+            "sinhala": "පණුවන් බෝවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Lesions",
+            "sinhala": "සමේ තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "1851",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/3yYXK6Mk/plant01371-01851.jpg"
+        },
+        {
+            "image_id": "1852",
+            "caption": "Flower and Fruits",
+            "url": "https://i.ibb.co/gFVkTPPx/plant01371-01852.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මොකද්ද මේ හීං බිංකොහොඹ ? Heen Binkohomba | Ceylon Agri | Episode 67",
+                "url": "https://youtube.com/watch?v=uqESdU4cYa4",
+                "duration": "7:58",
+                "thumbnail": "https://i.ytimg.com/vi/uqESdU4cYa4/hq720.jpg"
+            },
+            {
+                "title": "Covid වලට හොදම බෙහෙත / හීන් බින් කොහොඹ / Heen Bin Kohomba / Kiratha / Andrographis paniculata",
+                "url": "https://youtube.com/watch?v=CpBgmAJPAXg",
+                "duration": "6:46",
+                "thumbnail": "https://i.ytimg.com/vi/CpBgmAJPAXg/hq720.jpg"
+            },
+            {
+                "title": "#trending #herb #plants  Green chiretta හීං බිං කොහොඹ",
+                "url": "https://youtube.com/watch?v=f90O2SFz_Zs",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/f90O2SFz_Zs/hq720.jpg"
+            },
+            {
+                "title": "හීන් බිංකොහොඹ වගාව",
+                "url": "https://youtube.com/watch?v=f6pB7Qr4TCA",
+                "duration": "11:01",
+                "thumbnail": "https://i.ytimg.com/vi/f6pB7Qr4TCA/hq720.jpg"
+            },
+            {
+                "title": "කිරාත/හීං බිංකොහොඹ/බිං කොහොඹ පටලැවිල්ල ලිහා ගමු. ඔසු පැළ නිවැරදිව හදුනා ගනිමු.",
+                "url": "https://youtube.com/watch?v=0BBdXbnd0oc",
+                "duration": "11:55",
+                "thumbnail": "https://i.ytimg.com/vi/0BBdXbnd0oc/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ගැන හැමෝම අහන ප්‍රශ්න | Bin Kohomba | Ceylon Agri | Episode 370",
+                "url": "https://youtube.com/watch?v=bsDV6DgOPZQ",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/bsDV6DgOPZQ/hq720.jpg"
+            },
+            {
+                "title": "හීන් බිංකොහොඹ",
+                "url": "https://youtube.com/watch?v=yGCInMbQeJg",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/yGCInMbQeJg/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සදහා හීංබිංකොහොඹ වල ගුණ,  මහාචාර්ය පියල් මාරසිංහ Andrographis Paniculata",
+                "url": "https://youtube.com/watch?v=clGbn5FqpJ4",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/clGbn5FqpJ4/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩරෝග රැසක් සුවපත් කරන බිංකොහොඹ(Binkohoba) ශාකය😱😱",
+                "url": "https://youtube.com/watch?v=6qHPAG1MIMM",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/6qHPAG1MIMM/hq720.jpg"
+            },
+            {
+                "title": "Bin Kohomba a Rare Medicinal Plant to Grow in Sinhala | බිං කොහොඹ ගුණ",
+                "url": "https://youtube.com/watch?v=jSnktC_b9PY",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/jSnktC_b9PY/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ වල ඇති විශ්මිත ගුණ|Mununia pinnata",
+                "url": "https://youtube.com/watch?v=Cl4gwAmBm6Y",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/Cl4gwAmBm6Y/hqdefault.jpg"
+            },
+            {
+                "title": "වල් බින්කොහොඹ/ කිරිආතා  ( Kalaamegh )",
+                "url": "https://youtube.com/watch?v=v46v2nuSrhY",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/v46v2nuSrhY/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ විශ්මිත ගුණ ගැන ඔබ මීට කලින් දැන සිටියාද?  |  වගා දැනුම   #agriculture #ලංකාවෙ",
+                "url": "https://youtube.com/watch?v=lHHfnKkF3DY",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lHHfnKkF3DY/hq720.jpg"
+            },
+            {
+                "title": "බිංකොහොඹ ගැන ඔබ නොදන්නා දේ",
+                "url": "https://youtube.com/watch?v=KR-e3kU8Nc4",
+                "duration": "5:25",
+                "thumbnail": "https://i.ytimg.com/vi/KR-e3kU8Nc4/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=sF_BrjVGH9Y",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/sF_BrjVGH9Y/hqdefault.jpg"
+            },
+            {
+                "title": "දේශීය වෙදදුරන්ට අනුව corona වලට එරෙහිව ප්‍රතිශක්තිය නගාසිටුවන හීන් බින් කොහොඹ",
+                "url": "https://youtube.com/watch?v=WKw3IhMmfmw",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/WKw3IhMmfmw/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ගැන හැමෝම අහන ප්‍රශ්න | Bin Kohomba | Ceylon Agri | Episode 370",
+                "url": "https://youtube.com/watch?v=4SYhYXE5yQU",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/4SYhYXE5yQU/frame0.jpg"
+            },
+            {
+                "title": "බිංකොහොඹ | Binkohomba | දුර්ලභ වටිනා ඔසුගුණ මහිම #diabetic #canser",
+                "url": "https://youtube.com/watch?v=5UhzexR_-PM",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/5UhzexR_-PM/hq720.jpg"
+            },
+            {
+                "title": "හීන් බිං කොහොඹ(heen bin kohomba)",
+                "url": "https://youtube.com/watch?v=WhapyYWS4-E",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/WhapyYWS4-E/hqdefault.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ | Munronia pinnata - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=aLVxN65TEgg",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/aLVxN65TEgg/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ",
+                "url": "https://youtube.com/watch?v=7-R_C_VVIHg",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/7-R_C_VVIHg/hq720.jpg"
+            },
+            {
+                "title": "බිංකොහොඹ",
+                "url": "https://youtube.com/watch?v=LoFDT3HsMwQ",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/LoFDT3HsMwQ/hq720.jpg"
+            },
+            {
+                "title": "කිරාත (බිංකොහොඹ)",
+                "url": "https://youtube.com/watch?v=NXBwdrhEwts",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/NXBwdrhEwts/hqdefault.jpg"
+            },
+            {
+                "title": "Amazing Health Benefits Of Andrographis Paniculata | King Of Bitters | Medicinal Plant",
+                "url": "https://youtube.com/watch?v=ha-606HtWzg",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/ha-606HtWzg/hq720.jpg"
+            },
+            {
+                "title": "BENEFITS OF serpentina, king of Bitter, ANDROGRAPHIS PANICULATA",
+                "url": "https://youtube.com/watch?v=ab35vcfISDs",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/ab35vcfISDs/hq720.jpg"
+            },
+            {
+                "title": "Covid වලට හොදම බෙහෙත / හීන් බින් කොහොඹ / Heen Bin Kohomba / Kiratha / Andrographis paniculata",
+                "url": "https://youtube.com/watch?v=wLzEYh5hXRI",
+                "duration": "6:46",
+                "thumbnail": "https://i.ytimg.com/vi/wLzEYh5hXRI/frame0.jpg"
+            },
+            {
+                "title": "Boosting Immune & Antiviral Herb Kalmegh | Heen Bin Kohomba | හීං බිං කොහොඹ වල ගුණ ඉංග්‍රීසියෙන්",
+                "url": "https://youtube.com/watch?v=slKUfe9AfrU",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/slKUfe9AfrU/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ප්‍රතිශක්තිය වැඩි කරන බිං කොහොඹ - Mumronia pinnata",
+                "url": "https://youtube.com/watch?v=J1CJ5jgcAYE",
+                "duration": "11:07",
+                "thumbnail": "https://i.ytimg.com/vi/J1CJ5jgcAYE/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රතිශක්තිය වඩන, මේ දවස් වල වටිනාම ශාකය | හීන් බිං කොහොඹ | Heen Bin Kohomba/ Kiratha",
+                "url": "https://youtube.com/watch?v=JMvCZZzTvJU",
+                "duration": "10:54",
+                "thumbnail": "https://i.ytimg.com/vi/JMvCZZzTvJU/hq720.jpg"
+            },
+            {
+                "title": "Dr. Ankit Pandey | Health Benefits of Ayurvedic plant- Kamlegh(Andrographis paniculata)",
+                "url": "https://youtube.com/watch?v=_DKyj0x5aKQ",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/_DKyj0x5aKQ/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hepatomegaly",
-      "sinhala": "අක්මාව විශාල වීම (යකෘද්දරය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worm infestations",
-      "sinhala": "පණුවන් බෝවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Lesions",
-      "sinhala": "සමේ තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "1851",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/3yYXK6Mk/plant01371-01851.jpg"
-    },
-    {
-      "image_id": "1852",
-      "caption": "Flower and Fruits",
-      "url": "https://i.ibb.co/gFVkTPPx/plant01371-01852.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

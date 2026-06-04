@@ -1,51 +1,686 @@
 {
-  "scientificName": "Dracaena zeylanica (L.) Mabb.",
-  "synonyms": [
-    "Acyntha zeylanica (L.) Kuntze",
-    "Aloe hyacinthoides var. zeylanica L.",
-    "Aloe zeylanica (L.) Jacq.",
-    "Cordyline zeylanica (L.) Britton",
-    "Sansevieria ensifolia Haw.",
-    "Sansevieria grandicuspis Haw.",
-    "Sansevieria indica Herter",
-    "Sansevieria pumila Haw.",
-    "Sansevieria zeylanica (L.) Willd."
-  ],
-  "familyName": "ASPARAGACEAE",
-  "englishNames": [
-    "Bow String Hemp",
-    "Ceylon Bow String Hemp"
-  ],
-  "sinhalaName": "Niyanda (නියඳ)",
-  "description": "ඝනකම සහිත බඩගා යන සිම්පොඩියල් (sympodially) අතු බෙදුණු රයිසෝමයක් සහිත පැළෑටි වේ. රයිසෝමය තිරස් අතට පිහිටා ඇති අතර, 10-15 මි.මී. ඝනකමකින් යුක්ත වේ. එහි වර්ණය කහ පැහැති සුදු සිට තැඹිලි පැහැය දක්වා වේ. පත්‍ර 4-12 බැගින් පොකුරු ලෙස පිහිටා ඇති අතර, ඒවා දළ වශයෙන් 110 x 6 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වේ. පත්‍ර තරමක් පැතලි සහ කඩුවක හැඩැති (ensiform) හෝ පාහේ සිලින්ඩරාකාර (terete) සහ වලක් සහිත (channeled) වේ. පත්‍ර අග්‍රය දෙසට සිහින් වී තියුණු (acute) සහ උල් වූ (apiculate) ස්වභාවයක් ගන්නා අතර, වියළී ගිය දුඹුරු පැහැති කටුවක් වැනි අගකින් අවසන් වේ. පත්‍ර දෙපැත්තම දිලිසෙන සුළු සහ සිනිඳු (smooth) වන අතර, තද කොළ සහ ලා කොළ පැහැති තීරු එකිනෙක මුසු වෙමින් පවතී. මල් 3-6 බැගින් වූ පොකුරු (fascicles) ලෙස හටගනී, බොහෝ විට මල් 6ක් පමණ වේ. බෙරි ගෙඩිය ගෝලාකාර (globose) වන අතර, 6-10 මි.මී. පළලකින් යුක්ත වේ. ඉදුණු විට තැඹිලි පැහැ ගන්නා අතර බීජ එකක් හෝ දෙකක් අඩංගු වේ. බීජ සුදු පැහැති, පුළුල් ලෙස බිත්තරයක හැඩැති (ovoid) වන අතර, අස්ථි වැනි (horny) එන්ඩොස්පර්මයකින් සමන්විත වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "964",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/210fspHq/plant00443-00964.jpg"
+    "scientificName": "Dracaena zeylanica (L.) Mabb.",
+    "synonyms": [
+        "Acyntha zeylanica (L.) Kuntze",
+        "Aloe hyacinthoides var. zeylanica L.",
+        "Aloe zeylanica (L.) Jacq.",
+        "Cordyline zeylanica (L.) Britton",
+        "Sansevieria ensifolia Haw.",
+        "Sansevieria grandicuspis Haw.",
+        "Sansevieria indica Herter",
+        "Sansevieria pumila Haw.",
+        "Sansevieria zeylanica (L.) Willd."
+    ],
+    "familyName": "ASPARAGACEAE",
+    "englishNames": [
+        "Bow String Hemp",
+        "Ceylon Bow String Hemp"
+    ],
+    "sinhalaName": "Niyanda (නියඳ)",
+    "description": "ඝනකම සහිත බඩගා යන සිම්පොඩියල් (sympodially) අතු බෙදුණු රයිසෝමයක් සහිත පැළෑටි වේ. රයිසෝමය තිරස් අතට පිහිටා ඇති අතර, 10-15 මි.මී. ඝනකමකින් යුක්ත වේ. එහි වර්ණය කහ පැහැති සුදු සිට තැඹිලි පැහැය දක්වා වේ. පත්‍ර 4-12 බැගින් පොකුරු ලෙස පිහිටා ඇති අතර, ඒවා දළ වශයෙන් 110 x 6 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වේ. පත්‍ර තරමක් පැතලි සහ කඩුවක හැඩැති (ensiform) හෝ පාහේ සිලින්ඩරාකාර (terete) සහ වලක් සහිත (channeled) වේ. පත්‍ර අග්‍රය දෙසට සිහින් වී තියුණු (acute) සහ උල් වූ (apiculate) ස්වභාවයක් ගන්නා අතර, වියළී ගිය දුඹුරු පැහැති කටුවක් වැනි අගකින් අවසන් වේ. පත්‍ර දෙපැත්තම දිලිසෙන සුළු සහ සිනිඳු (smooth) වන අතර, තද කොළ සහ ලා කොළ පැහැති තීරු එකිනෙක මුසු වෙමින් පවතී. මල් 3-6 බැගින් වූ පොකුරු (fascicles) ලෙස හටගනී, බොහෝ විට මල් 6ක් පමණ වේ. බෙරි ගෙඩිය ගෝලාකාර (globose) වන අතර, 6-10 මි.මී. පළලකින් යුක්ත වේ. ඉදුණු විට තැඹිලි පැහැ ගන්නා අතර බීජ එකක් හෝ දෙකක් අඩංගු වේ. බීජ සුදු පැහැති, පුළුල් ලෙස බිත්තරයක හැඩැති (ovoid) වන අතර, අස්ථි වැනි (horny) එන්ඩොස්පර්මයකින් සමන්විත වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "964",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/210fspHq/plant00443-00964.jpg"
+        },
+        {
+            "image_id": "1595",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/cStRdzb8/plant00443-01595.jpg"
+        },
+        {
+            "image_id": "965",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/qLMzFLvP/plant00443-00965.jpg"
+        },
+        {
+            "image_id": "1596",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/Y4wvZXkH/plant00443-01596.jpg"
+        },
+        {
+            "image_id": "1597",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/G430xWQ9/plant00443-01597.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "චිත්‍ර කලාව හදාරන දූ දරුවන් සඳහා #පන් හා නියඳ කලාව",
+                "url": "https://youtube.com/watch?v=tRQJoYHro5s",
+                "duration": "9:04",
+                "thumbnail": "https://i.ytimg.com/vi/tRQJoYHro5s/hq720.jpg"
+            },
+            {
+                "title": "Niyada Plants (SLBC) Dr.H.D.P Dharshani",
+                "url": "https://youtube.com/watch?v=2XgeM-QvbPM",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/2XgeM-QvbPM/hqdefault.jpg"
+            },
+            {
+                "title": "Dumbara Ratā Mat Weaving | දුම්බර කළාල විවීම",
+                "url": "https://youtube.com/watch?v=podxQ5jrz1k",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/podxQ5jrz1k/hq720.jpg"
+            },
+            {
+                "title": "Niyada wanaya/නියඳ වනය  / Deepa gaweshi / දීප ගවේෂී episode 13 (2021 - 04 - 25)",
+                "url": "https://youtube.com/watch?v=ZVWSeC3wro8",
+                "duration": "14:15",
+                "thumbnail": "https://i.ytimg.com/vi/ZVWSeC3wro8/hq720.jpg"
+            },
+            {
+                "title": "sansevieria/දිවා රත්‍රියේ අපේ ජීවිතය වෙනුවෙන් සේවයක් ඉටු කරන දිව්‍යමය ශාකය",
+                "url": "https://youtube.com/watch?v=p8E9SVoYeKE",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/p8E9SVoYeKE/hqdefault.jpg"
+            },
+            {
+                "title": "Miyana dalu curry/මියන දලු මාළුව/Fern caram curry/මියන දළු/Sri Lankan village food/ape Sihina/sinhal",
+                "url": "https://youtube.com/watch?v=hnmvWh-tKuk",
+                "duration": "11:09",
+                "thumbnail": "https://i.ytimg.com/vi/hnmvWh-tKuk/hq720.jpg"
+            },
+            {
+                "title": "මට ගැහුවොත් 1 vs 4 | ROAD TO 20k",
+                "url": "https://youtube.com/watch?v=jsZJIsub6CA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/jsZJIsub6CA/hq720.jpg"
+            },
+            {
+                "title": "EP-13 | වැදි ජනතාවගේ පරම්පරාවෙන් පැවතඑන මස් . මාලූ පුච්චා කෑමේ අවස්ථාවක්",
+                "url": "https://youtube.com/watch?v=Itm8pC-YHSw",
+                "duration": "6:35",
+                "thumbnail": "https://i.ytimg.com/vi/Itm8pC-YHSw/hq720.jpg"
+            },
+            {
+                "title": "Galana galana beat එකට මුහුදේ කවියක් අහමුද",
+                "url": "https://youtube.com/watch?v=DEoxKD9ACL0",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/DEoxKD9ACL0/hq720.jpg"
+            },
+            {
+                "title": "පන් කොළයෙන් වැටෙන කඳුළු මුණුබුරාලා ඉගෙන ගන්නේ කොහොම ද? - Hiru News",
+                "url": "https://youtube.com/watch?v=LXYymLDclgo",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/LXYymLDclgo/hq720.jpg"
+            },
+            {
+                "title": "උඩරටට ආවේණික දුම්බර රටා කර්මාන්තය...",
+                "url": "https://youtube.com/watch?v=jNb_ruvoAEI",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/jNb_ruvoAEI/hq720.jpg"
+            },
+            {
+                "title": "coconut leaf tray | coconut leaf plate | Polkola watti | පොල් කොල වට්ටියක් වියමු",
+                "url": "https://youtube.com/watch?v=5R05jlcQ69c",
+                "duration": "45:31",
+                "thumbnail": "https://i.ytimg.com/vi/5R05jlcQ69c/hq720.jpg"
+            },
+            {
+                "title": "දුම්බර රටා කළාල විවීමේ ශිල්පය දැන් මානව සංහතියේම උරුමයක්!",
+                "url": "https://youtube.com/watch?v=6WuJG1beBNg",
+                "duration": "27:27",
+                "thumbnail": "https://i.ytimg.com/vi/6WuJG1beBNg/hq720.jpg"
+            },
+            {
+                "title": "හන ගහෙන් මවන විස්මකම්.",
+                "url": "https://youtube.com/watch?v=hzOEGoOnL8I",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/hzOEGoOnL8I/hqdefault.jpg"
+            },
+            {
+                "title": "චිත්‍ර කලාව හදාරන දූ දරුවන් සඳහා #පන් හා නියඳ කලාව",
+                "url": "https://youtube.com/watch?v=FDiOSnXVcG0",
+                "duration": "9:04",
+                "thumbnail": "https://i.ytimg.com/vi/tRQJoYHro5s/hq720.jpg"
+            },
+            {
+                "title": "නික ගුණ වරුණ . සෙම් රෝග සහ වේදනා සමනයට. Health benefits of Nika.",
+                "url": "https://youtube.com/watch?v=YgOuPvji6N0",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgOuPvji6N0/hq720.jpg"
+            },
+            {
+                "title": "\"ඒක අධිකරණ තීන්දුවක් බව මම දැනගෙන හිටියේ නෑ\" පූජ්‍ය තිනියාවල පාලිත හිමියෝ සමාව ඉල්ලති",
+                "url": "https://youtube.com/watch?v=5rY94OGIL3A",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/5rY94OGIL3A/hq720.jpg"
+            },
+            {
+                "title": "ගුණ රහිතව නිර්වාණයක් නැත (3)",
+                "url": "https://youtube.com/watch?v=EmRhwe-h9Yc",
+                "duration": "30:07",
+                "thumbnail": "https://i.ytimg.com/vi/EmRhwe-h9Yc/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව අඩු කර ගන්නත් දියවැඩියාව නොහැදී බේරෙන්නත් තියන අමෘත පානය | home remedy for diabetes",
+                "url": "https://youtube.com/watch?v=tTsSIEW7w1Q",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/tTsSIEW7w1Q/hq720.jpg"
+            },
+            {
+                "title": "උදේට පාන් එපා මෙන්න රක්තහීනතාවයට ගුණ ලේ වඩවන පානයන් 2ක් | මේක බිව්වම කන්න ඕනත් නෑ | le wadawana kama",
+                "url": "https://youtube.com/watch?v=cl3XLpXplVQ",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/cl3XLpXplVQ/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ නවයෙහි නිවැරදි තේරුම පහදන්න.",
+                "url": "https://youtube.com/watch?v=MycCxG9B-oQ",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/MycCxG9B-oQ/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ බලයෙන් පිහිට ලබා ගන්න ආකාරය මෙන්න #niwana #nibbana #buduguna #niwanmaga  @buduguna9",
+                "url": "https://youtube.com/watch?v=k0_1j6RHGUE",
+                "duration": "28:43",
+                "thumbnail": "https://i.ytimg.com/vi/k0_1j6RHGUE/hq720.jpg"
+            },
+            {
+                "title": "මේ නරක ගුණ 4 ඔබව පිරිහීමට ගෙනියයි!",
+                "url": "https://youtube.com/watch?v=ZBBsk2Z5SMw",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/ZBBsk2Z5SMw/hq720.jpg"
+            },
+            {
+                "title": "ගිනිගත් වැඩිහිටි නිවාසයේ අද උදෑසන තත්ත්වය - කන්න උයපු කෑමත් එක්කම අළුවෙලා තියෙන හැටි",
+                "url": "https://youtube.com/watch?v=ZDMMZ1TG530",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/ZDMMZ1TG530/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට ගුණ දෙන නික ශාඛය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=cgU7USJ32GA",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/cgU7USJ32GA/hq720.jpg"
+            },
+            {
+                "title": "අටලොස් වැදෑරුම් ස්ත්‍රී ගුණ ( Atalos wadarum sthri guna)",
+                "url": "https://youtube.com/watch?v=rLkNm5HU6kg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/rLkNm5HU6kg/hq720.jpg"
+            },
+            {
+                "title": "තමා අනුව යන්නා වූ පුණ්‍යනිධානය | නිධිකණ්ඩ සූත්‍රය | Most Ven. Na Uyane Ariyadhamma Maha Thero",
+                "url": "https://youtube.com/watch?v=V4Wf5YtGzKM",
+                "duration": "1:04:14",
+                "thumbnail": "https://i.ytimg.com/vi/V4Wf5YtGzKM/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව කොලෙස්ටරෝල් නසන පෝෂණීය ආහාරයක් | diyawadiyawata kanna dewal | සීනි මට්ටම අඩු කරන ආහාර",
+                "url": "https://youtube.com/watch?v=mUd_gzS55ts",
+                "duration": "12:56",
+                "thumbnail": "https://i.ytimg.com/vi/mUd_gzS55ts/hq720.jpg"
+            },
+            {
+                "title": "ගිනිගත් වැඩිහිටි නිවාසය ගැන ලැබුණු අලුත්ම වාර්තාව මෙන්න. ඇදන් පිටින්ම ගිනි අරන්",
+                "url": "https://youtube.com/watch?v=ImfKF0Pe5gk",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/ImfKF0Pe5gk/hq720.jpg"
+            },
+            {
+                "title": "සති දෙකෙන් සම්පුර්ණ සුවය ලැබුණා",
+                "url": "https://youtube.com/watch?v=Zh8pfvrtZts",
+                "duration": "5:25",
+                "thumbnail": "https://i.ytimg.com/vi/Zh8pfvrtZts/hq720.jpg"
+            },
+            {
+                "title": "මට සුවයක් දැනෙනවා. කලින් හරිම අපහසුවෙන් හිටියේ මම දැන් හරිම සැහැල්ලුවෙන් ඉන්න්",
+                "url": "https://youtube.com/watch?v=vcBNic5I_2s",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/vcBNic5I_2s/hq720.jpg"
+            },
+            {
+                "title": "පළමු බෙහෙත් වාරයෙන්ම මට සුවයක් ලැබුණා",
+                "url": "https://youtube.com/watch?v=yTlqOSxBWQA",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/yTlqOSxBWQA/hq720.jpg"
+            },
+            {
+                "title": "සුරේෂ් සලේ සිය දිවි නසා ගැනීමේ දැඩි අවධානමක වෛද්‍ය වාර්තාවෙන් හෙලි වූ  A to Z කතාව මෙන්න",
+                "url": "https://youtube.com/watch?v=juUX0cbzAUQ",
+                "duration": "25:42",
+                "thumbnail": "https://i.ytimg.com/vi/juUX0cbzAUQ/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ අය ලෙඩ වෙන්නෙ අරක්කු බොන්න දන්නෙ නැති නිසා |  Alcohol  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dk3QJjXV938",
+                "duration": "19:12",
+                "thumbnail": "https://i.ytimg.com/vi/dk3QJjXV938/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "සුරේෂ් සලේ සිය දිවි නසා ගැනීමේ දැඩි අවධානමක වෛද්‍ය වාර්තාවෙන් හෙලි වූ A to Z කතාව මෙන්න",
+                "url": "https://youtube.com/watch?v=Z51VeZx64Mc",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/Z51VeZx64Mc/hq720.jpg"
+            },
+            {
+                "title": "නහර වල ඇති ලේ කැටි පවා දිය කර හරින අධි රුධිර පීඩනය තප්පරෙන් සුව කරන පානයන් 2 |කොලෙස්ටරෝල් වලට බෙහෙත්",
+                "url": "https://youtube.com/watch?v=62eSvhHgbUM",
+                "duration": "6:01",
+                "thumbnail": "https://i.ytimg.com/vi/62eSvhHgbUM/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද වෛද්‍යවරයෙක් වෙන්නේ  කොහොමද?  I Tissa Jananayake with Life (EP 228)",
+                "url": "https://youtube.com/watch?v=_YAPfB84ukQ",
+                "duration": "7:44",
+                "thumbnail": "https://i.ytimg.com/vi/_YAPfB84ukQ/hq720.jpg"
+            },
+            {
+                "title": "ඔබට විශේෂ පණිවිඩයක් 🔮 ඔයා හරි පාරේ ඉන්නවා.දිගටම යන්න! 🌟 |🔮 Your Wealth Path Is Here 💎#sinhalatarot",
+                "url": "https://youtube.com/watch?v=tfV6k3IyXEQ",
+                "duration": "19:04",
+                "thumbnail": "https://i.ytimg.com/vi/tfV6k3IyXEQ/hqdefault.jpg"
+            },
+            {
+                "title": "ශරීරය ලෙඩ කරන බලවේග මෙන්න හරි විදිහට ශරීරය සුද්ද කර කදබාර දුන්නොත් වරමට එන ආකාරය මෙන්න ,,",
+                "url": "https://youtube.com/watch?v=d3NWmZJa4B4",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/d3NWmZJa4B4/hq720.jpg"
+            },
+            {
+                "title": "\"දියවැඩියා රෝගීන්ගෙන් 50%ක් බෙහෙත් ගන්නේ නෑ මෑත ඉතිහාසයේ මෙහෙම රටක් තිබුණද?\" - Hiru News",
+                "url": "https://youtube.com/watch?v=fXi65JJKPg8",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/fXi65JJKPg8/hq720.jpg"
+            },
+            {
+                "title": "නිය කුණු වීම සහ පැසවීම සදහටම නවත්වන්න! | Suwethma Nee Ayu නිය සත්කාරය",
+                "url": "https://youtube.com/watch?v=LCWRBcWAmWE",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/LCWRBcWAmWE/hq720.jpg"
+            },
+            {
+                "title": "COD  හරහා ලාභගන්න පුළුවන්  පැල වර්ග| Plastic Bottle Planting Ideas Earn More with COD Plant Plants",
+                "url": "https://youtube.com/watch?v=ZfFGX0r12II",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/ZfFGX0r12II/hq720.jpg"
+            },
+            {
+                "title": "කළුනික 🔴 Litsea saligna (Nees) N.P.Balakr.",
+                "url": "https://youtube.com/watch?v=WOBz2Fao8uI",
+                "duration": "11:11",
+                "thumbnail": "https://i.ytimg.com/vi/WOBz2Fao8uI/hq720.jpg"
+            },
+            {
+                "title": "කිසිම බෙහෙතක් බොන්නේ නැතුව මානසික ආතතිය, නින්ද නොයෑම නිට්ටාවටම සුව කරවන විශ්මිත රහස් ප්‍රතිකාරය",
+                "url": "https://youtube.com/watch?v=owQWDYkjuwI",
+                "duration": "21:57",
+                "thumbnail": "https://i.ytimg.com/vi/owQWDYkjuwI/hq720.jpg"
+            },
+            {
+                "title": "ගෝඨාභයගේ පැරදීමට හේතුව හා සීනි බදු වංචාව ගැන පොහොට්ටුවේ ප්‍රියන්ත කියන අලුත් කතාව",
+                "url": "https://youtube.com/watch?v=MiT_ysp2pB4",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/MiT_ysp2pB4/hq720.jpg"
+            },
+            {
+                "title": "ගැස්ට්‍රයිටීස් හැදුනේ ඇයි ??නිවැරදිව සොයා ගෙන නියමිත ප්‍රතිකාර කරන හැටි.-විශේෂඥ වෛද්‍ය ධනුෂි අබේනායක",
+                "url": "https://youtube.com/watch?v=ODER6jFiBAE",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/ODER6jFiBAE/hq720.jpg"
+            },
+            {
+                "title": "උදර රෝග රැසකට දිව ඔසුවක්.  නිවිතිවල ගුණ.",
+                "url": "https://youtube.com/watch?v=Ug3MW1sI4EI",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/Ug3MW1sI4EI/hq720.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය ශාකයේ ඖෂධීය ගුණ ඇතුලු අනෙකුත් තොරතුරු | Neerulliya",
+                "url": "https://youtube.com/watch?v=H5r0lHCygWQ",
+                "duration": "12:46",
+                "thumbnail": "https://i.ytimg.com/vi/H5r0lHCygWQ/hq720.jpg"
+            },
+            {
+                "title": "Rasakida | රසකිඳ ශාකයේ ඔසු ගුණ වරුන | @osu-1380",
+                "url": "https://youtube.com/watch?v=n-Vn_83Jk-w",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/n-Vn_83Jk-w/hq720.jpg"
+            },
+            {
+                "title": "ගුණ දන්නවනම් අනිවාරයෙන්ම කෑමට ගන්න , දියවැඩියාව, පිළිකා පරදන ඔසු | Gas Nivithi | Talinum paniculatum",
+                "url": "https://youtube.com/watch?v=4r8ud83C0d8",
+                "duration": "9:47",
+                "thumbnail": "https://i.ytimg.com/vi/4r8ud83C0d8/hq720.jpg"
+            },
+            {
+                "title": "අඩු වියදමින් වැඩි සෞඛ්‍යක් | ගස් නිවිති ගුණ  @Knowdiet496",
+                "url": "https://youtube.com/watch?v=OYL6HHW1meo",
+                "duration": "6:26",
+                "thumbnail": "https://i.ytimg.com/vi/OYL6HHW1meo/hq720.jpg"
+            },
+            {
+                "title": "අධිරුධිර පීඩනය විනාඩියෙන් සුව කරන, මහබඩවැල් පිළිකා වලක්වන ඖෂධ රාජයා | tea for high blood pressure",
+                "url": "https://youtube.com/watch?v=fiofFmTpGJE",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/fiofFmTpGJE/hq720.jpg"
+            },
+            {
+                "title": "ජවය ශක්තිය සපිරි කොල්ලු පානය - වෛද්‍ය සුසීමා සේනානායක",
+                "url": "https://youtube.com/watch?v=BBlufzuvZvw",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/BBlufzuvZvw/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලි වල ගුණ | Nelli wala guna",
+                "url": "https://youtube.com/watch?v=-8XeJb8O9O8",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/-8XeJb8O9O8/hqdefault.jpg"
+            },
+            {
+                "title": "රක්තහීනතාවයට ගුණ දෙන වටිනා මැල්ලුම් සහ කරි වර්ග | best food for anemia | le wadana ahara | moringa",
+                "url": "https://youtube.com/watch?v=q3A6-LRk2rA",
+                "duration": "18:00",
+                "thumbnail": "https://i.ytimg.com/vi/q3A6-LRk2rA/hq720.jpg"
+            },
+            {
+                "title": "හැදෙන්න තියන පිළිකාවක් උනත් වලකන ලෙඩ 300කට ගුණ පානයක් | දියවැඩියාවට කොලෙස්ටරෝල් වලට බෙහෙත් nira S",
+                "url": "https://youtube.com/watch?v=5TmsOIyY_W8",
+                "duration": "6:33",
+                "thumbnail": "https://i.ytimg.com/vi/5TmsOIyY_W8/hq720.jpg"
+            },
+            {
+                "title": "මේ රෝග තියෙනවනම් ආයෙමත් නෙල්ලි කන්නෙ බලාගෙන.- විශ්මිත ගුණ  දෙන නෙල්ලි",
+                "url": "https://youtube.com/watch?v=S2uvKPksTQk",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/S2uvKPksTQk/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූනු දිනපතා ආහාරයට ගැනීමෙන් ඔබට ලැබෙන විද්‍යාත්මකව තහවුරු කල වටිනා වාසි 8 ක්",
+                "url": "https://youtube.com/watch?v=jCVPqJx99Pc",
+                "duration": "6:49",
+                "thumbnail": "https://i.ytimg.com/vi/jCVPqJx99Pc/hqdefault.jpg"
+            },
+            {
+                "title": "''නෙල්ලි'' වල ගුණ අගුණ  Health benefits of Nelli",
+                "url": "https://youtube.com/watch?v=RQ0CmZaO_3I",
+                "duration": "5:40",
+                "thumbnail": "https://i.ytimg.com/vi/RQ0CmZaO_3I/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට සුවය දෙන නෙල්ලි | Nelli Wala Guna | Health benefits of Amla",
+                "url": "https://youtube.com/watch?v=ESmHMHBhp2Y",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/ESmHMHBhp2Y/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "07 වන තේමාව | 02 වන පාඩම - ආහාර වලින් තිබෙන ප්‍රයෝජන | 01 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=ExJxQg6i2JI",
+                "duration": "13:28",
+                "thumbnail": "https://i.ytimg.com/vi/ExJxQg6i2JI/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන සහ අපට උදව් කරන සතුන් පාඩම | #usefulanimals #keenkidamigo 4,5 ශ්‍රේණි පරිසරය",
+                "url": "https://youtube.com/watch?v=cY5ccYVn_mQ",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/cY5ccYVn_mQ/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "සත්තුන්ගෙන් අපට ලැබෙන ප්‍රයෝජන  | 03 වන තේමාව  | 01 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=8tfTs8fo9pU",
+                "duration": "14:31",
+                "thumbnail": "https://i.ytimg.com/vi/8tfTs8fo9pU/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන 🐕#trending #viral #foryou #education #educational #animals",
+                "url": "https://youtube.com/watch?v=m_QLK68xX50",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/m_QLK68xX50/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "පෙයාස් කියන්නෙ කෙමිකල් ගොන්නක එකතුවක් | Pears and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=GE9JREHevZE",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/GE9JREHevZE/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලි වල මෙච්චර ගුණයක්? 🍏 විශ්මිත සෞඛ්‍ය ප්‍රතිලාභ මෙන්න! |",
+                "url": "https://youtube.com/watch?v=rZyWK4LRjHE",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/rZyWK4LRjHE/hq720.jpg"
+            },
+            {
+                "title": "ඌන භාවිත ආහාර බෝග ප්‍රවර්ධනය",
+                "url": "https://youtube.com/watch?v=CcQ0F1GadBU",
+                "duration": "42:48",
+                "thumbnail": "https://i.ytimg.com/vi/CcQ0F1GadBU/hq720.jpg"
+            },
+            {
+                "title": "7 Benefits of Keeping Snake Plants In Your Home | Health benefits of Snake Plant | Leaf town",
+                "url": "https://youtube.com/watch?v=sw2BqZ33HRA",
+                "duration": "5:27",
+                "thumbnail": "https://i.ytimg.com/vi/sw2BqZ33HRA/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Neem | Neem Leaves Benefits | Benefits of Neem Leaves",
+                "url": "https://youtube.com/watch?v=8uYqg8VwKgU",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/8uYqg8VwKgU/hq720.jpg"
+            },
+            {
+                "title": "14 Health Benefits of NEEM : Discover Natures Healing Secrets",
+                "url": "https://youtube.com/watch?v=wziS1U91trQ",
+                "duration": "9:45",
+                "thumbnail": "https://i.ytimg.com/vi/wziS1U91trQ/hq720.jpg"
+            },
+            {
+                "title": "11 Remarkable Stinging Nettle Benefits For Hair, Body, Skin & Gout",
+                "url": "https://youtube.com/watch?v=ZjXXvKizC8A",
+                "duration": "5:50",
+                "thumbnail": "https://i.ytimg.com/vi/ZjXXvKizC8A/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of NEEM",
+                "url": "https://youtube.com/watch?v=DsoPxPqmCQg",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/DsoPxPqmCQg/hq720.jpg"
+            },
+            {
+                "title": "7 Great Snake Plant Benefits Proven In Research & Studies",
+                "url": "https://youtube.com/watch?v=onCumAiHPwg",
+                "duration": "3:06",
+                "thumbnail": "https://i.ytimg.com/vi/onCumAiHPwg/hq720.jpg"
+            },
+            {
+                "title": "Plantain Uses and Benefits",
+                "url": "https://youtube.com/watch?v=-97NXHyxRjA",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/-97NXHyxRjA/hq720.jpg"
+            },
+            {
+                "title": "6 Health Benefits of Nettle | Benefits of Stinging Nettle Root to Know",
+                "url": "https://youtube.com/watch?v=A4fzFvmQWZM",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/A4fzFvmQWZM/hq720.jpg"
+            },
+            {
+                "title": "The Amazing Health Benefits Of Stinging Nettle Leaf | The Frugal Chef",
+                "url": "https://youtube.com/watch?v=mRFZk-bPrHQ",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/mRFZk-bPrHQ/hq720.jpg"
+            },
+            {
+                "title": "Top 5 Health Benefits Of Coriander Leaves",
+                "url": "https://youtube.com/watch?v=GRFzJwtZNWM",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/GRFzJwtZNWM/hq720.jpg"
+            },
+            {
+                "title": "HEALTH BENEFITS OF NEEM",
+                "url": "https://youtube.com/watch?v=ZCq0ZVRWCPQ",
+                "duration": "11:07",
+                "thumbnail": "https://i.ytimg.com/vi/ZCq0ZVRWCPQ/hq720.jpg"
+            },
+            {
+                "title": "Top 5 Health Benefits of Bhumi Amla (Phyllanthus niruri)",
+                "url": "https://youtube.com/watch?v=UYaM_w_jNxs",
+                "duration": "1:05",
+                "thumbnail": "https://i.ytimg.com/vi/UYaM_w_jNxs/hq720.jpg"
+            },
+            {
+                "title": "Top 10 Health Benefits of Pandan Leaves - Healthy Wealthy Tips",
+                "url": "https://youtube.com/watch?v=5wL-KBPcGXk",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/5wL-KBPcGXk/hq720.jpg"
+            },
+            {
+                "title": "Walnut Tree: Food, Medicine, and Ancient Healing Power",
+                "url": "https://youtube.com/watch?v=a_7RCaWO568",
+                "duration": "11:14",
+                "thumbnail": "https://i.ytimg.com/vi/a_7RCaWO568/hq720.jpg"
+            },
+            {
+                "title": "5 Benefits of Quinoa (Backed by Science)",
+                "url": "https://youtube.com/watch?v=7kJrJt-NJhw",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/7kJrJt-NJhw/hq720.jpg"
+            },
+            {
+                "title": "Herbal Plant  Secret Health Benefits of Phyllanthus Niruni",
+                "url": "https://youtube.com/watch?v=nPIq-h9MtA4",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/nPIq-h9MtA4/hq720.jpg"
+            },
+            {
+                "title": "Noni Leaf Benefits | Living Off Grid",
+                "url": "https://youtube.com/watch?v=r4xbCwJn9N4",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/r4xbCwJn9N4/hq720.jpg"
+            },
+            {
+                "title": "News Alert  ඇමරිකාවෙන් ලැබුණු නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත් කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=QoxbefYPMS4",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/QoxbefYPMS4/hq720.jpg"
+            },
+            {
+                "title": "විශේෂ හාස්කම් දේවමෙහෙය / SPECIAL HEALING SERVICE 2026.06.04",
+                "url": "https://youtube.com/watch?v=AAAMrPYx1VI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/AAAMrPYx1VI/hq720.jpg"
+            },
+            {
+                "title": "🔴 LIVE | Siyatha News | 06.00 PM | 04 - 06 - 2026",
+                "url": "https://youtube.com/watch?v=zzBffaNIqE0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/zzBffaNIqE0/hq720.jpg"
+            },
+            {
+                "title": "හෙණයක් නැතුව ඇගේ ලේ වඩවන ලංකාවේ සුපිරිම ආහාර 20 මෙන්න! ඔබත් අදම කන්න",
+                "url": "https://youtube.com/watch?v=A1zHQz1RKIs",
+                "duration": "8:51",
+                "thumbnail": "https://i.ytimg.com/vi/A1zHQz1RKIs/hq720.jpg"
+            },
+            {
+                "title": "Grade 4 | පරිසරය | ශාක සහ සතුන් අතර ඇති සම්බන්ධතා",
+                "url": "https://youtube.com/watch?v=mmHuVAJH9Oo",
+                "duration": "8:39",
+                "thumbnail": "https://i.ytimg.com/vi/mmHuVAJH9Oo/hq720.jpg"
+            },
+            {
+                "title": "The Power of Neem Leaves - Revered Ayurvedic Herb with Highly Valued Benefits",
+                "url": "https://youtube.com/watch?v=MNEKFU5zPw0",
+                "duration": "11:20",
+                "thumbnail": "https://i.ytimg.com/vi/MNEKFU5zPw0/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Neem Plant - Professional Supplement Review | National Nutrition Canada",
+                "url": "https://youtube.com/watch?v=gLreLekI91Q",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/gLreLekI91Q/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of NEEM",
+                "url": "https://youtube.com/watch?v=xE32QRkzH70",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/xE32QRkzH70/frame0.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "1595",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/cStRdzb8/plant00443-01595.jpg"
-    },
-    {
-      "image_id": "965",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/qLMzFLvP/plant00443-00965.jpg"
-    },
-    {
-      "image_id": "1596",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/Y4wvZXkH/plant00443-01596.jpg"
-    },
-    {
-      "image_id": "1597",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/G430xWQ9/plant00443-01597.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

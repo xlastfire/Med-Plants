@@ -1,130 +1,885 @@
 {
-  "scientificName": "Spathodea campanulata P.Beauv.",
-  "synonyms": [
-    "Bignonia tulipifera Schum.",
-    "Spathodea danckelmaniana Büttner",
-    "Spathodea nilotica f. bryanii O.Deg. & I.Deg.",
-    "Spathodea tulipifera (Schum.) G.Don"
-  ],
-  "familyName": "BIGNONIACEAE",
-  "englishNames": [
-    "African Tulip Tree",
-    "Fountaintree"
-  ],
-  "sinhalaName": "Kuda illa (කුඩා ඊල්ල )",
-  "description": "පරිණත වූ විට විශාල වෘක්ෂයන් වන අතර ඉහළ කොටසින් පුළුල් ලෙස අතු විහිදේ; පොත්ත සිනිඳු වන අතර ලා දුඹුරු-අළු පැහැතිය. පත්‍ර ඒක-පක්ෂාකාර (odd-pinnate) වේ; පත්‍රිකා 13 - 19 ක් පවතින අතර ඒවා ඉලිප්සාකාර-දීර්ඝ (elliptic-oblong) සිට ප්‍රතිඩිම්බ (obovate) හැඩයක් ගනී, ප්‍රමාණය 5 - 9 X 3 - 4.5 සෙ.මී. වේ, පාදය වටකුරුය, අග්‍රය උල් වූ (acuminate) වේ, දාරය සම්පූර්ණ (entire) වේ, උඩ කොටස රෝම රහිත (glabrous) වන අතර යටි කොටස වඩාත් ලා පැහැතිය, පත්‍ර වෘන්තය සහ අක්ෂය මඳක් රෝම සහිත (sparsely pubescent) වේ. පුෂ්ප මංජරිය ඝන පුෂ්ප දණ්ඩක් මත පිහිටයි; පත්‍ර වෘන්තයේ පාමුල උපපත්‍රිකාවක් (bract) ඇත; බාහිර දල කෝෂය (calyx) රන්වන්-දුඹුරු පැහැති වන අතර මෘදු රෝම සහිත (velutinous) වේ, මල් කිරීටය (corolla) පිටතින් දීප්තිමත් රතු-තැඹිලි පැහැතිය; ඇතුළත නාලය කහ-තැඹිලි පැහැති වන අතර ඇතුළත රතු පැහැති තිත් සහ ඉරි කැපී පෙනේ.",
-  "treatments": [
-    {
-      "treatment": "Parasitic Skin Infections",
-      "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Spathodea campanulata P.Beauv.",
+    "synonyms": [
+        "Bignonia tulipifera Schum.",
+        "Spathodea danckelmaniana Büttner",
+        "Spathodea nilotica f. bryanii O.Deg. & I.Deg.",
+        "Spathodea tulipifera (Schum.) G.Don"
+    ],
+    "familyName": "BIGNONIACEAE",
+    "englishNames": [
+        "African Tulip Tree",
+        "Fountaintree"
+    ],
+    "sinhalaName": "Kuda illa (කුඩා ඊල්ල )",
+    "description": "පරිණත වූ විට විශාල වෘක්ෂයන් වන අතර ඉහළ කොටසින් පුළුල් ලෙස අතු විහිදේ; පොත්ත සිනිඳු වන අතර ලා දුඹුරු-අළු පැහැතිය. පත්‍ර ඒක-පක්ෂාකාර (odd-pinnate) වේ; පත්‍රිකා 13 - 19 ක් පවතින අතර ඒවා ඉලිප්සාකාර-දීර්ඝ (elliptic-oblong) සිට ප්‍රතිඩිම්බ (obovate) හැඩයක් ගනී, ප්‍රමාණය 5 - 9 X 3 - 4.5 සෙ.මී. වේ, පාදය වටකුරුය, අග්‍රය උල් වූ (acuminate) වේ, දාරය සම්පූර්ණ (entire) වේ, උඩ කොටස රෝම රහිත (glabrous) වන අතර යටි කොටස වඩාත් ලා පැහැතිය, පත්‍ර වෘන්තය සහ අක්ෂය මඳක් රෝම සහිත (sparsely pubescent) වේ. පුෂ්ප මංජරිය ඝන පුෂ්ප දණ්ඩක් මත පිහිටයි; පත්‍ර වෘන්තයේ පාමුල උපපත්‍රිකාවක් (bract) ඇත; බාහිර දල කෝෂය (calyx) රන්වන්-දුඹුරු පැහැති වන අතර මෘදු රෝම සහිත (velutinous) වේ, මල් කිරීටය (corolla) පිටතින් දීප්තිමත් රතු-තැඹිලි පැහැතිය; ඇතුළත නාලය කහ-තැඹිලි පැහැති වන අතර ඇතුළත රතු පැහැති තිත් සහ ඉරි කැපී පෙනේ.",
+    "treatments": [
+        {
+            "treatment": "Parasitic Skin Infections",
+            "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Venomous Bites/Stings",
+            "sinhala": "විෂ දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Nasopharyngeal Disorders",
+            "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Bud wood"
+    ],
+    "images": [
+        {
+            "image_id": "1958",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/XZymzSF2/plant00247-01958.jpg"
+        },
+        {
+            "image_id": "1959",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/B29QcB02/plant00247-01959.jpg"
+        },
+        {
+            "image_id": "1960",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/q3GGrGKg/plant00247-01960.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඉල්ල, ඊල්ල, හකුරුඉල්ල, හකුරුවිල්ල, හැකරිල්ල | උණ රෝග, අක්මා රෝග ඇතුළු රෝග රැසකට ගුණයි | ඔසු හදුනාගමු",
+                "url": "https://youtube.com/watch?v=Zc99AGSh1o4",
+                "duration": "1:03",
+                "thumbnail": "https://i.ytimg.com/vi/Zc99AGSh1o4/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා, උණ, කුඩා දරුවන්ගේ රත දෝෂ සදහාද බෙහෙත් ලෙස ගන්න වටිනා තරමක් දුර්ලභ ඉල්ල | ඉල්ල (Illa)",
+                "url": "https://youtube.com/watch?v=dPBDkg406ec",
+                "duration": "10:23",
+                "thumbnail": "https://i.ytimg.com/vi/dPBDkg406ec/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රපාතයට වැටුණු බට්ටා ලොරිය කුඩේ කුඩු - කිවුල්ආර මහ රෑ කැලඹූ දරුණු අනතුර",
+                "url": "https://youtube.com/watch?v=bETDNAJam_4",
+                "duration": "6:00",
+                "thumbnail": "https://i.ytimg.com/vi/bETDNAJam_4/hq720.jpg"
+            },
+            {
+                "title": "කුඔුක්මුල්ල කුඩා ගමිමානයක් තුල පුදබිමක් සෝයා _Kuokmulla is a sacred place in a small village",
+                "url": "https://youtube.com/watch?v=99C4mGzH5yU",
+                "duration": "12:59",
+                "thumbnail": "https://i.ytimg.com/vi/99C4mGzH5yU/hqdefault.jpg"
+            },
+            {
+                "title": "සලෙළුන්ට කය පුදා සිතේ කිලිටුත් නැතිව දිවි ගෙවූ මිනිස් දියණිය  - Hiru News",
+                "url": "https://youtube.com/watch?v=EMGIOQUN8BE",
+                "duration": "0:54",
+                "thumbnail": "https://i.ytimg.com/vi/EMGIOQUN8BE/hq720.jpg"
+            },
+            {
+                "title": "යල-මහ කන්න වල ඇත්ත කතාව",
+                "url": "https://youtube.com/watch?v=os932m1g5nI",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/os932m1g5nI/hq720.jpg"
+            },
+            {
+                "title": "පැති කුදය හෙවත් කොදු ඇට පෙල ඇදවීමේ රෝගයට නිශ්චිත ප්‍රතිකාර - Ayurvedic treatments for Scoliosis",
+                "url": "https://youtube.com/watch?v=kX95s5riXWw",
+                "duration": "15:48",
+                "thumbnail": "https://i.ytimg.com/vi/kX95s5riXWw/hq720.jpg"
+            },
+            {
+                "title": "ලාවුළුවලින් පිට්ටූ කමුද? KAMUDA ?APITH LAAULU PITTU.#isiwara #srilanka#",
+                "url": "https://youtube.com/watch?v=rki_Au6jW1c",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/rki_Au6jW1c/hqdefault.jpg"
+            },
+            {
+                "title": "කොදු අැට පෙළ සියලු රෝග සුවපත් කරන වෙෙද්‍යවරිය  (ඔබ විශ්මයට පත්වන නව වෙෙද්‍ය ක්‍රමයක්)",
+                "url": "https://youtube.com/watch?v=hZKppmnk_VI",
+                "duration": "35:42",
+                "thumbnail": "https://i.ytimg.com/vi/hZKppmnk_VI/hq720.jpg"
+            },
+            {
+                "title": "කූඩැල්ලන්ට බය උන කාලේ ඉවරයි මෙන්න විසදුම thuru tv",
+                "url": "https://youtube.com/watch?v=f1fCbCMpvp8",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/f1fCbCMpvp8/hq720.jpg"
+            },
+            {
+                "title": "කොටකෙතන උමතු කාන්තා ඝාතකයාව ඇල්ලූ හැටි | බුලත් කොලෙන් ඇල්ලූ ඝාතනය | kotakethana murder sinhala",
+                "url": "https://youtube.com/watch?v=b5RPCdlAckM",
+                "duration": "35:27",
+                "thumbnail": "https://i.ytimg.com/vi/b5RPCdlAckM/hq720.jpg"
+            },
+            {
+                "title": "කුඩා ගල් අමුණ | Kuda Gal Amuna Bungalow | Review | Yala Block 5 | Sri Lanka",
+                "url": "https://youtube.com/watch?v=-IZPaZf_dNQ",
+                "duration": "10:52",
+                "thumbnail": "https://i.ytimg.com/vi/-IZPaZf_dNQ/hq720.jpg"
+            },
+            {
+                "title": "ඔයාලගේ ගෙදර බිත්ති මේ වගේද පොඩි ලමයි ඉන්නකොට ඔහොමයි බිත්තිවල ඇදපු කුරුටු බලි පහසුවෙන් ඉවත් කරමු",
+                "url": "https://youtube.com/watch?v=ReQ7wen4q-g",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/ReQ7wen4q-g/hqdefault.jpg"
+            },
+            {
+                "title": "කුඩා ඉඩක කුඩා ගසක ලොකු පලදාවක් ගන්න පුලුවන් විදිහේ හොද දෙල් ගසක් හදාගන්නේ මෙහෙමයි.",
+                "url": "https://youtube.com/watch?v=GUiwDH3bjr8",
+                "duration": "8:10",
+                "thumbnail": "https://i.ytimg.com/vi/GUiwDH3bjr8/hqdefault.jpg"
+            },
+            {
+                "title": "Without the Back Pain!   පුටුව ලෙඩක්ද 🦶 කකුල් දෙකට දිව්‍යලෝක සැප දෙන රහස!",
+                "url": "https://youtube.com/watch?v=i3XyBD2TnxQ",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/i3XyBD2TnxQ/hq720.jpg"
+            },
+            {
+                "title": "''කෲඩියා සෙලනිකා'' නිසා යළි කරළියට ආ දේවානි - Hiru News",
+                "url": "https://youtube.com/watch?v=nWeHgKWG_ts",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/nWeHgKWG_ts/hq720.jpg"
+            },
+            {
+                "title": "බඹරු ප්‍ර#රයකට ලක් වී පුද්ගලයෙකුට ජීවිතය අහිමි වෙයි",
+                "url": "https://youtube.com/watch?v=7_Z7FhB6uZI",
+                "duration": "1:56",
+                "thumbnail": "https://i.ytimg.com/vi/7_Z7FhB6uZI/hq720.jpg"
+            },
+            {
+                "title": "වෙසක් පොහොය දා ඇඟකිළිපොළා ගිය ගුටි කෙළිය - එළිබැස්ස හෙල්මට් චණ්ඩි - Ada Derana",
+                "url": "https://youtube.com/watch?v=cRhlj3FaG5E",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/cRhlj3FaG5E/hq720.jpg"
+            },
+            {
+                "title": "මීගොඩ දන්සල අසල සිදුවු අනතුරේ අලුත්ම තොරතුරු",
+                "url": "https://youtube.com/watch?v=52Cn3J0b0wY",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/52Cn3J0b0wY/hqdefault.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "කෙහෙළිය ගෙදර යැව්වත් තවමත් ඉටු නොවූ දෙයක් වෛද්‍ය චමල් මතක් කරයි",
+                "url": "https://youtube.com/watch?v=BauFF14Vo6Y",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/BauFF14Vo6Y/hq720.jpg"
+            },
+            {
+                "title": "රට තුළ තිබෙන ඖෂධ ගැන හෙළිවූ දේ... \"කොයි මොහොතේ පුපුරයි ද දන්නෑ\"",
+                "url": "https://youtube.com/watch?v=nT4EcUvSjJY",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/nT4EcUvSjJY/hq720.jpg"
+            },
+            {
+                "title": "ලේ තුනී වෙන්න බෙහෙත් බොන ගමන් සුදුළූණු කන එක මාරාන්තිකයි! 🧄⚠️ | Aspirin & Garlic Danger #science",
+                "url": "https://youtube.com/watch?v=f36FuttjYTg",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/f36FuttjYTg/hq720.jpg"
+            },
+            {
+                "title": "කොඳු ඇට පෙළ ආශ්‍රිතව ඇතිවිය හැකි රෝග සහ ආයුර්වේද ප්‍රතිකාර ක්‍රම  | Adaraneeya Jeewithaya",
+                "url": "https://youtube.com/watch?v=bEa3U_54bF0",
+                "duration": "25:20",
+                "thumbnail": "https://i.ytimg.com/vi/bEa3U_54bF0/hq720.jpg"
+            },
+            {
+                "title": "අලුහම් කියලා හිතන් ඉන්න ලප ලාදුරු වෙන්න පුලුවන් / This could be leprosy #leprosy #ayurveda",
+                "url": "https://youtube.com/watch?v=xdFydx7H0wM",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/xdFydx7H0wM/hq720.jpg"
+            },
+            {
+                "title": "ඔබ දන්නේ නැති! ගොඩක් ලෙඩවල මුලය තියෙන තැන | The Root Of Many Diseases That You Don't Know About",
+                "url": "https://youtube.com/watch?v=tw9-ti2j9mQ",
+                "duration": "10:00",
+                "thumbnail": "https://i.ytimg.com/vi/tw9-ti2j9mQ/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා නසන පෝෂක ඖෂධයක් කොළඹ සරසවියෙන්...\"වසර 17ක සිදුකළ පර්යේෂණයක ප්‍රතිපලයක්\"",
+                "url": "https://youtube.com/watch?v=H3mM9dZdXBc",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/H3mM9dZdXBc/hq720.jpg"
+            },
+            {
+                "title": "මේ කොල වල මෙතරම් ගුණයක් | පේර කොල වල ගුණ",
+                "url": "https://youtube.com/watch?v=WCils46rYe8",
+                "duration": "7:18",
+                "thumbnail": "https://i.ytimg.com/vi/WCils46rYe8/hqdefault.jpg"
+            },
+            {
+                "title": "පඬුකරඳ ගස මිනිත්තු 20න් ඉස්සූ හැටි මුල්වරට එළියට...\"ටිකක් අඬු තියෙන එකක් ආවා ගලවගත්තා ගියා\"",
+                "url": "https://youtube.com/watch?v=cnhF_P1TCFA",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/cnhF_P1TCFA/hq720.jpg"
+            },
+            {
+                "title": "කාලිගේ අනාවැකිය.. | මුතුගල මහ ඇමති පුටුවට..?  |Dinesh Muthugala | Episode 455",
+                "url": "https://youtube.com/watch?v=2GNiuSoLLl8",
+                "duration": "12:24",
+                "thumbnail": "https://i.ytimg.com/vi/2GNiuSoLLl8/hq720.jpg"
+            },
+            {
+                "title": "කොදු ඇට පෙළ ආශ්‍රිත රෝග සදහා හෝමියෝපතිකාර",
+                "url": "https://youtube.com/watch?v=Yhm3pFQBsww",
+                "duration": "14:01",
+                "thumbnail": "https://i.ytimg.com/vi/Yhm3pFQBsww/hqdefault.jpg"
+            },
+            {
+                "title": "එක වේලක් කෑවොත් දවසම ඉන්න පුළුවන් එදා යෝධ බල යෝධ ශක්තිය දුන් අපේ හෙළ ආහාර,කුරහන් තලප සමඟ කොල්ලු ආනම",
+                "url": "https://youtube.com/watch?v=Nur4DPGjTaY",
+                "duration": "7:12",
+                "thumbnail": "https://i.ytimg.com/vi/Nur4DPGjTaY/hq720.jpg"
+            },
+            {
+                "title": "මෙච්චරකල් වහද කෑවෙ? උයන්න හොදම ඇතිලිය",
+                "url": "https://youtube.com/watch?v=63VY8drvcNQ",
+                "duration": "11:45",
+                "thumbnail": "https://i.ytimg.com/vi/63VY8drvcNQ/hqdefault.jpg"
+            },
+            {
+                "title": "කොදු ඇට පෙළ සියලු රෝග සුවපත් කරන වෙෙද්‍යවරිය - ඔබේ අතේ මේ වගේ තියෙන ලක්ෂණ නොසලකා ඉන්න එපා!",
+                "url": "https://youtube.com/watch?v=4_26vT7BKLw",
+                "duration": "25:26",
+                "thumbnail": "https://i.ytimg.com/vi/4_26vT7BKLw/hq720.jpg"
+            },
+            {
+                "title": "මිදුලේ හැදෙන මේ පැලේ මෙහෙම ගුණයක්",
+                "url": "https://youtube.com/watch?v=yj6N5p5Mz28",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/yj6N5p5Mz28/hqdefault.jpg"
+            },
+            {
+                "title": "⚠️ බෙල්ල හෝ කිහිල්ල කළු වෙනවාද? #ayurveda #sinhala",
+                "url": "https://youtube.com/watch?v=et32UVeanZk",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/et32UVeanZk/hq720.jpg"
+            },
+            {
+                "title": "ස්වසන රෝග රැසකට ගුණ දෙන එළබටු #nature #health #tips #healthylifestyle #viral #shortvideo",
+                "url": "https://youtube.com/watch?v=bgdiOKU6Wkw",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/bgdiOKU6Wkw/hq720_2.jpg"
+            },
+            {
+                "title": "දුර්ලභ - වටිනා \"කළු කොහිල\" / Black ( lasia spinosa ) Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=Q5QIdp0dUVk",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/Q5QIdp0dUVk/hq720.jpg"
+            },
+            {
+                "title": "විෂබීජ දැන් හැමතැනම, මේ වැරදිනම් කරන්න එපා | Sinhala | Dr. Iranga | SLDOC",
+                "url": "https://youtube.com/watch?v=C736szj7Yc8",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/C736szj7Yc8/hq720_2.jpg"
+            },
+            {
+                "title": "කෙහෙළිය බාල බෙහෙත් ගෙනාවේ විදලා බලලා නෙමෙයිනේ",
+                "url": "https://youtube.com/watch?v=FmWbrATifv4",
+                "duration": "6:08",
+                "thumbnail": "https://i.ytimg.com/vi/FmWbrATifv4/hq720.jpg"
+            },
+            {
+                "title": "චිකුන්ගුන්යා වැලඳුනොත් භාවිතයට හොඳ නැති ඖෂධ",
+                "url": "https://youtube.com/watch?v=68uGU7T6HOs",
+                "duration": "0:59",
+                "thumbnail": "https://i.ytimg.com/vi/68uGU7T6HOs/hq720.jpg"
+            },
+            {
+                "title": "කෝටි 58ක ඖෂධ කුණු කූඩෙට | තවත් මිලියන ගාණක ඖෂධ භාවිතා කරන්න බැරි මට්ටමක",
+                "url": "https://youtube.com/watch?v=_FaVFxkQF4s",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/_FaVFxkQF4s/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා රෝගියෙකුට පිළිකා ඖෂධ දීලා - රජයේ ඖෂධවේදීන්ගේ සංගමයෙන් දැනුවත් කිරීමක්",
+                "url": "https://youtube.com/watch?v=_GXyUGH_X_0",
+                "duration": "12:57",
+                "thumbnail": "https://i.ytimg.com/vi/_GXyUGH_X_0/hq720.jpg"
+            },
+            {
+                "title": "කොඳු ඇට පෙළ ආබාධ තියෙන අය වෙනුවෙන් - 01 කොටස",
+                "url": "https://youtube.com/watch?v=co2tdDEGX40",
+                "duration": "9:56",
+                "thumbnail": "https://i.ytimg.com/vi/co2tdDEGX40/hq720.jpg"
+            },
+            {
+                "title": "සමේ රෝග සුව කරන්න ගෙදරක තිබිය යුතුම ඔසුවක් | lewerella | Ceylon Agri | Episode 222",
+                "url": "https://youtube.com/watch?v=O7JT0KO8GA0",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/O7JT0KO8GA0/hq720.jpg"
+            },
+            {
+                "title": "කළුනික 🔴 Litsea saligna (Nees) N.P.Balakr.",
+                "url": "https://youtube.com/watch?v=WOBz2Fao8uI",
+                "duration": "11:11",
+                "thumbnail": "https://i.ytimg.com/vi/WOBz2Fao8uI/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "ඉදිමීම ගැන ඔබ නොදත් කරුණු #ayurveda #ayurvedic #swellingrelief #viral #viralvideo #viralvideos #tips",
+                "url": "https://youtube.com/watch?v=mDqxGYP5BLQ",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/mDqxGYP5BLQ/hq720_2.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 6ක් | Health Benefits Of Butterfly Pea Tea",
+                "url": "https://youtube.com/watch?v=lwZGAN8NJaM",
+                "duration": "9:22",
+                "thumbnail": "https://i.ytimg.com/vi/lwZGAN8NJaM/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Koththamalli (Coriander). Ayurvedic and medicinal value of Coriander.",
+                "url": "https://youtube.com/watch?v=RBZc65_lO5U",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/RBZc65_lO5U/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits Of Cilantro You Should Know! | Health Benefits Of Cilantro",
+                "url": "https://youtube.com/watch?v=jlaelYqV94o",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/jlaelYqV94o/hq720.jpg"
+            },
+            {
+                "title": "Bitter Kola: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=a4m82Pg3ma0",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/a4m82Pg3ma0/hq720.jpg"
+            },
+            {
+                "title": "කොමඩු ඇට වල තියෙන ගුණ ඇසුවොත් ඔබ පුදුම වේවි - Health Benefits Of Watermelon Seeds",
+                "url": "https://youtube.com/watch?v=ogDcD-OsY64",
+                "duration": "10:41",
+                "thumbnail": "https://i.ytimg.com/vi/ogDcD-OsY64/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "ඉන්නල කන අයට ලැබෙන පුදුම හිතෙන දේවල් මෙන්න : Benefits of coleus tubers",
+                "url": "https://youtube.com/watch?v=J9ou1pwsZpc",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/J9ou1pwsZpc/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka  - නිල් කටරොළු ගුණ | Benefits of Butterfly Pea | Health Benefits of Blue Clitoria Ternate",
+                "url": "https://youtube.com/watch?v=5-mHZQeAyYg",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/5-mHZQeAyYg/hq720.jpg"
+            },
+            {
+                "title": "Welpenela Benefits : පිරිමි ගෙදරම තියාගන්න ගහපු වැල් පෙනෙල ගැටේ මෙන්න",
+                "url": "https://youtube.com/watch?v=gjqX33rzqng",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/gjqX33rzqng/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Sida Acuta",
+                "url": "https://youtube.com/watch?v=CZkz7InijtI",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/CZkz7InijtI/hq720.jpg"
+            },
+            {
+                "title": "බෙලි වල විශ්මිත ගුණය.  Value of Bael fruit",
+                "url": "https://youtube.com/watch?v=M3NTXXjHWWE",
+                "duration": "7:29",
+                "thumbnail": "https://i.ytimg.com/vi/M3NTXXjHWWE/hq720.jpg"
+            },
+            {
+                "title": "Top 10 Health Benefits of Bitter Kola - Healthy Wealthy Tips",
+                "url": "https://youtube.com/watch?v=4HFqaN9J_cA",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/4HFqaN9J_cA/hq720.jpg"
+            },
+            {
+                "title": "වට්ටක්කා ඇට කෑවම වෙන දේ මෙන්න : Pumpkin Seeds Benefits",
+                "url": "https://youtube.com/watch?v=I9uPO01zVzE",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/I9uPO01zVzE/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "12 Amazing Health Benefits of Bitter Kola You Need to Know",
+                "url": "https://youtube.com/watch?v=CIX5OeewU54",
+                "duration": "9:42",
+                "thumbnail": "https://i.ytimg.com/vi/CIX5OeewU54/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "හැදුණොත් සීනි ලේසි නෑනි. ඔක්කොටම කළින් වෛද්‍යවරියගේ මේ කතාව බලන්න.",
+                "url": "https://youtube.com/watch?v=Vej58Ed6glI",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/Vej58Ed6glI/hq720.jpg"
+            },
+            {
+                "title": "බුලත් කොළේ අණ්වීක්ෂයෙන් දැකලා තියෙනවද.. 🍃😱  #travel #youtubegrowth #trending #viral #shorts #plants",
+                "url": "https://youtube.com/watch?v=MJtutGchJtw",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/MJtutGchJtw/hq720_2.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත - part 2🙏",
+                "url": "https://youtube.com/watch?v=IdQIkJpM5Ns",
+                "duration": "25:31",
+                "thumbnail": "https://i.ytimg.com/vi/IdQIkJpM5Ns/hq720.jpg"
+            },
+            {
+                "title": "දධ කුෂ්ඨ අලුහම් සුව කරන ඇත්තෝර |eththora | aththora | cassia alata",
+                "url": "https://youtube.com/watch?v=haoEjG0IDDk",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/haoEjG0IDDk/hqdefault.jpg"
+            },
+            {
+                "title": "උදර පිළිකා, උණ රෝග, අක්මා රෝග ඇතුළු රෝග රැසකට ගුණ දෙන වටිනා ඔසුව | ඉල්ල | වැඩි විස්තර ලගදීම (Illa)",
+                "url": "https://youtube.com/watch?v=0nHwE89YHaA",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/0nHwE89YHaA/hq720.jpg"
+            },
+            {
+                "title": "මේ කොළ වර්ග වලින් කැද හදලා බොනවා නම් ඇස් පෙනීම වැඩි වෙනවා! - කකුල් දෙකට පෑගුණත් ඇති ඒ තරම් ගුණයි",
+                "url": "https://youtube.com/watch?v=nsCwWSuwfyw",
+                "duration": "19:04",
+                "thumbnail": "https://i.ytimg.com/vi/nsCwWSuwfyw/hq720.jpg"
+            },
+            {
+                "title": "කිසිම ඖෂධයක් නැතිව රෝග මූලය සොයා නිල වෙදකමෙන් ඕනම ලෙඩක් සුව කරන වෙද මහත්තයා",
+                "url": "https://youtube.com/watch?v=1kJ-m01kByc",
+                "duration": "26:04",
+                "thumbnail": "https://i.ytimg.com/vi/1kJ-m01kByc/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණ-දද,අළුහම්,හිස්සොරි සහ තවත් දේවල් - උපුටගත්තකි.",
+                "url": "https://youtube.com/watch?v=RBB5_oyLdOc",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/RBB5_oyLdOc/hqdefault.jpg"
+            },
+            {
+                "title": "ඕනෑම කටුවක් විනාඩි කිහිපයෙන් නිකන්ම එලියට එනවා. ශල්‍යකමයක් නැතුව කටුව එලියට ගන්න ගැමි වෙදකමේ රහසක්.",
+                "url": "https://youtube.com/watch?v=nhp8_Hld0y4",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/nhp8_Hld0y4/hq720.jpg"
+            },
+            {
+                "title": "දෙවියෝ දීපු පානයක් මේක නම් | Bitter Gourd Juice Recipe | Natural Detox & Blood Sugar Control Drink",
+                "url": "https://youtube.com/watch?v=x1SGYyxw2GY",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/x1SGYyxw2GY/hqdefault.jpg"
+            },
+            {
+                "title": "දධ කුෂ්ඨ සුව කරන ඇත්තෝර | Eththora | Aththora | Ratathora | Cassia Alata | Candle Bush | Cimaiyakati",
+                "url": "https://youtube.com/watch?v=ordD9ufMQpY",
+                "duration": "3:56",
+                "thumbnail": "https://i.ytimg.com/vi/ordD9ufMQpY/hq720.jpg"
+            },
+            {
+                "title": "කුද්දටි ඇතිවීම පිළිකාවේ ලක්ෂණයක් විය හැකියි #health #ayurved #ayurveda #cancer #ayurvedatreatments",
+                "url": "https://youtube.com/watch?v=34uoA5m-55w",
+                "duration": "7:54",
+                "thumbnail": "https://i.ytimg.com/vi/34uoA5m-55w/hq720.jpg"
+            },
+            {
+                "title": "Trip යනකොට කරදරයක් වන කූඩැල්ලෝ නිවැරදිව ඉවත් කරගන්නේ මෙහෙමයි, මේ වැරදිනම් කරන්නම එපා",
+                "url": "https://youtube.com/watch?v=wDelkzH3XKg",
+                "duration": "15:50",
+                "thumbnail": "https://i.ytimg.com/vi/wDelkzH3XKg/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත🙏",
+                "url": "https://youtube.com/watch?v=qmaacjGSVU4",
+                "duration": "30:21",
+                "thumbnail": "https://i.ytimg.com/vi/qmaacjGSVU4/hq720.jpg"
+            },
+            {
+                "title": "Cassia Alata | සමේ රෝග නසන \"ඇත්තෝර\" | Indika Koralage",
+                "url": "https://youtube.com/watch?v=uDPs-mNlCFc",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/uDPs-mNlCFc/hq720.jpg"
+            },
+            {
+                "title": "දැනට සොයාගෙන ඇති ලොව හොදම පිළිකා ඖෂධය. The best cancer drug in the world. \"Keytruda\"",
+                "url": "https://youtube.com/watch?v=9-877WOnIj0",
+                "duration": "9:23",
+                "thumbnail": "https://i.ytimg.com/vi/9-877WOnIj0/hq720.jpg"
+            },
+            {
+                "title": "පෑගුවත් ඇස් පෙනීම ලැබෙන පැලේ | උඳුපියලිය කියන්නේ මොනවද",
+                "url": "https://youtube.com/watch?v=Ctzw0aRdNtM",
+                "duration": "9:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ctzw0aRdNtM/hqdefault.jpg"
+            },
+            {
+                "title": "කුප්පමේනියා කෑවොත් ජීවිතය අනතුරේ!! Kuppameniya Can Be DEADLY!",
+                "url": "https://youtube.com/watch?v=5DKZwvT-gqw",
+                "duration": "1:56",
+                "thumbnail": "https://i.ytimg.com/vi/5DKZwvT-gqw/hq720.jpg"
+            },
+            {
+                "title": "කහ වල ඇති ඔෳෂධිය ගුණ 15ක්|Turmeric15 medicinal properties of",
+                "url": "https://youtube.com/watch?v=_eRkyprVr4o",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/_eRkyprVr4o/hqdefault.jpg"
+            },
+            {
+                "title": "වෛරස් රෝග වලදී අඩුවෙන ප්ලේට්ලට් මට්ටම වේගයෙන් ඉහල නන්වන ආහාර 10ක් | Blood platelet count increasing",
+                "url": "https://youtube.com/watch?v=aQqpg8W1_oM",
+                "duration": "8:32",
+                "thumbnail": "https://i.ytimg.com/vi/aQqpg8W1_oM/hq720.jpg"
+            },
+            {
+                "title": "බෙලි කෑවොත් වෙන දේ දැනගන්න : Benefits of Bael fruit",
+                "url": "https://youtube.com/watch?v=95C7jjLiwxA",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/95C7jjLiwxA/hq720.jpg"
+            },
+            {
+                "title": "uluhal guna-දියවැඩියාවට ගුණ දෙන උළුහාල්",
+                "url": "https://youtube.com/watch?v=o-yN-slEvbo",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/o-yN-slEvbo/hq720.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "තරබාරුව අඩු කරගන්න, දියවැඩියාව පාලනය ඇතුළු කොහිල වල ඇති විස්මිත ගුණ /Amazing Benefits of Kohila",
+                "url": "https://youtube.com/watch?v=SESSsCwUkCk",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/SESSsCwUkCk/hqdefault.jpg"
+            },
+            {
+                "title": "හිමොග්ලොබින් වැඩි කරන ආහාර",
+                "url": "https://youtube.com/watch?v=K1N1MASlHSM",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/K1N1MASlHSM/hqdefault.jpg"
+            },
+            {
+                "title": "හෙණයක් නැතුව ඇගේ ලේ වඩවන ලංකාවේ සුපිරිම ආහාර 20 මෙන්න! ඔබත් අදම කන්න",
+                "url": "https://youtube.com/watch?v=A1zHQz1RKIs",
+                "duration": "8:51",
+                "thumbnail": "https://i.ytimg.com/vi/A1zHQz1RKIs/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ලේ වඩවන ආහාර 20 ක් | රක්තහීනතාවය වලක්වන්න කන්න | Iron Rich Foods",
+                "url": "https://youtube.com/watch?v=Iwh34rqk7iA",
+                "duration": "16:24",
+                "thumbnail": "https://i.ytimg.com/vi/Iwh34rqk7iA/hq720.jpg"
+            },
+            {
+                "title": "උඳුපියලි කැඳ බිව්වම වෙන දේ මෙන්න : Benefits of Desmordium triflorum",
+                "url": "https://youtube.com/watch?v=_ElM_-P1pms",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/_ElM_-P1pms/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය ගුණ සහිත කුප්පමේනියා ගැන දැනගනිමු |kuppameniya| Acalypha Indica",
+                "url": "https://youtube.com/watch?v=fgliz181Bvg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/fgliz181Bvg/hqdefault.jpg"
+            },
+            {
+                "title": "Gotukola and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LcQ_lwSLdIA",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/LcQ_lwSLdIA/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු රෝගයේ මුල් ලක්ෂණ දහයක්👨‍🦽",
+                "url": "https://youtube.com/watch?v=p5ddY0AbmdI",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/p5ddY0AbmdI/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු වලට ගුණ කෑම මෙන්න/Best food for kidney health/#kidneyhealth @Mediupdater #healthykidneys",
+                "url": "https://youtube.com/watch?v=0HRfKGKP0ug",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/0HRfKGKP0ug/hq720.jpg"
+            },
+            {
+                "title": "කොමඩු ඇට කියන්නේ බෙහෙත් ගබඩාවක් විසි කරන්න එපා - මෙන්න ගුණ | Health Benefits Of Watermelon Seeds",
+                "url": "https://youtube.com/watch?v=bzqEL861Khs",
+                "duration": "10:40",
+                "thumbnail": "https://i.ytimg.com/vi/bzqEL861Khs/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "How to maintain impatiens 🌸🌼💮🌷🏵️#imapatiens #kudalu #kuudalu #howtogrow #garden #gardining #flowers",
+                "url": "https://youtube.com/watch?v=vumbdyO2NLQ",
+                "duration": "7:03",
+                "thumbnail": "https://i.ytimg.com/vi/vumbdyO2NLQ/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "සත්තුන්ගෙන් අපට ලැබෙන ප්‍රයෝජන  | 03 වන තේමාව  | 01 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=8tfTs8fo9pU",
+                "duration": "14:31",
+                "thumbnail": "https://i.ytimg.com/vi/8tfTs8fo9pU/hq720.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "Nutritional value of Kohila plant - කොහිල",
+                "url": "https://youtube.com/watch?v=B0V14qoVlek",
+                "duration": "6:30",
+                "thumbnail": "https://i.ytimg.com/vi/B0V14qoVlek/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "13 වන තේමාව | 06 වන පාඩම - ස්වභාවික එළි සහ කෘතිම එළි අඩු වැඩි කර ගන්නා ආකාර  | 01 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=nmuu3Rr-EiY",
+                "duration": "30:40",
+                "thumbnail": "https://i.ytimg.com/vi/nmuu3Rr-EiY/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "06 වන තේමාව | 04 වන පාඩම - හිරු එළියේ ප්‍රයෝජන | 01 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=xFQFOHSX984",
+                "duration": "12:20",
+                "thumbnail": "https://i.ytimg.com/vi/xFQFOHSX984/hq720.jpg"
+            },
+            {
+                "title": "Tissa Jananayake - Episode 50 | ශාක සහ කඩොලාන වල වැදගත්කම",
+                "url": "https://youtube.com/watch?v=o1r4WBRH-2A",
+                "duration": "36:50",
+                "thumbnail": "https://i.ytimg.com/vi/o1r4WBRH-2A/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වල විශ්මිත ගුණ. Ugurassa fruit.",
+                "url": "https://youtube.com/watch?v=aW2FO176HVU",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/aW2FO176HVU/hq720.jpg"
+            },
+            {
+                "title": "ඔයාගෙත් කූඩැල්ලො කාලා තියෙනවද? 😨🪱 | මෙයාලගෙ ප්‍රයෝජන මොනවද? 🤔 | #leech #facts #animals 💚🌱",
+                "url": "https://youtube.com/watch?v=0SWwQ4S6Nw8",
+                "duration": "8:09",
+                "thumbnail": "https://i.ytimg.com/vi/0SWwQ4S6Nw8/hq720.jpg"
+            },
+            {
+                "title": "ගසක් කඩා වැටී පෙරපාසල් ගොඩනැගිල්ලකට දැඩි හානි | Ada Derana",
+                "url": "https://youtube.com/watch?v=RLBrERonf80",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/RLBrERonf80/hq720.jpg"
+            },
+            {
+                "title": "කූඩැල්ලන් වගා කිරීමේ තාක්ෂණය - චීන ගොවිපලවල් මිලියන ගණනක් කූඩැල්ලන් ඇතිකරන විදිහ",
+                "url": "https://youtube.com/watch?v=GLxscEUSLgU",
+                "duration": "9:31",
+                "thumbnail": "https://i.ytimg.com/vi/GLxscEUSLgU/hq720.jpg"
+            },
+            {
+                "title": "ක්ෂුද්‍රාන්තයේදී අපේ කෑමට මොකද වෙන්නේ? |Grade 11 | science",
+                "url": "https://youtube.com/watch?v=SlextxbBurQ",
+                "duration": "19:31",
+                "thumbnail": "https://i.ytimg.com/vi/SlextxbBurQ/hq720.jpg"
+            },
+            {
+                "title": "මෙය ඇසුවොත් ඔබ දිනපතාම ගොටුකොල කෝප්පයක් පානය කරයි - You will drink a cup of gotukola every day.",
+                "url": "https://youtube.com/watch?v=fzi1PgXR0Vo",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/fzi1PgXR0Vo/hq720.jpg"
+            },
+            {
+                "title": "The secret flax seeds method! | How  to eat flax seeds | Flax seeds health benefits",
+                "url": "https://youtube.com/watch?v=10gEljFumDk",
+                "duration": "4:16",
+                "thumbnail": "https://i.ytimg.com/vi/10gEljFumDk/hqdefault.jpg"
+            },
+            {
+                "title": "කැහිපිත්තං  ගැන ඔබ නොදත් කරුණු .",
+                "url": "https://youtube.com/watch?v=GcsFHMWd56g",
+                "duration": "7:12",
+                "thumbnail": "https://i.ytimg.com/vi/GcsFHMWd56g/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැඳවල තිත්ත ඇත්ත? Kola Kanda & Bitter Truth By Nutritionist Hiroshan  Jayaranga",
+                "url": "https://youtube.com/watch?v=l1DagmLR9Zg",
+                "duration": "15:56",
+                "thumbnail": "https://i.ytimg.com/vi/l1DagmLR9Zg/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක්. Kumbuk Tree. Ayurvedic value of Kumbuk.",
+                "url": "https://youtube.com/watch?v=KjUTxwGyQ78",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/KjUTxwGyQ78/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල ශාකයේ ගුණ අගුණ නිවැරදිව දැනගමු | Health benefits of katupila | කටුපිල | Katupila",
+                "url": "https://youtube.com/watch?v=LnoPt_czJkM",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/LnoPt_czJkM/hqdefault.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල්, ප්‍රෙෂර්, සහ සීනි වලට හොදම බෙහෙත අපටම ආවේනික වුනු පුංචි ඇට වර්ගයක්!",
+                "url": "https://youtube.com/watch?v=8uEK9-ACe6U",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/8uEK9-ACe6U/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Venomous Bites/Stings",
-      "sinhala": "විෂ දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Nasopharyngeal Disorders",
-      "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Bud wood"
-  ],
-  "images": [
-    {
-      "image_id": "1958",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/XZymzSF2/plant00247-01958.jpg"
-    },
-    {
-      "image_id": "1959",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/B29QcB02/plant00247-01959.jpg"
-    },
-    {
-      "image_id": "1960",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/q3GGrGKg/plant00247-01960.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,55 +1,696 @@
 {
-  "scientificName": "Trichodesma zeylanicum (Burm.f.) R.Br.",
-  "synonyms": [
-    "Boraginella zeylanica (R.Br.) Kuntze",
-    "Borago zeylanica Burm.f.",
-    "Borraginoides zeylanica (Burm.f.) Hiern",
-    "Leiocarya kotschyana Hochst.",
-    "Pollichia zeylanica (Burm.f.) F.Muell.",
-    "Trichodesma kotschyanum Fenzl ex DC.",
-    "Trichodesma zeylanicum f. angustifolium Domin",
-    "Trichodesma zeylanicum f. intermedium Brand",
-    "Trichodesma zeylanicum f. longifolium Brand",
-    "Trichodesma zeylanicum subsp. euzeylanicum Brand",
-    "Trichodesma zeylanicum var. angustifolium Domin",
-    "Trichodesma zeylanicum var. australe Brand",
-    "Trichodesma zeylanicum var. commune Domin"
-  ],
-  "familyName": "BORAGINACEAE",
-  "englishNames": [
-    "Camel Bush",
-    "Cattle Bush"
-  ],
-  "sinhalaName": "Maha thumba (මහතුඹ)",
-  "description": "ශාක පැළෑටි ආකාර වන අතර, රළු සහ තද (wiry), මීටරයක් හෝ ඊට වැඩි උසකට වැඩේ. පත්‍ර අභිමුඛ (opposite) වන අතර, ලාන්සාකාර (lanceolate) සිට ඔබ්ලාන්සාකාර (oblanceolate) හැඩයක් ගනී. ප්‍රමාණය සෙන්ටිමීටර 7 (- 10) X 1.5 (- 3) ක් වේ. පත්‍ර අග්‍රය තියුණු (acute) වන අතර, දාරය සම්පූර්ණ (entire) වේ. පත්‍ර පාදය ක්‍රමයෙන් සිහින් වී ඇත (attenuate). පත්‍රයේ උඩු පැත්ත ඒකාකාරව රළු (scabrate) වන අතර, යටි පැත්තේ නාරටි මත පමණක් රළු බව දක්නට ලැබේ. පුෂ්ප මංජරිය අක්‍රමවත්, පහළට නැමුණු (nodding), රේසීමෝස් (racemose) ආකාරයේ මල් 5-10 ක් සහිත හෝ තනිව පිහිටි කක්ෂීය (axillary) මල් වේ. ඵලය නට්ලට් (nutlets) 4 කින් සමන්විත වන අතර, ප්‍රමාණය මිලිමීටර 4 X 3 කි. පිටත පෘෂ්ඨය සිනිඳු වන අතර, ඇතුළත පෘෂ්ඨය කඳු ගැට සහිත (ridged) සහ ක්ෂුද්‍ර ගැටිති සහිත (tuberculate) වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "2904",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/gbwgDgvF/plant00262-02904.jpg"
+    "scientificName": "Trichodesma zeylanicum (Burm.f.) R.Br.",
+    "synonyms": [
+        "Boraginella zeylanica (R.Br.) Kuntze",
+        "Borago zeylanica Burm.f.",
+        "Borraginoides zeylanica (Burm.f.) Hiern",
+        "Leiocarya kotschyana Hochst.",
+        "Pollichia zeylanica (Burm.f.) F.Muell.",
+        "Trichodesma kotschyanum Fenzl ex DC.",
+        "Trichodesma zeylanicum f. angustifolium Domin",
+        "Trichodesma zeylanicum f. intermedium Brand",
+        "Trichodesma zeylanicum f. longifolium Brand",
+        "Trichodesma zeylanicum subsp. euzeylanicum Brand",
+        "Trichodesma zeylanicum var. angustifolium Domin",
+        "Trichodesma zeylanicum var. australe Brand",
+        "Trichodesma zeylanicum var. commune Domin"
+    ],
+    "familyName": "BORAGINACEAE",
+    "englishNames": [
+        "Camel Bush",
+        "Cattle Bush"
+    ],
+    "sinhalaName": "Maha thumba (මහතුඹ)",
+    "description": "ශාක පැළෑටි ආකාර වන අතර, රළු සහ තද (wiry), මීටරයක් හෝ ඊට වැඩි උසකට වැඩේ. පත්‍ර අභිමුඛ (opposite) වන අතර, ලාන්සාකාර (lanceolate) සිට ඔබ්ලාන්සාකාර (oblanceolate) හැඩයක් ගනී. ප්‍රමාණය සෙන්ටිමීටර 7 (- 10) X 1.5 (- 3) ක් වේ. පත්‍ර අග්‍රය තියුණු (acute) වන අතර, දාරය සම්පූර්ණ (entire) වේ. පත්‍ර පාදය ක්‍රමයෙන් සිහින් වී ඇත (attenuate). පත්‍රයේ උඩු පැත්ත ඒකාකාරව රළු (scabrate) වන අතර, යටි පැත්තේ නාරටි මත පමණක් රළු බව දක්නට ලැබේ. පුෂ්ප මංජරිය අක්‍රමවත්, පහළට නැමුණු (nodding), රේසීමෝස් (racemose) ආකාරයේ මල් 5-10 ක් සහිත හෝ තනිව පිහිටි කක්ෂීය (axillary) මල් වේ. ඵලය නට්ලට් (nutlets) 4 කින් සමන්විත වන අතර, ප්‍රමාණය මිලිමීටර 4 X 3 කි. පිටත පෘෂ්ඨය සිනිඳු වන අතර, ඇතුළත පෘෂ්ඨය කඳු ගැට සහිත (ridged) සහ ක්ෂුද්‍ර ගැටිති සහිත (tuberculate) වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "2904",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/gbwgDgvF/plant00262-02904.jpg"
+        },
+        {
+            "image_id": "2905",
+            "caption": "Flower Buds (PMR)",
+            "url": "https://i.ibb.co/rRb9rXSW/plant00262-02905.jpg"
+        },
+        {
+            "image_id": "2906",
+            "caption": "Flower 1 (PMR)",
+            "url": "https://i.ibb.co/WNrmsjQW/plant00262-02906.jpg"
+        },
+        {
+            "image_id": "2907",
+            "caption": "Flower 2 (PMR)",
+            "url": "https://i.ibb.co/m5mg0FSH/plant00262-02907.jpg"
+        },
+        {
+            "image_id": "2908",
+            "caption": "Fruit (PMR)",
+            "url": "https://i.ibb.co/DHynmSH7/plant00262-02908.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කුවෙට් ගුවන්තොටුපළ සුණු විසිණු කළ ඉරාන ප්‍රහාරය",
+                "url": "https://youtube.com/watch?v=WCsciXBnYWA",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/WCsciXBnYWA/hq720.jpg"
+            },
+            {
+                "title": "EMS አሁናዊ መረጃ ቀጥታ! ታቦት ይዞ ሽሽት Thu04Jun 2026",
+                "url": "https://youtube.com/watch?v=vQimvxuGHdE",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/vQimvxuGHdE/hq720.jpg"
+            },
+            {
+                "title": "🔵አቡነ ሐብተማርያም 📕ገድል (ዓመታዊ)🔴ግንቦት 26#eotc @mahder_media",
+                "url": "https://youtube.com/watch?v=OX_U3MQic20",
+                "duration": "48:53",
+                "thumbnail": "https://i.ytimg.com/vi/OX_U3MQic20/hq720.jpg"
+            },
+            {
+                "title": "හිරු උත්තම ධාතු වන්දනා ඓතිහාසික මහියංගන පුදබිමේ දැන් තත්ත්වය - Hiru News",
+                "url": "https://youtube.com/watch?v=wm4eiTTvcGg",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/wm4eiTTvcGg/hq720.jpg"
+            },
+            {
+                "title": "🔴LIVE #ሥርዓተ_ቅዳሴ #ቀጥታ_ከቦሌ_መድኃኔዓለም ‼️👉ግንቦት 27",
+                "url": "https://youtube.com/watch?v=zsEq-eMQNug",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/zsEq-eMQNug/hq720.jpg"
+            },
+            {
+                "title": "Maha Muhuden (මහ මුහුදෙන්)   -  Kusal Theekshana",
+                "url": "https://youtube.com/watch?v=lCLq8woxEvM",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/lCLq8woxEvM/hq720.jpg"
+            },
+            {
+                "title": "MK TV || ዐውደ ትሩፋት || የማያባራው ማኅበራዊ ቀውስ እና መፍትሔዎቹ",
+                "url": "https://youtube.com/watch?v=SV13DkI_O1k",
+                "duration": "23:40",
+                "thumbnail": "https://i.ytimg.com/vi/SV13DkI_O1k/hq720.jpg"
+            },
+            {
+                "title": "හිරු උත්තම ධාතු වන්දනාව මහියංගනය පිංබර පුරවරයෙන් සමුගෙන බුත්තල යුදඟනාව රජමහා විහාරය කරා වැඩමවීම",
+                "url": "https://youtube.com/watch?v=xlRFBiKFMkc",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/xlRFBiKFMkc/hq720.jpg"
+            },
+            {
+                "title": "වෙසක් තෙමඟුලේ සැඟවුණු ඇත්ත! | සැබෑ සම්බුදු තෙමඟුල කුමක්ද? | Helabima",
+                "url": "https://youtube.com/watch?v=Lo_lafTwj_c",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/Lo_lafTwj_c/hq720.jpg"
+            },
+            {
+                "title": "MK TV || ዐውደ ትሩፋት || በደብረ ብርሃን ከተማ ለተፈናቃይ ልጆች የአብነት ተማሪዎች የተደረ ድጋፍ",
+                "url": "https://youtube.com/watch?v=3kIEerKVqiQ",
+                "duration": "27:04",
+                "thumbnail": "https://i.ytimg.com/vi/3kIEerKVqiQ/hq720.jpg"
+            },
+            {
+                "title": "[Maha Muhuden Ahanna] - Featuring [Kusal Theekshana] | Official Trailer | Releasing on 31st May",
+                "url": "https://youtube.com/watch?v=JqXSswpw3kc",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/JqXSswpw3kc/hq720.jpg"
+            },
+            {
+                "title": "የአኬ እና የተሃድሶው የመጨረሻው ፍጥጫ/አኬ እግሩ ስር ቁጭ አድርጎ  ያስተማረው አስተርዬ/አንድም ማስረጃ አኬ ፊት ማቅረብ ያቃተው ተሃድሶ/አኬ/#mebatube",
+                "url": "https://youtube.com/watch?v=lEkI34DnReI",
+                "duration": "1:16:11",
+                "thumbnail": "https://i.ytimg.com/vi/lEkI34DnReI/hq720.jpg"
+            },
+            {
+                "title": "ተመስገን ደስ ዝብል ውዕሎ ምስ ኣስቴር ሓፍተይ🎁😘🙏June 2, 2026",
+                "url": "https://youtube.com/watch?v=iigOuj4p_l4",
+                "duration": "15:38",
+                "thumbnail": "https://i.ytimg.com/vi/iigOuj4p_l4/hqdefault.jpg"
+            },
+            {
+                "title": "Mootummaan Barabaraan Jiraatu....! Luba/Professor Gammachiis Dastaa",
+                "url": "https://youtube.com/watch?v=SIbUj3Dvzlc",
+                "duration": "49:38",
+                "thumbnail": "https://i.ytimg.com/vi/SIbUj3Dvzlc/hq720.jpg"
+            },
+            {
+                "title": "විනාශවී යන කෑගලු දිස්ත්‍රික්කයේ මහා වටිනාකම් | Ganegoda Rajamaha viharaya | ගනේගොඩ රජමහා විහාරය",
+                "url": "https://youtube.com/watch?v=ma2g91HTJqI",
+                "duration": "20:12",
+                "thumbnail": "https://i.ytimg.com/vi/ma2g91HTJqI/hq720.jpg"
+            },
+            {
+                "title": "MK TV II  እናስተዋውቃችሁ  II በጅማ መረዋ ከተፈጥሮ ጋር የሚደረግ ግብ ግብ",
+                "url": "https://youtube.com/watch?v=Moir0fT1O24",
+                "duration": "40:06",
+                "thumbnail": "https://i.ytimg.com/vi/Moir0fT1O24/hq720_custom_1.jpg"
+            },
+            {
+                "title": "මුතුන් මිත්තන් ලේ උරුමයෙන්  පවරපු සිංහල බෞද්ධ උරුමය පණ පුදා රකිමු",
+                "url": "https://youtube.com/watch?v=YRzpbcWrlng",
+                "duration": "8:08",
+                "thumbnail": "https://i.ytimg.com/vi/YRzpbcWrlng/hq720.jpg"
+            },
+            {
+                "title": "Eebba Ganamaa Luba Tashoomee Hordofaa Waliin /795",
+                "url": "https://youtube.com/watch?v=Kk1HFtlhTAw",
+                "duration": "13:51",
+                "thumbnail": "https://i.ytimg.com/vi/Kk1HFtlhTAw/hq720.jpg"
+            },
+            {
+                "title": "Binura Methsara - Budu Guna Mahime ( බුදු ගුණ මහිමේ) | Official Music Video",
+                "url": "https://youtube.com/watch?v=_ha6PoiSbcI",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/_ha6PoiSbcI/hq720.jpg"
+            },
+            {
+                "title": "හතුවල මේ ගුණ දන්නවනම් ඔබ කවදාවත් නොකා ඉන්නේ නැහැ - Health Benefits Of Mushrooms",
+                "url": "https://youtube.com/watch?v=ZpsTpbIwoO4",
+                "duration": "5:57",
+                "thumbnail": "https://i.ytimg.com/vi/ZpsTpbIwoO4/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ මෛත්‍රී භාවනාව​ | Budu Guna Maithree Bhavanawa",
+                "url": "https://youtube.com/watch?v=RFcKN5qEz4k",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/RFcKN5qEz4k/hqdefault.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "Budu Guna Kavi - බුදු ගුණ කවි | Massanne Vijitha Thero",
+                "url": "https://youtube.com/watch?v=RYWjnvdqmFY",
+                "duration": "9:04",
+                "thumbnail": "https://i.ytimg.com/vi/RYWjnvdqmFY/hq720.jpg"
+            },
+            {
+                "title": "මෛත්‍රී භාවනාවේ අසීමිත බලය | ඔබේ ජීවිතය වෙනස් කරන බුදු දහමේ රහස - By coach Bhathiya Arthanayake",
+                "url": "https://youtube.com/watch?v=t42Qe_kIb8c",
+                "duration": "32:16",
+                "thumbnail": "https://i.ytimg.com/vi/t42Qe_kIb8c/hq720.jpg"
+            },
+            {
+                "title": "අවබෝධයෙන් බුදු ගුණ දකිමු | මහා සෑ පාමුල පැවත්වූ උතුම් බුදු ගුණ දේශණාව | Dhammawijaya Thero",
+                "url": "https://youtube.com/watch?v=1ZUcwPZ_gTs",
+                "duration": "1:31:50",
+                "thumbnail": "https://i.ytimg.com/vi/1ZUcwPZ_gTs/hqdefault.jpg"
+            },
+            {
+                "title": "මහදුරු වල විශ්මිත ගුණ - Amazing quality of fennel for a healthy life",
+                "url": "https://youtube.com/watch?v=yu87jayqE8U",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/yu87jayqE8U/hq720.jpg"
+            },
+            {
+                "title": "Waduru ma | වදුරු මෑ අති ප්‍රබල වාජීකරණ ඔසුව|Mucuna pruriens.osu -ඔසු",
+                "url": "https://youtube.com/watch?v=bDb9mAmac2w",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/bDb9mAmac2w/hq720.jpg"
+            },
+            {
+                "title": "දබ්බමල්ලපුත්ත මහරහතන් වහන්සේ (Galigamuwe Gnanadeepa Thero)",
+                "url": "https://youtube.com/watch?v=XnIIPrEVppI",
+                "duration": "24:56",
+                "thumbnail": "https://i.ytimg.com/vi/XnIIPrEVppI/hq720.jpg"
+            },
+            {
+                "title": "මුණිදු සරණ එක පිහිටම වේවා / මෛත්‍රී පතුරන ගීතයක් Metta Meditation",
+                "url": "https://youtube.com/watch?v=OQCubRLWgTA",
+                "duration": "9:36",
+                "thumbnail": "https://i.ytimg.com/vi/OQCubRLWgTA/hq720.jpg"
+            },
+            {
+                "title": "Sesi Thiloguru (බුදුගුණ කවි) ~ Ven. Kiribathgoda Gnanananda Thero",
+                "url": "https://youtube.com/watch?v=r2L8UvXPCNs",
+                "duration": "21:50",
+                "thumbnail": "https://i.ytimg.com/vi/r2L8UvXPCNs/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ වැයුමෙන් රැස් වෙන මහා පින්| Amatha TV",
+                "url": "https://youtube.com/watch?v=-QW04epq0qs",
+                "duration": "1:09:04",
+                "thumbnail": "https://i.ytimg.com/vi/-QW04epq0qs/hq720.jpg"
+            },
+            {
+                "title": "බුදුගුණ හඬ නගා කීමේ ආනිශංස",
+                "url": "https://youtube.com/watch?v=LPsdj50GJDI",
+                "duration": "6:31",
+                "thumbnail": "https://i.ytimg.com/vi/LPsdj50GJDI/hq720.jpg"
+            },
+            {
+                "title": "මනුෂ්‍ය, දේව, රක්ෂස ගුණ – ඔබ කුමන වර්ගයටද? | ජ්‍යෝතිෂ්‍ය රහස්",
+                "url": "https://youtube.com/watch?v=peKcVqRvmHo",
+                "duration": "6:37",
+                "thumbnail": "https://i.ytimg.com/vi/peKcVqRvmHo/hq720.jpg"
+            },
+            {
+                "title": "15 May 2026",
+                "url": "https://youtube.com/watch?v=nVVsjv8rv3g",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/nVVsjv8rv3g/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "කොන්දේ අමාරුවට බොරුවට බෙහෙත් බොන්න එපා - අදම මේක මාරු කරලා බලන්න |How Your Mattress Causes Back Pain",
+                "url": "https://youtube.com/watch?v=2fmfdDayx50",
+                "duration": "8:25",
+                "thumbnail": "https://i.ytimg.com/vi/2fmfdDayx50/hq720.jpg"
+            },
+            {
+                "title": "Click Here බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය| Repair & Clean Gut Naturally",
+                "url": "https://youtube.com/watch?v=3ZmQx32-Hu4",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/3ZmQx32-Hu4/hq720_2.jpg"
+            },
+            {
+                "title": "srilankan healthy foods අපිට අගේ නැති වුණාට විදේශිකයෝ හොයන Careya arborea 🌿",
+                "url": "https://youtube.com/watch?v=fxYyVouLgHk",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/fxYyVouLgHk/hq720.jpg"
+            },
+            {
+                "title": "ඇට්ටමුරා (ඇටඹුරු) දේශීය හෙළ වෙදකමේ මහාර්ඝ ඔසුව - #Ettamura #Medicinal #Plant",
+                "url": "https://youtube.com/watch?v=R-O8lYlimRQ",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/R-O8lYlimRQ/hq720_2.jpg"
+            },
+            {
+                "title": "තරුණයෙක් මාස හතක් තිස්සේ මහන්සි වෙලා මිනිසුන්ට නොමිලයේම ප්‍රදර්ශනය කල මහා පහන් කූඩුව 💚🌻🙏🙏🌻💚 #youtube",
+                "url": "https://youtube.com/watch?v=pjrgjChwBi4",
+                "duration": "8:43",
+                "thumbnail": "https://i.ytimg.com/vi/pjrgjChwBi4/hq720.jpg"
+            },
+            {
+                "title": "ඔසු ගුණ පිරි අපේ ධාන්‍ය🌾 #kurahan #munaeta #thala #udu #kollu #aurweda beheth #athbeheth #danya",
+                "url": "https://youtube.com/watch?v=Qg95fd_uRK4",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/Qg95fd_uRK4/hq720_2.jpg"
+            },
+            {
+                "title": "වෙසක් අස්සෙන් එන අලුත්ම මායාව",
+                "url": "https://youtube.com/watch?v=uCyNuKZlae0",
+                "duration": "25:43",
+                "thumbnail": "https://i.ytimg.com/vi/uCyNuKZlae0/hq720.jpg"
+            },
+            {
+                "title": "මේ සියළු රෝග සුවකර ඔබව පැහැපත් කර තරුණ කරන ලොව හොදම පානය.. Turmeric Tea Benefits & Recipe.",
+                "url": "https://youtube.com/watch?v=XnH1pCjnbNo",
+                "duration": "12:08",
+                "thumbnail": "https://i.ytimg.com/vi/XnH1pCjnbNo/hq720.jpg"
+            },
+            {
+                "title": "The Medicine Hunter: Natural Remedies for Bug Bites",
+                "url": "https://youtube.com/watch?v=nqdE4Vj25mc",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/nqdE4Vj25mc/hq720.jpg"
+            },
+            {
+                "title": "Herbs: An Ideal Form of Therapy — Matthew Wood",
+                "url": "https://youtube.com/watch?v=azECjodpIng",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/azECjodpIng/hq720_2.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත - part 2🙏",
+                "url": "https://youtube.com/watch?v=IdQIkJpM5Ns",
+                "duration": "25:31",
+                "thumbnail": "https://i.ytimg.com/vi/IdQIkJpM5Ns/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිය වඩවන දිව්‍යමය ඖෂධය ||The divine potion that increases strength #Amukkara",
+                "url": "https://youtube.com/watch?v=JNtQ2Yhl1iM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/JNtQ2Yhl1iM/hqdefault.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "ඔබටත් 🫵 වයසට වඩා වැඩි පෙනුමක්නම් තියෙන්නේ අදම මේ ඖෂධ ආහාරයට ගන්න #sinhalamotivationalvideo #sinhala",
+                "url": "https://youtube.com/watch?v=P6qE2kol8TQ",
+                "duration": "0:20",
+                "thumbnail": "https://i.ytimg.com/vi/P6qE2kol8TQ/hq720.jpg"
+            },
+            {
+                "title": "ස්වසන රෝග රැසකට ගුණ දෙන එළබටු #nature #health #tips #healthylifestyle #viral #shortvideo",
+                "url": "https://youtube.com/watch?v=bgdiOKU6Wkw",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/bgdiOKU6Wkw/hq720_2.jpg"
+            },
+            {
+                "title": "ආයුර්වේද ප්‍රතිකාර නොමිලේ ලබාගැනීමට හා ප්‍රදර්ශනයට අදම සහභාගි වන්න..🌿 පේරාදෙණිය උද්‍යානයේදී 🙏",
+                "url": "https://youtube.com/watch?v=L0W8CiRW4eU",
+                "duration": "16:15",
+                "thumbnail": "https://i.ytimg.com/vi/L0W8CiRW4eU/hqdefault.jpg"
+            },
+            {
+                "title": "ලක්ෂ ගණන් වියදම් කරන්න කලින් මේක බලන්න - හදවත් රෝග නිට්ටාවටම සුවයි!",
+                "url": "https://youtube.com/watch?v=bSvbQ9Ndnz4",
+                "duration": "11:44",
+                "thumbnail": "https://i.ytimg.com/vi/bSvbQ9Ndnz4/hq720.jpg"
+            },
+            {
+                "title": "තුන් මංසලක හොල්මනක් සමග තනිවුණු යකදුරා අම්මෝ බය නැද්ද මන්දා",
+                "url": "https://youtube.com/watch?v=2intO6sfLAg",
+                "duration": "15:41",
+                "thumbnail": "https://i.ytimg.com/vi/2intO6sfLAg/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "ගැට තුඹ ශාකයේ ගුණ Leucas aspera geta thuba getathuba guna ගැට තුබ වගාව getathuba wagawa badungathawa",
+                "url": "https://youtube.com/watch?v=oUs0G1l121Y",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/oUs0G1l121Y/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා  මාරාන්තිකයි [Hari Tv ][Lahiru mudalige]",
+                "url": "https://youtube.com/watch?v=FObeIYHmROY",
+                "duration": "7:01",
+                "thumbnail": "https://i.ytimg.com/vi/FObeIYHmROY/hq720.jpg"
+            },
+            {
+                "title": "තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ.  Health benefits of Thulasi.",
+                "url": "https://youtube.com/watch?v=kKukenrdq0k",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/kKukenrdq0k/hq720.jpg"
+            },
+            {
+                "title": "වද මල් බොන එකේ ඇත්ත නැත්ත | Hibiscus Tea & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=vj2RlbqQtco",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/vj2RlbqQtco/hq720.jpg"
+            },
+            {
+                "title": "වදමල් පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක් | Health Benefits Of Hibiscus Tea | Wadamal Bima",
+                "url": "https://youtube.com/watch?v=fxdjqg4xd4k",
+                "duration": "11:16",
+                "thumbnail": "https://i.ytimg.com/vi/fxdjqg4xd4k/hq720.jpg"
+            },
+            {
+                "title": "මහසෙන් අරණ Mahasen Arana සියලුම පාදවල වේදනා වලට ,අත්තික්කා ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=iHO593WN-d8",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/iHO593WN-d8/hq720.jpg"
+            },
+            {
+                "title": "සිරුර පෘෂ්ටිමත් වීමට පමණක් නොව ශ්වසන ආබාධ සදහා ද ගුණ දෙන කුෂ්මාණ්ඩ ‍රසායන බෙහෙත | Kushmaand Rasayan",
+                "url": "https://youtube.com/watch?v=LDl93JcFs1o",
+                "duration": "19:08",
+                "thumbnail": "https://i.ytimg.com/vi/LDl93JcFs1o/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ද|ashwagandha|අමුක්කරා|Amukkara|Dr.Chaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=vZt8nsZnG-8",
+                "duration": "18:32",
+                "thumbnail": "https://i.ytimg.com/vi/vZt8nsZnG-8/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "වද මල් යුෂ මගින් ලැබෙන සෞඛ්‍ය ප්‍රතිලාභ 9ක් - 9 Health Benefits of Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=xRInp9A-z18",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/xRInp9A-z18/hq720.jpg"
+            },
+            {
+                "title": "සමේ ආසාදන සුව කරන තුවාල වලටත් ගුණ විෂබීජ නාශක ගුණ මෙන්ම තවත් ගුණ රැසක් තිබෙන කොහොඹ තෙල්",
+                "url": "https://youtube.com/watch?v=4fVxFz3m-tc",
+                "duration": "15:23",
+                "thumbnail": "https://i.ytimg.com/vi/4fVxFz3m-tc/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "කන්න අමාරුයි...කෑවෙත් දියවැඩියාව සදහටම මට්ටුයි..   \"මස්බැද්ද\"",
+                "url": "https://youtube.com/watch?v=wjKd6S7ptIs",
+                "duration": "0:45",
+                "thumbnail": "https://i.ytimg.com/vi/wjKd6S7ptIs/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ධනවතුන් සහ දුප්පතුන් හැදෙන හැටි කියන | ලෝක ප්‍රසිද්ධ මේ සෙන් කතාව දන්නවාද ? | A Powerful Story",
+                "url": "https://youtube.com/watch?v=-jj6b6--NGk",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/-jj6b6--NGk/hq720.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ලෙබුනු මිනිස් ජිවිතෙන් උපර්‍රම ප්‍රයෝජන ගන්න  Unlocking the Secrets to Make the Most of Human Life",
+                "url": "https://youtube.com/watch?v=xZYEPghS714",
+                "duration": "8:24",
+                "thumbnail": "https://i.ytimg.com/vi/xZYEPghS714/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රඥාව නම් මී අඹය ! 🥭 | 2026.03.02 | මැදින් පෝදා | 1 කොටස",
+                "url": "https://youtube.com/watch?v=OR7X7EB7X0c",
+                "duration": "3:03:54",
+                "thumbnail": "https://i.ytimg.com/vi/OR7X7EB7X0c/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "මාශ භෝග හඳුනාගනිමු | 3 ශ්‍රේණිය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=B65ZiDPiMsg",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/B65ZiDPiMsg/hq720.jpg"
+            },
+            {
+                "title": "වා පිත් සෙම් යන තුන්දොස කියන්නේ කුමක්ද? | What is the three dosas of Va Pith Sem?",
+                "url": "https://youtube.com/watch?v=yVZBb1yVNNM",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/yVZBb1yVNNM/hq720.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "මහත්ඵල මහානිසංස අත්වන අපි නොදන්න පිං කම | Kelaniye Sasanawansa Thero | Mindful Wisdom #Bana",
+                "url": "https://youtube.com/watch?v=McYBNB--7tE",
+                "duration": "51:43",
+                "thumbnail": "https://i.ytimg.com/vi/McYBNB--7tE/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රවෘත්ති සාකච්ඡාව | සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශය |  2026.06.03",
+                "url": "https://youtube.com/watch?v=XzqHkXoeu0Q",
+                "duration": "1:28:54",
+                "thumbnail": "https://i.ytimg.com/vi/XzqHkXoeu0Q/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල අපට නොපෙනෙන ගුණය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හැරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=hRpzilgWq5o",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/hRpzilgWq5o/hq720.jpg"
+            },
+            {
+                "title": "🔴සම රත්‍රං පාට වෙලා අවු:15 මාව තරුණ කරපු උලුහාල් පොටිටනි කැද සහ පානය! මෙන්න වාසි",
+                "url": "https://youtube.com/watch?v=5sWH0S4yzCI",
+                "duration": "8:22",
+                "thumbnail": "https://i.ytimg.com/vi/5sWH0S4yzCI/hq720.jpg"
+            },
+            {
+                "title": "බෝ මළුව අතුගෑවම ලැබෙන පින ඔබ දන්නවද...? / ven. welimada saddhaseela thero",
+                "url": "https://youtube.com/watch?v=uy4ltgUk9rg",
+                "duration": "8:57",
+                "thumbnail": "https://i.ytimg.com/vi/uy4ltgUk9rg/hqdefault.jpg"
+            },
+            {
+                "title": "@SithaNiwanaBuduBana @wassanadarmadeshana9842",
+                "url": "https://youtube.com/watch?v=ZYMyeGkCPrk",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/ZYMyeGkCPrk/hq720.jpg"
+            },
+            {
+                "title": "Baobab Fruit Health Benefits: 10x More Vitamin C Than Oranges & More Calcium Than Milk",
+                "url": "https://youtube.com/watch?v=l45u-CHsE90",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/l45u-CHsE90/hq720.jpg"
+            },
+            {
+                "title": "Teak Plant Benefits: Spiritual Uses & Powerful Health Secrets of Teak Leaves",
+                "url": "https://youtube.com/watch?v=w5g_pqslV6g",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/w5g_pqslV6g/hq720.jpg"
+            },
+            {
+                "title": "Health Tips || Benefits of Baobab fruit & Powder",
+                "url": "https://youtube.com/watch?v=t8aR1xxebhI",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/t8aR1xxebhI/hq720.jpg"
+            },
+            {
+                "title": "FIVE HEALTH BENEFITS OF BAOBAB",
+                "url": "https://youtube.com/watch?v=aVPeWOodSlw",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/aVPeWOodSlw/hq720.jpg"
+            },
+            {
+                "title": "Molokhia Benefits Unveiled: Discover the Nutritional Power of Egyptian Spinach",
+                "url": "https://youtube.com/watch?v=EsNiYvlF8R4",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/EsNiYvlF8R4/hq720.jpg"
+            },
+            {
+                "title": "Hibiscus Tea Benefits - 10 Benefits You Didn't Know About Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=osmO5QURWjQ",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/osmO5QURWjQ/hq720.jpg"
+            },
+            {
+                "title": "6 Powerful Benefits of Marjoram! | Health Benefits of Marjoram",
+                "url": "https://youtube.com/watch?v=PDq3nQZ2E3w",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/PDq3nQZ2E3w/hq720.jpg"
+            },
+            {
+                "title": "8 Amazing Health Benefits Of Africa Mistletoe Aside Preventing Cancer.",
+                "url": "https://youtube.com/watch?v=ygicBnaxVao",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/ygicBnaxVao/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits of Matcha Tea: The Ultimate Guide to a Healthier You!",
+                "url": "https://youtube.com/watch?v=Os9hFAOCFGQ",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/Os9hFAOCFGQ/hqdefault.jpg"
+            },
+            {
+                "title": "Health Benefits of Taro Root | Boost Immunity and get Glowing Skin",
+                "url": "https://youtube.com/watch?v=wW-XcI9kLr4",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/wW-XcI9kLr4/hq720.jpg"
+            },
+            {
+                "title": "The Healing Power of Mimosa Pudica: 10 Incredible Health Benefits You Need to Know",
+                "url": "https://youtube.com/watch?v=7QMG7SIoUD0",
+                "duration": "17:43",
+                "thumbnail": "https://i.ytimg.com/vi/7QMG7SIoUD0/hq720.jpg"
+            },
+            {
+                "title": "6 Amazing BENEFITS of HIBISCUS TEA (Daily)",
+                "url": "https://youtube.com/watch?v=SsG366WaShY",
+                "duration": "8:11",
+                "thumbnail": "https://i.ytimg.com/vi/SsG366WaShY/hq720.jpg"
+            },
+            {
+                "title": "Baobab Fruit Health Benefits: 10x More Vitamin C Than Oranges & More Calcium Than Milk",
+                "url": "https://youtube.com/watch?v=UWbZNcoS30o",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/UWbZNcoS30o/frame0.jpg"
+            },
+            {
+                "title": "සූවිසි මහා ගුණ නිවැරදිව අර්ථ සහිතව දැන වඩමු |Suvisi maha guna|මා මෙසේ ඇසුවෙමි|ma mese esuwemi",
+                "url": "https://youtube.com/watch?v=n2Pl9tCLSwM",
+                "duration": "31:56",
+                "thumbnail": "https://i.ytimg.com/vi/n2Pl9tCLSwM/hq720.jpg"
+            },
+            {
+                "title": "ස්වාක්ඛාතාදි සවැදෑරුම් දහම් ගුණ | Episode 26",
+                "url": "https://youtube.com/watch?v=RlHkWgJqRr8",
+                "duration": "15:15",
+                "thumbnail": "https://i.ytimg.com/vi/RlHkWgJqRr8/hq720.jpg"
+            },
+            {
+                "title": "ලක්ෂ 26 ක්‌ මත් පැන් බීපු ඔහු බුදු ගුණ මහා පුජාවෙන්  මත් පැන් ඇබ්බැහි වීම නැවතුන හැටි මෙන්න.",
+                "url": "https://youtube.com/watch?v=kGSKg1CDQgg",
+                "duration": "55:38",
+                "thumbnail": "https://i.ytimg.com/vi/kGSKg1CDQgg/hq720.jpg"
+            },
+            {
+                "title": "Click Here බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය| Repair & Clean Gut Naturally",
+                "url": "https://youtube.com/watch?v=7spkXvR6ad8",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/7spkXvR6ad8/hq720_2.jpg"
+            },
+            {
+                "title": "මස්පිඩු පෙරලෙනවට බොන්න පුළුවන් ඖශධ මෙන්ම ගාන්න පුළුවන් ආයුර්වේදීය ඖශධීය තෙල් වර්ග කිහිපයක්",
+                "url": "https://youtube.com/watch?v=8BH_HTEAyf4",
+                "duration": "13:22",
+                "thumbnail": "https://i.ytimg.com/vi/8BH_HTEAyf4/hq720.jpg"
+            },
+            {
+                "title": "මළ බතේ රහස – අපේ මුතුන්මිත්තන් දැනසිටි ආහාර වල ගුණ | පැරණි දැනුම හා නවින විද්‍යාව",
+                "url": "https://youtube.com/watch?v=DiNA1aaDOk0",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/DiNA1aaDOk0/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් ප්‍රායෝගික ධර්මය තුලින් 👌❤️ රැකවරණය ලබන්න කැමතිද? 🤗❤️👌🙏",
+                "url": "https://youtube.com/watch?v=9btFmvhQYt8",
+                "duration": "1:35:35",
+                "thumbnail": "https://i.ytimg.com/vi/9btFmvhQYt8/hqdefault.jpg"
+            },
+            {
+                "title": "සෙවණට ප්‍රියකරන කලාත්මක ශාක වර්ග | Plants that can grow without sunlight within 2 weeks",
+                "url": "https://youtube.com/watch?v=ojm4U7vPAGs",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/ojm4U7vPAGs/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "2905",
-      "caption": "Flower Buds (PMR)",
-      "url": "https://i.ibb.co/rRb9rXSW/plant00262-02905.jpg"
-    },
-    {
-      "image_id": "2906",
-      "caption": "Flower 1 (PMR)",
-      "url": "https://i.ibb.co/WNrmsjQW/plant00262-02906.jpg"
-    },
-    {
-      "image_id": "2907",
-      "caption": "Flower 2 (PMR)",
-      "url": "https://i.ibb.co/m5mg0FSH/plant00262-02907.jpg"
-    },
-    {
-      "image_id": "2908",
-      "caption": "Fruit (PMR)",
-      "url": "https://i.ibb.co/DHynmSH7/plant00262-02908.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

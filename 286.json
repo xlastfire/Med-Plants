@@ -1,216 +1,509 @@
 {
-  "scientificName": "Carica papaya L.",
-  "synonyms": [
-    "Carica citriformis J.Jacq. ex Spreng.",
-    "Carica cubensis Solms",
-    "Carica hermaphrodita Blanco",
-    "Carica jamaicensis Urb.",
-    "Carica jimenezii Bertoni",
-    "Carica mamaya Vell.",
-    "Carica papaya f. correae Solms",
-    "Carica papaya f. ernstii Solms",
-    "Carica papaya f. mamaya (Vell.) Stellfeld",
-    "Carica papaya f. portoricensis (Urb.) Solms",
-    "Carica papaya var. bady Aké Assi",
-    "Carica papaya var. jimenezii Bertoni",
-    "Carica peltata Hook. & Arn.",
-    "Carica pinnatifida Heilborn",
-    "Carica portoricensis Urb.",
-    "Carica posopora L.",
-    "Carica pyriformis Willd.",
-    "Carica rochefortii Solms",
-    "Carica sativa Tussac",
-    "Papaya carica Gaertn.",
-    "Papaya citriformis (J.Jacq. ex Spreng.) A.DC.",
-    "Papaya communis Noronha",
-    "Papaya cubensis (Solms) Kuntze",
-    "Papaya cucumerina Noronha",
-    "Papaya edulis Bojer",
-    "Papaya papaya (L.) H.Karst.",
-    "Papaya peltata (Hook. & Arn.) Kuntze",
-    "Papaya posopora (L.) DC.",
-    "Papaya pyriformis (Willd.) Baill.",
-    "Papaya rochefortii (Solms) Kuntze",
-    "Papaya sativa Tussac",
-    "Papaya vulgaris DC.",
-    "Vasconcellea peltata (Hook. & Arn.) A.DC."
-  ],
-  "familyName": "CARICACEAE",
-  "englishNames": [
-    "Papaya",
-    "Papaw",
-    "Pawpaw"
-  ],
-  "sinhalaName": "Gas labu (ගස්ලබු)",
-  "description": "මීටර් 5(-7)ක් පමණ උසැති කුඩා ගසකි; කඳ සාමාන්‍යයෙන් කුහර සහිත වන අතර පත්‍ර කැළැල් (leaf scars) කැපී පෙනේ. පත්‍ර තලය (leaf lamina) සෙන්ටිමීටර 75ක් පමණ දිග සහ පළල වන අතර, අත්ලක හැඩයට (palmately) (3) 7-11 (-13) දක්වා පත්‍ර ඛණ්ඩවලට බෙදී ඇත; පත්‍ර වෘන්තය (petiole) කුහර සහිත වන අතර සෙන්ටිමීටර 100ක් පමණ දිග වේ. පුෂ්ප මංජරි හෝ තනි පුෂ්ප, පුරුෂ (staminate) හෝ ස්ත්‍රී (pistillate) ලෙස පත්‍ර අක්ෂවල හටගනී. මල් සුවඳවත්ය; මල් කිරීටය (corolla) කොළ පැහැයට හුරු කහ පැහැතිය. ඵලය මාංසල බෙරි ගෙඩියකි (berry), ප්‍රමාණයෙන් විවිධ වන අතර ඉදුණු විට කහ-කොළ පැහැයක් ගනී; බීජ 750ක් දක්වා අඩංගු විය හැක. බීජ කහ පැහැයට හුරු දුඹුරු සිට කළු පැහැයක් ගන්නා අතර, විෂ්කම්භය මිලිමීටර 7ක් පමණ වේ.",
-  "treatments": [
-    {
-      "treatment": "Cystitis",
-      "sinhala": "මුත්‍රාශ ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Carica papaya L.",
+    "synonyms": [
+        "Carica citriformis J.Jacq. ex Spreng.",
+        "Carica cubensis Solms",
+        "Carica hermaphrodita Blanco",
+        "Carica jamaicensis Urb.",
+        "Carica jimenezii Bertoni",
+        "Carica mamaya Vell.",
+        "Carica papaya f. correae Solms",
+        "Carica papaya f. ernstii Solms",
+        "Carica papaya f. mamaya (Vell.) Stellfeld",
+        "Carica papaya f. portoricensis (Urb.) Solms",
+        "Carica papaya var. bady Aké Assi",
+        "Carica papaya var. jimenezii Bertoni",
+        "Carica peltata Hook. & Arn.",
+        "Carica pinnatifida Heilborn",
+        "Carica portoricensis Urb.",
+        "Carica posopora L.",
+        "Carica pyriformis Willd.",
+        "Carica rochefortii Solms",
+        "Carica sativa Tussac",
+        "Papaya carica Gaertn.",
+        "Papaya citriformis (J.Jacq. ex Spreng.) A.DC.",
+        "Papaya communis Noronha",
+        "Papaya cubensis (Solms) Kuntze",
+        "Papaya cucumerina Noronha",
+        "Papaya edulis Bojer",
+        "Papaya papaya (L.) H.Karst.",
+        "Papaya peltata (Hook. & Arn.) Kuntze",
+        "Papaya posopora (L.) DC.",
+        "Papaya pyriformis (Willd.) Baill.",
+        "Papaya rochefortii (Solms) Kuntze",
+        "Papaya sativa Tussac",
+        "Papaya vulgaris DC.",
+        "Vasconcellea peltata (Hook. & Arn.) A.DC."
+    ],
+    "familyName": "CARICACEAE",
+    "englishNames": [
+        "Papaya",
+        "Papaw",
+        "Pawpaw"
+    ],
+    "sinhalaName": "Gas labu (ගස්ලබු)",
+    "description": "මීටර් 5(-7)ක් පමණ උසැති කුඩා ගසකි; කඳ සාමාන්‍යයෙන් කුහර සහිත වන අතර පත්‍ර කැළැල් (leaf scars) කැපී පෙනේ. පත්‍ර තලය (leaf lamina) සෙන්ටිමීටර 75ක් පමණ දිග සහ පළල වන අතර, අත්ලක හැඩයට (palmately) (3) 7-11 (-13) දක්වා පත්‍ර ඛණ්ඩවලට බෙදී ඇත; පත්‍ර වෘන්තය (petiole) කුහර සහිත වන අතර සෙන්ටිමීටර 100ක් පමණ දිග වේ. පුෂ්ප මංජරි හෝ තනි පුෂ්ප, පුරුෂ (staminate) හෝ ස්ත්‍රී (pistillate) ලෙස පත්‍ර අක්ෂවල හටගනී. මල් සුවඳවත්ය; මල් කිරීටය (corolla) කොළ පැහැයට හුරු කහ පැහැතිය. ඵලය මාංසල බෙරි ගෙඩියකි (berry), ප්‍රමාණයෙන් විවිධ වන අතර ඉදුණු විට කහ-කොළ පැහැයක් ගනී; බීජ 750ක් දක්වා අඩංගු විය හැක. බීජ කහ පැහැයට හුරු දුඹුරු සිට කළු පැහැයක් ගන්නා අතර, විෂ්කම්භය මිලිමීටර 7ක් පමණ වේ.",
+    "treatments": [
+        {
+            "treatment": "Cystitis",
+            "sinhala": "මුත්‍රාශ ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Acne",
+            "sinhala": "කුරුලෑ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worms",
+            "sinhala": "පණුවන්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatic Disorders",
+            "sinhala": "වාත රෝග ආශ්‍රිත පීඩාවන්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gastric Disorders",
+            "sinhala": "ආමාශගත රෝග/අපහසුතා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hoarseness of Voice",
+            "sinhala": "කටහඬ බැරැන්ඩි වීම (ස්වරභේද)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Laryngitis",
+            "sinhala": "ස්වරාලය ප්‍රදාහයට පත්වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tracheitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dengue Fever",
+            "sinhala": "ඩෙංගු උණ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Stings/Burns",
+            "sinhala": "දෂ්ට කිරීම් සහ පිළිස්සුම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Fruit",
+        "Latex of Trunk"
+    ],
+    "images": [
+        {
+            "image_id": "969",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/1tCBrBby/plant00286-00969.jpg"
+        },
+        {
+            "image_id": "970",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/spLr2vDz/plant00286-00970.jpg"
+        },
+        {
+            "image_id": "3488",
+            "caption": "Male Flower(PMR)",
+            "url": "https://i.ibb.co/MxNmzHk5/plant00286-03488.jpg"
+        },
+        {
+            "image_id": "3489",
+            "caption": "Female Flower (PMR)",
+            "url": "https://i.ibb.co/XZgG4Gxh/plant00286-03489.jpg"
+        },
+        {
+            "image_id": "3490",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/DgjwskdX/plant00286-03490.jpg"
+        },
+        {
+            "image_id": "3491",
+            "caption": "Inside mature fruit (PMR)",
+            "url": "https://i.ibb.co/Zp24yGCk/plant00286-03491.jpg"
+        },
+        {
+            "image_id": "3492",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/rGB6ygnW/plant00286-03492.jpg"
+        },
+        {
+            "image_id": "3493",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/hFgFB1rG/plant00286-03493.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඇහුවොත් ආසාවෙන් කන්න හිතෙන ගස්ලබු වල විශ්මිත ගුණ මෙන්න",
+                "url": "https://youtube.com/watch?v=h8QPCWSZTWw",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/h8QPCWSZTWw/hq720.jpg"
+            },
+            {
+                "title": "කටට කෙල උනන පැපොල් [ ගස්ලබු ] කරියක් හදමුද Srilankan papaya curry",
+                "url": "https://youtube.com/watch?v=-vNVGvQsH6o",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/-vNVGvQsH6o/hq720.jpg"
+            },
+            {
+                "title": "අමු ගස්ලබු කරියක් හදමුද | රසවත් පැපොල් කරිය | Raw papaya curry - Morin in the Kitchen",
+                "url": "https://youtube.com/watch?v=sa3QElxYVK0",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/sa3QElxYVK0/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු මැල්ලුම මෙහෙම හැදුවොත් හැමදාම කයි / Gaslabu Malluma / Papaya Malluma #mallumrecipe #papaya",
+                "url": "https://youtube.com/watch?v=_31xPmOEJvQ",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/_31xPmOEJvQ/hqdefault.jpg"
+            },
+            {
+                "title": "ගමේ රසට සුපිරියට ගස්ලබු  බැඳුම | VILLAGE COOKING Papaya Tempered  | Traditional Sisters",
+                "url": "https://youtube.com/watch?v=FKOXRDZhpMQ",
+                "duration": "13:55",
+                "thumbnail": "https://i.ytimg.com/vi/FKOXRDZhpMQ/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු  එක ගහකින් කිලෝ 120ක් කඩමුද#farming #agriculture #fruit 😀#papaya",
+                "url": "https://youtube.com/watch?v=3CpfWUfor1M",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/3CpfWUfor1M/hqdefault.jpg"
+            },
+            {
+                "title": "46 ජාන වෙනස් කරපු කඩේ තියන වස ගස්ලබු වලට තිත - ඔබේ ගෙදර සුපිරි පැපොල් ගසක් වවමු How to plant papaya",
+                "url": "https://youtube.com/watch?v=pkkr1ZGZ1lA",
+                "duration": "7:39",
+                "thumbnail": "https://i.ytimg.com/vi/pkkr1ZGZ1lA/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු ගෙඩි කුණු වෙනවද? පෝච්චියක ගස්ලබු වවමු | How to grow Papaya in Pot| Ceylon Agri | Epi 414",
+                "url": "https://youtube.com/watch?v=4mfkhsV6AlA",
+                "duration": "9:02",
+                "thumbnail": "https://i.ytimg.com/vi/4mfkhsV6AlA/hq720.jpg"
+            },
+            {
+                "title": "හරියටම ගස්ලබු මූණෙ ගාන ක්‍රමය How to make papaya face pack for face #homemade #skincare #howto #tips",
+                "url": "https://youtube.com/watch?v=IEC_Q7GHEqc",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/IEC_Q7GHEqc/hqdefault.jpg"
+            },
+            {
+                "title": "මෙහෙම ගස්ලබු මාළුවක් හදාගමු  - දවසම ගොඩ✔‍ 😍❤ papaya curry Traditional Sisters 0777788110",
+                "url": "https://youtube.com/watch?v=Hb09kneE6o8",
+                "duration": "10:30",
+                "thumbnail": "https://i.ytimg.com/vi/Hb09kneE6o8/hqdefault.jpg"
+            },
+            {
+                "title": "ඇහුවොත් ආසාවෙන් කන්න හිතෙන ගස්ලබු වල විශ්මිත ගුණ මෙන්න",
+                "url": "https://youtube.com/watch?v=SXGvntTyUNU",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/SXGvntTyUNU/frame0.jpg"
+            },
+            {
+                "title": "ගස්ලබු වල ඇති විශ්මිත ගුණ - Amazing properties of papaya for a healthy life",
+                "url": "https://youtube.com/watch?v=GC2vEEl4OzM",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/GC2vEEl4OzM/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම වුනත් කන්න හිතෙන පැපොල් වල අසීමිත ගුණ....",
+                "url": "https://youtube.com/watch?v=dzMwpa7f5qM",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/dzMwpa7f5qM/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු ඇට විසි කරන්න එපා.. මෙන්න එහි තිබෙන අසීමිත ගුණ Benefits of papaya seed",
+                "url": "https://youtube.com/watch?v=GJR66MMPP00",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/GJR66MMPP00/hq720.jpg"
+            },
+            {
+                "title": "දන්නෙ නැතිව පැපොල් කන්න එපා ! Papaya may be dangerouse | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dSJOKbEFpNs",
+                "duration": "10:26",
+                "thumbnail": "https://i.ytimg.com/vi/dSJOKbEFpNs/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු දියවැඩියාවට හොඳ ද? | Is Papaya good for diabetics? | Blood Sugar Test With Papaya",
+                "url": "https://youtube.com/watch?v=Awu5UMOiolk",
+                "duration": "7:09",
+                "thumbnail": "https://i.ytimg.com/vi/Awu5UMOiolk/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු ඇට ආහාරයට ගැනීමෙන් ඔබගේ ශරීරයට ලැබෙන වාසි ගැන දැන සිටියාද? දන්නැත්තම් බලන්න..!",
+                "url": "https://youtube.com/watch?v=ycHx-a33bLU",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/ycHx-a33bLU/hq720.jpg"
+            },
+            {
+                "title": "Papaya Seeds Benefits Sinhala | ගස්ලැබූ ඇට මෙච්චර ගුණ බව දැනගෙන හිටියද ? #aurweda",
+                "url": "https://youtube.com/watch?v=YD7_zow4zHg",
+                "duration": "2:05",
+                "thumbnail": "https://i.ytimg.com/vi/YD7_zow4zHg/hqdefault.jpg"
+            },
+            {
+                "title": "ගස්ලබු මල් වලින් දියවැඩියාවට වගේම කොලෙස්ටරෝල් වලටත් විස්මිත බෙහෙතක්",
+                "url": "https://youtube.com/watch?v=Jw5hXHD9108",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/Jw5hXHD9108/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු වල  ගුණ දන්නවාද ඔබ",
+                "url": "https://youtube.com/watch?v=1s9NCMgyrC0",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/1s9NCMgyrC0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස්ලබු කොළ තම්බා පානය කිරීමෙන් ලැබෙන විශ්මිත ප්‍රතිඵල මෙන්න",
+                "url": "https://youtube.com/watch?v=wM3ftCYyZD0",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/wM3ftCYyZD0/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබුවල ඖෂධීය ගුණ ,gaslabu wala guna #papaya #fruits #amazing #generalknowledge",
+                "url": "https://youtube.com/watch?v=TEwPpNw5grM",
+                "duration": "1:20",
+                "thumbnail": "https://i.ytimg.com/vi/TEwPpNw5grM/hqdefault.jpg"
+            },
+            {
+                "title": "පැපොල් කාල ඇට විසි කිරීමට පෙර මේක අනිවාර්යයෙන් බලන්න",
+                "url": "https://youtube.com/watch?v=SWjTVBETcac",
+                "duration": "5:43",
+                "thumbnail": "https://i.ytimg.com/vi/SWjTVBETcac/hqdefault.jpg"
+            },
+            {
+                "title": "ගස්ලබු ඇට මේ තරම් ගුන බව ඔබ දැන සිටියාද ~ Benifits of Papaya Seeds~ Shra Raji's Simple Life",
+                "url": "https://youtube.com/watch?v=4Vz5uVNfND8",
+                "duration": "22:01",
+                "thumbnail": "https://i.ytimg.com/vi/4Vz5uVNfND8/hqdefault.jpg"
+            },
+            {
+                "title": "වැඩි ගුණ තියෙන ගස්ලබු හිස්බඩට කෑවොත් මොනවද",
+                "url": "https://youtube.com/watch?v=d2fi8vztldM",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/d2fi8vztldM/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of papaya | ගස්ලබු වැඩිපුර කෑවොත් සිරුරට වෙනදේ මෙන්න",
+                "url": "https://youtube.com/watch?v=m9PK1w3vTqA",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/m9PK1w3vTqA/hq720.jpg"
+            },
+            {
+                "title": "Papaya seeds benefits : ගස්ලබු ඇට විසි කරන්න එපා",
+                "url": "https://youtube.com/watch?v=LJ_6fjBWBtA",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/LJ_6fjBWBtA/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ගස්ලබු පෙත්තක් සති දෙකක් කෑවොත් ඔබේ සමට මොකද වෙන්නේ? | 14 Days Papaya Challenge",
+                "url": "https://youtube.com/watch?v=3QwNjKHEguw",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/3QwNjKHEguw/hq720.jpg"
+            },
+            {
+                "title": "පැපොල්(ගස් ලබු )වල ඔබ නොදත් විශ්මිත ඖෂධීය ගුණ (Qualities of Papaya fruit)",
+                "url": "https://youtube.com/watch?v=ks_7Y737qds",
+                "duration": "3:06",
+                "thumbnail": "https://i.ytimg.com/vi/ks_7Y737qds/hqdefault.jpg"
+            },
+            {
+                "title": "ගස්ලබු ගැන ඔබ නොදත් රහස් හතක් | Secrets of Papaya |  Gagana Featured....",
+                "url": "https://youtube.com/watch?v=9szI9CbhBNQ",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/9szI9CbhBNQ/hq720.jpg"
+            },
+            {
+                "title": "Episode 05: පැපොල් ගෙඩියක් දවසක් තුළ ඉදවන්නේ කෙසේද | (ගස්ලබු) | How to papaya ripens in a day",
+                "url": "https://youtube.com/watch?v=439wPsLACHo",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/439wPsLACHo/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු වගාවේ රහස් 04 / කොල කොඩවිම",
+                "url": "https://youtube.com/watch?v=JvOoQ3qzsUM",
+                "duration": "13:33",
+                "thumbnail": "https://i.ytimg.com/vi/JvOoQ3qzsUM/hq720.jpg"
+            },
+            {
+                "title": "10 ගස්ලබු අතු පැල කරමුද​ Grafting And Air Layering Papaya Trees පැපොල් වගාව",
+                "url": "https://youtube.com/watch?v=XzCrDbz3IuM",
+                "duration": "6:53",
+                "thumbnail": "https://i.ytimg.com/vi/XzCrDbz3IuM/hqdefault.jpg"
+            },
+            {
+                "title": "ගමේ රසට මස් වගේ ගස්ලබු කරිය | Healthy Village Food Papaya Curry | Harvesting and Cooking Papaya",
+                "url": "https://youtube.com/watch?v=_5N5lwrWxVo",
+                "duration": "9:01",
+                "thumbnail": "https://i.ytimg.com/vi/_5N5lwrWxVo/hq720.jpg"
+            },
+            {
+                "title": "Benefits of papaya seeds|ගස්ලබු ඇටේ වටිනාකම|helth benefit papaya|Aurveda benefits|SL Dilini Vlog",
+                "url": "https://youtube.com/watch?v=KR7QUr6UKnM",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/KR7QUr6UKnM/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු වගාවේ ආදායම #papaya #gaslabu #ගස්ලබු",
+                "url": "https://youtube.com/watch?v=tblwDzjAesI",
+                "duration": "6:22",
+                "thumbnail": "https://i.ytimg.com/vi/tblwDzjAesI/hq720.jpg"
+            },
+            {
+                "title": "how to make Papaya juice with blender | ගස්ලබු බීම එකක් විනාඩි දෙකකින් හදාගමු",
+                "url": "https://youtube.com/watch?v=iBbQAtP2Fgc",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/iBbQAtP2Fgc/hq720.jpg"
+            },
+            {
+                "title": "කවදාවත්ම ගස්ලබු ඇට විසිකරන්න එපා! හේතුව ඇහුවෙත් ඔබ පුදුම වේවි. - Do Not Throw Away The PAPAYA SEEDS",
+                "url": "https://youtube.com/watch?v=Wuun8i0gQz4",
+                "duration": "10:11",
+                "thumbnail": "https://i.ytimg.com/vi/Wuun8i0gQz4/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු කෑවොත් ඔයාට වෙන්නෙ මේකයි - What are the health effects of Papaya",
+                "url": "https://youtube.com/watch?v=YM6wWIuTwSo",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/YM6wWIuTwSo/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබු වගාවේ නොකියන රහස්.#papaya #farming #fruts .",
+                "url": "https://youtube.com/watch?v=DM2y6z2i3w0",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/DM2y6z2i3w0/hq720.jpg"
+            },
+            {
+                "title": "ගස්ලබුවල ඖෂධීය ගුණ ,gaslabu wala guna #papaya #fruits #amazing #generalknowledge",
+                "url": "https://youtube.com/watch?v=sljRefaAVyk",
+                "duration": "1:20",
+                "thumbnail": "https://i.ytimg.com/vi/sljRefaAVyk/frame0.jpg"
+            },
+            {
+                "title": "ඇහුවොත් ආසාවෙන් කන්න හිතෙන ගස්ලබු වල විශ්මිත ගුණ මෙන්න",
+                "url": "https://youtube.com/watch?v=vzCmE1QAz6U",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/vzCmE1QAz6U/frame0.jpg"
+            },
+            {
+                "title": "ගස්ලබු වල ඖෂධීය ගුණ Medicinal properties of papaya - wishmakarma you tube channel",
+                "url": "https://youtube.com/watch?v=pTHYcO_20Q0",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/pTHYcO_20Q0/hq720.jpg"
+            },
+            {
+                "title": "දෙවියනේ කොච්චර කෑවත් අපි කිරි වල ගුනේ දන්නෙ නෑනෙ papain extraction",
+                "url": "https://youtube.com/watch?v=SH2FqGCqv4Y",
+                "duration": "6:39",
+                "thumbnail": "https://i.ytimg.com/vi/SH2FqGCqv4Y/hq720.jpg"
+            },
+            {
+                "title": "Papaya Cultivation in Sri Lanka / Papaya Leaf spot disease",
+                "url": "https://youtube.com/watch?v=KgSd67CY4rM",
+                "duration": "6:18",
+                "thumbnail": "https://i.ytimg.com/vi/KgSd67CY4rM/hq720.jpg"
+            },
+            {
+                "title": "පිටිමකුනා පාලනය ගස්ලබුවගාවේ,pitimakuna palanaya ,In papaya cultivation",
+                "url": "https://youtube.com/watch?v=0OY1WPbCHH0",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/0OY1WPbCHH0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස්ලබු වලින් සුදු වෙමුද? 🤗 | skin whitening home remedies with papaya 😊",
+                "url": "https://youtube.com/watch?v=toTrq8Wm6Mo",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/toTrq8Wm6Mo/hq720.jpg"
+            },
+            {
+                "title": "ගමේ රසට මස් වගේ ගස්ලබු කරිය | Healthy Village Food Papaya Curry | Harvesting and Cooking Papaya",
+                "url": "https://youtube.com/watch?v=KkDBmC3kTpE",
+                "duration": "9:01",
+                "thumbnail": "https://i.ytimg.com/vi/KkDBmC3kTpE/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Acne",
-      "sinhala": "කුරුලෑ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worms",
-      "sinhala": "පණුවන්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatic Disorders",
-      "sinhala": "වාත රෝග ආශ්‍රිත පීඩාවන්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gastric Disorders",
-      "sinhala": "ආමාශගත රෝග/අපහසුතා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hoarseness of Voice",
-      "sinhala": "කටහඬ බැරැන්ඩි වීම (ස්වරභේද)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Laryngitis",
-      "sinhala": "ස්වරාලය ප්‍රදාහයට පත්වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tracheitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Dengue Fever",
-      "sinhala": "ඩෙංගු උණ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Stings/Burns",
-      "sinhala": "දෂ්ට කිරීම් සහ පිළිස්සුම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Fruit",
-    "Latex of Trunk"
-  ],
-  "images": [
-    {
-      "image_id": "969",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/1tCBrBby/plant00286-00969.jpg"
-    },
-    {
-      "image_id": "970",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/spLr2vDz/plant00286-00970.jpg"
-    },
-    {
-      "image_id": "3488",
-      "caption": "Male Flower(PMR)",
-      "url": "https://i.ibb.co/MxNmzHk5/plant00286-03488.jpg"
-    },
-    {
-      "image_id": "3489",
-      "caption": "Female Flower (PMR)",
-      "url": "https://i.ibb.co/XZgG4Gxh/plant00286-03489.jpg"
-    },
-    {
-      "image_id": "3490",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/DgjwskdX/plant00286-03490.jpg"
-    },
-    {
-      "image_id": "3491",
-      "caption": "Inside mature fruit (PMR)",
-      "url": "https://i.ibb.co/Zp24yGCk/plant00286-03491.jpg"
-    },
-    {
-      "image_id": "3492",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/rGB6ygnW/plant00286-03492.jpg"
-    },
-    {
-      "image_id": "3493",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/hFgFB1rG/plant00286-03493.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

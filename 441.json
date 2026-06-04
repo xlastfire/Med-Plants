@@ -1,38 +1,631 @@
 {
-  "scientificName": "Vatica paludosa Kosterm.",
-  "synonyms": [],
-  "familyName": "DIPTEROCARPACEAE",
-  "englishNames": [],
-  "sinhalaName": "Mendora (මැන්ඩොරා)",
-  "description": "",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "2056",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/Zz4b4F21/plant00441-02056.jpg"
+    "scientificName": "Vatica paludosa Kosterm.",
+    "synonyms": [],
+    "familyName": "DIPTEROCARPACEAE",
+    "englishNames": [],
+    "sinhalaName": "Mendora (මැන්ඩොරා)",
+    "description": "",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "2056",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/Zz4b4F21/plant00441-02056.jpg"
+        },
+        {
+            "image_id": "2057",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/FqW0BQzt/plant00441-02057.jpg"
+        },
+        {
+            "image_id": "2058",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/Qv8nM4tR/plant00441-02058.jpg"
+        },
+        {
+            "image_id": "2059",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/Kp2Tt4PM/plant00441-02059.jpg"
+        },
+        {
+            "image_id": "2060",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/tM72V3YS/plant00441-02060.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මත්ද්‍රව්‍ය ජාවාරමේ මහ මෝරා 'ශිරාන් බාසික්'  - ලංකාවට ගෙනාවොත් ජීවිතාන්තය දක්වා සිරදඬුවම්",
+                "url": "https://youtube.com/watch?v=iU9ANgUaj9M",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/iU9ANgUaj9M/hq720.jpg"
+            },
+            {
+                "title": "මරුවාට රටින් පනින්න බෑ",
+                "url": "https://youtube.com/watch?v=VOX5F2RDUnQ",
+                "duration": "13:07",
+                "thumbnail": "https://i.ytimg.com/vi/VOX5F2RDUnQ/hq720.jpg"
+            },
+            {
+                "title": "මට ගැහුවොත් 1 vs 4 | ROAD TO 20k",
+                "url": "https://youtube.com/watch?v=jsZJIsub6CA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/jsZJIsub6CA/hq720.jpg"
+            },
+            {
+                "title": "මරු කැඳවන ලාඕසයේ රන් ආකර",
+                "url": "https://youtube.com/watch?v=z-RUBuKl7f4",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/z-RUBuKl7f4/hq720.jpg"
+            },
+            {
+                "title": "මත්ද්‍රව්‍ය ජාවරමුන්ගේ නැවකට අමෙරිකාවෙන් ප්‍රහාරයක් තිදෙනකු මරුට| Monara",
+                "url": "https://youtube.com/watch?v=tSjYaQ_eSHI",
+                "duration": "0:19",
+                "thumbnail": "https://i.ytimg.com/vi/tSjYaQ_eSHI/hq720.jpg"
+            },
+            {
+                "title": "ස්පාඤ්ඤ රජු ඉදිරියේ ධජය බිමට වැටෙයි | Monara",
+                "url": "https://youtube.com/watch?v=V8qT1XtNjDA",
+                "duration": "1:10",
+                "thumbnail": "https://i.ytimg.com/vi/V8qT1XtNjDA/hq720.jpg"
+            },
+            {
+                "title": "[Madduma Bandarala Yali] - Featuring [Gihansith Sandil] | Official Trailer | Releasing on 31st May",
+                "url": "https://youtube.com/watch?v=R5V5yjhYWGE",
+                "duration": "0:54",
+                "thumbnail": "https://i.ytimg.com/vi/R5V5yjhYWGE/hq720.jpg"
+            },
+            {
+                "title": "මාලිමා මන්ත්‍රී සූරියාරච්චි තෙල් වැඩිවුණ හේතුව කියයි",
+                "url": "https://youtube.com/watch?v=RXqmloup97Q",
+                "duration": "12:58",
+                "thumbnail": "https://i.ytimg.com/vi/RXqmloup97Q/hq720.jpg"
+            },
+            {
+                "title": "චේන් කඩන ත්‍රී සිස්ටර්ස් රූමතිය කොටුවෙයි",
+                "url": "https://youtube.com/watch?v=QHapty_xoKE",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/QHapty_xoKE/hq720.jpg"
+            },
+            {
+                "title": "මහකනදරාව වැවේ වැරදි වැඩකළ ධීවරයෝ | Ada Derana",
+                "url": "https://youtube.com/watch?v=KwjE6vyh7Tw",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/KwjE6vyh7Tw/hq720.jpg"
+            },
+            {
+                "title": "පෝය දවසේ මොනවද කරන්නේ යාලුවො  🙋🙋🥰",
+                "url": "https://youtube.com/watch?v=VQIRrCJw2Zk",
+                "duration": "27:20",
+                "thumbnail": "https://i.ytimg.com/vi/VQIRrCJw2Zk/hqdefault.jpg"
+            },
+            {
+                "title": "දරාගැනීම  | කවිද? මන්ද... | Menaka Jayasundara",
+                "url": "https://youtube.com/watch?v=ZK0UByfQ42Y",
+                "duration": "0:45",
+                "thumbnail": "https://i.ytimg.com/vi/ZK0UByfQ42Y/hq720.jpg"
+            },
+            {
+                "title": "මෙව්වානම්😂 #shorts #funny #viral #trending #fyp",
+                "url": "https://youtube.com/watch?v=0xrGy9qHsBk",
+                "duration": "0:42",
+                "thumbnail": "https://i.ytimg.com/vi/0xrGy9qHsBk/hq720.jpg"
+            },
+            {
+                "title": "වී 120ට දෙන්න පැලවත්තට ගේන්න - Rohana Bandara",
+                "url": "https://youtube.com/watch?v=j2QkCHHODgA",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/j2QkCHHODgA/hq720_2.jpg"
+            },
+            {
+                "title": "මාතරට ගිය සජිත්ට ලැබුණු සුපිරි පිළිගැනීම",
+                "url": "https://youtube.com/watch?v=lGQB_Innyzo",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/lGQB_Innyzo/hq720_2.jpg"
+            },
+            {
+                "title": "දෙයියන්ගෙ වරම | Deiyange Warama  #comedy #srilankacomedy #funny",
+                "url": "https://youtube.com/watch?v=rtkO6Op9qFQ",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/rtkO6Op9qFQ/hq720_2.jpg"
+            },
+            {
+                "title": "ආදර මාළු😍|Heavy Night shift |Stay with me #trending #love",
+                "url": "https://youtube.com/watch?v=6iawlSHgnQ0",
+                "duration": "0:29",
+                "thumbnail": "https://i.ytimg.com/vi/6iawlSHgnQ0/hq720.jpg"
+            },
+            {
+                "title": "හර්ෂගේ හඳ... | Monara",
+                "url": "https://youtube.com/watch?v=0naNieQuQLU",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/0naNieQuQLU/hq720_2.jpg"
+            },
+            {
+                "title": "මෙව්වානම්😂 #shorts  #funny #viral #trending #fyp",
+                "url": "https://youtube.com/watch?v=rvofZhXx-rU",
+                "duration": "0:27",
+                "thumbnail": "https://i.ytimg.com/vi/rvofZhXx-rU/hq720.jpg"
+            },
+            {
+                "title": "උදේට ඔයා කරන මේ 'නරක' පුරුදු හින්දා දවසම විනාසයි! (පිරිමින්ට විශේෂයි) |   @TheModernMansDiary",
+                "url": "https://youtube.com/watch?v=51KszhAH7ME",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/51KszhAH7ME/hq720_2.jpg"
+            },
+            {
+                "title": "ටික ටික ගෙවන්න ලක්ෂ 60 ට ඉඩමක් #mathra #dikwella #bankloanavailable #landforsale",
+                "url": "https://youtube.com/watch?v=FetKy2M7CNA",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/FetKy2M7CNA/hq720.jpg"
+            },
+            {
+                "title": "මාතරින් මෙච්චර අඩුවට ඉඩමක්😇#mathara #landforsale #aduwataidam #realestatesrilanka #srilanka",
+                "url": "https://youtube.com/watch?v=7eJL5G_M-Xg",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/7eJL5G_M-Xg/hq720.jpg"
+            },
+            {
+                "title": "නාමල්ගේ ඇමති මණ්ඩලේ 🐐",
+                "url": "https://youtube.com/watch?v=jG9VXPCytPs",
+                "duration": "0:06",
+                "thumbnail": "https://i.ytimg.com/vi/jG9VXPCytPs/hq720_2.jpg"
+            },
+            {
+                "title": "ජීවිතේ තිබූන හීන වලට යන්න ගොඩක් වැඩ කරපු තැන",
+                "url": "https://youtube.com/watch?v=WbDAwt_nQCM",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/WbDAwt_nQCM/hq720_2.jpg"
+            },
+            {
+                "title": "ගුණ පිරි මුද්දරප්පලම්වල ඇති විස්මිත ප්‍රතිලාභ මෙන්න #raisinsbenefits #healthy #food",
+                "url": "https://youtube.com/watch?v=nMSW30KNn-I",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/nMSW30KNn-I/hq720.jpg"
+            },
+            {
+                "title": "පැය විසිහතරෙන් දියවැඩියාව සුවකරන මාදං | Madan | Syzygium cumini benefits🌿",
+                "url": "https://youtube.com/watch?v=wc89BMn-58Q",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/wc89BMn-58Q/hq720.jpg"
+            },
+            {
+                "title": "ස්නායු රෝග සදහා ගුණ, සමහර පැතිවල ගොනිකා නමින් හදුන්වන රෑනමැඩිය නම් ඔසුව (Raanamadiya)",
+                "url": "https://youtube.com/watch?v=VjJVTX5Y_bs",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/VjJVTX5Y_bs/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ආමන්ඩ් ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදු වෙන විශ්මිත දේවල් 12ක් | 12 Health Benefits of Almonds",
+                "url": "https://youtube.com/watch?v=Fd8_EKAo9QU",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/Fd8_EKAo9QU/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල් නසන මාදුරු වල විශ්මිත ගුන ඔබ අසානැත්ව ඇති මේ එහි ඖෂදීය ගුණයි | Sweet Cumin seeds benefit",
+                "url": "https://youtube.com/watch?v=1UemmNIW9_c",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/1UemmNIW9_c/hq720.jpg"
+            },
+            {
+                "title": "දිය මෙනේරිය ශාඛයේ ඖෂධීය ගුණ | Commelina benghalensis",
+                "url": "https://youtube.com/watch?v=tH__k6g-uZs",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/tH__k6g-uZs/hq720.jpg"
+            },
+            {
+                "title": "Madatiya | මදටියා ගසේ ගුණ #මදටියාගස #madatiya #madatiyagas #madatiyatree #හෙළවෙදකම #ඖෂධශාක #ඖෂධගුණ",
+                "url": "https://youtube.com/watch?v=RibFCf63BfE",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/RibFCf63BfE/hqdefault.jpg"
+            },
+            {
+                "title": "එදිනෙදා ජීවිතයට මා දං වල ඇති වටිනාකම | Garcinia schomburgkiana",
+                "url": "https://youtube.com/watch?v=9e2wfQ5H4fY",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/9e2wfQ5H4fY/hq720.jpg"
+            },
+            {
+                "title": "මුංඇට වල විශ්මිත ගුණය - Amazing quality of green gram",
+                "url": "https://youtube.com/watch?v=hqqZj_KO6_o",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/hqqZj_KO6_o/hq720.jpg"
+            },
+            {
+                "title": "අපේ පරණ ගුණ කෑමක් මෙනේරි කැඳ - Episode 597 - Anoma's Kitchen",
+                "url": "https://youtube.com/watch?v=REuk-a8VDdw",
+                "duration": "5:44",
+                "thumbnail": "https://i.ytimg.com/vi/REuk-a8VDdw/hqdefault.jpg"
+            },
+            {
+                "title": "නොදැන භාවිතයෙන් විසවිය හැකි, ලිංගික ශක්තිය වර්ධනය කරන ආයුර්වේදීය ගුණ අනූන වදුරු මෑ වල නිවැරදි භාවිතය",
+                "url": "https://youtube.com/watch?v=7RtJw51ihNw",
+                "duration": "15:37",
+                "thumbnail": "https://i.ytimg.com/vi/7RtJw51ihNw/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා වියළි මිදි 5ක් කෑවොත් ඔබේ සිරුරට සිදුවෙන හිතාගන්නවත් බැරි විස්මිත දේ |Raisins",
+                "url": "https://youtube.com/watch?v=L7YCJe4CdSc",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/L7YCJe4CdSc/hq720.jpg"
+            },
+            {
+                "title": "අධිරුධිර පීඩනය විනාඩියෙන් සුව කරන, මහබඩවැල් පිළිකා වලක්වන ඖෂධ රාජයා | tea for high blood pressure",
+                "url": "https://youtube.com/watch?v=fiofFmTpGJE",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/fiofFmTpGJE/hq720.jpg"
+            },
+            {
+                "title": "මහදුරු වල විශ්මිත ගුණ - Amazing quality of fennel for a healthy life",
+                "url": "https://youtube.com/watch?v=yu87jayqE8U",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/yu87jayqE8U/hq720.jpg"
+            },
+            {
+                "title": "මෙනේරි කෑවොත් වෙන දේ මෙන්න : How millet effects our health (2019)",
+                "url": "https://youtube.com/watch?v=1xZdxJRVAkI",
+                "duration": "1:48",
+                "thumbnail": "https://i.ytimg.com/vi/1xZdxJRVAkI/hq720.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය වලින් මේ තරම් ගුණ රැසක්? නිතර දකින මේ ප්‍රබල ඔසුව දිව්‍යමය ඖෂධයක් බව දැනසිටියාද?",
+                "url": "https://youtube.com/watch?v=As_UacGA3Kc",
+                "duration": "11:54",
+                "thumbnail": "https://i.ytimg.com/vi/As_UacGA3Kc/hq720.jpg"
+            },
+            {
+                "title": "කන්න අමාරුයි...කෑවෙත් දියවැඩියාව සදහටම මට්ටුයි..   \"මස්බැද්ද\"",
+                "url": "https://youtube.com/watch?v=wjKd6S7ptIs",
+                "duration": "0:45",
+                "thumbnail": "https://i.ytimg.com/vi/wjKd6S7ptIs/hq720.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "මස්බැද්ද-Masbedda | දියවැඩියාවට මස්බැද්ද ශරීරයට හිතකරද?  #Lokayo",
+                "url": "https://youtube.com/watch?v=f4yWry-UCnU",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/f4yWry-UCnU/hqdefault.jpg"
+            },
+            {
+                "title": "මදසරු භාවය නැති කරන හෙල ඔසු Senna auriculata benefits",
+                "url": "https://youtube.com/watch?v=mL11LZ9QecI",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/mL11LZ9QecI/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ඉන්දියාවෙන් අත්‍යවශ්‍ය ඖශධ වර්ග 17ක් මෙරටට පරිත්‍යාග කරයි",
+                "url": "https://youtube.com/watch?v=mXTtb3uyQYI",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/mXTtb3uyQYI/hq720.jpg"
+            },
+            {
+                "title": "ඇග සිසිල් කරන|වියපත් ඔයා තරුණ කරන දිව්‍යමය ඔසුවක්| 🍟🍔🍕🌭තෙල් කෑම කනවා නම් අනිවාර්යයෙන් ම බලන්න🍵🍵👌🏻👌🏻",
+                "url": "https://youtube.com/watch?v=_B8TZmh_P5c",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/_B8TZmh_P5c/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට ලබාදෙන ඖශධ සහ ප්‍රතිකාර සිදුකරන ආකාරය සරලව Diabetes Treatments",
+                "url": "https://youtube.com/watch?v=Ez2JQ0JKIhM",
+                "duration": "18:09",
+                "thumbnail": "https://i.ytimg.com/vi/Ez2JQ0JKIhM/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "ගියපු කොණ්ඩේ ආය වවන මැජික් තෙල් වර්ග 05😇| natural herbal hair oils at home using simple traditional",
+                "url": "https://youtube.com/watch?v=PwOtKXy4H9A",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/PwOtKXy4H9A/hq720.jpg"
+            },
+            {
+                "title": "Around 200 cases of meningitis reported so far from several areas; Health Ministry issues guidelines",
+                "url": "https://youtube.com/watch?v=FAdNMhZuUok",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/FAdNMhZuUok/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත - part 2🙏",
+                "url": "https://youtube.com/watch?v=IdQIkJpM5Ns",
+                "duration": "25:31",
+                "thumbnail": "https://i.ytimg.com/vi/IdQIkJpM5Ns/hq720.jpg"
+            },
+            {
+                "title": "කොන්දේ අමාරුවට බොරුවට බෙහෙත් බොන්න එපා - අදම මේක මාරු කරලා බලන්න |How Your Mattress Causes Back Pain",
+                "url": "https://youtube.com/watch?v=2fmfdDayx50",
+                "duration": "8:25",
+                "thumbnail": "https://i.ytimg.com/vi/2fmfdDayx50/hq720.jpg"
+            },
+            {
+                "title": "මේ වීඩියෝව නම් කිසිසේත්ම මගහැර ගන්නට එපා..... තෙල් සම්බන්ධව ආන්දෝලනාත්මක තොරතුරු රැසක්.....🌿",
+                "url": "https://youtube.com/watch?v=dUcs4laURHA",
+                "duration": "16:39",
+                "thumbnail": "https://i.ytimg.com/vi/dUcs4laURHA/hqdefault.jpg"
+            },
+            {
+                "title": "ඇත්දෙමට භාවිතා කරලා මේ රෝග සියල්ලෙන් බේරෙන හැටි හරියට දැනගන්න ආයුර්වේදයේ තිබෙන තවත් ප්‍රබල බෙහෙතක්",
+                "url": "https://youtube.com/watch?v=aC_pEWh3sqU",
+                "duration": "9:52",
+                "thumbnail": "https://i.ytimg.com/vi/aC_pEWh3sqU/hq720.jpg"
+            },
+            {
+                "title": "තුන් මංසලක හොල්මනක් සමග තනිවුණු යකදුරා අම්මෝ බය නැද්ද මන්දා",
+                "url": "https://youtube.com/watch?v=2intO6sfLAg",
+                "duration": "15:41",
+                "thumbnail": "https://i.ytimg.com/vi/2intO6sfLAg/hq720.jpg"
+            },
+            {
+                "title": "ගැස්ට්‍රයිටිස් කියන්නේ මානසික ලෙඩක්. ඒකට හොදම බෙහෙත මෙන්න | Isiwara_Adawiya | Hela_herbals",
+                "url": "https://youtube.com/watch?v=tPZ3TzrGmGA",
+                "duration": "15:52",
+                "thumbnail": "https://i.ytimg.com/vi/tPZ3TzrGmGA/hq720.jpg"
+            },
+            {
+                "title": "කෙණ්ඩා පෙරලීම මෙතරම් භයානකද? The Hidden Danger of Leg Cramps!",
+                "url": "https://youtube.com/watch?v=DKFnTu2dVyI",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/DKFnTu2dVyI/hq720.jpg"
+            },
+            {
+                "title": "මස්පිඩු පෙරලෙනවට බොන්න පුළුවන් ඖශධ මෙන්ම ගාන්න පුළුවන් ආයුර්වේදීය ඖශධීය තෙල් වර්ග කිහිපයක්",
+                "url": "https://youtube.com/watch?v=8BH_HTEAyf4",
+                "duration": "13:22",
+                "thumbnail": "https://i.ytimg.com/vi/8BH_HTEAyf4/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ කරවිලවල ඇත්ත නැත්ත | Bitter Melon For Blood Sugar By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0SdTXNz-LDE",
+                "duration": "12:53",
+                "thumbnail": "https://i.ytimg.com/vi/0SdTXNz-LDE/hq720.jpg"
+            },
+            {
+                "title": "Waduru ma | වදුරු මෑ අති ප්‍රබල වාජීකරණ ඔසුව|Mucuna pruriens.osu -ඔසු",
+                "url": "https://youtube.com/watch?v=bDb9mAmac2w",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/bDb9mAmac2w/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල අපට නොපෙනෙන ගුණය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හැරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=hRpzilgWq5o",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/hRpzilgWq5o/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව කොලෙස්ටරෝල් නසන පෝෂණීය ආහාරයක් | diyawadiyawata kanna dewal | සීනි මට්ටම අඩු කරන ආහාර",
+                "url": "https://youtube.com/watch?v=mUd_gzS55ts",
+                "duration": "12:56",
+                "thumbnail": "https://i.ytimg.com/vi/mUd_gzS55ts/hq720.jpg"
+            },
+            {
+                "title": "තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ.  Health benefits of Thulasi.",
+                "url": "https://youtube.com/watch?v=kKukenrdq0k",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/kKukenrdq0k/hq720.jpg"
+            },
+            {
+                "title": "මානෙල් දඩු ව්‍යාංජනය සහ තවත් ඖෂධීය ආහාර  ▏Deegoda Kumara",
+                "url": "https://youtube.com/watch?v=R7Z_BUnRM4w",
+                "duration": "15:56",
+                "thumbnail": "https://i.ytimg.com/vi/R7Z_BUnRM4w/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "දඬු මඟින් සිටුවන ශාක වර්ග/#education#educational#trees#video#foryou#primaryTV @IshaniMS96",
+                "url": "https://youtube.com/watch?v=KwhNia8Z6II",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/KwhNia8Z6II/hq720.jpg"
+            },
+            {
+                "title": "⛔ලංකාව ලෝකය හොල්ලයි! ලේ වල ඝනකම අඩුකරන සුපිරි පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=R03vVDIhLWs",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/R03vVDIhLWs/hq720.jpg"
+            },
+            {
+                "title": "🌿 The Crazy Demand for Organic Veggies! | 🤔 Even the Government Is Surprised!",
+                "url": "https://youtube.com/watch?v=Cpu95wgsKM0",
+                "duration": "24:46",
+                "thumbnail": "https://i.ytimg.com/vi/Cpu95wgsKM0/hq720.jpg"
+            },
+            {
+                "title": "ශාක මුල් වර්ග සහ මුල් වල කාර්යයන් හඳුනාගනිමු 7 ශ්‍රේණිය විද්‍යාව පාඩම 5 ශ්‍රේණිය ශිෂ්‍යත්ව පාඩම",
+                "url": "https://youtube.com/watch?v=kvFjv5iGtFM",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/kvFjv5iGtFM/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "කම්මැලිකම නැති කරන - ශක්තිමත් බව වැඩි කරන Mg වල සුපිරි ගුන 12 ක් | පලවන කොටස",
+                "url": "https://youtube.com/watch?v=8ZGM1xh3go4",
+                "duration": "8:38",
+                "thumbnail": "https://i.ytimg.com/vi/8ZGM1xh3go4/hqdefault.jpg"
+            },
+            {
+                "title": "🟢ශ්‍රියා කාන්තාව නිවසට වඩිනවා මේ පැලයක් තිබුනොත්! ධනයට අධිපති. මේ මල් පැල අදම නිවසේ සිටවන්න",
+                "url": "https://youtube.com/watch?v=b1donRkxg3o",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/b1donRkxg3o/hq720.jpg"
+            },
+            {
+                "title": "Need චාරිකා - දිගහැරුම 27 - මින් මැදුර ගැන ලඟදිම දැනගමු",
+                "url": "https://youtube.com/watch?v=IJXwvkWdEOE",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/IJXwvkWdEOE/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "මේ දේවල් වල ප්‍රයෝජන දැනගෙන කරමු (Sinhala) හැමෝම නොදන්න ගොඩක් දේ",
+                "url": "https://youtube.com/watch?v=6udAxTpJvv0",
+                "duration": "6:27",
+                "thumbnail": "https://i.ytimg.com/vi/6udAxTpJvv0/hq720.jpg"
+            },
+            {
+                "title": "🔴යකෝ මෙචිචර විටමින්😲? මේ පලා වර්ග කාලා නැත්තං ලැජ්ජ වෙන්ඩ",
+                "url": "https://youtube.com/watch?v=AHTl3nMAWZI",
+                "duration": "8:19",
+                "thumbnail": "https://i.ytimg.com/vi/AHTl3nMAWZI/hq720.jpg"
+            },
+            {
+                "title": "The Powerful Healer Hiding In Your Backyard",
+                "url": "https://youtube.com/watch?v=Sxzqg_BclSE",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/Sxzqg_BclSE/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=OhD9C89hrqk",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/OhD9C89hrqk/hq720.jpg"
+            },
+            {
+                "title": "DANDELION BENEFITS - 12 Impressive Health Benefits of Dandelion",
+                "url": "https://youtube.com/watch?v=MTfk4DEs9y4",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/MTfk4DEs9y4/hq720.jpg"
+            },
+            {
+                "title": "12 Moringa Seed Benefits You'll Never Hear from Your Doctor (But You Should Know)",
+                "url": "https://youtube.com/watch?v=r-fyOSx6Zf0",
+                "duration": "18:29",
+                "thumbnail": "https://i.ytimg.com/vi/r-fyOSx6Zf0/hq720.jpg"
+            },
+            {
+                "title": "5 Incredible Health Benefits of Common Mallow (Malva Neglecta)",
+                "url": "https://youtube.com/watch?v=PYnbAYzOAW0",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/PYnbAYzOAW0/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits Of Cilantro You Should Know! | Health Benefits Of Cilantro",
+                "url": "https://youtube.com/watch?v=jlaelYqV94o",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/jlaelYqV94o/hq720.jpg"
+            },
+            {
+                "title": "Plantain Uses and Benefits",
+                "url": "https://youtube.com/watch?v=-97NXHyxRjA",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/-97NXHyxRjA/hq720.jpg"
+            },
+            {
+                "title": "Dandelion Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=L62VWWsdzIo",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/L62VWWsdzIo/hq720.jpg"
+            },
+            {
+                "title": "7 Amazing Health Benefits Of Moringa",
+                "url": "https://youtube.com/watch?v=0htlaObHx3w",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/0htlaObHx3w/hq720.jpg"
+            },
+            {
+                "title": "Moringa: The All-In-One Miracle That Can Change Your Health and Life!  Dr. Mandell",
+                "url": "https://youtube.com/watch?v=USZHrBkLUXk",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/USZHrBkLUXk/hq720.jpg"
+            },
+            {
+                "title": "TOO MANY MORINGA HEALTH BENEFITS FOR YOU TO SEE - Scientifically Based Moringa  Health Benefits",
+                "url": "https://youtube.com/watch?v=8odQY7GVB9k",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/8odQY7GVB9k/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health Benefits Of Moringa (Drumstick Tree) |Eat Moringa Everyday To Get These Benefits",
+                "url": "https://youtube.com/watch?v=i4R-V2e6dbA",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/i4R-V2e6dbA/hq720.jpg"
+            },
+            {
+                "title": "Mussaenda; amazing health benefits & gardening #biodoors #garden #health #floweringplants #ayurved",
+                "url": "https://youtube.com/watch?v=yOsf7v2LArQ",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/yOsf7v2LArQ/hq720.jpg"
+            },
+            {
+                "title": "The Powerful Healer Hiding In Your Backyard",
+                "url": "https://youtube.com/watch?v=ZmgdZcRGFsQ",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/ZmgdZcRGFsQ/frame0.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "🔴LIVE | අද දෙරණ 6.55 ප්‍රධාන පුවත් විකාශය - 2026.06.04 | Ada Derana Prime Time News Bulletin",
+                "url": "https://youtube.com/watch?v=LLiADooEJxA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/LLiADooEJxA/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "10 Health Benefits Of Mangosteen (Garcinia Mangostana)",
+                "url": "https://youtube.com/watch?v=n8Gg2Ye7DXk",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/n8Gg2Ye7DXk/hq720.jpg"
+            },
+            {
+                "title": "Why Dandelion is SO Powerful!",
+                "url": "https://youtube.com/watch?v=-NyJOqQTlHg",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/-NyJOqQTlHg/frame0.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "2057",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/FqW0BQzt/plant00441-02057.jpg"
-    },
-    {
-      "image_id": "2058",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/Qv8nM4tR/plant00441-02058.jpg"
-    },
-    {
-      "image_id": "2059",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/Kp2Tt4PM/plant00441-02059.jpg"
-    },
-    {
-      "image_id": "2060",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/tM72V3YS/plant00441-02060.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

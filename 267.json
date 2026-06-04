@@ -1,60 +1,635 @@
 {
-  "scientificName": "",
-  "synonyms": [],
-  "familyName": "",
-  "englishNames": [
-    "Turnip",
-    "Knol khol"
-  ],
-  "sinhalaName": "Knol khol (නොල් කෝල්  )",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Fungal Infections",
-      "sinhala": "දිලීර ආසාදන (චර්මගත දිලීර රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "",
+    "synonyms": [],
+    "familyName": "",
+    "englishNames": [
+        "Turnip",
+        "Knol khol"
+    ],
+    "sinhalaName": "Knol khol (නොල් කෝල්  )",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Fungal Infections",
+            "sinhala": "දිලීර ආසාදන (චර්මගත දිලීර රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bacterial Infections",
+            "sinhala": "බැක්ටීරියා ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "2909",
+            "caption": "Habit 1 (PMR)",
+            "url": "https://i.ibb.co/v6Y7VBFr/plant00267-02909.jpg"
+        },
+        {
+            "image_id": "2910",
+            "caption": "Habit 2 (PMR)",
+            "url": "https://i.ibb.co/WTS24Hp/plant00267-02910.jpg"
+        },
+        {
+            "image_id": "2911",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/1ftWJw79/plant00267-02911.jpg"
+        },
+        {
+            "image_id": "2912",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/whq6PGJH/plant00267-02912.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "නිලු අසිත කල්පනිට කෝල් ගනි...",
+                "url": "https://youtube.com/watch?v=FfVvWZkdm_s",
+                "duration": "17:06",
+                "thumbnail": "https://i.ytimg.com/vi/FfVvWZkdm_s/hqdefault.jpg"
+            },
+            {
+                "title": "How To Take Conference Call Using Your Android Mobile Phone | (සිංහල) - IT EDUCATION TECH",
+                "url": "https://youtube.com/watch?v=mXXN9JyaKpo",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/mXXN9JyaKpo/hq720.jpg"
+            },
+            {
+                "title": "Water Board Prank Call 😅",
+                "url": "https://youtube.com/watch?v=XGSVP2LSDv8",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/XGSVP2LSDv8/hqdefault.jpg"
+            },
+            {
+                "title": "නැති වුනු පරණ කෝල් වල සියළු විස්තර නොමිලේම ලබාගන්න | How to Recover Call History Log",
+                "url": "https://youtube.com/watch?v=UQpAou9L_iE",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/UQpAou9L_iE/hq720.jpg"
+            },
+            {
+                "title": "Call forwarding deactivation code sinhala | තමන්ගේ number එන Call වෙනත් Number වලට යනවාද",
+                "url": "https://youtube.com/watch?v=JTm_p3U9kVE",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/JTm_p3U9kVE/hqdefault.jpg"
+            },
+            {
+                "title": "නෝකෝල් කරිය රසට හදමු.  How to make Knol Khol Curry.",
+                "url": "https://youtube.com/watch?v=yR5VHV80gls",
+                "duration": "6:22",
+                "thumbnail": "https://i.ytimg.com/vi/yR5VHV80gls/hq720.jpg"
+            },
+            {
+                "title": "ඔයාට එන කෝල් ඔයා හිතන කෙනාගෙන් නොවෙන්න පුලුවන්.සැකයක් ඇති උනොත් ඉක්මනින් පොලීසියට දැනුම් දෙන්න",
+                "url": "https://youtube.com/watch?v=r3bf2Cudx2A",
+                "duration": "1:22",
+                "thumbnail": "https://i.ytimg.com/vi/r3bf2Cudx2A/hq720.jpg"
+            },
+            {
+                "title": "වෙන පෝන් එකකට එන | නොර්මල් කෝල් |  හැක් කරමු. | Normal | Call | Hacking |#hacking #call @TECHA856",
+                "url": "https://youtube.com/watch?v=MsGGlf8ixgY",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/MsGGlf8ixgY/hq720.jpg"
+            },
+            {
+                "title": "Call එකක ඉද්දි අනිත් call එන විදිහට හදමු - how to enable call waiting in android sinhala",
+                "url": "https://youtube.com/watch?v=-eOv5zV6CMk",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/-eOv5zV6CMk/hq720.jpg"
+            },
+            {
+                "title": "How to Forward Call | How to Divert Call | Call Forwarding | Forward Activate| Divert Call | Sinhala",
+                "url": "https://youtube.com/watch?v=DjKfVJd7yvU",
+                "duration": "12:45",
+                "thumbnail": "https://i.ytimg.com/vi/DjKfVJd7yvU/hq720.jpg"
+            },
+            {
+                "title": "නෝකොල් කනවා නම් මේවාත් දැනගන්න : Benefits of Kohlrabi (Knol Khol)",
+                "url": "https://youtube.com/watch?v=W_1aOfBlnqQ",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/W_1aOfBlnqQ/hq720.jpg"
+            },
+            {
+                "title": "කොල්ලු කෑම අතහැරපු අපට වුණ දේ මෙන්න : Horse gram benefits",
+                "url": "https://youtube.com/watch?v=PabVc5_16l8",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/PabVc5_16l8/hq720.jpg"
+            },
+            {
+                "title": "ජවය ශක්තිය සපිරි කොල්ලු පානය - වෛද්‍ය සුසීමා සේනානායක",
+                "url": "https://youtube.com/watch?v=BBlufzuvZvw",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/BBlufzuvZvw/hq720.jpg"
+            },
+            {
+                "title": "කොලජන් වල ඇත්ත නැත්ත  | The Reality  Behind the Collagen by Nutritionist  Hiroshan jayaranga",
+                "url": "https://youtube.com/watch?v=g4vAv_NNOP8",
+                "duration": "12:24",
+                "thumbnail": "https://i.ytimg.com/vi/g4vAv_NNOP8/hq720.jpg"
+            },
+            {
+                "title": "ලුණු කෑවම මොකද වෙන්නෙ? Onion By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=h4aED-Wd6bM",
+                "duration": "11:14",
+                "thumbnail": "https://i.ytimg.com/vi/h4aED-Wd6bM/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැඳවල තිත්ත ඇත්ත? Kola Kanda & Bitter Truth By Nutritionist Hiroshan  Jayaranga",
+                "url": "https://youtube.com/watch?v=l1DagmLR9Zg",
+                "duration": "15:56",
+                "thumbnail": "https://i.ytimg.com/vi/l1DagmLR9Zg/hq720.jpg"
+            },
+            {
+                "title": "එනසාල් සහ කරාබු නැටි එදිනෙදා රෝගවලට : Cardamom and Cloves for daily issues (NEW) 2019",
+                "url": "https://youtube.com/watch?v=hJGKH0qppPs",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/hJGKH0qppPs/hq720.jpg"
+            },
+            {
+                "title": "මේ ලක්ෂණ පෙන්නුම් කරනවා නම් ඔබ දැනටමත් කොලොස්ටරෝල් අවදානමට ලක්වෙලා",
+                "url": "https://youtube.com/watch?v=Gy0h4H56eIg",
+                "duration": "10:41",
+                "thumbnail": "https://i.ytimg.com/vi/Gy0h4H56eIg/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙත් ගන්නවද ?  තල් ගෙඩියෙන් ගොඩදාගන්නවද? | Palmyra By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=9fTmI3sz-uE",
+                "duration": "13:54",
+                "thumbnail": "https://i.ytimg.com/vi/9fTmI3sz-uE/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=MBR3AVmcWqw",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/MBR3AVmcWqw/hq720.jpg"
+            },
+            {
+                "title": "තල තෙල් ගෑවොත් ලොකු කරගන්න පුලුවන්ද? - Dr. Namal Wijesinghe",
+                "url": "https://youtube.com/watch?v=7Mk-Qu5-j4s",
+                "duration": "10:01",
+                "thumbnail": "https://i.ytimg.com/vi/7Mk-Qu5-j4s/hq720.jpg"
+            },
+            {
+                "title": "Gotukola and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LcQ_lwSLdIA",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/LcQ_lwSLdIA/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ අය ලෙඩ වෙන්නෙ අරක්කු බොන්න දන්නෙ නැති නිසා |  Alcohol  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dk3QJjXV938",
+                "duration": "19:12",
+                "thumbnail": "https://i.ytimg.com/vi/dk3QJjXV938/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල් නම්, කන්න එපා මේ කෑම 5 | (Subtitles) Top 5 foods to avoid if you have Cholesterol",
+                "url": "https://youtube.com/watch?v=bF_i1HZFw_4",
+                "duration": "7:17",
+                "thumbnail": "https://i.ytimg.com/vi/bF_i1HZFw_4/hq720.jpg"
+            },
+            {
+                "title": "අක්කපාන මැල්ලුම්  එක දිගටම කන්න හොදනෑ/Akkapana Mallum is not good to eat everyday .",
+                "url": "https://youtube.com/watch?v=8I_XA4alWv0",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/8I_XA4alWv0/hq720.jpg"
+            },
+            {
+                "title": "නින්ද අඩුවුණත් වැඩිවුණත් ඔලුව කැක්කුම එනවද?",
+                "url": "https://youtube.com/watch?v=5I-4w7Uxwxk",
+                "duration": "0:40",
+                "thumbnail": "https://i.ytimg.com/vi/5I-4w7Uxwxk/hq720_2.jpg"
+            },
+            {
+                "title": "සුරේෂ් සලේ සිය දිවි නසා ගැනීමේ දැඩි අවධානමක වෛද්‍ය වාර්තාවෙන් හෙලි වූ  A to Z කතාව මෙන්න",
+                "url": "https://youtube.com/watch?v=juUX0cbzAUQ",
+                "duration": "25:42",
+                "thumbnail": "https://i.ytimg.com/vi/juUX0cbzAUQ/hq720.jpg"
+            },
+            {
+                "title": "මෙච්චර වටින එළවලුවක් ගෙදර තියෙන්නම ඕනෙද? | Nokol | Ceylon Agri | Epi.456",
+                "url": "https://youtube.com/watch?v=feiwXIaxs_0",
+                "duration": "5:09",
+                "thumbnail": "https://i.ytimg.com/vi/feiwXIaxs_0/hq720.jpg"
+            },
+            {
+                "title": "පොල් මැල්ලුමක්ද ඔනි හරියටම හදන සුපිරිම රහස මෙන්න",
+                "url": "https://youtube.com/watch?v=PM07t_biv5Q",
+                "duration": "12:15",
+                "thumbnail": "https://i.ytimg.com/vi/PM07t_biv5Q/hq720.jpg"
+            },
+            {
+                "title": "ගින්නකදී මිනිස්සු මැරෙන්නේ පිළිස්සිලා විතරක් නෙවෙයි! හොරණ ඛේදවාචකයේ වෛද්‍ය විද්‍යාත්මක ඇත්ත.",
+                "url": "https://youtube.com/watch?v=MLGZNNxeVU4",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/MLGZNNxeVU4/hq720.jpg"
+            },
+            {
+                "title": "Knol Khol malluma 😛  නෝකෝල් කොළ මැල්ලුම #leaves #knolkhol #recipe  #healthy",
+                "url": "https://youtube.com/watch?v=bAY-8-2zERQ",
+                "duration": "0:51",
+                "thumbnail": "https://i.ytimg.com/vi/bAY-8-2zERQ/hq720.jpg"
+            },
+            {
+                "title": "රට තුළ තිබෙන ඖෂධ ගැන හෙළිවූ දේ... \"කොයි මොහොතේ පුපුරයි ද දන්නෑ\"",
+                "url": "https://youtube.com/watch?v=nT4EcUvSjJY",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/nT4EcUvSjJY/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලි /තල් /ගොරකා වලින් ඖෂධීය කෝලා පානයක් සැකසුවා-සූපවේදී මුදිත සමරක්කොඩි-කළ.අධ්‍යක්ෂ-Maa Products",
+                "url": "https://youtube.com/watch?v=IZnDDvYcP6I",
+                "duration": "1:18:17",
+                "thumbnail": "https://i.ytimg.com/vi/IZnDDvYcP6I/hq720.jpg"
+            },
+            {
+                "title": "How to grow nokol in a pot |බඳුනක නෝකෝල් වවමුද?| Ceylon Agri | Episode 44",
+                "url": "https://youtube.com/watch?v=GqLDzC6BhZM",
+                "duration": "9:21",
+                "thumbnail": "https://i.ytimg.com/vi/GqLDzC6BhZM/hqdefault.jpg"
+            },
+            {
+                "title": "COD  හරහා ලාභගන්න පුළුවන්  පැල වර්ග| Plastic Bottle Planting Ideas Earn More with COD Plant Plants",
+                "url": "https://youtube.com/watch?v=ZfFGX0r12II",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/ZfFGX0r12II/hq720.jpg"
+            },
+            {
+                "title": "සුරේෂ් සලේ සිය දිවි නසා ගැනීමේ දැඩි අවධානමක වෛද්‍ය වාර්තාවෙන් හෙලි වූ A to Z කතාව මෙන්න",
+                "url": "https://youtube.com/watch?v=Z51VeZx64Mc",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/Z51VeZx64Mc/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ කොළ නිස්සාරකය ගෙදරදීම හදමු,How to make Neem Leaves Extract as an Organic Pesticide.",
+                "url": "https://youtube.com/watch?v=xbbMh3WrkJw",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/xbbMh3WrkJw/hq720.jpg"
+            },
+            {
+                "title": "නිතර සෙම හැදෙන එක වලක්වා සෙම් රෝග රැසක් නසන සුවිශේෂී දේශීය තෙල කෝලශ්ලේෂ්මා තෛලය",
+                "url": "https://youtube.com/watch?v=5amiQZYhGnA",
+                "duration": "9:16",
+                "thumbnail": "https://i.ytimg.com/vi/5amiQZYhGnA/hq720.jpg"
+            },
+            {
+                "title": "තෙල් , බෙහෙත් ගෑවට කොන්දෙ කැක්කුම #spinach  හොඳ වෙන්නෙම නැද්ද? #globalissues",
+                "url": "https://youtube.com/watch?v=ptMyFEY0PcQ",
+                "duration": "7:54",
+                "thumbnail": "https://i.ytimg.com/vi/ptMyFEY0PcQ/hq720.jpg"
+            },
+            {
+                "title": "රුපියල් මිලියන 99ක දැවැන්ත ව්‍යාපෘතිය නිමයි.. ස්නායු රෝග විද්‍යා ආයතනය ජනතා අයිතියට!",
+                "url": "https://youtube.com/watch?v=lO8jSmGDzcs",
+                "duration": "0:47",
+                "thumbnail": "https://i.ytimg.com/vi/lO8jSmGDzcs/hq720_2.jpg"
+            },
+            {
+                "title": "නයිමිරිස් වගාවක නිවැරදි පොහොර රටාවෙන් | Nai miris wagawa | Nai kochchi wagawa | Scotch Bonnet",
+                "url": "https://youtube.com/watch?v=u_KOrSLGf7I",
+                "duration": "18:50",
+                "thumbnail": "https://i.ytimg.com/vi/u_KOrSLGf7I/hq720.jpg"
+            },
+            {
+                "title": "හැමෝටම වැදගත් කරාබුනැටි ප්‍රතිකාරය. | The Clove Treatment. | FOODbodyMIND",
+                "url": "https://youtube.com/watch?v=lvrn08AAI6o",
+                "duration": "12:29",
+                "thumbnail": "https://i.ytimg.com/vi/lvrn08AAI6o/hq720.jpg"
+            },
+            {
+                "title": "ඕනවට වඩා කන්න හොඳම නැති මැල්ලුම | Herbal Plants | Ceylon Agri | Episode 146",
+                "url": "https://youtube.com/watch?v=5X5xj8kHMkk",
+                "duration": "9:52",
+                "thumbnail": "https://i.ytimg.com/vi/5X5xj8kHMkk/hq720.jpg"
+            },
+            {
+                "title": "මූත්‍රා රෝග නිට්ටාවට සුවකරන නීරමුල්ලිය නොහොත් ඉකිරිය|    Neeramulliya plant | Hela Osu",
+                "url": "https://youtube.com/watch?v=yk-QyasfJXg",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/yk-QyasfJXg/hqdefault.jpg"
+            },
+            {
+                "title": "Niramulli | නීරමුල්ලි හෙවත් කටු ඉකිරිය ශාකයේ ඔසු ගුණ | stone breaker plant for kidney | ikiriya",
+                "url": "https://youtube.com/watch?v=A4apPZ3fsk4",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/A4apPZ3fsk4/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු විශ්මිත ඖෂධිය ගුණ 🌿🪻",
+                "url": "https://youtube.com/watch?v=Nil9cfvy34I",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/Nil9cfvy34I/hq720.jpg"
+            },
+            {
+                "title": "Nan Nan / Naminan  -  Cynometra cauliflora - plants",
+                "url": "https://youtube.com/watch?v=TLIm1J9hJQM",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/TLIm1J9hJQM/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "what is knot grass Ayurvedic plants -පොල්පලා polpala",
+                "url": "https://youtube.com/watch?v=1GLLeD3I-Dg",
+                "duration": "0:33",
+                "thumbnail": "https://i.ytimg.com/vi/1GLLeD3I-Dg/hq720.jpg"
+            },
+            {
+                "title": "දනිස් ටකස් ගානවද මෙන්න වයසට යනවිට ගෙවී යන කාටිලේජ වර්ධනයට ඔසු පානයක් | කොලෙස්ටරෝල් වලට බෙහෙත් kollu",
+                "url": "https://youtube.com/watch?v=rUEI0unwM78",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/rUEI0unwM78/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health Benefits of Coconut Root You Should Know",
+                "url": "https://youtube.com/watch?v=WfNmIZp1uxE",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/WfNmIZp1uxE/hq720.jpg"
+            },
+            {
+                "title": "අපට අමතකව ගිය විශ්මිත ගුණ සහිත මොණරකුඩුම්බිය : Monarakudumbiya – Vernonia cinerea benefits",
+                "url": "https://youtube.com/watch?v=AVsoI8ga8rE",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/AVsoI8ga8rE/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Health Benefits and Possible Side Effects",
+                "url": "https://youtube.com/watch?v=gOwyQDgmJP0",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/gOwyQDgmJP0/hq720.jpg"
+            },
+            {
+                "title": "Kalanchoe Pinnata Medicinal Uses: Powerful Health Benefits & Healing Properties  #medicinalplants",
+                "url": "https://youtube.com/watch?v=4dOa46RZQTQ",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/4dOa46RZQTQ/hq720.jpg"
+            },
+            {
+                "title": "Cactus Leaf: Benefits & Uses (Nopales)",
+                "url": "https://youtube.com/watch?v=ayQyCUyKk-U",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/ayQyCUyKk-U/hq720.jpg"
+            },
+            {
+                "title": "Welpenela Benefits : පිරිමි ගෙදරම තියාගන්න ගහපු වැල් පෙනෙල ගැටේ මෙන්න",
+                "url": "https://youtube.com/watch?v=gjqX33rzqng",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/gjqX33rzqng/hq720.jpg"
+            },
+            {
+                "title": "තලවල අතිවිශිෂ්ට සෞඛ්‍ය ප්‍රතිලාභ | Superfood For Strong Bones and Heart @Knowdiet496",
+                "url": "https://youtube.com/watch?v=ouCp3BpFNEI",
+                "duration": "8:38",
+                "thumbnail": "https://i.ytimg.com/vi/ouCp3BpFNEI/hq720.jpg"
+            },
+            {
+                "title": "Bitter Kola: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=a4m82Pg3ma0",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/a4m82Pg3ma0/hq720.jpg"
+            },
+            {
+                "title": "nil katarolu/නිල් කටරොලු භාවිතයේ භයානක පැත්ත /Do you know the dangerous side ?/ch one",
+                "url": "https://youtube.com/watch?v=NI7Q8VpsEGQ",
+                "duration": "13:50",
+                "thumbnail": "https://i.ytimg.com/vi/NI7Q8VpsEGQ/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Gotu Kola - Brains, Beauty, Varicose Veins and More!",
+                "url": "https://youtube.com/watch?v=eb_pxAt_lRw",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/eb_pxAt_lRw/hq720.jpg"
+            },
+            {
+                "title": "එළවළු සහ පලතුරු කිලෝ ග්‍රෑම් 1000ක පෝශණය සමානයි ස්පිරුලිනා කිලෝ ග්‍රෑම් 1 කට",
+                "url": "https://youtube.com/watch?v=3C7CS6lQ-oE",
+                "duration": "9:00",
+                "thumbnail": "https://i.ytimg.com/vi/3C7CS6lQ-oE/hq720.jpg"
+            },
+            {
+                "title": "විද්‍යාත්මකව තහවුරු කල කලදුරු සතු ගුන 7 ක් | Benefits of Black Seed Oil",
+                "url": "https://youtube.com/watch?v=0frrjXQcLW0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/0frrjXQcLW0/hqdefault.jpg"
+            },
+            {
+                "title": "BENEFITS of KALANCHOE 💚 Properties, What is it for and Contraindications ✅",
+                "url": "https://youtube.com/watch?v=xz4tB-XhnGg",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/xz4tB-XhnGg/hq720.jpg"
+            },
+            {
+                "title": "රජයේ අනුමත කෝප්ප කොළ කෑවොත් වෙන දේ මෙන්න : Benefits of Croton Leaves",
+                "url": "https://youtube.com/watch?v=sXY5rc_CYSA",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/sXY5rc_CYSA/hq720.jpg"
+            },
+            {
+                "title": "Roselle | අරුම පුදුම රතු පාට බිලින් | රොසැල්ලා | නාපිරිත්ත | රතුබිලිං   | Indika Koralage",
+                "url": "https://youtube.com/watch?v=seM_QiUQC2I",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/seM_QiUQC2I/hq720.jpg"
+            },
+            {
+                "title": "මේ රෝග තියෙනවනම් ආයෙමත් නෙල්ලි කන්නෙ බලාගෙන.- විශ්මිත ගුණ  දෙන නෙල්ලි",
+                "url": "https://youtube.com/watch?v=S2uvKPksTQk",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/S2uvKPksTQk/hq720.jpg"
+            },
+            {
+                "title": "මාසෙන් කොලෙස්ටරෝල් අඩු කරන මැජික් අත් බෙහෙත | home remedy for bad cholesterol | fat burn tea nira s",
+                "url": "https://youtube.com/watch?v=C4Tnxgxh1Lw",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/C4Tnxgxh1Lw/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ නසන  කටු අනෝදා  කොළ | Soursop (Graviola) Tea  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=KdqAxJwIsRE",
+                "duration": "12:38",
+                "thumbnail": "https://i.ytimg.com/vi/KdqAxJwIsRE/hq720.jpg"
+            },
+            {
+                "title": "''නෙල්ලි'' වල ගුණ අගුණ  Health benefits of Nelli",
+                "url": "https://youtube.com/watch?v=RQ0CmZaO_3I",
+                "duration": "5:40",
+                "thumbnail": "https://i.ytimg.com/vi/RQ0CmZaO_3I/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලි කන අයට ලැබෙන විස්මිත ප්‍රතිලාභ |Amazing Benefits of Nelly Eaters @helaosuarana",
+                "url": "https://youtube.com/watch?v=AtDIG2kmVEg",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/AtDIG2kmVEg/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "ගින්නකදී මිනිස්සු මැරෙන්නේ පිළිස්සිලා විතරක් නෙවෙයි! හොරණ ඛේදවාචකයේ වෛද්‍ය විද්‍යාත්මක ඇත්ත.",
+                "url": "https://youtube.com/watch?v=sqthQ1UYhxU",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/sqthQ1UYhxU/hq720_2.jpg"
+            },
+            {
+                "title": "ලේ තුනී වෙන්න බෙහෙත් බොන ගමන් සුදුළූණු කන එක මාරාන්තිකයි! 🧄⚠️ | Aspirin & Garlic Danger #science",
+                "url": "https://youtube.com/watch?v=f36FuttjYTg",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/f36FuttjYTg/hq720.jpg"
+            },
+            {
+                "title": "නින්දට පෙර එක කෝප්පයක් දිනපතා පානය කිරීමෙන් ඔබත් මේ වාසි ලබාගන්න",
+                "url": "https://youtube.com/watch?v=h7KwtcR-ijo",
+                "duration": "7:09",
+                "thumbnail": "https://i.ytimg.com/vi/h7KwtcR-ijo/hqdefault.jpg"
+            },
+            {
+                "title": "රුධිර නාල වල තැන්පත් වූ කොලෙස්ටරෝල් දියකර හරින විශ්මිත පානය Amazing drink that dissolves cholesterol",
+                "url": "https://youtube.com/watch?v=XyQr-2aOZBo",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/XyQr-2aOZBo/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙත් නෙල්ලී වල විශ්මිත ගුණය - Amazing quality of Nellie",
+                "url": "https://youtube.com/watch?v=RNnVQwOwkWQ",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/RNnVQwOwkWQ/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු වල විශ්මිත ගුණ . Ayurvedic value of cinnamon.",
+                "url": "https://youtube.com/watch?v=HYqpafpiFWE",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/HYqpafpiFWE/hq720.jpg"
+            },
+            {
+                "title": "🇱🇰 නීරෝගීව ඉන්න දෙවියන් ලබා දුන් මිහිරි රසැති  කොළ මැල්ලුම Miracle of Sauropus Androgynus by Kusala",
+                "url": "https://youtube.com/watch?v=eb_kziGe_y4",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/eb_kziGe_y4/hq720.jpg"
+            },
+            {
+                "title": "හැදෙන්න තියන පිළිකාවක් උනත් වලකන ලෙඩ 300කට ගුණ පානයක් | දියවැඩියාවට කොලෙස්ටරෝල් වලට බෙහෙත් nira S",
+                "url": "https://youtube.com/watch?v=5TmsOIyY_W8",
+                "duration": "6:33",
+                "thumbnail": "https://i.ytimg.com/vi/5TmsOIyY_W8/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "හදවත් රෝග තියෙන අයට කැල්සියම් භයානකද ? | #CalciumMyth #2026   Prof. Namal Wijesinghe. ❤️🇱🇰",
+                "url": "https://youtube.com/watch?v=GWi5sZVCSBc",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/GWi5sZVCSBc/hq720.jpg"
+            },
+            {
+                "title": "“Myths vs Facts: විටමින් ගැන වැරදි විශ්වාස | Cardiologist Prof. Namal Wijesinghe. #VitaminMyths❤️🇱🇰",
+                "url": "https://youtube.com/watch?v=Hky8BctSkHk",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/Hky8BctSkHk/hq720.jpg"
+            },
+            {
+                "title": "How to grow kohlrabi organically in the garden කොහොමද කාබනිකව ගෙවත්තේ නෝකෝල් වගාකරන්නේOrganic Garden",
+                "url": "https://youtube.com/watch?v=s8kCVbdwJ1g",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/s8kCVbdwJ1g/hq720.jpg"
+            },
+            {
+                "title": "මොනව කලත් හරියට කැල්සියම් ගැන දන්නෙ නැත්තං ඔයා ලෙඩ වෙනවා | Calcium for Better Health by Nutri Info",
+                "url": "https://youtube.com/watch?v=Lb2YrcNbARA",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/Lb2YrcNbARA/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ ගොඩකට හේතුව මේකද? | Magnesium උනතාවයේ ලක්ෂණ ඔයාලටත් තියනවද? - @behethbydrnamal",
+                "url": "https://youtube.com/watch?v=RRTR7nytQ90",
+                "duration": "6:34",
+                "thumbnail": "https://i.ytimg.com/vi/RRTR7nytQ90/hq720.jpg"
+            },
+            {
+                "title": "Collagen වල ඇත්ත සහ බොරුව | Myths & Truth of Collagen  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=FjBkYzXuNrA",
+                "duration": "11:39",
+                "thumbnail": "https://i.ytimg.com/vi/FjBkYzXuNrA/hq720.jpg"
+            },
+            {
+                "title": "#periods නැවතුණා (ආර්තව හරණය) කියන්නේ, ගැහැණියකගේ #female  ලිංගික ජීවිතයේ #life  අවසානය ද?",
+                "url": "https://youtube.com/watch?v=1d3tZ6TYk08",
+                "duration": "26:38",
+                "thumbnail": "https://i.ytimg.com/vi/1d3tZ6TYk08/hq720.jpg"
+            },
+            {
+                "title": "ඔයාගේ ඇඟ විටමින් ඛනිජ ලවණ අඩුයි කියලා ඔයාට කියන්නේ කොහොමද? | Vitamin and Mineral Deficiency",
+                "url": "https://youtube.com/watch?v=Lyit2_mPLVQ",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/Lyit2_mPLVQ/hq720.jpg"
+            },
+            {
+                "title": "නිතරම නිදි මත එනවාද?කොලෙස්‌ටරෝල් වැඩි වෙනකොට මේ ලක්ෂණ මතු වෙනව! - කොලෙස්‌ටරෝල් වැඩියි කියන්නේ ඇයි?",
+                "url": "https://youtube.com/watch?v=oRsQn340lp8",
+                "duration": "19:31",
+                "thumbnail": "https://i.ytimg.com/vi/oRsQn340lp8/hq720.jpg"
+            },
+            {
+                "title": "ඔබ දන්නේ නැති! ගොඩක් ලෙඩවල මුලය තියෙන තැන | The Root Of Many Diseases That You Don't Know About",
+                "url": "https://youtube.com/watch?v=tw9-ti2j9mQ",
+                "duration": "10:00",
+                "thumbnail": "https://i.ytimg.com/vi/tw9-ti2j9mQ/hq720.jpg"
+            },
+            {
+                "title": "කම්මැලිකම නැති කරන - ශක්තිමත් බව වැඩි කරන Mg වල සුපිරි ගුන 12 ක් | පලවන කොටස",
+                "url": "https://youtube.com/watch?v=8ZGM1xh3go4",
+                "duration": "8:38",
+                "thumbnail": "https://i.ytimg.com/vi/8ZGM1xh3go4/hqdefault.jpg"
+            },
+            {
+                "title": "දන්නෙ නැතුවද කුරුදු බිවුවෙ? | Cinnamon for Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WlVF9YZgJQ8",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/WlVF9YZgJQ8/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Bacterial Infections",
-      "sinhala": "බැක්ටීරියා ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "2909",
-      "caption": "Habit 1 (PMR)",
-      "url": "https://i.ibb.co/v6Y7VBFr/plant00267-02909.jpg"
-    },
-    {
-      "image_id": "2910",
-      "caption": "Habit 2 (PMR)",
-      "url": "https://i.ibb.co/WTS24Hp/plant00267-02910.jpg"
-    },
-    {
-      "image_id": "2911",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/1ftWJw79/plant00267-02911.jpg"
-    },
-    {
-      "image_id": "2912",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/whq6PGJH/plant00267-02912.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

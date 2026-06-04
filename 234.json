@@ -1,174 +1,839 @@
 {
-  "scientificName": "Avicennia officinalis L.",
-  "synonyms": [
-    "Avicennia obovata Griff.",
-    "Avicennia oepata Buch.-Ham.",
-    "Avicennia officinalis f. flaviflora Kuntze",
-    "Avicennia officinalis f. tomentosa Kuntze",
-    "Avicennia officinalis var. acuminata Domin",
-    "Halodendrum thouarsii Roem. & Schult.",
-    "Racka ovata Roem. & Schult.",
-    "Racka torrida J.F.Gmel."
-  ],
-  "familyName": "ACANTHACEAE",
-  "englishNames": [
-    "Indian Mangrove",
-    "White Mangrove",
-    "Gray Mangrove"
-  ],
-  "sinhalaName": "Motamunda (මොටමුණ්ඩ)",
-  "description": "පඳුරක් හෝ ගසක් ලෙස වැඩෙන, බොහෝ විට පාදස්ථයෙන් අතු බෙදුණු, මීටර් 25ක් දක්වා උසැති ශාකයකි. පත්‍ර වෘන්තය (petiole) සෙන්ටිමීටර 0.5-2ක් දිගය; පත්‍ර සෙන්ටිමීටර 4-12ක් දිග සහ සෙන්ටිමීටර 2-6ක් පළලය; පත්‍ර අග්‍රය වටකුරුය (apex rounded). පුෂ්ප මංජරිය පැණිකල් (paniculate) ආකාර වන අතර සෙන්ටිමීටර 3-15ක් දිගය; ප්‍රතිවිරුද්ධව පිහිටි (decussate) මල් 2-12කින් සමන්විතය; මල් තනිව පිහිටයි. කොරොල්ලා (corolla) සාපේක්ෂව විශාල වන අතර කහ හෝ කහ පැහැයට හුරු දුඹුරු පැහැයක් ගනී, ඉක්මනින් තැඹිලි පැහැයට හැරේ. පලතුර කොළ පැහැයට හුරු දම් පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Tumors",
-      "sinhala": "ගෙඩි / අර්බුද",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Avicennia officinalis L.",
+    "synonyms": [
+        "Avicennia obovata Griff.",
+        "Avicennia oepata Buch.-Ham.",
+        "Avicennia officinalis f. flaviflora Kuntze",
+        "Avicennia officinalis f. tomentosa Kuntze",
+        "Avicennia officinalis var. acuminata Domin",
+        "Halodendrum thouarsii Roem. & Schult.",
+        "Racka ovata Roem. & Schult.",
+        "Racka torrida J.F.Gmel."
+    ],
+    "familyName": "ACANTHACEAE",
+    "englishNames": [
+        "Indian Mangrove",
+        "White Mangrove",
+        "Gray Mangrove"
+    ],
+    "sinhalaName": "Motamunda (මොටමුණ්ඩ)",
+    "description": "පඳුරක් හෝ ගසක් ලෙස වැඩෙන, බොහෝ විට පාදස්ථයෙන් අතු බෙදුණු, මීටර් 25ක් දක්වා උසැති ශාකයකි. පත්‍ර වෘන්තය (petiole) සෙන්ටිමීටර 0.5-2ක් දිගය; පත්‍ර සෙන්ටිමීටර 4-12ක් දිග සහ සෙන්ටිමීටර 2-6ක් පළලය; පත්‍ර අග්‍රය වටකුරුය (apex rounded). පුෂ්ප මංජරිය පැණිකල් (paniculate) ආකාර වන අතර සෙන්ටිමීටර 3-15ක් දිගය; ප්‍රතිවිරුද්ධව පිහිටි (decussate) මල් 2-12කින් සමන්විතය; මල් තනිව පිහිටයි. කොරොල්ලා (corolla) සාපේක්ෂව විශාල වන අතර කහ හෝ කහ පැහැයට හුරු දුඹුරු පැහැයක් ගනී, ඉක්මනින් තැඹිලි පැහැයට හැරේ. පලතුර කොළ පැහැයට හුරු දම් පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Tumors",
+            "sinhala": "ගෙඩි / අර්බුද",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Abscesses",
+            "sinhala": "සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Smallpox",
+            "sinhala": "වසූරිය (Smallpox)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Scabies/Skin Disorders",
+            "sinhala": "චර්ම රෝග (හොරි වැනි)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Contraception",
+            "sinhala": "ප්‍රතිසන්ධි නිරෝධක (ගැබ්ගැනීම් වළක්වන ඖෂධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Inflammatory Conditions",
+            "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Menorrhagia",
+            "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Fruits",
+        "Roots",
+        "Bark",
+        "Resin",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "181",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/84S9MP2r/plant00234-00181.jpg"
+        },
+        {
+            "image_id": "182",
+            "caption": "Fruits and Flowers",
+            "url": "https://i.ibb.co/WvyBM2Lf/plant00234-00182.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මොළේ උණ ගැන අලුත්ම අණාවරණයක් - මොරටුව විශ්ව විද්‍යාලයෙන් කරුණු පැහැදිලි කිරීමක්",
+                "url": "https://youtube.com/watch?v=Gpf5VLwIRwg",
+                "duration": "14:17",
+                "thumbnail": "https://i.ytimg.com/vi/Gpf5VLwIRwg/hq720.jpg"
+            },
+            {
+                "title": "Everyone is surprised by an unexpected guest | Monara",
+                "url": "https://youtube.com/watch?v=hnWNHUYTMr8",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/hnWNHUYTMr8/hq720_2.jpg"
+            },
+            {
+                "title": "මෙව්වානම්😂 #shorts #funny #viral #trending #fyp",
+                "url": "https://youtube.com/watch?v=0xrGy9qHsBk",
+                "duration": "0:42",
+                "thumbnail": "https://i.ytimg.com/vi/0xrGy9qHsBk/hq720.jpg"
+            },
+            {
+                "title": "බුත්තලදී ලොරියේ ගැටුණු යතුරුපැදිය... | Monara",
+                "url": "https://youtube.com/watch?v=pWOoCi73qPI",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/pWOoCi73qPI/hq720_2.jpg"
+            },
+            {
+                "title": "🟡මුදල් අමාත්‍යංශ ලේකම් පාර්ලිමේන්තුවට වංගුවක් ගහන්න හදලා | CID විමර්ශනවලින් හෙළිවූ දේ | @MeeMassooTV",
+                "url": "https://youtube.com/watch?v=mdWZwWPwU8Q",
+                "duration": "13:02",
+                "thumbnail": "https://i.ytimg.com/vi/mdWZwWPwU8Q/hq720.jpg"
+            },
+            {
+                "title": "Surangana Kathawalin (සුරන්ගනා කතාවලින්)   -  Tehara Numansa",
+                "url": "https://youtube.com/watch?v=zcSbNtyTsBY",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/zcSbNtyTsBY/hq720.jpg"
+            },
+            {
+                "title": "ශවේන්ද්‍ර උතුරු මැදින් - මුතුගල වයඹින්ජන්දෙට එන කතාවේ ඇත්ත නැත්ත",
+                "url": "https://youtube.com/watch?v=MnYf54pUc5w",
+                "duration": "5:57",
+                "thumbnail": "https://i.ytimg.com/vi/MnYf54pUc5w/hq720.jpg"
+            },
+            {
+                "title": "ඩෙංගු මදුරුවා ගැන මේ දේවල් කලින් දැනගෙන හිටියද..? | හිතළඟ DOC990",
+                "url": "https://youtube.com/watch?v=kGLXj3IskUM",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/kGLXj3IskUM/hq720_2.jpg"
+            },
+            {
+                "title": "🟡තීරණාත්මක ප්‍රකාශ 5ක් එළියට | පාස්කු ප්‍රහාරය කුමන්ත්‍රණයක් බව හඳුනාගත්තා | @MeeMassooTV",
+                "url": "https://youtube.com/watch?v=5cTUmzA2bdo",
+                "duration": "37:46",
+                "thumbnail": "https://i.ytimg.com/vi/5cTUmzA2bdo/hq720.jpg"
+            },
+            {
+                "title": "🟡සලේගේ බිරිඳ ජනපති අනුරට යැවූ ලිපියේ සැඟවුණු කතාවක් | ජනපති අනුරගේ  ප්‍රතිචාරය | @MeeMassooTV",
+                "url": "https://youtube.com/watch?v=Em4F6Hpcd68",
+                "duration": "25:00",
+                "thumbnail": "https://i.ytimg.com/vi/Em4F6Hpcd68/hq720.jpg"
+            },
+            {
+                "title": "කළුතර පත්තු කළ බෝම්බුවල නවීන්ගේ බඩියා මාට්ටු මොහොමඩ් ඉම්රාන් ගැනත් හෙළිවෙයි",
+                "url": "https://youtube.com/watch?v=qJQKKDYzqog",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/qJQKKDYzqog/hq720.jpg"
+            },
+            {
+                "title": "මුලු මැදපෙරදිගම නැවතත් උඩු යටිකුරු වෙයි",
+                "url": "https://youtube.com/watch?v=INE2zdTffnQ",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/INE2zdTffnQ/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ගල් ඇතිවෙන්නේ මෙහෙමයි... | සුව අරණ | Channel One",
+                "url": "https://youtube.com/watch?v=B_GT76Hp9nU",
+                "duration": "24:45",
+                "thumbnail": "https://i.ytimg.com/vi/B_GT76Hp9nU/hq720.jpg"
+            },
+            {
+                "title": "මාරු නැද්ද 🥲  #viral #micreations #funny #comedy#trending #viralvideo #onemillionviews #likes #10m",
+                "url": "https://youtube.com/watch?v=gMQOSn2_DIk",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/gMQOSn2_DIk/hq720_2.jpg"
+            },
+            {
+                "title": "හර්ෂගේ හඳ... | Monara",
+                "url": "https://youtube.com/watch?v=0naNieQuQLU",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/0naNieQuQLU/hq720_2.jpg"
+            },
+            {
+                "title": "Denenawado (දැනෙනවදෝ)   -  Osanda Gimhan",
+                "url": "https://youtube.com/watch?v=LetbFLmvvcs",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/LetbFLmvvcs/hq720.jpg"
+            },
+            {
+                "title": "\"තමුසෙට දෙනවා මන් යතුරක්.. බහිනවා බිමට..\"",
+                "url": "https://youtube.com/watch?v=_QFy9BGPmUs",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/_QFy9BGPmUs/hq720_2.jpg"
+            },
+            {
+                "title": "උදේට ඔයා කරන මේ 'නරක' පුරුදු හින්දා දවසම විනාසයි! (පිරිමින්ට විශේෂයි) |   @TheModernMansDiary",
+                "url": "https://youtube.com/watch?v=51KszhAH7ME",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/51KszhAH7ME/hq720_2.jpg"
+            },
+            {
+                "title": "මිහින්තලේ පොසොන් කමිටුව උදේන්ම උණුසුම් වෙයි - වන්දනාවේ එන අයව රිලව් වඳුරෝ හපනවා",
+                "url": "https://youtube.com/watch?v=Tj0k8FHMrcw",
+                "duration": "28:18",
+                "thumbnail": "https://i.ytimg.com/vi/Tj0k8FHMrcw/hq720.jpg"
+            },
+            {
+                "title": "මෙව්වානම්😂 #shorts  #funny #viral #trending #fyp",
+                "url": "https://youtube.com/watch?v=rvofZhXx-rU",
+                "duration": "0:27",
+                "thumbnail": "https://i.ytimg.com/vi/rvofZhXx-rU/hq720.jpg"
+            },
+            {
+                "title": "කළුතර බෝ සමිඳු පෙනි පෙනී දෙන්නෙක් බිම දාපු හෙල්මට් චණ්ඩි | Monara",
+                "url": "https://youtube.com/watch?v=A65Sq96YXzI",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/A65Sq96YXzI/hq720_2.jpg"
+            },
+            {
+                "title": "විපක්ෂෙ හොඳයි මේ දවස්වල තොරණ් ළඟට ගිහින් කවි කියන්න|             #MonaraDigital #wasanthamudalige",
+                "url": "https://youtube.com/watch?v=d6QCKJ1Tn5g",
+                "duration": "0:57",
+                "thumbnail": "https://i.ytimg.com/vi/d6QCKJ1Tn5g/hq720_2.jpg"
+            },
+            {
+                "title": "තඹුත්තේගම පාරට ආපු වන අලියා කුලප්පු කරේ මිනිස්සුමද?| Monara",
+                "url": "https://youtube.com/watch?v=muQ6klzDbyU",
+                "duration": "1:40",
+                "thumbnail": "https://i.ytimg.com/vi/muQ6klzDbyU/hq720_2.jpg"
+            },
+            {
+                "title": "කොළඹ මාතර කොන්දොස්තරට... දුවන්නම කාන්තාවක් පහර දෙයි| Monara",
+                "url": "https://youtube.com/watch?v=ghif-_tzwOk",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/ghif-_tzwOk/hq720_2.jpg"
+            },
+            {
+                "title": "මොජ්ටාබා කමේනි ගැන ආරංචියක් I මොසාඩ් ලොක්කා වැඩ අල්ලන්න ලෑස්තියි I",
+                "url": "https://youtube.com/watch?v=Zs_KYXFaQTc",
+                "duration": "1:08:02",
+                "thumbnail": "https://i.ytimg.com/vi/Zs_KYXFaQTc/hq720.jpg"
+            },
+            {
+                "title": "මොන්රෝවියා වත්තේ ජීවිත 20ක් 'දිට්වා'ට බිලි දෙන්න වූ රහස  වසන්ත මුදලිගේ හෙළිකරයි | Monara",
+                "url": "https://youtube.com/watch?v=GVyrBTO58uM",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/GVyrBTO58uM/hq720.jpg"
+            },
+            {
+                "title": "කොටදෙණියාවේමාරක ළිදේ මාරක අනතුර | Monara",
+                "url": "https://youtube.com/watch?v=dXMb242SnA0",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/dXMb242SnA0/hq720_2.jpg"
+            },
+            {
+                "title": "කැකුළුවෙල ගමේ තනි වූ ඇත් පැටියා | Monara",
+                "url": "https://youtube.com/watch?v=g-Qy65ulifY",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/g-Qy65ulifY/hq720_2.jpg"
+            },
+            {
+                "title": "මොළේ උණ ගැන අලුත්ම තොරතුරු මෙන්න - වැලිමඩට සෞඛ්‍ය අංශවලින් රතු එළි",
+                "url": "https://youtube.com/watch?v=UYw3BzXT5qM",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/UYw3BzXT5qM/hq720.jpg"
+            },
+            {
+                "title": "මුංඇට වල විශ්මිත ගුණය - Amazing quality of green gram",
+                "url": "https://youtube.com/watch?v=hqqZj_KO6_o",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/hqqZj_KO6_o/hq720.jpg"
+            },
+            {
+                "title": "ගුණ පිරි මුද්දරප්පලම්වල ඇති විස්මිත ප්‍රතිලාභ මෙන්න #raisinsbenefits #healthy #food",
+                "url": "https://youtube.com/watch?v=nMSW30KNn-I",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/nMSW30KNn-I/hq720.jpg"
+            },
+            {
+                "title": "කාලිගේ අනාවැකිය.. | මුතුගල මහ ඇමති පුටුවට..?  |Dinesh Muthugala | Episode 455",
+                "url": "https://youtube.com/watch?v=2GNiuSoLLl8",
+                "duration": "12:24",
+                "thumbnail": "https://i.ytimg.com/vi/2GNiuSoLLl8/hq720.jpg"
+            },
+            {
+                "title": "යෝගට් ද ? ගුණ කිරිද? | Dinesh Muthugala | Episode 170",
+                "url": "https://youtube.com/watch?v=CiMCBqJpBmY",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/CiMCBqJpBmY/hq720.jpg"
+            },
+            {
+                "title": "මුඩුමහණ  ශාකය / වෙල්මුඩ / Mudamahana / Welmuda/ Sphaeranthus indicus",
+                "url": "https://youtube.com/watch?v=Z-ZZ4NlnL7k",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/Z-ZZ4NlnL7k/hqdefault.jpg"
+            },
+            {
+                "title": "හැමෝටම එකවගේ ගුණ නැහැ ? මෙන්න හේතුව !  | Not Everyone Has The Same Benifits , Here Is  Why",
+                "url": "https://youtube.com/watch?v=OXNSLu_1KNw",
+                "duration": "10:20",
+                "thumbnail": "https://i.ytimg.com/vi/OXNSLu_1KNw/hq720.jpg"
+            },
+            {
+                "title": "ඔබ දැනන් හිටියද‍ \\\\ මුං ඇට වල ගුණ ගැන \\\\ Health benefits of mung beans",
+                "url": "https://youtube.com/watch?v=Cf263iZ-M4k",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/Cf263iZ-M4k/hq720.jpg"
+            },
+            {
+                "title": "හැමෝටම ගුණ කොඩ් ලිවර් ඔයිල් : Cod liver oil benefits for everyone",
+                "url": "https://youtube.com/watch?v=Dh4lEvbiojc",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/Dh4lEvbiojc/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ බලයෙන් පිහිට ලබා ගන්නා ආකාරය මුල සිට සරලව #motivation #slmotivation",
+                "url": "https://youtube.com/watch?v=emZdxQNgCC0",
+                "duration": "1:14:03",
+                "thumbnail": "https://i.ytimg.com/vi/emZdxQNgCC0/hq720.jpg"
+            },
+            {
+                "title": "Cod Liver Oil වල වැදගත්කම | Cod Liver Oil Benefits - Dr. Namal Wijesinghe",
+                "url": "https://youtube.com/watch?v=iqVzCCEJP1s",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/iqVzCCEJP1s/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ |මෙතරම් සුන්දර බණක් ඔබ කිසිදාක ශ්‍රවණය කර නෑ |Ven Koralayagama Saranathissa Thero 2021 bana",
+                "url": "https://youtube.com/watch?v=A0NQ_5IQyWY",
+                "duration": "3:40:59",
+                "thumbnail": "https://i.ytimg.com/vi/A0NQ_5IQyWY/hqdefault.jpg"
+            },
+            {
+                "title": "දිනපතා මෝර ගුලි ආහාරයට ගත්තොත් ඔබේ සිරුරට කුමක් සිදු වෙයිද?   Benifits of Cod Liver Oil",
+                "url": "https://youtube.com/watch?v=FIX97q-exls",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/FIX97q-exls/hq720.jpg"
+            },
+            {
+                "title": "මුං ඇට කන අයට ලැබෙන දේවල් මෙන්න Mung Beans Benefits (2019)",
+                "url": "https://youtube.com/watch?v=6XcOZAOU-Fs",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/6XcOZAOU-Fs/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් මාමයිට් කාල තියෙනවද? මේ දේවල් ගැන දැන්ගෙන හිටියද? Marmite By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=4nflM3wV0e8",
+                "duration": "12:05",
+                "thumbnail": "https://i.ytimg.com/vi/4nflM3wV0e8/hq720.jpg"
+            },
+            {
+                "title": "මේ ගැන දන්නේ නැත්තන් මුංඇට කන්න එපා - A few very important facts about green gram",
+                "url": "https://youtube.com/watch?v=N5T6olanmD8",
+                "duration": "6:13",
+                "thumbnail": "https://i.ytimg.com/vi/N5T6olanmD8/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ආමන්ඩ් ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදු වෙන විශ්මිත දේවල් 12ක් | 12 Health Benefits of Almonds",
+                "url": "https://youtube.com/watch?v=Fd8_EKAo9QU",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/Fd8_EKAo9QU/hq720.jpg"
+            },
+            {
+                "title": "නීරෝගීව මහත් වෙන්න ලේසිම විදිය | Mahath wenna | Mahath wenna beheth | Mahath wenna krama (Sinhala)",
+                "url": "https://youtube.com/watch?v=KKPcag6A6gs",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/KKPcag6A6gs/hq720.jpg"
+            },
+            {
+                "title": "මෝර තෙල් කරල් දෙකක් බිවුවොත් ඔබට ලැබෙන වාසි | Cod liver oil | Omega 3",
+                "url": "https://youtube.com/watch?v=stMH3iliKTg",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/stMH3iliKTg/hq720.jpg"
+            },
+            {
+                "title": "Fishoil බොන්න ඕන හොඳම වෙලාව ? හේතු සහිතව | Best time to take Fishoil #fishoil #health @NurseHesh",
+                "url": "https://youtube.com/watch?v=WOdEiBH0CGM",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/WOdEiBH0CGM/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න වල විශ්මිත ගුණ - Amazing properties of Mukunuwenna",
+                "url": "https://youtube.com/watch?v=F6lFnOJQnYE",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/F6lFnOJQnYE/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිය වඩවන දිව්‍යමය ඖෂධය ||The divine potion that increases strength #Amukkara",
+                "url": "https://youtube.com/watch?v=JNtQ2Yhl1iM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/JNtQ2Yhl1iM/hqdefault.jpg"
+            },
+            {
+                "title": "මදන මෝදක - ආයුර්වේද ගුණ - An ayurvedic medicine",
+                "url": "https://youtube.com/watch?v=jFXq07T7WhY",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/jFXq07T7WhY/hqdefault.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත - part 2🙏",
+                "url": "https://youtube.com/watch?v=IdQIkJpM5Ns",
+                "duration": "25:31",
+                "thumbnail": "https://i.ytimg.com/vi/IdQIkJpM5Ns/hq720.jpg"
+            },
+            {
+                "title": "කොන්දේ අමාරුවට බොරුවට බෙහෙත් බොන්න එපා - අදම මේක මාරු කරලා බලන්න |How Your Mattress Causes Back Pain",
+                "url": "https://youtube.com/watch?v=2fmfdDayx50",
+                "duration": "8:25",
+                "thumbnail": "https://i.ytimg.com/vi/2fmfdDayx50/hq720.jpg"
+            },
+            {
+                "title": "Around 200 cases of meningitis reported so far from several areas; Health Ministry issues guidelines",
+                "url": "https://youtube.com/watch?v=FAdNMhZuUok",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/FAdNMhZuUok/hq720.jpg"
+            },
+            {
+                "title": "පැතිර යන මොළේ උණ රෝගය ගැන විශේෂ හෙළිදරව්වක් - මේ වෙනකොට රෝගීන් 200ක් වාර්තාවෙලා",
+                "url": "https://youtube.com/watch?v=HJ-vdV9YIS4",
+                "duration": "8:54",
+                "thumbnail": "https://i.ytimg.com/vi/HJ-vdV9YIS4/hq720.jpg"
+            },
+            {
+                "title": "තුන් මංසලක හොල්මනක් සමග තනිවුණු යකදුරා අම්මෝ බය නැද්ද මන්දා",
+                "url": "https://youtube.com/watch?v=2intO6sfLAg",
+                "duration": "15:41",
+                "thumbnail": "https://i.ytimg.com/vi/2intO6sfLAg/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ කුඩු දවස් 14ක් බිව්වොත් වෙන විස්මිත දේ! | Benefits of Moringa Powder (Sinhala)",
+                "url": "https://youtube.com/watch?v=n2bpVCsvkfM",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/n2bpVCsvkfM/hq720.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය වලින් මේ තරම් ගුණ රැසක්? නිතර දකින මේ ප්‍රබල ඔසුව දිව්‍යමය ඖෂධයක් බව දැනසිටියාද?",
+                "url": "https://youtube.com/watch?v=As_UacGA3Kc",
+                "duration": "11:54",
+                "thumbnail": "https://i.ytimg.com/vi/As_UacGA3Kc/hq720.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "Madatiya | මදටියා ගසේ ගුණ #මදටියාගස #madatiya #madatiyagas #madatiyatree #හෙළවෙදකම #ඖෂධශාක #ඖෂධගුණ",
+                "url": "https://youtube.com/watch?v=RibFCf63BfE",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/RibFCf63BfE/hqdefault.jpg"
+            },
+            {
+                "title": "මළ බතේ රහස – අපේ මුතුන්මිත්තන් දැනසිටි ආහාර වල ගුණ | පැරණි දැනුම හා නවින විද්‍යාව",
+                "url": "https://youtube.com/watch?v=DiNA1aaDOk0",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/DiNA1aaDOk0/hq720.jpg"
+            },
+            {
+                "title": "කන්න අමාරුයි...කෑවෙත් දියවැඩියාව සදහටම මට්ටුයි..   \"මස්බැද්ද\"",
+                "url": "https://youtube.com/watch?v=wjKd6S7ptIs",
+                "duration": "0:45",
+                "thumbnail": "https://i.ytimg.com/vi/wjKd6S7ptIs/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල අපට නොපෙනෙන ගුණය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හැරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=hRpzilgWq5o",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/hRpzilgWq5o/hq720.jpg"
+            },
+            {
+                "title": "සිරුර පෘෂ්ටිමත් වීමට පමණක් නොව ශ්වසන ආබාධ සදහා ද ගුණ දෙන කුෂ්මාණ්ඩ ‍රසායන බෙහෙත | Kushmaand Rasayan",
+                "url": "https://youtube.com/watch?v=LDl93JcFs1o",
+                "duration": "19:08",
+                "thumbnail": "https://i.ytimg.com/vi/LDl93JcFs1o/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට හදවතට මෙච්චර ගුණ උණ ලංකාවෙ කන්නෙ නෑ bamboo health benifits",
+                "url": "https://youtube.com/watch?v=sI8k8Vdiffc",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/sI8k8Vdiffc/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=OhD9C89hrqk",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/OhD9C89hrqk/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Wormwood",
+                "url": "https://youtube.com/watch?v=F3ZaPJN6Ml0",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/F3ZaPJN6Ml0/hq720.jpg"
+            },
+            {
+                "title": "5 Health Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=P8PUwB5INIM",
+                "duration": "13:18",
+                "thumbnail": "https://i.ytimg.com/vi/P8PUwB5INIM/hq720.jpg"
+            },
+            {
+                "title": "10 Powerful Benefits of Mangosteen YOU NEED TO KNOW",
+                "url": "https://youtube.com/watch?v=96lNvzxXnNA",
+                "duration": "4:34",
+                "thumbnail": "https://i.ytimg.com/vi/96lNvzxXnNA/hq720.jpg"
+            },
+            {
+                "title": "MORINGA BENEFITS - 16 Amazing Health Benefits of Moringa You Should Know!",
+                "url": "https://youtube.com/watch?v=Z4dwVTLmGMY",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/Z4dwVTLmGMY/hq720.jpg"
+            },
+            {
+                "title": "TOO MANY MORINGA HEALTH BENEFITS FOR YOU TO SEE - Scientifically Based Moringa  Health Benefits",
+                "url": "https://youtube.com/watch?v=8odQY7GVB9k",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/8odQY7GVB9k/hq720.jpg"
+            },
+            {
+                "title": "TOP 5 BENEFITS OF MOTHERWORT - HERB SPOTLIGHT",
+                "url": "https://youtube.com/watch?v=_dsjeEzgRG4",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/_dsjeEzgRG4/hq720.jpg"
+            },
+            {
+                "title": "16 Amazing Uses and Health Benefits of monstera Plants | Part 02 | Leaf Town",
+                "url": "https://youtube.com/watch?v=1ytKT5caEnQ",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/1ytKT5caEnQ/hq720.jpg"
+            },
+            {
+                "title": "Moringa: The All-In-One Miracle That Can Change Your Health and Life!  Dr. Mandell",
+                "url": "https://youtube.com/watch?v=USZHrBkLUXk",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/USZHrBkLUXk/hq720.jpg"
+            },
+            {
+                "title": "Unbelievable Mugwort Health Benefits and Side Effects",
+                "url": "https://youtube.com/watch?v=RRthGZ9jUmE",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/RRthGZ9jUmE/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health Benefits Of Moringa (Drumstick Tree) |Eat Moringa Everyday To Get These Benefits",
+                "url": "https://youtube.com/watch?v=i4R-V2e6dbA",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/i4R-V2e6dbA/hq720.jpg"
+            },
+            {
+                "title": "7 Amazing Health Benefits Of Moringa",
+                "url": "https://youtube.com/watch?v=0htlaObHx3w",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/0htlaObHx3w/hq720.jpg"
+            },
+            {
+                "title": "10 Health Benefits Of Mangosteen (Garcinia Mangostana)",
+                "url": "https://youtube.com/watch?v=n8Gg2Ye7DXk",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/n8Gg2Ye7DXk/hq720.jpg"
+            },
+            {
+                "title": "අපට අමතකව ගිය විශ්මිත ගුණ සහිත මොණරකුඩුම්බිය : Monarakudumbiya – Vernonia cinerea benefits",
+                "url": "https://youtube.com/watch?v=AVsoI8ga8rE",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/AVsoI8ga8rE/hq720.jpg"
+            },
+            {
+                "title": "Moringa Benefits (11 Health Benefits You Will Get When You Take 7 Days)",
+                "url": "https://youtube.com/watch?v=NXm-4ffvaKs",
+                "duration": "15:57",
+                "thumbnail": "https://i.ytimg.com/vi/NXm-4ffvaKs/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=kRigG4BBhO0",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/kRigG4BBhO0/frame0.jpg"
+            },
+            {
+                "title": "මූණේ ලප කැළැල් නැති කරවන ගොටුකොළ! ගොටුකොළවල ඇති විශ්මිත ගුණ ගැන වෛද්‍යවරයා සියල්ල හෙළිකරයි!",
+                "url": "https://youtube.com/watch?v=OY19hqyyxX0",
+                "duration": "17:44",
+                "thumbnail": "https://i.ytimg.com/vi/OY19hqyyxX0/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට ගුණ දෙන නික ශාඛය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=cgU7USJ32GA",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/cgU7USJ32GA/hq720.jpg"
+            },
+            {
+                "title": "අක්මාව ඉදිමෙන්න කලින් සතියකට වතාවක්වත් මේ විශ්මිත මුං ඇට කැද බොන්න",
+                "url": "https://youtube.com/watch?v=fqXOMjYJy9I",
+                "duration": "0:55",
+                "thumbnail": "https://i.ytimg.com/vi/fqXOMjYJy9I/hq720.jpg"
+            },
+            {
+                "title": "මෙත් කරුණා මුදිතාදී මුණි ගුණ වඩමු|සසරින් එතෙර වෙමු/Tips to get rid of anger, jealousy and hatred.",
+                "url": "https://youtube.com/watch?v=yCV7IWLVP0M",
+                "duration": "43:46",
+                "thumbnail": "https://i.ytimg.com/vi/yCV7IWLVP0M/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "The Medicine Hunter: Natural Remedies for Bug Bites",
+                "url": "https://youtube.com/watch?v=nqdE4Vj25mc",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/nqdE4Vj25mc/hq720.jpg"
+            },
+            {
+                "title": "ශීල සුව අරණ දහවල් සම්බුද්ධ පූජාව | 2026.06.03",
+                "url": "https://youtube.com/watch?v=285bR7UC6wc",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/285bR7UC6wc/hq720.jpg"
+            },
+            {
+                "title": "kokmota | කොක් මොට | මුත්‍රා දැවිල්ලට කියාපු ඖෂධය | Eriocaulon ceylanicum | pitta",
+                "url": "https://youtube.com/watch?v=s10NuYMfp6M",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/s10NuYMfp6M/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "ලෙබුනු මිනිස් ජිවිතෙන් උපර්‍රම ප්‍රයෝජන ගන්න  Unlocking the Secrets to Make the Most of Human Life",
+                "url": "https://youtube.com/watch?v=xZYEPghS714",
+                "duration": "8:24",
+                "thumbnail": "https://i.ytimg.com/vi/xZYEPghS714/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "මුළුතැන්ගෙයි භාවිතවන උපකරණ",
+                "url": "https://youtube.com/watch?v=FQpidG-lkS8",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/FQpidG-lkS8/hq720.jpg"
+            },
+            {
+                "title": "ශාක මුල් වර්ග සහ මුල් වල කාර්යයන් හඳුනාගනිමු 7 ශ්‍රේණිය විද්‍යාව පාඩම 5 ශ්‍රේණිය ශිෂ්‍යත්ව පාඩම",
+                "url": "https://youtube.com/watch?v=kvFjv5iGtFM",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/kvFjv5iGtFM/hq720.jpg"
+            },
+            {
+                "title": "පාඩම් මාලාව අංක 1 පොගොනාටුම් ජීවන චක්‍රය | Dinesh Muthugala | Biology",
+                "url": "https://youtube.com/watch?v=SXHkswL7b0w",
+                "duration": "24:30",
+                "thumbnail": "https://i.ytimg.com/vi/SXHkswL7b0w/hq720.jpg"
+            },
+            {
+                "title": "මේ දේවල් 10 හැමදාම කරොත් ඔබේ මොළය දසගුණයක් වේගවත් වෙනවා |  Brain Power According To Neuroscience",
+                "url": "https://youtube.com/watch?v=SSS39shmK0o",
+                "duration": "10:14",
+                "thumbnail": "https://i.ytimg.com/vi/SSS39shmK0o/hq720.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන 🐕#trending #viral #foryou #education #educational #animals",
+                "url": "https://youtube.com/watch?v=m_QLK68xX50",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/m_QLK68xX50/hq720.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා වලින් ශරීරයට ලැබෙන වාසි 15ක් | Health Benefits Of Moringa | Murunga Kola",
+                "url": "https://youtube.com/watch?v=H6aS7is4USA",
+                "duration": "14:01",
+                "thumbnail": "https://i.ytimg.com/vi/H6aS7is4USA/hq720.jpg"
+            },
+            {
+                "title": "12 Moringa Seed Benefits You'll Never Hear from Your Doctor (But You Should Know)",
+                "url": "https://youtube.com/watch?v=r-fyOSx6Zf0",
+                "duration": "18:29",
+                "thumbnail": "https://i.ytimg.com/vi/r-fyOSx6Zf0/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම මුරුංගා කොළ යුෂ කෝප්පයක් බිව්වොත් ශරීරයට සිදුවන විශ්මිත දේවල් - Health Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=eJvVlXTMwjI",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/eJvVlXTMwjI/hq720.jpg"
+            },
+            {
+                "title": "Mangosteen Health Benefits",
+                "url": "https://youtube.com/watch?v=ctjeEKX6FwU",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/ctjeEKX6FwU/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits of Matcha Tea: The Ultimate Guide to a Healthier You!",
+                "url": "https://youtube.com/watch?v=Os9hFAOCFGQ",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/Os9hFAOCFGQ/hqdefault.jpg"
+            },
+            {
+                "title": "මුරුංගා වලින් ශරීරයට ලැබෙන වාසි 15ක් | Health Benefits Of Moringa | Murunga Kola",
+                "url": "https://youtube.com/watch?v=N65gKCvAYYk",
+                "duration": "14:01",
+                "thumbnail": "https://i.ytimg.com/vi/N65gKCvAYYk/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Abscesses",
-      "sinhala": "සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Smallpox",
-      "sinhala": "වසූරිය (Smallpox)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Scabies/Skin Disorders",
-      "sinhala": "චර්ම රෝග (හොරි වැනි)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Contraception",
-      "sinhala": "ප්‍රතිසන්ධි නිරෝධක (ගැබ්ගැනීම් වළක්වන ඖෂධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Inflammatory Conditions",
-      "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Menorrhagia",
-      "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Fruits",
-    "Roots",
-    "Bark",
-    "Resin",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "181",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/84S9MP2r/plant00234-00181.jpg"
-    },
-    {
-      "image_id": "182",
-      "caption": "Fruits and Flowers",
-      "url": "https://i.ibb.co/WvyBM2Lf/plant00234-00182.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

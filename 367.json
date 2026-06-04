@@ -1,210 +1,347 @@
 {
-  "scientificName": "Lagenaria siceraria (Molina) Standl.",
-  "synonyms": [
-    "Adenopus abyssinicus var. somaliensis Chiov.",
-    "Cucumis bicirrha J.R.Forst. ex Guill.",
-    "Cucumis lagenaria (L.) Dumort.",
-    "Cucumis mairei H.Lév.",
-    "Cucurbita ciceraria Molina",
-    "Cucurbita idololatrica Willd.",
-    "Cucurbita lagenaria L.",
-    "Cucurbita lagenaria var. oblonga Blanco",
-    "Cucurbita lagenaria var. villosa Blanco",
-    "Cucurbita leucantha Duchesne",
-    "Cucurbita longa W.M.Fletcher",
-    "Cucurbita pyriformis M.Roem.",
-    "Cucurbita siceraria Molina",
-    "Cucurbita vittata Blume",
-    "Lagenaria bicornuta Chakrav.",
-    "Lagenaria cochinchinensis M.Roem.",
-    "Lagenaria hispida Ser.",
-    "Lagenaria idolatrica (Willd.) Ser.",
-    "Lagenaria lagenaria (L.) Cockerell",
-    "Lagenaria leucantha Rusby",
-    "Lagenaria leucantha var. depressa (Ser.) Makino",
-    "Lagenaria leucantha var. makinoi Nakai",
-    "Lagenaria leucantha var. microcarpa (Tod.) Nakai",
-    "Lagenaria microcarpa Naudin",
-    "Lagenaria siceraria f. depressa (Ser.) M.Hiroe",
-    "Lagenaria siceraria f. microcarpa (Naudin) M.Hiroe",
-    "Lagenaria siceraria var. depressa (Ser.) H.Hara",
-    "Lagenaria siceraria var. laevisperma Millán",
-    "Lagenaria siceraria var. microcarpa (Tod.) H.Hara",
-    "Lagenaria verrucosa Anon.",
-    "Lagenaria virginalis Anon.",
-    "Lagenaria vittata Ser.",
-    "Lagenaria vulgaris Ser.",
-    "Lagenaria vulgaris subsp. afrikana Kobjakova",
-    "Lagenaria vulgaris subsp. asiatica Kobjakova",
-    "Lagenaria vulgaris var. clavata Ser.",
-    "Lagenaria vulgaris var. depressa Ser.",
-    "Lagenaria vulgaris var. elongata Tod.",
-    "Lagenaria vulgaris var. gourda Ser.",
-    "Lagenaria vulgaris var. microcarpa Tod.",
-    "Pepo lagenarius Moench",
-    "Trochomeria rehmannii Cogn."
-  ],
-  "familyName": "CUCURBITACEAE",
-  "englishNames": [
-    "Bottle Gourd",
-    "Calabash Cucumber",
-    "Bitter Calbash Gourd"
-  ],
-  "sinhalaName": "Diya labu (දියලබු )",
-  "description": "මධ්‍යම ප්‍රමාණයේ, අඬු (tendrils) සහිත වැල් වර්ගයකි. කඳන් කෝණ 5කින් යුක්ත වේ. පත්‍ර සරල වන අතර දිග සහ පළල සෙ.මී. 13-20ක් පමණ වේ. පත්‍ර හැඩය ඩිම්බාකාර (ovate) වන අතර පාදම ගැඹුරු හෘදයාකාර (cordate) වේ. පත්‍ර මතුපිට නොපැහැදිලි පත්‍ර ඛණ්ඩ 5කින් යුක්ත වන අතර, මෘදු රෝම සහිත සහ දාරය දන්තමය (dentate) වේ. පත්‍ර වෘන්ත (petioles) සෙ.මී. 8-13ක් පමණ දිග වන අතර රෝම සහිත (pubescent) වේ. මල් දුඹුරු පැහැයට හුරු සුදු පැහැයක් ගන්නා අතර ඒකලිංගික (monoecious) වේ. පලතුරු විශාල වන අතර ඩම්බල් හැඩැති (dumbbell-shaped) සහ නොපැළෙන (indehiscent) ස්වභාවයක් ගනී. බීජ බොහෝ සංඛ්‍යාවක් පවතින අතර, ඒවා සුදු පැහැති, පැතලි (compressed) සහ දාරය දිගේ වලක් සහිත වේ.",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Lagenaria siceraria (Molina) Standl.",
+    "synonyms": [
+        "Adenopus abyssinicus var. somaliensis Chiov.",
+        "Cucumis bicirrha J.R.Forst. ex Guill.",
+        "Cucumis lagenaria (L.) Dumort.",
+        "Cucumis mairei H.Lév.",
+        "Cucurbita ciceraria Molina",
+        "Cucurbita idololatrica Willd.",
+        "Cucurbita lagenaria L.",
+        "Cucurbita lagenaria var. oblonga Blanco",
+        "Cucurbita lagenaria var. villosa Blanco",
+        "Cucurbita leucantha Duchesne",
+        "Cucurbita longa W.M.Fletcher",
+        "Cucurbita pyriformis M.Roem.",
+        "Cucurbita siceraria Molina",
+        "Cucurbita vittata Blume",
+        "Lagenaria bicornuta Chakrav.",
+        "Lagenaria cochinchinensis M.Roem.",
+        "Lagenaria hispida Ser.",
+        "Lagenaria idolatrica (Willd.) Ser.",
+        "Lagenaria lagenaria (L.) Cockerell",
+        "Lagenaria leucantha Rusby",
+        "Lagenaria leucantha var. depressa (Ser.) Makino",
+        "Lagenaria leucantha var. makinoi Nakai",
+        "Lagenaria leucantha var. microcarpa (Tod.) Nakai",
+        "Lagenaria microcarpa Naudin",
+        "Lagenaria siceraria f. depressa (Ser.) M.Hiroe",
+        "Lagenaria siceraria f. microcarpa (Naudin) M.Hiroe",
+        "Lagenaria siceraria var. depressa (Ser.) H.Hara",
+        "Lagenaria siceraria var. laevisperma Millán",
+        "Lagenaria siceraria var. microcarpa (Tod.) H.Hara",
+        "Lagenaria verrucosa Anon.",
+        "Lagenaria virginalis Anon.",
+        "Lagenaria vittata Ser.",
+        "Lagenaria vulgaris Ser.",
+        "Lagenaria vulgaris subsp. afrikana Kobjakova",
+        "Lagenaria vulgaris subsp. asiatica Kobjakova",
+        "Lagenaria vulgaris var. clavata Ser.",
+        "Lagenaria vulgaris var. depressa Ser.",
+        "Lagenaria vulgaris var. elongata Tod.",
+        "Lagenaria vulgaris var. gourda Ser.",
+        "Lagenaria vulgaris var. microcarpa Tod.",
+        "Pepo lagenarius Moench",
+        "Trochomeria rehmannii Cogn."
+    ],
+    "familyName": "CUCURBITACEAE",
+    "englishNames": [
+        "Bottle Gourd",
+        "Calabash Cucumber",
+        "Bitter Calbash Gourd"
+    ],
+    "sinhalaName": "Diya labu (දියලබු )",
+    "description": "මධ්‍යම ප්‍රමාණයේ, අඬු (tendrils) සහිත වැල් වර්ගයකි. කඳන් කෝණ 5කින් යුක්ත වේ. පත්‍ර සරල වන අතර දිග සහ පළල සෙ.මී. 13-20ක් පමණ වේ. පත්‍ර හැඩය ඩිම්බාකාර (ovate) වන අතර පාදම ගැඹුරු හෘදයාකාර (cordate) වේ. පත්‍ර මතුපිට නොපැහැදිලි පත්‍ර ඛණ්ඩ 5කින් යුක්ත වන අතර, මෘදු රෝම සහිත සහ දාරය දන්තමය (dentate) වේ. පත්‍ර වෘන්ත (petioles) සෙ.මී. 8-13ක් පමණ දිග වන අතර රෝම සහිත (pubescent) වේ. මල් දුඹුරු පැහැයට හුරු සුදු පැහැයක් ගන්නා අතර ඒකලිංගික (monoecious) වේ. පලතුරු විශාල වන අතර ඩම්බල් හැඩැති (dumbbell-shaped) සහ නොපැළෙන (indehiscent) ස්වභාවයක් ගනී. බීජ බොහෝ සංඛ්‍යාවක් පවතින අතර, ඒවා සුදු පැහැති, පැතලි (compressed) සහ දාරය දිගේ වලක් සහිත වේ.",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Insomnia",
+            "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Arthritis",
+            "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Polydipsia",
+            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Mental Disorders",
+            "sinhala": "මානසික ආබාධ සහ රෝගී තත්ත්වයන් (උන්මාද / මානසික රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gastritis",
+            "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Difficulties",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුතා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tuberculosis",
+            "sinhala": "ක්ෂය රෝගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits",
+        "Seeds",
+        "Whole climber"
+    ],
+    "images": [
+        {
+            "image_id": "2919",
+            "caption": "Flower bud (PMR)",
+            "url": "https://i.ibb.co/HfNVDy0c/plant00367-02919.jpg"
+        },
+        {
+            "image_id": "2920",
+            "caption": "Young fruit (PMR)",
+            "url": "https://i.ibb.co/mFdSZmTh/plant00367-02920.jpg"
+        },
+        {
+            "image_id": "2921",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/dJsjd2qZ/plant00367-02921.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කැඩුම් බිදුම් වෙදකමට  කදිම දියලබු",
+                "url": "https://youtube.com/watch?v=1cJNHKEY7NA",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/1cJNHKEY7NA/hqdefault.jpg"
+            },
+            {
+                "title": "දියලබු මාළුව | ඇතිලියත් පිස දමාගෙන කන්න පුලුවන් තරමට රසයි. අත්බෙහෙත් මැල්ලුමක්",
+                "url": "https://youtube.com/watch?v=eFrDBsYIHck",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/eFrDBsYIHck/hqdefault.jpg"
+            },
+            {
+                "title": "ලබු ව්‍යංජනයක් ගමේ රසට හදමු.Labu curry | Nilu's Kitchen",
+                "url": "https://youtube.com/watch?v=CcNqIeOAHSk",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/CcNqIeOAHSk/hqdefault.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට සුව දෙන දිය ලබු නියඹලාව | Healthy Village Style Bottle Gourd Recipes 🌿",
+                "url": "https://youtube.com/watch?v=s-uTmpl3xdY",
+                "duration": "5:37",
+                "thumbnail": "https://i.ytimg.com/vi/s-uTmpl3xdY/hq720.jpg"
+            },
+            {
+                "title": "මේ තරම් රසට ලබු කාලා තියෙනවාද? | Labu Curry | Bottle Gourd Recipe | @mskitchen3708",
+                "url": "https://youtube.com/watch?v=IJNvHLWztlw",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/IJNvHLWztlw/hq720.jpg"
+            },
+            {
+                "title": "මහත අය කෙට්ටු කරන වයසක අය තිරිහන් කරන ලබු Wonder of Bottle Gourd",
+                "url": "https://youtube.com/watch?v=ILRZgL8mJrg",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/ILRZgL8mJrg/hq720.jpg"
+            },
+            {
+                "title": "දියලබු ව්‍යංජණය/Nisansala’s cooking/ Bottle gourd curry",
+                "url": "https://youtube.com/watch?v=j813vGB2EU0",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/j813vGB2EU0/hqdefault.jpg"
+            },
+            {
+                "title": "Diyalabu, දිය ලබු  @village-s6h5k  #srilanka #village #life #style",
+                "url": "https://youtube.com/watch?v=KT-w5N_RIIs",
+                "duration": "6:36",
+                "thumbnail": "https://i.ytimg.com/vi/KT-w5N_RIIs/hqdefault.jpg"
+            },
+            {
+                "title": "EP-23 How to make Bottle Gourd Curry  ගමේ රසට ලබු ව්‍යංජනයක් හදමු -Villagers Foods",
+                "url": "https://youtube.com/watch?v=8r-wSwexW4k",
+                "duration": "5:54",
+                "thumbnail": "https://i.ytimg.com/vi/8r-wSwexW4k/hq720.jpg"
+            },
+            {
+                "title": "වැඩි ලබූ ගෙඩි අස්වැන්නක් ගන්න බීජ රෝපණය කරන අයුරු/සහ ඖෂධීය ගූණය /Diya labu ikmanwaga",
+                "url": "https://youtube.com/watch?v=RxaDT7meG8Y",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/RxaDT7meG8Y/hq720.jpg"
+            },
+            {
+                "title": "දිය ලබු වගාව",
+                "url": "https://youtube.com/watch?v=JRUzUFpuokg",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/JRUzUFpuokg/hqdefault.jpg"
+            },
+            {
+                "title": "දවල් කෑමට ලබු නියඹලාවක් හදමුද? Episode 1299 -Labu Naiyambalawa Anoma's Kitchen",
+                "url": "https://youtube.com/watch?v=OcqKjUytJs8",
+                "duration": "7:54",
+                "thumbnail": "https://i.ytimg.com/vi/OcqKjUytJs8/hq720.jpg"
+            },
+            {
+                "title": "bottle gourd curry චිකන් රසට ලබු curry #helthyfood #yummyfood #yummy #tastyfood #tasty",
+                "url": "https://youtube.com/watch?v=-wEy8bO31lM",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/-wEy8bO31lM/hq720.jpg"
+            },
+            {
+                "title": "Today, Anuradha goes cooking LABU - Bottle Gourd (in Sinhala name is LABU)",
+                "url": "https://youtube.com/watch?v=AJhU9WZiAxY",
+                "duration": "33:40",
+                "thumbnail": "https://i.ytimg.com/vi/AJhU9WZiAxY/hq720.jpg"
+            },
+            {
+                "title": "ලබු මේ විදිහට විනාඩි 10න් උයන්න | labu  curry recipe | labu uyana widiha | labu curry sinhala |niras",
+                "url": "https://youtube.com/watch?v=YWWCd6TAbm8",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/YWWCd6TAbm8/hq720.jpg"
+            },
+            {
+                "title": "දියලබු මාළුව | ඇතිලියත් පිස දමාගෙන කන්න පුලුවන් තරමට රසයි. අත්බෙහෙත් මැල්ලුමක්",
+                "url": "https://youtube.com/watch?v=c6-LybDcs64",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/c6-LybDcs64/frame0.jpg"
+            },
+            {
+                "title": "Episode 74 ලබු නිත‍ර ආහාරයට ගැනීම සුදුසුද ? health benefits of bottle gourd",
+                "url": "https://youtube.com/watch?v=ZbENaqHw4oA",
+                "duration": "6:23",
+                "thumbnail": "https://i.ytimg.com/vi/ZbENaqHw4oA/hqdefault.jpg"
+            },
+            {
+                "title": "ලබුවල ඇති අසීමිත ගුණ.Unlimited benefits of Calabash.",
+                "url": "https://youtube.com/watch?v=lbrTomHAZTI",
+                "duration": "8:08",
+                "thumbnail": "https://i.ytimg.com/vi/lbrTomHAZTI/hqdefault.jpg"
+            },
+            {
+                "title": "එකම එක අමුද්‍රව්‍යකින් ලෙඩ ගොඩකට සුවය දෙන ඖෂධීය පානය | දිය ලබු පානය | home remedy for gastritis",
+                "url": "https://youtube.com/watch?v=z6Zf-tWa43A",
+                "duration": "4:54",
+                "thumbnail": "https://i.ytimg.com/vi/z6Zf-tWa43A/hq720.jpg"
+            },
+            {
+                "title": "කවුරුත් නොකන අමුතු කොලේ | Delicious Bottle Gourd Leaves Tempered. | Traditional Sri Lanka - 2021.",
+                "url": "https://youtube.com/watch?v=xDk_d1weXE0",
+                "duration": "17:37",
+                "thumbnail": "https://i.ytimg.com/vi/xDk_d1weXE0/hqdefault.jpg"
+            },
+            {
+                "title": "මහත අය කෙට්ටු කරන වයසක අය තිරිහන් කරන ලබු Wonder of Bottle Gourd",
+                "url": "https://youtube.com/watch?v=8XDr6eo40cA",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/8XDr6eo40cA/frame0.jpg"
+            },
+            {
+                "title": "🌿 Labu Kola Recipe | Traditional Village Style Cooking | Sri Lankan Rural Food 🍃",
+                "url": "https://youtube.com/watch?v=Yl8pcLHmuLs",
+                "duration": "15:49",
+                "thumbnail": "https://i.ytimg.com/vi/Yl8pcLHmuLs/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Insomnia",
-      "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Arthritis",
-      "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Polydipsia",
-      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Mental Disorders",
-      "sinhala": "මානසික ආබාධ සහ රෝගී තත්ත්වයන් (උන්මාද / මානසික රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gastritis",
-      "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Difficulties",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුතා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tuberculosis",
-      "sinhala": "ක්ෂය රෝගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits",
-    "Seeds",
-    "Whole climber"
-  ],
-  "images": [
-    {
-      "image_id": "2919",
-      "caption": "Flower bud (PMR)",
-      "url": "https://i.ibb.co/HfNVDy0c/plant00367-02919.jpg"
-    },
-    {
-      "image_id": "2920",
-      "caption": "Young fruit (PMR)",
-      "url": "https://i.ibb.co/mFdSZmTh/plant00367-02920.jpg"
-    },
-    {
-      "image_id": "2921",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/dJsjd2qZ/plant00367-02921.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

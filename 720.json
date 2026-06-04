@@ -1,139 +1,282 @@
 {
-  "scientificName": "Leucas zeylanica (L.) W.T.Aiton",
-  "synonyms": [
-    "Leucasia zeylanica (L.) Raf.",
-    "Phlomis gracilis (L.) Salisb.",
-    "Phlomis zeylanica L."
-  ],
-  "familyName": "LAMIACEAE",
-  "englishNames": [
-    "Ceylon Slitwort",
-    "Ceylon Leucas"
-  ],
-  "sinhalaName": "Geta thumba (ගැටතුඹ)",
-  "description": "සෘජු කඳක් සහිත, සෙන්ටිමීටර 20-50ක් උසැති, පාදස්ථයෙන් බොහෝ අතු බෙදුණු වාර්ෂික පැළෑටියකි. කඳ සිව්කොන් (quadrangular) හැඩැති වන අතර රළු රෝමවලින් (hispid-hairy) වැසී ඇත. පත්‍ර සරල, අභිමුඛ (opposite) වන අතර, දිග සෙන්ටිමීටර 3-9ක් සහ පළල සෙන්ටිමීටර 1.3ක් දක්වා වේ. පත්‍ර රේඛීය (linear) හෝ ලේන්සාකාර රේඛීය (lanceolate linear) හැඩැති වන අතර දෙපසම රළු රෝම සහිතය. මල් සුදු පැහැතිය, ද්විලිංගික (bisexual) වන අතර, වට දෙකක් හෝ තුනක් ලෙස පොකුරු ගැසී පවතී. පෙති 5ක් ඇති අතර ඒවා එකිනෙක හා එක්වී දෙතොල් සහිත (two lipped) කොරොල්ලාවක් (corolla) සාදයි, එය සෙන්ටිමීටර 2ක් දිගය. රේණු 4කි. ඩිම්බකෝෂය උත්පතිත (superior) වේ. පලය බීජ 4කින් සමන්විත වේ.",
-  "treatments": [
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Leucas zeylanica (L.) W.T.Aiton",
+    "synonyms": [
+        "Leucasia zeylanica (L.) Raf.",
+        "Phlomis gracilis (L.) Salisb.",
+        "Phlomis zeylanica L."
+    ],
+    "familyName": "LAMIACEAE",
+    "englishNames": [
+        "Ceylon Slitwort",
+        "Ceylon Leucas"
+    ],
+    "sinhalaName": "Geta thumba (ගැටතුඹ)",
+    "description": "සෘජු කඳක් සහිත, සෙන්ටිමීටර 20-50ක් උසැති, පාදස්ථයෙන් බොහෝ අතු බෙදුණු වාර්ෂික පැළෑටියකි. කඳ සිව්කොන් (quadrangular) හැඩැති වන අතර රළු රෝමවලින් (hispid-hairy) වැසී ඇත. පත්‍ර සරල, අභිමුඛ (opposite) වන අතර, දිග සෙන්ටිමීටර 3-9ක් සහ පළල සෙන්ටිමීටර 1.3ක් දක්වා වේ. පත්‍ර රේඛීය (linear) හෝ ලේන්සාකාර රේඛීය (lanceolate linear) හැඩැති වන අතර දෙපසම රළු රෝම සහිතය. මල් සුදු පැහැතිය, ද්විලිංගික (bisexual) වන අතර, වට දෙකක් හෝ තුනක් ලෙස පොකුරු ගැසී පවතී. පෙති 5ක් ඇති අතර ඒවා එකිනෙක හා එක්වී දෙතොල් සහිත (two lipped) කොරොල්ලාවක් (corolla) සාදයි, එය සෙන්ටිමීටර 2ක් දිගය. රේණු 4කි. ඩිම්බකෝෂය උත්පතිත (superior) වේ. පලය බීජ 4කින් සමන්විත වේ.",
+    "treatments": [
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Flatulence",
+            "sinhala": "බඩ පිපුම (වාතය පිරීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Abdominal Colic",
+            "sinhala": "උදරයේ ශූල වේදනාව (බඩේ කැක්කුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers/Sores",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Pruritus",
+            "sinhala": "චර්ම රෝග නිසා ඇතිවන කැසීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Vertigo",
+            "sinhala": "කැරකැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "246",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/G6j8831/plant00720-00246.jpg"
+        },
+        {
+            "image_id": "247",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/sJ6nwnMF/plant00720-00247.jpg"
+        },
+        {
+            "image_id": "248",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/8grFN21t/plant00720-00248.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ගැට තුඹ කොළවල ඹෟෂධීය ගුණ | Leucas zeylanica",
+                "url": "https://youtube.com/watch?v=i1AK1KskI6M",
+                "duration": "8:54",
+                "thumbnail": "https://i.ytimg.com/vi/i1AK1KskI6M/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ ශාකයේ ගුණ Leucas aspera geta thuba getathuba guna ගැට තුබ වගාව getathuba wagawa badungathawa",
+                "url": "https://youtube.com/watch?v=oUs0G1l121Y",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/oUs0G1l121Y/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ | getathuba | සිරුරේ විස නසන ඔසුව | @osu-ඔසු",
+                "url": "https://youtube.com/watch?v=PFD4g2wddIc",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/PFD4g2wddIc/hqdefault.jpg"
+            },
+            {
+                "title": "Geta Thuba | ගැටතුඹ ශාකයයේ විශ්මිත ඔසුගුණ 🍀🌱",
+                "url": "https://youtube.com/watch?v=2IppH9y_nWA",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/2IppH9y_nWA/hqdefault.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "වල් පැළෑටියක් වගේ ගලවලා විසික් කරන ගැටතුඹ ශාකය ඉතාමත් රසවත් හා ගුණවත්  ආහාරයක් කියල ඔබ දැනං සිටියාද",
+                "url": "https://youtube.com/watch?v=5K1yANVdfoY",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/5K1yANVdfoY/hq720.jpg"
+            },
+            {
+                "title": "සිහි නැත්නම් බිංදු 3 ක් නාසයට විෂ්ණු දෙවියන් පුදන මල - ගැට තුඹ",
+                "url": "https://youtube.com/watch?v=cktffepbmN0",
+                "duration": "6:04",
+                "thumbnail": "https://i.ytimg.com/vi/cktffepbmN0/hq720.jpg"
+            },
+            {
+                "title": "[Sri Lanka Wildflowers]#열대식물#Leucas zeylanica#Ceylon slitwort#Ceylon Leucas#Geta thumba#Mudi Tumpai",
+                "url": "https://youtube.com/watch?v=-ZM3CPlOoFQ",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/-ZM3CPlOoFQ/hq720.jpg"
+            },
+            {
+                "title": "Gata thuba-thuba-Leucas zeylanica-Aurredic plant/ගැට තුඹ/",
+                "url": "https://youtube.com/watch?v=Z-xGBAcaXKw",
+                "duration": "5:16",
+                "thumbnail": "https://i.ytimg.com/vi/Z-xGBAcaXKw/hq720.jpg"
+            },
+            {
+                "title": "✔ ශරීරයේ විෂ නසන තුඹ කොළ මැල්ලුම Detoxing thumba leaves by Apé Amma (Thumba kola malluma)",
+                "url": "https://youtube.com/watch?v=Xkwd0zIOICI",
+                "duration": "9:09",
+                "thumbnail": "https://i.ytimg.com/vi/Xkwd0zIOICI/hq720.jpg"
+            },
+            {
+                "title": "ගැටතූබ ශාකය තූන්දොස් රෝග සමනයට ඉක්මන් සූවය",
+                "url": "https://youtube.com/watch?v=bIYHVTkHCJE",
+                "duration": "7:08",
+                "thumbnail": "https://i.ytimg.com/vi/bIYHVTkHCJE/hq720.jpg"
+            },
+            {
+                "title": "How to make a Tempered 'Tbumba leave' curry",
+                "url": "https://youtube.com/watch?v=-6LvF858p9A",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/-6LvF858p9A/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ ශාකයේ ගුණ Leucas aspera geta thuba getathuba guna ගැට තුබ වගාව getathuba wagawa badungathawa",
+                "url": "https://youtube.com/watch?v=NFmEinWhMes",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/NFmEinWhMes/frame0.jpg"
+            },
+            {
+                "title": "විස නසන ,සෙම නැතිකරන ගැට තුඹ කොල කරිය | තුඹ ව්‍යංජනය | තුබ කරිය | තුඹ මාලුව | Leucas Zeylanica",
+                "url": "https://youtube.com/watch?v=WNrSvOqa2e8",
+                "duration": "5:52",
+                "thumbnail": "https://i.ytimg.com/vi/WNrSvOqa2e8/hq720.jpg"
+            },
+            {
+                "title": "හිසරදය, කරකැවිල්ල නසන දිවඔසුව | ගැට තුඹ (Geta Tumba)",
+                "url": "https://youtube.com/watch?v=Zpg3kFGuA4g",
+                "duration": "15:12",
+                "thumbnail": "https://i.ytimg.com/vi/Zpg3kFGuA4g/hq720.jpg"
+            },
+            {
+                "title": "Leucas aspera geta thuba | Detoxing thumba leaves | geta thuba wagawa | ගැට තුඹ ශාකය | Mihi Thalaya",
+                "url": "https://youtube.com/watch?v=QGnG2r-iv3U",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/QGnG2r-iv3U/hqdefault.jpg"
+            },
+            {
+                "title": "තිත්ත නැති තුඹ වල ගුණ අගුණ සමෙහි ඇති වන ආසාදනයන්ට තිත baby bottle gourd benefits",
+                "url": "https://youtube.com/watch?v=WOUOlSpAplM",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/WOUOlSpAplM/hq720.jpg"
+            },
+            {
+                "title": "leucas zeylanica 2022 | geta thuba 2022 | ceylon sliwort |  geta thumba 2022 | ගැට තුඹ |  ගැටතුඹ2022",
+                "url": "https://youtube.com/watch?v=h5W-yeJK4cA",
+                "duration": "8:22",
+                "thumbnail": "https://i.ytimg.com/vi/h5W-yeJK4cA/hqdefault.jpg"
+            },
+            {
+                "title": "පනු රෝග මට්ටු කර ඇගේ ලේ වඩවන තුඹ මාළුව රසට...thuba curry sinhala",
+                "url": "https://youtube.com/watch?v=YgazVMR8Kno",
+                "duration": "6:07",
+                "thumbnail": "https://i.ytimg.com/vi/YgazVMR8Kno/hqdefault.jpg"
+            },
+            {
+                "title": "ආහාර හිගයට විසදුම් | තුබ ශාකය | Episode 3",
+                "url": "https://youtube.com/watch?v=Cpv0CtwWFjo",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/Cpv0CtwWFjo/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ විස නසන අපූරු මැල්ලුම | Thumba | Ceylon Agri | Episode 196",
+                "url": "https://youtube.com/watch?v=9fmcRha1lo4",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/9fmcRha1lo4/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ පිරි තුඹ දලු මාලුවක් හදමුද",
+                "url": "https://youtube.com/watch?v=ggIaYzlEtsQ",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/ggIaYzlEtsQ/hq720.jpg"
+            },
+            {
+                "title": "තුඹ ශාකය",
+                "url": "https://youtube.com/watch?v=g9MsN9QSv9A",
+                "duration": "1:29",
+                "thumbnail": "https://i.ytimg.com/vi/g9MsN9QSv9A/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Flatulence",
-      "sinhala": "බඩ පිපුම (වාතය පිරීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Abdominal Colic",
-      "sinhala": "උදරයේ ශූල වේදනාව (බඩේ කැක්කුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ulcers/Sores",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Pruritus",
-      "sinhala": "චර්ම රෝග නිසා ඇතිවන කැසීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Vertigo",
-      "sinhala": "කැරකැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "246",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/G6j8831/plant00720-00246.jpg"
-    },
-    {
-      "image_id": "247",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/sJ6nwnMF/plant00720-00247.jpg"
-    },
-    {
-      "image_id": "248",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/8grFN21t/plant00720-00248.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

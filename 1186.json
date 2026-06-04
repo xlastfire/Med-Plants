@@ -1,139 +1,420 @@
 {
-  "scientificName": "Murraya koenigii (L.) Spreng.",
-  "synonyms": [
-    "Bergera koenigii L.",
-    "Camunium koenigii (L.) Kuntze",
-    "Chalcas koenigii (L.) Kurz",
-    "Chalcas siamensis (Craib) Tanaka",
-    "Murraya foetidissima Teijsm. & Binn.",
-    "Murraya siamensis Craib",
-    "Nimbo melioides Dennst."
-  ],
-  "familyName": "RUTACEAE",
-  "englishNames": [
-    "Curry Leaf",
-    "Curry Leaf Tree",
-    "Indian Curry Tree",
-    "Curry Bush"
-  ],
-  "sinhalaName": "Karapincha (කරපිංචා)",
-  "description": "තද අළු පැහැති පොත්තක් සහිත කුඩා ගසකි. පත්‍ර අනුපත්‍ර රහිත (extipulate) වන අතර, පත්‍රිකා ඔත්තේ සංයුක්ත පත්‍ර (imparipinnate) ආකාර වේ. පත්‍ර 15-25 සෙ.මී. දිගින් යුක්ත වන අතර පත්‍ර අක්ෂය රෝමශ (pubescent) වේ. පත්‍රිකා 15-25 ක් පවතින අතර ඒවා 2.5-5 සෙ.මී. දිගින් යුක්ත වේ; පත්‍රිකා පාදම ඉතා ආනත (oblique) වන අතර දාර අක්‍රමවත් ලෙස දන්තමය (crenate) වේ. පත්‍රයේ උඩු පැත්ත සිනිඳු (glabrous) වන අතර යටි පැත්ත රෝමශ (pubescent) වේ. පුෂ්ප මංජරිය අග්‍රස්ථ සයිම (terminal cymes) ආකාර වන අතර ඒවා කෝරිම්බ (corymbose) හැඩයක් ගනී. මල් සුදු පැහැති වන අතර සුවඳවත්ය; මල් 1.2 සෙ.මී. පමණ දිගින් යුක්ත වන අතර කෙටි පුෂ්ප වෘන්ත (pedicels) මත පිහිටයි. ඵලය ගෝලාකාර බෙරි (globular berry) වර්ගයකි; එය 0.6-1 සෙ.මී. දිගින් යුක්ත වන අතර කළු පැහැතිය. බීජ දෙකක් සහිත මෙම ඵලය රළු පෘෂ්ඨයකින් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Snake Poisoning",
-      "sinhala": "සර්ප විෂ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
+    "scientificName": "Murraya koenigii (L.) Spreng.",
+    "synonyms": [
+        "Bergera koenigii L.",
+        "Camunium koenigii (L.) Kuntze",
+        "Chalcas koenigii (L.) Kurz",
+        "Chalcas siamensis (Craib) Tanaka",
+        "Murraya foetidissima Teijsm. & Binn.",
+        "Murraya siamensis Craib",
+        "Nimbo melioides Dennst."
+    ],
+    "familyName": "RUTACEAE",
+    "englishNames": [
+        "Curry Leaf",
+        "Curry Leaf Tree",
+        "Indian Curry Tree",
+        "Curry Bush"
+    ],
+    "sinhalaName": "Karapincha (කරපිංචා)",
+    "description": "තද අළු පැහැති පොත්තක් සහිත කුඩා ගසකි. පත්‍ර අනුපත්‍ර රහිත (extipulate) වන අතර, පත්‍රිකා ඔත්තේ සංයුක්ත පත්‍ර (imparipinnate) ආකාර වේ. පත්‍ර 15-25 සෙ.මී. දිගින් යුක්ත වන අතර පත්‍ර අක්ෂය රෝමශ (pubescent) වේ. පත්‍රිකා 15-25 ක් පවතින අතර ඒවා 2.5-5 සෙ.මී. දිගින් යුක්ත වේ; පත්‍රිකා පාදම ඉතා ආනත (oblique) වන අතර දාර අක්‍රමවත් ලෙස දන්තමය (crenate) වේ. පත්‍රයේ උඩු පැත්ත සිනිඳු (glabrous) වන අතර යටි පැත්ත රෝමශ (pubescent) වේ. පුෂ්ප මංජරිය අග්‍රස්ථ සයිම (terminal cymes) ආකාර වන අතර ඒවා කෝරිම්බ (corymbose) හැඩයක් ගනී. මල් සුදු පැහැති වන අතර සුවඳවත්ය; මල් 1.2 සෙ.මී. පමණ දිගින් යුක්ත වන අතර කෙටි පුෂ්ප වෘන්ත (pedicels) මත පිහිටයි. ඵලය ගෝලාකාර බෙරි (globular berry) වර්ගයකි; එය 0.6-1 සෙ.මී. දිගින් යුක්ත වන අතර කළු පැහැතිය. බීජ දෙකක් සහිත මෙම ඵලය රළු පෘෂ්ඨයකින් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Snake Poisoning",
+            "sinhala": "සර්ප විෂ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Nausea and Vomiting",
+            "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hyperlipidemia",
+            "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hypertension",
+            "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Flowers",
+        "Stem",
+        "Bark",
+        "Roots",
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "222",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/tfSfSr0/plant01186-00222.jpg"
+        },
+        {
+            "image_id": "223",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/Txtr3vyZ/plant01186-00223.jpg"
+        },
+        {
+            "image_id": "3939",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/zWB3C6s7/plant01186-03939.jpg"
+        },
+        {
+            "image_id": "3940",
+            "caption": "Compound leaves (PMR)",
+            "url": "https://i.ibb.co/rKGn5gXM/plant01186-03940.jpg"
+        },
+        {
+            "image_id": "3941",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/n81XTj1m/plant01186-03941.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කරපිංචා වල පුදුම හිතෙන ගුණ කන්දරාව. The best cure for cholesterol is Curry Leaves | karapincha.",
+                "url": "https://youtube.com/watch?v=NBQiZ9BPaE4",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/NBQiZ9BPaE4/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා ශාකයේ ගුණ අගුණ හරියට | Curry Leaves | කරපිංචා",
+                "url": "https://youtube.com/watch?v=OCiE3RoqR5U",
+                "duration": "7:00",
+                "thumbnail": "https://i.ytimg.com/vi/OCiE3RoqR5U/hq720.jpg"
+            },
+            {
+                "title": "සෑම උදෑසනකම කරපිංචා කොළයක් හැපුවොත් ඔබේ ශරීරයට සිදුවන පුදුම දේවල් 8ක් | 8 benefits of curry leaves.",
+                "url": "https://youtube.com/watch?v=S9j0qyXZ5G4",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/S9j0qyXZ5G4/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා කොච්චරක් බොන්න ඕනද? Curry Leaves & Cholesterol By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=s8aNtpihTU8",
+                "duration": "10:13",
+                "thumbnail": "https://i.ytimg.com/vi/s8aNtpihTU8/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තටම කරපිංචා වලින් ලෙඩ හොඳ වෙනවද? | Curry Leaves for Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=D_LJNQr9Yho",
+                "duration": "13:05",
+                "thumbnail": "https://i.ytimg.com/vi/D_LJNQr9Yho/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම කන කරපිංචා ගුණ ද ? අගුණ ද ?#hirufm #hirutv#KANISHKAONHIRUFM #KARAPINCHA #HIRUKNLOGEHUB",
+                "url": "https://youtube.com/watch?v=_tXRpDCDgS4",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/_tXRpDCDgS4/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා සතුව ඇති ඔබ  නොදන්නා විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=zVaFUyw5fTw",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/zVaFUyw5fTw/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍ය ඖෂධයක් වගේ ගුණ කරපිංචා සම්බෝලෙ මං කන්න කැමති විදිහ. Curry Leaves Sambal.",
+                "url": "https://youtube.com/watch?v=j_BNNkzaSp0",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/j_BNNkzaSp0/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා හා කොලෙස්ටෙරොල් වල ඇත්ත, නැත්ත? Curry Leaves By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Mce2TT4Loqk",
+                "duration": "9:15",
+                "thumbnail": "https://i.ytimg.com/vi/Mce2TT4Loqk/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා වල පෝෂණීය ගුණ Nutritional properties of curry leaves",
+                "url": "https://youtube.com/watch?v=zuYA5jjUaj4",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/zuYA5jjUaj4/hq720.jpg"
+            },
+            {
+                "title": "What is benefits of curry leaves? - කරපිංචා කොල වල ඇති ගුණ",
+                "url": "https://youtube.com/watch?v=rbhqrVMTLDE",
+                "duration": "6:00",
+                "thumbnail": "https://i.ytimg.com/vi/rbhqrVMTLDE/hq720.jpg"
+            },
+            {
+                "title": "හදවත සුවපත් කරන කරපිංචා  ගැන මේ දේවල් දැන සිටියාද? karapincha benefits",
+                "url": "https://youtube.com/watch?v=qEJ_xaPLXoY",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/qEJ_xaPLXoY/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Curry Leaves | කරපිංචා වල සැඟවුණු ගුණ - Karapincha",
+                "url": "https://youtube.com/watch?v=wHbtVjwJV-U",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/wHbtVjwJV-U/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා මේ විදියට බිව්වොත් දවස් 7න් බඩ අඩු කරගන්න පුළුවන් | කරපිංචා පානය | Karapincha panaya",
+                "url": "https://youtube.com/watch?v=9KLwSzZrWgA",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/9KLwSzZrWgA/hq720.jpg"
+            },
+            {
+                "title": "බහුතරයක් නොදන්නා කරපිංචා වල ගුණ | Karapincha wala guna | Curry leaves | Sakalawaga",
+                "url": "https://youtube.com/watch?v=67wCQlgyEWY",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/67wCQlgyEWY/hqdefault.jpg"
+            },
+            {
+                "title": "කරපිංචා වල ඖෂධීය ගුණ (2025) || Benifits of Curry leaf",
+                "url": "https://youtube.com/watch?v=xoQOZUOCCZg",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/xoQOZUOCCZg/hqdefault.jpg"
+            },
+            {
+                "title": "කරපිංචා වල පුදුම හිතෙන ගුණ කන්දරාව. The best cure for cholesterol is Curry Leaves | karapincha.",
+                "url": "https://youtube.com/watch?v=xUAi8Bu0HKc",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/xUAi8Bu0HKc/frame0.jpg"
+            },
+            {
+                "title": "ඖෂදීය කරපිංචා ශාකය | Karapincha | Curry Leaf | Curry Leaves",
+                "url": "https://youtube.com/watch?v=dZZHAjYGhsA",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/dZZHAjYGhsA/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා ශාකය ගැන දැනගමු | Curry Leaves (Karapincha) | Health Benefits, Culinary Uses & Facts",
+                "url": "https://youtube.com/watch?v=XI3UV1gAejU",
+                "duration": "6:07",
+                "thumbnail": "https://i.ytimg.com/vi/XI3UV1gAejU/hq720.jpg"
+            },
+            {
+                "title": "සොභාදහමේ අපූරු රසකාරකය කරපිංචා  | Curry Leaves    - Episode 26",
+                "url": "https://youtube.com/watch?v=sk9TUBsfg1I",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/sk9TUBsfg1I/hq720.jpg"
+            },
+            {
+                "title": "ශීතකරණයක් නැතිව කරපිංචා කල්තියාගන්නෙ මෙහෙමයි |how to store curry  leaves without fridge/rasa rahasa",
+                "url": "https://youtube.com/watch?v=GtuPWeq2N0Q",
+                "duration": "3:06",
+                "thumbnail": "https://i.ytimg.com/vi/GtuPWeq2N0Q/hqdefault.jpg"
+            },
+            {
+                "title": "Karapincha|සොබාදහමේ ඖෂධිය දායාදය - කරපිංචා 🌿",
+                "url": "https://youtube.com/watch?v=6WBcIgjZGnw",
+                "duration": "5:49",
+                "thumbnail": "https://i.ytimg.com/vi/6WBcIgjZGnw/hqdefault.jpg"
+            },
+            {
+                "title": "කරපිංචා වගාව සිංහලෙන් / curry leaf plant care tips sinhala 2023",
+                "url": "https://youtube.com/watch?v=1LVBzxLtqIs",
+                "duration": "12:13",
+                "thumbnail": "https://i.ytimg.com/vi/1LVBzxLtqIs/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා වගාව - How to Grow Curry Leaf Plant | ගෙවතු වගාව",
+                "url": "https://youtube.com/watch?v=MM5fAgYaIpI",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/MM5fAgYaIpI/hqdefault.jpg"
+            },
+            {
+                "title": "Cholesterol අඩු කරන කරපිංචා ලුණු මිරිස - Curry Leaves Lunu Miris Recipe (Sinhala)",
+                "url": "https://youtube.com/watch?v=rN-PyBDo4NE",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/rN-PyBDo4NE/hqdefault.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල් නසන කරපිංචා පානය මෙන්න | Native remedies that kill cholesterol !",
+                "url": "https://youtube.com/watch?v=Oll_MqJhGLA",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/Oll_MqJhGLA/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා වගාව curry leaves Home gardening Organic gardening Organic ගෙවතු වගාව gewathu wagawa",
+                "url": "https://youtube.com/watch?v=nr0VfF4AOok",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/nr0VfF4AOok/hq720.jpg"
+            },
+            {
+                "title": "නාටු විච්ච කරපිංචා ගහෙන් කරපිංචා බිස්සක්  Growing curry leaves plant කරපිංචා වගාව karapincha wagawa",
+                "url": "https://youtube.com/watch?v=j1KTUr-Pus4",
+                "duration": "10:00",
+                "thumbnail": "https://i.ytimg.com/vi/j1KTUr-Pus4/hqdefault.jpg"
+            },
+            {
+                "title": "🔴කරපිංචා පිලිකාකාරකයිද? ව්‍යාංජන වලට දාන්න එපාද? විනාශයි! මේ වැරැද්ද කරන්න එපා! කරපිංචා රහස්",
+                "url": "https://youtube.com/watch?v=MM_T8OGcCow",
+                "duration": "8:09",
+                "thumbnail": "https://i.ytimg.com/vi/MM_T8OGcCow/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා ආහාරයට ගැනිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක් | Curry Leaves Health Benefits | Karapincha Kola",
+                "url": "https://youtube.com/watch?v=TpMWRW0jeCg",
+                "duration": "13:18",
+                "thumbnail": "https://i.ytimg.com/vi/TpMWRW0jeCg/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා වල විස්මිත ගුණය|curry leaves",
+                "url": "https://youtube.com/watch?v=nWU0IFjtw9M",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/nWU0IFjtw9M/hqdefault.jpg"
+            },
+            {
+                "title": "ඖෂදීය කරපිංචා ශාකය | Karapincha | Curry Leaf | Curry Leaves",
+                "url": "https://youtube.com/watch?v=1G-KD3ETjcc",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/1G-KD3ETjcc/frame0.jpg"
+            },
+            {
+                "title": "Curry leaves health benefits | කරපිංචා වල ඖෂධීය ගුණය ගැන දැන ගන්න | ඔබ දිනපතාම ආහාරයට  ගනීවි",
+                "url": "https://youtube.com/watch?v=aHUEgwi1wsQ",
+                "duration": "10:14",
+                "thumbnail": "https://i.ytimg.com/vi/aHUEgwi1wsQ/hq720.jpg"
+            },
+            {
+                "title": "කෑම රස කරන කරපිංචා අපි නොදන්න ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=M1y3n8QP_2k",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/M1y3n8QP_2k/hq720.jpg"
+            },
+            {
+                "title": "Curry Leaves,  Karapincha කරපිංචා",
+                "url": "https://youtube.com/watch?v=GHA3krZ6gFA",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/GHA3krZ6gFA/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා පානය | කරපිංචා වල පුදුම හිතෙන ගුන | Curry leaf | 2023",
+                "url": "https://youtube.com/watch?v=rnz7plJ9_4s",
+                "duration": "14:27",
+                "thumbnail": "https://i.ytimg.com/vi/rnz7plJ9_4s/hqdefault.jpg"
+            },
+            {
+                "title": "කරපිංචා වල පුදුම හිතෙන ගුණ කන්දරාව. The best cure for cholesterol is Curry Leaves | karapincha.",
+                "url": "https://youtube.com/watch?v=Rk4g1ZWXDyw",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/Rk4g1ZWXDyw/frame0.jpg"
+            },
+            {
+                "title": "කරපිංචා ශාකයෙන් ලබා ගත හැකි ප්‍රයෝජන  10ක්  #The#important#of#carry#leaves#sl#green#Garden",
+                "url": "https://youtube.com/watch?v=_4Fg936KLs0",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/_4Fg936KLs0/hq720.jpg"
+            },
+            {
+                "title": "කෑම අරුචිය කොහෙන් ගියාද නැහැ එක කොල ජාතියෙන් පෝෂණීය කැද එකක් විනාඩි 10න් ලේසියෙන්ම හදාගන්න/Kanda",
+                "url": "https://youtube.com/watch?v=IhkMsS1XV3s",
+                "duration": "7:57",
+                "thumbnail": "https://i.ytimg.com/vi/IhkMsS1XV3s/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා ගැන නොදැන ඔයත් මේ වැරදි කවදාවත් කරන්න එපා| Karapincha Kola|Curry Leaves|Sl Soka|සොකා|Wishwa",
+                "url": "https://youtube.com/watch?v=UMiDQLHcS6E",
+                "duration": "6:07",
+                "thumbnail": "https://i.ytimg.com/vi/UMiDQLHcS6E/hq720.jpg"
+            },
+            {
+                "title": "කරපිංචා කල් තබාගන්නා ගන්නා ක්‍රමය @gameeka",
+                "url": "https://youtube.com/watch?v=CJjpssQhEqU",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/CJjpssQhEqU/hq720.jpg"
+            },
+            {
+                "title": "බත්පතේ ඇති කරපිංචා කොළය විසි කරන්න එපා - benefits of curry leaves",
+                "url": "https://youtube.com/watch?v=bZUEfp-fsxY",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/bZUEfp-fsxY/hq720.jpg"
+            },
+            {
+                "title": "ඔබ නොදත් කරපිංචාගැන තොරතුරු",
+                "url": "https://youtube.com/watch?v=F0CjBKupl3E",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/F0CjBKupl3E/hq720.jpg"
+            },
+            {
+                "title": "පෝෂණීය බව රැක ගෙන කරපිංචා කැද ලේසියෙන්ම හදමු||karapincha kanda||@KitchenwithLife ❤️",
+                "url": "https://youtube.com/watch?v=cDaoPssm4Ec",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/cDaoPssm4Ec/hqdefault.jpg"
+            },
+            {
+                "title": "17 Impressive CURRY LEAVES & POWDER Health Benefits & Uses",
+                "url": "https://youtube.com/watch?v=ysHUZ5MkTwU",
+                "duration": "9:15",
+                "thumbnail": "https://i.ytimg.com/vi/ysHUZ5MkTwU/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් කරපිංචා පිගානේ ඉතුරු කරන කෙනෙක්ද? | Benefits of Curry Leaves | Curry tree | Karapincha",
+                "url": "https://youtube.com/watch?v=ntcdAqbdaP8",
+                "duration": "3:55",
+                "thumbnail": "https://i.ytimg.com/vi/ntcdAqbdaP8/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Nausea and Vomiting",
-      "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hyperlipidemia",
-      "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hypertension",
-      "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Flowers",
-    "Stem",
-    "Bark",
-    "Roots",
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "222",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/tfSfSr0/plant01186-00222.jpg"
-    },
-    {
-      "image_id": "223",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/Txtr3vyZ/plant01186-00223.jpg"
-    },
-    {
-      "image_id": "3939",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/zWB3C6s7/plant01186-03939.jpg"
-    },
-    {
-      "image_id": "3940",
-      "caption": "Compound leaves (PMR)",
-      "url": "https://i.ibb.co/rKGn5gXM/plant01186-03940.jpg"
-    },
-    {
-      "image_id": "3941",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/n81XTj1m/plant01186-03941.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

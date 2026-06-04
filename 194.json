@@ -1,170 +1,535 @@
 {
-  "scientificName": "Wattakaka volubilis (L.f.) Stapf",
-  "synonyms": [
-    "Apocynum tiliifolium Lam.",
-    "Asclepias viridiflora Roxb. ex Decne.",
-    "Asclepias volubilis L.f.",
-    "Dregea viridiflora Fern.-Vill.",
-    "Dregea volubilis (L.f.) Benth. ex Hook.f.",
-    "Dregea volubilis var. viridiflora (Hassk.) Kuntze",
-    "Hoya viridiflora R.Br.",
-    "Hoya volubilis (L.f.) Griff.",
-    "Marsdenia volubilis (L.f.) T.Cooke",
-    "Wattakaka viridiflora Hassk."
-  ],
-  "familyName": "APOCYNACEAE",
-  "englishNames": [
-    "Green Milkweed Climber",
-    "Sneeze Wort"
-  ],
-  "sinhalaName": "Kiri anguna (කිරි අඟුණ )",
-  "description": "මදක් දැවමය ස්වභාවයක් ගන්නා වැල් වර්ගයකි. පත්‍ර තලය සෙන්ටිමීටර 5 - 13 ක් දිග සහ සෙන්ටිමීටර 3 - 10 ක් පළල වේ. පත්‍ර පාදය මොට (obtuse), කැපූ (truncate) හෝ නොගැඹුරු හෘදයාකාර (shallowly cordate) හැඩයක් ගනී. පත්‍ර අග්‍රය තියුණු (acute) සහ උල් වූ (acuminate) ස්වභාවයක් ගනී. පුෂ්ප මංජරිය පත්‍රවලට වඩා කෙටි හෝ පත්‍රවල දිගටම සමාන වේ; පුෂ්ප මංජරිය දණ්ඩ (peduncle) යාබද පත්‍ර දඬුවලට (petioles) සමාන දිගකින් හෝ ඒවාට වඩා දිගින් යුක්ත වේ. ඵල කොටස් (merocarps) සෙන්ටිමීටර 6 - 10 ක් දිග සහ සෙන්ටිමීටර 2 - 3 ක් පළල වේ. මේවා ඉදුණු විට රෝම රහිත (glabrous) වන අතර ළපටි අවස්ථාවේදී සියුම් රෝමවලින් වැසී පවතී (tomentellous).",
-  "treatments": [
-    {
-      "treatment": "Common Cold",
-      "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Wattakaka volubilis (L.f.) Stapf",
+    "synonyms": [
+        "Apocynum tiliifolium Lam.",
+        "Asclepias viridiflora Roxb. ex Decne.",
+        "Asclepias volubilis L.f.",
+        "Dregea viridiflora Fern.-Vill.",
+        "Dregea volubilis (L.f.) Benth. ex Hook.f.",
+        "Dregea volubilis var. viridiflora (Hassk.) Kuntze",
+        "Hoya viridiflora R.Br.",
+        "Hoya volubilis (L.f.) Griff.",
+        "Marsdenia volubilis (L.f.) T.Cooke",
+        "Wattakaka viridiflora Hassk."
+    ],
+    "familyName": "APOCYNACEAE",
+    "englishNames": [
+        "Green Milkweed Climber",
+        "Sneeze Wort"
+    ],
+    "sinhalaName": "Kiri anguna (කිරි අඟුණ )",
+    "description": "මදක් දැවමය ස්වභාවයක් ගන්නා වැල් වර්ගයකි. පත්‍ර තලය සෙන්ටිමීටර 5 - 13 ක් දිග සහ සෙන්ටිමීටර 3 - 10 ක් පළල වේ. පත්‍ර පාදය මොට (obtuse), කැපූ (truncate) හෝ නොගැඹුරු හෘදයාකාර (shallowly cordate) හැඩයක් ගනී. පත්‍ර අග්‍රය තියුණු (acute) සහ උල් වූ (acuminate) ස්වභාවයක් ගනී. පුෂ්ප මංජරිය පත්‍රවලට වඩා කෙටි හෝ පත්‍රවල දිගටම සමාන වේ; පුෂ්ප මංජරිය දණ්ඩ (peduncle) යාබද පත්‍ර දඬුවලට (petioles) සමාන දිගකින් හෝ ඒවාට වඩා දිගින් යුක්ත වේ. ඵල කොටස් (merocarps) සෙන්ටිමීටර 6 - 10 ක් දිග සහ සෙන්ටිමීටර 2 - 3 ක් පළල වේ. මේවා ඉදුණු විට රෝම රහිත (glabrous) වන අතර ළපටි අවස්ථාවේදී සියුම් රෝමවලින් වැසී පවතී (tomentellous).",
+    "treatments": [
+        {
+            "treatment": "Common Cold",
+            "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Vitiligo",
+            "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bleeding Hemorrhoids",
+            "sinhala": "ලේ අර්ශස්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Indigestion",
+            "sinhala": "අජීර්ණය සහ මන්දාග්නිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Worm infestation",
+            "sinhala": "පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rabies",
+            "sinhala": "ජලභීතිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Paralysis",
+            "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole plant"
+    ],
+    "images": [
+        {
+            "image_id": "1936",
+            "caption": "Infloroscence 1 (PMR)",
+            "url": "https://i.ibb.co/vNKQ0gF/plant00194-01936.jpg"
+        },
+        {
+            "image_id": "1937",
+            "caption": "Infloroscence 2 (PMR)",
+            "url": "https://i.ibb.co/TMx84QMp/plant00194-01937.jpg"
+        },
+        {
+            "image_id": "1938",
+            "caption": "Infloroscence 3(PMR)",
+            "url": "https://i.ibb.co/NgXKCN6y/plant00194-01938.jpg"
+        },
+        {
+            "image_id": "1939",
+            "caption": "Fruit (PMR)",
+            "url": "https://i.ibb.co/5gpGgjRm/plant00194-01939.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කිරිඅඟුණ කෑවම මොකද වෙන්නෙ : Health benefits of Kiri Aguna",
+                "url": "https://youtube.com/watch?v=o8vWzWsojxI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/o8vWzWsojxI/hq720.jpg"
+            },
+            {
+                "title": "නම අගුණ වුණත් බොහෝ  ගුණ ඇති කිරි අඟුණ kiri aguna plant benefits මව්කිරි වඩවන ආහාර",
+                "url": "https://youtube.com/watch?v=N7SwafIqdZU",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/N7SwafIqdZU/hq720.jpg"
+            },
+            {
+                "title": "කිරි අගුණ කොල සම්බෝලය තිත්ත නැතුව හදන්නේ මෙහෙමයි - Aguna kola sambole",
+                "url": "https://youtube.com/watch?v=suakcOlTJRQ",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/suakcOlTJRQ/hq720.jpg"
+            },
+            {
+                "title": "කිරි අගුන කොළ සම්බෝල. Kiri Aguna Kola Sambol",
+                "url": "https://youtube.com/watch?v=uUgD5IXKT4c",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/uUgD5IXKT4c/hq720.jpg"
+            },
+            {
+                "title": "Kiri aguna kola | aguna kola sambal | aguna",
+                "url": "https://youtube.com/watch?v=9cvImav8GCU",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/9cvImav8GCU/hq720.jpg"
+            },
+            {
+                "title": "කිරි අගුණ කොල සම්බෝලය kiri aguna kola",
+                "url": "https://youtube.com/watch?v=_2xVcIaWJv8",
+                "duration": "1:17",
+                "thumbnail": "https://i.ytimg.com/vi/_2xVcIaWJv8/hqdefault.jpg"
+            },
+            {
+                "title": "කිරි අගුණ කොළ Tylophora pauciflora",
+                "url": "https://youtube.com/watch?v=ywRYdrn83Ho",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/ywRYdrn83Ho/hq720.jpg"
+            },
+            {
+                "title": "ගුණය රැකගෙන අගුණ කොළ සමබෝලයක් හදන විදිය | කිරි අඟුණ | Green milkweed climber sambol",
+                "url": "https://youtube.com/watch?v=jZKJE7IUetw",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/jZKJE7IUetw/hq720.jpg"
+            },
+            {
+                "title": "කුරින්නන් කොල කිරි අඟුණ කොල අතර වෙනස",
+                "url": "https://youtube.com/watch?v=8o5_5EFmlWc",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/8o5_5EFmlWc/hqdefault.jpg"
+            },
+            {
+                "title": "අඟුණ කොළ සලාදය හෝ මැල්ලුම ආහාරයට ගැනීමෙන් ලැබෙන  ගුණය   - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=CcEpH4cmi1g",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/CcEpH4cmi1g/hq720.jpg"
+            },
+            {
+                "title": "Aguna Kola Malluma & Aguna Kola Salad - Episode 33 - Shyamahesh Dissanayake",
+                "url": "https://youtube.com/watch?v=Zcx7rfHXG6A",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/Zcx7rfHXG6A/hq720.jpg"
+            },
+            {
+                "title": "Green Milkweed Climber Sneeze Wort#Kiri #කිරි අඟුණ  # තිත්ත අඟුණ#plants",
+                "url": "https://youtube.com/watch?v=hdqgCa2BEz0",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/hdqgCa2BEz0/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ වල ඇති විශ්මිත ගුණ 25ක් kiriaguna wala athi guna",
+                "url": "https://youtube.com/watch?v=KrQRcPVvNlw",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/KrQRcPVvNlw/hqdefault.jpg"
+            },
+            {
+                "title": "🌱 කිරි අඟුණ කොල සම්බෝලය | Healthy & Tasty Sri Lankan Recipe",
+                "url": "https://youtube.com/watch?v=QI4DiW_YRNc",
+                "duration": "5:30",
+                "thumbnail": "https://i.ytimg.com/vi/QI4DiW_YRNc/hqdefault.jpg"
+            },
+            {
+                "title": "★ ශරීරයේ විෂ නසන අඟුණ කොළ සම්බෝලේ Aguna kola sambole by Apé Amma",
+                "url": "https://youtube.com/watch?v=1HVoXSBBRX0",
+                "duration": "6:12",
+                "thumbnail": "https://i.ytimg.com/vi/1HVoXSBBRX0/hq720.jpg"
+            },
+            {
+                "title": "kiri aguna කිරි අගුණ වල ගුණ",
+                "url": "https://youtube.com/watch?v=XFhY4OvUg6k",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/XFhY4OvUg6k/hq720.jpg"
+            },
+            {
+                "title": "කිරි අගුණ වල ඇති විශ්මිත ගුණ| kiri Aguna sirlank",
+                "url": "https://youtube.com/watch?v=roSd-n_i5q4",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/roSd-n_i5q4/hqdefault.jpg"
+            },
+            {
+                "title": "පිටිකල  පොල් කිරිවල තිත්ත ඇත්ත | Coconut Milk Powder By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Nr9E79ApRTs",
+                "duration": "12:57",
+                "thumbnail": "https://i.ytimg.com/vi/Nr9E79ApRTs/hq720.jpg"
+            },
+            {
+                "title": "ඇහුවොත්  පුදුම වෙයි |රෝග රැසකට ගුණ දෙන තිත්ත අගුණ | aguna kola | lt lucky garden",
+                "url": "https://youtube.com/watch?v=lDR5o_2F218",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/lDR5o_2F218/hq720.jpg"
+            },
+            {
+                "title": "කිරි අගුණ කෑවොත් මොකද වෙන්නේ ?",
+                "url": "https://youtube.com/watch?v=MaEKzvmXK-0",
+                "duration": "6:07",
+                "thumbnail": "https://i.ytimg.com/vi/MaEKzvmXK-0/hq720.jpg"
+            },
+            {
+                "title": "නම අගුණ උනාට,  ගුණ අගුණ නැති කොල",
+                "url": "https://youtube.com/watch?v=r78WE9I-tFo",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/r78WE9I-tFo/hqdefault.jpg"
+            },
+            {
+                "title": "Kiri aguna kola රුව වඩවන කිරි අගුණ කොළ සම්බෝලය",
+                "url": "https://youtube.com/watch?v=7XDwGUJTdNA",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/7XDwGUJTdNA/hqdefault.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ කෑවොත් වෙනදේ දන්නවද?(Tylophora pauciflora)",
+                "url": "https://youtube.com/watch?v=ZusbkflKheM",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/ZusbkflKheM/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත නැතිව හදන ගුණ දෙන අගුණ කොළ සම්බෝලෙ සහ තෙම්පරාදුව | AGUNAKOLA MALLUMA | NAYOMI RECIPE",
+                "url": "https://youtube.com/watch?v=X8SDaGOIjxk",
+                "duration": "12:18",
+                "thumbnail": "https://i.ytimg.com/vi/X8SDaGOIjxk/hqdefault.jpg"
+            },
+            {
+                "title": "අර්ශෂ්, දියවැඩියාවට, අාතතියට ගුණදායක කිරි හැන්ද kirihanda curry by Apé Amma",
+                "url": "https://youtube.com/watch?v=tqDk7JT209k",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/tqDk7JT209k/hq720.jpg"
+            },
+            {
+                "title": "ගර්භනී කිරි දෙනුන් පාලනය🐄/Management Of Pregnant Cattles 🐄🐮#livestock #dairfarming #dairy #agro",
+                "url": "https://youtube.com/watch?v=e9AZKmJbZdw",
+                "duration": "21:47",
+                "thumbnail": "https://i.ytimg.com/vi/e9AZKmJbZdw/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකින් ඔබව ආරක්ෂා කරන දේශීය පානය | ඉඟිනි කිරි | Inginee Millk | Apex Aura",
+                "url": "https://youtube.com/watch?v=W0qZq1efXF0",
+                "duration": "5:46",
+                "thumbnail": "https://i.ytimg.com/vi/W0qZq1efXF0/hq720.jpg"
+            },
+            {
+                "title": "කාලිගේ අනාවැකිය.. | මුතුගල මහ ඇමති පුටුවට..?  |Dinesh Muthugala | Episode 455",
+                "url": "https://youtube.com/watch?v=2GNiuSoLLl8",
+                "duration": "12:24",
+                "thumbnail": "https://i.ytimg.com/vi/2GNiuSoLLl8/hq720.jpg"
+            },
+            {
+                "title": "කිරිබත් වල සැග වී ඇති පැරැන්නන්ගේ විද්‍යාව  | Milk Rice & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=nS-sRIVtQek",
+                "duration": "13:26",
+                "thumbnail": "https://i.ytimg.com/vi/nS-sRIVtQek/hq720.jpg"
+            },
+            {
+                "title": "කිරි බොන අයට වෙන දේ මෙන්න : Benefits of drinking milk",
+                "url": "https://youtube.com/watch?v=IH9rQsb1Mik",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/IH9rQsb1Mik/hq720.jpg"
+            },
+            {
+                "title": "​රෑට කහ දාපු කිරි වීදුරුවක් බිව්වොත් ඇඟ ඇතුළේ වෙන මැජික් එක! | Benefits of Golden Milk (Sinhala)",
+                "url": "https://youtube.com/watch?v=gIllUM0_thk",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/gIllUM0_thk/hq720.jpg"
+            },
+            {
+                "title": "කිරි හැන්ද/kiri handa/celosia argenta/#ishan /#medicinal #/sri lanka",
+                "url": "https://youtube.com/watch?v=-0IC_ITidoI",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/-0IC_ITidoI/hq720.jpg"
+            },
+            {
+                "title": "kire aguna කිරි අගුන මල බද්ධය සහ අර්ශස් ඇතියට වගේම අදිරුදිර පිඩනයට හොද බෙහෙතක්",
+                "url": "https://youtube.com/watch?v=UW4TO1hdDJc",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/UW4TO1hdDJc/hq720.jpg"
+            },
+            {
+                "title": "එළකිරි සහ මීකිරි අතර වෙනස මෙන්න : Cow milk vs buffalo milk",
+                "url": "https://youtube.com/watch?v=gcSYPHb8juI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/gcSYPHb8juI/hq720.jpg"
+            },
+            {
+                "title": "Milk is as good as Breast Milk | මව්කිරි තරමටම ගුණ එළකිරි",
+                "url": "https://youtube.com/watch?v=N4Ip9m69jsw",
+                "duration": "6:12",
+                "thumbnail": "https://i.ytimg.com/vi/N4Ip9m69jsw/hq720.jpg"
+            },
+            {
+                "title": "එළකිරි වල ගුණ | Benefits of Fresh Milk | @sakalawaga",
+                "url": "https://youtube.com/watch?v=t3srOiWqInA",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/t3srOiWqInA/hqdefault.jpg"
+            },
+            {
+                "title": "කිරි එක වෙනුවට කවදාවත් කොළ කැඳ බොන්න එපා!  | Replacement for Milk By Nutritionist Hiroshan Jayarang",
+                "url": "https://youtube.com/watch?v=v_c1Qe47lAE",
+                "duration": "9:20",
+                "thumbnail": "https://i.ytimg.com/vi/v_c1Qe47lAE/hq720.jpg"
+            },
+            {
+                "title": "පිස්සු හැදෙන එළු කිරි බීම - Health benefits of goat milk",
+                "url": "https://youtube.com/watch?v=2cBAjH8NvPY",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/2cBAjH8NvPY/hq720.jpg"
+            },
+            {
+                "title": "මේ කිරි එක උදේට බිව්වොත් ආයෙ කිරි තේ ඕන නැති වෙයි Vegan milk for morning  kusala's simple life",
+                "url": "https://youtube.com/watch?v=l-cdgFtu4MI",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/l-cdgFtu4MI/hq720.jpg"
+            },
+            {
+                "title": "කහ කිරි බිවුවම ඇත්තටම හම සුදු වෙනවද? 🧐  The Truth About Golden Milk",
+                "url": "https://youtube.com/watch?v=gD9oS5yP6gI",
+                "duration": "9:54",
+                "thumbnail": "https://i.ytimg.com/vi/gD9oS5yP6gI/hq720.jpg"
+            },
+            {
+                "title": "ජනවාරි 1 මේ විදියට කිරි උතුරවන්න! මෙන්න හරිම ක්‍රමය",
+                "url": "https://youtube.com/watch?v=Qp7IG1FmjdY",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/Qp7IG1FmjdY/hq720.jpg"
+            },
+            {
+                "title": "එලකිරි පිලිබදව ඔබ මෙතෙක් නොදත් සත්‍ය මෙන්න",
+                "url": "https://youtube.com/watch?v=s1SZQsyUj-M",
+                "duration": "11:16",
+                "thumbnail": "https://i.ytimg.com/vi/s1SZQsyUj-M/hq720.jpg"
+            },
+            {
+                "title": "ගෙවීගිය කාටිලේජ වර්ධනයට කිරි වෙනුවට උදේට බොන්න සුපිරි පානයන් 2ක් | kiri wenuwata uedta bonna dewal",
+                "url": "https://youtube.com/watch?v=txM6Z_g-q9Q",
+                "duration": "9:28",
+                "thumbnail": "https://i.ytimg.com/vi/txM6Z_g-q9Q/hq720.jpg"
+            },
+            {
+                "title": "ඇඟ නිවන ලෙඩ නසන රුව වඩන ආයුර්වේදීය කහ කිරි/රන් කිරි|Turmeric Milk/Golden Milk Food-with-Love.com",
+                "url": "https://youtube.com/watch?v=02G6L8w3aH8",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/02G6L8w3aH8/hq720.jpg"
+            },
+            {
+                "title": "විශාල ප්‍රමාණයේ ගොවිපල්වල කිරි වැඩි කරගන්නා සාස්තරේ🐄🥛#dairyfarming #livestocknutrition #livestock 🐄🐐",
+                "url": "https://youtube.com/watch?v=fZRXPicLQS0",
+                "duration": "20:10",
+                "thumbnail": "https://i.ytimg.com/vi/fZRXPicLQS0/hq720.jpg"
+            },
+            {
+                "title": "කහකිරි පානය කිරීමෙන් ශරීරයට ලැබෙන විශ්මිත ප්‍රතිලාභ | golden milk health benefits  | රන්කිරි පානය",
+                "url": "https://youtube.com/watch?v=ZCwlzYwMrr0",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/ZCwlzYwMrr0/hq720.jpg"
+            },
+            {
+                "title": "Golden Milk | kaha kiri Benefits රෑට නිදාගන්න කලින් කහ කිරි බිව්වොත් උදේට වෙනස ඔබටම දැනේවි",
+                "url": "https://youtube.com/watch?v=EyWy_38oPWE",
+                "duration": "9:51",
+                "thumbnail": "https://i.ytimg.com/vi/EyWy_38oPWE/hq720.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "කී කිරි දිය | නිතර හැදෙන රෝග නසන කීකිරිදිය | kikiridiya prAna TV | medicine plants | Kikiridhiya |",
+                "url": "https://youtube.com/watch?v=WI8M64F67jI",
+                "duration": "3:25",
+                "thumbnail": "https://i.ytimg.com/vi/WI8M64F67jI/hq720.jpg"
+            },
+            {
+                "title": "කහ කිරි බිවුවම හම සුදු වෙනව තමයි! | Golden Milk & Skin Whitning By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=SyzZw6n9_Lg",
+                "duration": "12:36",
+                "thumbnail": "https://i.ytimg.com/vi/SyzZw6n9_Lg/hq720.jpg"
+            },
+            {
+                "title": "කුරිඤ්ඤං, අඟුන, කිරි අඟුන නිවැරදිව හඳුනාගමු | ඔබේ ගෙවත්තෙත් වගා කරන්න Home gardening, sri lanka,lk",
+                "url": "https://youtube.com/watch?v=OU3F-LQSZts",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/OU3F-LQSZts/hq720.jpg"
+            },
+            {
+                "title": "හැම ලෙඩෙන්ම ගොඩ එන්න කිරි  | Cow Milk & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=5gmCHA5ITas",
+                "duration": "15:08",
+                "thumbnail": "https://i.ytimg.com/vi/5gmCHA5ITas/hq720.jpg"
+            },
+            {
+                "title": "වෙළඳපොලේ තියෙන  මුදවපු කිරි සහ යෝගට් | Yoghurt & Curd in Market By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=RQ2XKmhp-20",
+                "duration": "13:40",
+                "thumbnail": "https://i.ytimg.com/vi/RQ2XKmhp-20/hq720.jpg"
+            },
+            {
+                "title": "උදේට කිරි එපා පුදුම රසට මෙහෙම බොන්න ලෙඩත් ඉවර වෙයි. Rice Smoothy recipe from Kusala's Simple Life",
+                "url": "https://youtube.com/watch?v=PAhaoXF-SOs",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/PAhaoXF-SOs/hq720.jpg"
+            },
+            {
+                "title": "ඇඟේ ලේ අඩු යාළුවාට හදලා දෙන්න කියලා ඩොක්ටර් කීව ලේ වඩන කොලෙස්ටරෝල් අඩු කරන කෑම | moringa eggs nira S",
+                "url": "https://youtube.com/watch?v=Pbd-t4yFcl0",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/Pbd-t4yFcl0/hq720.jpg"
+            },
+            {
+                "title": "ධනය දියුණුව උතුරාවි කිරි උතුරුවන හරිම ක්‍රමය මෙන්න Kiri Ithiravima Milk Boiling Raga Sri Nirvana",
+                "url": "https://youtube.com/watch?v=DuUbqycWQH0",
+                "duration": "53:32",
+                "thumbnail": "https://i.ytimg.com/vi/DuUbqycWQH0/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිය දෙගුණ තෙගුණ කරවන මීකිරි - කන්තලෙන් දකුණට යන හැටි | Curd Nutritionist | Rupavahini News",
+                "url": "https://youtube.com/watch?v=9VtvNe5yO44",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/9VtvNe5yO44/hq720.jpg"
+            },
+            {
+                "title": "News Alert  ඇමරිකාවෙන් ලැබුණු නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත් කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=QoxbefYPMS4",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/QoxbefYPMS4/hq720.jpg"
+            },
+            {
+                "title": "කැහිපිත්තං  ගැන ඔබ නොදත් කරුණු .",
+                "url": "https://youtube.com/watch?v=GcsFHMWd56g",
+                "duration": "7:12",
+                "thumbnail": "https://i.ytimg.com/vi/GcsFHMWd56g/hq720.jpg"
+            },
+            {
+                "title": "කිරි එළදෙනුන්ට සලකන ආකාරය කිරිවල ඇති හෝමෝන How Cows Treated  Hormones in Milk",
+                "url": "https://youtube.com/watch?v=wRzlIdJQfmE",
+                "duration": "9:57",
+                "thumbnail": "https://i.ytimg.com/vi/wRzlIdJQfmE/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Vitiligo",
-      "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Bleeding Hemorrhoids",
-      "sinhala": "ලේ අර්ශස්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Indigestion",
-      "sinhala": "අජීර්ණය සහ මන්දාග්නිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Worm infestation",
-      "sinhala": "පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rabies",
-      "sinhala": "ජලභීතිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Paralysis",
-      "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole plant"
-  ],
-  "images": [
-    {
-      "image_id": "1936",
-      "caption": "Infloroscence 1 (PMR)",
-      "url": "https://i.ibb.co/vNKQ0gF/plant00194-01936.jpg"
-    },
-    {
-      "image_id": "1937",
-      "caption": "Infloroscence 2 (PMR)",
-      "url": "https://i.ibb.co/TMx84QMp/plant00194-01937.jpg"
-    },
-    {
-      "image_id": "1938",
-      "caption": "Infloroscence 3(PMR)",
-      "url": "https://i.ibb.co/NgXKCN6y/plant00194-01938.jpg"
-    },
-    {
-      "image_id": "1939",
-      "caption": "Fruit (PMR)",
-      "url": "https://i.ibb.co/5gpGgjRm/plant00194-01939.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

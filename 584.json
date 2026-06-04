@@ -1,87 +1,170 @@
 {
-  "scientificName": "Canavalia rosea (Sw.) DC.",
-  "synonyms": [
-    "Canavalia apiculata Piper",
-    "Canavalia arenicola Piper",
-    "Canavalia baueriana Endl.",
-    "Canavalia emarginata (Jacq.) G.Don",
-    "Canavalia maritima Thouars",
-    "Canavalia miniata (Kunth) DC.",
-    "Canavalia moneta Welw.",
-    "Canavalia obcordata (Roxb.) Voigt",
-    "Canavalia obtusifolia DC.",
-    "Canavalia obtusifolia var. emarginatus (Jacq.) DC.",
-    "Canavalia podocarpa Dunn",
-    "Canavalia rutilans DC.",
-    "Clitoria rotundifolia Sessé & Moc.",
-    "Dolichos emarginatus Jacq.",
-    "Dolichos littoralis Vell.",
-    "Dolichos maritimus Aubl.",
-    "Dolichos miniatus Kunth",
-    "Dolichos obcordatus Roxb.",
-    "Dolichos obovatus Schumach. & Thonn.",
-    "Dolichos obtusifolius Lam.",
-    "Dolichos ovalifolius Schumach. & Thonn.",
-    "Dolichos roseus Sw.",
-    "Dolichos rotundifolius Vahl",
-    "Glycine rosea G.Forst.",
-    "Mucuna rutilans DC.",
-    "Rhynchosia rosea DC."
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Bay Bean",
-    "Beach Bean",
-    "Seaside Bean",
-    "Coastal Jackbean",
-    "MacKenzie Bean",
-    "Greater Sea Bean"
-  ],
-  "sinhalaName": "Mudu avara (මූදු අවර)",
-  "description": "රළු වැල්, බිම දිගේ ඇදෙන හෝ ගස්වල එතෙන සුළුය. පත්‍ර අක්ෂය (leaf rachis) සෙ.මී. 1.5-4 ක් දිගය; පත්‍රිකා ඉලිප්සාකාර (elliptic) වන අතර සෙ.මී. 12 x 7 පමණ වේ. පුෂ්ප මංජරි සෘජු හෝ පහළට එල්ලෙන සුළුය, අක්ෂය (rachis) සෙ.මී. 4-18 ක් දිගය, පුෂ්ප දණ්ඩ (peduncles) සෙ.මී. 10-20 ක් දිගය, මල් කිහිපයක් දරයි. මල් සෙ.මී. 3 ක් පමණ දිගය. ඵලය විස්ඵෝටක (dehiscent) වන අතර සෙ.මී. 6.5-15 x 2.2-3 ප්‍රමාණයෙන් යුක්තය, බීජ 7 ක් පමණ අඩංගු වේ. බීජ තද පැහැතිය, බිත්තරාකාර (ovoid) වේ, සිනිඳු (smooth) වන අතර සෙ.මී. 1.5-2 x 1-1.4 x 0.5-1.1 ප්‍රමාණයෙන් යුක්තය.",
-  "treatments": [
-    {
-      "treatment": "Fish Poisoning",
-      "sinhala": "මසුන් හෝ මත්ස්‍ය කොටස් නිසා සිදුවන විෂවීම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruit",
-    "Seed",
-    "Flower"
-  ],
-  "images": [
-    {
-      "image_id": "955",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/N2cbDBBm/plant00584-00955.jpg"
+    "scientificName": "Canavalia rosea (Sw.) DC.",
+    "synonyms": [
+        "Canavalia apiculata Piper",
+        "Canavalia arenicola Piper",
+        "Canavalia baueriana Endl.",
+        "Canavalia emarginata (Jacq.) G.Don",
+        "Canavalia maritima Thouars",
+        "Canavalia miniata (Kunth) DC.",
+        "Canavalia moneta Welw.",
+        "Canavalia obcordata (Roxb.) Voigt",
+        "Canavalia obtusifolia DC.",
+        "Canavalia obtusifolia var. emarginatus (Jacq.) DC.",
+        "Canavalia podocarpa Dunn",
+        "Canavalia rutilans DC.",
+        "Clitoria rotundifolia Sessé & Moc.",
+        "Dolichos emarginatus Jacq.",
+        "Dolichos littoralis Vell.",
+        "Dolichos maritimus Aubl.",
+        "Dolichos miniatus Kunth",
+        "Dolichos obcordatus Roxb.",
+        "Dolichos obovatus Schumach. & Thonn.",
+        "Dolichos obtusifolius Lam.",
+        "Dolichos ovalifolius Schumach. & Thonn.",
+        "Dolichos roseus Sw.",
+        "Dolichos rotundifolius Vahl",
+        "Glycine rosea G.Forst.",
+        "Mucuna rutilans DC.",
+        "Rhynchosia rosea DC."
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Bay Bean",
+        "Beach Bean",
+        "Seaside Bean",
+        "Coastal Jackbean",
+        "MacKenzie Bean",
+        "Greater Sea Bean"
+    ],
+    "sinhalaName": "Mudu avara (මූදු අවර)",
+    "description": "රළු වැල්, බිම දිගේ ඇදෙන හෝ ගස්වල එතෙන සුළුය. පත්‍ර අක්ෂය (leaf rachis) සෙ.මී. 1.5-4 ක් දිගය; පත්‍රිකා ඉලිප්සාකාර (elliptic) වන අතර සෙ.මී. 12 x 7 පමණ වේ. පුෂ්ප මංජරි සෘජු හෝ පහළට එල්ලෙන සුළුය, අක්ෂය (rachis) සෙ.මී. 4-18 ක් දිගය, පුෂ්ප දණ්ඩ (peduncles) සෙ.මී. 10-20 ක් දිගය, මල් කිහිපයක් දරයි. මල් සෙ.මී. 3 ක් පමණ දිගය. ඵලය විස්ඵෝටක (dehiscent) වන අතර සෙ.මී. 6.5-15 x 2.2-3 ප්‍රමාණයෙන් යුක්තය, බීජ 7 ක් පමණ අඩංගු වේ. බීජ තද පැහැතිය, බිත්තරාකාර (ovoid) වේ, සිනිඳු (smooth) වන අතර සෙ.මී. 1.5-2 x 1-1.4 x 0.5-1.1 ප්‍රමාණයෙන් යුක්තය.",
+    "treatments": [
+        {
+            "treatment": "Fish Poisoning",
+            "sinhala": "මසුන් හෝ මත්ස්‍ය කොටස් නිසා සිදුවන විෂවීම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruit",
+        "Seed",
+        "Flower"
+    ],
+    "images": [
+        {
+            "image_id": "955",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/N2cbDBBm/plant00584-00955.jpg"
+        },
+        {
+            "image_id": "956",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/VWjQZnB5/plant00584-00956.jpg"
+        },
+        {
+            "image_id": "957",
+            "caption": "Fruit and a flower",
+            "url": "https://i.ibb.co/nMJQmQcf/plant00584-00957.jpg"
+        },
+        {
+            "image_id": "3645",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/qF2xBcMp/plant00584-03645.jpg"
+        },
+        {
+            "image_id": "3646",
+            "caption": "Compund Leaf (PMR)",
+            "url": "https://i.ibb.co/DgTY18kr/plant00584-03646.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "බලන්නකෝ මේවාගේ අවර අස්වැන්නක් ලබා දීමේ රහස කූමක්ද කියල",
+                "url": "https://youtube.com/watch?v=qWNxdFQ5IuU",
+                "duration": "6:40",
+                "thumbnail": "https://i.ytimg.com/vi/qWNxdFQ5IuU/hq720.jpg"
+            },
+            {
+                "title": "අවර ගැන අහලා තියනවාද  Avara  suranga bro",
+                "url": "https://youtube.com/watch?v=V5SeaCeKLu8",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/V5SeaCeKLu8/hqdefault.jpg"
+            },
+            {
+                "title": "අවර මැල්ලුම ඉතාම ගුණදායක ආහාරයක්~Stringless Beans~Sri Lankan  style ♥Sri lankan beans recipe",
+                "url": "https://youtube.com/watch?v=3gdulLccEHY",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/3gdulLccEHY/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රෝටීන් බහුල ගමේ කෑම  \"අවර\" - තිලක් කන්දේගම / Thilak Kandegama",
+                "url": "https://youtube.com/watch?v=NX-n4fLYdLE",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/NX-n4fLYdLE/hq720.jpg"
+            },
+            {
+                "title": "අවර නිවසේදිම මෙි විදියට හදාගමු(Awara)suranga bro",
+                "url": "https://youtube.com/watch?v=Sf1cD9yXlgI",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/Sf1cD9yXlgI/hq720.jpg"
+            },
+            {
+                "title": "ගුණයෙන් අවරට නොයන අවර මාළුව හදමු | Traditional Srilankan Avara Curry Recipe Sinhala | Awara",
+                "url": "https://youtube.com/watch?v=n3ItRP70l-Y",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/n3ItRP70l-Y/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණයෙන් පිරිපුන් අවර ශාකය   තංතු විටමින් වලින් අන්තර් ගතය",
+                "url": "https://youtube.com/watch?v=FMazCA05gtY",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/FMazCA05gtY/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රෝටීන් බහුල අවර ඇට වලින් රසවත් කෑමක් හදමු - Awara Seeds Curry",
+                "url": "https://youtube.com/watch?v=jjuHYH9awJo",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/jjuHYH9awJo/hq720.jpg"
+            },
+            {
+                "title": "කිරට උයන පටි අවර ව්‍යාන්ජනය   - Episode 686 - By Anoma's Kitchen",
+                "url": "https://youtube.com/watch?v=5cC_Rz2Eyvk",
+                "duration": "6:02",
+                "thumbnail": "https://i.ytimg.com/vi/5cC_Rz2Eyvk/hqdefault.jpg"
+            },
+            {
+                "title": "අවර වගාව ප්‍රෝටීන් බහුල ගමේ කෑම / Awara Gardening / awara wagawa / අවර වැලක් ගෙවත්තට",
+                "url": "https://youtube.com/watch?v=f3KL8jzMHHU",
+                "duration": "34:43",
+                "thumbnail": "https://i.ytimg.com/vi/f3KL8jzMHHU/hq720.jpg"
+            },
+            {
+                "title": "අවර තෙම්පරාදුව / Awara themparaduwa #awararecipe #swordbeans #stringlessbeans",
+                "url": "https://youtube.com/watch?v=eZJ_Y7iQpFo",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/eZJ_Y7iQpFo/hqdefault.jpg"
+            },
+            {
+                "title": "148 කිසිම ලෙඩක් නෑ. හරිම රසයි . Awara - අවර country food",
+                "url": "https://youtube.com/watch?v=e1MbkH7wv0s",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/e1MbkH7wv0s/hq720.jpg"
+            },
+            {
+                "title": "#අවර මාලුව#බොංචි රසට අවර මාලුවක් හදමු😋😋Awara curry 😋😋n kitchen",
+                "url": "https://youtube.com/watch?v=n9I9rhu4Byg",
+                "duration": "4:52",
+                "thumbnail": "https://i.ytimg.com/vi/n9I9rhu4Byg/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "956",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/VWjQZnB5/plant00584-00956.jpg"
-    },
-    {
-      "image_id": "957",
-      "caption": "Fruit and a flower",
-      "url": "https://i.ibb.co/nMJQmQcf/plant00584-00957.jpg"
-    },
-    {
-      "image_id": "3645",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/qF2xBcMp/plant00584-03645.jpg"
-    },
-    {
-      "image_id": "3646",
-      "caption": "Compund Leaf (PMR)",
-      "url": "https://i.ibb.co/DgTY18kr/plant00584-03646.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

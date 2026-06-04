@@ -1,157 +1,420 @@
 {
-  "scientificName": "Asystasia gangetica (L.) T.Anderson",
-  "synonyms": [
-    "Asystasia bojeriana Nees",
-    "Asystasia comorensis var. humilis Nees",
-    "Asystasia coromandeliana Nees",
-    "Asystasia gangetica var. mendeliana S.R.Kundu & Mahua Pal",
-    "Asystasia plumbaginea Nees",
-    "Asystasia quarterna Nees",
-    "Asystasia violacea Dalzell",
-    "Dyschoriste biloba Hochst.",
-    "Intrusaria bicolor Raf.",
-    "Justicia gangetica L.",
-    "Justicia plumbaginea Wall.",
-    "Ruellia biloba Hochst.",
-    "Ruellia coromandeliana Wall.",
-    "Ruellia coromandelina Nees",
-    "Ruellia digitalis Burm.",
-    "Ruellia filiformis B.Heyne ex Steud.",
-    "Ruellia gangetica (L.) R.Br.",
-    "Ruellia nemoralis Vahl ex Nees",
-    "Ruellia obliqua Wight ex Wall.",
-    "Ruellia secunda Vahl",
-    "Ruellia secundiflora Bojer ex Nees",
-    "Ruellia umbrosa Wall.",
-    "Ruellia variabilis Macrae ex Nees",
-    "Ruellia zeylanica Roxb.",
-    "Tyloglossa longipes Hochst. ex Solms-Laub."
-  ],
-  "familyName": "ACANTHACEAE",
-  "englishNames": [
-    "Coromandel",
-    "Chinese Violet",
-    "Creeping Foxglove",
-    "Ganges Primrose",
-    "Coromandel",
-    "Chinese Violet",
-    "Creeping Foxglove",
-    "Ganges Primrose"
-  ],
-  "sinhalaName": "Rila puruk  (රිලා පුරුක් )",
-  "description": "සෘජු හෝ පැතිරී යන පැළෑටියකි. කඳන් මොට හතරැස් හැඩැති (bluntly quadrangular) වන අතර සියුම් රෝම සහිතය (puberulous). පත්‍ර පාදම කැපූ ආකාරයේ හෝ හෘදයාකාර (cordate) වේ, ප්‍රමාණය 3-10.2 x 1.8-4.8 සෙ.මී., අග්‍රය උල් වූ (acute) වන අතර දාර දළ සහිත (crenate) හෝ සම්පූර්ණ (entire) වේ; පත්‍ර වෘන්ත 1.8 සෙ.මී. දක්වා දිගු වේ. පුෂ්ප මංජරිය සරල රේසීම (racemes) වේ. මල් එකම පැත්තකට පිහිටයි (secund), මල් කිරීටය (corolla) කහ හෝ සුදු පැහැති වන අතර උගුර ප්‍රදේශය ලා දම්-නිල් පැහැයෙන් යුක්ත වේ, නලය 1.6 සෙ.මී. දිගු වේ. කරල් ගෙඩිය (capsule) මුගුරු හැඩැති (clavate) වේ, 1.5-3.2 x 0.5 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර සියුම් රෝම සහිතය (pilulose), බීජ 3-5 x 0.5-3 මි.මී. වේ.",
-  "treatments": [
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Asystasia gangetica (L.) T.Anderson",
+    "synonyms": [
+        "Asystasia bojeriana Nees",
+        "Asystasia comorensis var. humilis Nees",
+        "Asystasia coromandeliana Nees",
+        "Asystasia gangetica var. mendeliana S.R.Kundu & Mahua Pal",
+        "Asystasia plumbaginea Nees",
+        "Asystasia quarterna Nees",
+        "Asystasia violacea Dalzell",
+        "Dyschoriste biloba Hochst.",
+        "Intrusaria bicolor Raf.",
+        "Justicia gangetica L.",
+        "Justicia plumbaginea Wall.",
+        "Ruellia biloba Hochst.",
+        "Ruellia coromandeliana Wall.",
+        "Ruellia coromandelina Nees",
+        "Ruellia digitalis Burm.",
+        "Ruellia filiformis B.Heyne ex Steud.",
+        "Ruellia gangetica (L.) R.Br.",
+        "Ruellia nemoralis Vahl ex Nees",
+        "Ruellia obliqua Wight ex Wall.",
+        "Ruellia secunda Vahl",
+        "Ruellia secundiflora Bojer ex Nees",
+        "Ruellia umbrosa Wall.",
+        "Ruellia variabilis Macrae ex Nees",
+        "Ruellia zeylanica Roxb.",
+        "Tyloglossa longipes Hochst. ex Solms-Laub."
+    ],
+    "familyName": "ACANTHACEAE",
+    "englishNames": [
+        "Coromandel",
+        "Chinese Violet",
+        "Creeping Foxglove",
+        "Ganges Primrose",
+        "Coromandel",
+        "Chinese Violet",
+        "Creeping Foxglove",
+        "Ganges Primrose"
+    ],
+    "sinhalaName": "Rila puruk  (රිලා පුරුක් )",
+    "description": "සෘජු හෝ පැතිරී යන පැළෑටියකි. කඳන් මොට හතරැස් හැඩැති (bluntly quadrangular) වන අතර සියුම් රෝම සහිතය (puberulous). පත්‍ර පාදම කැපූ ආකාරයේ හෝ හෘදයාකාර (cordate) වේ, ප්‍රමාණය 3-10.2 x 1.8-4.8 සෙ.මී., අග්‍රය උල් වූ (acute) වන අතර දාර දළ සහිත (crenate) හෝ සම්පූර්ණ (entire) වේ; පත්‍ර වෘන්ත 1.8 සෙ.මී. දක්වා දිගු වේ. පුෂ්ප මංජරිය සරල රේසීම (racemes) වේ. මල් එකම පැත්තකට පිහිටයි (secund), මල් කිරීටය (corolla) කහ හෝ සුදු පැහැති වන අතර උගුර ප්‍රදේශය ලා දම්-නිල් පැහැයෙන් යුක්ත වේ, නලය 1.6 සෙ.මී. දිගු වේ. කරල් ගෙඩිය (capsule) මුගුරු හැඩැති (clavate) වේ, 1.5-3.2 x 0.5 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර සියුම් රෝම සහිතය (pilulose), බීජ 3-5 x 0.5-3 මි.මී. වේ.",
+    "treatments": [
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hypertension",
+            "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Intestinal Disorders",
+            "sinhala": "බඩවැල් ආශ්‍රිත ආබාධ සහ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Labor Pain",
+            "sinhala": "ප්‍රසූත වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Flowers",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "132",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/6cQW5w0z/plant00004-00132.jpg"
+        },
+        {
+            "image_id": "133",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/KxJjCpXz/plant00004-00133.jpg"
+        },
+        {
+            "image_id": "1280",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/Ls8Z3dd/plant00004-01280.jpg"
+        },
+        {
+            "image_id": "3307",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/VpvXh6k8/plant00004-03307.jpg"
+        },
+        {
+            "image_id": "3308",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/qLRyWDmm/plant00004-03308.jpg"
+        },
+        {
+            "image_id": "3309",
+            "caption": "Leaf upper surface (PMR)",
+            "url": "https://i.ibb.co/MDrt1xLs/plant00004-03309.jpg"
+        },
+        {
+            "image_id": "3310",
+            "caption": "Leaf lower surface (PMR)",
+            "url": "https://i.ibb.co/ds0KtZ2G/plant00004-03310.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ලේ දෝෂ ඉවත් කරන පිළිකා අවදානම අඩු කරන දිව ඔසුවක් බදු රත්මල්",
+                "url": "https://youtube.com/watch?v=wOH5JEIF9qA",
+                "duration": "5:41",
+                "thumbnail": "https://i.ytimg.com/vi/wOH5JEIF9qA/hq720.jpg"
+            },
+            {
+                "title": "⛔ලංකාව ලෝකය හොල්ලයි! ලේ වල ඝනකම අඩුකරන සුපිරි පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=R03vVDIhLWs",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/R03vVDIhLWs/hq720.jpg"
+            },
+            {
+                "title": "එක පාරක් කෑවොත් ලිංගික ශක්තිය දෙගුණ තෙගුණ වෙන පුදුම ගුණ දෙන - ආයුර්වේදීය ගුණ අනූන හෙළ ඔසුව වදුරු මෑ",
+                "url": "https://youtube.com/watch?v=OXUbwWoXMHo",
+                "duration": "16:13",
+                "thumbnail": "https://i.ytimg.com/vi/OXUbwWoXMHo/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ගෙදර තියන අමුද්‍රව්‍ය දෙක තුනකින් හදාගන්න පුළුවන් අරුම පුදුම බෙහෙත #viralvideo #drugs #srilanka",
+                "url": "https://youtube.com/watch?v=ZwYcDkqPOAw",
+                "duration": "5:51",
+                "thumbnail": "https://i.ytimg.com/vi/ZwYcDkqPOAw/hqdefault.jpg"
+            },
+            {
+                "title": "බොහෝ  නිදන්ගත් රෝග සුවකරන දිව්‍ය  ඖෂදය",
+                "url": "https://youtube.com/watch?v=8Vv4nWa9lIc",
+                "duration": "14:45",
+                "thumbnail": "https://i.ytimg.com/vi/8Vv4nWa9lIc/hq720.jpg"
+            },
+            {
+                "title": "#රාජපුර_පංචජීව_අර්ශස්_තෙල #Rajapura_Panchajeewa_Ulcers Oil",
+                "url": "https://youtube.com/watch?v=pX-D_rAkP4w",
+                "duration": "20:19",
+                "thumbnail": "https://i.ytimg.com/vi/pX-D_rAkP4w/hqdefault.jpg"
+            },
+            {
+                "title": "හිටපු ඖෂධ ලොක්කෝ රටේම ඇස් වහලා බාල බෙහෙත් වලින් මිනිස්සු #රපු හැටි මෙන්න",
+                "url": "https://youtube.com/watch?v=MH0iP6K3LL4",
+                "duration": "21:15",
+                "thumbnail": "https://i.ytimg.com/vi/MH0iP6K3LL4/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ ප්‍රදේශයෙත්  පත්තෑයො ඉන්නවද? | ගෙවත්තක තියෙන්නම ඕන ඔසුව | Garudaraja | Ceylon Agri |Episode 332",
+                "url": "https://youtube.com/watch?v=NfkliccJ4EM",
+                "duration": "7:12",
+                "thumbnail": "https://i.ytimg.com/vi/NfkliccJ4EM/hq720.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය ශාකයේ ඖෂධීය ගුණ ඇතුලු අනෙකුත් තොරතුරු | Neerulliya",
+                "url": "https://youtube.com/watch?v=H5r0lHCygWQ",
+                "duration": "12:46",
+                "thumbnail": "https://i.ytimg.com/vi/H5r0lHCygWQ/hq720.jpg"
+            },
+            {
+                "title": "Radaliya | රදලිය ශාකය | pilika nasana osu #cancertreatment",
+                "url": "https://youtube.com/watch?v=xjZmqyboIUQ",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/xjZmqyboIUQ/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "රණවරා ශාකය සතු ඇදහිය නොහැකි ඖෂධීය ගුණ | Ranawara benefite | senna auriculata🌿♻",
+                "url": "https://youtube.com/watch?v=zQNKlgAF0k8",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/zQNKlgAF0k8/hqdefault.jpg"
+            },
+            {
+                "title": "ඔයලගෙ මිදුලෙ තියනවනම් කවදාවත් උගුලලා  විසිකරන්න එපා | thuru tv",
+                "url": "https://youtube.com/watch?v=TTGUWg_mRIY",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/TTGUWg_mRIY/hq720.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "පුපුල ශාකයේ ඇති විශ්මිත ගුණ 40 Vernonia zeylanica(L.) Lees.",
+                "url": "https://youtube.com/watch?v=FWR0Z8JxyLA",
+                "duration": "2:28",
+                "thumbnail": "https://i.ytimg.com/vi/FWR0Z8JxyLA/hqdefault.jpg"
+            },
+            {
+                "title": "හිගුරල|hingurala|higurala wala guna|drchaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=FNl7ZRiIWQ0",
+                "duration": "20:35",
+                "thumbnail": "https://i.ytimg.com/vi/FNl7ZRiIWQ0/hq720.jpg"
+            },
+            {
+                "title": "Rasakida | රසකිඳ ශාකයේ ඔසු ගුණ වරුන | @osu-1380",
+                "url": "https://youtube.com/watch?v=n-Vn_83Jk-w",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/n-Vn_83Jk-w/hq720.jpg"
+            },
+            {
+                "title": "මිල කල නොහැකි රණවරා මල් වල විශ්මිත ගුණය-තේ වලට වඩා සිය දහස් ගුණයක් ඖෂධීය ගුණයන් ගෙන් පිරිපුන් ඔසුව",
+                "url": "https://youtube.com/watch?v=TphcWjo4vdg",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/TphcWjo4vdg/hqdefault.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "Rathmal |රත්මල් | දිව ඔසුවක් වන්නේ කෙසේද  Health benefits of jungle geranium",
+                "url": "https://youtube.com/watch?v=3X5RWtZ49OY",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/3X5RWtZ49OY/hq720.jpg"
+            },
+            {
+                "title": "විසිතුරු පැල වලින් මිදුල ලස්ස්සන කරමු 🪴🪴/🌿 Let's Beautify Our Garden with Ornamental Plants",
+                "url": "https://youtube.com/watch?v=JYmVrvhbx1M",
+                "duration": "7:18",
+                "thumbnail": "https://i.ytimg.com/vi/JYmVrvhbx1M/hqdefault.jpg"
+            },
+            {
+                "title": "8 Things About Arugula Greens - Rocket Lettuce Nutrition",
+                "url": "https://youtube.com/watch?v=DkVQINORQdA",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/DkVQINORQdA/hq720.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය/කටු ඉකිරිය කාල නැතිනම් මේක බලන්න : Neeramulliya – Marsh Barbel benefits",
+                "url": "https://youtube.com/watch?v=vA4eB7rdDFg",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/vA4eB7rdDFg/hq720.jpg"
+            },
+            {
+                "title": "Welpenela Benefits : පිරිමි ගෙදරම තියාගන්න ගහපු වැල් පෙනෙල ගැටේ මෙන්න",
+                "url": "https://youtube.com/watch?v=gjqX33rzqng",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/gjqX33rzqng/hq720.jpg"
+            },
+            {
+                "title": "අගය නොදන්න නිසා අපි මේ වල් පැලෑටිය දුටු තැන විනාස කරනවා..හැබැයි මේක දිව්‍ය ඔසුවක්- Super Herbal weed",
+                "url": "https://youtube.com/watch?v=KvM_-XiFtlg",
+                "duration": "13:28",
+                "thumbnail": "https://i.ytimg.com/vi/KvM_-XiFtlg/hqdefault.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ පිරි ලුණුවිල | Lunuwila - Bacopa Monnieri Plant - Brahmi | Dayawathi - දයාවතී",
+                "url": "https://youtube.com/watch?v=m9SUENHexrg",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/m9SUENHexrg/hq720.jpg"
+            },
+            {
+                "title": "රණවරා ඔසුවේ ඇති ඔබ නොදත් දේවල් මෙන්න",
+                "url": "https://youtube.com/watch?v=YtQ7mOMWitU",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/YtQ7mOMWitU/hq720.jpg"
+            },
+            {
+                "title": "අපෙන් ගිලිහී ගිය විශ්මිත ඖෂධය ලුණුවිල - Health benefits of mind boosting plant Bacopa monnieri",
+                "url": "https://youtube.com/watch?v=g0WBzMuCHks",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/g0WBzMuCHks/hq720.jpg"
+            },
+            {
+                "title": "Polpala|මුත්‍ර රෝග ඇතුළු රෝග රැසකට ගුණදෙන -පොල්පලා|Ouret lanata",
+                "url": "https://youtube.com/watch?v=iWT3-PK01yc",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/iWT3-PK01yc/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයට වැලදෙන රෝග 400 කට වඩා සමනය කරන්නට මහ පුදුම  ඔසු ගුණයක් සහිත දිව්‍යමය  ඔසු පානයක් මේ",
+                "url": "https://youtube.com/watch?v=ZgpxorJXOg8",
+                "duration": "22:33",
+                "thumbnail": "https://i.ytimg.com/vi/ZgpxorJXOg8/hqdefault.jpg"
+            },
+            {
+                "title": "Kapparawalliya & Iriweriya  | ගෙදරක හිටවගන්නම ඕන ඔසු පැල | කප්පරවල්ලිය සහ ඉරිවේරිය| Episode 69",
+                "url": "https://youtube.com/watch?v=B7sMPk7vVbM",
+                "duration": "6:16",
+                "thumbnail": "https://i.ytimg.com/vi/B7sMPk7vVbM/hq720.jpg"
+            },
+            {
+                "title": "රණවරා නිතර බොන අයට වෙන දේ මෙන්න  : Benefits of Ranawara Tea",
+                "url": "https://youtube.com/watch?v=TGIjF3H7E8Y",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/TGIjF3H7E8Y/hq720.jpg"
+            },
+            {
+                "title": "one of the most valuable #medicinal  plants in the world that preserves youth බෙහෙත් එඬරු #castrol",
+                "url": "https://youtube.com/watch?v=Wrax6v4zICo",
+                "duration": "12:13",
+                "thumbnail": "https://i.ytimg.com/vi/Wrax6v4zICo/hq720.jpg"
+            },
+            {
+                "title": "පිලිකා නැසීමේ ගුන සහිත , සුව නින්දක් ලබා දෙන , තරබාරුව , දියවැඩියාව අඩු කරන සොභාදහමේ මැජික් පානයක්.",
+                "url": "https://youtube.com/watch?v=J_AdXY7otQ4",
+                "duration": "12:50",
+                "thumbnail": "https://i.ytimg.com/vi/J_AdXY7otQ4/hqdefault.jpg"
+            },
+            {
+                "title": "මේ මල් වර්ගය ඔයාලා කවදාවත් දැකලා තියෙනවද සොබා ධර්මය දායාද",
+                "url": "https://youtube.com/watch?v=5-TDFdk1wdo",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/5-TDFdk1wdo/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "තෙත් කලාපීය කැලේ සැඟවුණු, අපූරු ඔසුව \"කුකුරුමාන්\"! 🌿🔴#Kukuruman #SLRavee #Ayurveda",
+                "url": "https://youtube.com/watch?v=3OSrLSyi3ng",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/3OSrLSyi3ng/hq720.jpg"
+            },
+            {
+                "title": "Top 5 Benefits of Growing a Snake Plant at Home 🐝🌻🌺🌿ඔබේ නිවසේ  පැලයක් තිබීමෙන් ලැබෙන  වාසි 5  මෙන්න!",
+                "url": "https://youtube.com/watch?v=rZwmIgc9TOk",
+                "duration": "12:32",
+                "thumbnail": "https://i.ytimg.com/vi/rZwmIgc9TOk/hq720.jpg"
+            },
+            {
+                "title": "සමේ රෝග සුව කරන්න ගෙදරක තිබිය යුතුම ඔසුවක් | lewerella | Ceylon Agri | Episode 222",
+                "url": "https://youtube.com/watch?v=O7JT0KO8GA0",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/O7JT0KO8GA0/hq720.jpg"
+            },
+            {
+                "title": "දැනගෙනම හිටවන්න | Pranajeewa Plant | Ceylon Agri| Episode 359",
+                "url": "https://youtube.com/watch?v=7VR4o-3yMxY",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/7VR4o-3yMxY/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hypertension",
-      "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Intestinal Disorders",
-      "sinhala": "බඩවැල් ආශ්‍රිත ආබාධ සහ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Labor Pain",
-      "sinhala": "ප්‍රසූත වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Flowers",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "132",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/6cQW5w0z/plant00004-00132.jpg"
-    },
-    {
-      "image_id": "133",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/KxJjCpXz/plant00004-00133.jpg"
-    },
-    {
-      "image_id": "1280",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/Ls8Z3dd/plant00004-01280.jpg"
-    },
-    {
-      "image_id": "3307",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/VpvXh6k8/plant00004-03307.jpg"
-    },
-    {
-      "image_id": "3308",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/qLRyWDmm/plant00004-03308.jpg"
-    },
-    {
-      "image_id": "3309",
-      "caption": "Leaf upper surface (PMR)",
-      "url": "https://i.ibb.co/MDrt1xLs/plant00004-03309.jpg"
-    },
-    {
-      "image_id": "3310",
-      "caption": "Leaf lower surface (PMR)",
-      "url": "https://i.ibb.co/ds0KtZ2G/plant00004-03310.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

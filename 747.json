@@ -1,116 +1,421 @@
 {
-  "scientificName": "Persea americana Mill.",
-  "synonyms": [
-    "Laurus indica Sieber ex Nees",
-    "Laurus persea L.",
-    "Persea americana var. angustifolia Miranda",
-    "Persea americana var. aztec Popenoe",
-    "Persea americana var. drimyfolia (Cham. & Schltdl.) S.F.Blake",
-    "Persea americana var. floccosa (Mez) Scora",
-    "Persea americana var. guatemalensis (L.O.Williams) Scora",
-    "Persea americana var. leiogyna (S.F.Blake) H.P.Kelsey & Dayton",
-    "Persea americana var. nubigena (L.O.Williams) L.E.Kopp",
-    "Persea americana var. steyermarkii (C.K.Allen) Scora",
-    "Persea americana var. tolimanensis (Zentmyer & Schieber) Scora",
-    "Persea americana var. toltec Popenoe",
-    "Persea americana var. zentmyeri (Schieber & B.Bergh) Scora",
-    "Persea drimyfolia Schltdl. & Cham.",
-    "Persea edulis Raf.",
-    "Persea floccosa Mez",
-    "Persea gigantea L.O.Williams",
-    "Persea gratissima C.F.Gaertn.",
-    "Persea gratissima var. drimyfolia (Cham. & Schltdl.) Mez",
-    "Persea gratissima var. macrophylla Meisn.",
-    "Persea gratissima var. melanocarpa Phil.",
-    "Persea gratissima var. oblonga Meisn.",
-    "Persea gratissima var. praecox Nees",
-    "Persea gratissima var. vulgaris Meisn.",
-    "Persea leiogyna S.F.Blake",
-    "Persea macrocarpa Raf.",
-    "Persea nubigena L.O.Williams",
-    "Persea nubigena var. guatemalensis L.O.Williams",
-    "Persea paucitriplinervia Lundell",
-    "Persea persea (L.) Cockerell",
-    "Persea praecox Poepp. ex Nees",
-    "Persea steyermarkii C.K.Allen",
-    "Persea sylvestris A.Rich.",
-    "Persea tolimanensis Zentmyer & Schieber",
-    "Persea zentmyeri Schieber & B.Bergh"
-  ],
-  "familyName": "LAURACEAE",
-  "englishNames": [
-    "Avacado Pear",
-    "Alligator Pear",
-    "Avacado"
-  ],
-  "sinhalaName": "Aligetapera (‍අලිගැටපේර)",
-  "description": "මීටර් 20ක් දක්වා උසට වැඩෙන ගසකි. පත්‍ර සෙන්ටිමීටර 12-25ක් දිගය. මල් එතරම් කැපී නොපෙනෙන (inconspicuous), කොළ පැහැයට හුරු කහ පැහැති, මිලිමීටර 5-10ක් පළල වේ. පලතුර සෙන්ටිමීටර 7-20ක් දිග වන අතර, බර ග්‍රෑම් 100-1000ක් අතර වේ. එහි විශාල මධ්‍යම බීජයක් අඩංගු වේ. බීජය සෙන්ටිමීටර 5-6.4ක් වේ.",
-  "treatments": [
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Persea americana Mill.",
+    "synonyms": [
+        "Laurus indica Sieber ex Nees",
+        "Laurus persea L.",
+        "Persea americana var. angustifolia Miranda",
+        "Persea americana var. aztec Popenoe",
+        "Persea americana var. drimyfolia (Cham. & Schltdl.) S.F.Blake",
+        "Persea americana var. floccosa (Mez) Scora",
+        "Persea americana var. guatemalensis (L.O.Williams) Scora",
+        "Persea americana var. leiogyna (S.F.Blake) H.P.Kelsey & Dayton",
+        "Persea americana var. nubigena (L.O.Williams) L.E.Kopp",
+        "Persea americana var. steyermarkii (C.K.Allen) Scora",
+        "Persea americana var. tolimanensis (Zentmyer & Schieber) Scora",
+        "Persea americana var. toltec Popenoe",
+        "Persea americana var. zentmyeri (Schieber & B.Bergh) Scora",
+        "Persea drimyfolia Schltdl. & Cham.",
+        "Persea edulis Raf.",
+        "Persea floccosa Mez",
+        "Persea gigantea L.O.Williams",
+        "Persea gratissima C.F.Gaertn.",
+        "Persea gratissima var. drimyfolia (Cham. & Schltdl.) Mez",
+        "Persea gratissima var. macrophylla Meisn.",
+        "Persea gratissima var. melanocarpa Phil.",
+        "Persea gratissima var. oblonga Meisn.",
+        "Persea gratissima var. praecox Nees",
+        "Persea gratissima var. vulgaris Meisn.",
+        "Persea leiogyna S.F.Blake",
+        "Persea macrocarpa Raf.",
+        "Persea nubigena L.O.Williams",
+        "Persea nubigena var. guatemalensis L.O.Williams",
+        "Persea paucitriplinervia Lundell",
+        "Persea persea (L.) Cockerell",
+        "Persea praecox Poepp. ex Nees",
+        "Persea steyermarkii C.K.Allen",
+        "Persea sylvestris A.Rich.",
+        "Persea tolimanensis Zentmyer & Schieber",
+        "Persea zentmyeri Schieber & B.Bergh"
+    ],
+    "familyName": "LAURACEAE",
+    "englishNames": [
+        "Avacado Pear",
+        "Alligator Pear",
+        "Avacado"
+    ],
+    "sinhalaName": "Aligetapera (‍අලිගැටපේර)",
+    "description": "මීටර් 20ක් දක්වා උසට වැඩෙන ගසකි. පත්‍ර සෙන්ටිමීටර 12-25ක් දිගය. මල් එතරම් කැපී නොපෙනෙන (inconspicuous), කොළ පැහැයට හුරු කහ පැහැති, මිලිමීටර 5-10ක් පළල වේ. පලතුර සෙන්ටිමීටර 7-20ක් දිග වන අතර, බර ග්‍රෑම් 100-1000ක් අතර වේ. එහි විශාල මධ්‍යම බීජයක් අඩංගු වේ. බීජය සෙන්ටිමීටර 5-6.4ක් වේ.",
+    "treatments": [
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruit"
+    ],
+    "images": [
+        {
+            "image_id": "1733",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/hFqt4N54/plant00747-01733.jpg"
+        },
+        {
+            "image_id": "1734",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/ym9zBHng/plant00747-01734.jpg"
+        },
+        {
+            "image_id": "1735",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/MyTFvVQj/plant00747-01735.jpg"
+        },
+        {
+            "image_id": "3696",
+            "caption": "Cross section of Fruit (PMR)",
+            "url": "https://i.ibb.co/x8qN2nNs/plant00747-03696.jpg"
+        },
+        {
+            "image_id": "3697",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/C3JKRGJb/plant00747-03697.jpg"
+        },
+        {
+            "image_id": "3698",
+            "caption": "Leaf - lower surface (PMR)",
+            "url": "https://i.ibb.co/v6kSVrpM/plant00747-03698.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "දිනපතාම අලිගැටපේර ගෙඩිය ගානෙ මාසයක් කෑවොත් ශරීරයට කුමක් සිදුවෙයිද? - Avocado",
+                "url": "https://youtube.com/watch?v=8mttwODXmCs",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/8mttwODXmCs/hq720.jpg"
+            },
+            {
+                "title": "අලිගැටපේර ඇට භාවිතයෙන් රස ගුණ පිරි තේ පානයක් ගෙදරදීම හදා ගමු / Let's make tea using avocado seeds",
+                "url": "https://youtube.com/watch?v=msFTti2iMSo",
+                "duration": "5:26",
+                "thumbnail": "https://i.ytimg.com/vi/msFTti2iMSo/hq720.jpg"
+            },
+            {
+                "title": "සැහැල්ලු ආහාරවලට කැමති අයට අලිගැටපේර සලාද / Avacado Salad #avacadorecipe #salad #aligataperasalada",
+                "url": "https://youtube.com/watch?v=rF2rl7KIeNw",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/rF2rl7KIeNw/hq720.jpg"
+            },
+            {
+                "title": "අලිගැටපේර මල් පිපීම සහ ඵලදාව | Avocado Flowering and Harvest | Russa - Agri Episode 4",
+                "url": "https://youtube.com/watch?v=xI3O7r2M1Rc",
+                "duration": "5:24",
+                "thumbnail": "https://i.ytimg.com/vi/xI3O7r2M1Rc/hqdefault.jpg"
+            },
+            {
+                "title": "අලිගැට පේර ගස් 2ක් හිටවන්න ඕනද? | Avocado | CeylonAgri | Episode 339",
+                "url": "https://youtube.com/watch?v=fICxjIYvnaE",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/fICxjIYvnaE/hq720.jpg"
+            },
+            {
+                "title": "විනාඩි පහෙන් උදේට හදාගෙන බොන්න අලිගැටපේර ස්මූති එකක්🥑Breakfast recipes in Sinhala | Avocado smoothie",
+                "url": "https://youtube.com/watch?v=ntKxZnEYqJ0",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/ntKxZnEYqJ0/hq720.jpg"
+            },
+            {
+                "title": "අලිගැටපේර  ජූස් එකක් ඉක්මනින් හදමු",
+                "url": "https://youtube.com/watch?v=5IzqZBjN-3c",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/5IzqZBjN-3c/hqdefault.jpg"
+            },
+            {
+                "title": "AVOCADO CURRY | අලිගැටපේර ව්‍යංජනය",
+                "url": "https://youtube.com/watch?v=F7e36Q9-_n0",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/F7e36Q9-_n0/hq720.jpg"
+            },
+            {
+                "title": "ලිපේ හදපු අලිගැටපේර  තෛලය විශ්මිත තෛලය The avocado oil made from the stove is an amazing oil",
+                "url": "https://youtube.com/watch?v=sAjIhdbQ8i8",
+                "duration": "16:36",
+                "thumbnail": "https://i.ytimg.com/vi/sAjIhdbQ8i8/hq720.jpg"
+            },
+            {
+                "title": "Avacado Tea | ‍ගුණයෙන් පිරි අලිගැටපේර තේ | Healthy Drink",
+                "url": "https://youtube.com/watch?v=zr116Le7DDs",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/zr116Le7DDs/hq720.jpg"
+            },
+            {
+                "title": "රසම රස අලිගැට පේර අයිස් ක්‍රීම් |How to make avocado ice cream at home",
+                "url": "https://youtube.com/watch?v=vYt7V0y2Zb0",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/vYt7V0y2Zb0/hqdefault.jpg"
+            },
+            {
+                "title": "අලිගැටපේර පොල්කිරි පුඩිං කෑවද? 🍨 Avocado Coconut Milk Pudding 🍨 Tasty Cooking",
+                "url": "https://youtube.com/watch?v=xloYvvHpg1k",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/xloYvvHpg1k/hq720.jpg"
+            },
+            {
+                "title": "Halapa from Avocado Seeds | අලිගැටපේර ඇට වලින් රසම රස හැලප | Food",
+                "url": "https://youtube.com/watch?v=ofIk3GRIrlw",
+                "duration": "10:16",
+                "thumbnail": "https://i.ytimg.com/vi/ofIk3GRIrlw/hqdefault.jpg"
+            },
+            {
+                "title": "පොල්තෙල් වලට වඩා ගුණ අලිගැටපේර තෙල් නිවසේදී හදාගමු / Let's make avocado oil at home very easily",
+                "url": "https://youtube.com/watch?v=C-IWaZzPm5s",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/C-IWaZzPm5s/hq720.jpg"
+            },
+            {
+                "title": "දිනපතාම අලිගැටපේර ගෙඩිය ගානෙ මාසයක් කෑවොත් ශරීරයට කුමක් සිදුවෙයිද? - Avocado",
+                "url": "https://youtube.com/watch?v=y0cIdXHmNSA",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/y0cIdXHmNSA/frame0.jpg"
+            },
+            {
+                "title": "ලස්සන අලිපේර ඔයත් ගෙදර ගෙනිච්චාම කුණු වෙනවද. කල් තබාගන්න රහස rotten avocados",
+                "url": "https://youtube.com/watch?v=ofZ6iZdb-EQ",
+                "duration": "12:39",
+                "thumbnail": "https://i.ytimg.com/vi/ofZ6iZdb-EQ/hq720.jpg"
+            },
+            {
+                "title": "අලිගැට පේර මගින් ලැබෙන සෞඛ්‍යමය වාසි 10ක් | Health Benefits of Avocado | Aligata Pera Wala Guna",
+                "url": "https://youtube.com/watch?v=HyAZRpjAUsU",
+                "duration": "14:41",
+                "thumbnail": "https://i.ytimg.com/vi/HyAZRpjAUsU/hq720.jpg"
+            },
+            {
+                "title": "අලිගැටපේර කෑවම කොලෙස්ටරෝල් අඩු වෙනවද? වැඩි වෙනවද?",
+                "url": "https://youtube.com/watch?v=6lfBnLu9jQ0",
+                "duration": "6:08",
+                "thumbnail": "https://i.ytimg.com/vi/6lfBnLu9jQ0/hq720.jpg"
+            },
+            {
+                "title": "දිනපතාම අලිගැටපේර ගෙඩිය ගානෙ මාසයක් කෑවොත් ශරීරයට කුමක් සිදුවෙයිද? - Avocado",
+                "url": "https://youtube.com/watch?v=pB2SOU-V5t4",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/pB2SOU-V5t4/frame0.jpg"
+            },
+            {
+                "title": "කෑවට දැනගෙන හිටියද මේවගෙ ගුණ 🥑 අලිගැටපේර 🥑 Avocado#avocado",
+                "url": "https://youtube.com/watch?v=1ai2pPkBwj8",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/1ai2pPkBwj8/hqdefault.jpg"
+            },
+            {
+                "title": "අලිගැට පේර වල විශ්මිත ගුණය - Amazing quality of avocados",
+                "url": "https://youtube.com/watch?v=NSIdfMlQBb0",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/NSIdfMlQBb0/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකින් බේරිලා ඉන්න අලිගැටපේර ඇට පානයේ රහස් වට්ටෝරුව.| Avocado drink remedy!",
+                "url": "https://youtube.com/watch?v=rLgNigl8g5g",
+                "duration": "3:56",
+                "thumbnail": "https://i.ytimg.com/vi/rLgNigl8g5g/hq720.jpg"
+            },
+            {
+                "title": "අලිගැට පේර වල ඇති විශ්මිත ගුණයන් | Health benefits of Avocado #avocado #healthtips #mammypages",
+                "url": "https://youtube.com/watch?v=OQFGWCTNA3E",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/OQFGWCTNA3E/hq720.jpg"
+            },
+            {
+                "title": "අලිගැටපේර වල ගුණ I Benefits Of Avocado",
+                "url": "https://youtube.com/watch?v=WUT8Tcv4xAE",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/WUT8Tcv4xAE/hq720.jpg"
+            },
+            {
+                "title": "avocado | අලිපේර | අලිපේර වල ගුණ | නිරෝගීව සිටින්න අලිපේර කන්න",
+                "url": "https://youtube.com/watch?v=DwQek3icKe8",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/DwQek3icKe8/hq720.jpg"
+            },
+            {
+                "title": "අලි පේර විසි කරලා ඇටේ කමුද - Health benefits of avocado seed",
+                "url": "https://youtube.com/watch?v=i_sL5LdEaIs",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/i_sL5LdEaIs/hq720.jpg"
+            },
+            {
+                "title": "අලිගැටපේර ඇටයේ කතාව about Avocado seeds and how to make avocado seeds healthy drink",
+                "url": "https://youtube.com/watch?v=CltdyhyYWdc",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/CltdyhyYWdc/hq720.jpg"
+            },
+            {
+                "title": "Avocado Is Good for Food? අලිගැටපේර ආහාරයට සුදුසුද?",
+                "url": "https://youtube.com/watch?v=rZk1gsGO9aY",
+                "duration": "0:37",
+                "thumbnail": "https://i.ytimg.com/vi/rZk1gsGO9aY/hqdefault.jpg"
+            },
+            {
+                "title": "Avocado drink (රස ගුණ පිරි අලිගැටපේර පානය) #Avocado #Fruit juice",
+                "url": "https://youtube.com/watch?v=qPms8NjkXJU",
+                "duration": "1:41",
+                "thumbnail": "https://i.ytimg.com/vi/qPms8NjkXJU/hqdefault.jpg"
+            },
+            {
+                "title": "අලිගැට පේර ආහාරයට ගැනීමෙන් අපේ සිරුරට ලැබෙන වාසි | Powerful Health Benefits of Avocado sinhala",
+                "url": "https://youtube.com/watch?v=NLdVq_eSkEQ",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/NLdVq_eSkEQ/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටිස් නැති කරන පොල් තෙල් වලට වඩා ගුණ අලිගැටපේර තෙල් Avocado oil",
+                "url": "https://youtube.com/watch?v=TksURg7QGM4",
+                "duration": "10:09",
+                "thumbnail": "https://i.ytimg.com/vi/TksURg7QGM4/hq720.jpg"
+            },
+            {
+                "title": "දන්න අලිගැටපේරවල නොදන්න විස්තර දැනගමු / Let's know the unknown details of known avocados / avocado",
+                "url": "https://youtube.com/watch?v=jrN72OyMZeY",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/jrN72OyMZeY/hq720.jpg"
+            },
+            {
+                "title": "ගෙඩියට වඩා ඇටේ ගුණ අලිගැටපේර",
+                "url": "https://youtube.com/watch?v=7R4bSFpiIhc",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/7R4bSFpiIhc/hq720.jpg"
+            },
+            {
+                "title": "අලිගැටපේර වල විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=ZuRlyTcnKnE",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/ZuRlyTcnKnE/hq720.jpg"
+            },
+            {
+                "title": "රුව ගුණ වඩන රසම රස අලිගැටපේර",
+                "url": "https://youtube.com/watch?v=9c9GmQe2Wjk",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/9c9GmQe2Wjk/hqdefault.jpg"
+            },
+            {
+                "title": "අත්තක් පැලකර ගැනීමෙන් ඉක්මනට ගෙඩි හැදෙන අලිගැට පේර පැලයලයක් සාදා ගමු.",
+                "url": "https://youtube.com/watch?v=9vIGJK5iTmY",
+                "duration": "13:12",
+                "thumbnail": "https://i.ytimg.com/vi/9vIGJK5iTmY/hqdefault.jpg"
+            },
+            {
+                "title": "අදින් පසුව ඔබ අලිගැටපේර ඇට ඉවත දමන එකක් නෑ - Avocado Seeds Benefits",
+                "url": "https://youtube.com/watch?v=C3jFp__HfQs",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/C3jFp__HfQs/hqdefault.jpg"
+            },
+            {
+                "title": "Avocado Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=eR2kHXko1G0",
+                "duration": "7:52",
+                "thumbnail": "https://i.ytimg.com/vi/eR2kHXko1G0/hq720.jpg"
+            },
+            {
+                "title": "අලිපේර දළූ සම්බෝල Avocado Leaves Sambol/ Ali pera dalu sambola",
+                "url": "https://youtube.com/watch?v=NEnZhIRsbek",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/NEnZhIRsbek/hqdefault.jpg"
+            },
+            {
+                "title": "දිනපතා එක අලිගැටපේර ගෙඩියක් අහාරයට ගැනීමෙන් අපිට ලැබෙන අගනා වාසි 5 ක්",
+                "url": "https://youtube.com/watch?v=tWLVWEU6rgI",
+                "duration": "12:44",
+                "thumbnail": "https://i.ytimg.com/vi/tWLVWEU6rgI/hq720.jpg"
+            },
+            {
+                "title": "Nugasewana | ගෙවතු වගාව - ගෙවත්තට අලිගැටපේර | 2022-11-11 |Rupavahini",
+                "url": "https://youtube.com/watch?v=b1945jvARFQ",
+                "duration": "13:41",
+                "thumbnail": "https://i.ytimg.com/vi/b1945jvARFQ/hq720.jpg"
+            },
+            {
+                "title": "උදේට අලිගැටපේර වලින් හදන මේ drink එක බීල බලන්න දවසම ගොඩ",
+                "url": "https://youtube.com/watch?v=eQCI3qthrG4",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/eQCI3qthrG4/hq720.jpg"
+            },
+            {
+                "title": "අලිගැටපේර සහ කොලෙස්ටරෝල් ???🧐",
+                "url": "https://youtube.com/watch?v=8glkIEXJ9wY",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/8glkIEXJ9wY/hq720.jpg"
+            },
+            {
+                "title": "අලිගැටපේර දළු කොළ කැඳ | Aligetapera dalu kola kenda",
+                "url": "https://youtube.com/watch?v=fFVdkt-TQgU",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/fFVdkt-TQgU/hq720.jpg"
+            },
+            {
+                "title": "මේ කොළ කැඳ එක බොනවා නම් ලෙඩ රෝග 20ක් කැලේ | kola kanda |අලිගැටපේර කොළ කැඳ | avocado leaves soup",
+                "url": "https://youtube.com/watch?v=sz-ae_eq6CA",
+                "duration": "4:53",
+                "thumbnail": "https://i.ytimg.com/vi/sz-ae_eq6CA/hq720.jpg"
+            },
+            {
+                "title": "අලි පේර ඉදවන සුපිරි ක්‍රමයක්.",
+                "url": "https://youtube.com/watch?v=bO1IKGodhpU",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/bO1IKGodhpU/hqdefault.jpg"
+            },
+            {
+                "title": "✔ Healthy Avocado Milkshake by Apé Amma අලිගැටපේර (aligata pera) මිල්ක් ෂේක්",
+                "url": "https://youtube.com/watch?v=IjyUSkbO_q4",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/IjyUSkbO_q4/hq720.jpg"
+            },
+            {
+                "title": "අලිගැට පේර බීජ පැලකිරිම aligeta pera bija pelakirima Planting avocados",
+                "url": "https://youtube.com/watch?v=QNyqda20weE",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/QNyqda20weE/hqdefault.jpg"
+            },
+            {
+                "title": "රසවත් මෙන්ම ගුණවත් අලි ගැට පේර ගාන්න වගේම කන්නත්| by Nutritionist Madhushan Athugala",
+                "url": "https://youtube.com/watch?v=-TLsO-NX4a0",
+                "duration": "5:54",
+                "thumbnail": "https://i.ytimg.com/vi/-TLsO-NX4a0/hq720.jpg"
+            },
+            {
+                "title": "Are avocados good for diabetes and cholesterol ? | අලිගැටපේර දියවැඩියාවට සහ කොලෙස්ට්‍රෝල්වලට හොඳද?",
+                "url": "https://youtube.com/watch?v=gV7xX5jG1Ug",
+                "duration": "13:40",
+                "thumbnail": "https://i.ytimg.com/vi/gV7xX5jG1Ug/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruit"
-  ],
-  "images": [
-    {
-      "image_id": "1733",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/hFqt4N54/plant00747-01733.jpg"
-    },
-    {
-      "image_id": "1734",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/ym9zBHng/plant00747-01734.jpg"
-    },
-    {
-      "image_id": "1735",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/MyTFvVQj/plant00747-01735.jpg"
-    },
-    {
-      "image_id": "3696",
-      "caption": "Cross section of Fruit (PMR)",
-      "url": "https://i.ibb.co/x8qN2nNs/plant00747-03696.jpg"
-    },
-    {
-      "image_id": "3697",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/C3JKRGJb/plant00747-03697.jpg"
-    },
-    {
-      "image_id": "3698",
-      "caption": "Leaf - lower surface (PMR)",
-      "url": "https://i.ibb.co/v6kSVrpM/plant00747-03698.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

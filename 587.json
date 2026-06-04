@@ -1,122 +1,325 @@
 {
-  "scientificName": "Senna auriculata (L.) Roxb.",
-  "synonyms": [
-    "Cassia auriculata L.",
-    "Cassia densistipulata Taub."
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Tanner's Cassia",
-    "Matara Tea",
-    "Avaram Senna"
-  ],
-  "sinhalaName": "Ranawara (රණවරා)",
-  "description": "ඉතා ඝන, සියුම් රෝම සහිත (finely downy) අතු සහිත විශාල පඳුරු ශාකයකි. පත්‍ර ඒකාන්තර (alternate) වන අතර පක්ෂාකාර (pinnate) වේ; දිග සෙ.මී. 30-60 කි. පත්‍රිකා යුගල් 8-12 කින් සමන්විත වන අතර එක් පත්‍රිකාවක් සෙ.මී. 5-15 ක් දිගය. මල් වෘන්ත සහිත පොකුරු (pedunculate racemes) ලෙස පිහිටයි; මල් අක්‍රමවත් (irregular) වන අතර තද පැහැති නහර සහිත කහ පැහැයක් ගනී. කරල් දිගටි සහ දිවක හැඩැති (ligulate) වේ; එක් එක් කපාටය මැද පුළුල් පියාපත් වැනි ව්‍යුහයක් සහිත, පටලමය (membranous) ස්වභාවයක් ගනී. කරලක දිග සෙ.මී. 10-20 ක් සහ පළල සෙ.මී. 1.3-1.6 ක් වන අතර බීජ 5 ක් පමණ අඩංගු වේ.",
-  "treatments": [
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Senna auriculata (L.) Roxb.",
+    "synonyms": [
+        "Cassia auriculata L.",
+        "Cassia densistipulata Taub."
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Tanner's Cassia",
+        "Matara Tea",
+        "Avaram Senna"
+    ],
+    "sinhalaName": "Ranawara (රණවරා)",
+    "description": "ඉතා ඝන, සියුම් රෝම සහිත (finely downy) අතු සහිත විශාල පඳුරු ශාකයකි. පත්‍ර ඒකාන්තර (alternate) වන අතර පක්ෂාකාර (pinnate) වේ; දිග සෙ.මී. 30-60 කි. පත්‍රිකා යුගල් 8-12 කින් සමන්විත වන අතර එක් පත්‍රිකාවක් සෙ.මී. 5-15 ක් දිගය. මල් වෘන්ත සහිත පොකුරු (pedunculate racemes) ලෙස පිහිටයි; මල් අක්‍රමවත් (irregular) වන අතර තද පැහැති නහර සහිත කහ පැහැයක් ගනී. කරල් දිගටි සහ දිවක හැඩැති (ligulate) වේ; එක් එක් කපාටය මැද පුළුල් පියාපත් වැනි ව්‍යුහයක් සහිත, පටලමය (membranous) ස්වභාවයක් ගනී. කරලක දිග සෙ.මී. 10-20 ක් සහ පළල සෙ.මී. 1.3-1.6 ක් වන අතර බීජ 5 ක් පමණ අඩංගු වේ.",
+    "treatments": [
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhage",
+            "sinhala": "අධික රුධිර වහනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Polydipsia",
+            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Flowers",
+        "Bark",
+        "Leaves",
+        "Roots",
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "134",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/5xMdr38V/plant00587-00134.jpg"
+        },
+        {
+            "image_id": "506",
+            "caption": "Flowers and young fruits",
+            "url": "https://i.ibb.co/XZv1vXJ9/plant00587-00506.jpg"
+        },
+        {
+            "image_id": "507",
+            "caption": "Mature Fruits",
+            "url": "https://i.ibb.co/SDBkWncp/plant00587-00507.jpg"
+        },
+        {
+            "image_id": "508",
+            "caption": "Twig showing stipules",
+            "url": "https://i.ibb.co/fdsLfqXB/plant00587-00508.jpg"
+        },
+        {
+            "image_id": "3653",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/RkTwF5vB/plant00587-03653.jpg"
+        },
+        {
+            "image_id": "3654",
+            "caption": "Compund Leaf (PMR)",
+            "url": "https://i.ibb.co/Zk1JhJV/plant00587-03654.jpg"
+        },
+        {
+            "image_id": "3655",
+            "caption": "Leaflets upper Surface (PMR)",
+            "url": "https://i.ibb.co/Xrz8n1Cb/plant00587-03655.jpg"
+        },
+        {
+            "image_id": "3656",
+            "caption": "Leaflets lower Surface (PMR)",
+            "url": "https://i.ibb.co/f3NK2f9/plant00587-03656.jpg"
+        },
+        {
+            "image_id": "3657",
+            "caption": "Stipules (PMR)",
+            "url": "https://i.ibb.co/NnQvtYVQ/plant00587-03657.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "රණවරා නිතර බොන අයට වෙන දේ මෙන්න  : Benefits of Ranawara Tea",
+                "url": "https://youtube.com/watch?v=TGIjF3H7E8Y",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/TGIjF3H7E8Y/hq720.jpg"
+            },
+            {
+                "title": "Ranawara Drink | ඖෂධීය ගුණ සපිරි රණවරා පානය​ හදමු | How to Make a Ranawara Drink in 2 minutes",
+                "url": "https://youtube.com/watch?v=HtiZ2HnxE9I",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/HtiZ2HnxE9I/hqdefault.jpg"
+            },
+            {
+                "title": "රණවරා ශාකය සතු ඇදහිය නොහැකි ඖෂධීය ගුණ | Ranawara benefite | senna auriculata🌿♻",
+                "url": "https://youtube.com/watch?v=zQNKlgAF0k8",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/zQNKlgAF0k8/hqdefault.jpg"
+            },
+            {
+                "title": "ඇගේ දාහය අඩුකරන, මුත්‍රාගල් දිය කරන, තවත් රාශියක් ගුණ ඇති - රණවරා | Senna auriculata #ranawara",
+                "url": "https://youtube.com/watch?v=TCn4WqsLq6k",
+                "duration": "14:52",
+                "thumbnail": "https://i.ytimg.com/vi/TCn4WqsLq6k/hq720.jpg"
+            },
+            {
+                "title": "රණවරා ඔසුවේ ඇති ඔබ නොදත් දේවල් මෙන්න",
+                "url": "https://youtube.com/watch?v=YtQ7mOMWitU",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/YtQ7mOMWitU/hq720.jpg"
+            },
+            {
+                "title": "රණවරා මල් තේවලින් ලැබෙන පුදුම හිතෙන ගුණ මෙන්න | රණවරා ශාකය හඳුනාගැනීම සහ භාවිතය | ඉසිවරයා",
+                "url": "https://youtube.com/watch?v=EmzEnJxBhU0",
+                "duration": "5:36",
+                "thumbnail": "https://i.ytimg.com/vi/EmzEnJxBhU0/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව නසන, ශරීරය සිසිල් කරන වසවිස නැති පානය | Ranawara  Ceylon Agri | Episode 175",
+                "url": "https://youtube.com/watch?v=5G98OheIctA",
+                "duration": "12:03",
+                "thumbnail": "https://i.ytimg.com/vi/5G98OheIctA/hq720.jpg"
+            },
+            {
+                "title": "රණවරා ගහේ   Ranawara Gahe   Sunil Edirisinghe",
+                "url": "https://youtube.com/watch?v=3kfziyn7eIY",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/3kfziyn7eIY/hq720.jpg"
+            },
+            {
+                "title": "හොයාගෙන, කාලා බැලුවත් පාඩු නැති, ගුණදායක රණවරා කොල මැල්ලුම/සම්බෝලෙ.Ranawara kola malluma / sambole",
+                "url": "https://youtube.com/watch?v=eEpqj12Q254",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/eEpqj12Q254/hq720.jpg"
+            },
+            {
+                "title": "✔ දරුවන්ට ප්‍රතිශක්තිය වැඩි කරන රණවරා Healthy Ranawara sambol by Apé Amma",
+                "url": "https://youtube.com/watch?v=9veuec8iXS8",
+                "duration": "7:58",
+                "thumbnail": "https://i.ytimg.com/vi/9veuec8iXS8/hq720.jpg"
+            },
+            {
+                "title": "මිහිපිට අපිට ලැබුන වටිනා කියන ශාකයක් තමයි රණවරා බීවොත් සම පැහපත් වේවි #osu #helaosu #ranawara #share",
+                "url": "https://youtube.com/watch?v=-KJF27758AU",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/-KJF27758AU/hq720.jpg"
+            },
+            {
+                "title": "සම පැහැපත් කරන සිරුරට ගුණ දෙන විස්මිත රණවරා පානය නිවැරදිව හදමු.|| Ranawara Drink",
+                "url": "https://youtube.com/watch?v=S8iDJFh7jNU",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/S8iDJFh7jNU/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව මට්ටු කරන රණවරා කොළ කැඳ බොමු (healthy drink)",
+                "url": "https://youtube.com/watch?v=sc4BOH9QZSQ",
+                "duration": "1:24",
+                "thumbnail": "https://i.ytimg.com/vi/sc4BOH9QZSQ/hq720.jpg"
+            },
+            {
+                "title": "Ranawara Melluma (රණවරා මැල්ලුම)",
+                "url": "https://youtube.com/watch?v=l4W8RVOZwuU",
+                "duration": "4:34",
+                "thumbnail": "https://i.ytimg.com/vi/l4W8RVOZwuU/hq720.jpg"
+            },
+            {
+                "title": "මිල කල නොහැකි රණවරා මල් වල විශ්මිත ගුණය-තේ වලට වඩා සිය දහස් ගුණයක් ඖෂධීය ගුණයන් ගෙන් පිරිපුන් ඔසුව",
+                "url": "https://youtube.com/watch?v=TphcWjo4vdg",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/TphcWjo4vdg/hqdefault.jpg"
+            },
+            {
+                "title": "රණවරා වල ඇති ඖෂධීය ගුණ (2025) || Benifits of Ranawara",
+                "url": "https://youtube.com/watch?v=-Cpuh9b1nGE",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/-Cpuh9b1nGE/hqdefault.jpg"
+            },
+            {
+                "title": "සම පැහැපත් කරන රණවරා රහස",
+                "url": "https://youtube.com/watch?v=cjqEEdcfawk",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/cjqEEdcfawk/hq720.jpg"
+            },
+            {
+                "title": "රණවරාවල පිස්සු හැදෙන ගුණ - Health benefits of Ranawara Tea",
+                "url": "https://youtube.com/watch?v=R3txT9YU00A",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/R3txT9YU00A/hq720.jpg"
+            },
+            {
+                "title": "රණවරා ශාකයේ විශ්මිත ගුණ #herbalplants #diabetes #health #medicinalplants #haircare #skincare",
+                "url": "https://youtube.com/watch?v=eIgwqtUu8yo",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/eIgwqtUu8yo/hq720.jpg"
+            },
+            {
+                "title": "Ranawara🌿🌿/රණවරා ශාකයේ ඔබ නොදත් ගුණ​ 🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿",
+                "url": "https://youtube.com/watch?v=MQ4jSZqHmCU",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/MQ4jSZqHmCU/hq720.jpg"
+            },
+            {
+                "title": "Ranawara |සිරුරට බොහෝ ගුණදෙන -රණවරා",
+                "url": "https://youtube.com/watch?v=rv6HVi9NUsU",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/rv6HVi9NUsU/hq720.jpg"
+            },
+            {
+                "title": "රණවරා | FABACEAE | Cassia auriculata | Wild Herbs Medicine | Humpty Production",
+                "url": "https://youtube.com/watch?v=oeDJiQH5C1o",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/oeDJiQH5C1o/hq720.jpg"
+            },
+            {
+                "title": "සම පැහැපත් කරන රණවරා රහස",
+                "url": "https://youtube.com/watch?v=SA_ahAyfyxE",
+                "duration": "4:53",
+                "thumbnail": "https://i.ytimg.com/vi/SA_ahAyfyxE/hq720.jpg"
+            },
+            {
+                "title": "රණවරා මුලෙන් බෙහෙතක්..",
+                "url": "https://youtube.com/watch?v=YaDVBkIz1ok",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/YaDVBkIz1ok/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවේ ගූණයෙන් වැඩිම පළා වර්ගය ගැන මේ තොරතුරු දැනගන හිටියද? # Ranawara",
+                "url": "https://youtube.com/watch?v=UMx_fSAhzYw",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/UMx_fSAhzYw/hq720.jpg"
+            },
+            {
+                "title": "සිරුරට බොහො ගුණදෙන රණවරා",
+                "url": "https://youtube.com/watch?v=Vzk2IfLLPz8",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/Vzk2IfLLPz8/hqdefault.jpg"
+            },
+            {
+                "title": "ශරීරය සිසිල් කරන රණවරා මලේ සුපිරි ගුණ",
+                "url": "https://youtube.com/watch?v=al7mAqG1-6c",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/al7mAqG1-6c/hq720.jpg"
+            },
+            {
+                "title": "රණවරා ශාකය සතු ඇදහිය නොහැකි ඖෂධීය ගුණ | Ranawara benefite | senna auriculata🌿♻",
+                "url": "https://youtube.com/watch?v=r-QxuLSAnJg",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/r-QxuLSAnJg/frame0.jpg"
+            },
+            {
+                "title": "රණවරා මලෙන් හැදෙන “දිව්‍යමය පානය”  සලාදයක්, මැල්ලුමක් සහ ගුණදායක පානයක් ලෙස  භාවිතා කරන හැටි මෙන්න",
+                "url": "https://youtube.com/watch?v=UyIMnR0GrTw",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/UyIMnR0GrTw/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Senna Tea☕ රණවරා බලය |Sinhala| #beauty #senna #video #healthy #skincare  SimpleLooks 🥰",
+                "url": "https://youtube.com/watch?v=3n-vw7jtl-E",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/3n-vw7jtl-E/hq720.jpg"
+            },
+            {
+                "title": "​තේ වෙනුවට රණවරා! පුදුම ගුණ සහ හදන නිවැරදිම ක්‍රමය | Ranawara Tea",
+                "url": "https://youtube.com/watch?v=RUqZsGkrf1g",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/RUqZsGkrf1g/hqdefault.jpg"
+            },
+            {
+                "title": "Ranawara | රණවරා | Brightening skin from Ranawara in Sinhala | Benefits of Ranawara",
+                "url": "https://youtube.com/watch?v=T-IZJ5SgvJs",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/T-IZJ5SgvJs/hq720.jpg"
+            },
+            {
+                "title": "එන්න රනවරා මල් බොන්න | ඖෂධීය පානයක්",
+                "url": "https://youtube.com/watch?v=2ZUtYwrpMdI",
+                "duration": "1:17",
+                "thumbnail": "https://i.ytimg.com/vi/2ZUtYwrpMdI/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Hemorrhage",
-      "sinhala": "අධික රුධිර වහනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Polydipsia",
-      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Flowers",
-    "Bark",
-    "Leaves",
-    "Roots",
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "134",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/5xMdr38V/plant00587-00134.jpg"
-    },
-    {
-      "image_id": "506",
-      "caption": "Flowers and young fruits",
-      "url": "https://i.ibb.co/XZv1vXJ9/plant00587-00506.jpg"
-    },
-    {
-      "image_id": "507",
-      "caption": "Mature Fruits",
-      "url": "https://i.ibb.co/SDBkWncp/plant00587-00507.jpg"
-    },
-    {
-      "image_id": "508",
-      "caption": "Twig showing stipules",
-      "url": "https://i.ibb.co/fdsLfqXB/plant00587-00508.jpg"
-    },
-    {
-      "image_id": "3653",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/RkTwF5vB/plant00587-03653.jpg"
-    },
-    {
-      "image_id": "3654",
-      "caption": "Compund Leaf (PMR)",
-      "url": "https://i.ibb.co/Zk1JhJV/plant00587-03654.jpg"
-    },
-    {
-      "image_id": "3655",
-      "caption": "Leaflets upper Surface (PMR)",
-      "url": "https://i.ibb.co/Xrz8n1Cb/plant00587-03655.jpg"
-    },
-    {
-      "image_id": "3656",
-      "caption": "Leaflets lower Surface (PMR)",
-      "url": "https://i.ibb.co/f3NK2f9/plant00587-03656.jpg"
-    },
-    {
-      "image_id": "3657",
-      "caption": "Stipules (PMR)",
-      "url": "https://i.ibb.co/NnQvtYVQ/plant00587-03657.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

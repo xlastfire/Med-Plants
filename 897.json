@@ -1,228 +1,431 @@
 {
-  "scientificName": "Psidium guajava L.",
-  "synonyms": [
-    "Guajava pumila (Vahl) Kuntze",
-    "Guajava pyrifera Kuntze",
-    "Myrtus guajava (L.) Kuntze",
-    "Myrtus guajava var. pyrifera (Kuntze) Kuntze",
-    "Psidium angustifolium Lam.",
-    "Psidium aromaticum Blanco",
-    "Psidium chodatianum Barb.Rodr.",
-    "Psidium crispum Barb.Rodr.",
-    "Psidium cujavillus Burm.f.",
-    "Psidium cujavus L.",
-    "Psidium ellipticum Barb.Rodr.",
-    "Psidium fragrans Macfad.",
-    "Psidium globosum Larrañaga",
-    "Psidium guajava f. cujavillus (Burm.f.) O.Deg. & I.Deg.",
-    "Psidium guajava var. cujavillum (Burm.f.) Krug & Urb.",
-    "Psidium guajava var. minor Mattos",
-    "Psidium igatemyense Barb.Rodr.",
-    "Psidium intermedium Zipp. ex Blume",
-    "Psidium longifolium Schumach.",
-    "Psidium pomiferum L.",
-    "Psidium pomiferum var. sapidissimum (Jacq.) DC.",
-    "Psidium prostratum O.Berg",
-    "Psidium pumilum Vahl",
-    "Psidium pumilum var. guadalupense DC.",
-    "Psidium pumilum var. intermedium Blume",
-    "Psidium pumilum var. rufescens Blume",
-    "Psidium pyriferum L.",
-    "Psidium pyriferum var. glabrum Benth.",
-    "Psidium sapidissimum Jacq.",
-    "Psidium subcrenatum Barb.Rodr.",
-    "Psidium vulgare Rich.",
-    "Syzygium ellipticum K.Schum. & Lauterb."
-  ],
-  "familyName": "MYRTACEAE",
-  "englishNames": [
-    "Guava"
-  ],
-  "sinhalaName": "Pera (පේර)",
-  "description": "කුඩා ගසක් හෝ පඳුරක් වන මෙය, අළු සහ මලකඩ දුඹුරු පැහැති පොත්තකින් සහ එල්ලෙන කොළ සහ අතු සහිත දීප්තිමත් කහ-කොළ පැහැති වියනකින් යුක්ත වේ; අතු තියුණු කෝණ සහිත හෝ පියාපත් සහිත (winged) වේ. පත්‍ර තලය (leaf lamina) සෙන්ටිමීටර 4-10 x 2.5-6 ක් වේ; නහර යුගල 7-15 ක් ඇත; පත්‍ර වෘන්තය (petiole) මිලිමීටර 2-7 ක් දිගය. මලක විෂ්කම්භය සෙන්ටිමීටර 3 කි. පලතුර ඉදුණු විට විෂ්කම්භය සෙන්ටිමීටර 3 ඉක්මවයි.",
-  "treatments": [
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Psidium guajava L.",
+    "synonyms": [
+        "Guajava pumila (Vahl) Kuntze",
+        "Guajava pyrifera Kuntze",
+        "Myrtus guajava (L.) Kuntze",
+        "Myrtus guajava var. pyrifera (Kuntze) Kuntze",
+        "Psidium angustifolium Lam.",
+        "Psidium aromaticum Blanco",
+        "Psidium chodatianum Barb.Rodr.",
+        "Psidium crispum Barb.Rodr.",
+        "Psidium cujavillus Burm.f.",
+        "Psidium cujavus L.",
+        "Psidium ellipticum Barb.Rodr.",
+        "Psidium fragrans Macfad.",
+        "Psidium globosum Larrañaga",
+        "Psidium guajava f. cujavillus (Burm.f.) O.Deg. & I.Deg.",
+        "Psidium guajava var. cujavillum (Burm.f.) Krug & Urb.",
+        "Psidium guajava var. minor Mattos",
+        "Psidium igatemyense Barb.Rodr.",
+        "Psidium intermedium Zipp. ex Blume",
+        "Psidium longifolium Schumach.",
+        "Psidium pomiferum L.",
+        "Psidium pomiferum var. sapidissimum (Jacq.) DC.",
+        "Psidium prostratum O.Berg",
+        "Psidium pumilum Vahl",
+        "Psidium pumilum var. guadalupense DC.",
+        "Psidium pumilum var. intermedium Blume",
+        "Psidium pumilum var. rufescens Blume",
+        "Psidium pyriferum L.",
+        "Psidium pyriferum var. glabrum Benth.",
+        "Psidium sapidissimum Jacq.",
+        "Psidium subcrenatum Barb.Rodr.",
+        "Psidium vulgare Rich.",
+        "Syzygium ellipticum K.Schum. & Lauterb."
+    ],
+    "familyName": "MYRTACEAE",
+    "englishNames": [
+        "Guava"
+    ],
+    "sinhalaName": "Pera (පේර)",
+    "description": "කුඩා ගසක් හෝ පඳුරක් වන මෙය, අළු සහ මලකඩ දුඹුරු පැහැති පොත්තකින් සහ එල්ලෙන කොළ සහ අතු සහිත දීප්තිමත් කහ-කොළ පැහැති වියනකින් යුක්ත වේ; අතු තියුණු කෝණ සහිත හෝ පියාපත් සහිත (winged) වේ. පත්‍ර තලය (leaf lamina) සෙන්ටිමීටර 4-10 x 2.5-6 ක් වේ; නහර යුගල 7-15 ක් ඇත; පත්‍ර වෘන්තය (petiole) මිලිමීටර 2-7 ක් දිගය. මලක විෂ්කම්භය සෙන්ටිමීටර 3 කි. පලතුර ඉදුණු විට විෂ්කම්භය සෙන්ටිමීටර 3 ඉක්මවයි.",
+    "treatments": [
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Sprains",
+            "sinhala": "උළුක්කු වීම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gastrointestinal Bleeding",
+            "sinhala": "ආමාශයික හා බඩවැල් ආශ්‍රිත රුධිර වහනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Pulmonary Disorders",
+            "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Swollen Gums",
+            "sinhala": "ඉදිමුණු විදුරුමස්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Styptic",
+            "sinhala": "රුධිර රෝධක ඖෂධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Brain Disorders",
+            "sinhala": "මොළය ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nephritis",
+            "sinhala": "වකුගඩු ප්‍රදාහය / වකුගඩු ඉදිමීම (වෘක්ක ශෝථය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cachexia",
+            "sinhala": "කෘශ වීම (ශරීරය වැහැරී යාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cholera",
+            "sinhala": "කොලරාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Vitiligo",
+            "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits",
+        "Leaves",
+        "Bark"
+    ],
+    "images": [
+        {
+            "image_id": "2516",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/pv7G1ZrS/plant00897-02516.jpg"
+        },
+        {
+            "image_id": "2517",
+            "caption": "Leaf - Upper surface (PMR)",
+            "url": "https://i.ibb.co/1JQSZx94/plant00897-02517.jpg"
+        },
+        {
+            "image_id": "2518",
+            "caption": "Leaf - lower surface (PMR)",
+            "url": "https://i.ibb.co/399gD9Kn/plant00897-02518.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "පේර මේ තරම් ගුණ බව ඔබ දන්නවාද ? පෙර සතු විශ්මිත ගුණ 11 ක් මෙන්න The best health benefits of Guava",
+                "url": "https://youtube.com/watch?v=dJaMZLTbW5k",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/dJaMZLTbW5k/hq720.jpg"
+            },
+            {
+                "title": "පේර කොළ තැම්බුවතුරින් ලැබෙන සෞඛ්‍යමය වාසි 10ක් |  Guava Leaves Health Benefits | Pera Kola Wala Guna",
+                "url": "https://youtube.com/watch?v=EPXBhA_Aquk",
+                "duration": "13:17",
+                "thumbnail": "https://i.ytimg.com/vi/EPXBhA_Aquk/hq720.jpg"
+            },
+            {
+                "title": "ගහ පිරෙන්න ගෙඩි හැදෙන \" ඇපල් පේර \" / Lets plant Guava - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=QNSCIs6Wkhg",
+                "duration": "11:24",
+                "thumbnail": "https://i.ytimg.com/vi/QNSCIs6Wkhg/hq720.jpg"
+            },
+            {
+                "title": "පේර කොල ටොනික් /Guava leaf hair tonic /pera kola sathkaraya hariyatama karamu",
+                "url": "https://youtube.com/watch?v=zVG3neN35CE",
+                "duration": "5:25",
+                "thumbnail": "https://i.ytimg.com/vi/zVG3neN35CE/hqdefault.jpg"
+            },
+            {
+                "title": "අඩි ගණත්ව දෙපේලි ක්‍රමයට පේර වගාව | High Density Double Row Guava Cultivation - Part 3",
+                "url": "https://youtube.com/watch?v=OIekm40vWwI",
+                "duration": "15:18",
+                "thumbnail": "https://i.ytimg.com/vi/OIekm40vWwI/hq720.jpg"
+            },
+            {
+                "title": "පේර මේ තරම් ගුණ බව ඔබ දන්නවාද ? පෙර සතු විශ්මිත ගුණ 11 ක් මෙන්න The best health benefits of Guava",
+                "url": "https://youtube.com/watch?v=fks2Od69M9M",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/fks2Od69M9M/frame0.jpg"
+            },
+            {
+                "title": "🔴යකඩෝ පේර කොල 2න් පාට 4ක දිව්‍ය අමුර්තයක්! බීලා බලන්ඩ ආස හිතෙයි",
+                "url": "https://youtube.com/watch?v=v1BsIahN6Lc",
+                "duration": "8:04",
+                "thumbnail": "https://i.ytimg.com/vi/v1BsIahN6Lc/hq720.jpg"
+            },
+            {
+                "title": "පේර කොළ තැම්බුවතුරින් ලැබෙන සෞඛ්‍යමය වාසි 10ක් |  Guava Leaves Health Benefits | Pera Kola Wala Guna",
+                "url": "https://youtube.com/watch?v=n8iAjK0qkCg",
+                "duration": "13:17",
+                "thumbnail": "https://i.ytimg.com/vi/n8iAjK0qkCg/frame0.jpg"
+            },
+            {
+                "title": "පේර කොළ තැම්බූ වතුර තේ වෙනුවට සතියක් බිව්වොත් වෙන දේ - guava leaves that you need to know.",
+                "url": "https://youtube.com/watch?v=V4X-TGIqKxY",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/V4X-TGIqKxY/hq720.jpg"
+            },
+            {
+                "title": "පේර වල ඇති පෝෂණ ගුණ | Nutrients of guava",
+                "url": "https://youtube.com/watch?v=M3ObQQ1FO7Y",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/M3ObQQ1FO7Y/hq720.jpg"
+            },
+            {
+                "title": "දවසට එක පේර ගෙඩියක් කෑවොත් මේ විශ්මිත ප්‍රතිපල ඔබටත් ලැබේවී",
+                "url": "https://youtube.com/watch?v=G198jLIRLkg",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/G198jLIRLkg/hq720.jpg"
+            },
+            {
+                "title": "පේර වල ඇති සියලුම විශ්මිත ගුණ | Guava benefits in sinhala | Sakala waga",
+                "url": "https://youtube.com/watch?v=ioDZuczBEDc",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/ioDZuczBEDc/hq720.jpg"
+            },
+            {
+                "title": "පේර වල විශ්මිත ගුණ - important for a healthy life",
+                "url": "https://youtube.com/watch?v=1uDDObJmgUE",
+                "duration": "4:16",
+                "thumbnail": "https://i.ytimg.com/vi/1uDDObJmgUE/hq720.jpg"
+            },
+            {
+                "title": "පේර|Guava|පේර වල ගුන|the health benefits|",
+                "url": "https://youtube.com/watch?v=I3mwKJxQ2jQ",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/I3mwKJxQ2jQ/hqdefault.jpg"
+            },
+            {
+                "title": "පේර මෙච්චර ගුණද | The values ​​of guava",
+                "url": "https://youtube.com/watch?v=aYBCJWx4Swk",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/aYBCJWx4Swk/hqdefault.jpg"
+            },
+            {
+                "title": "පේර කොළ තාම්බා බිවුවොත් ඔබේ ශරීරයට සිදුවන වෙනස | Pera kola wala guna | Lokayo with sube",
+                "url": "https://youtube.com/watch?v=oaV0jvOSL7k",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/oaV0jvOSL7k/hq720.jpg"
+            },
+            {
+                "title": "පේර වල ඇති විශ්මිත ගුණ Health Benifits of Guava",
+                "url": "https://youtube.com/watch?v=4BF0iG-7RoQ",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/4BF0iG-7RoQ/hqdefault.jpg"
+            },
+            {
+                "title": "පේර සමඟ රුධිර සීනි පරීක්ෂණය | Is Guava good for diabetics | Blood Sugar Test with Guava",
+                "url": "https://youtube.com/watch?v=c1ZUYJMkqzc",
+                "duration": "12:04",
+                "thumbnail": "https://i.ytimg.com/vi/c1ZUYJMkqzc/hq720.jpg"
+            },
+            {
+                "title": "සිරුරේ බර අඩු කරන පේර guava benefits",
+                "url": "https://youtube.com/watch?v=PWjubf98oJ8",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/PWjubf98oJ8/hq720.jpg"
+            },
+            {
+                "title": "ඇඹුල් පේර",
+                "url": "https://youtube.com/watch?v=n_02uG_5Pto",
+                "duration": "0:32",
+                "thumbnail": "https://i.ytimg.com/vi/n_02uG_5Pto/hq720.jpg"
+            },
+            {
+                "title": "පේර ශාකයේ විශ්මිත ගුණ මෙන්න | pera wala guna | Lokayo with sube",
+                "url": "https://youtube.com/watch?v=UqMT5ludKPM",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/UqMT5ludKPM/hq720.jpg"
+            },
+            {
+                "title": "ගෑවුන තැන කන්න පුළුවන් පේර කරිය | Delicious Guava Curry Recipe | Pera  Curry in Sinhala",
+                "url": "https://youtube.com/watch?v=RH0FtYxct3k",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/RH0FtYxct3k/hq720.jpg"
+            },
+            {
+                "title": "සමේ පිලිකාව සුවපත් කරන පේර | Health Benefits of Guava Fruit Sinhala",
+                "url": "https://youtube.com/watch?v=Ym0d--HGzw4",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/Ym0d--HGzw4/hqdefault.jpg"
+            },
+            {
+                "title": "Episode 59 පේර වල පණුවො නැති කර ගන්නේ කොහොමද",
+                "url": "https://youtube.com/watch?v=c9u9Kj3uyEE",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/c9u9Kj3uyEE/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව දුරලන පේර කොළ පානය | Guava leaf Tea | පේර කොල තේ",
+                "url": "https://youtube.com/watch?v=tYpI0eNH9e4",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/tYpI0eNH9e4/hq720.jpg"
+            },
+            {
+                "title": "පිට රටින් ආපු තායි පේර | How to Grow Thai Guava at Home | Ceylon Agri | Episode 259",
+                "url": "https://youtube.com/watch?v=L-Rqhc853uo",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/L-Rqhc853uo/hq720.jpg"
+            },
+            {
+                "title": "පේර වගාවේ රෝග pera wagawe roga Diseases of guava cultivation pera wagawa Home gardening ගෙවතු වගාව",
+                "url": "https://youtube.com/watch?v=GsnWahLbS3Q",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/GsnWahLbS3Q/hqdefault.jpg"
+            },
+            {
+                "title": "benefits of guava leaves  tea | අපි නොදන්න පේර කොළ තේ ...",
+                "url": "https://youtube.com/watch?v=rdJ6ao8Dmqs",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/rdJ6ao8Dmqs/hqdefault.jpg"
+            },
+            {
+                "title": "දවස් 8න් දියවැඩියාව සුවකරන ඔබව තරුණ කරන විස්මිත පේර කොළ තේ පානය. | Guava drink to cure diabetes!",
+                "url": "https://youtube.com/watch?v=QH5ifPnQkrI",
+                "duration": "7:30",
+                "thumbnail": "https://i.ytimg.com/vi/QH5ifPnQkrI/hq720.jpg"
+            },
+            {
+                "title": "Guava Juice - පේර  බීම  | How to make guava juice | - Chef With Mal - Juice #shorts",
+                "url": "https://youtube.com/watch?v=CDZ6H5wANKs",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/CDZ6H5wANKs/hq720.jpg"
+            },
+            {
+                "title": "පේර කොල සත්කාරය - කොන්ඩේ ඉක්මනින් දිගටට වවාගන්න ( guava leaves water - fast hair growing treatment )",
+                "url": "https://youtube.com/watch?v=98shVr6Lxrg",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/98shVr6Lxrg/hq720.jpg"
+            },
+            {
+                "title": "පේර කොලෙන් අවුරුද්දකින් මෙච්චර කොන්ඩේ වැවුනා |Guava Leaf Hair Tonic |pera kola sathkaraya #hairtonic",
+                "url": "https://youtube.com/watch?v=_HvJa88duMs",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/_HvJa88duMs/hq720.jpg"
+            },
+            {
+                "title": "දවස් 8න් දියවැඩියාව සුවකරන ඔබව තරුණ කරන විස්මිත පේර කොළ තේ පානය. | Guava drink to cure diabetes!",
+                "url": "https://youtube.com/watch?v=T37uRH3ZijM",
+                "duration": "7:30",
+                "thumbnail": "https://i.ytimg.com/vi/T37uRH3ZijM/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Sprains",
-      "sinhala": "උළුක්කු වීම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gastrointestinal Bleeding",
-      "sinhala": "ආමාශයික හා බඩවැල් ආශ්‍රිත රුධිර වහනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Pulmonary Disorders",
-      "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Swollen Gums",
-      "sinhala": "ඉදිමුණු විදුරුමස්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Styptic",
-      "sinhala": "රුධිර රෝධක ඖෂධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Brain Disorders",
-      "sinhala": "මොළය ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nephritis",
-      "sinhala": "වකුගඩු ප්‍රදාහය / වකුගඩු ඉදිමීම (වෘක්ක ශෝථය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Cachexia",
-      "sinhala": "කෘශ වීම (ශරීරය වැහැරී යාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cholera",
-      "sinhala": "කොලරාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Vitiligo",
-      "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits",
-    "Leaves",
-    "Bark"
-  ],
-  "images": [
-    {
-      "image_id": "2516",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/pv7G1ZrS/plant00897-02516.jpg"
-    },
-    {
-      "image_id": "2517",
-      "caption": "Leaf - Upper surface (PMR)",
-      "url": "https://i.ibb.co/1JQSZx94/plant00897-02517.jpg"
-    },
-    {
-      "image_id": "2518",
-      "caption": "Leaf - lower surface (PMR)",
-      "url": "https://i.ibb.co/399gD9Kn/plant00897-02518.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,68 +1,709 @@
 {
-  "scientificName": "Dolichandrone spathacea (L.f.) Seem.",
-  "synonyms": [
-    "Bignonia longissima Lour.",
-    "Bignonia spathacea L.f.",
-    "Dolichandrone longissima (Lour.) K.Schum.",
-    "Dolichandrone rheedei (Spreng.) Seem.",
-    "Pongelia longiflora Raf.",
-    "Spathodea diepenhorstii Miq.",
-    "Spathodea grandiflora Zipp. ex Span.",
-    "Spathodea longiflora P.Beauv.",
-    "Spathodea loureiroana DC.",
-    "Spathodea luzonica Blanco",
-    "Spathodea rheedei Spreng.",
-    "Spathodea rostrata Span."
-  ],
-  "familyName": "BIGNONIACEAE",
-  "englishNames": [
-    "Mangrove Trumpet Tree"
-  ],
-  "sinhalaName": "Diyadanga (දියදඟ)",
-  "description": "මීටර් 15ක් පමණ උසැති ගස් වේ. පත්‍ර ඒක පිච්ඡාකාර (odd pinnate) වේ; පත්‍රිකා 5-9ක් වන අතර, දිග සෙ.මී. 6-17ක් සහ පළල සෙ.මී. 3-6ක් වේ. පුෂ්ප මංජරිය මල් 2-8කින් සමන්විත වන අතර, පුෂ්ප දණ්ඩ (peduncle) සෙ.මී. 1ක් පමණ දිග වේ, පුෂ්ප වෘන්ත (pedicels) සෙ.මී. 1-3ක් දිග වේ. මල් කිරීටය (corolla) සුදු පැහැති වන අතර සුවඳවත් වේ, නාලය සෙ.මී. 7-10ක් දිග සහ මි.මී. 4-6ක් පළල වන අතර පුනීලාකාර (funnelform) වේ. කරල් විවිධ දිගින් යුක්ත වන අතර, දිග සෙ.මී. 25-50ක් සහ පළල සෙ.මී. 1.7-2.5ක් වේ. බීජ කිරළ වැනි පියාපත් සහිත (corky-winged) වන අතර, පියාපත් සමඟ දිග සෙ.මී. 11-15ක් සහ පළල මි.මී. 6-9ක් වේ.",
-  "treatments": [
-    {
-      "treatment": "Nervous System Disorders",
-      "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Dolichandrone spathacea (L.f.) Seem.",
+    "synonyms": [
+        "Bignonia longissima Lour.",
+        "Bignonia spathacea L.f.",
+        "Dolichandrone longissima (Lour.) K.Schum.",
+        "Dolichandrone rheedei (Spreng.) Seem.",
+        "Pongelia longiflora Raf.",
+        "Spathodea diepenhorstii Miq.",
+        "Spathodea grandiflora Zipp. ex Span.",
+        "Spathodea longiflora P.Beauv.",
+        "Spathodea loureiroana DC.",
+        "Spathodea luzonica Blanco",
+        "Spathodea rheedei Spreng.",
+        "Spathodea rostrata Span."
+    ],
+    "familyName": "BIGNONIACEAE",
+    "englishNames": [
+        "Mangrove Trumpet Tree"
+    ],
+    "sinhalaName": "Diyadanga (දියදඟ)",
+    "description": "මීටර් 15ක් පමණ උසැති ගස් වේ. පත්‍ර ඒක පිච්ඡාකාර (odd pinnate) වේ; පත්‍රිකා 5-9ක් වන අතර, දිග සෙ.මී. 6-17ක් සහ පළල සෙ.මී. 3-6ක් වේ. පුෂ්ප මංජරිය මල් 2-8කින් සමන්විත වන අතර, පුෂ්ප දණ්ඩ (peduncle) සෙ.මී. 1ක් පමණ දිග වේ, පුෂ්ප වෘන්ත (pedicels) සෙ.මී. 1-3ක් දිග වේ. මල් කිරීටය (corolla) සුදු පැහැති වන අතර සුවඳවත් වේ, නාලය සෙ.මී. 7-10ක් දිග සහ මි.මී. 4-6ක් පළල වන අතර පුනීලාකාර (funnelform) වේ. කරල් විවිධ දිගින් යුක්ත වන අතර, දිග සෙ.මී. 25-50ක් සහ පළල සෙ.මී. 1.7-2.5ක් වේ. බීජ කිරළ වැනි පියාපත් සහිත (corky-winged) වන අතර, පියාපත් සමඟ දිග සෙ.මී. 11-15ක් සහ පළල මි.මී. 6-9ක් වේ.",
+    "treatments": [
+        {
+            "treatment": "Nervous System Disorders",
+            "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Postpartum Flatulence",
+            "sinhala": "ප්‍රසවයෙන් පසු ඇතිවන බඩ පිපුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark",
+        "Leaves",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "1955",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/RTLChN7B/plant00244-01955.jpg"
+        },
+        {
+            "image_id": "1956",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/ZR4M2S42/plant00244-01956.jpg"
+        },
+        {
+            "image_id": "1957",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/m54yQrtv/plant00244-01957.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Deiyangema Pihitai (දෙයියන්ගේම පිහිටයි) | Episode 03 - (2026-06-03) | ITN",
+                "url": "https://youtube.com/watch?v=pNyLYUbNpFE",
+                "duration": "20:19",
+                "thumbnail": "https://i.ytimg.com/vi/pNyLYUbNpFE/hq720.jpg"
+            },
+            {
+                "title": "Deiyangema Pihitai (දෙයියන්ගේම පිහිටයි) | Episode 02 - (2026-06-02) | ITN",
+                "url": "https://youtube.com/watch?v=fRQYEdSunw8",
+                "duration": "21:15",
+                "thumbnail": "https://i.ytimg.com/vi/fRQYEdSunw8/hq720.jpg"
+            },
+            {
+                "title": "Deiyangema Pihitai (දෙයියන්ගේම පිහිටයි) | Episode 01 - (2026-06-01) | ITN",
+                "url": "https://youtube.com/watch?v=mnASTwo8ZxA",
+                "duration": "23:06",
+                "thumbnail": "https://i.ytimg.com/vi/mnASTwo8ZxA/hq720.jpg"
+            },
+            {
+                "title": "දීඝ දන්තු 1 හස්තියාගේ දළ සහිත අස්ථි කොටස් ගොඩගනී   | Ada Derana",
+                "url": "https://youtube.com/watch?v=rraYmRxTiMQ",
+                "duration": "1:48",
+                "thumbnail": "https://i.ytimg.com/vi/rraYmRxTiMQ/hq720.jpg"
+            },
+            {
+                "title": "නොසිතූ මොහොතක තුන්සක රිය මතට කඩා වැටුණු විශාල ගස.. තිදෙනෙකුට දිවි අහිමි කරයි | Ada Derana",
+                "url": "https://youtube.com/watch?v=pVcFQ0LdS3A",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/pVcFQ0LdS3A/hq720.jpg"
+            },
+            {
+                "title": "\"දෙන්නෙක් ඇතුළේ..වහලේ ගිනිගන්නවා..\" වැඩිහිටි නිවාසයක ඇතිවූ ගින්නේ නොදුටු දසුන් පෙළක්..",
+                "url": "https://youtube.com/watch?v=tJqYu6aVcbk",
+                "duration": "4:49",
+                "thumbnail": "https://i.ytimg.com/vi/tJqYu6aVcbk/hq720.jpg"
+            },
+            {
+                "title": "දෙමටගොඩ අවි ගබඩාවක්",
+                "url": "https://youtube.com/watch?v=ElW4J7AtPro",
+                "duration": "4:34",
+                "thumbnail": "https://i.ytimg.com/vi/ElW4J7AtPro/hq720.jpg"
+            },
+            {
+                "title": "Deiyangema Pihitai (දෙයියන්ගේම පිහිටයි) Theme Song | ITN",
+                "url": "https://youtube.com/watch?v=y-cHSdKtYto",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/y-cHSdKtYto/hq720.jpg"
+            },
+            {
+                "title": "දීඝ දන්තු හස්තියාගේ දළ සහිත අස්ථි කොටස් වසර එකාහමාරකට පසු ගොඩ ගනියි",
+                "url": "https://youtube.com/watch?v=3zSh9m61pDw",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/3zSh9m61pDw/hq720.jpg"
+            },
+            {
+                "title": "මම ආවෝ 54 - 89 K | Freefire Live #freefire",
+                "url": "https://youtube.com/watch?v=gPOt2LTsH4k",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/gPOt2LTsH4k/hq720.jpg"
+            },
+            {
+                "title": "ගුහාවේ සිරවූ ජීවිත අවදානමේ...ඔක්සිජන් හිඟය දරුණුවටම | Ada Derana",
+                "url": "https://youtube.com/watch?v=Uxy7HDqJPh4",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/Uxy7HDqJPh4/hq720.jpg"
+            },
+            {
+                "title": "රංග නිශාන්තගේ එළොව යෑම ගැන නඩු තීන්දුවට ආ SDIG මාධ්‍යයට කියපු දේ",
+                "url": "https://youtube.com/watch?v=7rZMrdadeUE",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/7rZMrdadeUE/hq720.jpg"
+            },
+            {
+                "title": "ඩයනා හඬා වැටෙයි | Ada Derana",
+                "url": "https://youtube.com/watch?v=kUnegGB_Bm8",
+                "duration": "1:39",
+                "thumbnail": "https://i.ytimg.com/vi/kUnegGB_Bm8/hq720.jpg"
+            },
+            {
+                "title": "මරු කැඳවන ලාඕසයේ රන් ආකර",
+                "url": "https://youtube.com/watch?v=z-RUBuKl7f4",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/z-RUBuKl7f4/hq720.jpg"
+            },
+            {
+                "title": "ඇඟලුම් කම්හලක ඇතිවූ ගින්නේ නවතම දර්ශන මෙන්න - දැඩි පරිශ්‍රමයක් දරා ගින්න නිවන අයුරු",
+                "url": "https://youtube.com/watch?v=8cK0__GXt3Y",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/8cK0__GXt3Y/hq720.jpg"
+            },
+            {
+                "title": "'ගම් දහසක වැඩ දහසක්' අද ඇරඹේ | Ada Derana",
+                "url": "https://youtube.com/watch?v=T9cBmnahJ80",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/T9cBmnahJ80/hq720.jpg"
+            },
+            {
+                "title": "Dakinna Athnam | දකින්න ඇත්නම් බුදුහාමුදුරුවෝ | Malinda & Akila ft Dilan Gamage | Vesak Poya 2026",
+                "url": "https://youtube.com/watch?v=IP0UA2XZIIg",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/IP0UA2XZIIg/hq720.jpg"
+            },
+            {
+                "title": "දේදුන්නක් දැකලා ලි#ගික නැමියාවක් එනවා කියලා මහා කැම්පේන් කළානේ..ලැබෙන ලි#ගික අධ්‍යාපනය ප්‍රමාණවත් නෑ",
+                "url": "https://youtube.com/watch?v=RWoD7U4vADQ",
+                "duration": "6:21",
+                "thumbnail": "https://i.ytimg.com/vi/RWoD7U4vADQ/hq720.jpg"
+            },
+            {
+                "title": "ගහලා එලවන්න කලින් යන්න ලු, දිලිත් රට බාරගන්න ලෑස්තියි ලු",
+                "url": "https://youtube.com/watch?v=mhrKt6m85jk",
+                "duration": "8:26",
+                "thumbnail": "https://i.ytimg.com/vi/mhrKt6m85jk/hq720.jpg"
+            },
+            {
+                "title": "ලිඳට වැටුණු හඳුන් දිවියාගේ දිවි බේරාදුන් අපේ මිනිස්සු | Ada Derana",
+                "url": "https://youtube.com/watch?v=jdNw2kvnNvQ",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/jdNw2kvnNvQ/hq720.jpg"
+            },
+            {
+                "title": "විපාක දන්නවනම් කෘත ගුණ සලකනවාමයි, දෙමාපිය ගුණ| දේශකයානන් වහන්සේ පූජ්‍ය පින්වත් වැලිමඩ සද්ධාසීල හිමි.",
+                "url": "https://youtube.com/watch?v=Bm9Q0bIf1cY",
+                "duration": "7:09",
+                "thumbnail": "https://i.ytimg.com/vi/Bm9Q0bIf1cY/hq720.jpg"
+            },
+            {
+                "title": "දහම් ගුණ හදුනා ගනිමු Daham Guna Hadunaganimu",
+                "url": "https://youtube.com/watch?v=REHl8wH4DrA",
+                "duration": "1:30:28",
+                "thumbnail": "https://i.ytimg.com/vi/REHl8wH4DrA/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන අග්න්‍යාශය සුව කරන ආහාර වර්ග 06ක් | 06 Amazing Foods to Heal Your Pancreas",
+                "url": "https://youtube.com/watch?v=g9CeeOTtePM",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/g9CeeOTtePM/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ගුණ ධර්ම දියුණු කරගන්නේ කෙසේද welimada saddaseela theru.#trending #buddha",
+                "url": "https://youtube.com/watch?v=50Y6UGqq9bw",
+                "duration": "57:02",
+                "thumbnail": "https://i.ytimg.com/vi/50Y6UGqq9bw/hq720.jpg"
+            },
+            {
+                "title": "යෝගට් ද ? ගුණ කිරිද? | Dinesh Muthugala | Episode 170",
+                "url": "https://youtube.com/watch?v=CiMCBqJpBmY",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/CiMCBqJpBmY/hq720.jpg"
+            },
+            {
+                "title": "සුදුලූනු මෙච්චර ගුණ ද මේක නම් දිව්‍ය ඔෂධයක්ම තමයි ❤️😊",
+                "url": "https://youtube.com/watch?v=1JiS6FRTEpw",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/1JiS6FRTEpw/hq720.jpg"
+            },
+            {
+                "title": "diya thippili # රෝග රැසකට ගුණ දෙන දිය තිප්පිලි# hela osu# siw helaya",
+                "url": "https://youtube.com/watch?v=SDWdi4o1Mcs",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/SDWdi4o1Mcs/hqdefault.jpg"
+            },
+            {
+                "title": "Diya Beraliya Dalu - Harshana Dissanayake (With Sinhala SUB)  \"දිය බෙරලිය දළු - හර්ෂණ දිසානායක \"",
+                "url": "https://youtube.com/watch?v=nsbTHXnAmTA",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/nsbTHXnAmTA/hq720.jpg"
+            },
+            {
+                "title": "දිය බෙරලිය සැඟවුණු ගුණ Diyaberaliya|@Apelakdiwa330",
+                "url": "https://youtube.com/watch?v=x3L4tT8RShU",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/x3L4tT8RShU/hqdefault.jpg"
+            },
+            {
+                "title": "මධුපිණ්ඩික සුත්තං | Dr. Gayani Ranasinghe | Daham Atuvawa",
+                "url": "https://youtube.com/watch?v=yJYeNvbTEKY",
+                "duration": "1:48:54",
+                "thumbnail": "https://i.ytimg.com/vi/yJYeNvbTEKY/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව තියෙන අය, දියවැඩියාව හදාගන්න කැමති නැති අය, මේ විදියට කෑම කන්න - දියවැඩියාවට හොදම ආහාර",
+                "url": "https://youtube.com/watch?v=YQ4x3ybFyDY",
+                "duration": "30:12",
+                "thumbnail": "https://i.ytimg.com/vi/YQ4x3ybFyDY/hq720.jpg"
+            },
+            {
+                "title": "ගිනිගත් වැඩිහිටි නිවාසයේ අද උදෑසන තත්ත්වය - කන්න උයපු කෑමත් එක්කම අළුවෙලා තියෙන හැටි",
+                "url": "https://youtube.com/watch?v=ZDMMZ1TG530",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/ZDMMZ1TG530/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සමඟ සටන් කරන හොඳම ආහාර 15ක් | 15 Best Foods to Control Diabetes",
+                "url": "https://youtube.com/watch?v=Xj9d2oUp5eA",
+                "duration": "11:59",
+                "thumbnail": "https://i.ytimg.com/vi/Xj9d2oUp5eA/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට හදවතට මෙච්චර ගුණ උණ ලංකාවෙ කන්නෙ නෑ bamboo health benifits",
+                "url": "https://youtube.com/watch?v=sI8k8Vdiffc",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/sI8k8Vdiffc/hq720.jpg"
+            },
+            {
+                "title": "උඳුපියලි කැඳ බිව්වම වෙන දේ මෙන්න : Benefits of Desmordium triflorum",
+                "url": "https://youtube.com/watch?v=_ElM_-P1pms",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/_ElM_-P1pms/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවෙන් දුක්විදින්න එපා. මෙන්න මේ විදිහට සනීප වෙන්න!",
+                "url": "https://youtube.com/watch?v=98qB2qF7oz0",
+                "duration": "23:01",
+                "thumbnail": "https://i.ytimg.com/vi/98qB2qF7oz0/hq720.jpg"
+            },
+            {
+                "title": "Herb 🌿🩸🧑‍⚕️ ඖෂධීය පැළෑටි #medicinal @travel_lka",
+                "url": "https://youtube.com/watch?v=DArZZ4uVv8Q",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/DArZZ4uVv8Q/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා ඖෂධ දිගටම ලබාගැනීම වකුගඩුවලට බලපාන හැටි...",
+                "url": "https://youtube.com/watch?v=KCqyO2es-f8",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/KCqyO2es-f8/hq720.jpg"
+            },
+            {
+                "title": "𝙃𝙚𝙧𝙗𝙖𝙡 𝙢𝙚𝙙𝙞𝙘𝙞𝙣𝙚 𝙡𝙚𝙖𝙫𝙚𝙨 𝙩𝙤 𝙚𝙖𝙩 ප්‍රතිශක්තිය වැඩිවෙන්න එයාට බෙහෙත් කොල.🤗🌿☘️ #elephante #elephan",
+                "url": "https://youtube.com/watch?v=JuX6ZtfMYTA",
+                "duration": "0:24",
+                "thumbnail": "https://i.ytimg.com/vi/JuX6ZtfMYTA/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු රැකදෙන පැලෑටිය | දියබෙරලිය | දියමෙනේරිය",
+                "url": "https://youtube.com/watch?v=d1vH5b-LfYw",
+                "duration": "7:34",
+                "thumbnail": "https://i.ytimg.com/vi/d1vH5b-LfYw/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියා රෝගියෙකුට පිළිකා ඖෂධ දීලා - රජයේ ඖෂධවේදීන්ගේ සංගමයෙන් දැනුවත් කිරීමක්",
+                "url": "https://youtube.com/watch?v=_GXyUGH_X_0",
+                "duration": "12:57",
+                "thumbnail": "https://i.ytimg.com/vi/_GXyUGH_X_0/hq720.jpg"
+            },
+            {
+                "title": "දීර්ඝ කාලීනව ඖෂධ ලබා ගැනීමත් එක්ක ඔබ සිදුකරන වැරදි සහ සැලකිළිමත්ව ඖෂධ ගාන්නා ආකාරය",
+                "url": "https://youtube.com/watch?v=0PsqRaSMWCI",
+                "duration": "16:45",
+                "thumbnail": "https://i.ytimg.com/vi/0PsqRaSMWCI/hq720.jpg"
+            },
+            {
+                "title": "දිව ඔසුවක් බඳු ප්‍රතිශක්තිය වර්ධනය කරවන ඖෂධ වට්ටෝරුවක්..",
+                "url": "https://youtube.com/watch?v=t1ENhkkaEK4",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/t1ENhkkaEK4/hq720.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද ඖෂධ වලින් දියවැඩියව නැති කරගන්නේ කොහොමද?   | Piyum Vila | 21 - 08 -2020 | Siyatha TV",
+                "url": "https://youtube.com/watch?v=_NMlk30xcoI",
+                "duration": "22:12",
+                "thumbnail": "https://i.ytimg.com/vi/_NMlk30xcoI/hq720.jpg"
+            },
+            {
+                "title": "ජීවිත කාලෙම දිය වැඩියාවට බෙහෙත් බිව්වත් හොද උනේ නැද්ද , මෙන්න හොදම අත් බෙහෙත",
+                "url": "https://youtube.com/watch?v=EUhMXunQ4Zg",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/EUhMXunQ4Zg/hq720_2.jpg"
+            },
+            {
+                "title": "රටේ වැඩියෙන්ම භාවිත කරන ඖෂධ.. \"මේක අපිට පිළිගන්න බැහැ\"",
+                "url": "https://youtube.com/watch?v=xcotDMUIEsA",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/xcotDMUIEsA/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා ඖෂධ අතරමග නතර කළොත් ?",
+                "url": "https://youtube.com/watch?v=-OAW7Q62rGo",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/-OAW7Q62rGo/hq720.jpg"
+            },
+            {
+                "title": "එදිනෙදා අවශ්‍ය වන අත් බෙහෙත් ටිකක්,☘️☘️@Danuma-Lk #sinhalavideo #sinhalayoutube #srilanka",
+                "url": "https://youtube.com/watch?v=vGhXQT14Tfc",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/vGhXQT14Tfc/hq720.jpg"
+            },
+            {
+                "title": "ඉන්දියාවෙන් අත්‍යාවශ්‍ය ඖෂධ පරිත්‍යාගයක් | Ada Derana",
+                "url": "https://youtube.com/watch?v=rcoxmewfIgU",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/rcoxmewfIgU/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙත් නොබී දිය වැඩියාව හොඳ කරගන්න විදිහ  | Tissa Jananayake with Life (EP 102)",
+                "url": "https://youtube.com/watch?v=DR_jcmX9Eq8",
+                "duration": "30:03",
+                "thumbnail": "https://i.ytimg.com/vi/DR_jcmX9Eq8/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව රෝගය පාලනය සදහා ඇති ආයුර්වේද ප්‍රතිකාර | Ayurvedic Treatments for Diabetes",
+                "url": "https://youtube.com/watch?v=mtbz0QxkUz8",
+                "duration": "26:33",
+                "thumbnail": "https://i.ytimg.com/vi/mtbz0QxkUz8/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට හොදම ස්වාභාවික ඖශධීය පානය 🍃 - Dr. Sumith Rajapura",
+                "url": "https://youtube.com/watch?v=Oe1xQJBnOPU",
+                "duration": "6:56",
+                "thumbnail": "https://i.ytimg.com/vi/Oe1xQJBnOPU/hq720.jpg"
+            },
+            {
+                "title": "DANDELION BENEFITS - 12 Impressive Health Benefits of Dandelion",
+                "url": "https://youtube.com/watch?v=MTfk4DEs9y4",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/MTfk4DEs9y4/hq720.jpg"
+            },
+            {
+                "title": "Why Dandelion is SO Powerful!",
+                "url": "https://youtube.com/watch?v=Sxzqg_BclSE",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/Sxzqg_BclSE/hq720.jpg"
+            },
+            {
+                "title": "Dandelion Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=L62VWWsdzIo",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/L62VWWsdzIo/hq720.jpg"
+            },
+            {
+                "title": "Dandelion Leaves | 15 Amazing Health Benefits of Dandelion | Dr. Eilbra Younan",
+                "url": "https://youtube.com/watch?v=-SkvBzDkt_o",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/-SkvBzDkt_o/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Jamaican Dandelion",
+                "url": "https://youtube.com/watch?v=lAC6EvNlUOg",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/lAC6EvNlUOg/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Dandelion",
+                "url": "https://youtube.com/watch?v=YmtwlAC3KAk",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/YmtwlAC3KAk/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Dayap | Citrus Delight and Nutritional Powerhouse",
+                "url": "https://youtube.com/watch?v=HcDFaDCNVo8",
+                "duration": "1:32",
+                "thumbnail": "https://i.ytimg.com/vi/HcDFaDCNVo8/hq720.jpg"
+            },
+            {
+                "title": "Dandelion | Benefits of Dandelion | Dr. J9 Live",
+                "url": "https://youtube.com/watch?v=0ot0Myx_lbk",
+                "duration": "4:59",
+                "thumbnail": "https://i.ytimg.com/vi/0ot0Myx_lbk/hq720.jpg"
+            },
+            {
+                "title": "Dandelion Root Tea: Benefits & Uses",
+                "url": "https://youtube.com/watch?v=E4caSYMH_RE",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/E4caSYMH_RE/hq720.jpg"
+            },
+            {
+                "title": "10 Amazing Health Benefits of Dandelion Tea You NEED TO KNOW!",
+                "url": "https://youtube.com/watch?v=cO-zxDdL76E",
+                "duration": "11:40",
+                "thumbnail": "https://i.ytimg.com/vi/cO-zxDdL76E/hq720.jpg"
+            },
+            {
+                "title": "Tony's Tip Of The Day: Dandelion Greens",
+                "url": "https://youtube.com/watch?v=020yLkFYYJc",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/020yLkFYYJc/hq720.jpg"
+            },
+            {
+                "title": "දැනගෙනම හිටවන්න | Pranajeewa Plant | Ceylon Agri| Episode 359",
+                "url": "https://youtube.com/watch?v=7VR4o-3yMxY",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/7VR4o-3yMxY/hq720.jpg"
+            },
+            {
+                "title": "DANDELION BENEFITS - 12 Impressive Health Benefits of Dandelion",
+                "url": "https://youtube.com/watch?v=InAU0aLq84s",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/InAU0aLq84s/frame0.jpg"
+            },
+            {
+                "title": "බඩ බස්සන දරැ පල දෙන පේර කොල",
+                "url": "https://youtube.com/watch?v=3LPhylLmQtI",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/3LPhylLmQtI/hq720.jpg"
+            },
+            {
+                "title": "මිනිස්සු පලයක් නැහැ කියල කැපුවට ජීවිත බිලිගන්නා ඩෙංගි වකුගඩු රෝග නසන මලක්",
+                "url": "https://youtube.com/watch?v=5V97gBr2Hts",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/5V97gBr2Hts/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන, ලෙඩවීම වලක්වන, පිටි වර්ග 7 ක්!",
+                "url": "https://youtube.com/watch?v=S_RsfSLzUw8",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/S_RsfSLzUw8/hq720.jpg"
+            },
+            {
+                "title": "වඩා හොඳ කුමක්ද? ආටා පිටිද? පාන් පිටිද?දියවැඩියාව තියනවනම් මේ වගේ කන්න! - PPBS- 104 mg/dl | Type 02",
+                "url": "https://youtube.com/watch?v=xSg94alXxXA",
+                "duration": "9:25",
+                "thumbnail": "https://i.ytimg.com/vi/xSg94alXxXA/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට හා බෙටි වගේ කොස් කොල බෝල diabetes",
+                "url": "https://youtube.com/watch?v=39Bpn0idPOA",
+                "duration": "1:40",
+                "thumbnail": "https://i.ytimg.com/vi/39Bpn0idPOA/hq720.jpg"
+            },
+            {
+                "title": "ගැස්ට්‍රයිටිස් අවම කරන රස ඔසුව දිය බත් | Diya Bath For Curing Gastritis | Healthy Food Guide",
+                "url": "https://youtube.com/watch?v=4Tp8wp93NnA",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/4Tp8wp93NnA/hq720.jpg"
+            },
+            {
+                "title": "හෙණයක් නැතුව ඇගේ ලේ වඩවන ලංකාවේ සුපිරිම ආහාර 20 මෙන්න! ඔබත් අදම කන්න",
+                "url": "https://youtube.com/watch?v=A1zHQz1RKIs",
+                "duration": "8:51",
+                "thumbnail": "https://i.ytimg.com/vi/A1zHQz1RKIs/hq720.jpg"
+            },
+            {
+                "title": "\"දියවැඩියා රෝගීන්ගෙන් 50%ක් බෙහෙත් ගන්නේ නෑ මෑත ඉතිහාසයේ මෙහෙම රටක් තිබුණද?\" - Hiru News",
+                "url": "https://youtube.com/watch?v=fXi65JJKPg8",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/fXi65JJKPg8/hq720.jpg"
+            },
+            {
+                "title": "ගොඩක් අය දැකලා නැති, හිතන්නෙත් නැති මේක ජරාවක් නෙවෙයි දිව්‍ය ඖශධයක්.",
+                "url": "https://youtube.com/watch?v=48XCxpkW4fQ",
+                "duration": "0:54",
+                "thumbnail": "https://i.ytimg.com/vi/48XCxpkW4fQ/hq720.jpg"
+            },
+            {
+                "title": "රට තුළ තිබෙන ඖෂධ ගැන හෙළිවූ දේ... \"කොයි මොහොතේ පුපුරයි ද දන්නෑ\"",
+                "url": "https://youtube.com/watch?v=nT4EcUvSjJY",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/nT4EcUvSjJY/hq720.jpg"
+            },
+            {
+                "title": "දිව ඔසුවක් බඳු ප්‍රතිශක්තිය වර්ධනය කරවන පෞරාණික ඖෂධ වට්ටෝරුවක්",
+                "url": "https://youtube.com/watch?v=Yj_cSC5dXnw",
+                "duration": "2:05",
+                "thumbnail": "https://i.ytimg.com/vi/Yj_cSC5dXnw/hq720.jpg"
+            },
+            {
+                "title": "ඔබට දියවැඩියාව ඇතිබව පෙන්වන රෝග ලක්ෂණ 🙄😱 #sinhala #diabetes #SL_medic #doctor_colambage",
+                "url": "https://youtube.com/watch?v=KEc_xxH68AE",
+                "duration": "0:29",
+                "thumbnail": "https://i.ytimg.com/vi/KEc_xxH68AE/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද ඖෂධ නිෂ්පාදන ක්‍රියාවලිය සිදුවෙන ආකාරය",
+                "url": "https://youtube.com/watch?v=iyVdN4_TNUg",
+                "duration": "4:48",
+                "thumbnail": "https://i.ytimg.com/vi/iyVdN4_TNUg/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද ඖෂධ වෙනුවෙන් ජනතාව මේ වෙද්දි දැඩි නැඹුරුවක් වෙලාද?",
+                "url": "https://youtube.com/watch?v=E57hlDis1Ow",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/E57hlDis1Ow/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "දියබත් වල ගුණ  /ගැස්ට්‍රයිටිස් පාලනය / දියබත් / අඩු වියදම් ආහාර / වැඩිම පෝෂණය / easybreakfastrecipe",
+                "url": "https://youtube.com/watch?v=UgANDW4OH7U",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/UgANDW4OH7U/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "ටක්ගාල සීනි බහින බලගතු දේශීය ඔසු වර්ග",
+                "url": "https://youtube.com/watch?v=_CmMhC5MYZ4",
+                "duration": "3:40",
+                "thumbnail": "https://i.ytimg.com/vi/_CmMhC5MYZ4/hq720.jpg"
+            },
+            {
+                "title": "ජීවිතය ජීවත් කරවන අමරස ඖෂධයක් | දියවැඩියාව කොලෙස්ටරෝල් වලට මාස 3 එක දිගට බොන්න  | හීං බෝවිටියා කැඳ",
+                "url": "https://youtube.com/watch?v=o0YbAVei1Pk",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/o0YbAVei1Pk/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව අඩු කර ගන්නත් දියවැඩියාව නොහැදී බේරෙන්නත් තියන අමෘත පානය | home remedy for diabetes",
+                "url": "https://youtube.com/watch?v=tTsSIEW7w1Q",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/tTsSIEW7w1Q/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "DNA වල කර්ම ශක්තිය ගබඩා වෙනවාද? | DNA Store Karmic Data?",
+                "url": "https://youtube.com/watch?v=A0VLvkHmXZc",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/A0VLvkHmXZc/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "3 වසර | පරිසරය | ගෙවත්තක දැකිය හැකි අංග",
+                "url": "https://youtube.com/watch?v=QLWs6ILn04A",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/QLWs6ILn04A/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "දඬු මඟින් සිටුවන ශාක වර්ග/#education#educational#trees#video#foryou#primaryTV @IshaniMS96",
+                "url": "https://youtube.com/watch?v=KwhNia8Z6II",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/KwhNia8Z6II/hq720.jpg"
+            },
+            {
+                "title": "දිවේ තියෙන ප්‍රයෝජන මොනවද ඇහුවම 😅 | Dinesh Muthugala | #dineshmuthugala #muthugalasir",
+                "url": "https://youtube.com/watch?v=gxIz5uGbr7g",
+                "duration": "6:23",
+                "thumbnail": "https://i.ytimg.com/vi/gxIz5uGbr7g/hqdefault.jpg"
+            },
+            {
+                "title": "🟢ශ්‍රියා කාන්තාව නිවසට වඩිනවා මේ පැලයක් තිබුනොත්! ධනයට අධිපති. මේ මල් පැල අදම නිවසේ සිටවන්න",
+                "url": "https://youtube.com/watch?v=b1donRkxg3o",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/b1donRkxg3o/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "9 Benefits Of Cilantro You Should Know! | Health Benefits Of Cilantro",
+                "url": "https://youtube.com/watch?v=jlaelYqV94o",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/jlaelYqV94o/hq720.jpg"
+            },
+            {
+                "title": "Plant Benefits - Daily Do's of Dermatology",
+                "url": "https://youtube.com/watch?v=AJKUUEKaCDU",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/AJKUUEKaCDU/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Postpartum Flatulence",
-      "sinhala": "ප්‍රසවයෙන් පසු ඇතිවන බඩ පිපුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark",
-    "Leaves",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "1955",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/RTLChN7B/plant00244-01955.jpg"
-    },
-    {
-      "image_id": "1956",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/ZR4M2S42/plant00244-01956.jpg"
-    },
-    {
-      "image_id": "1957",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/m54yQrtv/plant00244-01957.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,77 +1,106 @@
 {
-  "scientificName": "Hibiscus vitifolius L.",
-  "synonyms": [
-    "Abelmoschus vitifolius (L.) Hassk.",
-    "Abelmoschus vitifolius var. mollis Hassk.",
-    "Fioria vitifolia (L.) Mattei",
-    "Hibiscus cuspidatus Edgew.",
-    "Hibiscus heterotrichus DC.",
-    "Hibiscus jatrophifolius A.Rich.",
-    "Hibiscus lepidospermus Miq.",
-    "Hibiscus modaticus Hochst. ex A.Rich.",
-    "Hibiscus natalitus Harv.",
-    "Hibiscus obscurus A.Rich.",
-    "Hibiscus obtusifolius Willd.",
-    "Hibiscus ricinifolius E.Mey. ex Harv.",
-    "Hibiscus ricinoides Garcke",
-    "Hibiscus serratus Wall.",
-    "Hibiscus strigosus Schumach. & Thonn.",
-    "Hibiscus suaresensis Baill.",
-    "Hibiscus truncatus Roxb.",
-    "Hibiscus vitifolius f. americana Hochr.",
-    "Hibiscus vitifolius f. zeylanicus Hochr.",
-    "Hibiscus vitifolius subsp. vulgaris Brenan & Exell",
-    "Hibiscus vitifolius var. adhaerens Ulbr.",
-    "Hibiscus vitifolius var. genuinus Hochr.",
-    "Hibiscus vitifolius var. heterotrichus (DC.) Hochr.",
-    "Hibiscus vitifolius var. ricinifolius Hochr.",
-    "Kosteletzkya vitifolia (L.) M.R.Almeida & N.Patil"
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Grape Leaved Mallow",
-    "Tropical Fanleaf",
-    "Five-winged Capsule Rose-mallow",
-    "Tropical Rose Mallow"
-  ],
-  "sinhalaName": "Maha epala (මහ ඇපල)",
-  "description": "පඳුරක් හෝ බහුවාර්ෂික පැළෑටියක්, උස මීටර් 0.5 - 1.5 ක් හෝ ඊට වැඩි, කෙලින් වැඩෙන, හොඳින් අතු බෙදුණු ශාකයකි. පත්‍ර: පත්‍ර තලය සෙන්ටිමීටර 3 - 6.5 X 3 - 6.6 ක් වන අතර, දළ වශයෙන් වෘත්තාකාර (suborbicular) හැඩයක් ගනී. පත්‍ර තරමක් නොගැඹුරු ලෙස හෝ කලාතුරකින් ගැඹුරට අත්ලක හැඩයට (palmately) 3 - 5 ක් ලෙස බෙදී පවතී, කලාතුරකින් සරල පත්‍ර ලෙස පවතී. පත්‍ර පාදය තරමක් හෘදයාකාර (shallowly cordate) වන අතර, පත්‍ර ඛණ්ඩ උල් වූ හෝ මොට වූ (acute to obtuse) අග්‍ර සහිතය, දාරය කියතක දත් මෙන් (serrate-dentate) වේ. පත්‍ර මතුපිට තරමක් රෝම රහිත (subglabrous) වන අතර තරු හැඩැති ග්‍රන්ථිමය රෝම (stellate glandular hairs) ස්වල්පයක් දක්නට ලැබේ. මල් තනිව පිහිටයි, පත්‍ර කක්ෂවල (axillary) හෝ ඉහළ පත්‍ර කුඩා වීම නිසා අග්‍රස්ථ මල් පොකුරු (terminally racemose) ලෙස පිහිටයි, මල් කහ පැහැති වන අතර මධ්‍යය තද දම් හෝ තද රතු පැහැයක් ගනී. කරල් ගෙඩිය (capsule) පැතලි ගෝලාකාර (depressed globose) හැඩයක් ගනී, හොටක් වැනි කොටසක් සහිතය, නොගැඹුරු පියාපත් සහිතය, පැහැදිලිව පෙනෙන පාර්ශ්වීය සහ දැල් වැනි නහර (reticulately vined) සහිතය, ලා කහ පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Pediculosis Capitis",
-      "sinhala": "හිසේ උකුණන් බෝවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "2438",
-      "caption": "Flower 1 (PMR)",
-      "url": "https://i.ibb.co/v4BBnNcQ/plant00787-02438.jpg"
+    "scientificName": "Hibiscus vitifolius L.",
+    "synonyms": [
+        "Abelmoschus vitifolius (L.) Hassk.",
+        "Abelmoschus vitifolius var. mollis Hassk.",
+        "Fioria vitifolia (L.) Mattei",
+        "Hibiscus cuspidatus Edgew.",
+        "Hibiscus heterotrichus DC.",
+        "Hibiscus jatrophifolius A.Rich.",
+        "Hibiscus lepidospermus Miq.",
+        "Hibiscus modaticus Hochst. ex A.Rich.",
+        "Hibiscus natalitus Harv.",
+        "Hibiscus obscurus A.Rich.",
+        "Hibiscus obtusifolius Willd.",
+        "Hibiscus ricinifolius E.Mey. ex Harv.",
+        "Hibiscus ricinoides Garcke",
+        "Hibiscus serratus Wall.",
+        "Hibiscus strigosus Schumach. & Thonn.",
+        "Hibiscus suaresensis Baill.",
+        "Hibiscus truncatus Roxb.",
+        "Hibiscus vitifolius f. americana Hochr.",
+        "Hibiscus vitifolius f. zeylanicus Hochr.",
+        "Hibiscus vitifolius subsp. vulgaris Brenan & Exell",
+        "Hibiscus vitifolius var. adhaerens Ulbr.",
+        "Hibiscus vitifolius var. genuinus Hochr.",
+        "Hibiscus vitifolius var. heterotrichus (DC.) Hochr.",
+        "Hibiscus vitifolius var. ricinifolius Hochr.",
+        "Kosteletzkya vitifolia (L.) M.R.Almeida & N.Patil"
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Grape Leaved Mallow",
+        "Tropical Fanleaf",
+        "Five-winged Capsule Rose-mallow",
+        "Tropical Rose Mallow"
+    ],
+    "sinhalaName": "Maha epala (මහ ඇපල)",
+    "description": "පඳුරක් හෝ බහුවාර්ෂික පැළෑටියක්, උස මීටර් 0.5 - 1.5 ක් හෝ ඊට වැඩි, කෙලින් වැඩෙන, හොඳින් අතු බෙදුණු ශාකයකි. පත්‍ර: පත්‍ර තලය සෙන්ටිමීටර 3 - 6.5 X 3 - 6.6 ක් වන අතර, දළ වශයෙන් වෘත්තාකාර (suborbicular) හැඩයක් ගනී. පත්‍ර තරමක් නොගැඹුරු ලෙස හෝ කලාතුරකින් ගැඹුරට අත්ලක හැඩයට (palmately) 3 - 5 ක් ලෙස බෙදී පවතී, කලාතුරකින් සරල පත්‍ර ලෙස පවතී. පත්‍ර පාදය තරමක් හෘදයාකාර (shallowly cordate) වන අතර, පත්‍ර ඛණ්ඩ උල් වූ හෝ මොට වූ (acute to obtuse) අග්‍ර සහිතය, දාරය කියතක දත් මෙන් (serrate-dentate) වේ. පත්‍ර මතුපිට තරමක් රෝම රහිත (subglabrous) වන අතර තරු හැඩැති ග්‍රන්ථිමය රෝම (stellate glandular hairs) ස්වල්පයක් දක්නට ලැබේ. මල් තනිව පිහිටයි, පත්‍ර කක්ෂවල (axillary) හෝ ඉහළ පත්‍ර කුඩා වීම නිසා අග්‍රස්ථ මල් පොකුරු (terminally racemose) ලෙස පිහිටයි, මල් කහ පැහැති වන අතර මධ්‍යය තද දම් හෝ තද රතු පැහැයක් ගනී. කරල් ගෙඩිය (capsule) පැතලි ගෝලාකාර (depressed globose) හැඩයක් ගනී, හොටක් වැනි කොටසක් සහිතය, නොගැඹුරු පියාපත් සහිතය, පැහැදිලිව පෙනෙන පාර්ශ්වීය සහ දැල් වැනි නහර (reticulately vined) සහිතය, ලා කහ පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Pediculosis Capitis",
+            "sinhala": "හිසේ උකුණන් බෝවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "2438",
+            "caption": "Flower 1 (PMR)",
+            "url": "https://i.ibb.co/v4BBnNcQ/plant00787-02438.jpg"
+        },
+        {
+            "image_id": "2439",
+            "caption": "Flower 2 (PMR)",
+            "url": "https://i.ibb.co/4nYC7B9K/plant00787-02439.jpg"
+        },
+        {
+            "image_id": "2440",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/yB88Rzmc/plant00787-02440.jpg"
+        },
+        {
+            "image_id": "2441",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/jPNF7vzf/plant00787-02441.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඇපල ගහ/urena labata/ඇපල් නෙවෙයි මේ ගහ ඇපල/apala/malwecea/biodiversity;හින් ඇපල/heen epala",
+                "url": "https://youtube.com/watch?v=pDNS9qI1UJ4",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/pDNS9qI1UJ4/hqdefault.jpg"
+            },
+            {
+                "title": "ඕනම තැනක වැවෙන ලංකාවේ ඇපල් මෙන්න",
+                "url": "https://youtube.com/watch?v=LoZRyIiVB_Q",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/LoZRyIiVB_Q/hqdefault.jpg"
+            },
+            {
+                "title": "විශ්මිත ඖෂධීය ගුණ සහිත ඇපල් | Apples health benefits in sinhala #mammypages #sinhala #apple #health",
+                "url": "https://youtube.com/watch?v=4iBIN0pGE8k",
+                "duration": "2:05",
+                "thumbnail": "https://i.ytimg.com/vi/4iBIN0pGE8k/hq720.jpg"
+            },
+            {
+                "title": "ගොඩක් දෙනා දන්නම ශාකයක් තමයි මේක, භාවිතත් තියෙනවා | ඇපල",
+                "url": "https://youtube.com/watch?v=A0jxhPWz48I",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/A0jxhPWz48I/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "2439",
-      "caption": "Flower 2 (PMR)",
-      "url": "https://i.ibb.co/4nYC7B9K/plant00787-02439.jpg"
-    },
-    {
-      "image_id": "2440",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/yB88Rzmc/plant00787-02440.jpg"
-    },
-    {
-      "image_id": "2441",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/jPNF7vzf/plant00787-02441.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

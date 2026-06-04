@@ -1,148 +1,231 @@
 {
-  "scientificName": "Pupalia lappacea (L.) Juss.",
-  "synonyms": [
-    "Achyranthes atropurpurea Lam.",
-    "Achyranthes echinata Retz.",
-    "Achyranthes lappacea L.",
-    "Achyranthes patula L.f.",
-    "Achyranthes scandens Thonn. ex Moq.",
-    "Achyranthes styracifolia Lam.",
-    "Amaranthus arctioideus Perr. ex Moq.",
-    "Cadelari lappacea (L.) Medik.",
-    "Celosia lappacea (L.) Medik.",
-    "Codivalia lappacea (L.) Raf.",
-    "Codivalia patula (L.f.) Raf.",
-    "Desmochaeta atropurpurea DC.",
-    "Desmochaeta flavescens DC.",
-    "Desmochaeta lappacea (L.) Griff.",
-    "Desmochaeta patula (L.f.) Schult.",
-    "Desmochaeta sanguinolenta Link",
-    "Desmochaeta xanthioides A.Braun",
-    "Kommia hamulosa Ehrenb. ex Schweinf.",
-    "Pupalia atropurpurea Moq.",
-    "Pupalia echinata Juss. ex Steud.",
-    "Pupalia patula Juss. ex Steud.",
-    "Pupalia styracifolia Juss. ex Steud.",
-    "Syama lata Dillwyn"
-  ],
-  "familyName": "AMARANTHACEAE",
-  "englishNames": [
-    "Forest Burr",
-    "Creeping Cock's Comb"
-  ],
-  "sinhalaName": "Wel karalheba (වැල් කරල්හැබ)",
-  "description": "වාර්ෂික හෝ බහුවාර්ෂික පැළෑටියක් වන අතර, තරමක් කෙලින් වැඩේ. පත්‍රවල හැඩය සහ ප්‍රමාණය විවිධ වේ; පටු ඕවලාකාර-ඉලිප්සාකාර (ovate-elliptic) සිට ආයත (oblong) හෝ වෘත්තාකාර (orbicular) හැඩ දක්වා පවතී. ප්‍රමාණය සෙන්ටිමීටර 2 - 10 (-14) X 1 - 5 (-7) වේ. පත්‍ර අග්‍රය උල් වූ (acuminate) සිට මොට-තුඩු සහිත (obtuse-apiculate) හෝ මඳක් ඇතුලට නැමුණු (retuse) හැඩයක් ගනී. පත්‍ර පාදය කෙටි හෝ දිගු කූඤ්ඤාකාර (cuneate) හැඩයක් ගෙන පත්‍ර වෘන්තයක් දක්වා පටු වේ. පුෂ්ප මංජරිය මුලදී තරමක් ඝන වුවද, ඵල හටගන්නා විට මීටර් 0.5ක් දක්වා දිගු වන අතර පහළ මල් එකිනෙකින් ඈත් වේ. කරල් (capsule) ඕවලාකාර (ovoid) වේ. බීජ ආයත-ඕවලාකාර (oblong-ovoid) හැඩැති වන අතර කැපී පෙනෙන මූලිකයක් (radicle) ඇත. බීජ තද දුඹුරු පැහැයෙන් යුක්තව දිලිසෙන සුළුය. බීජාවරණය (testa) මුලදී සියුම් දැල් රටාවක් (reticulate) පෙන්වුවද, අවසානයේදී සිනිඳු හෝ තිත් සහිත (punctulate) වේ.",
-  "treatments": [
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Pupalia lappacea (L.) Juss.",
+    "synonyms": [
+        "Achyranthes atropurpurea Lam.",
+        "Achyranthes echinata Retz.",
+        "Achyranthes lappacea L.",
+        "Achyranthes patula L.f.",
+        "Achyranthes scandens Thonn. ex Moq.",
+        "Achyranthes styracifolia Lam.",
+        "Amaranthus arctioideus Perr. ex Moq.",
+        "Cadelari lappacea (L.) Medik.",
+        "Celosia lappacea (L.) Medik.",
+        "Codivalia lappacea (L.) Raf.",
+        "Codivalia patula (L.f.) Raf.",
+        "Desmochaeta atropurpurea DC.",
+        "Desmochaeta flavescens DC.",
+        "Desmochaeta lappacea (L.) Griff.",
+        "Desmochaeta patula (L.f.) Schult.",
+        "Desmochaeta sanguinolenta Link",
+        "Desmochaeta xanthioides A.Braun",
+        "Kommia hamulosa Ehrenb. ex Schweinf.",
+        "Pupalia atropurpurea Moq.",
+        "Pupalia echinata Juss. ex Steud.",
+        "Pupalia patula Juss. ex Steud.",
+        "Pupalia styracifolia Juss. ex Steud.",
+        "Syama lata Dillwyn"
+    ],
+    "familyName": "AMARANTHACEAE",
+    "englishNames": [
+        "Forest Burr",
+        "Creeping Cock's Comb"
+    ],
+    "sinhalaName": "Wel karalheba (වැල් කරල්හැබ)",
+    "description": "වාර්ෂික හෝ බහුවාර්ෂික පැළෑටියක් වන අතර, තරමක් කෙලින් වැඩේ. පත්‍රවල හැඩය සහ ප්‍රමාණය විවිධ වේ; පටු ඕවලාකාර-ඉලිප්සාකාර (ovate-elliptic) සිට ආයත (oblong) හෝ වෘත්තාකාර (orbicular) හැඩ දක්වා පවතී. ප්‍රමාණය සෙන්ටිමීටර 2 - 10 (-14) X 1 - 5 (-7) වේ. පත්‍ර අග්‍රය උල් වූ (acuminate) සිට මොට-තුඩු සහිත (obtuse-apiculate) හෝ මඳක් ඇතුලට නැමුණු (retuse) හැඩයක් ගනී. පත්‍ර පාදය කෙටි හෝ දිගු කූඤ්ඤාකාර (cuneate) හැඩයක් ගෙන පත්‍ර වෘන්තයක් දක්වා පටු වේ. පුෂ්ප මංජරිය මුලදී තරමක් ඝන වුවද, ඵල හටගන්නා විට මීටර් 0.5ක් දක්වා දිගු වන අතර පහළ මල් එකිනෙකින් ඈත් වේ. කරල් (capsule) ඕවලාකාර (ovoid) වේ. බීජ ආයත-ඕවලාකාර (oblong-ovoid) හැඩැති වන අතර කැපී පෙනෙන මූලිකයක් (radicle) ඇත. බීජ තද දුඹුරු පැහැයෙන් යුක්තව දිලිසෙන සුළුය. බීජාවරණය (testa) මුලදී සියුම් දැල් රටාවක් (reticulate) පෙන්වුවද, අවසානයේදී සිනිඳු හෝ තිත් සහිත (punctulate) වේ.",
+    "treatments": [
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Venomous stings,bites",
+            "sinhala": "විෂ සහිත දෂ්ට කිරීම් හා සපාකෑම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nasopharyngeal Disorders",
+            "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Mucosal Disorders",
+            "sinhala": "ශ්ලේෂ්මල පටල ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Venereal Disease",
+            "sinhala": "ලිංගික රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant"
+    ],
+    "images": [
+        {
+            "image_id": "2835",
+            "caption": "Inflorescence  (PMR)",
+            "url": "https://i.ibb.co/JR4rqPD5/plant00049-02835.jpg"
+        },
+        {
+            "image_id": "2836",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/MDXQR8Ct/plant00049-02836.jpg"
+        },
+        {
+            "image_id": "2837",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/XkzGxHVB/plant00049-02837.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කරල් සැබෝ|කරල් හැබ|ගස් කරල් හැබ|රත් කරල් හැබ|karal heba|sinhala|2022",
+                "url": "https://youtube.com/watch?v=mqhI4CIigqw",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/mqhI4CIigqw/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගය ට ගන්නා රත් කරල් හැබ (සැබෝ ) රත් කරල් සැබෝ",
+                "url": "https://youtube.com/watch?v=UIsIlz3EsJk",
+                "duration": "1:24",
+                "thumbnail": "https://i.ytimg.com/vi/UIsIlz3EsJk/hqdefault.jpg"
+            },
+            {
+                "title": "කරල් සැබෝ - Karal Shebo",
+                "url": "https://youtube.com/watch?v=mlcoEmDZoVY",
+                "duration": "4:19",
+                "thumbnail": "https://i.ytimg.com/vi/mlcoEmDZoVY/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගීන්ට කියාපු ඖෂධ පානය මෙය පානය කරන්න/කරල් සෑබො/පඩ වැල්",
+                "url": "https://youtube.com/watch?v=z287Xig8IxM",
+                "duration": "6:44",
+                "thumbnail": "https://i.ytimg.com/vi/z287Xig8IxM/hq720.jpg"
+            },
+            {
+                "title": "ආමාශගත රෝගවලට ගුණ දෙන \"කරල් හැබ\" | Achyranthes aspera | Episode 32",
+                "url": "https://youtube.com/watch?v=nZcouWu9Xjw",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/nZcouWu9Xjw/hq720.jpg"
+            },
+            {
+                "title": "උෂ්ණය අවම කර දරු පල ලගා කර දෙන කැලේ හැදෙන වැල් . උදර,අක්මා වකුගඩු රෝග  ඔසුව",
+                "url": "https://youtube.com/watch?v=cIJk9SkEygA",
+                "duration": "6:25",
+                "thumbnail": "https://i.ytimg.com/vi/cIJk9SkEygA/hqdefault.jpg"
+            },
+            {
+                "title": "කරල් හැබ Rough chaff tree, Prickly chaff flower",
+                "url": "https://youtube.com/watch?v=W5PTLIP5LMY",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/W5PTLIP5LMY/hqdefault.jpg"
+            },
+            {
+                "title": "karal haba ,කරල් හැබ පලා වර්ගය",
+                "url": "https://youtube.com/watch?v=iY1EP6FiF0M",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/iY1EP6FiF0M/hq720.jpg"
+            },
+            {
+                "title": "ශල්‍යකර්ම එපා! ලේ යන අර්ශස් දින කිහිපයකින් මුලින්ම උපුටා දමන කරල්හැබ අත්දුටු ප්‍රතිකාරය 💯",
+                "url": "https://youtube.com/watch?v=0gGDlg25SnY",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/0gGDlg25SnY/hq720.jpg"
+            },
+            {
+                "title": "අර්සස් සියලුම රෝග නසා ලන කරල් සැබෝ| roga/nasalana/ ashyranthes aspera",
+                "url": "https://youtube.com/watch?v=5B2IryOgGuQ",
+                "duration": "8:04",
+                "thumbnail": "https://i.ytimg.com/vi/5B2IryOgGuQ/hq720.jpg"
+            },
+            {
+                "title": "achyranthes aspera medicinal used/කරල් සෙපො/#newtop @new top",
+                "url": "https://youtube.com/watch?v=qvDD9Y_26kE",
+                "duration": "7:14",
+                "thumbnail": "https://i.ytimg.com/vi/qvDD9Y_26kE/hq720.jpg"
+            },
+            {
+                "title": "Kapparawalliya & Rath Karal Haba කප්පරවල්ලිය සහ රත් කරල් හැබ නිවැරිදිව හදුනාගමු/Medicinal Plants",
+                "url": "https://youtube.com/watch?v=hZIbTFyTIkc",
+                "duration": "9:18",
+                "thumbnail": "https://i.ytimg.com/vi/hZIbTFyTIkc/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් ඇතූළු ඕනෑම රෝගයකට ගුණදායක ඖෂධීය කරල් සැබො කැද",
+                "url": "https://youtube.com/watch?v=RWFvpHGkyko",
+                "duration": "8:07",
+                "thumbnail": "https://i.ytimg.com/vi/RWFvpHGkyko/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Venomous stings,bites",
-      "sinhala": "විෂ සහිත දෂ්ට කිරීම් හා සපාකෑම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nasopharyngeal Disorders",
-      "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Mucosal Disorders",
-      "sinhala": "ශ්ලේෂ්මල පටල ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Venereal Disease",
-      "sinhala": "ලිංගික රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant"
-  ],
-  "images": [
-    {
-      "image_id": "2835",
-      "caption": "Inflorescence  (PMR)",
-      "url": "https://i.ibb.co/JR4rqPD5/plant00049-02835.jpg"
-    },
-    {
-      "image_id": "2836",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/MDXQR8Ct/plant00049-02836.jpg"
-    },
-    {
-      "image_id": "2837",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/XkzGxHVB/plant00049-02837.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,211 +1,276 @@
 {
-  "scientificName": "Abutilon guineense (Schumach.) Baker f. & Exell",
-  "synonyms": [
-    "Abutilon agnesiae Borzí",
-    "Abutilon asperifolium Ulbr.",
-    "Abutilon blepharocarpum Mattei",
-    "Abutilon densevillosum Mattei",
-    "Abutilon indicum subsp. guineense (Schumach.) Borss.Waalk.",
-    "Abutilon indicum var. guineense (Schumach.) K.M.Feng",
-    "Abutilon taiwanense S.Y.Hu",
-    "Sida guineensis Schumach."
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Country Mallow",
-    "India Abutilon",
-    "Monkey Bush"
-  ],
-  "sinhalaName": "Beheth anoda (බෙහෙත් අනෝදා )",
-  "description": "දැවමය පැළෑටියක් හෝ උප පඳුරක් (subshrub), කෙලින් වැඩෙන, මීටර් 0.3-0.5(2)ක් උස, ඝනව රෝම සහිතයි (densely pubescent). පත්‍ර සෙන්ටිමීටර 2.5-5 x 2-5, පාදය හෘදයාකාරයි (cordate), පත්‍ර දාරය කියත් දත් සහිතයි (serrate-dentate); පත්‍ර වෘන්තය සෙන්ටිමීටර 0.5-5(-12.5)ක් දිගයි; උප පත්‍ර (stipules) මිලිමීටර 2-3ක් දිගයි. මල් තනිව පිහිටයි, පත්‍ර කක්ෂීයයි (axillary), විෂ්කම්භය සෙන්ටිමීටර 3ක් දක්වා වේ, ලෝම සහිතයි (tomentose); මල් කිරීටය (corolla) කහ සිට තැඹිලි-කහ පැහැතිය, දම් පැහැති මධ්‍යයක් නොමැත. මෙරිකාප (mericarps) 15-20ක් ඇත, සුදු පැහැති රෝම සහිතයි. බීජ 15-20ක් පමණ ඇත, විෂ්කම්භය මිලිමීටර 1-1.5කි.",
-  "treatments": [
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Abutilon guineense (Schumach.) Baker f. & Exell",
+    "synonyms": [
+        "Abutilon agnesiae Borzí",
+        "Abutilon asperifolium Ulbr.",
+        "Abutilon blepharocarpum Mattei",
+        "Abutilon densevillosum Mattei",
+        "Abutilon indicum subsp. guineense (Schumach.) Borss.Waalk.",
+        "Abutilon indicum var. guineense (Schumach.) K.M.Feng",
+        "Abutilon taiwanense S.Y.Hu",
+        "Sida guineensis Schumach."
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Country Mallow",
+        "India Abutilon",
+        "Monkey Bush"
+    ],
+    "sinhalaName": "Beheth anoda (බෙහෙත් අනෝදා )",
+    "description": "දැවමය පැළෑටියක් හෝ උප පඳුරක් (subshrub), කෙලින් වැඩෙන, මීටර් 0.3-0.5(2)ක් උස, ඝනව රෝම සහිතයි (densely pubescent). පත්‍ර සෙන්ටිමීටර 2.5-5 x 2-5, පාදය හෘදයාකාරයි (cordate), පත්‍ර දාරය කියත් දත් සහිතයි (serrate-dentate); පත්‍ර වෘන්තය සෙන්ටිමීටර 0.5-5(-12.5)ක් දිගයි; උප පත්‍ර (stipules) මිලිමීටර 2-3ක් දිගයි. මල් තනිව පිහිටයි, පත්‍ර කක්ෂීයයි (axillary), විෂ්කම්භය සෙන්ටිමීටර 3ක් දක්වා වේ, ලෝම සහිතයි (tomentose); මල් කිරීටය (corolla) කහ සිට තැඹිලි-කහ පැහැතිය, දම් පැහැති මධ්‍යයක් නොමැත. මෙරිකාප (mericarps) 15-20ක් ඇත, සුදු පැහැති රෝම සහිතයි. බීජ 15-20ක් පමණ ඇත, විෂ්කම්භය මිලිමීටර 1-1.5කි.",
+    "treatments": [
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Strangury",
+            "sinhala": "මුත්‍රා බිංදු බිංදු පිටවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hematuria",
+            "sinhala": "මුත්‍රා සමඟ රුධිරය පිටවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Leprosy",
+            "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bleeding Hemorrhoids",
+            "sinhala": "ලේ අර්ශස්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Bilious Diarrhea",
+            "sinhala": "පිත් අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Cystitis",
+            "sinhala": "මුත්‍රාශ ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Toothache",
+            "sinhala": "දත් කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gum Diseases",
+            "sinhala": "විදුරුමස් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Puerperal Disorders",
+            "sinhala": "සූතිකා රෝග (වැදූ ගෙයි රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Disorders",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Chronic Dysentery",
+            "sinhala": "නිදන්ගත ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Vaginal Infections",
+            "sinhala": "යෝනි මාර්ගයේ ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Roots",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "358",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/HTh9Vdxn/plant00780-00358.jpg"
+        },
+        {
+            "image_id": "359",
+            "caption": "Flower and Fruit",
+            "url": "https://i.ibb.co/przxs9WB/plant00780-00359.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "බෙහෙත් අනෝදා || Beheth anoda || Abutilon indicum (11)",
+                "url": "https://youtube.com/watch?v=Uoy3twwvPqM",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/Uoy3twwvPqM/hqdefault.jpg"
+            },
+            {
+                "title": "බෙහෙත් අනෝදාා beheth anoda",
+                "url": "https://youtube.com/watch?v=7nJ_S8w8WSY",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/7nJ_S8w8WSY/hqdefault.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ දෙන බෙහෙත් අනෝදා | Beheth Anodha | Ath Beheth | story eka",
+                "url": "https://youtube.com/watch?v=9JbhEMatFFY",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/9JbhEMatFFY/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙත් අනෝදා | අර්ශස්, දත් කැක්කුම් ආදී රෝග රැසකට ගුණ බෙහෙත් අනෝදා - Beheth Anoda Plant Sinhala",
+                "url": "https://youtube.com/watch?v=MVQmVTdLHO4",
+                "duration": "5:35",
+                "thumbnail": "https://i.ytimg.com/vi/MVQmVTdLHO4/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙත් අනෝදා Beheth anooda වල ඖෂධීය ගුණ 😱😱😱",
+                "url": "https://youtube.com/watch?v=_7W3Xx-rxiE",
+                "duration": "5:25",
+                "thumbnail": "https://i.ytimg.com/vi/_7W3Xx-rxiE/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් වලින් මිදෙන්නට ගුණ දෙන බෙහෙත් අනෝදා",
+                "url": "https://youtube.com/watch?v=kWJS04LmU1k",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/kWJS04LmU1k/hq720.jpg"
+            },
+            {
+                "title": "pilestreatment plant බෙහෙත් අනෝදා,වල් අනෝදා, wal anoda Abutilon indicum....",
+                "url": "https://youtube.com/watch?v=i0qTI50hYxE",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/i0qTI50hYxE/hqdefault.jpg"
+            },
+            {
+                "title": "මහ බැබිල නොහොත් වල් අනෝදා | Abutilon indicum | beheth Anoda🌿♻",
+                "url": "https://youtube.com/watch?v=eoysz_MVz6A",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/eoysz_MVz6A/hqdefault.jpg"
+            },
+            {
+                "title": "බෙහෙත් අනෝදා, වල් අනෝදා , #nature #medicinalherbs #gardenherbs #education",
+                "url": "https://youtube.com/watch?v=gGziLOrgIhU",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/gGziLOrgIhU/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධයක් හැටියටත් භාවිත කරන අනෝදා, රෝග නාශක ගුණයෙන්ද යුතුයි.",
+                "url": "https://youtube.com/watch?v=eue97skOi1w",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/eue97skOi1w/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Strangury",
-      "sinhala": "මුත්‍රා බිංදු බිංදු පිටවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hematuria",
-      "sinhala": "මුත්‍රා සමඟ රුධිරය පිටවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Leprosy",
-      "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Bleeding Hemorrhoids",
-      "sinhala": "ලේ අර්ශස්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Bilious Diarrhea",
-      "sinhala": "පිත් අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Cystitis",
-      "sinhala": "මුත්‍රාශ ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Toothache",
-      "sinhala": "දත් කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gum Diseases",
-      "sinhala": "විදුරුමස් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Puerperal Disorders",
-      "sinhala": "සූතිකා රෝග (වැදූ ගෙයි රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Urinary Tract Disorders",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Chronic Dysentery",
-      "sinhala": "නිදන්ගත ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Vaginal Infections",
-      "sinhala": "යෝනි මාර්ගයේ ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Roots",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "358",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/HTh9Vdxn/plant00780-00358.jpg"
-    },
-    {
-      "image_id": "359",
-      "caption": "Flower and Fruit",
-      "url": "https://i.ibb.co/przxs9WB/plant00780-00359.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

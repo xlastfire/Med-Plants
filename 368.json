@@ -1,174 +1,263 @@
 {
-  "scientificName": "Luffa acutangula (L.) Roxb.",
-  "synonyms": [
-    "Cucumis acutangulus L.",
-    "Cucumis lineatus Bosc",
-    "Cucumis megacarpus G.Don",
-    "Cucumis operculatus Roxb. ex Wight & Arn.",
-    "Cucurbita acutangula (L.) Blume",
-    "Cucurbita campanulata D.Dietr.",
-    "Cucurbita umbellata J.G.Klein ex Willd.",
-    "Luffa acutangula f. amara (Roxb.) W.J.de Wilde & Duyfjes",
-    "Luffa acutangula var. amara (Roxb.) C.B.Clarke",
-    "Luffa acutangula var. forskalii (Schweinf. ex Harms) Heiser & E.E.Schill.",
-    "Luffa amara Roxb.",
-    "Luffa cattu-picinna Ser.",
-    "Luffa drastica Mart.",
-    "Luffa fluminensis M.Roem.",
-    "Luffa foetida Cav.",
-    "Luffa forskalii Beck & F.Abel",
-    "Luffa forskalii Schweinf. ex Harms",
-    "Luffa gosa Buch.-Ham.",
-    "Luffa hermaphrodita N.B.Singh & U.C.Bhattach.",
-    "Luffa kleinii Wight & Arn.",
-    "Luffa plukenetiana Ser.",
-    "Luffa tenera Royle",
-    "Luffa umbellata (J.G.Klein ex Willd.) M.Roem.",
-    "Momordica tubiflora Wall.",
-    "Trichosanthes amara Blanco"
-  ],
-  "familyName": "CUCURBITACEAE",
-  "englishNames": [
-    "Ridged Gourd",
-    "Bitter Luffa",
-    "Wild Luffa",
-    "Wild Ribbed Gourd",
-    "Wild Ridge Gourd",
-    "Angled Loofah",
-    "Ridged Gourd",
-    "Chinese Okra"
-  ],
-  "sinhalaName": "Dara wetakolu (දාර වැටකොළු  )",
-  "description": "කඳ සිහින්ය, තරමක් තියුණු කෝණ සහිතය, කෙටි රෝම සහිතය (shortly pubescent); ප්‍රරෝහ (tendrils) අතු 3කට බෙදී ඇත. පත්‍ර දිගු වෘන්ත සහිතය; පත්‍ර තලය සෙ.මී. 4.5-15 x 4.5-13.5 ප්‍රමාණයෙන් යුක්තය, හෘදයාකාරය (cordate), පත්‍ර පාදයේ විවරය (sinus) පළල් සිට තරමක් පටු දක්වා විහිදේ, නොගැඹුරු පත්‍ර ඛණ්ඩ 5-7කින් සමන්විතය. පත්‍ර වෘන්තය සෙ.මී. 1.5-7ක් දිගය, රළු රෝම සහිතය (hispid-scabrid). මල් ලා කහ පැහැතිය. පලය සෙ.මී. 15-30 x 5 ප්‍රමාණයෙන් යුක්තය. බීජ සෙ.මී. 0.9-1.4 x 0.5-0.75 ප්‍රමාණයෙන් යුක්තය, කළු හෝ සුදු පැහැතිය, රැලි සහිතය (corrugated).",
-  "treatments": [
-    {
-      "treatment": "Abdominal Disorders",
-      "sinhala": "උදර ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Luffa acutangula (L.) Roxb.",
+    "synonyms": [
+        "Cucumis acutangulus L.",
+        "Cucumis lineatus Bosc",
+        "Cucumis megacarpus G.Don",
+        "Cucumis operculatus Roxb. ex Wight & Arn.",
+        "Cucurbita acutangula (L.) Blume",
+        "Cucurbita campanulata D.Dietr.",
+        "Cucurbita umbellata J.G.Klein ex Willd.",
+        "Luffa acutangula f. amara (Roxb.) W.J.de Wilde & Duyfjes",
+        "Luffa acutangula var. amara (Roxb.) C.B.Clarke",
+        "Luffa acutangula var. forskalii (Schweinf. ex Harms) Heiser & E.E.Schill.",
+        "Luffa amara Roxb.",
+        "Luffa cattu-picinna Ser.",
+        "Luffa drastica Mart.",
+        "Luffa fluminensis M.Roem.",
+        "Luffa foetida Cav.",
+        "Luffa forskalii Beck & F.Abel",
+        "Luffa forskalii Schweinf. ex Harms",
+        "Luffa gosa Buch.-Ham.",
+        "Luffa hermaphrodita N.B.Singh & U.C.Bhattach.",
+        "Luffa kleinii Wight & Arn.",
+        "Luffa plukenetiana Ser.",
+        "Luffa tenera Royle",
+        "Luffa umbellata (J.G.Klein ex Willd.) M.Roem.",
+        "Momordica tubiflora Wall.",
+        "Trichosanthes amara Blanco"
+    ],
+    "familyName": "CUCURBITACEAE",
+    "englishNames": [
+        "Ridged Gourd",
+        "Bitter Luffa",
+        "Wild Luffa",
+        "Wild Ribbed Gourd",
+        "Wild Ridge Gourd",
+        "Angled Loofah",
+        "Ridged Gourd",
+        "Chinese Okra"
+    ],
+    "sinhalaName": "Dara wetakolu (දාර වැටකොළු  )",
+    "description": "කඳ සිහින්ය, තරමක් තියුණු කෝණ සහිතය, කෙටි රෝම සහිතය (shortly pubescent); ප්‍රරෝහ (tendrils) අතු 3කට බෙදී ඇත. පත්‍ර දිගු වෘන්ත සහිතය; පත්‍ර තලය සෙ.මී. 4.5-15 x 4.5-13.5 ප්‍රමාණයෙන් යුක්තය, හෘදයාකාරය (cordate), පත්‍ර පාදයේ විවරය (sinus) පළල් සිට තරමක් පටු දක්වා විහිදේ, නොගැඹුරු පත්‍ර ඛණ්ඩ 5-7කින් සමන්විතය. පත්‍ර වෘන්තය සෙ.මී. 1.5-7ක් දිගය, රළු රෝම සහිතය (hispid-scabrid). මල් ලා කහ පැහැතිය. පලය සෙ.මී. 15-30 x 5 ප්‍රමාණයෙන් යුක්තය. බීජ සෙ.මී. 0.9-1.4 x 0.5-0.75 ප්‍රමාණයෙන් යුක්තය, කළු හෝ සුදු පැහැතිය, රැලි සහිතය (corrugated).",
+    "treatments": [
+        {
+            "treatment": "Abdominal Disorders",
+            "sinhala": "උදර ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Urinary Disorders",
+            "sinhala": "මුත්‍රා පද්ධතියේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tuberculosis",
+            "sinhala": "ක්ෂය රෝගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds",
+        "Roots",
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "158",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/WTpDmnz/plant00368-00158.jpg"
+        },
+        {
+            "image_id": "159",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/NdcrPVKc/plant00368-00159.jpg"
+        },
+        {
+            "image_id": "3537",
+            "caption": "Male Flower (PMR)",
+            "url": "https://i.ibb.co/F4nqmpYB/plant00368-03537.jpg"
+        },
+        {
+            "image_id": "3538",
+            "caption": "Female Flower (PMR)",
+            "url": "https://i.ibb.co/RTGgZ5ch/plant00368-03538.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මොනවද මේ ඉතා රසවත් \" නියන් වැටකොළු \" / Local \" Luffa \" variety Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=9QmQtttYpXo",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/9QmQtttYpXo/hq720.jpg"
+            },
+            {
+                "title": "පුතිශක්තිකරන⁣ය ඉහලම පාරම්පරික හේන් වැටකොළු  වර්ග 4 හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=LJ2rSw3O1tw",
+                "duration": "6:45",
+                "thumbnail": "https://i.ytimg.com/vi/LJ2rSw3O1tw/hq720.jpg"
+            },
+            {
+                "title": "වැටකොළු කෑවොත් වෙන දේ මෙන්න : Benefits of Luffa (Ridge Gourd)",
+                "url": "https://youtube.com/watch?v=Me5YrS9yvRw",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/Me5YrS9yvRw/hq720.jpg"
+            },
+            {
+                "title": "වැටකොළු වගාව වැටකොලු / Ribbed Gourd Cultivation /  wetakolu wagawa / Home gardening gewathu",
+                "url": "https://youtube.com/watch?v=73SDObJBmls",
+                "duration": "23:54",
+                "thumbnail": "https://i.ytimg.com/vi/73SDObJBmls/hq720.jpg"
+            },
+            {
+                "title": "නියන් වැටකොළුවලට මෙච්චර දෙයක් කරන්න පුලුවන්ද?  Medicinal Vegetable - Smooth Luffa",
+                "url": "https://youtube.com/watch?v=J0Eo3AIEyek",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/J0Eo3AIEyek/hq720.jpg"
+            },
+            {
+                "title": "වැටකොලු වවන සාස්තරේ",
+                "url": "https://youtube.com/watch?v=g1R8qTnlMsg",
+                "duration": "26:41",
+                "thumbnail": "https://i.ytimg.com/vi/g1R8qTnlMsg/hqdefault.jpg"
+            },
+            {
+                "title": "wetakolu wagawa වැටකොළු වගාව වැටකොලු වගාව Ridge Gourd Cultivation Ridge Gourd Home Gardening sinhala",
+                "url": "https://youtube.com/watch?v=609z48DehYY",
+                "duration": "24:39",
+                "thumbnail": "https://i.ytimg.com/vi/609z48DehYY/hq720.jpg"
+            },
+            {
+                "title": "කට්ට පොළොවේ වුණත් මාස 1 1/2න් වැටකොළු අස්වැන්න ගනිපු රහස | How to grow Luffa easily ?",
+                "url": "https://youtube.com/watch?v=8mHEhQdUcvs",
+                "duration": "6:20",
+                "thumbnail": "https://i.ytimg.com/vi/8mHEhQdUcvs/hq720.jpg"
+            },
+            {
+                "title": "Ribbed Gourd Cultivation වැටකොළු වගාව  වැටකොලු wetakolu wagawa ගෙවතු වගාව Home gardening gewathu",
+                "url": "https://youtube.com/watch?v=E1nf-WFK--o",
+                "duration": "9:08",
+                "thumbnail": "https://i.ytimg.com/vi/E1nf-WFK--o/hq720.jpg"
+            },
+            {
+                "title": "නිවැරදිව වැටකොළු මැස්සක් හදමු | Let's make a correct luffa cultivation",
+                "url": "https://youtube.com/watch?v=2DU88ChzwP8",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/2DU88ChzwP8/hq720.jpg"
+            },
+            {
+                "title": "දිය වැටකොළු Diya Vatakolu",
+                "url": "https://youtube.com/watch?v=Yr07qO_DJeM",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/Yr07qO_DJeM/hq720.jpg"
+            },
+            {
+                "title": "කොරටුව පිරෙන්න වැටකොළු වවමු  | Waga Perahuru - Luffa | Season 03 | EP - 01",
+                "url": "https://youtube.com/watch?v=QvouDedYun8",
+                "duration": "11:03",
+                "thumbnail": "https://i.ytimg.com/vi/QvouDedYun8/hq720.jpg"
+            },
+            {
+                "title": "නියන් වැටකොළු වගාව/niyan watakulu wagawa",
+                "url": "https://youtube.com/watch?v=afNQnjUgwmg",
+                "duration": "4:53",
+                "thumbnail": "https://i.ytimg.com/vi/afNQnjUgwmg/hq720.jpg"
+            },
+            {
+                "title": "wetakolu wagawa වැටකොළු වගාව වැටකොලු වගාව Ridge Gourd Cultivation Ridge Gourd Home Gardening sinhala",
+                "url": "https://youtube.com/watch?v=cqku3oaHE30",
+                "duration": "24:00",
+                "thumbnail": "https://i.ytimg.com/vi/cqku3oaHE30/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Urinary Disorders",
-      "sinhala": "මුත්‍රා පද්ධතියේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tuberculosis",
-      "sinhala": "ක්ෂය රෝගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds",
-    "Roots",
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "158",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/WTpDmnz/plant00368-00158.jpg"
-    },
-    {
-      "image_id": "159",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/NdcrPVKc/plant00368-00159.jpg"
-    },
-    {
-      "image_id": "3537",
-      "caption": "Male Flower (PMR)",
-      "url": "https://i.ibb.co/F4nqmpYB/plant00368-03537.jpg"
-    },
-    {
-      "image_id": "3538",
-      "caption": "Female Flower (PMR)",
-      "url": "https://i.ibb.co/RTGgZ5ch/plant00368-03538.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

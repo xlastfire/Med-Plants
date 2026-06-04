@@ -1,169 +1,480 @@
 {
-  "scientificName": "Gomphrena globosa L.",
-  "synonyms": [
-    "Amaranthoides globosa (L.) M.Gómez",
-    "Gomphrena eriopoda Gillies ex Moq.",
-    "Gomphrena globosa var. carnea Moq.",
-    "Gomphrena globosa var. golmerata Makino",
-    "Gomphrena rubra Moq.",
-    "Gomphrena tumida Seidl ex Opiz",
-    "Xeraea globosa (L.) Kuntze"
-  ],
-  "familyName": "AMARANTHACEAE",
-  "englishNames": [
-    "Globe Amaranth",
-    "Bachelor's Button",
-    "Thousand Day Red"
-  ],
-  "sinhalaName": "Bin karal sebo (බිං කරල් සැබෝ  )",
-  "description": "සෙන්ටිමීටර 15-60ක් පමණ උසැති වාර්ෂික පැළෑටියකි; කඳ සහ අතු සුදු පැහැති රෝමවලින් (hairs) තරමක් ඝනව වැසී පවතී. පත්‍ර කිහිලිවල යුගල වශයෙන් පිහිටි කටු නොමැත. පත්‍ර තලය සෙන්ටිමීටර 2.5-12 (-15) x 2-4 (-6) වන අතර, සිහින් පත්‍ර වෘන්තය (petiole) දෙසට ක්‍රමයෙන් සිහින් වේ. පුෂ්ප මංජරිය වෘන්ත රහිත (sessile) වන අතර, ගෝලාකාර (globose) හෝ මදක් පැතලි ගෝලාකාර හැඩයක් ගනී; විෂ්කම්භය සෙන්ටිමීටර 2ක් පමණ වන අතර වර්ණය ලා රෝස සිට තද රතු පැහැයක් ගනී. පුෂ්පාවරණ පත්‍ර (tepals) මිලිමීටර 6-6.5ක් වේ. කරල් ගෙඩිය (capsule) ආයත-ඩිම්බාකාර (oblong-ovoid) වන අතර මිලිමීටර 2.5ක් පමණ වේ. බීජ දුඹුරු පැහැති, දිලිසෙන සුළු වන අතර මිලිමීටර 2ක් වේ.",
-  "treatments": [
-    {
-      "treatment": "Bronchial Asthma",
-      "sinhala": "ශ්වාසනාල ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Gomphrena globosa L.",
+    "synonyms": [
+        "Amaranthoides globosa (L.) M.Gómez",
+        "Gomphrena eriopoda Gillies ex Moq.",
+        "Gomphrena globosa var. carnea Moq.",
+        "Gomphrena globosa var. golmerata Makino",
+        "Gomphrena rubra Moq.",
+        "Gomphrena tumida Seidl ex Opiz",
+        "Xeraea globosa (L.) Kuntze"
+    ],
+    "familyName": "AMARANTHACEAE",
+    "englishNames": [
+        "Globe Amaranth",
+        "Bachelor's Button",
+        "Thousand Day Red"
+    ],
+    "sinhalaName": "Bin karal sebo (බිං කරල් සැබෝ  )",
+    "description": "සෙන්ටිමීටර 15-60ක් පමණ උසැති වාර්ෂික පැළෑටියකි; කඳ සහ අතු සුදු පැහැති රෝමවලින් (hairs) තරමක් ඝනව වැසී පවතී. පත්‍ර කිහිලිවල යුගල වශයෙන් පිහිටි කටු නොමැත. පත්‍ර තලය සෙන්ටිමීටර 2.5-12 (-15) x 2-4 (-6) වන අතර, සිහින් පත්‍ර වෘන්තය (petiole) දෙසට ක්‍රමයෙන් සිහින් වේ. පුෂ්ප මංජරිය වෘන්ත රහිත (sessile) වන අතර, ගෝලාකාර (globose) හෝ මදක් පැතලි ගෝලාකාර හැඩයක් ගනී; විෂ්කම්භය සෙන්ටිමීටර 2ක් පමණ වන අතර වර්ණය ලා රෝස සිට තද රතු පැහැයක් ගනී. පුෂ්පාවරණ පත්‍ර (tepals) මිලිමීටර 6-6.5ක් වේ. කරල් ගෙඩිය (capsule) ආයත-ඩිම්බාකාර (oblong-ovoid) වන අතර මිලිමීටර 2.5ක් පමණ වේ. බීජ දුඹුරු පැහැති, දිලිසෙන සුළු වන අතර මිලිමීටර 2ක් වේ.",
+    "treatments": [
+        {
+            "treatment": "Bronchial Asthma",
+            "sinhala": "ශ්වාසනාල ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Whooping Cough",
+            "sinhala": "කෝකැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hypertension",
+            "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Oliguria",
+            "sinhala": "මුත්‍රා අඩුවෙන් පිටවීම (අල්පමුත්‍රතාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Kidney Diseases",
+            "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Retention",
+            "sinhala": "මුත්‍රා රඳා පැවතීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole plant",
+        "Flowers"
+    ],
+    "images": [
+        {
+            "image_id": "561",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/H5s1dFP/plant00048-00561.jpg"
+        },
+        {
+            "image_id": "562",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/FT98ytK/plant00048-00562.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කරල් සැබෝ|කරල් හැබ|ගස් කරල් හැබ|රත් කරල් හැබ|karal heba|sinhala|2022",
+                "url": "https://youtube.com/watch?v=mqhI4CIigqw",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/mqhI4CIigqw/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගය ට ගන්නා රත් කරල් හැබ (සැබෝ ) රත් කරල් සැබෝ",
+                "url": "https://youtube.com/watch?v=UIsIlz3EsJk",
+                "duration": "1:24",
+                "thumbnail": "https://i.ytimg.com/vi/UIsIlz3EsJk/hqdefault.jpg"
+            },
+            {
+                "title": "ඔයලගෙ මිදුලෙ තියනවනම් කවදාවත් උගුලලා  විසිකරන්න එපා | thuru tv",
+                "url": "https://youtube.com/watch?v=TTGUWg_mRIY",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/TTGUWg_mRIY/hq720.jpg"
+            },
+            {
+                "title": "කරල් සැබෝ - Karal Shebo",
+                "url": "https://youtube.com/watch?v=mlcoEmDZoVY",
+                "duration": "4:19",
+                "thumbnail": "https://i.ytimg.com/vi/mlcoEmDZoVY/hq720.jpg"
+            },
+            {
+                "title": "ආමාශගත රෝගවලට ගුණ දෙන \"කරල් හැබ\" | Achyranthes aspera | Episode 32",
+                "url": "https://youtube.com/watch?v=nZcouWu9Xjw",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/nZcouWu9Xjw/hq720.jpg"
+            },
+            {
+                "title": "karal haba ,කරල් හැබ පලා වර්ගය",
+                "url": "https://youtube.com/watch?v=iY1EP6FiF0M",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/iY1EP6FiF0M/hq720.jpg"
+            },
+            {
+                "title": "Bin karalheba",
+                "url": "https://youtube.com/watch?v=BRd4mFtSZ_g",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/BRd4mFtSZ_g/hq720.jpg"
+            },
+            {
+                "title": "බිම් බෝම්බ වෙනුවට, උතුරෙන් පූදින රන් කරල් | Harvest in the North | Rupavahini News",
+                "url": "https://youtube.com/watch?v=gMc3kqCgMhA",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/gMc3kqCgMhA/hq720.jpg"
+            },
+            {
+                "title": "මේ ගස් වල පත්‍ර කෑවොත් අර්ශස් සුව වෙනවා | Isiwara Adawiya | Hemorrhoid | arshas | Hela Herbal",
+                "url": "https://youtube.com/watch?v=LJGC225RI0s",
+                "duration": "16:58",
+                "thumbnail": "https://i.ytimg.com/vi/LJGC225RI0s/hq720.jpg"
+            },
+            {
+                "title": "අර්සස් සියලුම රෝග නසා ලන කරල් සැබෝ| roga/nasalana/ ashyranthes aspera",
+                "url": "https://youtube.com/watch?v=5B2IryOgGuQ",
+                "duration": "8:04",
+                "thumbnail": "https://i.ytimg.com/vi/5B2IryOgGuQ/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් ඇතූළු ඕනෑම රෝගයකට ගුණදායක ඖෂධීය කරල් සැබො කැද",
+                "url": "https://youtube.com/watch?v=RWFvpHGkyko",
+                "duration": "8:07",
+                "thumbnail": "https://i.ytimg.com/vi/RWFvpHGkyko/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රබල වාජීකරණ ගුණයක් සහ ශක්තිජනක ආහාරයක් වන බිංතල් ගැන දැනන් හිටියද? | බිංතල් (Bintal)",
+                "url": "https://youtube.com/watch?v=R9rUznWawCY",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/R9rUznWawCY/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගීන්ට කියාපු ඖෂධ පානය මෙය පානය කරන්න/කරල් සෑබො/පඩ වැල්",
+                "url": "https://youtube.com/watch?v=z287Xig8IxM",
+                "duration": "6:44",
+                "thumbnail": "https://i.ytimg.com/vi/z287Xig8IxM/hq720.jpg"
+            },
+            {
+                "title": "දැක්ක තැන කන්න හිතෙන මෑකරල් බැදුම හදන රසම සහ ලේසිම ක්‍රමය |  Long Beans Tempered",
+                "url": "https://youtube.com/watch?v=aWd_Dod0O0s",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/aWd_Dod0O0s/hq720.jpg"
+            },
+            {
+                "title": "කරල් හැබ Rough chaff tree, Prickly chaff flower",
+                "url": "https://youtube.com/watch?v=W5PTLIP5LMY",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/W5PTLIP5LMY/hqdefault.jpg"
+            },
+            {
+                "title": "ශල්‍යකර්ම එපා! ලේ යන අර්ශස් දින කිහිපයකින් මුලින්ම උපුටා දමන කරල්හැබ අත්දුටු ප්‍රතිකාරය 💯",
+                "url": "https://youtube.com/watch?v=0gGDlg25SnY",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/0gGDlg25SnY/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙතට ගන්නා නියම  එල බිං තඹරු... එල බින් තඹරු bin thamburu adapangkodi ছাগলকুরী ChagalkuriGujarati",
+                "url": "https://youtube.com/watch?v=qlrntcoibEg",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/qlrntcoibEg/hqdefault.jpg"
+            },
+            {
+                "title": "කිරාත/හීං බිංකොහොඹ/බිං කොහොඹ පටලැවිල්ල ලිහා ගමු. ඔසු පැළ නිවැරදිව හදුනා ගනිමු.",
+                "url": "https://youtube.com/watch?v=0BBdXbnd0oc",
+                "duration": "11:55",
+                "thumbnail": "https://i.ytimg.com/vi/0BBdXbnd0oc/hq720.jpg"
+            },
+            {
+                "title": "achyranthes aspera medicinal used/කරල් සෙපො/#newtop @new top",
+                "url": "https://youtube.com/watch?v=qvDD9Y_26kE",
+                "duration": "7:14",
+                "thumbnail": "https://i.ytimg.com/vi/qvDD9Y_26kE/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂයින්ගේ ලිංගික ශක්තිය වැඩි කරන, ඉක්මනින් ධාතු පිටවීමට හොදම ප්‍රතිකාරයක් වන බිංතල් වල ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=LHYxIfW9T4M",
+                "duration": "14:36",
+                "thumbnail": "https://i.ytimg.com/vi/LHYxIfW9T4M/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගය නිට්ටාවටම සුව කරන කාමරංගා | Carambola | Star fruit  - Episode 27",
+                "url": "https://youtube.com/watch?v=jU92-IXD9y0",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/jU92-IXD9y0/hq720.jpg"
+            },
+            {
+                "title": "කරල් හැදෙන්නෙ නැති ඕනම මුරුංග ගහකින් කරල් ගන්නෙ මෙන්න මෙහෙමයි....අත්දුටුයි ප්‍රත්‍යක්ශයි...",
+                "url": "https://youtube.com/watch?v=NMgTiz1tNzs",
+                "duration": "18:11",
+                "thumbnail": "https://i.ytimg.com/vi/NMgTiz1tNzs/hqdefault.jpg"
+            },
+            {
+                "title": "සැත්කම් නොකරම අර්ශස් සුව කරමු Cure hemorrhoids without surgery",
+                "url": "https://youtube.com/watch?v=R9ObpyzreUk",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/R9ObpyzreUk/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ගැන හැමෝම අහන ප්‍රශ්න | Bin Kohomba | Ceylon Agri | Episode 370",
+                "url": "https://youtube.com/watch?v=bsDV6DgOPZQ",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/bsDV6DgOPZQ/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ කරවිලවල ඇත්ත නැත්ත | Bitter Melon For Blood Sugar By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0SdTXNz-LDE",
+                "duration": "12:53",
+                "thumbnail": "https://i.ytimg.com/vi/0SdTXNz-LDE/hq720.jpg"
+            },
+            {
+                "title": "සන්ධි වේදනා නැති කරන ආයුර්වේදීය ශාකයේ විද්‍යාත්මකව තහවුරු කල පුදුම හිතෙන ගුන",
+                "url": "https://youtube.com/watch?v=e0dzL4QVikQ",
+                "duration": "6:14",
+                "thumbnail": "https://i.ytimg.com/vi/e0dzL4QVikQ/hqdefault.jpg"
+            },
+            {
+                "title": "අමුද්‍රව්‍ය 3යි හරිම ලේසියි! මේ පානය හදලා බිලා බලන්න..සියලුම ස්නායු අස්ථි රෝග නිකන්ම සුව වෙනවා!",
+                "url": "https://youtube.com/watch?v=g-LYs4nVhPo",
+                "duration": "23:58",
+                "thumbnail": "https://i.ytimg.com/vi/g-LYs4nVhPo/hq720.jpg"
+            },
+            {
+                "title": "Karal sabo - Gas karalheba / Rathkaral heba - Achyranthes aspera",
+                "url": "https://youtube.com/watch?v=CIc2y9EJHTI",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/CIc2y9EJHTI/hq720.jpg"
+            },
+            {
+                "title": "සලේ දිවිනසා ගන්න කතාවේ ඇත්ත මෙන්න - ගුද මාර්ගයට බට දාපු හේතුවත් හෙළිවෙයි",
+                "url": "https://youtube.com/watch?v=xOEqXjixntA",
+                "duration": "15:02",
+                "thumbnail": "https://i.ytimg.com/vi/xOEqXjixntA/hq720.jpg"
+            },
+            {
+                "title": "විද්‍යාත්මකව තහවුරු කල කලදුරු සතු ගුන 7 ක් | Benefits of Black Seed Oil",
+                "url": "https://youtube.com/watch?v=0frrjXQcLW0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/0frrjXQcLW0/hqdefault.jpg"
+            },
+            {
+                "title": "Sri Lankan Herbs - Binkohomba |නිතරම ලෙඩ වෙන අයට හොදම බෙහෙත “බිං කොහොඹ” | Ceylon Agri | Episode 34",
+                "url": "https://youtube.com/watch?v=lnJONJ6ou-U",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/lnJONJ6ou-U/hqdefault.jpg"
+            },
+            {
+                "title": "දවස් 10 න් බඩ බහින්න පටන් ගනිවි | Recipes for Helthy | athal kitchen curry leaves|Karapincha sambole",
+                "url": "https://youtube.com/watch?v=l3e14IDzSLY",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/l3e14IDzSLY/hqdefault.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=sF_BrjVGH9Y",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/sF_BrjVGH9Y/hqdefault.jpg"
+            },
+            {
+                "title": "බැබිල ශාකයේ තිබෙන ඖෂධීය ගුණයෙන් දැනගන්න වීඩියෝව බලන්න",
+                "url": "https://youtube.com/watch?v=H-hrAwEH-N4",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/H-hrAwEH-N4/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ විශ්මිත ගුණ ගැන ඔබ මීට කලින් දැන සිටියාද?  |  වගා දැනුම   #agriculture #ලංකාවෙ",
+                "url": "https://youtube.com/watch?v=lHHfnKkF3DY",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lHHfnKkF3DY/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ වල ඇති විශ්මිත ගුණ|Mununia pinnata",
+                "url": "https://youtube.com/watch?v=Cl4gwAmBm6Y",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/Cl4gwAmBm6Y/hqdefault.jpg"
+            },
+            {
+                "title": "ශරීරයේ ප්‍රතිශක්තිය වැඩි කරන බිං කොහොඹ - Mumronia pinnata",
+                "url": "https://youtube.com/watch?v=J1CJ5jgcAYE",
+                "duration": "11:07",
+                "thumbnail": "https://i.ytimg.com/vi/J1CJ5jgcAYE/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ | Munronia pinnata - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=aLVxN65TEgg",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/aLVxN65TEgg/hq720.jpg"
+            },
+            {
+                "title": "උණ, අතීසාර, රක්ත අර්ශස් ඇතුළු රෝග රැසකට ගුණ බිං කොහොඹ | Bin kohoba Plant | Bin kohomba",
+                "url": "https://youtube.com/watch?v=_nOHEpiTFc8",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/_nOHEpiTFc8/hq720.jpg"
+            },
+            {
+                "title": "Bin Kohomba a Rare Medicinal Plant to Grow in Sinhala | බිං කොහොඹ ගුණ",
+                "url": "https://youtube.com/watch?v=jSnktC_b9PY",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/jSnktC_b9PY/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ",
+                "url": "https://youtube.com/watch?v=7-R_C_VVIHg",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/7-R_C_VVIHg/hq720.jpg"
+            },
+            {
+                "title": "🌟 මෑ කරල් සහ බෝංචි සමග කවමදාකවත් මේ භෝග හිටවන්න එපා - good and bad companion plants for beans",
+                "url": "https://youtube.com/watch?v=ImuO76qp0VI",
+                "duration": "17:05",
+                "thumbnail": "https://i.ytimg.com/vi/ImuO76qp0VI/hqdefault.jpg"
+            },
+            {
+                "title": "කෝටියක් වටින උණ නසන බිං කොහොඹ ශාකය",
+                "url": "https://youtube.com/watch?v=0rx4RcGiHpk",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/0rx4RcGiHpk/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සඳහා බෝංචි කොතරම් හොඳද? මෑ කරල්, දඹල වුනත් මෙහෙමයි පුදුම සහගතයි Green Beans bb5  ombined",
+                "url": "https://youtube.com/watch?v=o9o_4SVXiWc",
+                "duration": "12:14",
+                "thumbnail": "https://i.ytimg.com/vi/o9o_4SVXiWc/hq720.jpg"
+            },
+            {
+                "title": "දේශීය වෙදදුරන්ට අනුව corona වලට එරෙහිව ප්‍රතිශක්තිය නගාසිටුවන හීන් බින් කොහොඹ",
+                "url": "https://youtube.com/watch?v=WKw3IhMmfmw",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/WKw3IhMmfmw/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ගැන ගැටළු තියනවද?",
+                "url": "https://youtube.com/watch?v=oTANtOhIRKY",
+                "duration": "8:10",
+                "thumbnail": "https://i.ytimg.com/vi/oTANtOhIRKY/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "The AMAZING Health Benefits of SEED UNDER LEAF.",
+                "url": "https://youtube.com/watch?v=cAJp-NJSYXA",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/cAJp-NJSYXA/hqdefault.jpg"
+            },
+            {
+                "title": "කරල් සැබෝ|කරල් හැබ|ගස් කරල් හැබ|රත් කරල් හැබ|karal heba|sinhala|2022",
+                "url": "https://youtube.com/watch?v=_u_p8fGAlZ8",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/_u_p8fGAlZ8/frame0.jpg"
+            },
+            {
+                "title": "වෙහෙස මහන්සියක් නැතුව වැඩකරන්න, ශරීර ශක්තිය වැඩිකරන අරුම පුදුම පැලය | බිංපොල් (Bimpol)",
+                "url": "https://youtube.com/watch?v=spuEpKXE9ns",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/spuEpKXE9ns/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Whooping Cough",
-      "sinhala": "කෝකැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hypertension",
-      "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Oliguria",
-      "sinhala": "මුත්‍රා අඩුවෙන් පිටවීම (අල්පමුත්‍රතාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Kidney Diseases",
-      "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Retention",
-      "sinhala": "මුත්‍රා රඳා පැවතීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole plant",
-    "Flowers"
-  ],
-  "images": [
-    {
-      "image_id": "561",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/H5s1dFP/plant00048-00561.jpg"
-    },
-    {
-      "image_id": "562",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/FT98ytK/plant00048-00562.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

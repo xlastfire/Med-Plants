@@ -1,80 +1,193 @@
 {
-  "scientificName": "Pouteria campechiana (Kunth) Baehni",
-  "synonyms": [
-    "Lucuma campechiana Kunth",
-    "Lucuma elongata (C.F.Gaertn.) Steud.",
-    "Lucuma glabrifolia Pittier",
-    "Lucuma heyderi Standl.",
-    "Lucuma inseparabilis Dubard",
-    "Lucuma laeteviridis Pittier",
-    "Lucuma nervosa A.DC.",
-    "Lucuma palmeri Fernald",
-    "Lucuma rivicoa var. angustifolia Miq.",
-    "Lucuma salicifolia Kunth",
-    "Lucuma sphaerocarpa A.DC.",
-    "Pouteria campechiana var. nervosa (A.DC.) Baehni",
-    "Pouteria campechiana var. palmeri (Fernald) Baehni",
-    "Pouteria campechiana var. salicifolia (Kunth) Baehni",
-    "Pouteria campechiana var. typica Baehni",
-    "Pouteria elongata (C.F.Gaertn.) Baehni",
-    "Pouteria glabrifolia (Pittier) Cronquist",
-    "Pouteria laeteviridis (Pittier) Lundell",
-    "Pouteria mante Lundell",
-    "Radlkoferella glabrifolia (Pittier) Aubrév.",
-    "Radlkoferella inseparabilis Pierre",
-    "Radlkoferella sphaerocarpa (A.DC.) Pierre",
-    "Richardella campechiana (Kunth) Pierre",
-    "Richardella nervosa (A.DC.) Pierre",
-    "Richardella salicifolia (Kunth) Pierre",
-    "Sapota elongata C.F.Gaertn.",
-    "Sideroxylon campestre Brandegee",
-    "Vitellaria campechiana (Kunth) Engl.",
-    "Vitellaria nervosa (A.DC.) Radlk.",
-    "Vitellaria salicifolia (Kunth) Engl.",
-    "Vitellaria sphaerocarpa (A.DC.) Radlk.",
-    "Vitellaria tenuifolia Engl.",
-    "Xantolis palmeri (Fernald) Baehni"
-  ],
-  "familyName": "SAPOTACEAE",
-  "englishNames": [
-    "Canistel",
-    "Yellow Sapote",
-    "Eggfruit Tree",
-    "Amarillo",
-    "Yellow Sapote",
-    "Sapote Borracho",
-    "Zapote"
-  ],
-  "sinhalaName": "Kaha laulu (කහ ලාවුළු)",
-  "description": "මීටර් 8ක් උසැති ගසකි; හිතකර තත්ත්වයන් යටතේ මීටර් 27-30ක් පමණ උසට වැඩේ; පොත්ත රැලි සහිත, දුඹුරු පැහැතිය; ළපටි අතු වෙල්වට් වැනි (velvety) දුඹුරු පැහැති රෝමවලින් වැසී ඇත. මල් ක්‍රීම් පැහැති, සිල්ක් වැනි රෝම සහිත සහ සුවඳවත්ය. පලතුරේ හැඩය සහ ප්‍රමාණය ඉතා විචල්‍ය වේ; වටකුරු, උල් වූ හොටක් සහිත හෝ රහිත, ඕවලාකාර (oval) හෝ බිත්තරාකාර (ovoid) වේ; නොමේරූ පලතුරු කොළ පැහැති, තද සහ මැලියම් සහිතය; ඉදුණු විට, පොත්ත ලෙමන්-කහ, රන්වන්-කහ හෝ ලා තැඹිලි-කහ පැහැයට හැරෙන අතර සිනිඳු සහ දිලිසෙන සුළු වේ; මදය කහ පැහැති, තම්බා ගත් බිත්තරයක වයනයට සමාන පේස්ට් වැනි වයනයකින් යුක්තය, පැණිරසයි, බීජ 1-4ක් අඩංගු වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "2687",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/Pzg2TYDM/plant01225-02687.jpg"
+    "scientificName": "Pouteria campechiana (Kunth) Baehni",
+    "synonyms": [
+        "Lucuma campechiana Kunth",
+        "Lucuma elongata (C.F.Gaertn.) Steud.",
+        "Lucuma glabrifolia Pittier",
+        "Lucuma heyderi Standl.",
+        "Lucuma inseparabilis Dubard",
+        "Lucuma laeteviridis Pittier",
+        "Lucuma nervosa A.DC.",
+        "Lucuma palmeri Fernald",
+        "Lucuma rivicoa var. angustifolia Miq.",
+        "Lucuma salicifolia Kunth",
+        "Lucuma sphaerocarpa A.DC.",
+        "Pouteria campechiana var. nervosa (A.DC.) Baehni",
+        "Pouteria campechiana var. palmeri (Fernald) Baehni",
+        "Pouteria campechiana var. salicifolia (Kunth) Baehni",
+        "Pouteria campechiana var. typica Baehni",
+        "Pouteria elongata (C.F.Gaertn.) Baehni",
+        "Pouteria glabrifolia (Pittier) Cronquist",
+        "Pouteria laeteviridis (Pittier) Lundell",
+        "Pouteria mante Lundell",
+        "Radlkoferella glabrifolia (Pittier) Aubrév.",
+        "Radlkoferella inseparabilis Pierre",
+        "Radlkoferella sphaerocarpa (A.DC.) Pierre",
+        "Richardella campechiana (Kunth) Pierre",
+        "Richardella nervosa (A.DC.) Pierre",
+        "Richardella salicifolia (Kunth) Pierre",
+        "Sapota elongata C.F.Gaertn.",
+        "Sideroxylon campestre Brandegee",
+        "Vitellaria campechiana (Kunth) Engl.",
+        "Vitellaria nervosa (A.DC.) Radlk.",
+        "Vitellaria salicifolia (Kunth) Engl.",
+        "Vitellaria sphaerocarpa (A.DC.) Radlk.",
+        "Vitellaria tenuifolia Engl.",
+        "Xantolis palmeri (Fernald) Baehni"
+    ],
+    "familyName": "SAPOTACEAE",
+    "englishNames": [
+        "Canistel",
+        "Yellow Sapote",
+        "Eggfruit Tree",
+        "Amarillo",
+        "Yellow Sapote",
+        "Sapote Borracho",
+        "Zapote"
+    ],
+    "sinhalaName": "Kaha laulu (කහ ලාවුළු)",
+    "description": "මීටර් 8ක් උසැති ගසකි; හිතකර තත්ත්වයන් යටතේ මීටර් 27-30ක් පමණ උසට වැඩේ; පොත්ත රැලි සහිත, දුඹුරු පැහැතිය; ළපටි අතු වෙල්වට් වැනි (velvety) දුඹුරු පැහැති රෝමවලින් වැසී ඇත. මල් ක්‍රීම් පැහැති, සිල්ක් වැනි රෝම සහිත සහ සුවඳවත්ය. පලතුරේ හැඩය සහ ප්‍රමාණය ඉතා විචල්‍ය වේ; වටකුරු, උල් වූ හොටක් සහිත හෝ රහිත, ඕවලාකාර (oval) හෝ බිත්තරාකාර (ovoid) වේ; නොමේරූ පලතුරු කොළ පැහැති, තද සහ මැලියම් සහිතය; ඉදුණු විට, පොත්ත ලෙමන්-කහ, රන්වන්-කහ හෝ ලා තැඹිලි-කහ පැහැයට හැරෙන අතර සිනිඳු සහ දිලිසෙන සුළු වේ; මදය කහ පැහැති, තම්බා ගත් බිත්තරයක වයනයට සමාන පේස්ට් වැනි වයනයකින් යුක්තය, පැණිරසයි, බීජ 1-4ක් අඩංගු වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "2687",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/Pzg2TYDM/plant01225-02687.jpg"
+        },
+        {
+            "image_id": "2688",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/fVVjwcrX/plant01225-02688.jpg"
+        },
+        {
+            "image_id": "2689",
+            "caption": "Furit (PMR)",
+            "url": "https://i.ibb.co/tTf0pqR3/plant01225-02689.jpg"
+        },
+        {
+            "image_id": "2690",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/DgD7gwjT/plant01225-02690.jpg"
+        },
+        {
+            "image_id": "2691",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/6c3pG5pK/plant01225-02691.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කාලා ති‌‌යෙනවාද ‌රසම රස ලාවුළු ගෙඩියක්😋😋ගුණ ම ගුණ මෙන්න ඒහෙනම්😏😋කහ පාටට දිලිසෙන💛💛😍වත්තෙන් හොයාගත්තෙ😁",
+                "url": "https://youtube.com/watch?v=TYYTB_fP4hM",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/TYYTB_fP4hM/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "ගෙදර තියෙන ෆාමසිය | ලාවුලු | Egg Fruit",
+                "url": "https://youtube.com/watch?v=SRHr3qIveEo",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/SRHr3qIveEo/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ ලාවුළු බීම හදමු| Egg Fruit Drink|Ruki's Kitchen And Life Style",
+                "url": "https://youtube.com/watch?v=qTICs8IYbb8",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/qTICs8IYbb8/hq720.jpg"
+            },
+            {
+                "title": "කාලා ති‌‌යෙනවාද ‌රසම රස ලාවුළු ගෙඩියක්😋😋ගුණ ම ගුණ මෙන්න ඒහෙනම්😏😋කහ පාටට දිලිසෙන💛💛😍වත්තෙන් හොයාගත්තෙ😁",
+                "url": "https://youtube.com/watch?v=W9KNvQilDuE",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/W9KNvQilDuE/frame0.jpg"
+            },
+            {
+                "title": "Leaves are a must-eat fruit with high nutritional value | ලාවුළු වල ගුණ ඔබව විමතියට පත් කරාවි",
+                "url": "https://youtube.com/watch?v=wj2Fksa621Q",
+                "duration": "7:08",
+                "thumbnail": "https://i.ytimg.com/vi/wj2Fksa621Q/hq720.jpg"
+            },
+            {
+                "title": "ලාවුලු වල ගුණ බලලා කනවද? නැතතන් මූණේ ගානවද #eggfruit",
+                "url": "https://youtube.com/watch?v=chmbAfd6OWY",
+                "duration": "7:19",
+                "thumbnail": "https://i.ytimg.com/vi/chmbAfd6OWY/hqdefault.jpg"
+            },
+            {
+                "title": "බිත්තර පළතුර හෙවත් ලාවුලු වල ගුණ – ඔබ විමතියට පත් කරාවි",
+                "url": "https://youtube.com/watch?v=44JmyxzXlTo",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/44JmyxzXlTo/hq720.jpg"
+            },
+            {
+                "title": "Laulu Wagawa How to grow Egg Fruit |ගුණයෙන් අනූන ලාවුලු ගහක් බදුනක වවලා ඵලදාව ගමුද? | Episode 97",
+                "url": "https://youtube.com/watch?v=RG6QVsDWSAk",
+                "duration": "10:17",
+                "thumbnail": "https://i.ytimg.com/vi/RG6QVsDWSAk/hq720.jpg"
+            },
+            {
+                "title": "අමතක නොකල යුතුම පලතුරක් - ලාවලු",
+                "url": "https://youtube.com/watch?v=-kLxdPIt3dc",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/-kLxdPIt3dc/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "බිත්තරවලටත් වඩා ගුණ ලාවලු | palathuru ware| Haritha Tv",
+                "url": "https://youtube.com/watch?v=Bz_FOMzTdCI",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/Bz_FOMzTdCI/hq720.jpg"
+            },
+            {
+                "title": "1970 ගණන්වල අපි පරිප්පු වෙනුවට ලාවුලු කෑවා",
+                "url": "https://youtube.com/watch?v=xcfUuVg-7cs",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/xcfUuVg-7cs/hqdefault.jpg"
+            },
+            {
+                "title": "කන්න කන්න ආස හිතෙන පරිප්පු රසට ලාවුලු කරිය | Egg Fruit | Egg Fruit Curry | Laulu Kariya |Laulu Curry",
+                "url": "https://youtube.com/watch?v=twHpDPb2VmA",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/twHpDPb2VmA/hq720.jpg"
+            },
+            {
+                "title": "අනිවාර්යයෙන්ම රස බලන්න ඕනා කෑමක් / ලාවුලු රොටී / Egg Fruit Roti / Canistel Fruit Roti..",
+                "url": "https://youtube.com/watch?v=2ErQgY8imDo",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/2ErQgY8imDo/hq720.jpg"
+            },
+            {
+                "title": "Golden Egg fruits!Nature gifted free vitamin package with healthy dishes|Poorna - The nature girl|",
+                "url": "https://youtube.com/watch?v=m3y2OiA2qRc",
+                "duration": "28:22",
+                "thumbnail": "https://i.ytimg.com/vi/m3y2OiA2qRc/hq720.jpg"
+            },
+            {
+                "title": "ලාවුලු ගුණ දැනගෙන ටිකක් වැඩ්පුර කන්න | egg fruits benefits🍑",
+                "url": "https://youtube.com/watch?v=8bjP8JexcdE",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/8bjP8JexcdE/hqdefault.jpg"
+            },
+            {
+                "title": "ලාවුලු වල ගුන | සුමනේ මාමගෙ වෙද උපදෙස් අංක 01 @Crusheka",
+                "url": "https://youtube.com/watch?v=nohY-R8yLbE",
+                "duration": "0:42",
+                "thumbnail": "https://i.ytimg.com/vi/nohY-R8yLbE/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "2688",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/fVVjwcrX/plant01225-02688.jpg"
-    },
-    {
-      "image_id": "2689",
-      "caption": "Furit (PMR)",
-      "url": "https://i.ibb.co/tTf0pqR3/plant01225-02689.jpg"
-    },
-    {
-      "image_id": "2690",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/DgD7gwjT/plant01225-02690.jpg"
-    },
-    {
-      "image_id": "2691",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/6c3pG5pK/plant01225-02691.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

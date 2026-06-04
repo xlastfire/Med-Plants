@@ -1,136 +1,219 @@
 {
-  "scientificName": "Symplocos acuminata (Blume) Miq.",
-  "synonyms": [
-    "Bobua atroviridis Miers",
-    "Bobua divaricativena (Hayata) Kaneh. & Sasaki",
-    "Bobua konishii (Hayata) Kaneh. & Sasaki",
-    "Bobua laurina (Retz.) DC.",
-    "Bobua oligostachya Miers",
-    "Bobua theophrastifolia (Siebold & Zucc.) Miers",
-    "Decadia aluminosa Lour.",
-    "Dicalix acuminatus Blume",
-    "Dicalix aluminosus Blume",
-    "Dicalix bodinieri (Brand) H.Migo",
-    "Dicalix laurinus (Retz.) H.Migo",
-    "Dicalix schaefferae (Merr.) H.Migo",
-    "Dicalix spicatus Blume",
-    "Dicalix terminalis (Brand) H.Migo",
-    "Dicalix theophrastifolia (Siebold & Zucc.) H.Migo",
-    "Drupatris cochinchinensis Lour.",
-    "Eugenioides acuminatum (Blume) Kuntze",
-    "Eugenioides laurinum Kuntze",
-    "Eugenioides ribes Kuntze",
-    "Eugenioides spicatum (Blume) Kuntze",
-    "Eurya cavaleriei H.Lév.",
-    "Hopea spicata Dalzell & A.Gibson",
-    "Lodhra attenuata Miers",
-    "Lodhra loha (Buch.-Ham. ex D.Don) Miers",
-    "Lodhra polycarpa (Wall. ex G.Don) Miers",
-    "Lodhra ribes (Jungh. & de Vriese) Miers",
-    "Lodhra spicata (Roxb.) Miers",
-    "Lodhra xanthophylla (Jungh. & de Vriese) Miers",
-    "Maesa aurea H.Lév.",
-    "Symplocos atroviridis Wall. ex A.DC.",
-    "Symplocos attenuata Wall.",
-    "Symplocos balfourii H.Lév.",
-    "Symplocos bodinieri Brand",
-    "Symplocos caryophylloides Zoll.",
-    "Symplocos cochinchinensis subsp. laurina (Retz.) Noot.",
-    "Symplocos cochinchinensis var. laurina (Retz.) Raizada",
-    "Symplocos divaricativena Hayata",
-    "Symplocos dung Eberh. & Dubard",
-    "Symplocos flavida Miq. ex C.B.Clarke",
-    "Symplocos konishii Hayata",
-    "Symplocos laurina subsp. cochinchinensis (Lour.) S.M.Almeida & M.R.Almeida",
-    "Symplocos laurina var. acuminata (Miq.) Brand",
-    "Symplocos laurina var. bodinieri (Brand) Hand.-Mazz.",
-    "Symplocos laurina Wall. ex G.Don",
-    "Symplocos linearis Zoll.",
-    "Symplocos loha Buch.-Ham. ex D.Don",
-    "Symplocos polycarpa Wall. ex G.Don",
-    "Symplocos ribes Jungh. & de Vriese",
-    "Symplocos schaefferae Merr.",
-    "Symplocos spicata f. acuminata (Blume) Koord. & Valeton",
-    "Symplocos spicata f. javanica Koord. & Valeton",
-    "Symplocos spicata f. xanthophylla Koord. & Valeton",
-    "Symplocos spicata Roxb.",
-    "Symplocos spicata var. acuminata (Blume) Brand",
-    "Symplocos spicata var. laurina (Retz.) C.B.Clarke",
-    "Symplocos spicata var. malasica C.B.Clarke",
-    "Symplocos stenostachys Hayata",
-    "Symplocos subolivacea M.P.Price",
-    "Symplocos subspinosa Buch.-Ham. ex D.Don",
-    "Symplocos taririkensis K.Mori",
-    "Symplocos terminalis Brand",
-    "Symplocos theophrastifolia Siebold & Zucc.",
-    "Symplocos xanthophylla Jungh. & de Vriese"
-  ],
-  "familyName": "SYMPLOCACEAE",
-  "englishNames": [],
-  "sinhalaName": "Bombu (බෝඹු)",
-  "description": "මීටර් 12ක් දක්වා උසැති පඳුරක් හෝ ගසකි. පත්‍ර සෙන්ටිමීටර 6-17 x 2.5-8 ප්‍රමාණයෙන් යුක්ත වේ; පත්‍ර වෘන්තය (petiole) මිලිමීටර 5-25ක් දිගය. පුෂ්ප මංජරිය සෙන්ටිමීටර 14ක් දක්වා දිගු කරල් (spike) ආකාර වේ. උප පත්‍ර (bracts) නොමැකී පවතී. මල් කිරීටය (corolla) මිලිමීටර 3-5ක් දිගය. ඵලය බඳුනක හැඩැති (ampuliform) වන අතර, එහි දේහය ගෝලාකාර (globose) වේ; වියළි විට සිරස් අතට ඉළ ඇට වැනි රේඛා (vertically ribbed) සහිතව මිලිමීටර 6-8 x 4-6 ප්‍රමාණයෙන් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Phlegm Issues",
-      "sinhala": "සෙම ආශ්‍රිත තත්ත්ව (කඵ දෝෂ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Symplocos acuminata (Blume) Miq.",
+    "synonyms": [
+        "Bobua atroviridis Miers",
+        "Bobua divaricativena (Hayata) Kaneh. & Sasaki",
+        "Bobua konishii (Hayata) Kaneh. & Sasaki",
+        "Bobua laurina (Retz.) DC.",
+        "Bobua oligostachya Miers",
+        "Bobua theophrastifolia (Siebold & Zucc.) Miers",
+        "Decadia aluminosa Lour.",
+        "Dicalix acuminatus Blume",
+        "Dicalix aluminosus Blume",
+        "Dicalix bodinieri (Brand) H.Migo",
+        "Dicalix laurinus (Retz.) H.Migo",
+        "Dicalix schaefferae (Merr.) H.Migo",
+        "Dicalix spicatus Blume",
+        "Dicalix terminalis (Brand) H.Migo",
+        "Dicalix theophrastifolia (Siebold & Zucc.) H.Migo",
+        "Drupatris cochinchinensis Lour.",
+        "Eugenioides acuminatum (Blume) Kuntze",
+        "Eugenioides laurinum Kuntze",
+        "Eugenioides ribes Kuntze",
+        "Eugenioides spicatum (Blume) Kuntze",
+        "Eurya cavaleriei H.Lév.",
+        "Hopea spicata Dalzell & A.Gibson",
+        "Lodhra attenuata Miers",
+        "Lodhra loha (Buch.-Ham. ex D.Don) Miers",
+        "Lodhra polycarpa (Wall. ex G.Don) Miers",
+        "Lodhra ribes (Jungh. & de Vriese) Miers",
+        "Lodhra spicata (Roxb.) Miers",
+        "Lodhra xanthophylla (Jungh. & de Vriese) Miers",
+        "Maesa aurea H.Lév.",
+        "Symplocos atroviridis Wall. ex A.DC.",
+        "Symplocos attenuata Wall.",
+        "Symplocos balfourii H.Lév.",
+        "Symplocos bodinieri Brand",
+        "Symplocos caryophylloides Zoll.",
+        "Symplocos cochinchinensis subsp. laurina (Retz.) Noot.",
+        "Symplocos cochinchinensis var. laurina (Retz.) Raizada",
+        "Symplocos divaricativena Hayata",
+        "Symplocos dung Eberh. & Dubard",
+        "Symplocos flavida Miq. ex C.B.Clarke",
+        "Symplocos konishii Hayata",
+        "Symplocos laurina subsp. cochinchinensis (Lour.) S.M.Almeida & M.R.Almeida",
+        "Symplocos laurina var. acuminata (Miq.) Brand",
+        "Symplocos laurina var. bodinieri (Brand) Hand.-Mazz.",
+        "Symplocos laurina Wall. ex G.Don",
+        "Symplocos linearis Zoll.",
+        "Symplocos loha Buch.-Ham. ex D.Don",
+        "Symplocos polycarpa Wall. ex G.Don",
+        "Symplocos ribes Jungh. & de Vriese",
+        "Symplocos schaefferae Merr.",
+        "Symplocos spicata f. acuminata (Blume) Koord. & Valeton",
+        "Symplocos spicata f. javanica Koord. & Valeton",
+        "Symplocos spicata f. xanthophylla Koord. & Valeton",
+        "Symplocos spicata Roxb.",
+        "Symplocos spicata var. acuminata (Blume) Brand",
+        "Symplocos spicata var. laurina (Retz.) C.B.Clarke",
+        "Symplocos spicata var. malasica C.B.Clarke",
+        "Symplocos stenostachys Hayata",
+        "Symplocos subolivacea M.P.Price",
+        "Symplocos subspinosa Buch.-Ham. ex D.Don",
+        "Symplocos taririkensis K.Mori",
+        "Symplocos terminalis Brand",
+        "Symplocos theophrastifolia Siebold & Zucc.",
+        "Symplocos xanthophylla Jungh. & de Vriese"
+    ],
+    "familyName": "SYMPLOCACEAE",
+    "englishNames": [],
+    "sinhalaName": "Bombu (බෝඹු)",
+    "description": "මීටර් 12ක් දක්වා උසැති පඳුරක් හෝ ගසකි. පත්‍ර සෙන්ටිමීටර 6-17 x 2.5-8 ප්‍රමාණයෙන් යුක්ත වේ; පත්‍ර වෘන්තය (petiole) මිලිමීටර 5-25ක් දිගය. පුෂ්ප මංජරිය සෙන්ටිමීටර 14ක් දක්වා දිගු කරල් (spike) ආකාර වේ. උප පත්‍ර (bracts) නොමැකී පවතී. මල් කිරීටය (corolla) මිලිමීටර 3-5ක් දිගය. ඵලය බඳුනක හැඩැති (ampuliform) වන අතර, එහි දේහය ගෝලාකාර (globose) වේ; වියළි විට සිරස් අතට ඉළ ඇට වැනි රේඛා (vertically ribbed) සහිතව මිලිමීටර 6-8 x 4-6 ප්‍රමාණයෙන් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Phlegm Issues",
+            "sinhala": "සෙම ආශ්‍රිත තත්ත්ව (කඵ දෝෂ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fractures",
+            "sinhala": "අස්ථි බිඳීම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark",
+        "Stem"
+    ],
+    "images": [
+        {
+            "image_id": "369",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/SwW6WMHD/plant01287-00369.jpg"
+        },
+        {
+            "image_id": "370",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/4R5ThdPL/plant01287-00370.jpg"
+        },
+        {
+            "image_id": "4000",
+            "caption": "Flower Buds (PMR)",
+            "url": "https://i.ibb.co/HTP4jCPL/plant01287-04000.jpg"
+        },
+        {
+            "image_id": "4001",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/WNV3T0wm/plant01287-04001.jpg"
+        },
+        {
+            "image_id": "4002",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/FL6DDmg5/plant01287-04002.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Sobadam Piyasa - බෝඹු ශාකය",
+                "url": "https://youtube.com/watch?v=b7HB3lmPmNQ",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/b7HB3lmPmNQ/hq720.jpg"
+            },
+            {
+                "title": "ලොත්සුඹුල් වෙනුවට ගන්න පුළුවන් හොදම ශාකය බෝඹු | මල් වලින් හැඩවුන බෝඹු",
+                "url": "https://youtube.com/watch?v=4OxgDs37kCo",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/4OxgDs37kCo/hq720.jpg"
+            },
+            {
+                "title": "Bobu tree/බෝඹු/sympolos/medicinol plants/#ishan#/symploces cochinchinensis/",
+                "url": "https://youtube.com/watch?v=sAlGiQbLgLg",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/sAlGiQbLgLg/hq720.jpg"
+            },
+            {
+                "title": "👉 සති 2කින් කට ගඳ නැති කරන, දත් මුල් ශක්තිමත් කරන බෝඹු ගස🌿🌱😍",
+                "url": "https://youtube.com/watch?v=48wsDY9Xea4",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/48wsDY9Xea4/hq720.jpg"
+            },
+            {
+                "title": "ලොත්සුඹුල් ලංකාවේ තියෙනවද? බෝඹු, ලොත්සුඹුල් අතර සම්බන්දය මොකක්ද? | ලොත්සුඹුල්, බෝඹු (Lothsubul,Bobu)",
+                "url": "https://youtube.com/watch?v=mwrhweV8A5o",
+                "duration": "14:17",
+                "thumbnail": "https://i.ytimg.com/vi/mwrhweV8A5o/hq720.jpg"
+            },
+            {
+                "title": "බෝඹු ශාකයේ ඖෂධීය ප්‍රයෝජන ගැන ඔබත් දැනගන්න | bobu | Symplocos acuminata benefits🌿",
+                "url": "https://youtube.com/watch?v=60CwzBBpquY",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/60CwzBBpquY/hqdefault.jpg"
+            },
+            {
+                "title": "අතීතයේ දත් බුරුසුව | Bombu Tree | Bobu | symplocos | බෝඹු",
+                "url": "https://youtube.com/watch?v=ZbC5Ct00jBo",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/ZbC5Ct00jBo/hq720.jpg"
+            },
+            {
+                "title": "කැඩුම් බිඳුම් වලදී පොතු ලබාගන්නා බොඹු.",
+                "url": "https://youtube.com/watch?v=xXjkCN39h6M",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/xXjkCN39h6M/hqdefault.jpg"
+            },
+            {
+                "title": "බෝධියට පමණක් දෙවැනිව ඔබට පින් උල්පත් සාදා  දෙන කුමක්ද මේ අති සුවිශේෂී බෝඹු ගහ කියන්නේ.",
+                "url": "https://youtube.com/watch?v=BV0GsNlmrg4",
+                "duration": "13:55",
+                "thumbnail": "https://i.ytimg.com/vi/BV0GsNlmrg4/hq720.jpg"
+            },
+            {
+                "title": "දත් මදින්න මෙන්න බුරුසු | ගැමියන්ගේ දත් බුරුසුව | බෝඹු (Bobu)",
+                "url": "https://youtube.com/watch?v=dOqUkAxTYpg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/dOqUkAxTYpg/hq720.jpg"
+            },
+            {
+                "title": "Bombu flowers adorn the forest | වනය සරසන බෝඹු මල්",
+                "url": "https://youtube.com/watch?v=N1UgUEOQo7o",
+                "duration": "4:54",
+                "thumbnail": "https://i.ytimg.com/vi/N1UgUEOQo7o/hq720.jpg"
+            },
+            {
+                "title": "Bombu / Wal Bombu",
+                "url": "https://youtube.com/watch?v=ODArTbroyxw",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/ODArTbroyxw/hq720.jpg"
+            },
+            {
+                "title": "බෝම්ඹු - Bombu",
+                "url": "https://youtube.com/watch?v=wpmXGzSQlw8",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/wpmXGzSQlw8/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fractures",
-      "sinhala": "අස්ථි බිඳීම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark",
-    "Stem"
-  ],
-  "images": [
-    {
-      "image_id": "369",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/SwW6WMHD/plant01287-00369.jpg"
-    },
-    {
-      "image_id": "370",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/4R5ThdPL/plant01287-00370.jpg"
-    },
-    {
-      "image_id": "4000",
-      "caption": "Flower Buds (PMR)",
-      "url": "https://i.ibb.co/HTP4jCPL/plant01287-04000.jpg"
-    },
-    {
-      "image_id": "4001",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/WNV3T0wm/plant01287-04001.jpg"
-    },
-    {
-      "image_id": "4002",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/FL6DDmg5/plant01287-04002.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

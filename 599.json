@@ -1,161 +1,412 @@
 {
-  "scientificName": "Clitoria ternatea L.",
-  "synonyms": [
-    "Clitoria albiflora Mattei",
-    "Clitoria bracteata Poir.",
-    "Clitoria mearnsii De Wild.",
-    "Clitoria philippensis Perr.",
-    "Clitoria spectabilis Salisb.",
-    "Clitoria tanganicensis Micheli",
-    "Clitoria ternatea f. albiflora (Mattei) Chiov.",
-    "Clitoria ternatea f. albiflora (Voigt) Fantz",
-    "Clitoria ternatea f. fasciculata Fantz",
-    "Clitoria ternatea f. flaviflora Chiov.",
-    "Clitoria ternatea f. leucopetala Fantz",
-    "Clitoria ternatea f. subpolyadelpha Fantz",
-    "Clitoria ternatea var. alba Berhaut",
-    "Clitoria ternatea var. albiflora Voigt",
-    "Clitoria ternatea var. angustifolia Hochst. ex Baker f.",
-    "Clitoria ternatea var. bracteata (Poir.) DC.",
-    "Clitoria ternatea var. major Paxton",
-    "Clitoria ternatea var. pleniflora Fantz",
-    "Clitoria ternatensium Crantz",
-    "Clitoria zanzibarensis Vatke",
-    "Deguelia javanica (Miq.) Taub.",
-    "Derris javanica Miq.",
-    "Lathyrus spectabilis Forssk.",
-    "Nauchea bracteata Dupuis ex Descourt.",
-    "Nauchea ternatea (L.) Descourt.",
-    "Phaseolus clitorius Noronha",
-    "Pterocarpus javanicus (Miq.) Kuntze",
-    "Ternatea indica J.St.-Hil.",
-    "Ternatea ternatea (L.) Kuntze",
-    "Ternatea vulgaris Kunth",
-    "Wisteria dubia Walp."
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Butterfly Pea",
-    "Blue Pea",
-    "Blue Vine",
-    "Pigeon Wings",
-    "Mussel Shell Creeper"
-  ],
-  "sinhalaName": "Katarolu (කටරොළු)",
-  "description": "වැල් වර්ගයකි, කඳ මීටර් 2ක් පමණ දිගය. පත්‍ර පක්ෂාකාරව පත්‍රිකා 5-7(-9)කින් සමන්විත වන අතර, පත්‍ර අක්ෂය (rachis) සෙ.මී. 3-4ක් දිගය; පත්‍රිකා සෙ.මී. 2-4.5 x 1.2-2.5 ප්‍රමාණයෙන් යුක්ත වේ. පුෂ්ප මංජරිය පත්‍රවලට වඩා කෙටි වේ; මල් තනිව පිහිටයි; මල් උඩු යටිකුරු වී ඇති අතර සෙ.මී. 3.5-6.5ක් දිගය, පුෂ්ප වෘන්තය (pedicels) මි.මී. 5ක් පමණ දිගය; පෙති සුදු පැහැයේ සිට තද නිල් සහ දම් පැහැයන් දක්වා වර්ණවත් වන අතර සියුම් රෝම සහිත (puberulent) වේ. පලය සෙ.මී. 7-15ක් දිග සහ මි.මී. 6ක් පළල වන අතර, මි.මී. 3ක් පමණ ඝනකමකින් යුක්ත වේ, බීජ 8-12ක් අඩංගු වේ. බීජ ඩිම්බාකාර-දීර්ඝාකාර (ovoid-oblong) හැඩැති වන අතර මි.මී. 6ක් පමණ දිගය.",
-  "treatments": [
-    {
-      "treatment": "Anasarca",
-      "sinhala": "සර්වාංග ශෝථය (මුළු ශරීරයම ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Clitoria ternatea L.",
+    "synonyms": [
+        "Clitoria albiflora Mattei",
+        "Clitoria bracteata Poir.",
+        "Clitoria mearnsii De Wild.",
+        "Clitoria philippensis Perr.",
+        "Clitoria spectabilis Salisb.",
+        "Clitoria tanganicensis Micheli",
+        "Clitoria ternatea f. albiflora (Mattei) Chiov.",
+        "Clitoria ternatea f. albiflora (Voigt) Fantz",
+        "Clitoria ternatea f. fasciculata Fantz",
+        "Clitoria ternatea f. flaviflora Chiov.",
+        "Clitoria ternatea f. leucopetala Fantz",
+        "Clitoria ternatea f. subpolyadelpha Fantz",
+        "Clitoria ternatea var. alba Berhaut",
+        "Clitoria ternatea var. albiflora Voigt",
+        "Clitoria ternatea var. angustifolia Hochst. ex Baker f.",
+        "Clitoria ternatea var. bracteata (Poir.) DC.",
+        "Clitoria ternatea var. major Paxton",
+        "Clitoria ternatea var. pleniflora Fantz",
+        "Clitoria ternatensium Crantz",
+        "Clitoria zanzibarensis Vatke",
+        "Deguelia javanica (Miq.) Taub.",
+        "Derris javanica Miq.",
+        "Lathyrus spectabilis Forssk.",
+        "Nauchea bracteata Dupuis ex Descourt.",
+        "Nauchea ternatea (L.) Descourt.",
+        "Phaseolus clitorius Noronha",
+        "Pterocarpus javanicus (Miq.) Kuntze",
+        "Ternatea indica J.St.-Hil.",
+        "Ternatea ternatea (L.) Kuntze",
+        "Ternatea vulgaris Kunth",
+        "Wisteria dubia Walp."
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Butterfly Pea",
+        "Blue Pea",
+        "Blue Vine",
+        "Pigeon Wings",
+        "Mussel Shell Creeper"
+    ],
+    "sinhalaName": "Katarolu (කටරොළු)",
+    "description": "වැල් වර්ගයකි, කඳ මීටර් 2ක් පමණ දිගය. පත්‍ර පක්ෂාකාරව පත්‍රිකා 5-7(-9)කින් සමන්විත වන අතර, පත්‍ර අක්ෂය (rachis) සෙ.මී. 3-4ක් දිගය; පත්‍රිකා සෙ.මී. 2-4.5 x 1.2-2.5 ප්‍රමාණයෙන් යුක්ත වේ. පුෂ්ප මංජරිය පත්‍රවලට වඩා කෙටි වේ; මල් තනිව පිහිටයි; මල් උඩු යටිකුරු වී ඇති අතර සෙ.මී. 3.5-6.5ක් දිගය, පුෂ්ප වෘන්තය (pedicels) මි.මී. 5ක් පමණ දිගය; පෙති සුදු පැහැයේ සිට තද නිල් සහ දම් පැහැයන් දක්වා වර්ණවත් වන අතර සියුම් රෝම සහිත (puberulent) වේ. පලය සෙ.මී. 7-15ක් දිග සහ මි.මී. 6ක් පළල වන අතර, මි.මී. 3ක් පමණ ඝනකමකින් යුක්ත වේ, බීජ 8-12ක් අඩංගු වේ. බීජ ඩිම්බාකාර-දීර්ඝාකාර (ovoid-oblong) හැඩැති වන අතර මි.මී. 6ක් පමණ දිගය.",
+    "treatments": [
+        {
+            "treatment": "Anasarca",
+            "sinhala": "සර්වාංග ශෝථය (මුළු ශරීරයම ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Ascites",
+            "sinhala": "මහෝදරය (උදරයේ දියර පිරීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Migraine",
+            "sinhala": "ඉරුවාරදය (අර්ධාවභේදක)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Visceromegaly",
+            "sinhala": "උදර අභ්‍යන්තර ඉන්ද්‍රියන් විශාල වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Swollen Joints",
+            "sinhala": "සන්ධි ඉදිමීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Roots",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "217",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/JF0xGWCm/plant00599-00217.jpg"
+        },
+        {
+            "image_id": "218",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/p67dG2LM/plant00599-00218.jpg"
+        },
+        {
+            "image_id": "219",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/TB3gVqYx/plant00599-00219.jpg"
+        },
+        {
+            "image_id": "220",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/wZXs56fX/plant00599-00220.jpg"
+        },
+        {
+            "image_id": "221",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/PZ4cb12j/plant00599-00221.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "නිල් කටරොලු බීජ පැලකිරීම | Sowing Butterfly Pea Seeds & Re-potting Canna  Lily",
+                "url": "https://youtube.com/watch?v=075tKSpTm8E",
+                "duration": "16:53",
+                "thumbnail": "https://i.ytimg.com/vi/075tKSpTm8E/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 6ක් | Health Benefits Of Butterfly Pea Tea",
+                "url": "https://youtube.com/watch?v=lwZGAN8NJaM",
+                "duration": "9:22",
+                "thumbnail": "https://i.ytimg.com/vi/lwZGAN8NJaM/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=MBR3AVmcWqw",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/MBR3AVmcWqw/hq720.jpg"
+            },
+            {
+                "title": "සෙම සහ සිරුරේ විස නසන නිල් කටරොළු මලෙන් උපන් කෑම සහ බීම | Blue Butterfly Pea Flower",
+                "url": "https://youtube.com/watch?v=tw_7fOjOib4",
+                "duration": "11:59",
+                "thumbnail": "https://i.ytimg.com/vi/tw_7fOjOib4/hq720.jpg"
+            },
+            {
+                "title": "කටරොළු මලෙන් සුදු වෙන හැටි 😍 Butterfly Pea Flower Ice cubes නිල් කටරොළු අයිස් කියුබ්ස් My Charm Life",
+                "url": "https://youtube.com/watch?v=V49lSYRIfCs",
+                "duration": "6:12",
+                "thumbnail": "https://i.ytimg.com/vi/V49lSYRIfCs/hq720.jpg"
+            },
+            {
+                "title": "Elakatarol | එළ කටරොල් | එල කටරොළු | ඔසු ගුණ | @osu-1380",
+                "url": "https://youtube.com/watch?v=MVuo4SK__F4",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/MVuo4SK__F4/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka  - නිල් කටරොළු ගුණ | Benefits of Butterfly Pea | Health Benefits of Blue Clitoria Ternate",
+                "url": "https://youtube.com/watch?v=5-mHZQeAyYg",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/5-mHZQeAyYg/hq720.jpg"
+            },
+            {
+                "title": "තරුණ පෙනුම වගේම  රෝග රැසකට ගුණ දෙන නිල් කටරොලු පානය | රස දෙකකින්| Nil katarolu mal drink",
+                "url": "https://youtube.com/watch?v=b8_0HTyXuBs",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/b8_0HTyXuBs/hq720.jpg"
+            },
+            {
+                "title": "Dehydrate Blue Butterfly Pea ( විජලිත නිල් කටරොළු ) | 2023 | @DilProducts",
+                "url": "https://youtube.com/watch?v=BVS4OjFcDyg",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/BVS4OjFcDyg/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු මල් වගාව | Nil Katarolu Mal Wagawa",
+                "url": "https://youtube.com/watch?v=p2zPpGXSqcU",
+                "duration": "5:31",
+                "thumbnail": "https://i.ytimg.com/vi/p2zPpGXSqcU/hqdefault.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු බීජ පැලකිරීම | Sowing Butterfly Pea Seeds & Re-potting Canna  Lily",
+                "url": "https://youtube.com/watch?v=86ncMiyD7lA",
+                "duration": "16:53",
+                "thumbnail": "https://i.ytimg.com/vi/86ncMiyD7lA/frame0.jpg"
+            },
+            {
+                "title": "විශ්මිත කටරෝළු මලේ ගුණ අගුණ දැනගමු | Benifits of Butterfly pea | nilkatarolu | katarolu #Lokayo",
+                "url": "https://youtube.com/watch?v=pjJ7sFgYMzQ",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/pjJ7sFgYMzQ/hqdefault.jpg"
+            },
+            {
+                "title": "nilkatalolu drink|නිල් කටලොලු පානය|thuru tv.",
+                "url": "https://youtube.com/watch?v=gy8Ej-GY9Us",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/gy8Ej-GY9Us/hqdefault.jpg"
+            },
+            {
+                "title": "කටරොළු වල ඇති විශ්මිත ගුණ | Katarolu mal | LifeWin Tv",
+                "url": "https://youtube.com/watch?v=J8AMJMkdGII",
+                "duration": "9:53",
+                "thumbnail": "https://i.ytimg.com/vi/J8AMJMkdGII/hqdefault.jpg"
+            },
+            {
+                "title": "nil katarolu/නිල් කටරොලු භාවිතයේ භයානක පැත්ත /Do you know the dangerous side ?/ch one",
+                "url": "https://youtube.com/watch?v=NI7Q8VpsEGQ",
+                "duration": "13:50",
+                "thumbnail": "https://i.ytimg.com/vi/NI7Q8VpsEGQ/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු මල් (Clitoria Ternatea)| By Nutritionist  Hiroshan jayaranga",
+                "url": "https://youtube.com/watch?v=YMRqMyN5bAc",
+                "duration": "14:48",
+                "thumbnail": "https://i.ytimg.com/vi/YMRqMyN5bAc/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු මල් වල ගුණ",
+                "url": "https://youtube.com/watch?v=6_IBWiFZ64o",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/6_IBWiFZ64o/hqdefault.jpg"
+            },
+            {
+                "title": "Nil Katarolu For Diabetes | නිල් කටරොළු මල් වල සෞඛ්‍යමය ගුණ | Health Benefits of Butterfly Pea",
+                "url": "https://youtube.com/watch?v=CWR7XlK-YMg",
+                "duration": "5:49",
+                "thumbnail": "https://i.ytimg.com/vi/CWR7XlK-YMg/hq720.jpg"
+            },
+            {
+                "title": "පිලිකා නසන ,රුව වඩන නිල් කටරොළු පානය  how to make blue butterfly drink  homemade430",
+                "url": "https://youtube.com/watch?v=ALu_Ge8eL_M",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/ALu_Ge8eL_M/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග රැසක් සුවකරන කටරොළු මල්වල ඇති විශ්මිත ගුණ - Amazing properties of katarolu flowers",
+                "url": "https://youtube.com/watch?v=GpxcpMGdaM8",
+                "duration": "6:56",
+                "thumbnail": "https://i.ytimg.com/vi/GpxcpMGdaM8/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු බීම | Clitoria Ternatea Drink | Butterfly Pea Tea | Miracle Health Drink | Katarolu",
+                "url": "https://youtube.com/watch?v=ZvZs68TPqYg",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/ZvZs68TPqYg/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ පිරි නිල් කටරොළු පානය | රස දෙකකින් | Nil Katarolu Drink |  Best Natural Drink",
+                "url": "https://youtube.com/watch?v=YUQDTWLfGTQ",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/YUQDTWLfGTQ/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=dB0mf4lAmB0",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/dB0mf4lAmB0/frame0.jpg"
+            },
+            {
+                "title": "ලස්සන වෙන්න නිල් කටරොළු මල් පානය හදමු 😍|Butterfly pea flower drink | nil katarolu panaya |MS Kitchen",
+                "url": "https://youtube.com/watch?v=wzf91p0IL1E",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/wzf91p0IL1E/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු පානය හදන්නෙ මෙහෙමයි | Butterfly Pea Flower Drink | Nil katarolu panaya",
+                "url": "https://youtube.com/watch?v=LP8Cu_3eu2M",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/LP8Cu_3eu2M/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු විශ්මිත ඖෂධිය ගුණ 🌿🪻",
+                "url": "https://youtube.com/watch?v=Nil9cfvy34I",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/Nil9cfvy34I/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍ය ඖෂධය නිල් කටරොලු පානය/nil katarolu drink #butterflypea #ayurvedicdrink #bluepea #healthydrink",
+                "url": "https://youtube.com/watch?v=tCtWA3FYiWY",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/tCtWA3FYiWY/hq720.jpg"
+            },
+            {
+                "title": "Butterfly Pea Flower Drinks | නිල් කටරොළු පානය ක්‍රම 03 කට | Healthy Food Guide",
+                "url": "https://youtube.com/watch?v=CwwYQZ14UvA",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/CwwYQZ14UvA/hq720.jpg"
+            },
+            {
+                "title": "ඉක්මනින් සම පැහැපත් කරන ගෙදර හදන නිල් කටරොළු ෆේස් ක්‍රීම් එක | Nil katarolu cream | Sudu wenna",
+                "url": "https://youtube.com/watch?v=oLkJoEEU3sY",
+                "duration": "3:40",
+                "thumbnail": "https://i.ytimg.com/vi/oLkJoEEU3sY/hq720.jpg"
+            },
+            {
+                "title": "Benifits of butterfly pea( Clitoria ternatea | katarolu ) | කටරොළු වල ගුණ සහ ප්‍රයෝජන | Ceylon Agro.",
+                "url": "https://youtube.com/watch?v=l1yD85ArCbY",
+                "duration": "7:23",
+                "thumbnail": "https://i.ytimg.com/vi/l1yD85ArCbY/hq720.jpg"
+            },
+            {
+                "title": "Nil Katarolu Mal Panaya |රෝග රැසකට ගුණ නිල් කටරොලු මල් පානය | Butterfly pea flower drink",
+                "url": "https://youtube.com/watch?v=fd8Ul2B-kLw",
+                "duration": "6:37",
+                "thumbnail": "https://i.ytimg.com/vi/fd8Ul2B-kLw/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු වලින් සුවපත් කරන රෝග 11 ක් | Nil Katarolu Flower Herbal and Medicinal | Butterfly pea",
+                "url": "https://youtube.com/watch?v=2lYUBsKLESI",
+                "duration": "4:34",
+                "thumbnail": "https://i.ytimg.com/vi/2lYUBsKLESI/hq720.jpg"
+            },
+            {
+                "title": "කටරොළු මලෙන් සුදු වෙන හැටි 😍 Butterfly Pea Flower Ice cubes නිල් කටරොළු අයිස් කියුබ්ස් My Charm Life",
+                "url": "https://youtube.com/watch?v=-C9PWP7443U",
+                "duration": "6:12",
+                "thumbnail": "https://i.ytimg.com/vi/-C9PWP7443U/frame0.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු තේ පානයෙන් ශරීරයට සිදුවෙන විශ්මිත දේවල් 07ක් | 07 Health Benefits of Nil Katarolu",
+                "url": "https://youtube.com/watch?v=zlzVSE6iIuc",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/zlzVSE6iIuc/hq720.jpg"
+            },
+            {
+                "title": "Medicinal Uses And Benefits Of Clitoria Ternatea",
+                "url": "https://youtube.com/watch?v=C8oezlDoEoQ",
+                "duration": "5:19",
+                "thumbnail": "https://i.ytimg.com/vi/C8oezlDoEoQ/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=6ItxfpV8kBE",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/6ItxfpV8kBE/frame0.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු වල ඇති ‌ගුණ සහ විශේෂ තොරතුරු / Properties and Special Information of Blue Catarolu",
+                "url": "https://youtube.com/watch?v=ckNoCC9zeEw",
+                "duration": "14:44",
+                "thumbnail": "https://i.ytimg.com/vi/ckNoCC9zeEw/hq720.jpg"
+            },
+            {
+                "title": "රුව රැකදෙන රෝග රාශියකට ගුණ දෙන ඖෂධීය කටරොළු පානය",
+                "url": "https://youtube.com/watch?v=dazG0fwdLyo",
+                "duration": "5:52",
+                "thumbnail": "https://i.ytimg.com/vi/dazG0fwdLyo/hqdefault.jpg"
+            },
+            {
+                "title": "විශ්මිත නිල් කටරොලු ශාකයේ ගුණ | Nil katarolu wala guna |  Sakalawaga",
+                "url": "https://youtube.com/watch?v=AYa9m1RlZH8",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/AYa9m1RlZH8/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Katarolu Flower - කටරොලු මල් වල ගුණ ලේසියෙන් ඔබේ සිරුරට",
+                "url": "https://youtube.com/watch?v=HQ3RMgkUYMU",
+                "duration": "10:35",
+                "thumbnail": "https://i.ytimg.com/vi/HQ3RMgkUYMU/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=BE6Lk25iN8M",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/BE6Lk25iN8M/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Ascites",
-      "sinhala": "මහෝදරය (උදරයේ දියර පිරීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Migraine",
-      "sinhala": "ඉරුවාරදය (අර්ධාවභේදක)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Visceromegaly",
-      "sinhala": "උදර අභ්‍යන්තර ඉන්ද්‍රියන් විශාල වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Swollen Joints",
-      "sinhala": "සන්ධි ඉදිමීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Roots",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "217",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/JF0xGWCm/plant00599-00217.jpg"
-    },
-    {
-      "image_id": "218",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/p67dG2LM/plant00599-00218.jpg"
-    },
-    {
-      "image_id": "219",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/TB3gVqYx/plant00599-00219.jpg"
-    },
-    {
-      "image_id": "220",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/wZXs56fX/plant00599-00220.jpg"
-    },
-    {
-      "image_id": "221",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/PZ4cb12j/plant00599-00221.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

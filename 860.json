@@ -1,70 +1,189 @@
 {
-  "scientificName": "Ficus benjamina  var.benjamina#",
-  "synonyms": [
-    "Ficus benjamina f. warringiana M.F.Barrett",
-    "Ficus benjamina subsp. comosa (Roxb.) Panigrahi & Murti",
-    "Ficus benjamina var. bracteata Corner",
-    "Ficus benjamina var. comosa (Roxb.) Kurz",
-    "Ficus benjamina var. haematocarpa (Blume ex Decne.) Miq.",
-    "Ficus benjamina var. nuda (Miq.) M.F.Barrett",
-    "Ficus benjaminoides Mason",
-    "Ficus comosa Roxb.",
-    "Ficus cuspidatocaudata Hayata",
-    "Ficus dictyophylla Wall.",
-    "Ficus haematocarpa Blume ex Decne.",
-    "Ficus lucida Aiton",
-    "Ficus neglecta Decne.",
-    "Ficus nepalensis Blanco",
-    "Ficus nitida Thunb.",
-    "Ficus notobor Buch.-Ham. ex Wall.",
-    "Ficus nuda (Miq.) Miq.",
-    "Ficus papyrifera Griff.",
-    "Ficus parvifolia Oken",
-    "Ficus pendula Link",
-    "Ficus pyrifolia Salisb.",
-    "Ficus reclinata Desf.",
-    "Ficus retusa f. nitida (Thunb.) King",
-    "Ficus retusa var. nitida (Thunb.) Miq.",
-    "Ficus striata Roth",
-    "Ficus umbrina Elmer",
-    "Ficus xavieri Merr.",
-    "Urostigma benjaminum (L.) Miq.",
-    "Urostigma benjaminum var. nudum (Miq.) Miq.",
-    "Urostigma haematocarpum Miq.",
-    "Urostigma neglectum Miq.",
-    "Urostigma nitidum (Thunb.) Miq.",
-    "Urostigma nitidum Gasp.",
-    "Urostigma nudum Miq."
-  ],
-  "familyName": "MORACEAE",
-  "englishNames": [
-    "Weeping Fig",
-    "Benjamin Tree",
-    "Golden Fig",
-    "Java Fig",
-    "Tropic-laurel",
-    "Chinese Banyan"
-  ],
-  "sinhalaName": "Walu nuga (වලු නුග)",
-  "description": "අතු වලින් වායු මූලයන් (aerial roots) ස්වල්පයක් හෝ නොමැති, සදාහරිත විශාල නුග ගසකි. උප පත්‍ර (stipules) මි.මී. 12ක් පමණ දිගැති අතර යුගල වශයෙන් පිහිටයි. පත්‍ර තලය (lamina) සෙ.මී. 3-12 x 1.5-6 ප්‍රමාණයෙන් යුක්ත වේ; පත්‍ර වෘන්තය (petiole) මි.මී. 4-16 x 1-1.5 ප්‍රමාණයෙන් යුක්ත වේ. අත්තික්කා ගෙඩි (figs) වෘන්ත රහිත (sessile) වන අතර පත්‍ර කක්ෂවල (axillary) යුගල වශයෙන් පිහිටයි; මේරීමේදී කහ සිට තැඹිලි සහ තද රතු පැහැයට හැරේ; ගෙඩියේ දේහය මි.මී. 8-12 x 7-10 ප්‍රමාණයෙන් යුක්ත වේ. පිරිමි මල් බහුල වන අතර පුෂ්ප වෘන්ත (pedicels) මි.මී. 0.8-2ක් දිගය. පිත්ත මල් (gall-flowers) මි.මී. 0.2-2.8ක් දිගැති පුෂ්ප වෘන්ත සහිතය. ගැහැණු මල් වෘන්ත රහිත (sessile) වේ. පත්‍ර තලයේ දෙපැත්තේම සිස්ටොලිත් (cystoliths) පිහිටා ඇත.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "2975",
-      "caption": "Habit 1 (PMR)",
-      "url": "https://i.ibb.co/21tbf4TQ/plant00860-02975.jpg"
+    "scientificName": "Ficus benjamina  var.benjamina#",
+    "synonyms": [
+        "Ficus benjamina f. warringiana M.F.Barrett",
+        "Ficus benjamina subsp. comosa (Roxb.) Panigrahi & Murti",
+        "Ficus benjamina var. bracteata Corner",
+        "Ficus benjamina var. comosa (Roxb.) Kurz",
+        "Ficus benjamina var. haematocarpa (Blume ex Decne.) Miq.",
+        "Ficus benjamina var. nuda (Miq.) M.F.Barrett",
+        "Ficus benjaminoides Mason",
+        "Ficus comosa Roxb.",
+        "Ficus cuspidatocaudata Hayata",
+        "Ficus dictyophylla Wall.",
+        "Ficus haematocarpa Blume ex Decne.",
+        "Ficus lucida Aiton",
+        "Ficus neglecta Decne.",
+        "Ficus nepalensis Blanco",
+        "Ficus nitida Thunb.",
+        "Ficus notobor Buch.-Ham. ex Wall.",
+        "Ficus nuda (Miq.) Miq.",
+        "Ficus papyrifera Griff.",
+        "Ficus parvifolia Oken",
+        "Ficus pendula Link",
+        "Ficus pyrifolia Salisb.",
+        "Ficus reclinata Desf.",
+        "Ficus retusa f. nitida (Thunb.) King",
+        "Ficus retusa var. nitida (Thunb.) Miq.",
+        "Ficus striata Roth",
+        "Ficus umbrina Elmer",
+        "Ficus xavieri Merr.",
+        "Urostigma benjaminum (L.) Miq.",
+        "Urostigma benjaminum var. nudum (Miq.) Miq.",
+        "Urostigma haematocarpum Miq.",
+        "Urostigma neglectum Miq.",
+        "Urostigma nitidum (Thunb.) Miq.",
+        "Urostigma nitidum Gasp.",
+        "Urostigma nudum Miq."
+    ],
+    "familyName": "MORACEAE",
+    "englishNames": [
+        "Weeping Fig",
+        "Benjamin Tree",
+        "Golden Fig",
+        "Java Fig",
+        "Tropic-laurel",
+        "Chinese Banyan"
+    ],
+    "sinhalaName": "Walu nuga (වලු නුග)",
+    "description": "අතු වලින් වායු මූලයන් (aerial roots) ස්වල්පයක් හෝ නොමැති, සදාහරිත විශාල නුග ගසකි. උප පත්‍ර (stipules) මි.මී. 12ක් පමණ දිගැති අතර යුගල වශයෙන් පිහිටයි. පත්‍ර තලය (lamina) සෙ.මී. 3-12 x 1.5-6 ප්‍රමාණයෙන් යුක්ත වේ; පත්‍ර වෘන්තය (petiole) මි.මී. 4-16 x 1-1.5 ප්‍රමාණයෙන් යුක්ත වේ. අත්තික්කා ගෙඩි (figs) වෘන්ත රහිත (sessile) වන අතර පත්‍ර කක්ෂවල (axillary) යුගල වශයෙන් පිහිටයි; මේරීමේදී කහ සිට තැඹිලි සහ තද රතු පැහැයට හැරේ; ගෙඩියේ දේහය මි.මී. 8-12 x 7-10 ප්‍රමාණයෙන් යුක්ත වේ. පිරිමි මල් බහුල වන අතර පුෂ්ප වෘන්ත (pedicels) මි.මී. 0.8-2ක් දිගය. පිත්ත මල් (gall-flowers) මි.මී. 0.2-2.8ක් දිගැති පුෂ්ප වෘන්ත සහිතය. ගැහැණු මල් වෘන්ත රහිත (sessile) වේ. පත්‍ර තලයේ දෙපැත්තේම සිස්ටොලිත් (cystoliths) පිහිටා ඇත.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "2975",
+            "caption": "Habit 1 (PMR)",
+            "url": "https://i.ibb.co/21tbf4TQ/plant00860-02975.jpg"
+        },
+        {
+            "image_id": "2976",
+            "caption": "Habit 2 (PMR)",
+            "url": "https://i.ibb.co/JWLZQF5V/plant00860-02976.jpg"
+        },
+        {
+            "image_id": "2977",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/0VGxPHQr/plant00860-02977.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Ficus Repotting, වලු නුග පැල පෝච්චිවල සිටවා ගන්නේ කෙසේද ,",
+                "url": "https://youtube.com/watch?v=w7D2wsdJkv4",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/w7D2wsdJkv4/hq720.jpg"
+            },
+            {
+                "title": "සති දෙකෙන් ලස්සන බොන්සායි නුග පැලයක් හදාගන්නේ මෙහෙමයි How to create a bonsai ficus tree in two weeks",
+                "url": "https://youtube.com/watch?v=f-hiVUHRXuc",
+                "duration": "1:17",
+                "thumbnail": "https://i.ytimg.com/vi/f-hiVUHRXuc/hq720.jpg"
+            },
+            {
+                "title": "Ficus Bonsai Training   💚🌳 නුග බොන්සායි",
+                "url": "https://youtube.com/watch?v=9hnLIUF2dt4",
+                "duration": "0:17",
+                "thumbnail": "https://i.ytimg.com/vi/9hnLIUF2dt4/hqdefault.jpg"
+            },
+            {
+                "title": "Shaping a ficus microcarpa bonsai(බොන්සායි ගසක් හැඩගැන්වීම) - bonsai pruning and wiring",
+                "url": "https://youtube.com/watch?v=p7bVNw4cgQ4",
+                "duration": "19:31",
+                "thumbnail": "https://i.ytimg.com/vi/p7bVNw4cgQ4/hqdefault.jpg"
+            },
+            {
+                "title": "වලු නුග|Java Fig Tree|Dr.Dilan Ariyarathne",
+                "url": "https://youtube.com/watch?v=4tEX9FtEK-w",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/4tEX9FtEK-w/hq720.jpg"
+            },
+            {
+                "title": "බොන්සායි පුහුණු නුග පැළය bonsai training ficus tree 😍 @sg_plantzone #bonsai #love",
+                "url": "https://youtube.com/watch?v=jrVHxVrR6ww",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/jrVHxVrR6ww/hq720.jpg"
+            },
+            {
+                "title": "Ficus Bonsai (නුග බොන්සායි)repotting - training pot to bonsai pot",
+                "url": "https://youtube.com/watch?v=glXHsXTeNAA",
+                "duration": "9:51",
+                "thumbnail": "https://i.ytimg.com/vi/glXHsXTeNAA/hqdefault.jpg"
+            },
+            {
+                "title": "How to make a ficus bonsai/ නුග බොන්සායි, මුල සිට සරලව නුග බොන්සායි, from SL BONSAI WORLD",
+                "url": "https://youtube.com/watch?v=9IBkSg5idNU",
+                "duration": "4:19",
+                "thumbnail": "https://i.ytimg.com/vi/9IBkSg5idNU/hq720.jpg"
+            },
+            {
+                "title": "Ficus Repotting, වලු නුග පැල පෝච්චිවල සිටවා ගන්නේ කෙසේද ,",
+                "url": "https://youtube.com/watch?v=e4gTsnQkNM8",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/e4gTsnQkNM8/frame0.jpg"
+            },
+            {
+                "title": "වලු නුග ගස, පේරාදෙණිය මල්වත්ත.",
+                "url": "https://youtube.com/watch?v=oNzOhHSzUTI",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/oNzOhHSzUTI/hqdefault.jpg"
+            },
+            {
+                "title": "නුග අත්තක් නිවැරදිව පැලකරමු. හරිම ලේසි බොන්සයි..#bonsai #nature #love #ficus",
+                "url": "https://youtube.com/watch?v=C5PXJAxuodw",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/C5PXJAxuodw/hq720.jpg"
+            },
+            {
+                "title": "#Nuga නුග ගස ගැන ඔබට යමක් #banyan trees #srilanka#nature",
+                "url": "https://youtube.com/watch?v=vvEDgUaPJSg",
+                "duration": "13:38",
+                "thumbnail": "https://i.ytimg.com/vi/vvEDgUaPJSg/hq720.jpg"
+            },
+            {
+                "title": "නුග ගසක ස්රුපය 🌳",
+                "url": "https://youtube.com/watch?v=Fax7Z9DT3ig",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/Fax7Z9DT3ig/hq720.jpg"
+            },
+            {
+                "title": "#Nuga නුග ගස ගැන ඔබට යමක් #banyan trees #srilanka#nature",
+                "url": "https://youtube.com/watch?v=VAO6CUNQ-tI",
+                "duration": "13:38",
+                "thumbnail": "https://i.ytimg.com/vi/VAO6CUNQ-tI/frame0.jpg"
+            },
+            {
+                "title": "ඖෂධීය නුග ගස ගැන දැනගමු😃",
+                "url": "https://youtube.com/watch?v=D5pY8Omz-Nw",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/D5pY8Omz-Nw/hqdefault.jpg"
+            },
+            {
+                "title": "How to propagate a nuga,(Ficus Benjamina ) නුග අත්තක් ඉක්මනින් පැළ කර ගන්නේ කෙසේද?",
+                "url": "https://youtube.com/watch?v=HhOgeSUORoY",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/HhOgeSUORoY/hq720.jpg"
+            },
+            {
+                "title": "ficus plant care & benefits",
+                "url": "https://youtube.com/watch?v=fkq7hW05Oow",
+                "duration": "1:10",
+                "thumbnail": "https://i.ytimg.com/vi/fkq7hW05Oow/hq720.jpg"
+            },
+            {
+                "title": "BU Nuga Tree (Ficus drupacea var. Pubescens)",
+                "url": "https://youtube.com/watch?v=KAi9glySK_0",
+                "duration": "14:01",
+                "thumbnail": "https://i.ytimg.com/vi/KAi9glySK_0/hq720.jpg"
+            },
+            {
+                "title": "How to maintain ficus bonsai.. නුග බොන්සයි ශාක නිවැරදිව නඩත්තු කරමු..☺️#bonsai #nature #love #ficus",
+                "url": "https://youtube.com/watch?v=f_fKakUKCLM",
+                "duration": "6:01",
+                "thumbnail": "https://i.ytimg.com/vi/f_fKakUKCLM/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "2976",
-      "caption": "Habit 2 (PMR)",
-      "url": "https://i.ibb.co/JWLZQF5V/plant00860-02976.jpg"
-    },
-    {
-      "image_id": "2977",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/0VGxPHQr/plant00860-02977.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

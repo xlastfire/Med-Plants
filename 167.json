@@ -1,114 +1,269 @@
 {
-  "scientificName": "Corypha umbraculifera L.",
-  "synonyms": [
-    "Bessia sanguinolenta Raf.",
-    "Corypha guineensis L."
-  ],
-  "familyName": "ARECACEAE",
-  "englishNames": [
-    "Talipot Plam",
-    "Great Fan Palm"
-  ],
-  "sinhalaName": "Thala gaha (තල ගහ)",
-  "description": "බහුවාර්ෂික තල් වර්ගයක් වන මෙය මීටර් 15-20 (-25) ක උසකින් සහ සෙන්ටිමීටර 60-90 ක විෂ්කම්භයකින් යුක්ත වේ. නොමේරූ ශාකවල පත්‍ර වියළී ගියද ශාකයේම රැඳී පවතින (marcescent) අතර, මේරූ ශාකවලදී ඒවායේ බර නිසාම පත්‍ර ගැලවී වැටේ (abscising). පත්‍ර කොපුව සමහර විට පාර්ශ්වීය පත්‍රිකා සහිතව හෝ පත්‍ර දණ්ඩට (petiole) පහළින් පැහැදිලි ත්‍රිකෝණාකාර විභේදනයකින් යුක්ත වන අතර, එහි දාර තන්තුමය ලෙස දිරාපත් වේ. පත්‍ර දණ්ඩ මීටර් 3 ක් දිග වන අතර පාදම සෙන්ටිමීටර 15 ක් පළල වේ; එය පහසුවෙන් ගැලවී යන රෝම වැනි ආවරණයකින් (caduceus indumentum) වැසී ඇත. පුෂ්ප මංජරිය මීටර් 6 ක් පමණ උස වන අතර, එහි ප්‍රධාන අක්ෂයෙන් විහිදෙන පළමු පෙළ අතු තිරස්ව සහ ප්‍රත්‍යාවර්තව පිහිටයි; මේවා කුඩා වූ පත්‍ර තල සහිත පත්‍රවලින් හෝ නාලාකාර උපපත්‍රවලින් (bracts) ආවරණය වී ඇත. මල් විවෘත වූ විට මිලිමීටර 4 ක් දිග සහ මිලිමීටර 8 ක් පළල වන අතර, නැවුම්ව පවතින විට ක්‍රීම් පැහැති සුදු පැහැයක් ගනී. පල ගෝලාකාර (globose) වන අතර අළු පැහැයට හුරු කොළ පැහැයක් ගනී; විෂ්කම්භය සෙන්ටිමීටර 3 ක් පමණ වේ. බීජ ගෝලාකාර (globose) වන අතර සෙන්ටිමීටර 2 ක් පමණ විෂ්කම්භයකින් යුක්ත වේ; මතුපිට නොගැඹුරු වලවල් සහිත වේ.",
-  "treatments": [
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Corypha umbraculifera L.",
+    "synonyms": [
+        "Bessia sanguinolenta Raf.",
+        "Corypha guineensis L."
+    ],
+    "familyName": "ARECACEAE",
+    "englishNames": [
+        "Talipot Plam",
+        "Great Fan Palm"
+    ],
+    "sinhalaName": "Thala gaha (තල ගහ)",
+    "description": "බහුවාර්ෂික තල් වර්ගයක් වන මෙය මීටර් 15-20 (-25) ක උසකින් සහ සෙන්ටිමීටර 60-90 ක විෂ්කම්භයකින් යුක්ත වේ. නොමේරූ ශාකවල පත්‍ර වියළී ගියද ශාකයේම රැඳී පවතින (marcescent) අතර, මේරූ ශාකවලදී ඒවායේ බර නිසාම පත්‍ර ගැලවී වැටේ (abscising). පත්‍ර කොපුව සමහර විට පාර්ශ්වීය පත්‍රිකා සහිතව හෝ පත්‍ර දණ්ඩට (petiole) පහළින් පැහැදිලි ත්‍රිකෝණාකාර විභේදනයකින් යුක්ත වන අතර, එහි දාර තන්තුමය ලෙස දිරාපත් වේ. පත්‍ර දණ්ඩ මීටර් 3 ක් දිග වන අතර පාදම සෙන්ටිමීටර 15 ක් පළල වේ; එය පහසුවෙන් ගැලවී යන රෝම වැනි ආවරණයකින් (caduceus indumentum) වැසී ඇත. පුෂ්ප මංජරිය මීටර් 6 ක් පමණ උස වන අතර, එහි ප්‍රධාන අක්ෂයෙන් විහිදෙන පළමු පෙළ අතු තිරස්ව සහ ප්‍රත්‍යාවර්තව පිහිටයි; මේවා කුඩා වූ පත්‍ර තල සහිත පත්‍රවලින් හෝ නාලාකාර උපපත්‍රවලින් (bracts) ආවරණය වී ඇත. මල් විවෘත වූ විට මිලිමීටර 4 ක් දිග සහ මිලිමීටර 8 ක් පළල වන අතර, නැවුම්ව පවතින විට ක්‍රීම් පැහැති සුදු පැහැයක් ගනී. පල ගෝලාකාර (globose) වන අතර අළු පැහැයට හුරු කොළ පැහැයක් ගනී; විෂ්කම්භය සෙන්ටිමීටර 3 ක් පමණ වේ. බීජ ගෝලාකාර (globose) වන අතර සෙන්ටිමීටර 2 ක් පමණ විෂ්කම්භයකින් යුක්ත වේ; මතුපිට නොගැඹුරු වලවල් සහිත වේ.",
+    "treatments": [
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Peptic Ulcers",
+            "sinhala": "ආමාශයික වණ (ග්‍රහණිගත වණ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gastritis",
+            "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hyperhidrosis",
+            "sinhala": "අධික ලෙස දහඩිය දැමීම (අතිස්වේද)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Stems",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "1143",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/svS88pgq/plant00167-01143.jpg"
+        },
+        {
+            "image_id": "1144",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/gbJxvdVW/plant00167-01144.jpg"
+        },
+        {
+            "image_id": "1145",
+            "caption": "Part of the Inflorescence",
+            "url": "https://i.ibb.co/VYFKGcxC/plant00167-01145.jpg"
+        },
+        {
+            "image_id": "3416",
+            "caption": "Sapling (PMR)",
+            "url": "https://i.ibb.co/PZwZSNBk/plant00167-03416.jpg"
+        },
+        {
+            "image_id": "3417",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/Vctc3Ryy/plant00167-03417.jpg"
+        },
+        {
+            "image_id": "3418",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/SDhz7K5M/plant00167-03418.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "වස විස නැති තල වගාව - තිලක් කන්දේගම / Sesame Cultivation - Sri Lanka",
+                "url": "https://youtube.com/watch?v=cz2IuAhxHno",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/cz2IuAhxHno/hq720.jpg"
+            },
+            {
+                "title": "තලවල ගුණ/sesame tree/",
+                "url": "https://youtube.com/watch?v=njKTxWzaqZo",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/njKTxWzaqZo/hqdefault.jpg"
+            },
+            {
+                "title": "පාරම්පරික කුුමයට දවල් 12 සවස 2 අතර තල බිජ වෙන්කිරිමේ රහස  (තල ගැසිිම)",
+                "url": "https://youtube.com/watch?v=X1J0lrpPXy0",
+                "duration": "6:44",
+                "thumbnail": "https://i.ytimg.com/vi/X1J0lrpPXy0/hq720.jpg"
+            },
+            {
+                "title": "තල වගාවේ රසය | වෙහෙස සහ කටුක ක්‍රියාවලියෙන් තල ඇට සකසන්නෙ මෙහෙමයි!📽️59.",
+                "url": "https://youtube.com/watch?v=oXm8a-XPZjg",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/oXm8a-XPZjg/hqdefault.jpg"
+            },
+            {
+                "title": "තල මල් - කරල් හැදෙන විදිහ |හේන් ගොවිතැන |Thala |Agriculture Sinhala |M21 |Sanjith Dilhan",
+                "url": "https://youtube.com/watch?v=xjaLw9lz82I",
+                "duration": "0:42",
+                "thumbnail": "https://i.ytimg.com/vi/xjaLw9lz82I/hq720.jpg"
+            },
+            {
+                "title": "හේනක තල වගා කරනවනම් මේ දේවල් දැනගන්න | thala wagawa | Sesame Cultivation | thala wagawa sinhala",
+                "url": "https://youtube.com/watch?v=FG-bZpLTX88",
+                "duration": "36:30",
+                "thumbnail": "https://i.ytimg.com/vi/FG-bZpLTX88/hq720.jpg"
+            },
+            {
+                "title": "වස විස නැති තල වගාව - තිලක් කන්දේගම / Sesame Cultivation - Sri Lanka",
+                "url": "https://youtube.com/watch?v=fENksAD20Og",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/fENksAD20Og/frame0.jpg"
+            },
+            {
+                "title": "තල ඇට මෙච්චර ගුණ දායකද? | Danuwath",
+                "url": "https://youtube.com/watch?v=Kenl3c4w0Uo",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/Kenl3c4w0Uo/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ සමට ගුණ දෙන තල ගැන දැනගන්න",
+                "url": "https://youtube.com/watch?v=G_Q5qSb_r9g",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/G_Q5qSb_r9g/hq720.jpg"
+            },
+            {
+                "title": "thala thel/sesame/sesame oil/thala thel vala guna/ලිංගිකත්වයට බලපාන තල",
+                "url": "https://youtube.com/watch?v=DVRkFFmHxo8",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/DVRkFFmHxo8/hqdefault.jpg"
+            },
+            {
+                "title": "තල ගුලියක් දවස් 14ක් කෑවොත් ඇටකටු වලට වෙන මැජික් එක! | Science of Sesame Seeds (Sinhala)",
+                "url": "https://youtube.com/watch?v=gYY3yS2rZ1E",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/gYY3yS2rZ1E/hq720.jpg"
+            },
+            {
+                "title": "තල ඇට මෙච්චර ගුණ දායකද? | Danuwath",
+                "url": "https://youtube.com/watch?v=1JtZ_c-ev8M",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/1JtZ_c-ev8M/frame0.jpg"
+            },
+            {
+                "title": "හෙළ වෙදකමට ගන්නා මොනවද මේ \"තලා\" - තිලක් කන්දේගම / Medicinal plants - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=pSn1303tnAU",
+                "duration": "5:46",
+                "thumbnail": "https://i.ytimg.com/vi/pSn1303tnAU/hq720.jpg"
+            },
+            {
+                "title": "තලවල අතිවිශිෂ්ට සෞඛ්‍ය ප්‍රතිලාභ | Superfood For Strong Bones and Heart @Knowdiet496",
+                "url": "https://youtube.com/watch?v=ouCp3BpFNEI",
+                "duration": "8:38",
+                "thumbnail": "https://i.ytimg.com/vi/ouCp3BpFNEI/hq720.jpg"
+            },
+            {
+                "title": "හිසකෙස් ගැලවී යාම නතර කර ඉක්මනින් වර්ධනය කරන තල තෙල්|Sesame oil for faster hair growth|ApuruWishwaya",
+                "url": "https://youtube.com/watch?v=jaVpKVYjlOY",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/jaVpKVYjlOY/hq720.jpg"
+            },
+            {
+                "title": "Sesame Seeds /තල ඇට .... Health Benefits",
+                "url": "https://youtube.com/watch?v=1-cACswKGVI",
+                "duration": "1:44",
+                "thumbnail": "https://i.ytimg.com/vi/1-cACswKGVI/hqdefault.jpg"
+            },
+            {
+                "title": "කැලේ හැදෙන තල - තිලක් කන්දේගම / Wild Sesame - Sri Lanka",
+                "url": "https://youtube.com/watch?v=T4mIfnt7ArY",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/T4mIfnt7ArY/hq720.jpg"
+            },
+            {
+                "title": "Sesame | තල #UnseenLanka",
+                "url": "https://youtube.com/watch?v=iQtFlvuIm-c",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/iQtFlvuIm-c/hq720.jpg"
+            },
+            {
+                "title": "Sesame Seeds: The Tiny Seed with Big Health Benefits",
+                "url": "https://youtube.com/watch?v=hl_KHmf8Ebo",
+                "duration": "4:49",
+                "thumbnail": "https://i.ytimg.com/vi/hl_KHmf8Ebo/hq720.jpg"
+            },
+            {
+                "title": "Top 5 Benefits of Sesame Seed as You Get Older | 3 Sesame Anti Ageing Healthy Recipe",
+                "url": "https://youtube.com/watch?v=455TDVyjVao",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/455TDVyjVao/hq720.jpg"
+            },
+            {
+                "title": "තල ඇට මෙච්චර ගුණ දායකද? | Danuwath",
+                "url": "https://youtube.com/watch?v=DKhtXcwUdgM",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/DKhtXcwUdgM/frame0.jpg"
+            },
+            {
+                "title": "1 October 2023මාස්කන්නයට තල වැපිරීම#slfarmers,👌",
+                "url": "https://youtube.com/watch?v=w_vMWj7uCrs",
+                "duration": "9:25",
+                "thumbnail": "https://i.ytimg.com/vi/w_vMWj7uCrs/hq720.jpg"
+            },
+            {
+                "title": "තල හේනක් කරනවා නම් මෙන්න මේවාගේ කරල හොදම අස්වැන්න ගන්න",
+                "url": "https://youtube.com/watch?v=e0-tPDjElHs",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/e0-tPDjElHs/hq720.jpg"
+            },
+            {
+                "title": "සාර්ථක තල අස්වැන්නක් ලබා ගැනීමට මෙම මාස භාවිතා කරන්න",
+                "url": "https://youtube.com/watch?v=MNXERDFHUcQ",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/MNXERDFHUcQ/hq720.jpg"
+            },
+            {
+                "title": "තල ඇට මෙච්චර ගුණ දායකද? | Danuwath",
+                "url": "https://youtube.com/watch?v=bZ7N5_79uCQ",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/bZ7N5_79uCQ/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Peptic Ulcers",
-      "sinhala": "ආමාශයික වණ (ග්‍රහණිගත වණ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gastritis",
-      "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hyperhidrosis",
-      "sinhala": "අධික ලෙස දහඩිය දැමීම (අතිස්වේද)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Stems",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "1143",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/svS88pgq/plant00167-01143.jpg"
-    },
-    {
-      "image_id": "1144",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/gbJxvdVW/plant00167-01144.jpg"
-    },
-    {
-      "image_id": "1145",
-      "caption": "Part of the Inflorescence",
-      "url": "https://i.ibb.co/VYFKGcxC/plant00167-01145.jpg"
-    },
-    {
-      "image_id": "3416",
-      "caption": "Sapling (PMR)",
-      "url": "https://i.ibb.co/PZwZSNBk/plant00167-03416.jpg"
-    },
-    {
-      "image_id": "3417",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/Vctc3Ryy/plant00167-03417.jpg"
-    },
-    {
-      "image_id": "3418",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/SDhz7K5M/plant00167-03418.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

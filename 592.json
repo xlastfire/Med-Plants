@@ -1,89 +1,166 @@
 {
-  "scientificName": "Senna alexandrina var. alexandrina",
-  "synonyms": [
-    "Cassia acutifolia var. eriocarpa Maire",
-    "Cassia aethiopica Guibourt",
-    "Cassia angustifolia Vahl",
-    "Cassia decipiens Desv.",
-    "Cassia ehrenbergii Bisch.",
-    "Cassia elongata Lem.-Lis.",
-    "Cassia forsskalii Royle",
-    "Cassia italica Lam. ex Steud.",
-    "Cassia lanceolata Collad.",
-    "Cassia lanceolata Forssk.",
-    "Cassia lanceolata Wight & Arn.",
-    "Cassia lenitiva Bisch.",
-    "Cassia ligustrinoides Schrank",
-    "Cassia medica Forssk.",
-    "Cassia medicinalis Bisch.",
-    "Cassia orientalis Pers.",
-    "Cassia ovata Mérat & Lens ex Geiger",
-    "Cassia senna L.",
-    "Cassia senna var. eriocarpa (Maire) Maire",
-    "Senna alexandrina Garsault",
-    "Senna angustifolia (Vahl) Batka",
-    "Senna officinalis Roxb."
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Tinnevelly Senna",
-    "True Senna",
-    "Alexandrian Senna",
-    "Sharp Leaved Senna"
-  ],
-  "sinhalaName": "Senehe kola (සෙනෙහෙ කොළ)",
-  "description": "මීටර් 3ක් පමණ උසැති පඳුරු හෝ අර්ධ පඳුරුමය බහුවාර්ෂික ශාක වේ. පත්‍ර ග්‍රන්ථි රහිත (eglandular) වන අතර පත්‍රිකා යුගල් (3 -) 5 - 9 (- 12) කින් සමන්විත වේ; පත්‍රිකා ලාන්සාකාර (lanceolate) සිට ඉලිප්සාකාර හෝ අණ්ඩාකාර (ovate) හැඩයක් ගනී, ප්‍රමාණය 1.2 - 5 (- 6) X 3 - 10 (- 15) සෙ.මී. වේ, සාමාන්‍යයෙන් අග්‍රය උල් වූ (acute) අතර පාදය වටකුරු වේ, පත්‍ර දෙපසම රෝම සහිත (pubescent) සිට රෝම රහිත (glabrous) දක්වා විය හැක. පුෂ්ප මංජරිය අග්‍රස්ථ හෝ කක්ෂීය (axillary) වන අතර පොකුරු (racemose) ආකාර වේ, මල් (7 -) 10 - 30 ක් පමණ අඩංගු වේ, මල් කහ පැහැතිය. ඵලය දිගටි (oblong), තරමක් වක්‍ර වූ (subfalcate), විවෘත වන (dehiscent) ස්වභාවයක් ගනී, බීජ 4 - 10 ක් පමණ අඩංගු වේ. බීජ පැතලි (compressed) වන අතර දැල් වැනි රටා සහිත (reticulate) හෝ රැලි සහිත (rugose) වේ.",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Senna alexandrina var. alexandrina",
+    "synonyms": [
+        "Cassia acutifolia var. eriocarpa Maire",
+        "Cassia aethiopica Guibourt",
+        "Cassia angustifolia Vahl",
+        "Cassia decipiens Desv.",
+        "Cassia ehrenbergii Bisch.",
+        "Cassia elongata Lem.-Lis.",
+        "Cassia forsskalii Royle",
+        "Cassia italica Lam. ex Steud.",
+        "Cassia lanceolata Collad.",
+        "Cassia lanceolata Forssk.",
+        "Cassia lanceolata Wight & Arn.",
+        "Cassia lenitiva Bisch.",
+        "Cassia ligustrinoides Schrank",
+        "Cassia medica Forssk.",
+        "Cassia medicinalis Bisch.",
+        "Cassia orientalis Pers.",
+        "Cassia ovata Mérat & Lens ex Geiger",
+        "Cassia senna L.",
+        "Cassia senna var. eriocarpa (Maire) Maire",
+        "Senna alexandrina Garsault",
+        "Senna angustifolia (Vahl) Batka",
+        "Senna officinalis Roxb."
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Tinnevelly Senna",
+        "True Senna",
+        "Alexandrian Senna",
+        "Sharp Leaved Senna"
+    ],
+    "sinhalaName": "Senehe kola (සෙනෙහෙ කොළ)",
+    "description": "මීටර් 3ක් පමණ උසැති පඳුරු හෝ අර්ධ පඳුරුමය බහුවාර්ෂික ශාක වේ. පත්‍ර ග්‍රන්ථි රහිත (eglandular) වන අතර පත්‍රිකා යුගල් (3 -) 5 - 9 (- 12) කින් සමන්විත වේ; පත්‍රිකා ලාන්සාකාර (lanceolate) සිට ඉලිප්සාකාර හෝ අණ්ඩාකාර (ovate) හැඩයක් ගනී, ප්‍රමාණය 1.2 - 5 (- 6) X 3 - 10 (- 15) සෙ.මී. වේ, සාමාන්‍යයෙන් අග්‍රය උල් වූ (acute) අතර පාදය වටකුරු වේ, පත්‍ර දෙපසම රෝම සහිත (pubescent) සිට රෝම රහිත (glabrous) දක්වා විය හැක. පුෂ්ප මංජරිය අග්‍රස්ථ හෝ කක්ෂීය (axillary) වන අතර පොකුරු (racemose) ආකාර වේ, මල් (7 -) 10 - 30 ක් පමණ අඩංගු වේ, මල් කහ පැහැතිය. ඵලය දිගටි (oblong), තරමක් වක්‍ර වූ (subfalcate), විවෘත වන (dehiscent) ස්වභාවයක් ගනී, බීජ 4 - 10 ක් පමණ අඩංගු වේ. බීජ පැතලි (compressed) වන අතර දැල් වැනි රටා සහිත (reticulate) හෝ රැලි සහිත (rugose) වේ.",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Abdominal Colic",
+            "sinhala": "උදරයේ ශූල වේදනාව (බඩේ කැක්කුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "1007",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/0vLBnqG/plant00592-01007.jpg"
+        },
+        {
+            "image_id": "1008",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/Q7Ph7PPB/plant00592-01008.jpg"
+        },
+        {
+            "image_id": "1009",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/WWwZ8MvC/plant00592-01009.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Wild Senna Plant Profile",
+                "url": "https://youtube.com/watch?v=5SCg_naDRUU",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/5SCg_naDRUU/hq720.jpg"
+            },
+            {
+                "title": "ලොව ප්‍රසිද්ධ සෙනෙහෙ කොළ ගැන යමක්",
+                "url": "https://youtube.com/watch?v=ibapCO4EU-Y",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/ibapCO4EU-Y/hqdefault.jpg"
+            },
+            {
+                "title": "Senna Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=KEbGYSwKVTM",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/KEbGYSwKVTM/hq720.jpg"
+            },
+            {
+                "title": "7 Effective Senna Tea Benefits that You Should Know",
+                "url": "https://youtube.com/watch?v=2Wc2985MVCc",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/2Wc2985MVCc/hq720.jpg"
+            },
+            {
+                "title": "Acapulco plant\"Senna alata\"medicinal tree flowering plant",
+                "url": "https://youtube.com/watch?v=s8OZoXkMIu4",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/s8OZoXkMIu4/hq720_2.jpg"
+            },
+            {
+                "title": "5 health benefits of senna leaves #shorts #sennaleaves #herb",
+                "url": "https://youtube.com/watch?v=abQgE6U83vM",
+                "duration": "0:59",
+                "thumbnail": "https://i.ytimg.com/vi/abQgE6U83vM/hq720.jpg"
+            },
+            {
+                "title": "WARNING: Watch out for Ms. Senna!! She can cause permanent damage.",
+                "url": "https://youtube.com/watch?v=UyHSpwTeoCM",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/UyHSpwTeoCM/hq720_2.jpg"
+            },
+            {
+                "title": "Senna alata, flowers and rain, it attracts a lot of ants, a medicinal plant of India",
+                "url": "https://youtube.com/watch?v=5-4IIwF74QE",
+                "duration": "0:05",
+                "thumbnail": "https://i.ytimg.com/vi/5-4IIwF74QE/hq720_2.jpg"
+            },
+            {
+                "title": "My Thoughts On Herb Senna?",
+                "url": "https://youtube.com/watch?v=8V5QgNzM_1E",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/8V5QgNzM_1E/hq720.jpg"
+            },
+            {
+                "title": "Senna Tea Benefits",
+                "url": "https://youtube.com/watch?v=5atNCCH8U98",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/5atNCCH8U98/hq720_2.jpg"
+            },
+            {
+                "title": "Benefits of Senna Tea☕ රණවරා බලය |Sinhala| #beauty #senna #video #healthy #skincare  SimpleLooks 🥰",
+                "url": "https://youtube.com/watch?v=3n-vw7jtl-E",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/3n-vw7jtl-E/hq720.jpg"
+            },
+            {
+                "title": "The amazing health benefits of Akapulko/Senna alata leaves  #shortvideos   #naturalremedies",
+                "url": "https://youtube.com/watch?v=OTn_qYXb4rk",
+                "duration": "0:19",
+                "thumbnail": "https://i.ytimg.com/vi/OTn_qYXb4rk/hq720_2.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Abdominal Colic",
-      "sinhala": "උදරයේ ශූල වේදනාව (බඩේ කැක්කුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "1007",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/0vLBnqG/plant00592-01007.jpg"
-    },
-    {
-      "image_id": "1008",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/Q7Ph7PPB/plant00592-01008.jpg"
-    },
-    {
-      "image_id": "1009",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/WWwZ8MvC/plant00592-01009.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

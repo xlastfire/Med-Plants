@@ -1,203 +1,238 @@
 {
-  "scientificName": "Nerium oleander L.",
-  "synonyms": [
-    "Nerion oleandrum St.-Lag.",
-    "Nerium carneum Dum.Cours.",
-    "Nerium flavescens Spin",
-    "Nerium floridum Salisb.",
-    "Nerium grandiflorum Desf.",
-    "Nerium indicum f. leucanthum (Makino) Okuyama",
-    "Nerium indicum f. lutescens (Makino) Okuyama",
-    "Nerium indicum Mill.",
-    "Nerium indicum subsp. kotschyi (Boiss.) Rech.f.",
-    "Nerium indicum var. aurantiacum Poit.",
-    "Nerium indicum var. leucanthum Makino",
-    "Nerium indicum var. lutescens Makino",
-    "Nerium indicum var. luteum Poit.",
-    "Nerium indicum var. ochroleucum Poit.",
-    "Nerium indicum var. odorum (Aiton) Poit.",
-    "Nerium indicum var. oxiacantholens Poit.",
-    "Nerium indicum var. plenum Makino",
-    "Nerium indicum var. ragonotii C.Morren",
-    "Nerium indicum var. splendens Poit.",
-    "Nerium japonicum Gentil",
-    "Nerium kotschyi Boiss.",
-    "Nerium latifolium Mill.",
-    "Nerium lauriforme Lam.",
-    "Nerium luteum Nois. ex Steud.",
-    "Nerium madonii M.Vincent",
-    "Nerium mascatense A.DC.",
-    "Nerium odoratissimum Wender.",
-    "Nerium odoratum Lam.",
-    "Nerium odorum Aiton",
-    "Nerium odorum Salisb.",
-    "Nerium oleander atropurpureum-plenum Hovey",
-    "Nerium oleander subsp. kurdicum Rech.f.",
-    "Nerium oleander var. album G.Lodd.",
-    "Nerium oleander var. atropurpureum Van Houtte",
-    "Nerium oleander var. flore-variegato G.Lodd.",
-    "Nerium oleander var. indicum (Mill.) O.Deg. & Greenwell",
-    "Nerium oleander var. luteomarginatum Van Geert",
-    "Nerium oleander var. madonii-grandiflorum Hovey",
-    "Nerium oleander var. pictum-argenteum Van Geert",
-    "Nerium oleander var. radicans Poit.",
-    "Nerium splendens Paxton",
-    "Nerium thyrsiflorum Paxton",
-    "Nerium verecundum Salisb.",
-    "Oleander indica (Mill.) Medik.",
-    "Oleander vulgaris Medik."
-  ],
-  "familyName": "APOCYNACEAE",
-  "englishNames": [
-    "Oleander",
-    "Rose Bay",
-    "Rose Laurel",
-    "Scented Oleander",
-    "South Sea Rose",
-    "Sweet Oleander"
-  ],
-  "sinhalaName": "Kaneru (කනේරු)",
-  "description": "කිරි නොමැති දැඩි පඳුරු ශාකයකි. ළපටි අතු සහ පුෂ්ප මංජරි සියුම් රෝම සහිතය (puberulous). පත්‍ර බොහෝ විට තුන බැගින් වටවල පිහිටයි (whorls), හෙල්ලයක හැඩැති (lanceolate) වන අතර රෝම රහිතය (glabrous). පුෂ්ප මංජරි වෘන්ත සහිතය (peduncled). මල් කිරීටය දම්, රෝස හෝ සුදු පැහැතිය, කලාතුරකින් කහ පැහැයට හුරුය; නලය සෙන්ටිමීටර 2ක් පමණ දිග වන අතර ඉහළ භාගය පුනීලාකාරය (funnel-shaped). ඵල කොටස් (merocarps) සෙන්ටිමීටර 12-18ක් දිග සහ විෂ්කම්භය සෙන්ටිමීටර 0.6-6ක් වේ. බීජ බොහෝ සංඛ්‍යාවක් ඇති අතර ඝන රෝමවලින් වැසී ඇත (pilose).",
-  "treatments": [
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Nerium oleander L.",
+    "synonyms": [
+        "Nerion oleandrum St.-Lag.",
+        "Nerium carneum Dum.Cours.",
+        "Nerium flavescens Spin",
+        "Nerium floridum Salisb.",
+        "Nerium grandiflorum Desf.",
+        "Nerium indicum f. leucanthum (Makino) Okuyama",
+        "Nerium indicum f. lutescens (Makino) Okuyama",
+        "Nerium indicum Mill.",
+        "Nerium indicum subsp. kotschyi (Boiss.) Rech.f.",
+        "Nerium indicum var. aurantiacum Poit.",
+        "Nerium indicum var. leucanthum Makino",
+        "Nerium indicum var. lutescens Makino",
+        "Nerium indicum var. luteum Poit.",
+        "Nerium indicum var. ochroleucum Poit.",
+        "Nerium indicum var. odorum (Aiton) Poit.",
+        "Nerium indicum var. oxiacantholens Poit.",
+        "Nerium indicum var. plenum Makino",
+        "Nerium indicum var. ragonotii C.Morren",
+        "Nerium indicum var. splendens Poit.",
+        "Nerium japonicum Gentil",
+        "Nerium kotschyi Boiss.",
+        "Nerium latifolium Mill.",
+        "Nerium lauriforme Lam.",
+        "Nerium luteum Nois. ex Steud.",
+        "Nerium madonii M.Vincent",
+        "Nerium mascatense A.DC.",
+        "Nerium odoratissimum Wender.",
+        "Nerium odoratum Lam.",
+        "Nerium odorum Aiton",
+        "Nerium odorum Salisb.",
+        "Nerium oleander atropurpureum-plenum Hovey",
+        "Nerium oleander subsp. kurdicum Rech.f.",
+        "Nerium oleander var. album G.Lodd.",
+        "Nerium oleander var. atropurpureum Van Houtte",
+        "Nerium oleander var. flore-variegato G.Lodd.",
+        "Nerium oleander var. indicum (Mill.) O.Deg. & Greenwell",
+        "Nerium oleander var. luteomarginatum Van Geert",
+        "Nerium oleander var. madonii-grandiflorum Hovey",
+        "Nerium oleander var. pictum-argenteum Van Geert",
+        "Nerium oleander var. radicans Poit.",
+        "Nerium splendens Paxton",
+        "Nerium thyrsiflorum Paxton",
+        "Nerium verecundum Salisb.",
+        "Oleander indica (Mill.) Medik.",
+        "Oleander vulgaris Medik."
+    ],
+    "familyName": "APOCYNACEAE",
+    "englishNames": [
+        "Oleander",
+        "Rose Bay",
+        "Rose Laurel",
+        "Scented Oleander",
+        "South Sea Rose",
+        "Sweet Oleander"
+    ],
+    "sinhalaName": "Kaneru (කනේරු)",
+    "description": "කිරි නොමැති දැඩි පඳුරු ශාකයකි. ළපටි අතු සහ පුෂ්ප මංජරි සියුම් රෝම සහිතය (puberulous). පත්‍ර බොහෝ විට තුන බැගින් වටවල පිහිටයි (whorls), හෙල්ලයක හැඩැති (lanceolate) වන අතර රෝම රහිතය (glabrous). පුෂ්ප මංජරි වෘන්ත සහිතය (peduncled). මල් කිරීටය දම්, රෝස හෝ සුදු පැහැතිය, කලාතුරකින් කහ පැහැයට හුරුය; නලය සෙන්ටිමීටර 2ක් පමණ දිග වන අතර ඉහළ භාගය පුනීලාකාරය (funnel-shaped). ඵල කොටස් (merocarps) සෙන්ටිමීටර 12-18ක් දිග සහ විෂ්කම්භය සෙන්ටිමීටර 0.6-6ක් වේ. බීජ බොහෝ සංඛ්‍යාවක් ඇති අතර ඝන රෝමවලින් වැසී ඇත (pilose).",
+    "treatments": [
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Ringworm",
+            "sinhala": "දද (ඇළුම් හම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Calculi",
+            "sinhala": "මුත්‍රා ගල්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Urinary Disorders",
+            "sinhala": "මුත්‍රා පද්ධතියේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Snake Poisoning",
+            "sinhala": "සර්ප විෂ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Roots,",
+        "Bark of root",
+        "Flowers",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "227",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/8Lbn6nzW/plant00114-00227.jpg"
+        },
+        {
+            "image_id": "230",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/27C4t272/plant00114-00230.jpg"
+        },
+        {
+            "image_id": "229",
+            "caption": "Flowers of different variety",
+            "url": "https://i.ibb.co/k20Q9WTb/plant00114-00229.jpg"
+        },
+        {
+            "image_id": "3362",
+            "caption": "Young Fruit (PMR)",
+            "url": "https://i.ibb.co/2YL4mMvP/plant00114-03362.jpg"
+        },
+        {
+            "image_id": "3363",
+            "caption": "Leaves upper surface (PMR)",
+            "url": "https://i.ibb.co/tPPdJ8NJ/plant00114-03363.jpg"
+        },
+        {
+            "image_id": "3364",
+            "caption": "Leaves lower surface (PMR)",
+            "url": "https://i.ibb.co/VYw8BVfZ/plant00114-03364.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "# විශ කනේරු - මැරෙන්න නෙවෙයි ...දැනගැනීමට #",
+                "url": "https://youtube.com/watch?v=znHAbvtTi1Q",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/znHAbvtTi1Q/hq720.jpg"
+            },
+            {
+                "title": "විනාඩියක් ඇතුලත මරණය ගෙන දිය හැකි  භයානක ශාකය මල් කොළ ගෙඩි සියල්ලම විෂ Deadly plants in sir lsnka",
+                "url": "https://youtube.com/watch?v=xQmgJh-GKCM",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/xQmgJh-GKCM/hq720.jpg"
+            },
+            {
+                "title": "Most deadly and Poisonous Flower of the World/ලෝකයේ විෂම මල",
+                "url": "https://youtube.com/watch?v=sr4DPy7hvPk",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/sr4DPy7hvPk/hq720.jpg"
+            },
+            {
+                "title": "How To Grow Oleander Plant From Cuttings | In This Way Will Never Fail | @gardening4u1",
+                "url": "https://youtube.com/watch?v=-vjMmjSZ_8U",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/-vjMmjSZ_8U/hq720.jpg"
+            },
+            {
+                "title": "Kaner/Oleander Plant",
+                "url": "https://youtube.com/watch?v=W_gNTcZB4ZA",
+                "duration": "0:01",
+                "thumbnail": "https://i.ytimg.com/vi/W_gNTcZB4ZA/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Ringworm",
-      "sinhala": "දද (ඇළුම් හම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Calculi",
-      "sinhala": "මුත්‍රා ගල්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Urinary Disorders",
-      "sinhala": "මුත්‍රා පද්ධතියේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Snake Poisoning",
-      "sinhala": "සර්ප විෂ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Roots,",
-    "Bark of root",
-    "Flowers",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "227",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/8Lbn6nzW/plant00114-00227.jpg"
-    },
-    {
-      "image_id": "230",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/27C4t272/plant00114-00230.jpg"
-    },
-    {
-      "image_id": "229",
-      "caption": "Flowers of different variety",
-      "url": "https://i.ibb.co/k20Q9WTb/plant00114-00229.jpg"
-    },
-    {
-      "image_id": "3362",
-      "caption": "Young Fruit (PMR)",
-      "url": "https://i.ibb.co/2YL4mMvP/plant00114-03362.jpg"
-    },
-    {
-      "image_id": "3363",
-      "caption": "Leaves upper surface (PMR)",
-      "url": "https://i.ibb.co/tPPdJ8NJ/plant00114-03363.jpg"
-    },
-    {
-      "image_id": "3364",
-      "caption": "Leaves lower surface (PMR)",
-      "url": "https://i.ibb.co/VYw8BVfZ/plant00114-03364.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

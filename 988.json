@@ -1,211 +1,468 @@
 {
-  "scientificName": "Piper betle L.",
-  "synonyms": [],
-  "familyName": "PIPERACEAE",
-  "englishNames": [
-    "Betle",
-    "Betle Pepper",
-    "Betel Vine"
-  ],
-  "sinhalaName": "Bulath (බුලත්)",
-  "description": "බහුවාර්ෂික වැල් වර්ගයකි; කඳ අර්ධ-දැවමය (semi-woody) වේ; අග්‍රස්ථ මූලිකයන් (adventitious rootlets) මගින් බිත්ති හෝ ගස්වල එතෙමින් වැඩේ; ගැට ප්‍රදේශ ඝනකම්ය; ළපටි කොටස් රෝම රහිත (glabrous) වේ. පත්‍ර සෙන්ටිමීටර 15-20ක් දිගය, පාදස්ථය හෘදයාකාර (cordate) වේ; පත්‍ර වෘන්ත සෙන්ටිමීටර 1.8-2.5ක් දිගය; පත්‍රිකා උප පත්‍ර (stipules) පටලමය වන අතර අංකුරය වටා පිහිටයි. මල් ද්විගෘහී (dioecious) වන අතර ඝන සිලින්ඩරාකාර කරල් (spikes) ලෙස පිහිටයි. ඵල මාංසල කරල තුළ තරමක් ගිලී පවතී.",
-  "treatments": [
-    {
-      "treatment": "Cuts and Wounds",
-      "sinhala": "කැපුම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Piper betle L.",
+    "synonyms": [],
+    "familyName": "PIPERACEAE",
+    "englishNames": [
+        "Betle",
+        "Betle Pepper",
+        "Betel Vine"
+    ],
+    "sinhalaName": "Bulath (බුලත්)",
+    "description": "බහුවාර්ෂික වැල් වර්ගයකි; කඳ අර්ධ-දැවමය (semi-woody) වේ; අග්‍රස්ථ මූලිකයන් (adventitious rootlets) මගින් බිත්ති හෝ ගස්වල එතෙමින් වැඩේ; ගැට ප්‍රදේශ ඝනකම්ය; ළපටි කොටස් රෝම රහිත (glabrous) වේ. පත්‍ර සෙන්ටිමීටර 15-20ක් දිගය, පාදස්ථය හෘදයාකාර (cordate) වේ; පත්‍ර වෘන්ත සෙන්ටිමීටර 1.8-2.5ක් දිගය; පත්‍රිකා උප පත්‍ර (stipules) පටලමය වන අතර අංකුරය වටා පිහිටයි. මල් ද්විගෘහී (dioecious) වන අතර ඝන සිලින්ඩරාකාර කරල් (spikes) ලෙස පිහිටයි. ඵල මාංසල කරල තුළ තරමක් ගිලී පවතී.",
+    "treatments": [
+        {
+            "treatment": "Cuts and Wounds",
+            "sinhala": "කැපුම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nyctalopia",
+            "sinhala": "රාත්‍රී අන්ධභාවය (රේ අන්ධභාවය / කැදැත්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Infertility",
+            "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Smallpox",
+            "sinhala": "වසූරිය (Smallpox)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Lymphangitis",
+            "sinhala": "වසා නාල ප්‍රදාහයට පත්වීම (ලසිකා වාහිනී ශෝථය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Gastrointestinal Diseases",
+            "sinhala": "ආමාශගත හා බඩවැල් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Lung Diseases",
+            "sinhala": "පෙනහළු ආශ්‍රිත රෝග (පුප්ඵුස රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diphtheria",
+            "sinhala": "දොඹකරාව (ඩිප්තීරියාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worm infestations",
+            "sinhala": "පණුවන් බෝවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hypertension",
+            "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Filariasis",
+            "sinhala": "බරවා රෝගය (අලිපාදය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Root"
+    ],
+    "images": [
+        {
+            "image_id": "374",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/M589hGrR/plant00988-00374.jpg"
+        },
+        {
+            "image_id": "375",
+            "caption": "leaves and stems",
+            "url": "https://i.ibb.co/cKt4HmDD/plant00988-00375.jpg"
+        },
+        {
+            "image_id": "3875",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/gLWYCH7d/plant00988-03875.jpg"
+        },
+        {
+            "image_id": "3876",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/nMJ4wkzT/plant00988-03876.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "බුලත් වගාව ගැන තව දුරටත් දැනුම ලබා ගනිමු  #bulath #sirilak govi bima",
+                "url": "https://youtube.com/watch?v=r1bBpcBkz1I",
+                "duration": "21:48",
+                "thumbnail": "https://i.ytimg.com/vi/r1bBpcBkz1I/hq720.jpg"
+            },
+            {
+                "title": "බුලත් පැල සකස් කරන්න පුළුවන් ලේසිම ක්‍රමය | How to grow betel leaf | බුලත් වගාව | Bulath wagawa",
+                "url": "https://youtube.com/watch?v=yWw0aVtXMV8",
+                "duration": "8:33",
+                "thumbnail": "https://i.ytimg.com/vi/yWw0aVtXMV8/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්තේ බුලත් කොවුලක් හරියට හදාගමු | Siri Lak Govi Bima",
+                "url": "https://youtube.com/watch?v=EaEvftLycYY",
+                "duration": "18:41",
+                "thumbnail": "https://i.ytimg.com/vi/EaEvftLycYY/hq720.jpg"
+            },
+            {
+                "title": "බුලත් වගාව පටන්ගන්න හොඳම ක්‍රම ඉනි සිටවීම හා දළු බැඳීම How to Grow Betel",
+                "url": "https://youtube.com/watch?v=qIa7Ke7U-yU",
+                "duration": "7:58",
+                "thumbnail": "https://i.ytimg.com/vi/qIa7Ke7U-yU/hq720.jpg"
+            },
+            {
+                "title": "බුලත් කොළේ දෙපැත්ත කඩලා කන්නෙ ඇයි?  I Tissa Jananayake with Life (EP 214)",
+                "url": "https://youtube.com/watch?v=BQPlDe6CGGc",
+                "duration": "14:46",
+                "thumbnail": "https://i.ytimg.com/vi/BQPlDe6CGGc/hq720.jpg"
+            },
+            {
+                "title": "බුලත් වගාව රෝග Diseases of betel cultivation bulath wagawa roga Betel cultivation sril anka",
+                "url": "https://youtube.com/watch?v=jRFk5TnSDVc",
+                "duration": "6:59",
+                "thumbnail": "https://i.ytimg.com/vi/jRFk5TnSDVc/hq720.jpg"
+            },
+            {
+                "title": "බුලත් දළු  පැල කිරීම Planting betel leaves  බුලත් වගාව Betel cultivation බුලත් වැල් පැලකිරිම පොහොර",
+                "url": "https://youtube.com/watch?v=FSdHvziDnlI",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/FSdHvziDnlI/hq720.jpg"
+            },
+            {
+                "title": "බුලත් වැල කප්පාදු කිරිම - පැළ බුලත් වගාව (මූලික අවදිය ) Pruning the betel vine -  (initial stage)",
+                "url": "https://youtube.com/watch?v=h2poZ6Jh0iQ",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/h2poZ6Jh0iQ/hqdefault.jpg"
+            },
+            {
+                "title": "බුලත් වගාවට පොහොර දාන්නේ මෙහෙමයි | Betel Fertilizer Guide | Haritha Lokaya",
+                "url": "https://youtube.com/watch?v=MV3oFIj6m6o",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/MV3oFIj6m6o/hq720.jpg"
+            },
+            {
+                "title": "හිටවන්න හරිම බුලත් දල්ල | bulath wagawa | betel cultivation | betel growers | view lanka",
+                "url": "https://youtube.com/watch?v=87RRakMGFDQ",
+                "duration": "10:58",
+                "thumbnail": "https://i.ytimg.com/vi/87RRakMGFDQ/hqdefault.jpg"
+            },
+            {
+                "title": "Attach the betel බුලත් අමුණනනවා",
+                "url": "https://youtube.com/watch?v=CzZfBPrbgGs",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/CzZfBPrbgGs/hqdefault.jpg"
+            },
+            {
+                "title": "බුලත් වගාව රෝගවලින් වලක්වා ගනිමු/ siri lak govi Bima #bulath",
+                "url": "https://youtube.com/watch?v=SGXgGclU7vM",
+                "duration": "23:25",
+                "thumbnail": "https://i.ytimg.com/vi/SGXgGclU7vM/hq720.jpg"
+            },
+            {
+                "title": "සල්ලි ආකරයක් betel leaf greenhouse",
+                "url": "https://youtube.com/watch?v=62XnoUg2ED4",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/UArGXAj-8qM/frame0.jpg"
+            },
+            {
+                "title": "දළුමුර උපත | බුලතේ කතාව | සස ජාතකය | බුලත් ගැන",
+                "url": "https://youtube.com/watch?v=oqb5pLvSDdE",
+                "duration": "3:55",
+                "thumbnail": "https://i.ytimg.com/vi/oqb5pLvSDdE/hq720.jpg"
+            },
+            {
+                "title": "බුලත්වගාව බුලත් පැල සිටවීම බුලත් මුල් ඇද්ද වීම බුලත් වැල් බැදීම Betelcultivation,betel plants",
+                "url": "https://youtube.com/watch?v=5uJCJ8k27wc",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/5uJCJ8k27wc/hq720.jpg"
+            },
+            {
+                "title": "කොවුල් බුලත් වගාව A-Z   /   kovul  betel  cultivation full  guide / sl  raja goviya  /  bulath kovul",
+                "url": "https://youtube.com/watch?v=LP9AZhzbWtY",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/LP9AZhzbWtY/hq720.jpg"
+            },
+            {
+                "title": "බුලත් වල ගුණ මහිම පුවක්වල සහ හුනුවල ඔබ නොදත් කතාව මෙන්න  බුලත් කිව් සැණින් බොහෝ දෙනකුගේ මතකයට නැඟෙන්",
+                "url": "https://youtube.com/watch?v=UAd_nMGBLmM",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/UAd_nMGBLmM/hqdefault.jpg"
+            },
+            {
+                "title": "බුලත් කොලේ මෙතරම් ඖෂධීය ගුණයක් | Betel Plant benefits 😱",
+                "url": "https://youtube.com/watch?v=mJby_MyiaHw",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/mJby_MyiaHw/hqdefault.jpg"
+            },
+            {
+                "title": "බුලත් වල ඇති විශ්මිත ගුණ ❤️✨️",
+                "url": "https://youtube.com/watch?v=WQ2ZeDVlIDo",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/WQ2ZeDVlIDo/hq720.jpg"
+            },
+            {
+                "title": "බුලත්වල ඇති ගුණ මෙන්න #Betel_leaves #benifits",
+                "url": "https://youtube.com/watch?v=dVad4g7AI40",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/dVad4g7AI40/hq720.jpg"
+            },
+            {
+                "title": "That's why the beatle leaf obtained such acceptation - බුලත් කොලයට මෙතරම් පිළිගැනීමක්",
+                "url": "https://youtube.com/watch?v=1Sw-kUeohiw",
+                "duration": "10:42",
+                "thumbnail": "https://i.ytimg.com/vi/1Sw-kUeohiw/hq720.jpg"
+            },
+            {
+                "title": "Betel Leaf/ බුලත්වල ඇති ඹෟෂධිය ගුණ- chandu tv bibila",
+                "url": "https://youtube.com/watch?v=XDCPET6VT4w",
+                "duration": "7:05",
+                "thumbnail": "https://i.ytimg.com/vi/XDCPET6VT4w/hqdefault.jpg"
+            },
+            {
+                "title": "ඉක්මණින් ශුක්‍රානු පිටවීම ආදී රෝග රැසකට ගුණදෙන බුලත් ගැන කවදාවත් නොවැසූ ආයුර්වේද රහස්",
+                "url": "https://youtube.com/watch?v=Rnu9zjTvxv0",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/Rnu9zjTvxv0/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම ඔයා විට කෑවට බුලත් විටෙ උපත දැනන්හිටියද ? 🌿",
+                "url": "https://youtube.com/watch?v=J49Yannf698",
+                "duration": "7:14",
+                "thumbnail": "https://i.ytimg.com/vi/J49Yannf698/hq720.jpg"
+            },
+            {
+                "title": "දිය බුලත් , දිය තිප්පිලි , වතුර ගස් , ඇස්ප්‍රීන් ගස්  මෙච්චර ගුණයි කියලා ඔයාලා දන්නවාද",
+                "url": "https://youtube.com/watch?v=mZMMdV16xro",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/mZMMdV16xro/hqdefault.jpg"
+            },
+            {
+                "title": "5 ways betel leaves look beautiful |බුලත් කොළෙන් ලස්සන වෙන ක්‍රම 5ක්",
+                "url": "https://youtube.com/watch?v=2YovCIq4Pe4",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/2YovCIq4Pe4/hq720.jpg"
+            },
+            {
+                "title": "බුලත් ගැන කවදාවත් නොවැසූ  රහස් bulate sri lanka",
+                "url": "https://youtube.com/watch?v=Nzc_Kkd_WFk",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/Nzc_Kkd_WFk/hqdefault.jpg"
+            },
+            {
+                "title": "කුප්පි ලාම්පුවට දින කියු වෙද මහතා",
+                "url": "https://youtube.com/watch?v=8Z8oZc2N_mE",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/8Z8oZc2N_mE/hq720.jpg"
+            },
+            {
+                "title": "බුලත් සැපීමෙන් ඔබට ලැබෙන විශ්මිත දේවල් මෙන්න : Benefits of Betel Leaf",
+                "url": "https://youtube.com/watch?v=SUIL27vmPQI",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/SUIL27vmPQI/hq720.jpg"
+            },
+            {
+                "title": "බුලත් ගැන සරලව යමක් - තාම්බුල - Piper Bettle ( PIPERACEAE) - Bulath - Wild Herbal Medicine",
+                "url": "https://youtube.com/watch?v=FM9k4FOF4Kc",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/FM9k4FOF4Kc/hq720.jpg"
+            },
+            {
+                "title": "බුලත්  විට  හැපීමෙන් විශ්මිත ප්‍රතිපල | Betel Chewing & Health  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=uch_5dcnSHk",
+                "duration": "9:00",
+                "thumbnail": "https://i.ytimg.com/vi/uch_5dcnSHk/hq720.jpg"
+            },
+            {
+                "title": "බුලත් විටහි ගුණ | බුලත් විට පිළිකා කාරකද | Benefits of Betel Leaf | Athugala LK",
+                "url": "https://youtube.com/watch?v=-cdnVdCOXcI",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/-cdnVdCOXcI/hq720.jpg"
+            },
+            {
+                "title": "බුලත් වල ගුණ මහිම පුවක්වල සහ හුනුවල ඔබ නොදත් කතාව මෙන්න  බුලත් කිව් සැණින් බොහෝ දෙනකුගේ මතකයට නැඟෙන්",
+                "url": "https://youtube.com/watch?v=-RmCcGFQKNg",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/-RmCcGFQKNg/frame0.jpg"
+            },
+            {
+                "title": "බුලත් පිළිකා කාරකද? බුලත් කෑවට මෙච්චර ගුණයි කියලා දැනන් හිටියද? | Bulath Plant",
+                "url": "https://youtube.com/watch?v=bOf2HsM8qMk",
+                "duration": "12:27",
+                "thumbnail": "https://i.ytimg.com/vi/bOf2HsM8qMk/hq720.jpg"
+            },
+            {
+                "title": "බුලත් කන්නට පෙර මේ පිළිබද දැනුවත් වෙන්න| බුලතේ ගුණ  | Herbal plant  | Betel",
+                "url": "https://youtube.com/watch?v=M0d20neZ5CE",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/M0d20neZ5CE/hqdefault.jpg"
+            },
+            {
+                "title": "බුලත් කොවුලක් සාදා ගන්නා හැටි  How to make a betel leaf",
+                "url": "https://youtube.com/watch?v=dSL50kwnFU0",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/dSL50kwnFU0/hq720.jpg"
+            },
+            {
+                "title": "ගුණ 13 ක් දෙන ලෙස කමු බුලත් විටක්",
+                "url": "https://youtube.com/watch?v=wfJllLLHzgc",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/wfJllLLHzgc/hqdefault.jpg"
+            },
+            {
+                "title": "බුලත් සමග අතුරු බෝග#Bulath#Athuruboga#sirilakgovibima#sinhala",
+                "url": "https://youtube.com/watch?v=-DqXJR60LWc",
+                "duration": "23:36",
+                "thumbnail": "https://i.ytimg.com/vi/-DqXJR60LWc/hq720.jpg"
+            },
+            {
+                "title": "ඉහල අදායමක් ලබා ගත හැකි බුලත් වගාව සාර්ථකව කරන ආකාරය | How to grow Betel cultivation",
+                "url": "https://youtube.com/watch?v=JvgYLqPr6g8",
+                "duration": "17:56",
+                "thumbnail": "https://i.ytimg.com/vi/JvgYLqPr6g8/hq720.jpg"
+            },
+            {
+                "title": "මොනවද මේ කලු බුලත් | What is called \"Black Betel\"?",
+                "url": "https://youtube.com/watch?v=Lep1HzsUiX4",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/Lep1HzsUiX4/hq720.jpg"
+            },
+            {
+                "title": "බුලත් වගාව/ඌනතා ලක්ෂණ1/Detection and treatment of magnesium &calcium deficiency in betel cultivation",
+                "url": "https://youtube.com/watch?v=gZUrH3Ni_ok",
+                "duration": "8:40",
+                "thumbnail": "https://i.ytimg.com/vi/gZUrH3Ni_ok/hqdefault.jpg"
+            },
+            {
+                "title": "බුලත් වගාව /  බුලත් රෝග /  කොල පුල්ලි රෝගය / මහ ලෙඩේ/  bulath  roga  /  bulath  wagava",
+                "url": "https://youtube.com/watch?v=GdeJAOazWBE",
+                "duration": "14:38",
+                "thumbnail": "https://i.ytimg.com/vi/GdeJAOazWBE/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nyctalopia",
-      "sinhala": "රාත්‍රී අන්ධභාවය (රේ අන්ධභාවය / කැදැත්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Infertility",
-      "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Smallpox",
-      "sinhala": "වසූරිය (Smallpox)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Lymphangitis",
-      "sinhala": "වසා නාල ප්‍රදාහයට පත්වීම (ලසිකා වාහිනී ශෝථය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Gastrointestinal Diseases",
-      "sinhala": "ආමාශගත හා බඩවැල් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Lung Diseases",
-      "sinhala": "පෙනහළු ආශ්‍රිත රෝග (පුප්ඵුස රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Diphtheria",
-      "sinhala": "දොඹකරාව (ඩිප්තීරියාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worm infestations",
-      "sinhala": "පණුවන් බෝවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hypertension",
-      "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Filariasis",
-      "sinhala": "බරවා රෝගය (අලිපාදය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Root"
-  ],
-  "images": [
-    {
-      "image_id": "374",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/M589hGrR/plant00988-00374.jpg"
-    },
-    {
-      "image_id": "375",
-      "caption": "leaves and stems",
-      "url": "https://i.ibb.co/cKt4HmDD/plant00988-00375.jpg"
-    },
-    {
-      "image_id": "3875",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/gLWYCH7d/plant00988-03875.jpg"
-    },
-    {
-      "image_id": "3876",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/nMJ4wkzT/plant00988-03876.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

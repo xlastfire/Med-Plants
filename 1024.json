@@ -1,111 +1,506 @@
 {
-  "scientificName": "Eleusine coracana (L.) Gaertn.",
-  "synonyms": [
-    "Cynodon coracanus Raspail",
-    "Cynosurus coracanus L.",
-    "Eleusine cerealis Salisb.",
-    "Eleusine coracana var. stricta (Roxb.) Nees",
-    "Eleusine coracana var. tocussa (Fresen.) Franch.",
-    "Eleusine dagussa Schimp.",
-    "Eleusine indica subsp. coracana (L.) Lye",
-    "Eleusine indica var. coracana (L.) Fiori",
-    "Eleusine indica var. stricta (Roxb.) Chiov.",
-    "Eleusine luco Welw.",
-    "Eleusine ovalis Ehrenb. ex Sweet",
-    "Eleusine pilosa Gilli",
-    "Eleusine reniformis Divak.",
-    "Eleusine rigida Spreng.",
-    "Eleusine sphaerosperma Stokes",
-    "Eleusine stricta Roxb.",
-    "Eleusine tocussa Fresen.",
-    "Eleusine tocussa var. erytroleuca Chiov.",
-    "Eleusine tocussa var. erytromelana Chiov.",
-    "Eleusine tocussa var. flavocarpa Chiov.",
-    "Eleusine tocussa var. leucocarpa Chiov.",
-    "Eleusine tocussa var. melanocarpa Chiov.",
-    "Eleusine tocussa var. olivacea Chiov."
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Bran",
-    "Finger Millet",
-    "African Millet",
-    "Coracan"
-  ],
-  "sinhalaName": "Kurakkan (කුරක්කන්)",
-  "description": "සෙන්ටිමීටර 30-100ක් උසැති වාර්ෂික ශාකයකි; කඳේ පුරුක් (culm-internodes) හරස්කඩින් ඉලිප්සාකාර වේ. පත්‍ර බොහෝ දුරට පාදස්ථ වේ. පත්‍ර කොපු (leaf-sheaths) කීලිත (keeled) වේ; පිටත දාරය රෝම සහිතය. පත්‍ර දිව (ligule) සිලියෝලේට් (ciliolate) පටලයකින් සමන්විතය. පත්‍ර තල (leaf-blades) කොන්ඩුප්ලිකේට් (conduplicate) වේ; දිග සෙන්ටිමීටර 30-60ක් සහ පළල මිලිමීටර 6-12ක් වේ. පුෂ්ප මංජරිය රේසීම් (racemes) වලින් සමන්විතය. පුෂ්ප දණ්ඩ (peduncle) ග්ලැබ්‍රස් (glabrous - රෝම රහිත) වේ, නැතහොත් ඉහළින් (රේසීම් පාදයේ) පයිලෝස් (pilose - රෝම සහිත) වේ. රේසීම් 4-7ක් ඇත; ඇඟිලි ආකාර (digitate); කෙළින් පිහිටි (erect); රේඛීය හෝ දිගටි (oblong); ඇතුළට නැමුණු (incurved); ඒකපාර්ශ්වික (unilateral); දිග සෙන්ටිමීටර 3-8ක් සහ පළල මිලිමීටර 9-15ක් වේ. රචිස් (rhachis) පියාපත් රහිතය (wingless); පැතලි වේ. ස්පයික්ලට් (spikelets) රචිස් එකට පැත්තකින් පිහිටයි; තදින් ඇසිරී ඇත; ක්‍රමවත්ය; පේළි 2කි. ස්පයික්ලට් තනිව පිහිටයි. සරු ස්පයික්ලට් වෘන්ත රහිත (sessile) වේ. කැරියෝප්සිස් (caryopsis) නිදහස් මෘදු පෙරිකාප් (pericarp) සහිතය; වෘත්තාකාර (orbicular); සමව්‍යාස (isodiametric); ද්වි-උත්තල (biconvex); මේරූ විට විවෘත වූ ලෙමා (lemma) සහ පේලියා (palea) අතර නිරාවරණය වේ; දිග මිලිමීටර 1.5-2.5ක් වේ; තද දුඹුරු පැහැතිය; රළු (rugose) වේ.",
-  "treatments": [
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Eleusine coracana (L.) Gaertn.",
+    "synonyms": [
+        "Cynodon coracanus Raspail",
+        "Cynosurus coracanus L.",
+        "Eleusine cerealis Salisb.",
+        "Eleusine coracana var. stricta (Roxb.) Nees",
+        "Eleusine coracana var. tocussa (Fresen.) Franch.",
+        "Eleusine dagussa Schimp.",
+        "Eleusine indica subsp. coracana (L.) Lye",
+        "Eleusine indica var. coracana (L.) Fiori",
+        "Eleusine indica var. stricta (Roxb.) Chiov.",
+        "Eleusine luco Welw.",
+        "Eleusine ovalis Ehrenb. ex Sweet",
+        "Eleusine pilosa Gilli",
+        "Eleusine reniformis Divak.",
+        "Eleusine rigida Spreng.",
+        "Eleusine sphaerosperma Stokes",
+        "Eleusine stricta Roxb.",
+        "Eleusine tocussa Fresen.",
+        "Eleusine tocussa var. erytroleuca Chiov.",
+        "Eleusine tocussa var. erytromelana Chiov.",
+        "Eleusine tocussa var. flavocarpa Chiov.",
+        "Eleusine tocussa var. leucocarpa Chiov.",
+        "Eleusine tocussa var. melanocarpa Chiov.",
+        "Eleusine tocussa var. olivacea Chiov."
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Bran",
+        "Finger Millet",
+        "African Millet",
+        "Coracan"
+    ],
+    "sinhalaName": "Kurakkan (කුරක්කන්)",
+    "description": "සෙන්ටිමීටර 30-100ක් උසැති වාර්ෂික ශාකයකි; කඳේ පුරුක් (culm-internodes) හරස්කඩින් ඉලිප්සාකාර වේ. පත්‍ර බොහෝ දුරට පාදස්ථ වේ. පත්‍ර කොපු (leaf-sheaths) කීලිත (keeled) වේ; පිටත දාරය රෝම සහිතය. පත්‍ර දිව (ligule) සිලියෝලේට් (ciliolate) පටලයකින් සමන්විතය. පත්‍ර තල (leaf-blades) කොන්ඩුප්ලිකේට් (conduplicate) වේ; දිග සෙන්ටිමීටර 30-60ක් සහ පළල මිලිමීටර 6-12ක් වේ. පුෂ්ප මංජරිය රේසීම් (racemes) වලින් සමන්විතය. පුෂ්ප දණ්ඩ (peduncle) ග්ලැබ්‍රස් (glabrous - රෝම රහිත) වේ, නැතහොත් ඉහළින් (රේසීම් පාදයේ) පයිලෝස් (pilose - රෝම සහිත) වේ. රේසීම් 4-7ක් ඇත; ඇඟිලි ආකාර (digitate); කෙළින් පිහිටි (erect); රේඛීය හෝ දිගටි (oblong); ඇතුළට නැමුණු (incurved); ඒකපාර්ශ්වික (unilateral); දිග සෙන්ටිමීටර 3-8ක් සහ පළල මිලිමීටර 9-15ක් වේ. රචිස් (rhachis) පියාපත් රහිතය (wingless); පැතලි වේ. ස්පයික්ලට් (spikelets) රචිස් එකට පැත්තකින් පිහිටයි; තදින් ඇසිරී ඇත; ක්‍රමවත්ය; පේළි 2කි. ස්පයික්ලට් තනිව පිහිටයි. සරු ස්පයික්ලට් වෘන්ත රහිත (sessile) වේ. කැරියෝප්සිස් (caryopsis) නිදහස් මෘදු පෙරිකාප් (pericarp) සහිතය; වෘත්තාකාර (orbicular); සමව්‍යාස (isodiametric); ද්වි-උත්තල (biconvex); මේරූ විට විවෘත වූ ලෙමා (lemma) සහ පේලියා (palea) අතර නිරාවරණය වේ; දිග මිලිමීටර 1.5-2.5ක් වේ; තද දුඹුරු පැහැතිය; රළු (rugose) වේ.",
+    "treatments": [
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Bone Fractures",
+            "sinhala": "අස්ථි බිඳීම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worm infestations",
+            "sinhala": "පණුවන් බෝවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "1525",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/fVtZGwNb/plant01024-01525.jpg"
+        },
+        {
+            "image_id": "1526",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/G4Yr0qDz/plant01024-01526.jpg"
+        },
+        {
+            "image_id": "1527",
+            "caption": "Seeds",
+            "url": "https://i.ibb.co/JWb21z4T/plant01024-01527.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කුරක්කන් කෑවොත් ලැබෙන දේවල් මෙන්න : Benefits of Ragi Kurakkan (NEW) 2019",
+                "url": "https://youtube.com/watch?v=oKoud-XKUeA",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/oKoud-XKUeA/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවම ඇත්තටම ලෙඩ හොද වෙනවද? Finger Millet By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0KOSVb6dZNM",
+                "duration": "11:05",
+                "thumbnail": "https://i.ytimg.com/vi/0KOSVb6dZNM/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් ගැන තිත්ත ඇත්ත | Finger Millet By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=IlqMfYIuHq0",
+                "duration": "10:26",
+                "thumbnail": "https://i.ytimg.com/vi/IlqMfYIuHq0/hq720.jpg"
+            },
+            {
+                "title": "Finger millet cultivation - කුරක්කන් වගාව",
+                "url": "https://youtube.com/watch?v=JThmGm-EQMw",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/JThmGm-EQMw/hqdefault.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවොත් ලැබෙන දේවල් මෙන්න : Benefits of Ragi Kurakkan (NEW) 2019",
+                "url": "https://youtube.com/watch?v=bvkR-h9nSL0",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/bvkR-h9nSL0/frame0.jpg"
+            },
+            {
+                "title": "කුරක්කන් වල ඇති වැදගත්කම සහ එහි විශ්මිත ගුණ Kurakkkan benefit for us | Lokayedhanuma",
+                "url": "https://youtube.com/watch?v=cRS5Tkd2PzY",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/cRS5Tkd2PzY/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවාම දියවැඩියාව ට මොකද වෙන්නේ. ?09/01/2923",
+                "url": "https://youtube.com/watch?v=id-emAj37WY",
+                "duration": "8:16",
+                "thumbnail": "https://i.ytimg.com/vi/id-emAj37WY/hq720.jpg"
+            },
+            {
+                "title": "how to create guna agua kurakkan(කුරක්කන් කෑවොත් වෙනදේ) See what happens if you eat Kurahan",
+                "url": "https://youtube.com/watch?v=R3-3mpAcIXU",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/R3-3mpAcIXU/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් වල ගුණ",
+                "url": "https://youtube.com/watch?v=6sdkFZGIFhA",
+                "duration": "4:33",
+                "thumbnail": "https://i.ytimg.com/vi/6sdkFZGIFhA/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් සතු විස්මිත ගුණ ගැන ඔබ දන්නවාද",
+                "url": "https://youtube.com/watch?v=6uJE5iHfqII",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/6uJE5iHfqII/hqdefault.jpg"
+            },
+            {
+                "title": "කුරක්කන් ගුණදායක වෙන්නෙ මෙහෙමයි",
+                "url": "https://youtube.com/watch?v=JOTRyemaqXE",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/JOTRyemaqXE/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් වගාව | kurakkan Cultivation | Agri Life with Dilupa Akalanka",
+                "url": "https://youtube.com/watch?v=lCgUr6KAoGo",
+                "duration": "5:55",
+                "thumbnail": "https://i.ytimg.com/vi/lCgUr6KAoGo/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් වගාවක් සිදු කරන හැටි සරලවම / kurakkan wagawa | kurakkan Cultivation",
+                "url": "https://youtube.com/watch?v=PhDxpqsmQ5g",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/PhDxpqsmQ5g/hq720.jpg"
+            },
+            {
+                "title": "#කුරක්කන්|#Eleusine coracana|#Kurakkan",
+                "url": "https://youtube.com/watch?v=UMX5RHBXEUE",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/UMX5RHBXEUE/hq720.jpg"
+            },
+            {
+                "title": "කුරහන් හැලප, රොටී කාල තියෙනවාද ?මෙන්න කුරක්කන් ශාකය දැකල නැති අයට |Kurakkan plant |Ceylon Survival",
+                "url": "https://youtube.com/watch?v=_FEd8s7yaQo",
+                "duration": "0:40",
+                "thumbnail": "https://i.ytimg.com/vi/_FEd8s7yaQo/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් වගාව | kurakkan Cultivation | Agri Life with Dilupa Akalanka",
+                "url": "https://youtube.com/watch?v=sU5LKTacqhE",
+                "duration": "5:55",
+                "thumbnail": "https://i.ytimg.com/vi/sU5LKTacqhE/frame0.jpg"
+            },
+            {
+                "title": "අපතේ යන ඉඩේ වවමු කුරක්කන් | kurakkan Cultivation | Kurakkan Wagawa | kurahan wagawa",
+                "url": "https://youtube.com/watch?v=4FJiz81uiZY",
+                "duration": "59:00",
+                "thumbnail": "https://i.ytimg.com/vi/4FJiz81uiZY/hq720.jpg"
+            },
+            {
+                "title": "අතීතයේ රෝග සුව කළ විශ්මිත ආහාරය - Health benefits of ragi kurakkan",
+                "url": "https://youtube.com/watch?v=8AnL50CIAmU",
+                "duration": "0:32",
+                "thumbnail": "https://i.ytimg.com/vi/8AnL50CIAmU/hq720.jpg"
+            },
+            {
+                "title": "Finger Millet/Kurakkan Health Benefits for Colon Cancer-Heart disease-Diabetes & Why Millets BAD?",
+                "url": "https://youtube.com/watch?v=aiCKVE2BN7k",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/aiCKVE2BN7k/hq720.jpg"
+            },
+            {
+                "title": "රසට සුවදට කුරක්කන් කැද එකක් හදමු - Kurakkan Kenda | Kurakkan Recipe | LK Kitchen | Kurakkan",
+                "url": "https://youtube.com/watch?v=o9jFjeksn-Y",
+                "duration": "7:13",
+                "thumbnail": "https://i.ytimg.com/vi/o9jFjeksn-Y/hq720.jpg"
+            },
+            {
+                "title": "කන්න හොඳම රතු බත් ද? සුදු බත් ද? | ආට , කුරක්කන් , පාන් පිටි වල වෙනස මොකක්ද ?",
+                "url": "https://youtube.com/watch?v=x9XfTXMaGDU",
+                "duration": "13:37",
+                "thumbnail": "https://i.ytimg.com/vi/x9XfTXMaGDU/hqdefault.jpg"
+            },
+            {
+                "title": "✔ රසයෙන් ගුණයෙන් පිරි කුරක්කන් කැඳ (kurakkan) Healthy finger millet porridge by Apé Amma",
+                "url": "https://youtube.com/watch?v=cVWyMAydZck",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/cVWyMAydZck/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් පිටි දියවැඩියාවට  හොඳද,?|Sugar Test with kurakkan |දුඹුරු හෝ රතු ආහාර දියවැඩියා රෝගීන්ට ද?|",
+                "url": "https://youtube.com/watch?v=Q1ntRC845g0",
+                "duration": "15:23",
+                "thumbnail": "https://i.ytimg.com/vi/Q1ntRC845g0/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කැඳ|kurakkan kanda|sri lanka 💓M.R KITCHEN💓",
+                "url": "https://youtube.com/watch?v=f7FbiZgpYM0",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/f7FbiZgpYM0/hq720.jpg"
+            },
+            {
+                "title": "පෝෂණීය කුරක්කන් කැඳ,පැණිරස ගාවන්නෙ නැතුව රසට හදාගන්න විදිහ.Healthy Finger Millet Porridge.",
+                "url": "https://youtube.com/watch?v=e8Y7gjkb9_8",
+                "duration": "5:44",
+                "thumbnail": "https://i.ytimg.com/vi/e8Y7gjkb9_8/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ උතුරන සව් මිශ්‍ර කුරක්කන් කැඳ|Sago mixed Finger Millet Gruel Recipe(Eng Sub)|Tharuz Cafe",
+                "url": "https://youtube.com/watch?v=V-RAuskAIuA",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/V-RAuskAIuA/hq720.jpg"
+            },
+            {
+                "title": "weight loss friendly😍හැමදාම උනත් බොන්න පුලුවන් රස ගුණ කුරක්කන් කැද😋 #easy #weightloss #ytviral  #yt",
+                "url": "https://youtube.com/watch?v=k7NKcAlJz2Q",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/k7NKcAlJz2Q/hq720.jpg"
+            },
+            {
+                "title": "රසට නිවැරදිව කුරක්කන් කැඳ හදමු| Kurakkan kenda| Kurakkan recipe sinhala| kurakkan porridge",
+                "url": "https://youtube.com/watch?v=xbJVlORQPyo",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/xbJVlORQPyo/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කැද(සව්,කජු,වියළි මිදි මිශ්‍ර)රෝග රැසකට ගුණ ගෙනදේ #kurakkankand#kandarecipe#cookwithhansi",
+                "url": "https://youtube.com/watch?v=O1UWRwaf3XY",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/O1UWRwaf3XY/hq720.jpg"
+            },
+            {
+                "title": "ඔස්ටියෝපොරෝසිස් වලට ගුණ කුරක්කන්  🌱☘️🌳",
+                "url": "https://youtube.com/watch?v=ZA1RzIYQyIA",
+                "duration": "1:20",
+                "thumbnail": "https://i.ytimg.com/vi/ZA1RzIYQyIA/hq720.jpg"
+            },
+            {
+                "title": "පුළුන් වගේ මෙලෙකට කුරක්කන් වලින් රස ගුණ පිරි කෑමක්😍|#dinnerrecipe [💕Deliciously COOK 💕]",
+                "url": "https://youtube.com/watch?v=yOwYCdYDH-0",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/yOwYCdYDH-0/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් පිටි බිස්නස් කරලා මාසෙකට ලක්ශයක් හොයමු - kurakkan piti business",
+                "url": "https://youtube.com/watch?v=SN9OEia2JPI",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/SN9OEia2JPI/hq720.jpg"
+            },
+            {
+                "title": "✔️✔️ලෙඩ රැසකට ගුණ ඇති කුරක්කන් කිරි පැණි විනාඩි 10 න් kurakkan Kada #kurakkan #kada #srilankanfood .",
+                "url": "https://youtube.com/watch?v=HqppUVyepiI",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/HqppUVyepiI/hq720.jpg"
+            },
+            {
+                "title": "රසට,නිවැරැදිව කුරහන් තලප හදමු / kurahan thalapa recipe in sinhala / Rasa rahasa",
+                "url": "https://youtube.com/watch?v=PWWgQEZmeyU",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/PWWgQEZmeyU/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව මට්ටු කරන්න මේ විදියට කුරක්කන්, මුං ඇට කැද එකක් බොන්න.",
+                "url": "https://youtube.com/watch?v=ifIWONS9HRE",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/ifIWONS9HRE/hqdefault.jpg"
+            },
+            {
+                "title": "රසය ගුණය පිරුණු කුරක්කන් කැඳ හදමුද?❤️✔️How to make kurakkan keda😍Healthy Drink",
+                "url": "https://youtube.com/watch?v=Atc9ZUupkmw",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/Atc9ZUupkmw/hqdefault.jpg"
+            },
+            {
+                "title": "කුරක්කන් වැඩි වැඩන් ආහාරයට ගනිමු (finger millet)",
+                "url": "https://youtube.com/watch?v=Z2ynPJnI8TA",
+                "duration": "0:29",
+                "thumbnail": "https://i.ytimg.com/vi/Z2ynPJnI8TA/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට තිත තියන කුරක්කන් බෙහෙත​ -diyawediyawata thita thiyana kurakkan behetha diabetes| sugar",
+                "url": "https://youtube.com/watch?v=DXmf3AGS040",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/DXmf3AGS040/hq720.jpg"
+            },
+            {
+                "title": "තේ බොන වෙලාවට විනාඩි 15 න් කුරක්කන් දොදොල්/kurakkan dodol sinhala",
+                "url": "https://youtube.com/watch?v=60Tk7-LmWCA",
+                "duration": "6:53",
+                "thumbnail": "https://i.ytimg.com/vi/60Tk7-LmWCA/hq720.jpg"
+            },
+            {
+                "title": "ගල්කූර ශාකයේ ඇති විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=6WMO4IRJVqM",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/6WMO4IRJVqM/hqdefault.jpg"
+            },
+            {
+                "title": "කංකුන් වල ගුණ | Water spinach | Kankun",
+                "url": "https://youtube.com/watch?v=G41zv5x18Yo",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/G41zv5x18Yo/hq720.jpg"
+            },
+            {
+                "title": "විද්‍යාත්මකව තාහවුරු කල ශ්‍රී ලාංකික කුරුඳු සතු විශ්මිත ගුන 8 ක්",
+                "url": "https://youtube.com/watch?v=LskI19qCTMY",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/LskI19qCTMY/hqdefault.jpg"
+            },
+            {
+                "title": "කූර තම්පලා වල ගුණ | Kuura thampala wala guna | Sakalawaga",
+                "url": "https://youtube.com/watch?v=GqvP2KOEdOc",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/GqvP2KOEdOc/hqdefault.jpg"
+            },
+            {
+                "title": "කුරුඳු වල විශ්මිත ගුණ . Ayurvedic value of cinnamon.",
+                "url": "https://youtube.com/watch?v=HYqpafpiFWE",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/HYqpafpiFWE/hq720.jpg"
+            },
+            {
+                "title": "කෝවක්කා ගුණ මහිම .රුධිරගත සීනි පාලනයට . Kowakka /Lvy gourd /Coccinia grandis.",
+                "url": "https://youtube.com/watch?v=QPge4vdeK6o",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/QPge4vdeK6o/hq720.jpg"
+            },
+            {
+                "title": "🔴🔵රටකජු වල සැඟවුණු \"ගුණ සහ අගුණ\" මෙන්න | Benefits and Risks of Peanuts Sinhala | Hela Suwa TV",
+                "url": "https://youtube.com/watch?v=BIFcznWW2So",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/BIFcznWW2So/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ කුඩු දවස් 14ක් බිව්වොත් වෙන විස්මිත දේ! | Benefits of Moringa Powder (Sinhala)",
+                "url": "https://youtube.com/watch?v=n2bpVCsvkfM",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/n2bpVCsvkfM/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "මේ සියළු රෝග සුවකර ඔබව පැහැපත් කර තරුණ කරන ලොව හොදම පානය.. Turmeric Tea Benefits & Recipe.",
+                "url": "https://youtube.com/watch?v=XnH1pCjnbNo",
+                "duration": "12:08",
+                "thumbnail": "https://i.ytimg.com/vi/XnH1pCjnbNo/hq720.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "වරකා කන අයට ලැබෙන දේවල් මෙන්න : Benefits of jackfruit",
+                "url": "https://youtube.com/watch?v=cP0w7SSMdfU",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/cP0w7SSMdfU/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ කෑවම මොකද වෙන්නෙ : Health benefits of Kiri Aguna",
+                "url": "https://youtube.com/watch?v=o8vWzWsojxI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/o8vWzWsojxI/hq720.jpg"
+            },
+            {
+                "title": "කන්කුන් කෑමට පෙර මේ ගැන සිතන්න | Kankun | Water spinach benefits🌿",
+                "url": "https://youtube.com/watch?v=4NfxK-LH0N0",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/4NfxK-LH0N0/hqdefault.jpg"
+            },
+            {
+                "title": "කැරම් කොකු කෑවොත් වෙන දේ මෙන්න : Benefits of Fern caram",
+                "url": "https://youtube.com/watch?v=xROUYGBhQ48",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/xROUYGBhQ48/hq720.jpg"
+            },
+            {
+                "title": "කොළකැඳ බොන්න කලින් දැන ගන්න| Kola Kenda - 10 Plants for Herbal Porridge | Part 01",
+                "url": "https://youtube.com/watch?v=rU6NDyBgfGU",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/rU6NDyBgfGU/hq720.jpg"
+            },
+            {
+                "title": "Kathurumurunga Health Benefits : කතුරුමුරුංගා කෑවොත් මොකද වෙන්නෙ",
+                "url": "https://youtube.com/watch?v=eRo0zHRptYE",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/eRo0zHRptYE/hq720.jpg"
+            },
+            {
+                "title": "කංකුං කෑවොත් මොකද වෙන්නෙ : Water Spinach Benefits",
+                "url": "https://youtube.com/watch?v=RxKSa0l8Fnk",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/RxKSa0l8Fnk/hq720.jpg"
+            },
+            {
+                "title": "රජයේ අනුමත කෝප්ප කොළ කෑවොත් වෙන දේ මෙන්න : Benefits of Croton Leaves",
+                "url": "https://youtube.com/watch?v=sXY5rc_CYSA",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/sXY5rc_CYSA/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළවල තිත්ත ඇත්ත | Drumstick leaves & Health  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=aj0a9Jt6_GE",
+                "duration": "10:50",
+                "thumbnail": "https://i.ytimg.com/vi/aj0a9Jt6_GE/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම මුරුංගා කොළ යුෂ කෝප්පයක් බිව්වොත් ශරීරයට සිදුවන විශ්මිත දේවල් - Health Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=eJvVlXTMwjI",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/eJvVlXTMwjI/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක් ගසේ ඇති ඖෂධීය ප්‍රයෝජන | kumbuk plant benefits | Terminalia Arjuna ✅🌿",
+                "url": "https://youtube.com/watch?v=mewJ4ysNBNc",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/mewJ4ysNBNc/hqdefault.jpg"
+            },
+            {
+                "title": "දන්නෙ නැතුවද කුරුදු බිවුවෙ? | Cinnamon for Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WlVF9YZgJQ8",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/WlVF9YZgJQ8/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන කුරක්කන් කැඳ | Healthy Finger Millet Porridge By Surangi's Kitchen",
+                "url": "https://youtube.com/watch?v=HIB-1v3UOFE",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/HIB-1v3UOFE/hq720.jpg"
+            },
+            {
+                "title": "කංකුං  කනවද? | Kangkung (Water Spinach) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WDR_OvMpd44",
+                "duration": "14:18",
+                "thumbnail": "https://i.ytimg.com/vi/WDR_OvMpd44/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits of Turkey Berry for a Healthy Diet! - Credihealth",
+                "url": "https://youtube.com/watch?v=bQ1PtV5pukg",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/bQ1PtV5pukg/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Bone Fractures",
-      "sinhala": "අස්ථි බිඳීම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worm infestations",
-      "sinhala": "පණුවන් බෝවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "1525",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/fVtZGwNb/plant01024-01525.jpg"
-    },
-    {
-      "image_id": "1526",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/G4Yr0qDz/plant01024-01526.jpg"
-    },
-    {
-      "image_id": "1527",
-      "caption": "Seeds",
-      "url": "https://i.ibb.co/JWb21z4T/plant01024-01527.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

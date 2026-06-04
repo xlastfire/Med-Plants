@@ -1,228 +1,533 @@
 {
-  "scientificName": "Manihot esculenta Crantz",
-  "synonyms": [
-    "Janipha aipi (Pohl) J.Presl",
-    "Janipha manihot (L.) Kunth",
-    "Jatropha aipi (Pohl) Göpp.",
-    "Jatropha diffusa (Pohl) Steud.",
-    "Jatropha digitiformis (Pohl) Steud.",
-    "Jatropha dulcis J.F.Gmel.",
-    "Jatropha flabellifolia (Pohl) Steud.",
-    "Jatropha glauca A.Rich.",
-    "Jatropha janipha Lour.",
-    "Jatropha lobata var. richardiana Müll.Arg.",
-    "Jatropha loureiroi (Pohl) Steud.",
-    "Jatropha manihot L.",
-    "Jatropha mitis Rottb.",
-    "Jatropha mitis Sessé & Moc.",
-    "Jatropha paniculata Ruiz & Pav. ex Pax",
-    "Jatropha silvestris Vell.",
-    "Jatropha stipulata Vell.",
-    "Mandioca aipi (Pohl) Link",
-    "Mandioca dulcis (J.F.Gmel.) D.Parodi",
-    "Mandioca utilissima (Pohl) Link",
-    "Manihot aipi Pohl",
-    "Manihot aipi var. lanceolata Pohl",
-    "Manihot aipi var. latifolia Pohl",
-    "Manihot aipi var. lutescens Pohl",
-    "Manihot aypi Spruce",
-    "Manihot cannabina Sweet",
-    "Manihot cassava Cook & Collins",
-    "Manihot diffusa Pohl",
-    "Manihot digitiformis Pohl",
-    "Manihot dulcis (J.F.Gmel.) Baill.",
-    "Manihot dulcis var. aipi (Pohl) Pax",
-    "Manihot dulcis var. diffusa (Pohl) Pax",
-    "Manihot dulcis var. flabellifolia (Pohl) Pax",
-    "Manihot edule A.Rich.",
-    "Manihot esculenta subsp. alboerecta Cif.",
-    "Manihot esculenta subsp. diffusa Cif.",
-    "Manihot esculenta subsp. flabellifolia (Pohl) Cif.",
-    "Manihot esculenta subsp. grandifolia Cif.",
-    "Manihot esculenta var. argentea Cif.",
-    "Manihot esculenta var. coalescens Cif.",
-    "Manihot esculenta var. communis Cif.",
-    "Manihot esculenta var. debilis Cif.",
-    "Manihot esculenta var. digitifolia Cif.",
-    "Manihot esculenta var. domingensis Cif.",
-    "Manihot esculenta var. fertilis Cif.",
-    "Manihot esculenta var. flavicaulis Cif.",
-    "Manihot esculenta var. fuscescens Cif.",
-    "Manihot esculenta var. hispaniolensis Cif.",
-    "Manihot esculenta var. jamaicensis Cif.",
-    "Manihot esculenta var. luteola Cif.",
-    "Manihot esculenta var. mutabilis Cif.",
-    "Manihot esculenta var. nodosa Cif.",
-    "Manihot esculenta var. pohlii Cif.",
-    "Manihot esculenta var. ramosissima Cif.",
-    "Manihot esculenta var. rufescens Cif.",
-    "Manihot esculenta var. sprucei Lanj.",
-    "Manihot esculenta var. zimmermannii Cif.",
-    "Manihot flabellifolia Pohl",
-    "Manihot flexuosa Pax & K.Hoffm.",
-    "Manihot guyanensis Klotzsch ex Pax",
-    "Manihot loureiroi Pohl",
-    "Manihot manihot (L.) H.Karst.",
-    "Manihot melanobasis Müll.Arg.",
-    "Manihot palmata var. aipi (Pohl) Müll.Arg.",
-    "Manihot palmata var. diffusa (Pohl) Müll.Arg.",
-    "Manihot palmata var. digitiformis (Pohl) Müll.Arg.",
-    "Manihot palmata var. flabellifolia (Pohl) Müll.Arg.",
-    "Manihot sprucei Pax",
-    "Manihot utilissima Pohl",
-    "Manihot utilissima var. castellana Pohl",
-    "Manihot utilissima var. sutinga Pohl"
-  ],
-  "familyName": "EUPHORBIACEAE",
-  "englishNames": [
-    "Manioc",
-    "Tapioca",
-    "Cassava",
-    "Mandioca",
-    "Brazil Arrowroot",
-    "Para Arrowroot",
-    "Rio Arrowroot",
-    "Yuca"
-  ],
-  "sinhalaName": "Mangnokka (මඤ්ඤොක්‍කා )",
-  "description": "අඩි 20කට (මීටර් 6.1) වඩා උසට වැඩිය හැකි උසැති අර්ධ-දැවමය බහුවාර්ෂික පඳුරක් හෝ ගසකි. පත්‍ර අත්ලක හැඩයට සංයුක්ත (palmately compound) වන අතර, තද කොළ පැහැයෙන් යුක්ත වේ. ඒවායේ පළල අඩියක් හෝ ඊට වැඩි වන අතර පත්‍ර ඛණ්ඩ (lobes) 5-9කින් සමන්විත වේ. පත්‍ර වෘන්ත (petioles) ඉතා දිගු වන අතර අඟල් 24ක් (සෙ.මී. 61) දක්වා දිගු විය හැක. කඳන් මෙන්ම මෙම පත්‍ර වෘන්ත ද රතු පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Smallpox",
-      "sinhala": "වසූරිය (Smallpox)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Manihot esculenta Crantz",
+    "synonyms": [
+        "Janipha aipi (Pohl) J.Presl",
+        "Janipha manihot (L.) Kunth",
+        "Jatropha aipi (Pohl) Göpp.",
+        "Jatropha diffusa (Pohl) Steud.",
+        "Jatropha digitiformis (Pohl) Steud.",
+        "Jatropha dulcis J.F.Gmel.",
+        "Jatropha flabellifolia (Pohl) Steud.",
+        "Jatropha glauca A.Rich.",
+        "Jatropha janipha Lour.",
+        "Jatropha lobata var. richardiana Müll.Arg.",
+        "Jatropha loureiroi (Pohl) Steud.",
+        "Jatropha manihot L.",
+        "Jatropha mitis Rottb.",
+        "Jatropha mitis Sessé & Moc.",
+        "Jatropha paniculata Ruiz & Pav. ex Pax",
+        "Jatropha silvestris Vell.",
+        "Jatropha stipulata Vell.",
+        "Mandioca aipi (Pohl) Link",
+        "Mandioca dulcis (J.F.Gmel.) D.Parodi",
+        "Mandioca utilissima (Pohl) Link",
+        "Manihot aipi Pohl",
+        "Manihot aipi var. lanceolata Pohl",
+        "Manihot aipi var. latifolia Pohl",
+        "Manihot aipi var. lutescens Pohl",
+        "Manihot aypi Spruce",
+        "Manihot cannabina Sweet",
+        "Manihot cassava Cook & Collins",
+        "Manihot diffusa Pohl",
+        "Manihot digitiformis Pohl",
+        "Manihot dulcis (J.F.Gmel.) Baill.",
+        "Manihot dulcis var. aipi (Pohl) Pax",
+        "Manihot dulcis var. diffusa (Pohl) Pax",
+        "Manihot dulcis var. flabellifolia (Pohl) Pax",
+        "Manihot edule A.Rich.",
+        "Manihot esculenta subsp. alboerecta Cif.",
+        "Manihot esculenta subsp. diffusa Cif.",
+        "Manihot esculenta subsp. flabellifolia (Pohl) Cif.",
+        "Manihot esculenta subsp. grandifolia Cif.",
+        "Manihot esculenta var. argentea Cif.",
+        "Manihot esculenta var. coalescens Cif.",
+        "Manihot esculenta var. communis Cif.",
+        "Manihot esculenta var. debilis Cif.",
+        "Manihot esculenta var. digitifolia Cif.",
+        "Manihot esculenta var. domingensis Cif.",
+        "Manihot esculenta var. fertilis Cif.",
+        "Manihot esculenta var. flavicaulis Cif.",
+        "Manihot esculenta var. fuscescens Cif.",
+        "Manihot esculenta var. hispaniolensis Cif.",
+        "Manihot esculenta var. jamaicensis Cif.",
+        "Manihot esculenta var. luteola Cif.",
+        "Manihot esculenta var. mutabilis Cif.",
+        "Manihot esculenta var. nodosa Cif.",
+        "Manihot esculenta var. pohlii Cif.",
+        "Manihot esculenta var. ramosissima Cif.",
+        "Manihot esculenta var. rufescens Cif.",
+        "Manihot esculenta var. sprucei Lanj.",
+        "Manihot esculenta var. zimmermannii Cif.",
+        "Manihot flabellifolia Pohl",
+        "Manihot flexuosa Pax & K.Hoffm.",
+        "Manihot guyanensis Klotzsch ex Pax",
+        "Manihot loureiroi Pohl",
+        "Manihot manihot (L.) H.Karst.",
+        "Manihot melanobasis Müll.Arg.",
+        "Manihot palmata var. aipi (Pohl) Müll.Arg.",
+        "Manihot palmata var. diffusa (Pohl) Müll.Arg.",
+        "Manihot palmata var. digitiformis (Pohl) Müll.Arg.",
+        "Manihot palmata var. flabellifolia (Pohl) Müll.Arg.",
+        "Manihot sprucei Pax",
+        "Manihot utilissima Pohl",
+        "Manihot utilissima var. castellana Pohl",
+        "Manihot utilissima var. sutinga Pohl"
+    ],
+    "familyName": "EUPHORBIACEAE",
+    "englishNames": [
+        "Manioc",
+        "Tapioca",
+        "Cassava",
+        "Mandioca",
+        "Brazil Arrowroot",
+        "Para Arrowroot",
+        "Rio Arrowroot",
+        "Yuca"
+    ],
+    "sinhalaName": "Mangnokka (මඤ්ඤොක්‍කා )",
+    "description": "අඩි 20කට (මීටර් 6.1) වඩා උසට වැඩිය හැකි උසැති අර්ධ-දැවමය බහුවාර්ෂික පඳුරක් හෝ ගසකි. පත්‍ර අත්ලක හැඩයට සංයුක්ත (palmately compound) වන අතර, තද කොළ පැහැයෙන් යුක්ත වේ. ඒවායේ පළල අඩියක් හෝ ඊට වැඩි වන අතර පත්‍ර ඛණ්ඩ (lobes) 5-9කින් සමන්විත වේ. පත්‍ර වෘන්ත (petioles) ඉතා දිගු වන අතර අඟල් 24ක් (සෙ.මී. 61) දක්වා දිගු විය හැක. කඳන් මෙන්ම මෙම පත්‍ර වෘන්ත ද රතු පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Smallpox",
+            "sinhala": "වසූරිය (Smallpox)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Chickenpox",
+            "sinhala": "පැපොල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Skin Rashes",
+            "sinhala": "සමේ පළු දැමීම / කුෂ්ඨ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Measles",
+            "sinhala": "සරම්ප රෝගය (රෝමාන්තිකා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Tubers",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "1547",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/dsTQBs3m/plant00525-01547.jpg"
+        },
+        {
+            "image_id": "1548",
+            "caption": "Flower buds",
+            "url": "https://i.ibb.co/1t7qRMxr/plant00525-01548.jpg"
+        },
+        {
+            "image_id": "1549",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/zWTVhz7B/plant00525-01549.jpg"
+        },
+        {
+            "image_id": "3607",
+            "caption": "Young stem with petioles (PMR)",
+            "url": "https://i.ibb.co/9mM46kQf/plant00525-03607.jpg"
+        },
+        {
+            "image_id": "3608",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/QZKrF9B/plant00525-03608.jpg"
+        },
+        {
+            "image_id": "3609",
+            "caption": "Tuber (PMR)",
+            "url": "https://i.ibb.co/CKrs3h8k/plant00525-03609.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "✔ මඤ්ඤොක්කා වෑංජනය | Manchokka / Cassava curry by Apé Amma",
+                "url": "https://youtube.com/watch?v=d0qYF2FUoYM",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/d0qYF2FUoYM/hq720.jpg"
+            },
+            {
+                "title": "පරම්පරා ගණනාවක් ලෙඩ කරන මඤ්ඤොක්කා | Cassava & Future Generation By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=xI0OtSapRkY",
+                "duration": "9:43",
+                "thumbnail": "https://i.ytimg.com/vi/xI0OtSapRkY/hq720.jpg"
+            },
+            {
+                "title": "හවස තේ වෙලාවට මඤ්ඤොක්කා රොටි හදමු|Cassava roti",
+                "url": "https://youtube.com/watch?v=i-Dao4PKgxo",
+                "duration": "6:35",
+                "thumbnail": "https://i.ytimg.com/vi/i-Dao4PKgxo/hqdefault.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා කහපොල් මැල්ලුම | Manioc recipe |Cassava recipe by Grandma & me",
+                "url": "https://youtube.com/watch?v=b8fPNlN1kFk",
+                "duration": "5:21",
+                "thumbnail": "https://i.ytimg.com/vi/b8fPNlN1kFk/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා වගාව නිවැරදිව කරමු.",
+                "url": "https://youtube.com/watch?v=P6VUEC0gE5c",
+                "duration": "11:13",
+                "thumbnail": "https://i.ytimg.com/vi/P6VUEC0gE5c/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා ව්‍යංජනය | Manioc Curry | Cassava | Manyokka Curry Sri Lankan | @CookwithAshi ❤️",
+                "url": "https://youtube.com/watch?v=PN7QjV3CeWk",
+                "duration": "5:14",
+                "thumbnail": "https://i.ytimg.com/vi/PN7QjV3CeWk/hqdefault.jpg"
+            },
+            {
+                "title": "සුවඳටම බඩ කට පිරෙන මඤ්ඤොක්කා කහ පොල් මැල්ලුම Cassava/ Manyokka Malluma.",
+                "url": "https://youtube.com/watch?v=rMXkHxCZQpY",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/rMXkHxCZQpY/hq720.jpg"
+            },
+            {
+                "title": "උමන්දාවේ මඤ්ඤොක්කා පිටි හදන්නේ   Cassava Flour Making Process - Cassava Flour Making Machines",
+                "url": "https://youtube.com/watch?v=93pv-pJ-7eE",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/93pv-pJ-7eE/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා ව්‍යංජනය | Manioc Curry | Cassava | Manyokka Curry Sri Lankan",
+                "url": "https://youtube.com/watch?v=B3QRN-L9FYY",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/B3QRN-L9FYY/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා මේ විදිහට තම්බන්න |Manioc Recipe Sinhala |Boiled Cassava|Cookwithnadeesha",
+                "url": "https://youtube.com/watch?v=G83NPVDgGTU",
+                "duration": "5:59",
+                "thumbnail": "https://i.ytimg.com/vi/G83NPVDgGTU/hq720.jpg"
+            },
+            {
+                "title": "මයියොක්කා කරියක් කිරට හදමු. HOW TO MAKE A CASSAVA CURRY(Cooking Show Sri Lankan Chef)",
+                "url": "https://youtube.com/watch?v=XbxD7Blg4y0",
+                "duration": "12:25",
+                "thumbnail": "https://i.ytimg.com/vi/XbxD7Blg4y0/hq720.jpg"
+            },
+            {
+                "title": "Village Cooking Cassava Recipe | මේ විදිහ මඤ්ඤොක්කා කාල තියනවාද | Special Spicy Cassava Recipe",
+                "url": "https://youtube.com/watch?v=ILL36JLR8C0",
+                "duration": "7:53",
+                "thumbnail": "https://i.ytimg.com/vi/ILL36JLR8C0/hq720.jpg"
+            },
+            {
+                "title": "සතියකට පාරක්වත් මේ මැල්ලුම කෑවොත් ලෙඩ ගොඩකින් ගොඩ Cassava Leave මඤ්ඤොක්කා කොළ මැල්ලුම් Kusala Simple",
+                "url": "https://youtube.com/watch?v=iZmrn_xoVoc",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/iZmrn_xoVoc/hqdefault.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා ගැන හැමදේම | All About Manioc (Cassava) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=wcRHncw7vXk",
+                "duration": "9:55",
+                "thumbnail": "https://i.ytimg.com/vi/wcRHncw7vXk/hqdefault.jpg"
+            },
+            {
+                "title": "✔ මඤ්ඤොක්කා වෑංජනය | Manchokka / Cassava curry by Apé Amma",
+                "url": "https://youtube.com/watch?v=7zV_rl0Y0Sc",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/7zV_rl0Y0Sc/frame0.jpg"
+            },
+            {
+                "title": "✔බෙරි වෙන්නේ නැතුව මඤ්ඤොක්කා තම්බන හැටි Perfectly boil manioc/Cassava by Apé Amma (maiyokka)",
+                "url": "https://youtube.com/watch?v=3U8UrZnHkcU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/3U8UrZnHkcU/hq720.jpg"
+            },
+            {
+                "title": "මස් කරිය වගේ සුවඳට තුනපහ රසට මඤ්ඤොක්කා කරියක් | cassava curry With coconut milk | manyokka curry",
+                "url": "https://youtube.com/watch?v=K2WPKl9IKPc",
+                "duration": "8:20",
+                "thumbnail": "https://i.ytimg.com/vi/K2WPKl9IKPc/hq720.jpg"
+            },
+            {
+                "title": "✔  ක්‍රිස්පි මඤ්ඤොක්කා චිප්ස් ස්වභාවික ස්නැක් එක - ස්වයංරැකියා අත්වැල Sri lankan Chips by Apé Amma",
+                "url": "https://youtube.com/watch?v=GQbK4gVCnFQ",
+                "duration": "9:09",
+                "thumbnail": "https://i.ytimg.com/vi/GQbK4gVCnFQ/hq720.jpg"
+            },
+            {
+                "title": "Tempered Cassava | වෙසක් දන්සලේ මඤ්ඤොක්කා | Manyokka recipe sinhala | Manyokka thel dala | Manyokka",
+                "url": "https://youtube.com/watch?v=Laki6IQlAyQ",
+                "duration": "5:51",
+                "thumbnail": "https://i.ytimg.com/vi/Laki6IQlAyQ/hq720.jpg"
+            },
+            {
+                "title": "✔ මඤ්ඤොක්කා වෑංජනය | Manchokka / Cassava curry by Apé Amma",
+                "url": "https://youtube.com/watch?v=fzOOcM7NbMM",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/fzOOcM7NbMM/frame0.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා වල ඇති විශ්මිත ගුණ - Amazing properties of Cassava For a healthy life",
+                "url": "https://youtube.com/watch?v=BGmzUekjwwQ",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/BGmzUekjwwQ/hq720.jpg"
+            },
+            {
+                "title": "Benefits of manioc leaves  | මඤ්ඤොක්කා කොළ සතු විශ්මිත ගුණ.",
+                "url": "https://youtube.com/watch?v=j-KGt3_ahEw",
+                "duration": "7:08",
+                "thumbnail": "https://i.ytimg.com/vi/j-KGt3_ahEw/hqdefault.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා කොළවල තියෙන විශ්මිත ගුණ|manioc leaves|benefits|nutrition",
+                "url": "https://youtube.com/watch?v=ctM08V5v0U8",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/ctM08V5v0U8/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤෝක්කා වල ඇති මෙම වටිනා ගුණය ගැන ඔබ දන්නවාද.?",
+                "url": "https://youtube.com/watch?v=n6VxVVJjgJQ",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/n6VxVVJjgJQ/hq720.jpg"
+            },
+            {
+                "title": "අල වගේම කොළත් අතිශය ගුණ මඤ්ඤොක්කා | Cassava | manioca | Lokayo with sube",
+                "url": "https://youtube.com/watch?v=oCqeU7Zk454",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/oCqeU7Zk454/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙත් බොනකොට, මඤ්ඤොක්කා ආහාරයට ගැනීම අගුණද? විස විය හැකිද? | Everything About Manioc #cassava",
+                "url": "https://youtube.com/watch?v=mx7ClQ0DSp4",
+                "duration": "14:31",
+                "thumbnail": "https://i.ytimg.com/vi/mx7ClQ0DSp4/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා දියවැඩියාවට හොඳද ? | Blood Sugar Test with manioc/cassava | Is Manioc good for Diabetes ?",
+                "url": "https://youtube.com/watch?v=7_GWTGX2vXk",
+                "duration": "8:20",
+                "thumbnail": "https://i.ytimg.com/vi/7_GWTGX2vXk/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා ගැන ඔබ දැනගත යුතුම දේවල්. Important facts about cassava/Manioc",
+                "url": "https://youtube.com/watch?v=cBOEyeYqPzc",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/cBOEyeYqPzc/hqdefault.jpg"
+            },
+            {
+                "title": "Can Manioc (Cassava) kill cancer cells. මයියොක්කා වලට පිළිකා සෛල විනාශ කල හැකිද ?",
+                "url": "https://youtube.com/watch?v=WOxYjg6q4mQ",
+                "duration": "11:09",
+                "thumbnail": "https://i.ytimg.com/vi/WOxYjg6q4mQ/hq720.jpg"
+            },
+            {
+                "title": "පරිස්සම් නොවුනොත් මැරෙන්න පුලුවන් / Be carefull  !  - Cassava /Manioc with poision",
+                "url": "https://youtube.com/watch?v=KpXLA7DM01g",
+                "duration": "14:27",
+                "thumbnail": "https://i.ytimg.com/vi/KpXLA7DM01g/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා කොළ ගැන අමුතුම තොරතුරු රැසක් : Health benefits of Cassava leaves",
+                "url": "https://youtube.com/watch?v=MQm8NX3GNJ8",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/MQm8NX3GNJ8/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා කමුත? 😮 | Health benefits of  Cassava #sinhala",
+                "url": "https://youtube.com/watch?v=lzoCUG1BrgM",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/lzoCUG1BrgM/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා අල වගේම මඤ්ඤොක්කා කොළත් ගුණයි | benefits of manioc",
+                "url": "https://youtube.com/watch?v=kcrZ33pCiGw",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/kcrZ33pCiGw/hqdefault.jpg"
+            },
+            {
+                "title": "maiyokka wala guna # cassave # දැනගත්තොත් ගුණ මයියොක්කා කන්න ආස හිතෙයි # cassave powder # siw helaya",
+                "url": "https://youtube.com/watch?v=35Xd5jvb1Qw",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/35Xd5jvb1Qw/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා කෑවම විස වෙනවද?-Manioc",
+                "url": "https://youtube.com/watch?v=fAEvPSmGJS8",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/fAEvPSmGJS8/hq720.jpg"
+            },
+            {
+                "title": "මේ ගැන දන්නේ නැත්තන් මඤ්ඤොක්කා කොල කන්න එපා - Amazing properties of Cassava leaves",
+                "url": "https://youtube.com/watch?v=7afyseo7uQ0",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/7afyseo7uQ0/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා ගැන හැමදේම | All About Manioc (Cassava) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=7D3AnJcljOA",
+                "duration": "9:55",
+                "thumbnail": "https://i.ytimg.com/vi/7D3AnJcljOA/frame0.jpg"
+            },
+            {
+                "title": "පිළිකා සෛල නසන මඤ්ඤොක්කා කැඳ හදමු | Cassava porridge | மரவள்ளிக் கிழங்கு கஞ்சி",
+                "url": "https://youtube.com/watch?v=mwsqVA16MHY",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/mwsqVA16MHY/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසක් සුව කිරිමේ හැකියාව පවතින මඤ්ඤොක්කා benifits of cassava #cassava#amazing #healthylifestyle",
+                "url": "https://youtube.com/watch?v=f7Trq5XsxMk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/f7Trq5XsxMk/hqdefault.jpg"
+            },
+            {
+                "title": "හාල් මල්ලෙන් කාබනිකව මඤ්ඤොක්කා 7Kg ක් ගමුද? |  How to Grow Cassava at Home |Ceylon Agri|Episode  234",
+                "url": "https://youtube.com/watch?v=7kfjhOUelOE",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/7kfjhOUelOE/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා ආහාරයට ගත් පසුව ඉගුරු දෑමු තේ පානය කරන්න එපා | Cassava side effects with ginger tea",
+                "url": "https://youtube.com/watch?v=WE3nMv9C9Jc",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/WE3nMv9C9Jc/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා කෑවට පස්සේ කවදාවත් ඉඟුරු දාලා තේ බොන්න එපා  - You know the following facts about manioc?",
+                "url": "https://youtube.com/watch?v=tQifYbP4SkA",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/tQifYbP4SkA/hqdefault.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා ඇත්තටම මාරාන්තික වසක් වෙන්නේ කොහොමද | Cassava Poisoning Explained | manioc | True Sense",
+                "url": "https://youtube.com/watch?v=MmAcTHoCXGo",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/MmAcTHoCXGo/hqdefault.jpg"
+            },
+            {
+                "title": "පිළිකා සෛල නසන ඖෂධීය ගුණ ඇති රසවත් ගුණවත් ශාකයකි මඤ්ඤොක්කා",
+                "url": "https://youtube.com/watch?v=0tKxIT2-qJs",
+                "duration": "9:38",
+                "thumbnail": "https://i.ytimg.com/vi/0tKxIT2-qJs/hqdefault.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා කොළවල තියෙන ගුණ.Properties of cassava leaves.",
+                "url": "https://youtube.com/watch?v=vGG9SfD5yIo",
+                "duration": "7:18",
+                "thumbnail": "https://i.ytimg.com/vi/vGG9SfD5yIo/hqdefault.jpg"
+            },
+            {
+                "title": "බඳුන් ගත මඤ්ඤොක්කා වගා වේ වගා තාක්ෂණික ක්‍රමවේදය",
+                "url": "https://youtube.com/watch?v=xe7wFbzHA28",
+                "duration": "1:44",
+                "thumbnail": "https://i.ytimg.com/vi/xe7wFbzHA28/hqdefault.jpg"
+            },
+            {
+                "title": "කවදාවත් මඤ්ඤොක්ක මෙහෙම කන්න එපා |  Do not eat these things with Cassava | Vidunena - විදුනැණ",
+                "url": "https://youtube.com/watch?v=sF9D7_ZaXXU",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/sF9D7_ZaXXU/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා කාලා කවදාවත් මේවා කන්න එපා Ginger plants hela osu wala guna aguna",
+                "url": "https://youtube.com/watch?v=WPbLPR-pQ8I",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/WPbLPR-pQ8I/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤුක්කා ආහාරයට ගන්න කලින් මේ ගෙනත් දැනගනම ඉන්න | වෙද මැදුර | Sihala gaweshaka",
+                "url": "https://youtube.com/watch?v=KlCEArZjFHM",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/KlCEArZjFHM/hq720.jpg"
+            },
+            {
+                "title": "Are there this many benefits to Tapioca? | Tapioca cassava health benefits Home Tips Doctor Karth...",
+                "url": "https://youtube.com/watch?v=kjAl5THLIqs",
+                "duration": "9:12",
+                "thumbnail": "https://i.ytimg.com/vi/kjAl5THLIqs/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Chickenpox",
-      "sinhala": "පැපොල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Skin Rashes",
-      "sinhala": "සමේ පළු දැමීම / කුෂ්ඨ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Measles",
-      "sinhala": "සරම්ප රෝගය (රෝමාන්තිකා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Tubers",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "1547",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/dsTQBs3m/plant00525-01547.jpg"
-    },
-    {
-      "image_id": "1548",
-      "caption": "Flower buds",
-      "url": "https://i.ibb.co/1t7qRMxr/plant00525-01548.jpg"
-    },
-    {
-      "image_id": "1549",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/zWTVhz7B/plant00525-01549.jpg"
-    },
-    {
-      "image_id": "3607",
-      "caption": "Young stem with petioles (PMR)",
-      "url": "https://i.ibb.co/9mM46kQf/plant00525-03607.jpg"
-    },
-    {
-      "image_id": "3608",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/QZKrF9B/plant00525-03608.jpg"
-    },
-    {
-      "image_id": "3609",
-      "caption": "Tuber (PMR)",
-      "url": "https://i.ibb.co/CKrs3h8k/plant00525-03609.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

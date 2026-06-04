@@ -1,261 +1,332 @@
 {
-  "scientificName": "Leea indica (Burm.f.) Merr.",
-  "synonyms": [
-    "Aquilicia ottilis Gaertn.",
-    "Aquilicia sambucina L.",
-    "Leea biserrata Miq.",
-    "Leea callosa Zipp. ex Miq.",
-    "Leea celebica C.B.Clarke",
-    "Leea divaricata Teijsm. & Binn.",
-    "Leea expansa Craib",
-    "Leea fuliginosa Miq.",
-    "Leea gracilis Lauterb.",
-    "Leea heterophylla Zipp. ex Miq.",
-    "Leea naumannii Engl.",
-    "Leea nova-guineensis Valeton",
-    "Leea ottilis DC.",
-    "Leea palembanica Miq.",
-    "Leea pubescens Zipp. ex Miq.",
-    "Leea ramosii Merr.",
-    "Leea roehrsiana Sander",
-    "Leea sambucifolia Salisb.",
-    "Leea sambucina var. biserrata (Miq.) Miq.",
-    "Leea sambucina var. heterophylla Zipp. ex Miq.",
-    "Leea sambucina var. occidentalis C.B.Clarke",
-    "Leea sambucina var. robusta Miq.",
-    "Leea sambucina var. roehrsiana (Sander) Chitt.",
-    "Leea sambucina var. simplex Miq.",
-    "Leea sambucina var. sumatrana (Miq.) Miq.",
-    "Leea sambucina Willd.",
-    "Leea simplex Zipp. ex Miq.",
-    "Leea speciosa Sieber ex Miq.",
-    "Leea striata Zipp. ex Miq.",
-    "Leea sumatrana Miq.",
-    "Leea sundaica Miq.",
-    "Leea sundaica var. fuliginosa (Miq.) Miq.",
-    "Leea sundaica var. pilosiuscula Span. ex Miq.",
-    "Leea sundaica var. subsessilis Miq.",
-    "Leea umbraculifera C.B.Clarke",
-    "Leea viridiflora Planch.",
-    "Otillis zeylanica Gaertn.",
-    "Staphylea indica Burm.f."
-  ],
-  "familyName": "VITACEAE",
-  "englishNames": [
-    "Bandicoot Berry",
-    "Common Tree-Vine"
-  ],
-  "sinhalaName": "Burulla (බුරුල්ල)",
-  "description": "මීටර් 1-5ක් උසැති පඳුරක් හෝ කුඩා ගසකි. කඳ ඉන්නන් සහිත (warted) හෝ සිනිඳුය (glabrous). උප පත්‍ර (stipules) පත්‍ර වෘන්තය සමඟ එකතු වී කඳ වටා පිහිටයි. පත්‍ර ඒකාන්තර (alternate) වේ; එක් වරක්, දෙවරක් හෝ තුන් වරක් අසම පිහාටුකාරී සංයුක්ත පත්‍ර (imparipinnately compound) වන අතර දිග සෙන්ටිමීටර 19-50කි. පත්‍ර වෘන්තය සෙන්ටිමීටර 5-17ක් දිගය. පත්‍රිකා ප්‍රතිවිරුද්ධව පිහිටයි, වෘන්ත සහිතය (petiolate), දාරය දන්තමය (toothed) වේ. පත්‍රිකා ඩිම්බාකාර-ලන්සාකාර (ovate-lanceolate) සිට ඉලිප්සාකාර (elliptic) හැඩයක් ගනී; පාදම වටකුරු (rounded) සිට කුඤ්ඤාකාර (cuneate) වේ, අග්‍රය තියුණු (acute) සිට වල්ගාකාර-උල් (caudate-acuminate) වේ. පත්‍රිකා දිග සෙන්ටිමීටර 3-8(-21)ක් සහ පළල සෙන්ටිමීටර 4-13ක් වේ, පක්ෂව නහර පිහිටයි (pinnately veined). මල් අරීය සමමිතික (actinomorphic), ඩිම්බකෝෂය උත්තර (hypogynous), ද්විලිංගික (perfect) සහ සම්පූර්ණ (complete) වේ; වර්ණය කොළ පැහැයේ සිට සුදු පැහැය දක්වා වේ. පලය කුටීර 6කින් (6-locular) සමන්විත වන අතර සෑම කුටීරයකම එක් බීජයක් බැගින් පිහිටයි, වැදෑමහ පිහිටීම පාදස්ථ (basal) වේ.",
-  "treatments": [
-    {
-      "treatment": "Ringworm",
-      "sinhala": "දද (ඇළුම් හම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Leea indica (Burm.f.) Merr.",
+    "synonyms": [
+        "Aquilicia ottilis Gaertn.",
+        "Aquilicia sambucina L.",
+        "Leea biserrata Miq.",
+        "Leea callosa Zipp. ex Miq.",
+        "Leea celebica C.B.Clarke",
+        "Leea divaricata Teijsm. & Binn.",
+        "Leea expansa Craib",
+        "Leea fuliginosa Miq.",
+        "Leea gracilis Lauterb.",
+        "Leea heterophylla Zipp. ex Miq.",
+        "Leea naumannii Engl.",
+        "Leea nova-guineensis Valeton",
+        "Leea ottilis DC.",
+        "Leea palembanica Miq.",
+        "Leea pubescens Zipp. ex Miq.",
+        "Leea ramosii Merr.",
+        "Leea roehrsiana Sander",
+        "Leea sambucifolia Salisb.",
+        "Leea sambucina var. biserrata (Miq.) Miq.",
+        "Leea sambucina var. heterophylla Zipp. ex Miq.",
+        "Leea sambucina var. occidentalis C.B.Clarke",
+        "Leea sambucina var. robusta Miq.",
+        "Leea sambucina var. roehrsiana (Sander) Chitt.",
+        "Leea sambucina var. simplex Miq.",
+        "Leea sambucina var. sumatrana (Miq.) Miq.",
+        "Leea sambucina Willd.",
+        "Leea simplex Zipp. ex Miq.",
+        "Leea speciosa Sieber ex Miq.",
+        "Leea striata Zipp. ex Miq.",
+        "Leea sumatrana Miq.",
+        "Leea sundaica Miq.",
+        "Leea sundaica var. fuliginosa (Miq.) Miq.",
+        "Leea sundaica var. pilosiuscula Span. ex Miq.",
+        "Leea sundaica var. subsessilis Miq.",
+        "Leea umbraculifera C.B.Clarke",
+        "Leea viridiflora Planch.",
+        "Otillis zeylanica Gaertn.",
+        "Staphylea indica Burm.f."
+    ],
+    "familyName": "VITACEAE",
+    "englishNames": [
+        "Bandicoot Berry",
+        "Common Tree-Vine"
+    ],
+    "sinhalaName": "Burulla (බුරුල්ල)",
+    "description": "මීටර් 1-5ක් උසැති පඳුරක් හෝ කුඩා ගසකි. කඳ ඉන්නන් සහිත (warted) හෝ සිනිඳුය (glabrous). උප පත්‍ර (stipules) පත්‍ර වෘන්තය සමඟ එකතු වී කඳ වටා පිහිටයි. පත්‍ර ඒකාන්තර (alternate) වේ; එක් වරක්, දෙවරක් හෝ තුන් වරක් අසම පිහාටුකාරී සංයුක්ත පත්‍ර (imparipinnately compound) වන අතර දිග සෙන්ටිමීටර 19-50කි. පත්‍ර වෘන්තය සෙන්ටිමීටර 5-17ක් දිගය. පත්‍රිකා ප්‍රතිවිරුද්ධව පිහිටයි, වෘන්ත සහිතය (petiolate), දාරය දන්තමය (toothed) වේ. පත්‍රිකා ඩිම්බාකාර-ලන්සාකාර (ovate-lanceolate) සිට ඉලිප්සාකාර (elliptic) හැඩයක් ගනී; පාදම වටකුරු (rounded) සිට කුඤ්ඤාකාර (cuneate) වේ, අග්‍රය තියුණු (acute) සිට වල්ගාකාර-උල් (caudate-acuminate) වේ. පත්‍රිකා දිග සෙන්ටිමීටර 3-8(-21)ක් සහ පළල සෙන්ටිමීටර 4-13ක් වේ, පක්ෂව නහර පිහිටයි (pinnately veined). මල් අරීය සමමිතික (actinomorphic), ඩිම්බකෝෂය උත්තර (hypogynous), ද්විලිංගික (perfect) සහ සම්පූර්ණ (complete) වේ; වර්ණය කොළ පැහැයේ සිට සුදු පැහැය දක්වා වේ. පලය කුටීර 6කින් (6-locular) සමන්විත වන අතර සෑම කුටීරයකම එක් බීජයක් බැගින් පිහිටයි, වැදෑමහ පිහිටීම පාදස්ථ (basal) වේ.",
+    "treatments": [
+        {
+            "treatment": "Ringworm",
+            "sinhala": "දද (ඇළුම් හම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Body Ache",
+            "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Polydipsia",
+            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Warts",
+            "sinhala": "ඉන්නන්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cystitis",
+            "sinhala": "මුත්‍රාශ ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Strangury",
+            "sinhala": "මුත්‍රා බිංදු බිංදු පිටවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burns and Scalds",
+            "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dental Caries",
+            "sinhala": "දත් දිරායාම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Spleen Disorders",
+            "sinhala": "ප්ලීහාව ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Roots",
+        "Fruits",
+        "Pith of the stem"
+    ],
+    "images": [
+        {
+            "image_id": "376",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/XxRFxd8w/plant00753-00376.jpg"
+        },
+        {
+            "image_id": "377",
+            "caption": "Young Inflorescence",
+            "url": "https://i.ibb.co/mVVB10Mh/plant00753-00377.jpg"
+        },
+        {
+            "image_id": "378",
+            "caption": "Young fruits",
+            "url": "https://i.ibb.co/DP9VN8MM/plant00753-00378.jpg"
+        },
+        {
+            "image_id": "3713",
+            "caption": "Flower Buds and Flowers (PMR)",
+            "url": "http://www.instituteofayurveda.org/plants/images/plants/00753/plant00753-03713.jpg"
+        },
+        {
+            "image_id": "3714",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/svsg2NPx/plant00753-03714.jpg"
+        },
+        {
+            "image_id": "3715",
+            "caption": "Fruits and seeds (PMR)",
+            "url": "https://i.ibb.co/ZR8LFFtz/plant00753-03715.jpg"
+        },
+        {
+            "image_id": "3716",
+            "caption": "Young compound leaf (PMR)",
+            "url": "https://i.ibb.co/LXpfMZKX/plant00753-03716.jpg"
+        },
+        {
+            "image_id": "3717",
+            "caption": "Leaflet -upper surface (PMR)",
+            "url": "https://i.ibb.co/FbYFd2qS/plant00753-03717.jpg"
+        },
+        {
+            "image_id": "3718",
+            "caption": "Leaflet - lower surface (PMR)",
+            "url": "https://i.ibb.co/8Dd3K6Bz/plant00753-03718.jpg"
+        },
+        {
+            "image_id": "3719",
+            "caption": "Young stem (PMR)",
+            "url": "https://i.ibb.co/SXv286nK/plant00753-03719.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "බුරුල්ල || ගුරුල්ල || Burulla || Gurulla|| Leea indica (10)",
+                "url": "https://youtube.com/watch?v=CQK55YRjBxU",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/CQK55YRjBxU/hqdefault.jpg"
+            },
+            {
+                "title": "Leea Indica Sinhala | Burulla Trees Sinhala | Osu Pela | Story Eka",
+                "url": "https://youtube.com/watch?v=dE1Dw4x-Bqg",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/dE1Dw4x-Bqg/hq720.jpg"
+            },
+            {
+                "title": "[Sri Lanka Wildflowers]#열대식물#Bandicoot Berry#Burulla (බුරුල්ල)#Gurulla (ගුරුල්ල)#Leea Indica#Nalava",
+                "url": "https://youtube.com/watch?v=H8ET2M-jFDo",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/H8ET2M-jFDo/hq720.jpg"
+            },
+            {
+                "title": "බුරුල්ල බෙහෙත් පැලය..",
+                "url": "https://youtube.com/watch?v=T6eKlSFE_zs",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/T6eKlSFE_zs/hqdefault.jpg"
+            },
+            {
+                "title": "ගුරුල්ල / බුරුල්ල/ Burulla/Gurulla/Leea indicaHerbal Plants of Sri Lanka",
+                "url": "https://youtube.com/watch?v=8QZLEPg1_aQ",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/8QZLEPg1_aQ/hq720.jpg"
+            },
+            {
+                "title": "කැඩුණු අස්ථි සවි කරන බලගතු ඖෂධය බුරුල්ල",
+                "url": "https://youtube.com/watch?v=4uYueWiK2Uc",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/4uYueWiK2Uc/hq720.jpg"
+            },
+            {
+                "title": "අර්ශෂ් හා දනහිස් (ආතරයිටිස්) වලට ගුන දෙන රැල් බුරුල්ල ශාකය හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=RsL1scQnB9E",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/RsL1scQnB9E/hq720.jpg"
+            },
+            {
+                "title": "බුරුල්ල",
+                "url": "https://youtube.com/watch?v=AgTQHbWSiuo",
+                "duration": "0:20",
+                "thumbnail": "https://i.ytimg.com/vi/AgTQHbWSiuo/hqdefault.jpg"
+            },
+            {
+                "title": "බුරුල්ල 🔴 Leea indica (Burm.f.) Merr.",
+                "url": "https://youtube.com/watch?v=WPEb7UiIwqU",
+                "duration": "4:16",
+                "thumbnail": "https://i.ytimg.com/vi/WPEb7UiIwqU/hq720.jpg"
+            },
+            {
+                "title": "හිරු සඳු නොදුටු දළු | Burulla | Gurulla | Leea Indica | Bandicoot Berry",
+                "url": "https://youtube.com/watch?v=y9XEvkfprO4",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/y9XEvkfprO4/hq720.jpg"
+            },
+            {
+                "title": "Today I made a curry with medicinal burulla plant leaves.බුරුල්ල දලු ඇඹුල 🌿🥘😍",
+                "url": "https://youtube.com/watch?v=ENP515crnqI",
+                "duration": "14:06",
+                "thumbnail": "https://i.ytimg.com/vi/ENP515crnqI/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Body Ache",
-      "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Polydipsia",
-      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Warts",
-      "sinhala": "ඉන්නන්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cystitis",
-      "sinhala": "මුත්‍රාශ ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Strangury",
-      "sinhala": "මුත්‍රා බිංදු බිංදු පිටවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Burns and Scalds",
-      "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dental Caries",
-      "sinhala": "දත් දිරායාම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Spleen Disorders",
-      "sinhala": "ප්ලීහාව ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Roots",
-    "Fruits",
-    "Pith of the stem"
-  ],
-  "images": [
-    {
-      "image_id": "376",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/XxRFxd8w/plant00753-00376.jpg"
-    },
-    {
-      "image_id": "377",
-      "caption": "Young Inflorescence",
-      "url": "https://i.ibb.co/mVVB10Mh/plant00753-00377.jpg"
-    },
-    {
-      "image_id": "378",
-      "caption": "Young fruits",
-      "url": "https://i.ibb.co/DP9VN8MM/plant00753-00378.jpg"
-    },
-    {
-      "image_id": "3713",
-      "caption": "Flower Buds and Flowers (PMR)",
-      "url": "http://www.instituteofayurveda.org/plants/images/plants/00753/plant00753-03713.jpg"
-    },
-    {
-      "image_id": "3714",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/svsg2NPx/plant00753-03714.jpg"
-    },
-    {
-      "image_id": "3715",
-      "caption": "Fruits and seeds (PMR)",
-      "url": "https://i.ibb.co/ZR8LFFtz/plant00753-03715.jpg"
-    },
-    {
-      "image_id": "3716",
-      "caption": "Young compound leaf (PMR)",
-      "url": "https://i.ibb.co/LXpfMZKX/plant00753-03716.jpg"
-    },
-    {
-      "image_id": "3717",
-      "caption": "Leaflet -upper surface (PMR)",
-      "url": "https://i.ibb.co/FbYFd2qS/plant00753-03717.jpg"
-    },
-    {
-      "image_id": "3718",
-      "caption": "Leaflet - lower surface (PMR)",
-      "url": "https://i.ibb.co/8Dd3K6Bz/plant00753-03718.jpg"
-    },
-    {
-      "image_id": "3719",
-      "caption": "Young stem (PMR)",
-      "url": "https://i.ibb.co/SXv286nK/plant00753-03719.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,287 +1,646 @@
 {
-  "scientificName": "Musa × paradisiaca L.",
-  "synonyms": [
-    "Karkandela × malabarica Raf.",
-    "Musa × acutibracteata M.Hotta",
-    "Musa × alphurica Miq.",
-    "Musa × aphurica Rumph. ex Sagot",
-    "Musa × arakanensis F.W.Ripley ex Blechynden",
-    "Musa × bacoba Rottb.",
-    "Musa × berteroi Colla",
-    "Musa × bidigitalis De Wild.",
-    "Musa × carolinae Sterler",
-    "Musa × champa Baker",
-    "Musa × chapara Perr.",
-    "Musa × chiliocarpa Backer ex K.Heyne",
-    "Musa × consociata Nakai",
-    "Musa × corbieri A.Chev.",
-    "Musa × corniculata Lour.",
-    "Musa × dacca Horan.",
-    "Musa × decrescens De Briey ex De Wild.",
-    "Musa × decrescens var. pembuki De Briey ex De Wild.",
-    "Musa × decrescens var. rubromaculata De Briey ex De Wild.",
-    "Musa × decrescens var. viridis De Briey ex De Wild.",
-    "Musa × discolor Planch.",
-    "Musa × dulcissima Nakai",
-    "Musa × emasculata De Briey ex De Wild.",
-    "Musa × emasculata var. kiala De Briey ex De Wild.",
-    "Musa × emasculata var. kimbende De Briey ex De Wild.",
-    "Musa × emasculata var. lomba De Briey ex De Wild.",
-    "Musa × emasculata var. zengani De Briey ex De Wild.",
-    "Musa × humilis Perr.",
-    "Musa × ingrata Nakai",
-    "Musa × jaheri Nakai",
-    "Musa × maculata Jacq.",
-    "Musa × megalocarpa Nakai",
-    "Musa × mensaria Moench",
-    "Musa × mirabilis Nakai",
-    "Musa × nigra Perr.",
-    "Musa × odorata Lour.",
-    "Musa × oleracea Vieill.",
-    "Musa × pallida Nakai",
-    "Musa × paradisiaca f. dongila De Briey ex De Wild.",
-    "Musa × paradisiaca f. funu-nua De Briey ex De Wild.",
-    "Musa × paradisiaca f. kilola De Briey ex De Wild.",
-    "Musa × paradisiaca f. seluka De Briey ex De Wild.",
-    "Musa × paradisiaca f. tuba De Briey ex De Wild.",
-    "Musa × paradisiaca subsp. normalis Kuntze",
-    "Musa × paradisiaca subsp. sapientum (L.) Kuntze",
-    "Musa × paradisiaca var. acicularis G.Forst.",
-    "Musa × paradisiaca var. bende De Briey ex De Wild.",
-    "Musa × paradisiaca var. bilul De Briey ex De Wild.",
-    "Musa × paradisiaca var. champa (Baker) K.Schum.",
-    "Musa × paradisiaca var. cinerea Blanco",
-    "Musa × paradisiaca var. coarctata G.Forst.",
-    "Musa × paradisiaca var. compressa Blanco",
-    "Musa × paradisiaca var. coriacea G.Forst.",
-    "Musa × paradisiaca var. corniculata G.Forst.",
-    "Musa × paradisiaca var. dacca (Horan.) K.Schum.",
-    "Musa × paradisiaca var. exsicca G.Forst.",
-    "Musa × paradisiaca var. fatua G.Forst.",
-    "Musa × paradisiaca var. glaberrima Blanco",
-    "Musa × paradisiaca var. glauca Blanco",
-    "Musa × paradisiaca var. kitebbe De Briey ex De Wild.",
-    "Musa × paradisiaca var. lacatan Blanco",
-    "Musa × paradisiaca var. longa Blanco",
-    "Musa × paradisiaca var. lunaris G.Forst.",
-    "Musa × paradisiaca var. magna Blanco",
-    "Musa × paradisiaca var. martabarica (Baker) K.Schum.",
-    "Musa × paradisiaca var. maxima Blanco",
-    "Musa × paradisiaca var. mensaria (Baker) K.Schum.",
-    "Musa × paradisiaca var. mensaria G.Forst.",
-    "Musa × paradisiaca var. odorata (Lour.) K.Schum.",
-    "Musa × paradisiaca var. oleracea (Vieill.) K.Schum.",
-    "Musa × paradisiaca var. papillosa G.Forst.",
-    "Musa × paradisiaca var. punctata G.Forst.",
-    "Musa × paradisiaca var. purpurascens G.Forst.",
-    "Musa × paradisiaca var. regia G.Forst.",
-    "Musa × paradisiaca var. rubra (Firminger ex Baker) K.Schum.",
-    "Musa × paradisiaca var. sanguinea (Welw. ex Baker) K.Schum.",
-    "Musa × paradisiaca var. suaveolens Blanco",
-    "Musa × paradisiaca var. subrubea Blanco",
-    "Musa × paradisiaca var. ternatensis Blanco",
-    "Musa × paradisiaca var. tetragona G.Forst.",
-    "Musa × paradisiaca var. tombak Blanco",
-    "Musa × paradisiaca var. ulnaris Blanco",
-    "Musa × paradisiaca var. violacea (Baker) K.Schum.",
-    "Musa × paradisiaca var. violacea Blanco",
-    "Musa × paradisiaca var. viridis De Briey ex De Wild.",
-    "Musa × paradisiaca var. vittata (G.W.Ackermann ex Rodigas) K.Schum.",
-    "Musa × polycarpa Nakai",
-    "Musa × prematura Nakai",
-    "Musa × protractorachis De Wild.",
-    "Musa × purpureotomentosa De Wild.",
-    "Musa × sapidisiaca K.C.Jacob",
-    "Musa × sapientum f. dubia King",
-    "Musa × sapientum L.",
-    "Musa × sapientum subsp. paradisiaca (L.) Baker",
-    "Musa × sapientum var. americana N.G.Teodoro",
-    "Musa × sapientum var. angao Quisumb.",
-    "Musa × sapientum var. baca Quisumb.",
-    "Musa × sapientum var. binutig N.G.Teodoro",
-    "Musa × sapientum var. canara N.G.Teodoro",
-    "Musa × sapientum var. canaya Quisumb.",
-    "Musa × sapientum var. champa (Baker) Baker",
-    "Musa × sapientum var. cinerea (Blanco) N.G.Teodoro",
-    "Musa × sapientum var. compressa (Blanco) N.G.Teodoro",
-    "Musa × sapientum var. cubensis N.G.Teodoro",
-    "Musa × sapientum var. dacca (Horan.) Baker",
-    "Musa × sapientum var. daryao N.G.Teodoro",
-    "Musa × sapientum var. dinalaga Quisumb.",
-    "Musa × sapientum var. dool Quisumb.",
-    "Musa × sapientum var. dubia (King) A.M.Cowan & Cowan",
-    "Musa × sapientum var. eda Quisumb.",
-    "Musa × sapientum var. fieleto De Briey ex De Wild.",
-    "Musa × sapientum var. flabellata Quisumb.",
-    "Musa × sapientum var. galatayan Quisumb.",
-    "Musa × sapientum var. garangao N.G.Teodoro",
-    "Musa × sapientum var. glaberrima (Blanco) N.G.Teodoro",
-    "Musa × sapientum var. glauca (Blanco) N.G.Teodoro",
-    "Musa × sapientum var. grandis N.G.Teodoro",
-    "Musa × sapientum var. humilis Merr.",
-    "Musa × sapientum var. inarnibal N.G.Teodoro",
-    "Musa × sapientum var. kinamay Quisumb.",
-    "Musa × sapientum var. lacatan (Blanco) N.G.Teodoro",
-    "Musa × sapientum var. longa (Blanco) N.G.Teodoro",
-    "Musa × sapientum var. martabarica Baker",
-    "Musa × sapientum var. mensaria Baker",
-    "Musa × sapientum var. odorata (Lour.) Baker",
-    "Musa × sapientum var. oleracea Baker",
-    "Musa × sapientum var. padilat Quisumb.",
-    "Musa × sapientum var. pamotion Quisumb.",
-    "Musa × sapientum var. paradisiaca (L.) Baker",
-    "Musa × sapientum var. pelipia Quisumb.",
-    "Musa × sapientum var. principe Quisumb.",
-    "Musa × sapientum var. putian Quisumb.",
-    "Musa × sapientum var. raines Quisumb.",
-    "Musa × sapientum var. regia (G.Forst.) Baker",
-    "Musa × sapientum var. rubra Firminger ex Baker",
-    "Musa × sapientum var. sanguinea Welw. ex Baker",
-    "Musa × sapientum var. sarocsoc Quisumb.",
-    "Musa × sapientum var. satama De Briey ex De Wild.",
-    "Musa × sapientum var. sision Quisumb.",
-    "Musa × sapientum var. suaveolens (Blanco) N.G.Teodoro",
-    "Musa × sapientum var. ternatensis (Blanco) N.G.Teodoro",
-    "Musa × sapientum var. tombak (Blanco) N.G.Teodoro",
-    "Musa × sapientum var. tudlong N.G.Teodoro",
-    "Musa × sapientum var. tuldoc N.G.Teodoro",
-    "Musa × sapientum var. violacea (Blanco) N.G.Teodoro",
-    "Musa × sapientum var. violacea Baker",
-    "Musa × sapientum var. vittata (G.W.Ackermann ex Rodigas) Hook.f.",
-    "Musa × trichocarpa Nakai",
-    "Musa × vittata G.W.Ackermann ex Rodigas",
-    "Musa balbisiana var. vittata (G.W.Ackermann ex Rodigas) M.R.Almeida"
-  ],
-  "familyName": "MUSACEAE",
-  "englishNames": [
-    "Banana",
-    "Plantain"
-  ],
-  "sinhalaName": "Kesel (කෙසෙල් )",
-  "description": "ව්‍යාජ කඳන් (pseudostems) මධ්‍යස්ථව ලප සහිත වේ. පත්‍ර වෘන්තයේ (petiole) අභිමුඛ වලෙහි (adaxial groove) දාර උඩු අතට හෝ ඇතුළට නැමුණු ස්වභාවයක් ගන්නා අතර පාදස්ථයේ පියාපත් සහිත වේ (winged). පුෂ්ප මංජරි (inflorescences) පහළට එල්ලෙන සුළු වන අතර පුෂ්ප වෘන්ත (pedicels) තරමක් දිගු වේ; පුරුෂ පුෂ්පවල උපපත්‍ර (bracts) ලාන්සාකාර (lanceolate) සිට ඩිම්බාකාර (ovate) හැඩයක් ගන්නා අතර අග්‍රය තියුණු (acute) හෝ පුළුල් ලෙස තියුණු වේ. උපපත්‍රවල පිටත පෘෂ්ඨය දම් පැහැති වන අතර ඇතුළත පෘෂ්ඨය රතු පැහැති දම් හෝ තද රතු (crimson) පැහැයක් ගනී. පුරුෂ පුෂ්ප සුදු, ක්‍රීම් හෝ රෝස පැහැති වේ. ස්ත්‍රී පුෂ්පවල කලංක (stigmas) සාමාන්‍යයෙන් කහ පැහැති වේ.",
-  "treatments": [
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Musa × paradisiaca L.",
+    "synonyms": [
+        "Karkandela × malabarica Raf.",
+        "Musa × acutibracteata M.Hotta",
+        "Musa × alphurica Miq.",
+        "Musa × aphurica Rumph. ex Sagot",
+        "Musa × arakanensis F.W.Ripley ex Blechynden",
+        "Musa × bacoba Rottb.",
+        "Musa × berteroi Colla",
+        "Musa × bidigitalis De Wild.",
+        "Musa × carolinae Sterler",
+        "Musa × champa Baker",
+        "Musa × chapara Perr.",
+        "Musa × chiliocarpa Backer ex K.Heyne",
+        "Musa × consociata Nakai",
+        "Musa × corbieri A.Chev.",
+        "Musa × corniculata Lour.",
+        "Musa × dacca Horan.",
+        "Musa × decrescens De Briey ex De Wild.",
+        "Musa × decrescens var. pembuki De Briey ex De Wild.",
+        "Musa × decrescens var. rubromaculata De Briey ex De Wild.",
+        "Musa × decrescens var. viridis De Briey ex De Wild.",
+        "Musa × discolor Planch.",
+        "Musa × dulcissima Nakai",
+        "Musa × emasculata De Briey ex De Wild.",
+        "Musa × emasculata var. kiala De Briey ex De Wild.",
+        "Musa × emasculata var. kimbende De Briey ex De Wild.",
+        "Musa × emasculata var. lomba De Briey ex De Wild.",
+        "Musa × emasculata var. zengani De Briey ex De Wild.",
+        "Musa × humilis Perr.",
+        "Musa × ingrata Nakai",
+        "Musa × jaheri Nakai",
+        "Musa × maculata Jacq.",
+        "Musa × megalocarpa Nakai",
+        "Musa × mensaria Moench",
+        "Musa × mirabilis Nakai",
+        "Musa × nigra Perr.",
+        "Musa × odorata Lour.",
+        "Musa × oleracea Vieill.",
+        "Musa × pallida Nakai",
+        "Musa × paradisiaca f. dongila De Briey ex De Wild.",
+        "Musa × paradisiaca f. funu-nua De Briey ex De Wild.",
+        "Musa × paradisiaca f. kilola De Briey ex De Wild.",
+        "Musa × paradisiaca f. seluka De Briey ex De Wild.",
+        "Musa × paradisiaca f. tuba De Briey ex De Wild.",
+        "Musa × paradisiaca subsp. normalis Kuntze",
+        "Musa × paradisiaca subsp. sapientum (L.) Kuntze",
+        "Musa × paradisiaca var. acicularis G.Forst.",
+        "Musa × paradisiaca var. bende De Briey ex De Wild.",
+        "Musa × paradisiaca var. bilul De Briey ex De Wild.",
+        "Musa × paradisiaca var. champa (Baker) K.Schum.",
+        "Musa × paradisiaca var. cinerea Blanco",
+        "Musa × paradisiaca var. coarctata G.Forst.",
+        "Musa × paradisiaca var. compressa Blanco",
+        "Musa × paradisiaca var. coriacea G.Forst.",
+        "Musa × paradisiaca var. corniculata G.Forst.",
+        "Musa × paradisiaca var. dacca (Horan.) K.Schum.",
+        "Musa × paradisiaca var. exsicca G.Forst.",
+        "Musa × paradisiaca var. fatua G.Forst.",
+        "Musa × paradisiaca var. glaberrima Blanco",
+        "Musa × paradisiaca var. glauca Blanco",
+        "Musa × paradisiaca var. kitebbe De Briey ex De Wild.",
+        "Musa × paradisiaca var. lacatan Blanco",
+        "Musa × paradisiaca var. longa Blanco",
+        "Musa × paradisiaca var. lunaris G.Forst.",
+        "Musa × paradisiaca var. magna Blanco",
+        "Musa × paradisiaca var. martabarica (Baker) K.Schum.",
+        "Musa × paradisiaca var. maxima Blanco",
+        "Musa × paradisiaca var. mensaria (Baker) K.Schum.",
+        "Musa × paradisiaca var. mensaria G.Forst.",
+        "Musa × paradisiaca var. odorata (Lour.) K.Schum.",
+        "Musa × paradisiaca var. oleracea (Vieill.) K.Schum.",
+        "Musa × paradisiaca var. papillosa G.Forst.",
+        "Musa × paradisiaca var. punctata G.Forst.",
+        "Musa × paradisiaca var. purpurascens G.Forst.",
+        "Musa × paradisiaca var. regia G.Forst.",
+        "Musa × paradisiaca var. rubra (Firminger ex Baker) K.Schum.",
+        "Musa × paradisiaca var. sanguinea (Welw. ex Baker) K.Schum.",
+        "Musa × paradisiaca var. suaveolens Blanco",
+        "Musa × paradisiaca var. subrubea Blanco",
+        "Musa × paradisiaca var. ternatensis Blanco",
+        "Musa × paradisiaca var. tetragona G.Forst.",
+        "Musa × paradisiaca var. tombak Blanco",
+        "Musa × paradisiaca var. ulnaris Blanco",
+        "Musa × paradisiaca var. violacea (Baker) K.Schum.",
+        "Musa × paradisiaca var. violacea Blanco",
+        "Musa × paradisiaca var. viridis De Briey ex De Wild.",
+        "Musa × paradisiaca var. vittata (G.W.Ackermann ex Rodigas) K.Schum.",
+        "Musa × polycarpa Nakai",
+        "Musa × prematura Nakai",
+        "Musa × protractorachis De Wild.",
+        "Musa × purpureotomentosa De Wild.",
+        "Musa × sapidisiaca K.C.Jacob",
+        "Musa × sapientum f. dubia King",
+        "Musa × sapientum L.",
+        "Musa × sapientum subsp. paradisiaca (L.) Baker",
+        "Musa × sapientum var. americana N.G.Teodoro",
+        "Musa × sapientum var. angao Quisumb.",
+        "Musa × sapientum var. baca Quisumb.",
+        "Musa × sapientum var. binutig N.G.Teodoro",
+        "Musa × sapientum var. canara N.G.Teodoro",
+        "Musa × sapientum var. canaya Quisumb.",
+        "Musa × sapientum var. champa (Baker) Baker",
+        "Musa × sapientum var. cinerea (Blanco) N.G.Teodoro",
+        "Musa × sapientum var. compressa (Blanco) N.G.Teodoro",
+        "Musa × sapientum var. cubensis N.G.Teodoro",
+        "Musa × sapientum var. dacca (Horan.) Baker",
+        "Musa × sapientum var. daryao N.G.Teodoro",
+        "Musa × sapientum var. dinalaga Quisumb.",
+        "Musa × sapientum var. dool Quisumb.",
+        "Musa × sapientum var. dubia (King) A.M.Cowan & Cowan",
+        "Musa × sapientum var. eda Quisumb.",
+        "Musa × sapientum var. fieleto De Briey ex De Wild.",
+        "Musa × sapientum var. flabellata Quisumb.",
+        "Musa × sapientum var. galatayan Quisumb.",
+        "Musa × sapientum var. garangao N.G.Teodoro",
+        "Musa × sapientum var. glaberrima (Blanco) N.G.Teodoro",
+        "Musa × sapientum var. glauca (Blanco) N.G.Teodoro",
+        "Musa × sapientum var. grandis N.G.Teodoro",
+        "Musa × sapientum var. humilis Merr.",
+        "Musa × sapientum var. inarnibal N.G.Teodoro",
+        "Musa × sapientum var. kinamay Quisumb.",
+        "Musa × sapientum var. lacatan (Blanco) N.G.Teodoro",
+        "Musa × sapientum var. longa (Blanco) N.G.Teodoro",
+        "Musa × sapientum var. martabarica Baker",
+        "Musa × sapientum var. mensaria Baker",
+        "Musa × sapientum var. odorata (Lour.) Baker",
+        "Musa × sapientum var. oleracea Baker",
+        "Musa × sapientum var. padilat Quisumb.",
+        "Musa × sapientum var. pamotion Quisumb.",
+        "Musa × sapientum var. paradisiaca (L.) Baker",
+        "Musa × sapientum var. pelipia Quisumb.",
+        "Musa × sapientum var. principe Quisumb.",
+        "Musa × sapientum var. putian Quisumb.",
+        "Musa × sapientum var. raines Quisumb.",
+        "Musa × sapientum var. regia (G.Forst.) Baker",
+        "Musa × sapientum var. rubra Firminger ex Baker",
+        "Musa × sapientum var. sanguinea Welw. ex Baker",
+        "Musa × sapientum var. sarocsoc Quisumb.",
+        "Musa × sapientum var. satama De Briey ex De Wild.",
+        "Musa × sapientum var. sision Quisumb.",
+        "Musa × sapientum var. suaveolens (Blanco) N.G.Teodoro",
+        "Musa × sapientum var. ternatensis (Blanco) N.G.Teodoro",
+        "Musa × sapientum var. tombak (Blanco) N.G.Teodoro",
+        "Musa × sapientum var. tudlong N.G.Teodoro",
+        "Musa × sapientum var. tuldoc N.G.Teodoro",
+        "Musa × sapientum var. violacea (Blanco) N.G.Teodoro",
+        "Musa × sapientum var. violacea Baker",
+        "Musa × sapientum var. vittata (G.W.Ackermann ex Rodigas) Hook.f.",
+        "Musa × trichocarpa Nakai",
+        "Musa × vittata G.W.Ackermann ex Rodigas",
+        "Musa balbisiana var. vittata (G.W.Ackermann ex Rodigas) M.R.Almeida"
+    ],
+    "familyName": "MUSACEAE",
+    "englishNames": [
+        "Banana",
+        "Plantain"
+    ],
+    "sinhalaName": "Kesel (කෙසෙල් )",
+    "description": "ව්‍යාජ කඳන් (pseudostems) මධ්‍යස්ථව ලප සහිත වේ. පත්‍ර වෘන්තයේ (petiole) අභිමුඛ වලෙහි (adaxial groove) දාර උඩු අතට හෝ ඇතුළට නැමුණු ස්වභාවයක් ගන්නා අතර පාදස්ථයේ පියාපත් සහිත වේ (winged). පුෂ්ප මංජරි (inflorescences) පහළට එල්ලෙන සුළු වන අතර පුෂ්ප වෘන්ත (pedicels) තරමක් දිගු වේ; පුරුෂ පුෂ්පවල උපපත්‍ර (bracts) ලාන්සාකාර (lanceolate) සිට ඩිම්බාකාර (ovate) හැඩයක් ගන්නා අතර අග්‍රය තියුණු (acute) හෝ පුළුල් ලෙස තියුණු වේ. උපපත්‍රවල පිටත පෘෂ්ඨය දම් පැහැති වන අතර ඇතුළත පෘෂ්ඨය රතු පැහැති දම් හෝ තද රතු (crimson) පැහැයක් ගනී. පුරුෂ පුෂ්ප සුදු, ක්‍රීම් හෝ රෝස පැහැති වේ. ස්ත්‍රී පුෂ්පවල කලංක (stigmas) සාමාන්‍යයෙන් කහ පැහැති වේ.",
+    "treatments": [
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Polydipsia",
+            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burns and Scalds",
+            "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Mental Disorders",
+            "sinhala": "මානසික ආබාධ සහ රෝගී තත්ත්වයන් (උන්මාද / මානසික රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Root",
+        "Leaves",
+        "Tuber"
+    ],
+    "images": [
+        {
+            "image_id": "484",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/k2kXqkT5/plant00883-00484.jpg"
+        },
+        {
+            "image_id": "485",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/jkm686WW/plant00883-00485.jpg"
+        },
+        {
+            "image_id": "486",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/s9CphDVV/plant00883-00486.jpg"
+        },
+        {
+            "image_id": "3799",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/9m5NZFkk/plant00883-03799.jpg"
+        },
+        {
+            "image_id": "3800",
+            "caption": "Psedostem  (PMR)",
+            "url": "https://i.ibb.co/yc96qjNv/plant00883-03800.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "හැමදාම කෙසෙල් කෑවොත් ලැබෙන විශ්මිත සෞඛ්‍ය වාසි 10 ක්",
+                "url": "https://youtube.com/watch?v=7hWxm4mbEsY",
+                "duration": "11:36",
+                "thumbnail": "https://i.ytimg.com/vi/7hWxm4mbEsY/hq720.jpg"
+            },
+            {
+                "title": "කන්න හොඳම කෙසෙල් වර්ගය මොකක්ද? | What is the best type of Banana By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=7_RUeuHGN90",
+                "duration": "10:52",
+                "thumbnail": "https://i.ytimg.com/vi/7_RUeuHGN90/hq720.jpg"
+            },
+            {
+                "title": "මොනවද සිටුවීමට සුදුසු කෙසෙල් ?",
+                "url": "https://youtube.com/watch?v=-_r3Of2lAL8",
+                "duration": "9:31",
+                "thumbnail": "https://i.ytimg.com/vi/-_r3Of2lAL8/hq720.jpg"
+            },
+            {
+                "title": "විවිධ කෙසෙල් වර්ගවල ඔබ නොදන්නා ගුණ මෙන්න : Benefits of various banana types (NEW) 2019",
+                "url": "https://youtube.com/watch?v=qzJEl-rgsiQ",
+                "duration": "1:40",
+                "thumbnail": "https://i.ytimg.com/vi/qzJEl-rgsiQ/hq720.jpg"
+            },
+            {
+                "title": "The secret to making big banana cans ලොකු කෙසෙල් කැන් හැදෙන්න කෙසෙල් පැල හිටවන රහස",
+                "url": "https://youtube.com/watch?v=GeR-wTDBuaE",
+                "duration": "5:46",
+                "thumbnail": "https://i.ytimg.com/vi/GeR-wTDBuaE/hq720.jpg"
+            },
+            {
+                "title": "සාර්ථක කැවැන්ඩිස් කෙසෙල් වගාවකට අවශ්‍ය මූලික දැනුම | kawandish wagawa | cavendish banana sri lanka",
+                "url": "https://youtube.com/watch?v=TeOZFsO5n5c",
+                "duration": "31:14",
+                "thumbnail": "https://i.ytimg.com/vi/TeOZFsO5n5c/hq720.jpg"
+            },
+            {
+                "title": "පෝච්චියක කෙසෙල් ගහක් ? | How to Grow Bananas in pot | Ceylon Agri Episode 446",
+                "url": "https://youtube.com/watch?v=o-PYO3HTtig",
+                "duration": "15:54",
+                "thumbnail": "https://i.ytimg.com/vi/o-PYO3HTtig/hqdefault.jpg"
+            },
+            {
+                "title": "හැමදාම කෙසෙල් කෑවොත් ලැබෙන විශ්මිත සෞඛ්‍ය වාසි 10 ක්",
+                "url": "https://youtube.com/watch?v=GXkeZo1qidE",
+                "duration": "11:36",
+                "thumbnail": "https://i.ytimg.com/vi/GXkeZo1qidE/frame0.jpg"
+            },
+            {
+                "title": "අළු කෙසෙල් වල විශ්මිත ගුණ - Amazing properties of gray bananas for a healthy life",
+                "url": "https://youtube.com/watch?v=eZKyxc25j_I",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/eZKyxc25j_I/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් මුව වල ඇති විශ්මිත ගුණය - Amazing quality of banana deer for a healthy life",
+                "url": "https://youtube.com/watch?v=KcFZqo6CbjI",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/KcFZqo6CbjI/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් මුව කනවද? නැද්ද ? තීරණය ඔබ අතේ  | Banana Flower By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=JmWg-JyAu_U",
+                "duration": "9:12",
+                "thumbnail": "https://i.ytimg.com/vi/JmWg-JyAu_U/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් වගාව හා  කෙසෙල් වල ඇති ගුණය ඔබ දන්නවාද .",
+                "url": "https://youtube.com/watch?v=IxNyIJZysnY",
+                "duration": "5:19",
+                "thumbnail": "https://i.ytimg.com/vi/IxNyIJZysnY/hq720.jpg"
+            },
+            {
+                "title": "කළුවෙන්න ඉදුණු කෙසෙල් ගෙඩි දෙක ගානෙ දිනපතා මාසයක් කන්න - This Is What Happens To Your Body",
+                "url": "https://youtube.com/watch?v=UNpXLIpc1J8",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/UNpXLIpc1J8/hqdefault.jpg"
+            },
+            {
+                "title": "ඉදුනු කෙසෙල් කෑවොත් ?If u Eat Ripen banana? By Nutritionist  Hiroshan jayaranga",
+                "url": "https://youtube.com/watch?v=jKidFahd3_Q",
+                "duration": "9:33",
+                "thumbnail": "https://i.ytimg.com/vi/jKidFahd3_Q/hqdefault.jpg"
+            },
+            {
+                "title": "පිරිමින්ටත් අගුණ නැති අළුකෙසෙල් වල ගුණ 20 | Alu kesel | Ash Plantain♻",
+                "url": "https://youtube.com/watch?v=xwXgv7s87hA",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/xwXgv7s87hA/hqdefault.jpg"
+            },
+            {
+                "title": "කෙසෙල් කෑමෙන් දියවැඩියාව ඇතිවෙනවාද? මෙන්න ඇත්ත : Are bananas good for diabetics – banana and DM",
+                "url": "https://youtube.com/watch?v=-iS5f735loc",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/-iS5f735loc/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා කෙසෙල් ගෙඩි 3 ක් කන්න - If you love banana you have to know these 10 facts",
+                "url": "https://youtube.com/watch?v=lIa4OIQOaak",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/lIa4OIQOaak/hqdefault.jpg"
+            },
+            {
+                "title": "කෙසෙල් මුව කන අයට ලැබෙන දේවල් : Banana Flower Benefits",
+                "url": "https://youtube.com/watch?v=k5vi12BS8VE",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/k5vi12BS8VE/hq720.jpg"
+            },
+            {
+                "title": "සිරුරට බොහෝ ගුණ දෙන රත් කෙසෙල් Benefitty Banana",
+                "url": "https://youtube.com/watch?v=Piv3K4orPIA",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/Piv3K4orPIA/hq720.jpg"
+            },
+            {
+                "title": "අළු කෙසෙල් ඇත්තටම පිරිමින්ට කන්න හොද නැද්ද?",
+                "url": "https://youtube.com/watch?v=3u1VfqY5GdU",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/3u1VfqY5GdU/hqdefault.jpg"
+            },
+            {
+                "title": "කෙසෙල්මුව වල ගුණ | Keselmuwa wala guna | Health benefits of banana flower | @Sakalawaga",
+                "url": "https://youtube.com/watch?v=O7LIwaCOPNE",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/O7LIwaCOPNE/hqdefault.jpg"
+            },
+            {
+                "title": "කෙසෙල් කෑවට කෙසෙල් වල ගුන ගැන ඔබ දැනුවත් ද?? kesel wala guna",
+                "url": "https://youtube.com/watch?v=O9Xphk0sZEs",
+                "duration": "5:51",
+                "thumbnail": "https://i.ytimg.com/vi/O9Xphk0sZEs/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් වර්ග අනුව විවිධවන ගුණාගුණ ගැන දැනසිටියාද?",
+                "url": "https://youtube.com/watch?v=_8azpjUGMoc",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/_8azpjUGMoc/hq720.jpg"
+            },
+            {
+                "title": "අළු කෙසෙල් වල ඖෂධීය ගුණ 😱😱",
+                "url": "https://youtube.com/watch?v=QNGPWpNBavk",
+                "duration": "5:24",
+                "thumbnail": "https://i.ytimg.com/vi/QNGPWpNBavk/hq720.jpg"
+            },
+            {
+                "title": "කැවෙන්ඩිෂ් කෙසෙල් ගෙවත්තක් සඳහා සුදුසු නෑ කියන්නේ ඇයි - Krushi Podcast | Episode 09 | Cavendish",
+                "url": "https://youtube.com/watch?v=I0-kQka4rbs",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/I0-kQka4rbs/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් මුව  ගැන දැනගෙන හිටියද? | Banana Blossom & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=zqOeg89WP3I",
+                "duration": "16:16",
+                "thumbnail": "https://i.ytimg.com/vi/zqOeg89WP3I/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් වඳ පීදෙනවා කියන්නේ ලෙඩක් ද? - Krushi Podcast | Episode 10 | Kesel Wagawa",
+                "url": "https://youtube.com/watch?v=R9ITT2BssVI",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/R9ITT2BssVI/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් වගාව - රෝග හා පළිබෝධ",
+                "url": "https://youtube.com/watch?v=e7Uf5NeLbaY",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/e7Uf5NeLbaY/hqdefault.jpg"
+            },
+            {
+                "title": "කළු පුල්ලි නැතුව කෙසෙල් වවමු - තිලක් කන්දේගම / Let's grow bananas",
+                "url": "https://youtube.com/watch?v=4RszEFtUgPM",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/4RszEFtUgPM/hq720.jpg"
+            },
+            {
+                "title": "ඩොලර් උල්පත. පටක රෝපණ කැවෙන්ඩිෂ් කෙසෙල් අධිගණත්ව ක්‍රමයට නිවැරදිව වගා කරමු.​⁠ @TharanaAgroHoldings",
+                "url": "https://youtube.com/watch?v=ST5s07fB0yw",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/ST5s07fB0yw/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් වගාව - රෝග හා පළිබෝධ",
+                "url": "https://youtube.com/watch?v=0keoQKE1nmE",
+                "duration": "1:22",
+                "thumbnail": "https://i.ytimg.com/vi/0keoQKE1nmE/hqdefault.jpg"
+            },
+            {
+                "title": "ගසක වරුණ 03 නේත්‍රම්පලම් කෙසෙල් ශාකය Musa spp (දරුපල වඩවන කෙසෙල් පදුරක් නිවසේ වගා කරමු.)",
+                "url": "https://youtube.com/watch?v=1LqwIfhIxoY",
+                "duration": "10:15",
+                "thumbnail": "https://i.ytimg.com/vi/1LqwIfhIxoY/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් කඳ ගුල්ලා පාලනය | ගෙවතු වගාව | banana wevil control | home garden | gewathu wagawa",
+                "url": "https://youtube.com/watch?v=oMk9b1p8bew",
+                "duration": "11:53",
+                "thumbnail": "https://i.ytimg.com/vi/oMk9b1p8bew/hq720.jpg"
+            },
+            {
+                "title": "පෝෂණ ලොවේ යකඩ නිධිය \"කෙසෙල් මුව\" | Banana blossom | Episode 34",
+                "url": "https://youtube.com/watch?v=2gU86MTwXsU",
+                "duration": "5:25",
+                "thumbnail": "https://i.ytimg.com/vi/2gU86MTwXsU/hq720.jpg"
+            },
+            {
+                "title": "🍌 කෙසෙල්වල විශ්මිත ගුණ | දිනපතා කෙසෙල් කෑවොත් ඔබේ ශරීරයට මොකද වෙන්නේ?#bananabenefits #HealthyFood",
+                "url": "https://youtube.com/watch?v=p3nqvil_kO0",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/p3nqvil_kO0/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් බඩ ව්‍යංජනය කෑවොත් වෙන දේ දැනගමු : Benefits of Banana Stem",
+                "url": "https://youtube.com/watch?v=jpgGIjbE5BI",
+                "duration": "2:44",
+                "thumbnail": "https://i.ytimg.com/vi/jpgGIjbE5BI/hq720.jpg"
+            },
+            {
+                "title": "ලිංගික බෙලහීනතාවය වලකන රත් කෙසෙල් |Rath Kesel | Red Banana | benefits of red banana♻✅",
+                "url": "https://youtube.com/watch?v=5I-XQMBk_mc",
+                "duration": "3:40",
+                "thumbnail": "https://i.ytimg.com/vi/5I-XQMBk_mc/hqdefault.jpg"
+            },
+            {
+                "title": "කෙසෙල් මුව කෑවට මේ බව දැනගෙන හිටියද | kesel muwa guna |  Banana Flower Benefits",
+                "url": "https://youtube.com/watch?v=7RRrXvc3JDs",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/7RRrXvc3JDs/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල්මුව වල ගුණ | Keselmuwa wala guna | Health benefits of banana flower | @Sakalawaga",
+                "url": "https://youtube.com/watch?v=JpFQz9PkI2k",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/JpFQz9PkI2k/frame0.jpg"
+            },
+            {
+                "title": "කෙසෙල් ගස ගැන දන්නවාද?,,,,,",
+                "url": "https://youtube.com/watch?v=SnsSv2KAI1U",
+                "duration": "7:40",
+                "thumbnail": "https://i.ytimg.com/vi/SnsSv2KAI1U/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් ගැන ඔබ නොදැන සිටින සත්‍යය 🍌 | කෙසෙල් වල ඉතිහාසය, වගාව, පෝෂණ ගුණ හා ආර්ථික වටිනාකම” AI",
+                "url": "https://youtube.com/watch?v=r_jBjoO_TQk",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/r_jBjoO_TQk/hqdefault.jpg"
+            },
+            {
+                "title": "ගසක වරුණ 09 අංගවීර කෙසෙල් ශාකය (නේත්‍රම්පලම් වලටත් වඩා ලොකු,මුවක් නැතිව හැදෙන අරුම පුදුම කෙසෙල්)",
+                "url": "https://youtube.com/watch?v=6IBG8-OxfJs",
+                "duration": "10:20",
+                "thumbnail": "https://i.ytimg.com/vi/6IBG8-OxfJs/hq720.jpg"
+            },
+            {
+                "title": "Banana | කෙසෙල් ගැන ඔබ නොදත් දේ",
+                "url": "https://youtube.com/watch?v=I_jsrL2xtDQ",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/I_jsrL2xtDQ/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් ගහක් සිටුවන නිවැරදි ක්‍රමවේදය",
+                "url": "https://youtube.com/watch?v=dD95AYdSfEk",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/dD95AYdSfEk/hq720.jpg"
+            },
+            {
+                "title": "12 Benefits of Bananas You Should Know! | Health Benefits of Eating Bananas",
+                "url": "https://youtube.com/watch?v=NEzc5rmpF4k",
+                "duration": "6:19",
+                "thumbnail": "https://i.ytimg.com/vi/NEzc5rmpF4k/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Plantain | 10 Reasons to eat plantains | Food Goodies | Plantains",
+                "url": "https://youtube.com/watch?v=ijMRprMK2_I",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/ijMRprMK2_I/hqdefault.jpg"
+            },
+            {
+                "title": "Banana Benefits Sinhala පිළිකා වලකන කෙසෙල්",
+                "url": "https://youtube.com/watch?v=qrqbCbeSFUU",
+                "duration": "1:40",
+                "thumbnail": "https://i.ytimg.com/vi/qrqbCbeSFUU/hq720.jpg"
+            },
+            {
+                "title": "The Secret Health Benefits of Plantains",
+                "url": "https://youtube.com/watch?v=37AiH98oL04",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/37AiH98oL04/hqdefault.jpg"
+            },
+            {
+                "title": "Plantain Uses and Benefits",
+                "url": "https://youtube.com/watch?v=-97NXHyxRjA",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/-97NXHyxRjA/hq720.jpg"
+            },
+            {
+                "title": "Unleashing the Superpowers of Plantain: Health Benefits That'll Amaze You!",
+                "url": "https://youtube.com/watch?v=1djhRjk2oCA",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/1djhRjk2oCA/hq720.jpg"
+            },
+            {
+                "title": "7 Brilliant Health Benefits Of Banana Flowers",
+                "url": "https://youtube.com/watch?v=1NqHaLiiLGc",
+                "duration": "1:05",
+                "thumbnail": "https://i.ytimg.com/vi/1NqHaLiiLGc/hq720.jpg"
+            },
+            {
+                "title": "Plantains: Nutrition facts and Health benefits!",
+                "url": "https://youtube.com/watch?v=CzjcXiiUCkY",
+                "duration": "6:30",
+                "thumbnail": "https://i.ytimg.com/vi/CzjcXiiUCkY/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා කෙසෙල් කෑවොත් වෙන දේ 🍌 | Banana Health Benefits #banana #sinhala",
+                "url": "https://youtube.com/watch?v=kQa2JA1lF2E",
+                "duration": "6:07",
+                "thumbnail": "https://i.ytimg.com/vi/kQa2JA1lF2E/hq720.jpg"
+            },
+            {
+                "title": "Traditional Health Benefits of Plantains/Bananas Peels",
+                "url": "https://youtube.com/watch?v=AuJj6ZubDEY",
+                "duration": "11:16",
+                "thumbnail": "https://i.ytimg.com/vi/AuJj6ZubDEY/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Green Banana Benefits You Probably Didn’t Know",
+                "url": "https://youtube.com/watch?v=DLuXBHd1Ifs",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/DLuXBHd1Ifs/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits Of Eating Banana Peels",
+                "url": "https://youtube.com/watch?v=MdqxTl9Fy64",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/MdqxTl9Fy64/hq720.jpg"
+            },
+            {
+                "title": "කෙසෙල් ගුල්ලා #Banana_Weevil",
+                "url": "https://youtube.com/watch?v=hlZM5ezNv6E",
+                "duration": "18:05",
+                "thumbnail": "https://i.ytimg.com/vi/hlZM5ezNv6E/hq720.jpg"
+            },
+            {
+                "title": "7 Green Banana Benefits That Could Change Your Gut, Energy, and Cravings",
+                "url": "https://youtube.com/watch?v=yGkplplDkiw",
+                "duration": "9:03",
+                "thumbnail": "https://i.ytimg.com/vi/yGkplplDkiw/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Plantain | 10 Reasons to eat plantains | Food Goodies | Plantains",
+                "url": "https://youtube.com/watch?v=Cl-zY46js8c",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/Cl-zY46js8c/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Polydipsia",
-      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Burns and Scalds",
-      "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Mental Disorders",
-      "sinhala": "මානසික ආබාධ සහ රෝගී තත්ත්වයන් (උන්මාද / මානසික රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Root",
-    "Leaves",
-    "Tuber"
-  ],
-  "images": [
-    {
-      "image_id": "484",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/k2kXqkT5/plant00883-00484.jpg"
-    },
-    {
-      "image_id": "485",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/jkm686WW/plant00883-00485.jpg"
-    },
-    {
-      "image_id": "486",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/s9CphDVV/plant00883-00486.jpg"
-    },
-    {
-      "image_id": "3799",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/9m5NZFkk/plant00883-03799.jpg"
-    },
-    {
-      "image_id": "3800",
-      "caption": "Psedostem  (PMR)",
-      "url": "https://i.ibb.co/yc96qjNv/plant00883-03800.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

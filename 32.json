@@ -1,184 +1,375 @@
 {
-  "scientificName": "Allium cepa cv. group Aggregatum",
-  "synonyms": [
-    "Allium angolense Baker",
-    "Allium aobanum Araki",
-    "Allium ascalonicum Anon.",
-    "Allium ascalonicum f. rotterianum Voss ex J.Becker",
-    "Allium ascalonicum var. condensum Millán",
-    "Allium ascalonicum var. fertile Millán",
-    "Allium ascalonicum var. majus Corrie",
-    "Allium ascalonicum var. sterile Millán",
-    "Allium cepa var. aggregatum G.Don",
-    "Allium cepa var. anglicum Alef.",
-    "Allium cepa var. argenteum Alef.",
-    "Allium cepa var. bifolium Alef.",
-    "Allium cepa var. crinides Alef.",
-    "Allium cepa var. flandricum Alef.",
-    "Allium cepa var. globosum Alef.",
-    "Allium cepa var. hispanicum Alef.",
-    "Allium cepa var. jamesii Alef.",
-    "Allium cepa var. lisboanum Alef.",
-    "Allium cepa var. luteum Alef.",
-    "Allium cepa var. multiplicans L.H.Bailey",
-    "Allium cepa var. portanum Alef.",
-    "Allium cepa var. praecox Alef.",
-    "Allium cepa var. roseum Alef.",
-    "Allium cepa var. sanguineum Alef.",
-    "Allium cepa var. solaninum Alef.",
-    "Allium cepa var. tripolitanum Alef.",
-    "Allium cepa var. viviparum (Metzg.) Alef.",
-    "Allium cepaeum St.-Lag.",
-    "Allium commune Noronha",
-    "Allium cumaria Buch.-Ham. ex Wall.",
-    "Allium esculentum Salisb.",
-    "Allium napus Pall. ex Kunth",
-    "Allium nigritanum A.Chev.",
-    "Allium pauciflorum Willd. ex Ledeb.",
-    "Allium salota Dostál",
-    "Ascalonicum sativum P.Renault",
-    "Cepa alba P.Renault",
-    "Cepa esculenta Gray",
-    "Cepa esculenta var. hispanica Gray",
-    "Cepa esculenta var. ramosa Gray",
-    "Cepa esculenta var. rubra Gray",
-    "Cepa pallens P.Renault",
-    "Cepa rubra P.Renault",
-    "Cepa vulgaris Garsault",
-    "Kepa esculenta Raf.",
-    "Porrum cepa (L.) Rchb."
-  ],
-  "familyName": "AMARYLLIDACEAE",
-  "englishNames": [
-    "Red Onion",
-    "Shallot",
-    "Potato Onion",
-    "Multiplier Onion"
-  ],
-  "sinhalaName": "Rathu lunu (රතු ළූණු)",
-  "description": "සාමාන්‍යයෙන් වාර්ෂික ශාකයක් ලෙස වගා කරනු ලබන බහුවාර්ෂික පැළෑටියකි. උස සෙ.මී. 15-50ක් වන අතර, විෂ්කම්භය සෙ.මී. 1.5-2.5ක් වන රතු පැහැති භූගත බල්බ (subterranean bulbs) පිහිටයි. එක් බල්බයකට පත්‍ර 3-5ක් බැගින් පවතින අතර, ඒවා කුහර සහිත (hollow), දිග සෙ.මී. 20-30ක් සහ පළල සෙ.මී. 0.4-0.8ක් වන අතර සිලින්ඩරාකාර (terete) හැඩයක් ගනී. පුෂ්ප මංජරිය අග්‍රස්ථ පුෂ්ප මංජරියකි (umbel), විෂ්කම්භය සෙ.මී. 2.5-3.5ක් වන අතර පුෂ්ප දණ්ඩේ (peduncle) දිග සෙ.මී. 40-60කි. මල් සුදු පැහැතිය, විෂ්කම්භය මි.මී. 6ක් වන අතර පුෂ්ප වෘන්තයේ (pedicel) දිග සෙ.මී. 1.5-2කි.",
-  "treatments": [
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Allium cepa cv. group Aggregatum",
+    "synonyms": [
+        "Allium angolense Baker",
+        "Allium aobanum Araki",
+        "Allium ascalonicum Anon.",
+        "Allium ascalonicum f. rotterianum Voss ex J.Becker",
+        "Allium ascalonicum var. condensum Millán",
+        "Allium ascalonicum var. fertile Millán",
+        "Allium ascalonicum var. majus Corrie",
+        "Allium ascalonicum var. sterile Millán",
+        "Allium cepa var. aggregatum G.Don",
+        "Allium cepa var. anglicum Alef.",
+        "Allium cepa var. argenteum Alef.",
+        "Allium cepa var. bifolium Alef.",
+        "Allium cepa var. crinides Alef.",
+        "Allium cepa var. flandricum Alef.",
+        "Allium cepa var. globosum Alef.",
+        "Allium cepa var. hispanicum Alef.",
+        "Allium cepa var. jamesii Alef.",
+        "Allium cepa var. lisboanum Alef.",
+        "Allium cepa var. luteum Alef.",
+        "Allium cepa var. multiplicans L.H.Bailey",
+        "Allium cepa var. portanum Alef.",
+        "Allium cepa var. praecox Alef.",
+        "Allium cepa var. roseum Alef.",
+        "Allium cepa var. sanguineum Alef.",
+        "Allium cepa var. solaninum Alef.",
+        "Allium cepa var. tripolitanum Alef.",
+        "Allium cepa var. viviparum (Metzg.) Alef.",
+        "Allium cepaeum St.-Lag.",
+        "Allium commune Noronha",
+        "Allium cumaria Buch.-Ham. ex Wall.",
+        "Allium esculentum Salisb.",
+        "Allium napus Pall. ex Kunth",
+        "Allium nigritanum A.Chev.",
+        "Allium pauciflorum Willd. ex Ledeb.",
+        "Allium salota Dostál",
+        "Ascalonicum sativum P.Renault",
+        "Cepa alba P.Renault",
+        "Cepa esculenta Gray",
+        "Cepa esculenta var. hispanica Gray",
+        "Cepa esculenta var. ramosa Gray",
+        "Cepa esculenta var. rubra Gray",
+        "Cepa pallens P.Renault",
+        "Cepa rubra P.Renault",
+        "Cepa vulgaris Garsault",
+        "Kepa esculenta Raf.",
+        "Porrum cepa (L.) Rchb."
+    ],
+    "familyName": "AMARYLLIDACEAE",
+    "englishNames": [
+        "Red Onion",
+        "Shallot",
+        "Potato Onion",
+        "Multiplier Onion"
+    ],
+    "sinhalaName": "Rathu lunu (රතු ළූණු)",
+    "description": "සාමාන්‍යයෙන් වාර්ෂික ශාකයක් ලෙස වගා කරනු ලබන බහුවාර්ෂික පැළෑටියකි. උස සෙ.මී. 15-50ක් වන අතර, විෂ්කම්භය සෙ.මී. 1.5-2.5ක් වන රතු පැහැති භූගත බල්බ (subterranean bulbs) පිහිටයි. එක් බල්බයකට පත්‍ර 3-5ක් බැගින් පවතින අතර, ඒවා කුහර සහිත (hollow), දිග සෙ.මී. 20-30ක් සහ පළල සෙ.මී. 0.4-0.8ක් වන අතර සිලින්ඩරාකාර (terete) හැඩයක් ගනී. පුෂ්ප මංජරිය අග්‍රස්ථ පුෂ්ප මංජරියකි (umbel), විෂ්කම්භය සෙ.මී. 2.5-3.5ක් වන අතර පුෂ්ප දණ්ඩේ (peduncle) දිග සෙ.මී. 40-60කි. මල් සුදු පැහැතිය, විෂ්කම්භය මි.මී. 6ක් වන අතර පුෂ්ප වෘන්තයේ (pedicel) දිග සෙ.මී. 1.5-2කි.",
+    "treatments": [
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cholera",
+            "sinhala": "කොලරාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Amenorrhea",
+            "sinhala": "ඔසප් වීම නතර වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Inflammatory Conditions",
+            "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Earache",
+            "sinhala": "කන් කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bulb",
+        "Juice"
+    ],
+    "images": [
+        {
+            "image_id": "2860",
+            "caption": "Habit 1 (PMR)",
+            "url": "https://i.ibb.co/Kjxbtg2v/plant00032-02860.jpg"
+        },
+        {
+            "image_id": "2861",
+            "caption": "Habit 2 with bulbs(PMR)",
+            "url": "https://i.ibb.co/LDHNqjqb/plant00032-02861.jpg"
+        },
+        {
+            "image_id": "2862",
+            "caption": "Habit 3 (PMR)",
+            "url": "https://i.ibb.co/bhjkPFf/plant00032-02862.jpg"
+        },
+        {
+            "image_id": "2863",
+            "caption": "Inflorescence 1 (PMR)",
+            "url": "https://i.ibb.co/4RJSdrk7/plant00032-02863.jpg"
+        },
+        {
+            "image_id": "2864",
+            "caption": "Inflorescence 2 (PMR)",
+            "url": "https://i.ibb.co/4g4n11x9/plant00032-02864.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "රතු ලූණු පහසුවෙන්ම  බඳුනක වවමු. How to grow red onions easily in a pot.",
+                "url": "https://youtube.com/watch?v=u8l58QGEzWE",
+                "duration": "5:51",
+                "thumbnail": "https://i.ytimg.com/vi/u8l58QGEzWE/hq720.jpg"
+            },
+            {
+                "title": "Shallot Onion Benefits : රතු ළූණු කෑවොත් වෙන දේ මෙන්න",
+                "url": "https://youtube.com/watch?v=2XrRgQB1hUQ",
+                "duration": "3:06",
+                "thumbnail": "https://i.ytimg.com/vi/2XrRgQB1hUQ/hq720.jpg"
+            },
+            {
+                "title": "හිස කෙස්වල සියලු දෝෂ දුරු කරවන ළූණු යුෂ සත්කාර 5 ක් | 5 Onion juice treatments",
+                "url": "https://youtube.com/watch?v=TroctIPTaYw",
+                "duration": "8:30",
+                "thumbnail": "https://i.ytimg.com/vi/TroctIPTaYw/hq720.jpg"
+            },
+            {
+                "title": "රතු ළූණු කරිය ලංකාවේ ක්‍රමයට Authentic Sri Lankan Shallots Curry Recipe - Easy and Delicious!",
+                "url": "https://youtube.com/watch?v=rvY-SEWH6dQ",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/rvY-SEWH6dQ/hq720.jpg"
+            },
+            {
+                "title": "රතු ලුණු වගාවේ ආරම්භක අවධිය",
+                "url": "https://youtube.com/watch?v=BdMPkdBJpRM",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/BdMPkdBJpRM/hqdefault.jpg"
+            },
+            {
+                "title": "කඩෙන් ගෙනාපු රතු ළුණු පැල කලේ මේ විදියට # My Garden",
+                "url": "https://youtube.com/watch?v=KMXEAHJ3__Q",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/KMXEAHJ3__Q/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්තෙ බදුනක රතු ලූනු වගා කරමු Growing onions in the garden",
+                "url": "https://youtube.com/watch?v=iFPwrm6jtDE",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/iFPwrm6jtDE/hqdefault.jpg"
+            },
+            {
+                "title": "රතුලූනු කොළ ගෙදරදීම වවමු|ගුණ රතු ළූණු කොළ ගෙදරදීම වවමු |how to grow green onion,spring onion at home",
+                "url": "https://youtube.com/watch?v=95Zuhh63UVQ",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/95Zuhh63UVQ/hq720.jpg"
+            },
+            {
+                "title": "රතු එනු වගාවට සුදුසුම කාලසිමාව මෙිි කාලසිමාව හොඳම අස්වැන්න",
+                "url": "https://youtube.com/watch?v=xkumZWUahQY",
+                "duration": "10:17",
+                "thumbnail": "https://i.ytimg.com/vi/xkumZWUahQY/hq720.jpg"
+            },
+            {
+                "title": "හිසකෙස් වවන රතු ළුණු සත්කාරය|Red onion hair growth treatment|🌰💇‍♀️❤️💫 #sirlanka #onion #haircare",
+                "url": "https://youtube.com/watch?v=msq3VBu4V7I",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/msq3VBu4V7I/hqdefault.jpg"
+            },
+            {
+                "title": "Red onion curry | රතුලූනු කරිය | rathu lunu curry  sinhala",
+                "url": "https://youtube.com/watch?v=ZEswmyV_Lhw",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/ZEswmyV_Lhw/hq720.jpg"
+            },
+            {
+                "title": "රතු ලූණු පහසුවෙන්ම බඳුනක වවන්නේ මෙහෙමයි / How to Grow  Red Onion at Home | Rathulunu Wagawa Sinhala",
+                "url": "https://youtube.com/watch?v=gx35bfHR2G4",
+                "duration": "9:19",
+                "thumbnail": "https://i.ytimg.com/vi/gx35bfHR2G4/hq720.jpg"
+            },
+            {
+                "title": "Whiten Your Skin Fast With Onions | වේගයෙන් සම පැහැපත් කරන රතු ළූණු",
+                "url": "https://youtube.com/watch?v=RHXBK1K9XCI",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/RHXBK1K9XCI/hq720.jpg"
+            },
+            {
+                "title": "Rathulunu Maluwa | රතුලූණු මාලුව | Shallots Curry | red onion curry",
+                "url": "https://youtube.com/watch?v=bfv0ap7Edeg",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/bfv0ap7Edeg/hq720.jpg"
+            },
+            {
+                "title": "රතු ලූණු පහසුවෙන්ම  බඳුනක වවමු. How to grow red onions easily in a pot.",
+                "url": "https://youtube.com/watch?v=pLVEBNCmVG0",
+                "duration": "5:51",
+                "thumbnail": "https://i.ytimg.com/vi/pLVEBNCmVG0/frame0.jpg"
+            },
+            {
+                "title": "කෙසෙල් ගහේ රතු ළූණු වගාව  / Onion Cultivation in plantain Tree | ලුනූ වගාව | රතු ලූනූ | ගෙවතු වගාව",
+                "url": "https://youtube.com/watch?v=lUbMCxzZDg4",
+                "duration": "12:10",
+                "thumbnail": "https://i.ytimg.com/vi/lUbMCxzZDg4/hq720.jpg"
+            },
+            {
+                "title": "spicy red onions 🥵 සැරම සැර ගොඩක් ගුණ රතු ලූණු මාලුව #foodie #koran #villagecooking",
+                "url": "https://youtube.com/watch?v=qHmmJA9kbfM",
+                "duration": "9:55",
+                "thumbnail": "https://i.ytimg.com/vi/qHmmJA9kbfM/hq720.jpg"
+            },
+            {
+                "title": "රතු ළූණු වල ඇති කවුරුත් නොදන්න විශ්මිත ගුණ - Amazing quality of red onion for a healthy life",
+                "url": "https://youtube.com/watch?v=wD24UUt56Ic",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/wD24UUt56Ic/hq720.jpg"
+            },
+            {
+                "title": "පිස්සු හැදෙන රතුළුණු ගුණ",
+                "url": "https://youtube.com/watch?v=m8fw4Ucwkcs",
+                "duration": "9:57",
+                "thumbnail": "https://i.ytimg.com/vi/m8fw4Ucwkcs/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා රතු ලූණු ආහාරයට ගැනීමෙන් ඔබට ලැබෙන විද්‍යාත්මකව තහවුරු කල වටිනා වාසි 9 ක්",
+                "url": "https://youtube.com/watch?v=V0v0ZQvsdNk",
+                "duration": "11:05",
+                "thumbnail": "https://i.ytimg.com/vi/V0v0ZQvsdNk/hqdefault.jpg"
+            },
+            {
+                "title": "ලූනු වලින් ලැබෙන විශ්මිත ගුණ....",
+                "url": "https://youtube.com/watch?v=ZT8rV_YqB9M",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/ZT8rV_YqB9M/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම ළූණු කන අයගේ ශරීරයට සිදුවන පුදුම දේවල් 10ක් | 10 Amazing Health Benefits of Onion",
+                "url": "https://youtube.com/watch?v=km4lTKpGLEg",
+                "duration": "9:51",
+                "thumbnail": "https://i.ytimg.com/vi/km4lTKpGLEg/hq720.jpg"
+            },
+            {
+                "title": "රතු ලූනු කාපල්ලා",
+                "url": "https://youtube.com/watch?v=rOzRONGg7aE",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/rOzRONGg7aE/hqdefault.jpg"
+            },
+            {
+                "title": "රතුළූනු ඔසු ගුණ | Rathulunu | රෝග රැසකට සුව සලසන රතුළූනු | @osu-1380",
+                "url": "https://youtube.com/watch?v=YlE_Rx2jC7A",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/YlE_Rx2jC7A/hq720.jpg"
+            },
+            {
+                "title": "හිත පිරෙන්න ගෙදර ඉඳන්ම රතු ලුණු වවමු..!",
+                "url": "https://youtube.com/watch?v=X27skzRw8VY",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/X27skzRw8VY/hq720.jpg"
+            },
+            {
+                "title": "රතු ලූනු ගන්නෙ තාමත් කඩෙන්ද? | How to grow onions at home? | Ceylon Agri | Epi.485",
+                "url": "https://youtube.com/watch?v=QwQgFR_ocDU",
+                "duration": "13:32",
+                "thumbnail": "https://i.ytimg.com/vi/QwQgFR_ocDU/hq720.jpg"
+            },
+            {
+                "title": "රතු ලුණු වගාව - බිජ තවාන් දැමීම",
+                "url": "https://youtube.com/watch?v=hlGJlcxFPw0",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/hlGJlcxFPw0/hqdefault.jpg"
+            },
+            {
+                "title": "ළූනු වලින් කොණ්ඩය වවන හරිම ක්‍රමය | Grow your hair using onions",
+                "url": "https://youtube.com/watch?v=0eftPf18YEM",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/0eftPf18YEM/hq720.jpg"
+            },
+            {
+                "title": "Tips for growing onion |  ලස්සනට රතු ළූණු හදලා විසරහිත කොලකමු | Red Onion growing tips",
+                "url": "https://youtube.com/watch?v=qUDe6Pd9Zho",
+                "duration": "5:36",
+                "thumbnail": "https://i.ytimg.com/vi/qUDe6Pd9Zho/hq720.jpg"
+            },
+            {
+                "title": "ලූනු වලින් කොණ්ඩය වවන හරිම ක්‍රමය | Grow your hair using onions | hairfall solution",
+                "url": "https://youtube.com/watch?v=41OJHdo1Gbc",
+                "duration": "5:23",
+                "thumbnail": "https://i.ytimg.com/vi/41OJHdo1Gbc/hq720.jpg"
+            },
+            {
+                "title": "රතු ළුෑණු  කොළ ගෙදර හදමු | Grow Red Onion leaves at home | Growing to Harvest | #onion #tikplants",
+                "url": "https://youtube.com/watch?v=ddPSoummxww",
+                "duration": "6:52",
+                "thumbnail": "https://i.ytimg.com/vi/ddPSoummxww/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cholera",
-      "sinhala": "කොලරාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Amenorrhea",
-      "sinhala": "ඔසප් වීම නතර වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Inflammatory Conditions",
-      "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Earache",
-      "sinhala": "කන් කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bulb",
-    "Juice"
-  ],
-  "images": [
-    {
-      "image_id": "2860",
-      "caption": "Habit 1 (PMR)",
-      "url": "https://i.ibb.co/Kjxbtg2v/plant00032-02860.jpg"
-    },
-    {
-      "image_id": "2861",
-      "caption": "Habit 2 with bulbs(PMR)",
-      "url": "https://i.ibb.co/LDHNqjqb/plant00032-02861.jpg"
-    },
-    {
-      "image_id": "2862",
-      "caption": "Habit 3 (PMR)",
-      "url": "https://i.ibb.co/bhjkPFf/plant00032-02862.jpg"
-    },
-    {
-      "image_id": "2863",
-      "caption": "Inflorescence 1 (PMR)",
-      "url": "https://i.ibb.co/4RJSdrk7/plant00032-02863.jpg"
-    },
-    {
-      "image_id": "2864",
-      "caption": "Inflorescence 2 (PMR)",
-      "url": "https://i.ibb.co/4g4n11x9/plant00032-02864.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

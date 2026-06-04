@@ -1,108 +1,233 @@
 {
-  "scientificName": "Piper longum L.",
-  "synonyms": [
-    "Chavica longa (L.) H.Karst.",
-    "Chavica roxburghii Miq.",
-    "Chavica sarmentosa Miq.",
-    "Piper latifolium W.Hunter",
-    "Piper roxburghii (Miq.) J.Presl",
-    "Piper sarmentosum Wall.",
-    "Piper turbinatum Noronha"
-  ],
-  "familyName": "PIPERACEAE",
-  "englishNames": [
-    "Long Pepper",
-    "Indian long pepper"
-  ],
-  "sinhalaName": "Thippili (තිප්පිලි)",
-  "description": "බහුවාර්ෂික පැළෑටියකි; කඳන් රාශියක් ඇත, සෙ.මී. 60-90ක් දිගය, ඉහළට නැඹුරු වූ හෝ බිම දිගේ පැතිරෙන (prostrate) ස්වභාවයක් ගනී; ගැට (nodes) ඝන වී ඇත; ළපටි කොටස් රෝම රහිතය (glabrous). පත්‍ර සෙ.මී. 3.7-8ක් දිගය, පාදස්ථය හෘදයාකාරය (cordate); පත්‍ර වෘන්ත සෙ.මී. 7.5ක් පමණ දිගය. මල් ඒකලිංගික (dioecious) වන අතර ඝන සිලින්ඩරාකාර කරල් (spikes) ලෙස පිහිටයි; කරල් සෙ.මී. 2.5-3.7ක් දිගය. පල ඉතා කුඩාය, ඝන මාංසල කරල තුළ සම්පූර්ණයෙන්ම ගිලී පවතී, වර්ණය කළු පැහැයට හුරු කොළ පැහැයකි.",
-  "treatments": [
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Piper longum L.",
+    "synonyms": [
+        "Chavica longa (L.) H.Karst.",
+        "Chavica roxburghii Miq.",
+        "Chavica sarmentosa Miq.",
+        "Piper latifolium W.Hunter",
+        "Piper roxburghii (Miq.) J.Presl",
+        "Piper sarmentosum Wall.",
+        "Piper turbinatum Noronha"
+    ],
+    "familyName": "PIPERACEAE",
+    "englishNames": [
+        "Long Pepper",
+        "Indian long pepper"
+    ],
+    "sinhalaName": "Thippili (තිප්පිලි)",
+    "description": "බහුවාර්ෂික පැළෑටියකි; කඳන් රාශියක් ඇත, සෙ.මී. 60-90ක් දිගය, ඉහළට නැඹුරු වූ හෝ බිම දිගේ පැතිරෙන (prostrate) ස්වභාවයක් ගනී; ගැට (nodes) ඝන වී ඇත; ළපටි කොටස් රෝම රහිතය (glabrous). පත්‍ර සෙ.මී. 3.7-8ක් දිගය, පාදස්ථය හෘදයාකාරය (cordate); පත්‍ර වෘන්ත සෙ.මී. 7.5ක් පමණ දිගය. මල් ඒකලිංගික (dioecious) වන අතර ඝන සිලින්ඩරාකාර කරල් (spikes) ලෙස පිහිටයි; කරල් සෙ.මී. 2.5-3.7ක් දිගය. පල ඉතා කුඩාය, ඝන මාංසල කරල තුළ සම්පූර්ණයෙන්ම ගිලී පවතී, වර්ණය කළු පැහැයට හුරු කොළ පැහැයකි.",
+    "treatments": [
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Splenomegaly",
+            "sinhala": "ප්ලීහාව විශාල වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Dried immature fruit – spikes",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "1025",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/rGH1hf6P/plant00990-01025.jpg"
+        },
+        {
+            "image_id": "1026",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/NnSPYqgs/plant00990-01026.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Long Pepper | Herbal Plants|තාමත් හිටවලා නැද්ද? තිප්පිලි  | Ceylon Agri | Episode 108",
+                "url": "https://youtube.com/watch?v=DUi10GLdB_Y",
+                "duration": "7:11",
+                "thumbnail": "https://i.ytimg.com/vi/DUi10GLdB_Y/hq720.jpg"
+            },
+            {
+                "title": "thippili 2021 | long pepper 2021 |  රෝග රැසකට ගුණ දෙන තිප්පිලි ශාකය ගැන ඔබ නොදත් දේ |  තිප්පිලි 2021",
+                "url": "https://youtube.com/watch?v=FkG00wygPjo",
+                "duration": "5:51",
+                "thumbnail": "https://i.ytimg.com/vi/FkG00wygPjo/hqdefault.jpg"
+            },
+            {
+                "title": "සෙම නසන තිප්පිලි | Piper longum",
+                "url": "https://youtube.com/watch?v=0tqo4OeGBzU",
+                "duration": "11:09",
+                "thumbnail": "https://i.ytimg.com/vi/0tqo4OeGBzU/hq720.jpg"
+            },
+            {
+                "title": "තිප්පිලි ශාකය ගැන සරලව | Tippili plant | wild herbal medicine",
+                "url": "https://youtube.com/watch?v=qmYesmDxyRA",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/qmYesmDxyRA/hq720.jpg"
+            },
+            {
+                "title": "සෙම් රෝග සදහා ගුණදෙන තිප්පිලි (මොනවද ගජතිප්පිලි සහ තිප්පිලි, වර්ග දෙකක්ද?) | තිප්පිලි (Thippili)",
+                "url": "https://youtube.com/watch?v=auRiA6u0nEM",
+                "duration": "8:51",
+                "thumbnail": "https://i.ytimg.com/vi/auRiA6u0nEM/hq720.jpg"
+            },
+            {
+                "title": "සෙම්‍ රෝග නසන තිප්පිලි |Thippili🌿",
+                "url": "https://youtube.com/watch?v=UNI1bESNVP0",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/UNI1bESNVP0/hq720.jpg"
+            },
+            {
+                "title": "සෙම නසන තිප්පිලි | Thippili | තුන්දොස් නසන ඔසුව්",
+                "url": "https://youtube.com/watch?v=i4MjFBWa_1w",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/i4MjFBWa_1w/hq720.jpg"
+            },
+            {
+                "title": "Ceylon piper longum/thippili/තිප්පිලි වල  ඔබ නදත්  දේ/GAMISUWADA",
+                "url": "https://youtube.com/watch?v=GIGmNbJXCeo",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/GIGmNbJXCeo/hq720.jpg"
+            },
+            {
+                "title": "තිප්පිලි || Thippili || Piper longum (9)",
+                "url": "https://youtube.com/watch?v=o6VDPR470QU",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/o6VDPR470QU/hqdefault.jpg"
+            },
+            {
+                "title": "''තිප්පිලි '' කොරෝනා ප්‍රතිශක්තියට",
+                "url": "https://youtube.com/watch?v=qnMxJ5yuy1Y",
+                "duration": "6:39",
+                "thumbnail": "https://i.ytimg.com/vi/qnMxJ5yuy1Y/hqdefault.jpg"
+            },
+            {
+                "title": "තිප්පිලි සතු ගුණ 12 ක්.|ape lakdiwa",
+                "url": "https://youtube.com/watch?v=e7UpEkfKYc4",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/e7UpEkfKYc4/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන තිප්පිලි ගැන ඔබ නොදත් කරුනු - thippili |long pepper| herbal plant|ayurveda sinhala",
+                "url": "https://youtube.com/watch?v=YXsXakdT6iI",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/YXsXakdT6iI/hq720.jpg"
+            },
+            {
+                "title": "Pippili | Long peper | Piper Longum | තිප්පිලි",
+                "url": "https://youtube.com/watch?v=wFjUiH56Wk8",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/wFjUiH56Wk8/hq720.jpg"
+            },
+            {
+                "title": "Long Pepper Leaves Chart | Thippili Sambola| Cuisinofsrilanka",
+                "url": "https://youtube.com/watch?v=KpH_Jxq6Cfw",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/KpH_Jxq6Cfw/hq720.jpg"
+            },
+            {
+                "title": "තිප්පිලි වගාව",
+                "url": "https://youtube.com/watch?v=STSGk9p2IBo",
+                "duration": "11:57",
+                "thumbnail": "https://i.ytimg.com/vi/STSGk9p2IBo/hq720.jpg"
+            },
+            {
+                "title": "ගස් තිප්පිලි නමින් හදුන්වන වර්ගයක්. වටිනා ඔසුවක්, භාවිත ගැන ලගදීම...",
+                "url": "https://youtube.com/watch?v=Jrpw1xVlJRk",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/Jrpw1xVlJRk/hq720.jpg"
+            },
+            {
+                "title": "ගසක වරුණ 04 තිත්පිලි ශාකය(Long pepper) තිත්පිලි, ගජ තිත්පිලි, දිය තිත්පිලි හදුනාගනිමු",
+                "url": "https://youtube.com/watch?v=n9LIv7l9QzM",
+                "duration": "9:18",
+                "thumbnail": "https://i.ytimg.com/vi/n9LIv7l9QzM/hq720.jpg"
+            },
+            {
+                "title": "Thippali | തിപ്പലി | Pippali | Piper longum Health Benefits|VEDATHMIKA| Dr Vidhyalakshmi V",
+                "url": "https://youtube.com/watch?v=x7BMfRpIWO0",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/x7BMfRpIWO0/hqdefault.jpg"
+            },
+            {
+                "title": "සෙම ගුණ දයක වන තිප්පිලි ☘️💚",
+                "url": "https://youtube.com/watch?v=ow3XabIZPPc",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/ow3XabIZPPc/hq720.jpg"
+            },
+            {
+                "title": "Ayurvedic remedy | Herb Thippili (Piper Longum) | තිප්පිලි (වගපුල්) | Part 1",
+                "url": "https://youtube.com/watch?v=IR9V8KeR3Ro",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/IR9V8KeR3Ro/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Splenomegaly",
-      "sinhala": "ප්ලීහාව විශාල වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Dried immature fruit – spikes",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "1025",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/rGH1hf6P/plant00990-01025.jpg"
-    },
-    {
-      "image_id": "1026",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/NnSPYqgs/plant00990-01026.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

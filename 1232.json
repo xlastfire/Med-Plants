@@ -1,94 +1,495 @@
 {
-  "scientificName": "Bacopa monnieri (L.) Wettst.",
-  "synonyms": [
-    "Allocalyx microphylla Cordem.",
-    "Anisocalyx limnanthiflorus (L.) Hance",
-    "Bacopa monnieri var. cuneifolia Michx.",
-    "Bacopa monnieria (L.) Hayata & Matsum.",
-    "Bacopa monnieria var. cuneifolia (Michx.) Fernald",
-    "Bramia indica Lam.",
-    "Bramia monnieri (L.) Drake",
-    "Calytriplex obovata Ruiz & Pav.",
-    "Capraria monnieria Roxb.",
-    "Gratiola monnieri (L.) L.",
-    "Gratiola monnieria L.",
-    "Gratiola portulacacea Weinm.",
-    "Gratiola tetrandra Stokes",
-    "Habershamia cuneifolia (Michx.) Raf.",
-    "Herpestis africana (Pers.) Steud.",
-    "Herpestis brownei Steud.",
-    "Herpestis calytriplex Steud.",
-    "Herpestis cuneifolia (Michx.) Pursh",
-    "Herpestis monnieri (L.) Rothm.",
-    "Herpestis monnieria (L.) Kunth",
-    "Herpestis moranensis Kunth",
-    "Herpestis pedunculosa Steud.",
-    "Herpestis procumbens Spreng.",
-    "Herpestis spathulata Blume",
-    "Hydrotrida beccabunga Willd.",
-    "Limosella calycina Forssk.",
-    "Lysimachia monnieri L.",
-    "Moniera africana Pers.",
-    "Moniera brownei Pers.",
-    "Moniera cuneifolia Michx.",
-    "Moniera monnieri (L.) Britton",
-    "Moniera pedunculosa Pers.",
-    "Ruellia articulata Houtt.",
-    "Septas repens Lour.",
-    "Septilia repens Raf.",
-    "Thunbergia stolonifera Blanco"
-  ],
-  "familyName": "PLANTAGINACEAE",
-  "englishNames": [],
-  "sinhalaName": "Lunuwila (ලුණුවිල)",
-  "description": "වාර්ෂික, රෝම රහිත (glabrous), වගුරු බිම්වල වැවෙන, ඇතැම් විට ජලජ පැළෑටි; කඳන් බඩගා යන සුළුය. පත්‍ර 0.9-2.0 x 0.3-6.5 සෙ.මී. වේ. මල් පත්‍ර අක්ෂවල තනිව පිහිටයි; මල් දඬු (pedicels) 1-1.3 සෙ.මී. දිගය; මල් කිරුළ (corolla) සුදු හෝ ලා දම්-නිල් පැහැතිය, නලය සීනුවක හැඩැති (campanulate) වන අතර 5-6 මි.මී. දිගය, ඉහළ තොල කොටස් දෙකකින් (2-lobed) යුක්තය. කරල් (capsule) 3-4 x 2 මි.මී. දිග වන අතර, එය මල් වැල (calyx) තුළ වැසී පවතී, අග්‍රය වියළී ගිය රේණු දණ්ඩකින් (style) සමන්විත වේ. බීජ 0.6 මි.මී. දිගය.",
-  "treatments": [
-    {
-      "treatment": "Insanity",
-      "sinhala": "උන්මාදය (චිත්ත විකෘතිය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Bacopa monnieri (L.) Wettst.",
+    "synonyms": [
+        "Allocalyx microphylla Cordem.",
+        "Anisocalyx limnanthiflorus (L.) Hance",
+        "Bacopa monnieri var. cuneifolia Michx.",
+        "Bacopa monnieria (L.) Hayata & Matsum.",
+        "Bacopa monnieria var. cuneifolia (Michx.) Fernald",
+        "Bramia indica Lam.",
+        "Bramia monnieri (L.) Drake",
+        "Calytriplex obovata Ruiz & Pav.",
+        "Capraria monnieria Roxb.",
+        "Gratiola monnieri (L.) L.",
+        "Gratiola monnieria L.",
+        "Gratiola portulacacea Weinm.",
+        "Gratiola tetrandra Stokes",
+        "Habershamia cuneifolia (Michx.) Raf.",
+        "Herpestis africana (Pers.) Steud.",
+        "Herpestis brownei Steud.",
+        "Herpestis calytriplex Steud.",
+        "Herpestis cuneifolia (Michx.) Pursh",
+        "Herpestis monnieri (L.) Rothm.",
+        "Herpestis monnieria (L.) Kunth",
+        "Herpestis moranensis Kunth",
+        "Herpestis pedunculosa Steud.",
+        "Herpestis procumbens Spreng.",
+        "Herpestis spathulata Blume",
+        "Hydrotrida beccabunga Willd.",
+        "Limosella calycina Forssk.",
+        "Lysimachia monnieri L.",
+        "Moniera africana Pers.",
+        "Moniera brownei Pers.",
+        "Moniera cuneifolia Michx.",
+        "Moniera monnieri (L.) Britton",
+        "Moniera pedunculosa Pers.",
+        "Ruellia articulata Houtt.",
+        "Septas repens Lour.",
+        "Septilia repens Raf.",
+        "Thunbergia stolonifera Blanco"
+    ],
+    "familyName": "PLANTAGINACEAE",
+    "englishNames": [],
+    "sinhalaName": "Lunuwila (ලුණුවිල)",
+    "description": "වාර්ෂික, රෝම රහිත (glabrous), වගුරු බිම්වල වැවෙන, ඇතැම් විට ජලජ පැළෑටි; කඳන් බඩගා යන සුළුය. පත්‍ර 0.9-2.0 x 0.3-6.5 සෙ.මී. වේ. මල් පත්‍ර අක්ෂවල තනිව පිහිටයි; මල් දඬු (pedicels) 1-1.3 සෙ.මී. දිගය; මල් කිරුළ (corolla) සුදු හෝ ලා දම්-නිල් පැහැතිය, නලය සීනුවක හැඩැති (campanulate) වන අතර 5-6 මි.මී. දිගය, ඉහළ තොල කොටස් දෙකකින් (2-lobed) යුක්තය. කරල් (capsule) 3-4 x 2 මි.මී. දිග වන අතර, එය මල් වැල (calyx) තුළ වැසී පවතී, අග්‍රය වියළී ගිය රේණු දණ්ඩකින් (style) සමන්විත වේ. බීජ 0.6 මි.මී. දිගය.",
+    "treatments": [
+        {
+            "treatment": "Insanity",
+            "sinhala": "උන්මාදය (චිත්ත විකෘතිය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Stem",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "1533",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/j99hkmvw/plant01232-01533.jpg"
+        },
+        {
+            "image_id": "1534",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/XrQCzpfx/plant01232-01534.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මතකය වැඩිකරන සෙම නසන රුව වඩන ලුණුවිල සම්බෝලය | Lunuwila | Bacopa Monnieri Salad | Lunuwila Sambolaya",
+                "url": "https://youtube.com/watch?v=Z0YUC6bS_uY",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/Z0YUC6bS_uY/hq720.jpg"
+            },
+            {
+                "title": "ලුණුවිල වල ඇති ගුණ 40ක්",
+                "url": "https://youtube.com/watch?v=mHlY4GomRPA",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/mHlY4GomRPA/hq720.jpg"
+            },
+            {
+                "title": "මතකය වැඩි කරන ලුණුවිල ව්‍යංජනය තිත්ත නැතුව රසට හදමු | Lunuwila Curry | Lunuwila Recipe | Lunuwila |",
+                "url": "https://youtube.com/watch?v=l7lZQtKkNmo",
+                "duration": "5:46",
+                "thumbnail": "https://i.ytimg.com/vi/l7lZQtKkNmo/hq720.jpg"
+            },
+            {
+                "title": "ලුණුවිල ව්‍යංජන How to make lunuwila curry in sinhala Aththammai Mamai Sri Lanka",
+                "url": "https://youtube.com/watch?v=fi5W7AaEm-I",
+                "duration": "5:14",
+                "thumbnail": "https://i.ytimg.com/vi/fi5W7AaEm-I/hq720.jpg"
+            },
+            {
+                "title": "ලුණුවිල සම්බෝල තිත්ත නැතුව රසට හදමු❤️👩‍🍳😋 #cooking @ruviismagic",
+                "url": "https://youtube.com/watch?v=RjSHoEQdjM8",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/RjSHoEQdjM8/hqdefault.jpg"
+            },
+            {
+                "title": "ළමා තරුණ මහළු ඔබේ මනස සක්තිය වර්ධනය කරන ඖෂධිය ශාකය/ලුනුවිල/lunuvila medical",
+                "url": "https://youtube.com/watch?v=zPXIKMUSPVI",
+                "duration": "10:08",
+                "thumbnail": "https://i.ytimg.com/vi/zPXIKMUSPVI/hq720.jpg"
+            },
+            {
+                "title": "මතක ශක්තිය වැඩිකරන මහා බ්‍රහ්මයාගෙන් ලැබුනු වටිනා ත්‍යාගය ලුණුවිල | Bacopa Monnieri",
+                "url": "https://youtube.com/watch?v=-4tn7cQ3A14",
+                "duration": "15:43",
+                "thumbnail": "https://i.ytimg.com/vi/-4tn7cQ3A14/hq720.jpg"
+            },
+            {
+                "title": "ලුණුවිල ගමේම කොල්ලෝ ටික එකතුවෙලා ගොඩ දැම්ම අනතුරටපත් ගුවන් යානයේ නවතම දර්ශණ @wanesatv",
+                "url": "https://youtube.com/watch?v=CGRpTEfu4Rc",
+                "duration": "11:44",
+                "thumbnail": "https://i.ytimg.com/vi/CGRpTEfu4Rc/hq720.jpg"
+            },
+            {
+                "title": "මතකය වැඩි කරවන,මොළය වර්ධනය කරන විශ්මිත පානය - ලුණුවිල(වයස අවු: 1 ත් 6 ත් අතර දරුවන්ට දියයුතුම ඖෂධය)",
+                "url": "https://youtube.com/watch?v=RsDC3kOVqaY",
+                "duration": "7:47",
+                "thumbnail": "https://i.ytimg.com/vi/RsDC3kOVqaY/hq720.jpg"
+            },
+            {
+                "title": "ඔබටත් අමතක වෙනවද ? මොලය වඩවන හොදම පැලෑටිය",
+                "url": "https://youtube.com/watch?v=ObqxwWVjHSk",
+                "duration": "7:23",
+                "thumbnail": "https://i.ytimg.com/vi/ObqxwWVjHSk/hqdefault.jpg"
+            },
+            {
+                "title": "මතකය වඩන විශ්මිත පැළෑටිය- ලුණුවිල/ The  wonderful plant that grows memory- lunuwila",
+                "url": "https://youtube.com/watch?v=d16uCsVzt0E",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/d16uCsVzt0E/hq720.jpg"
+            },
+            {
+                "title": "How to make lunuwila curry  | ඉගෙන ගන්න දරුවන්ට දෙන්න හොඳම ඔසුව | Cuisine of sri lanka",
+                "url": "https://youtube.com/watch?v=I3dd74WivIk",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/I3dd74WivIk/hq720.jpg"
+            },
+            {
+                "title": "දරුවන්ගේ මතක ශක්තිය වැඩි කරන දිව ඔසුවයි ලුණුවිල | lunuwila |bacopa monneieri |hela osu samaga ama",
+                "url": "https://youtube.com/watch?v=b3ms2eyG5A4",
+                "duration": "9:43",
+                "thumbnail": "https://i.ytimg.com/vi/b3ms2eyG5A4/hqdefault.jpg"
+            },
+            {
+                "title": "Episode 38 අමතක වෙනවට හොඳම පැලෑටිය | ගෙවත්තට ලුණුවිල වගාවක් එක්කර ගනිමු.",
+                "url": "https://youtube.com/watch?v=DRISFBDIVic",
+                "duration": "19:13",
+                "thumbnail": "https://i.ytimg.com/vi/DRISFBDIVic/hq720.jpg"
+            },
+            {
+                "title": "අංක එකේ බුද්ධිය වැඩි දියුණු කරන ලුණුවිල ශාකය | Allocalyx microphylla Cordem - Sobadam Piyasa",
+                "url": "https://youtube.com/watch?v=5xRjLU8XwTI",
+                "duration": "11:02",
+                "thumbnail": "https://i.ytimg.com/vi/5xRjLU8XwTI/hq720.jpg"
+            },
+            {
+                "title": "දරුවන්ට ඝන දෙවි නුවණ පහල කරවන්න ලුණුවිල වැඩියෙන් කෑමට දෙන්න | ආයුර්වේද වෛද්‍ය රන්පත වෙද මහත්තයා",
+                "url": "https://youtube.com/watch?v=piK-bUg8Rc8",
+                "duration": "13:13",
+                "thumbnail": "https://i.ytimg.com/vi/piK-bUg8Rc8/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ පිරි ලුණුවිල | Lunuwila - Bacopa Monnieri Plant - Brahmi | Dayawathi - දයාවතී",
+                "url": "https://youtube.com/watch?v=m9SUENHexrg",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/m9SUENHexrg/hq720.jpg"
+            },
+            {
+                "title": "ලුණුවිල වල විශ්මිත ගුණ | Sakalawaga",
+                "url": "https://youtube.com/watch?v=MK4tEU-t-Os",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/MK4tEU-t-Os/hqdefault.jpg"
+            },
+            {
+                "title": "ඉගෙන ගන්න දරුවන්ට දෙන්න හොඳම ඔසුව | Bacopa monnieri | Ceylon Agri | Episode 152",
+                "url": "https://youtube.com/watch?v=C7QDRDgBQp4",
+                "duration": "10:38",
+                "thumbnail": "https://i.ytimg.com/vi/C7QDRDgBQp4/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ ඇති ලුණුවිල☘️🌳🌿🌱🪴",
+                "url": "https://youtube.com/watch?v=8OGvIShqY20",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/8OGvIShqY20/hq720.jpg"
+            },
+            {
+                "title": "#ලුණුවිල # Bacopa monnieri #දිව්‍ය ඹෂධයක් බදු ලුණුවිල",
+                "url": "https://youtube.com/watch?v=xgh-vfVv_vo",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/xgh-vfVv_vo/hq720.jpg"
+            },
+            {
+                "title": "අපෙන් ගිලිහී ගිය විශ්මිත ඖෂධය ලුණුවිල - Health benefits of mind boosting plant Bacopa monnieri",
+                "url": "https://youtube.com/watch?v=g0WBzMuCHks",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/g0WBzMuCHks/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "#ඖෂධීය ගුණ පිරුණු ලුණුවිල සම්බෝල - #Lunuwila sambola",
+                "url": "https://youtube.com/watch?v=Zmiw4jdQdZU",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/Zmiw4jdQdZU/hqdefault.jpg"
+            },
+            {
+                "title": "ලුණුවිල(Saltwater) ශාකයේ විශ්මිත ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=6BgmTqex7TQ",
+                "duration": "5:19",
+                "thumbnail": "https://i.ytimg.com/vi/6BgmTqex7TQ/hq720.jpg"
+            },
+            {
+                "title": "මතකය වැඩිකරන සෙම නසන රුව වඩන ලුණුවිල සම්බෝලය | Lunuwila | Bacopa Monnieri Salad | Lunuwila Sambolaya",
+                "url": "https://youtube.com/watch?v=lb9aNgrYtC8",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/lb9aNgrYtC8/frame0.jpg"
+            },
+            {
+                "title": "ලුණ්විල වල ගුණ",
+                "url": "https://youtube.com/watch?v=J_YIVDvJ7AE",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/J_YIVDvJ7AE/hqdefault.jpg"
+            },
+            {
+                "title": "උදර රෝග රැසකට දිව ඔසුවක්.  නිවිතිවල ගුණ.",
+                "url": "https://youtube.com/watch?v=Ug3MW1sI4EI",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/Ug3MW1sI4EI/hq720.jpg"
+            },
+            {
+                "title": "''කලාඳුරු අල '' ගුණ අගුණ. රෝග රැසකට ගුණදෙන විශ්මිත ඖෂධ.",
+                "url": "https://youtube.com/watch?v=lKIPz0tGmWc",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/lKIPz0tGmWc/hq720.jpg"
+            },
+            {
+                "title": "රස ඖෂධ භාවිතයේ ගුණ#ayurveda #Education",
+                "url": "https://youtube.com/watch?v=PtdQlHznJq0",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/PtdQlHznJq0/hq720.jpg"
+            },
+            {
+                "title": "නිවිති වල ගුණ Nivithi wala guna Health Benifits of Spinach by Vindy's Journey Kitchen",
+                "url": "https://youtube.com/watch?v=2LhDlFh89y4",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/2LhDlFh89y4/hqdefault.jpg"
+            },
+            {
+                "title": "ලූණුවල ගුණ අගුණ හරියට දැනගමු  | Health Benefits of Onion",
+                "url": "https://youtube.com/watch?v=c26SK5ZTHg4",
+                "duration": "9:17",
+                "thumbnail": "https://i.ytimg.com/vi/c26SK5ZTHg4/hqdefault.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "සූර්යාලෝකයෙන් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=eIAX-iPabsY",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/eIAX-iPabsY/hqdefault.jpg"
+            },
+            {
+                "title": "නීරෝගී ලස්සනටම හැදුනු පැල ඔයාලට ගන්න පුලුවන්#anthuriumwagawasinhala#fypviral#plants0765647812",
+                "url": "https://youtube.com/watch?v=5sUz5dj8UGM",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/5sUz5dj8UGM/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "⛔ලංකාව ලෝකය හොල්ලයි! ලේ වල ඝනකම අඩුකරන සුපිරි පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=R03vVDIhLWs",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/R03vVDIhLWs/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "Purslane: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=AKjcsZRcuQY",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/AKjcsZRcuQY/hq720.jpg"
+            },
+            {
+                "title": "8 Things About Arugula Greens - Rocket Lettuce Nutrition",
+                "url": "https://youtube.com/watch?v=DkVQINORQdA",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/DkVQINORQdA/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 6ක් | Health Benefits Of Butterfly Pea Tea",
+                "url": "https://youtube.com/watch?v=lwZGAN8NJaM",
+                "duration": "9:22",
+                "thumbnail": "https://i.ytimg.com/vi/lwZGAN8NJaM/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "Welpenela Benefits : පිරිමි ගෙදරම තියාගන්න ගහපු වැල් පෙනෙල ගැටේ මෙන්න",
+                "url": "https://youtube.com/watch?v=gjqX33rzqng",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/gjqX33rzqng/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=MBR3AVmcWqw",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/MBR3AVmcWqw/hq720.jpg"
+            },
+            {
+                "title": "සලාද කන අයට වෙන දේ දැනගමු : Benefits of Lettuce",
+                "url": "https://youtube.com/watch?v=DRuEnL0hYU8",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/DRuEnL0hYU8/hq720.jpg"
+            },
+            {
+                "title": "6 health benefits of egg fruit || health benefits of garden egg leaf || exotic tropical fruit",
+                "url": "https://youtube.com/watch?v=8SGfT5XVCRc",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/8SGfT5XVCRc/hqdefault.jpg"
+            },
+            {
+                "title": "මතකය සහ රූපය වඩවන දිව ඔසුව | Health Benefits Of Lunuwila | Vishwakarma",
+                "url": "https://youtube.com/watch?v=SIxZ7Iwj6OM",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/SIxZ7Iwj6OM/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "ලූණු කොළ කෑවොත් වෙන දේ මෙන්න : Scallions Benefits",
+                "url": "https://youtube.com/watch?v=gcM_pB-CcfY",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/gcM_pB-CcfY/hq720.jpg"
+            },
+            {
+                "title": "9 Amazing Benefits of Lavender | Lavender Health Benefits and Uses!",
+                "url": "https://youtube.com/watch?v=bTMPWXZfeoY",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/bTMPWXZfeoY/hq720.jpg"
+            },
+            {
+                "title": "Home Remedies for Constipation (Sinhala)",
+                "url": "https://youtube.com/watch?v=Ujl8MRLC5aQ",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/Ujl8MRLC5aQ/hqdefault.jpg"
+            },
+            {
+                "title": "Lunuwila (ලුණුවිල) Bacopa Monnieri - Sri Lankan divine medicines",
+                "url": "https://youtube.com/watch?v=7fv2_iiNSiI",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/7fv2_iiNSiI/hq720.jpg"
+            },
+            {
+                "title": "විශේෂ හාස්කම් දේවමෙහෙය / SPECIAL HEALING SERVICE 2026.06.04",
+                "url": "https://youtube.com/watch?v=AAAMrPYx1VI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/AAAMrPYx1VI/hq720.jpg"
+            },
+            {
+                "title": "අපි නොදන්න ගුණ පිරුණු ලුණුවිල Bacopa monnieri /ලේ පිරිසිදු කරන කොණ්ඩෙඉදිම  වළක්වාලන දේශීය ඔසුව",
+                "url": "https://youtube.com/watch?v=oov2SPDqV4U",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/oov2SPDqV4U/hqdefault.jpg"
+            },
+            {
+                "title": "ලුණ්විල වල ගුණ",
+                "url": "https://youtube.com/watch?v=Y8A8dLkRBVg",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/Y8A8dLkRBVg/frame0.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "ලොකු ලූනුවල ඉල්ලුම සහ සැපයුම ගැන පැහැදිලි කිරීමක්.. - හිටපු කෘෂිකර්ම අධ්‍යක්ෂක කේ.බී.ගුණරත්න",
+                "url": "https://youtube.com/watch?v=Fg7QBRaBQqU",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/Fg7QBRaBQqU/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Stem",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "1533",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/j99hkmvw/plant01232-01533.jpg"
-    },
-    {
-      "image_id": "1534",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/XrQCzpfx/plant01232-01534.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

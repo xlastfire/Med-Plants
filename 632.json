@@ -1,127 +1,252 @@
 {
-  "scientificName": "Indigofera arrecta Hochst. ex A.Rich.",
-  "synonyms": [
-    "Anil arrecta (Hochst. ex A.Rich.) Kuntze",
-    "Anil madagascariensis (Schrank ex Colla) Kuntze",
-    "Anil umbonata (Welw. ex Baker) Kuntze",
-    "Indigofera kisantuensis De Wild. & T.Durand",
-    "Indigofera madagascariensis Schrank ex Colla",
-    "Indigofera scopa De Wild. & T.Durand",
-    "indigofera tinctoria var. arrecta (Hochst. ex A.Rich.) Berhaut",
-    "Indigofera umbonata Welw. ex Baker"
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Bengal Indigo",
-    "Java Indigo",
-    "Natal indigo"
-  ],
-  "sinhalaName": "Maha nil averiya (මහ නිල් අවරිය)",
-  "description": "මීටර් 2ක් පමණ උසැති, කෙළින් වැඩෙන, අතු බෙදුණු පඳුරකි. පත්‍රිකා යුගල් පහේ සිට අට දක්වා පවතින අතර, ඒවා ප්‍රතිලෝම ලේන්සාකාර (oblanceolate) හැඩයක් ගනී. පත්‍රිකා සෙන්ටිමීටර 1 සිට 1.5 දක්වා දිගින් යුක්ත වන අතර, උඩ පැත්ත සිනිඳු (glabrous) වන අතර යටි පැත්ත රෝම සහිත (hairy) වේ. මල් කහ පැහැති වන අතර මල් 6 සිට 12 දක්වා වූ පොකුරු (racemes) ලෙස පිහිටයි. කරල් මේරූ විට චෙස්නට්-දුඹුරු පැහැයක් ගන්නා අතර, සෙන්ටිමීටර 1.5 සිට 4 දක්වා දිගින් යුක්ත වේ. ඒවා ඔප දැමූ (polished) පෙනුමකින් යුක්ත වන අතර බීජ හයේ සිට අට දක්වා අඩංගු වේ.",
-  "treatments": [
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Indigofera arrecta Hochst. ex A.Rich.",
+    "synonyms": [
+        "Anil arrecta (Hochst. ex A.Rich.) Kuntze",
+        "Anil madagascariensis (Schrank ex Colla) Kuntze",
+        "Anil umbonata (Welw. ex Baker) Kuntze",
+        "Indigofera kisantuensis De Wild. & T.Durand",
+        "Indigofera madagascariensis Schrank ex Colla",
+        "Indigofera scopa De Wild. & T.Durand",
+        "indigofera tinctoria var. arrecta (Hochst. ex A.Rich.) Berhaut",
+        "Indigofera umbonata Welw. ex Baker"
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Bengal Indigo",
+        "Java Indigo",
+        "Natal indigo"
+    ],
+    "sinhalaName": "Maha nil averiya (මහ නිල් අවරිය)",
+    "description": "මීටර් 2ක් පමණ උසැති, කෙළින් වැඩෙන, අතු බෙදුණු පඳුරකි. පත්‍රිකා යුගල් පහේ සිට අට දක්වා පවතින අතර, ඒවා ප්‍රතිලෝම ලේන්සාකාර (oblanceolate) හැඩයක් ගනී. පත්‍රිකා සෙන්ටිමීටර 1 සිට 1.5 දක්වා දිගින් යුක්ත වන අතර, උඩ පැත්ත සිනිඳු (glabrous) වන අතර යටි පැත්ත රෝම සහිත (hairy) වේ. මල් කහ පැහැති වන අතර මල් 6 සිට 12 දක්වා වූ පොකුරු (racemes) ලෙස පිහිටයි. කරල් මේරූ විට චෙස්නට්-දුඹුරු පැහැයක් ගන්නා අතර, සෙන්ටිමීටර 1.5 සිට 4 දක්වා දිගින් යුක්ත වේ. ඒවා ඔප දැමූ (polished) පෙනුමකින් යුක්ත වන අතර බීජ හයේ සිට අට දක්වා අඩංගු වේ.",
+    "treatments": [
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Parasitic Skin Infections",
+            "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Kidney Diseases",
+            "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gastric Disorders",
+            "sinhala": "ආමාශගත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Venereal Disease",
+            "sinhala": "ලිංගික රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Paralysis",
+            "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Convulsions",
+            "sinhala": "වලිප්පුව / වෙවුලීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds",
+        "Fruits",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "1097",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/FLQMj6zK/plant00632-01097.jpg"
+        },
+        {
+            "image_id": "1098",
+            "caption": "Young inflorescence",
+            "url": "https://i.ibb.co/bgzSTQR3/plant00632-01098.jpg"
+        },
+        {
+            "image_id": "1099",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/gLKYGgkW/plant00632-01099.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "නිල් අවරිය පැලය. indigofera avuri",
+                "url": "https://youtube.com/watch?v=fQKu46PQG3c",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/fQKu46PQG3c/hqdefault.jpg"
+            },
+            {
+                "title": "කාන්තාවන් බැලිය යුතුම #The blue avaria plant කොන්ඩෙ කළු කරන නිල් අවරිය #black  hair",
+                "url": "https://youtube.com/watch?v=hdXs_GcNz-E",
+                "duration": "6:59",
+                "thumbnail": "https://i.ytimg.com/vi/hdXs_GcNz-E/hq720.jpg"
+            },
+            {
+                "title": "නිල් අවරිය කොළ සාත්තුව | කොන්ඩය තඹ පාට වෙලාද?  | Treatment for coper colour hair",
+                "url": "https://youtube.com/watch?v=n3qQt09WUIY",
+                "duration": "0:40",
+                "thumbnail": "https://i.ytimg.com/vi/n3qQt09WUIY/hq720.jpg"
+            },
+            {
+                "title": "නිල් අවරිය ශාකය nil awariya Indigofera tinctoriya. හඳුනා ගනිමු.Indigo Plant அவரி செ",
+                "url": "https://youtube.com/watch?v=KPNw7k_gLZ0",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/KPNw7k_gLZ0/hqdefault.jpg"
+            },
+            {
+                "title": "Nil awariya.vishnu kranthi.nabiriththa..නිල් අවරිය, විෂ්ණු ක්‍රන්ති, නාබිරිත්ත දැකපු නැති අයට....",
+                "url": "https://youtube.com/watch?v=ifdFevkLjIg",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/ifdFevkLjIg/hqdefault.jpg"
+            },
+            {
+                "title": "Indigo Henna to cover grey hair naturally | Indigo powder for hair | One step henna indigo process",
+                "url": "https://youtube.com/watch?v=aESU4rbvAHk",
+                "duration": "26:43",
+                "thumbnail": "https://i.ytimg.com/vi/aESU4rbvAHk/hq720.jpg"
+            },
+            {
+                "title": "වතාරක්ත, ඉදිමුම් ඇතුළු රෝග රැසකට ගුණදෙන නිල් අවරිය හදුනාගන්න (අවරි සහ නිල් අවරිය දෙකක්) Nil Awariya",
+                "url": "https://youtube.com/watch?v=3_BauoMLqrY",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/3_BauoMLqrY/hq720.jpg"
+            },
+            {
+                "title": "Indigo plant [ නිල් අවරිය ] - World's Miracle Plants",
+                "url": "https://youtube.com/watch?v=YCiKM6JpIUc",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/YCiKM6JpIUc/hq720.jpg"
+            },
+            {
+                "title": "Avuri plant Srilanka... (indigo )නිල් අවරිය  ශාකය හඳුනා ගන්න.. රැවේටෙන්න නැතිව.. මෙන්න",
+                "url": "https://youtube.com/watch?v=c_U5fY_U8qU",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/c_U5fY_U8qU/hq720.jpg"
+            },
+            {
+                "title": "දද, ගෙඩි, වණ,තුවාල පහසුවෙන් සුව කළ හැකි මහගු ඹෟෂධයක් - නිල් අවරිය",
+                "url": "https://youtube.com/watch?v=vbIjyA-heRg",
+                "duration": "6:51",
+                "thumbnail": "https://i.ytimg.com/vi/vbIjyA-heRg/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත නිල් අවරිය | Nil Awariya Plant | Nilam | Indigo Blue | Hair",
+                "url": "https://youtube.com/watch?v=Mm1PPZYamMk",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/Mm1PPZYamMk/hq720.jpg"
+            },
+            {
+                "title": "Beauty Tips - කොන්ඩේ කලු කරගන්න ස්වාභාවික නිල් ආවරිය තෙල්",
+                "url": "https://youtube.com/watch?v=XGk4VdFglpg",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/XGk4VdFglpg/hqdefault.jpg"
+            },
+            {
+                "title": "නිල් අවරිය පැලය. indigofera avuri",
+                "url": "https://youtube.com/watch?v=mEp-0HtmMqQ",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/mEp-0HtmMqQ/frame0.jpg"
+            },
+            {
+                "title": "සුදු කෙස් කළු කරන , පනු රෝග නසන විශිෂ්ඨ ඔසුව | Nil Awariya | Ceylon Agri | Episode 163",
+                "url": "https://youtube.com/watch?v=-DhDGVr-ixg",
+                "duration": "11:15",
+                "thumbnail": "https://i.ytimg.com/vi/-DhDGVr-ixg/hq720.jpg"
+            },
+            {
+                "title": "නිල් අවරිය",
+                "url": "https://youtube.com/watch?v=3ra1fFHYqFQ",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/3ra1fFHYqFQ/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ශාක හැදින්වීම  (2)-නිල් ඇවරිය",
+                "url": "https://youtube.com/watch?v=Wu21309SgPM",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/Wu21309SgPM/hq720.jpg"
+            },
+            {
+                "title": "නිල් අවරිය ශාකය. nil awari tree",
+                "url": "https://youtube.com/watch?v=oA9UT4xIj1o",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/oA9UT4xIj1o/hqdefault.jpg"
+            },
+            {
+                "title": "නිල් අවරිය පැලය. indigofera avuri",
+                "url": "https://youtube.com/watch?v=2S_dlJRC9RI",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/2S_dlJRC9RI/frame0.jpg"
+            },
+            {
+                "title": "Nil avariya- Indigo plant - Indigofera tinctoria - Ayurvedic plants",
+                "url": "https://youtube.com/watch?v=-StTclD6I9g",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/-StTclD6I9g/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍ර ගල්, මුත්‍ර අඩස්සි, අකලට හිස කෙස් වැටීම ඇතුළු රෝග රැසකට ගුණ දෙන නිල් අවරිය (Nil Awariya)",
+                "url": "https://youtube.com/watch?v=EIIwdfLTWn0",
+                "duration": "10:51",
+                "thumbnail": "https://i.ytimg.com/vi/EIIwdfLTWn0/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Parasitic Skin Infections",
-      "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Kidney Diseases",
-      "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gastric Disorders",
-      "sinhala": "ආමාශගත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Venereal Disease",
-      "sinhala": "ලිංගික රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Paralysis",
-      "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Convulsions",
-      "sinhala": "වලිප්පුව / වෙවුලීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds",
-    "Fruits",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "1097",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/FLQMj6zK/plant00632-01097.jpg"
-    },
-    {
-      "image_id": "1098",
-      "caption": "Young inflorescence",
-      "url": "https://i.ibb.co/bgzSTQR3/plant00632-01098.jpg"
-    },
-    {
-      "image_id": "1099",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/gLKYGgkW/plant00632-01099.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

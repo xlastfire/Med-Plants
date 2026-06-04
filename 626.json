@@ -1,197 +1,268 @@
 {
-  "scientificName": "Erythrina variegata L.",
-  "synonyms": [
-    "Chirocalyx candolleanus Walp.",
-    "Chirocalyx divaricatus (Moc. & Sessé ex DC.) Walp.",
-    "Chirocalyx indicus (Lam.) Walp.",
-    "Chirocalyx pictus (L.) Walp.",
-    "Corallodendron divaricatum (Moc. & Sessé ex DC.) Kuntze",
-    "Corallodendron lobulatum (Miq.) Kuntze",
-    "Corallodendron orientale (L.) Kuntze",
-    "Corallodendron spathaceum (DC.) Kuntze",
-    "Erythrina alba Cogn. & Marchand",
-    "Erythrina boninensis Tuyama",
-    "Erythrina carnea Blanco",
-    "Erythrina corallodendron Lam.",
-    "Erythrina corallodendron var. orientalis L.",
-    "Erythrina divaricata Moc. & Sessé ex DC.",
-    "Erythrina fitzalanii W.Hill",
-    "Erythrina indica Lam.",
-    "Erythrina indica var. alba Blatt. & Millard",
-    "Erythrina indica var. fastigiata Guill.",
-    "Erythrina indica var. phlebocarpa (F.M.Bailey) Domin",
-    "Erythrina lobulata Miq.",
-    "Erythrina loureiroi G.Don",
-    "Erythrina marmorata Van Geert",
-    "Erythrina orientalis (L.) Murray",
-    "Erythrina panduriformis Blume ex Miq.",
-    "Erythrina parcellii Dombrain",
-    "Erythrina phlebocarpa F.M.Bailey",
-    "Erythrina picta L.",
-    "Erythrina resupinata Moritzi",
-    "Erythrina rostrata Ridl.",
-    "Erythrina spathacea DC.",
-    "Erythrina variegata f. alba (Blatt. & Millard) Maheshw.",
-    "Erythrina variegata f. marmorata Maheshw.",
-    "Erythrina variegata f. mysorensis Maheshw.",
-    "Erythrina variegata f. orientalis (L.) Maheshw.",
-    "Erythrina variegata f. parcellii Maheshw.",
-    "Erythrina variegata f. picta (L.) Maheshw.",
-    "Erythrina variegata var. alba (Blatt. & Millard) M.R.Almeida",
-    "Erythrina variegata var. orientalis (L.) Merr.",
-    "Tetradapa javanorum Osbeck"
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Coral Tree",
-    "Indian Coral Tree",
-    "Thorny Dadap",
-    "Lenten Tree",
-    "Tiger claw",
-    "Variegated Coral Tree",
-    "Mountain Ebony",
-    "Variegated Tiger's Claw"
-  ],
-  "sinhalaName": "Erabadu (එරබදු)",
-  "description": "මීටර් 27ක් උසැති, කටු සහිත (armed) අතු සහිත ගසකි. මල් පිපෙන විට පත්‍ර රහිත හෝ පත්‍ර සහිත වේ. පත්‍ර අක්ෂය (rachis) සෙන්ටිමීටර 4ක් පමණ දිගය. උප පත්‍ර (stipules) බොහෝ විට ගැලවී යන සුළුය (deciduous); උප පත්‍රිකා (stipels) ගෝලාකාරය (globose); පත්‍රිකා පුළුල් ලෙස අණ්ඩාකාර (ovate) සිට ත්‍රිකෝණාකාර (deltoid) හැඩයක් ගනී, සෙන්ටිමීටර 11x12 පමණ විශාල වේ, කඩදාසි වැනි ස්වභාවයක් (papyraceous) ගනී, අග්‍රය උල් වූ (acute) හෝ මොට (obtuse) වේ, පාදය වටකුරු (rounded), කැපූ ආකාරයේ (truncate) හෝ තරමක් හෘදයාකාර (cordate) වේ. පුෂ්ප මංජරිය (inflorescences) කෙළින් පිහිටා ඇති අතර සෙන්ටිමීටර 30ක් පමණ දිගය. පලතුරු නොපැළෙන (indehiscent), තද පැහැති, තරමක් දැවමය (woody), ඉදිමුණු (turgid), රේඛීය (linear) සිට පටු ආයතාකාර (narrowly oblong) හැඩයක් ගනී, වෘන්තය (stipe) සෙන්ටිමීටර 2ක් පමණ දිගය.",
-  "treatments": [
-    {
-      "treatment": "Ear Diseases",
-      "sinhala": "කන් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Erythrina variegata L.",
+    "synonyms": [
+        "Chirocalyx candolleanus Walp.",
+        "Chirocalyx divaricatus (Moc. & Sessé ex DC.) Walp.",
+        "Chirocalyx indicus (Lam.) Walp.",
+        "Chirocalyx pictus (L.) Walp.",
+        "Corallodendron divaricatum (Moc. & Sessé ex DC.) Kuntze",
+        "Corallodendron lobulatum (Miq.) Kuntze",
+        "Corallodendron orientale (L.) Kuntze",
+        "Corallodendron spathaceum (DC.) Kuntze",
+        "Erythrina alba Cogn. & Marchand",
+        "Erythrina boninensis Tuyama",
+        "Erythrina carnea Blanco",
+        "Erythrina corallodendron Lam.",
+        "Erythrina corallodendron var. orientalis L.",
+        "Erythrina divaricata Moc. & Sessé ex DC.",
+        "Erythrina fitzalanii W.Hill",
+        "Erythrina indica Lam.",
+        "Erythrina indica var. alba Blatt. & Millard",
+        "Erythrina indica var. fastigiata Guill.",
+        "Erythrina indica var. phlebocarpa (F.M.Bailey) Domin",
+        "Erythrina lobulata Miq.",
+        "Erythrina loureiroi G.Don",
+        "Erythrina marmorata Van Geert",
+        "Erythrina orientalis (L.) Murray",
+        "Erythrina panduriformis Blume ex Miq.",
+        "Erythrina parcellii Dombrain",
+        "Erythrina phlebocarpa F.M.Bailey",
+        "Erythrina picta L.",
+        "Erythrina resupinata Moritzi",
+        "Erythrina rostrata Ridl.",
+        "Erythrina spathacea DC.",
+        "Erythrina variegata f. alba (Blatt. & Millard) Maheshw.",
+        "Erythrina variegata f. marmorata Maheshw.",
+        "Erythrina variegata f. mysorensis Maheshw.",
+        "Erythrina variegata f. orientalis (L.) Maheshw.",
+        "Erythrina variegata f. parcellii Maheshw.",
+        "Erythrina variegata f. picta (L.) Maheshw.",
+        "Erythrina variegata var. alba (Blatt. & Millard) M.R.Almeida",
+        "Erythrina variegata var. orientalis (L.) Merr.",
+        "Tetradapa javanorum Osbeck"
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Coral Tree",
+        "Indian Coral Tree",
+        "Thorny Dadap",
+        "Lenten Tree",
+        "Tiger claw",
+        "Variegated Coral Tree",
+        "Mountain Ebony",
+        "Variegated Tiger's Claw"
+    ],
+    "sinhalaName": "Erabadu (එරබදු)",
+    "description": "මීටර් 27ක් උසැති, කටු සහිත (armed) අතු සහිත ගසකි. මල් පිපෙන විට පත්‍ර රහිත හෝ පත්‍ර සහිත වේ. පත්‍ර අක්ෂය (rachis) සෙන්ටිමීටර 4ක් පමණ දිගය. උප පත්‍ර (stipules) බොහෝ විට ගැලවී යන සුළුය (deciduous); උප පත්‍රිකා (stipels) ගෝලාකාරය (globose); පත්‍රිකා පුළුල් ලෙස අණ්ඩාකාර (ovate) සිට ත්‍රිකෝණාකාර (deltoid) හැඩයක් ගනී, සෙන්ටිමීටර 11x12 පමණ විශාල වේ, කඩදාසි වැනි ස්වභාවයක් (papyraceous) ගනී, අග්‍රය උල් වූ (acute) හෝ මොට (obtuse) වේ, පාදය වටකුරු (rounded), කැපූ ආකාරයේ (truncate) හෝ තරමක් හෘදයාකාර (cordate) වේ. පුෂ්ප මංජරිය (inflorescences) කෙළින් පිහිටා ඇති අතර සෙන්ටිමීටර 30ක් පමණ දිගය. පලතුරු නොපැළෙන (indehiscent), තද පැහැති, තරමක් දැවමය (woody), ඉදිමුණු (turgid), රේඛීය (linear) සිට පටු ආයතාකාර (narrowly oblong) හැඩයක් ගනී, වෘන්තය (stipe) සෙන්ටිමීටර 2ක් පමණ දිගය.",
+    "treatments": [
+        {
+            "treatment": "Ear Diseases",
+            "sinhala": "කන් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Insomnia",
+            "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worm diseases",
+            "sinhala": "පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Rheumatoid Arthritis",
+            "sinhala": "ආමවාතය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysmenorrhea",
+            "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Infertility",
+            "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark of the Root",
+        "Leaves",
+        "Bark",
+        "seeds"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "එරබදු ඔසු ගුණ . රෝගාබාධ රැසකට සුව ගෙනෙන එරබදු .",
+                "url": "https://youtube.com/watch?v=-e0-joCS_xY",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/-e0-joCS_xY/hq720.jpg"
+            },
+            {
+                "title": "එරබදු ශාකය වඳ වීමට ත්, කෝකිල නාදය අඩු වීමට ත් සැබෑ හේතුව මෙන්න",
+                "url": "https://youtube.com/watch?v=OID-23IG8yg",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/OID-23IG8yg/hqdefault.jpg"
+            },
+            {
+                "title": "එරබදු ගස ගැන ඔබ පුදුම හිතෙන කතාවක් | erabadu | Indian Coral🌿",
+                "url": "https://youtube.com/watch?v=qTv7Cw4a3Ic",
+                "duration": "4:20",
+                "thumbnail": "https://i.ytimg.com/vi/qTv7Cw4a3Ic/hqdefault.jpg"
+            },
+            {
+                "title": "අවුරුද්දත් කිට්ටු කිට්ටු, එරබදු මල් පොට්ටු පොට්ටු | එරබදු ගහ ගැන කතා කරමු | එරබදු (Erabadu)",
+                "url": "https://youtube.com/watch?v=1hMWSv-JzfQ",
+                "duration": "14:16",
+                "thumbnail": "https://i.ytimg.com/vi/1hMWSv-JzfQ/hq720.jpg"
+            },
+            {
+                "title": "Helthy Erabadu leaves mallum👌රෝග රැසකට ගුණ එරබදු දළු මැල්ලුම👌Indian coral tree |Nilu's kitchen",
+                "url": "https://youtube.com/watch?v=tAdVqlMK1kU",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/tAdVqlMK1kU/hq720.jpg"
+            },
+            {
+                "title": "එරබදු මැල්ලුම කන අයට ලැබෙන අපූරු දේවල් : Indian Coral Tree Benefits",
+                "url": "https://youtube.com/watch?v=ZCEcufScSNQ",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/ZCEcufScSNQ/hq720.jpg"
+            },
+            {
+                "title": "එරබදු ගහක් පෝච්චියක ? | Erabadu | Ceylon Agri | Epi.476",
+                "url": "https://youtube.com/watch?v=bMHWcoZUCv4",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/bMHWcoZUCv4/hq720.jpg"
+            },
+            {
+                "title": "එරබදු කියන්නේ මොනබද | එරබදු වල ගුණ | අවුරුද්දට හිටෙව්වා",
+                "url": "https://youtube.com/watch?v=JGJqbRQNl50",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/JGJqbRQNl50/hq720.jpg"
+            },
+            {
+                "title": "එරබදු || Erabadu || Indian Coral Tree || Tiger's clow",
+                "url": "https://youtube.com/watch?v=XOaQXcfgAMw",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/XOaQXcfgAMw/hqdefault.jpg"
+            },
+            {
+                "title": "Erabadu (එරබදු)",
+                "url": "https://youtube.com/watch?v=XAM6ACUw9qU",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/XAM6ACUw9qU/hq720.jpg"
+            },
+            {
+                "title": "එරබදු දලු මැල්ලුම",
+                "url": "https://youtube.com/watch?v=dPG3uIZV5T0",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/dPG3uIZV5T0/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Insomnia",
-      "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worm diseases",
-      "sinhala": "පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Rheumatoid Arthritis",
-      "sinhala": "ආමවාතය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysmenorrhea",
-      "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Infertility",
-      "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark of the Root",
-    "Leaves",
-    "Bark",
-    "seeds"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

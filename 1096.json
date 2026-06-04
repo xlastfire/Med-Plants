@@ -1,198 +1,347 @@
 {
-  "scientificName": "",
-  "synonyms": [
-    "Paliurus mairei H.Lév.",
-    "Rhamnus jujuba L.",
-    "Sarcomphalus mauritianus (Lam.) Raf.",
-    "Ziziphus insularis C.Sm.",
-    "Ziziphus jujuba (L.) Gaertn.",
-    "Ziziphus jujuba var. stenocarpa Kuntze",
-    "Ziziphus mairei (H.Lév.) Browicz & Lauener",
-    "Ziziphus mauritiana subsp. orthacantha (DC.) A.Chev.",
-    "Ziziphus mauritiana var. deserticola A.Chev.",
-    "Ziziphus mauritiana var. muratiana (Maire) A.Chev.",
-    "Ziziphus mauritiana var. orthacantha (DC.) A.Chev.",
-    "Ziziphus muratiana Maire",
-    "Ziziphus orthacantha DC.",
-    "Ziziphus poiretii G.Don",
-    "Ziziphus rotundata DC.",
-    "Ziziphus tomentosa Poir."
-  ],
-  "familyName": "",
-  "englishNames": [
-    "Indian Plum"
-  ],
-  "sinhalaName": "Masan (මසන්)",
-  "description": "ඉක්මනින් ලබාගත හැක",
-  "treatments": [
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "",
+    "synonyms": [
+        "Paliurus mairei H.Lév.",
+        "Rhamnus jujuba L.",
+        "Sarcomphalus mauritianus (Lam.) Raf.",
+        "Ziziphus insularis C.Sm.",
+        "Ziziphus jujuba (L.) Gaertn.",
+        "Ziziphus jujuba var. stenocarpa Kuntze",
+        "Ziziphus mairei (H.Lév.) Browicz & Lauener",
+        "Ziziphus mauritiana subsp. orthacantha (DC.) A.Chev.",
+        "Ziziphus mauritiana var. deserticola A.Chev.",
+        "Ziziphus mauritiana var. muratiana (Maire) A.Chev.",
+        "Ziziphus mauritiana var. orthacantha (DC.) A.Chev.",
+        "Ziziphus muratiana Maire",
+        "Ziziphus orthacantha DC.",
+        "Ziziphus poiretii G.Don",
+        "Ziziphus rotundata DC.",
+        "Ziziphus tomentosa Poir."
+    ],
+    "familyName": "",
+    "englishNames": [
+        "Indian Plum"
+    ],
+    "sinhalaName": "Masan (මසන්)",
+    "description": "ඉක්මනින් ලබාගත හැක",
+    "treatments": [
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Blood Disorders",
+            "sinhala": "රුධිරය ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Heart Diseases",
+            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hiccups",
+            "sinhala": "හිකිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Bark",
+        "Root",
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "528",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/QjPvMHYy/plant01096-00528.jpg"
+        },
+        {
+            "image_id": "1239",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/Xfs7cx8s/plant01096-01239.jpg"
+        },
+        {
+            "image_id": "529",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/d0sNpcV3/plant01096-00529.jpg"
+        },
+        {
+            "image_id": "1240",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/DDTHcT63/plant01096-01240.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මසන් ගහක් ගෙදර හදමු - ඇපල් රසට හැදෙන මසන් | කාබනික ගෙවතු වගාව | Masan fruit in Sri lanka apple ber",
+                "url": "https://youtube.com/watch?v=LbI9zxQqL7k",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/LbI9zxQqL7k/hq720.jpg"
+            },
+            {
+                "title": "කොළ පාට ඇපල් වගේම හැදෙන මසං | Thai Masan | Ceylon Agri |Episode 115",
+                "url": "https://youtube.com/watch?v=w_RIFybVGSU",
+                "duration": "10:54",
+                "thumbnail": "https://i.ytimg.com/vi/w_RIFybVGSU/hq720.jpg"
+            },
+            {
+                "title": "Masan - Wild Fruits / මසන් - වන පළතුරු / மசன் - காட்டு பழங்கள்",
+                "url": "https://youtube.com/watch?v=NbHtIBW5uQk",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/NbHtIBW5uQk/hq720.jpg"
+            },
+            {
+                "title": "ඇපල් රසැති මසන් පහසුවෙන් වගා කරමු..!",
+                "url": "https://youtube.com/watch?v=Fsk8TnbNK8s",
+                "duration": "1:34",
+                "thumbnail": "https://i.ytimg.com/vi/Fsk8TnbNK8s/hq720.jpg"
+            },
+            {
+                "title": "මේ තියෙන්නෙ ලන්කාවෙන් තුරන්වෙලාම යන පළතුරක් - මසන් - කාලා තියා සමහරු අහලත් නෑ",
+                "url": "https://youtube.com/watch?v=K32RyvngS58",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/K32RyvngS58/hq720.jpg"
+            },
+            {
+                "title": "කොළ පාට ඇපල් වගේම හැදෙන මසං apple masan wagawa | palathuru wagawa | gewathu wagawa",
+                "url": "https://youtube.com/watch?v=yRISCDjmbn0",
+                "duration": "8:39",
+                "thumbnail": "https://i.ytimg.com/vi/yRISCDjmbn0/hq720.jpg"
+            },
+            {
+                "title": "මසං මල් පිපිලා | මේ එන්නෙ මසං කාලයයි masan tree | Kuwait",
+                "url": "https://youtube.com/watch?v=MNd0LyXUrbg",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/MNd0LyXUrbg/hq720.jpg"
+            },
+            {
+                "title": "මසන් ගහක් ගෙදර හදමු - ඇපල් රසට හැදෙන මසන් | කාබනික ගෙවතු වගාව | Masan fruit in Sri lanka apple ber",
+                "url": "https://youtube.com/watch?v=yGs2u8lHvWY",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/yGs2u8lHvWY/frame0.jpg"
+            },
+            {
+                "title": "වන්නියේ හැදෙන ඇපල් මසන්",
+                "url": "https://youtube.com/watch?v=lRTcCLM1HjE",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/lRTcCLM1HjE/hq720.jpg"
+            },
+            {
+                "title": "මසං ශාකය ගැන | Krushi Tv",
+                "url": "https://youtube.com/watch?v=CzPJwnDlSaI",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/CzPJwnDlSaI/hq720.jpg"
+            },
+            {
+                "title": "හෘදයට හිතකර මසං ගැන වට්නා තොරතුරු බිදක්/Masan",
+                "url": "https://youtube.com/watch?v=IIc5UhwqrT8",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/IIc5UhwqrT8/hqdefault.jpg"
+            },
+            {
+                "title": "අසන් මසන් ගුණ වරුණ | ගුවන්විදුලි ළමා නිවේදිකා ගායිකා රෂ්මි නවෝද්‍යා #srilanka #rashmi #masan",
+                "url": "https://youtube.com/watch?v=oX3yfLF283Q",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/oX3yfLF283Q/hq720.jpg"
+            },
+            {
+                "title": "191 හදවතට ගුණදෙන ලංකාව පුරා වැවෙන Chinese apple පොච්චියක වවමු - Bangkok මසං",
+                "url": "https://youtube.com/watch?v=KpXCEIpHajE",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/KpXCEIpHajE/hq720.jpg"
+            },
+            {
+                "title": "Govibimata Arunalu TV Program | ඇපල් වගේ මසං | 2022-11-06 | Krushi Tv",
+                "url": "https://youtube.com/watch?v=dYKv7kg4w0E",
+                "duration": "15:12",
+                "thumbnail": "https://i.ytimg.com/vi/dYKv7kg4w0E/hq720.jpg"
+            },
+            {
+                "title": "ඇපල් මසන් වගාව බදුන්ගතව Apple Masan in pots Organic Home Gardening Sri Lanka",
+                "url": "https://youtube.com/watch?v=QWZdhPwl7Ds",
+                "duration": "5:09",
+                "thumbnail": "https://i.ytimg.com/vi/QWZdhPwl7Ds/hq720.jpg"
+            },
+            {
+                "title": "මසං මල් පිපිලා | මේ එන්නෙ මසං කාලයයි masan tree | Kuwait",
+                "url": "https://youtube.com/watch?v=6fNfEI19_gU",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/6fNfEI19_gU/frame0.jpg"
+            },
+            {
+                "title": "රඡරට හැදෙන කොළ ඇපල්| Rupavahini News",
+                "url": "https://youtube.com/watch?v=-pgRr8ZG6FQ",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/-pgRr8ZG6FQ/hq720.jpg"
+            },
+            {
+                "title": "ලංකා ඇපල් මාස 6න් අස්වෙන්න masan wagawa මසං වගාව apple ber",
+                "url": "https://youtube.com/watch?v=30HIxaEo7jM",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/30HIxaEo7jM/hq720.jpg"
+            },
+            {
+                "title": "Lakshman Kumara | කොළ ඇපල් වත්ත",
+                "url": "https://youtube.com/watch?v=dWgx5bjzqPg",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/dWgx5bjzqPg/hq720.jpg"
+            },
+            {
+                "title": "ඇපල් වලට වැඩිය ලොකු මසං කමුද? | Apple Masan Tips | Ceylon Agri | Episode 415",
+                "url": "https://youtube.com/watch?v=Jq_NS9DOnXM",
+                "duration": "10:36",
+                "thumbnail": "https://i.ytimg.com/vi/Jq_NS9DOnXM/hq720.jpg"
+            },
+            {
+                "title": "මොනවද මේ හදවත් රෝගවලට ගුණ ලංකාවේ හැදෙන මසං ?",
+                "url": "https://youtube.com/watch?v=n4IkBNIgpyU",
+                "duration": "4:16",
+                "thumbnail": "https://i.ytimg.com/vi/n4IkBNIgpyU/hq720.jpg"
+            },
+            {
+                "title": "ZIZIPHUS MAURITIANA leaves benefits",
+                "url": "https://youtube.com/watch?v=l92Jw-0SvlA",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/l92Jw-0SvlA/hq720.jpg"
+            },
+            {
+                "title": "Health  Benefits From \"Ziziphus Mauritiana\" Fruit | Nusantara Plant Vault 🌿#herb",
+                "url": "https://youtube.com/watch?v=6nwO4ikILqM",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/6nwO4ikILqM/hqdefault.jpg"
+            },
+            {
+                "title": "ඩෙබර  කියන්නේ දේශීය මසං.අක්මාව සුවපත් කරන ඔසුව රස ගුණ පිරි මසං..#පිලිකා#වකුගඩු අමාරු#කොලෙස්ටරෝල් ,",
+                "url": "https://youtube.com/watch?v=HbUSgVVX8aQ",
+                "duration": "10:08",
+                "thumbnail": "https://i.ytimg.com/vi/HbUSgVVX8aQ/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Blood Disorders",
-      "sinhala": "රුධිරය ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Heart Diseases",
-      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hiccups",
-      "sinhala": "හිකිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Bark",
-    "Root",
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "528",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/QjPvMHYy/plant01096-00528.jpg"
-    },
-    {
-      "image_id": "1239",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/Xfs7cx8s/plant01096-01239.jpg"
-    },
-    {
-      "image_id": "529",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/d0sNpcV3/plant01096-00529.jpg"
-    },
-    {
-      "image_id": "1240",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/DDTHcT63/plant01096-01240.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

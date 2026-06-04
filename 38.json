@@ -1,153 +1,332 @@
 {
-  "scientificName": "Ouret lanata (L.) Kuntze",
-  "synonyms": [
-    "Achyranthes lanata L.",
-    "Achyranthes lanata Roxb.",
-    "Achyranthes villosa Forssk.",
-    "Aerva arachnoidea Gand.",
-    "Aerva elegans Moq.",
-    "Aerva floribunda Wight",
-    "Aerva lanata (L.) Juss. ex Schult.",
-    "Aerva lanata f. grandifolia Suess.",
-    "Aerva lanata f. microphylla Suess.",
-    "Aerva lanata f. squarrosa Suess.",
-    "Aerva lanata var. citrina Suess.",
-    "Aerva lanata var. elegans Suess.",
-    "Aerva lanata var. floribunda Moq.",
-    "Aerva lanata var. leucuroides Suess.",
-    "Aerva lanata var. microstachys Moq.",
-    "Aerva lanata var. orbicularis Suess.",
-    "Aerva lanata var. pseudojavanica Suess.",
-    "Aerva lanata var. rhombea Suess.",
-    "Aerva lanata var. robusta Balf.f.",
-    "Aerva lanata var. rotundifolia Moq.",
-    "Aerva lanata var. steudneri Asch.",
-    "Aerva lanata var. suborbicularis Suess.",
-    "Aerva lanata var. viridis Moq.",
-    "Aerva mozambicensis Gand.",
-    "Aerva pubescens Mart.",
-    "Aerva sansibarica Suess.",
-    "Aerva tandalo Buch.-Ham. ex Dill.",
-    "Aerva viridis E.Mey. ex Moq.",
-    "Alternanthera pubescens Moq.",
-    "Amaranthus aeruoides Hochst. & Steud. ex A.Rich.",
-    "Amaranthus lanatus Dum.Cours.",
-    "Illecebrum lanatum (L.) L.",
-    "Illecebrum pubescens Willd.",
-    "Paronychia lanata (L.) Moench"
-  ],
-  "familyName": "AMARANTHACEAE",
-  "englishNames": [
-    "Mountain Knotgrass"
-  ],
-  "sinhalaName": "Polpala (පොල්පලා)",
-  "description": "Aerva lanata (L.) Juss., (AMARANTHACEAE) පොල්පලා / පොල්කුඩු පලා. බහුවාර්ෂික පැළෑටියකි, (0.1-) 0.3-2 මීටර උසැතිය, කඳ සහ අතු සිලින්ඩරාකාර වන අතර සුදු පැහැති හෝ කහ පැහැති ලෝම (tomentose) වලින් ඝනව වැසී පවතී. පත්‍ර සරලයි, ඒකාන්තරයි, උපපත්‍ර රහිතයි (extipulate). පුෂ්ප මංජරි (spikes) වෘන්ත රහිතයි (sessile), මහතයි, 0.4-1.5 (-2) x 0.3-0.4 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර සේද වැනි සුදු හෝ ක්‍රීම් පැහැයක් ගනී. සරු පුෂ්පයන් වෙනස් වූ වඳ පුෂ්පයන්ගෙන් ආවරණය වී නොමැත. මල් ද්විලිංගිකයි (hermaphrodite). බීජ කෝෂය (utricle) මි.මී. 1 ක් පමණ වන අතර වටකුරුය. බීජ මි.මී. 0.6-0.8 ක් පමණ වන අතර කළු පැහැයෙන් සහ දිලිසෙන සුළු ස්වභාවයකින් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
+    "scientificName": "Ouret lanata (L.) Kuntze",
+    "synonyms": [
+        "Achyranthes lanata L.",
+        "Achyranthes lanata Roxb.",
+        "Achyranthes villosa Forssk.",
+        "Aerva arachnoidea Gand.",
+        "Aerva elegans Moq.",
+        "Aerva floribunda Wight",
+        "Aerva lanata (L.) Juss. ex Schult.",
+        "Aerva lanata f. grandifolia Suess.",
+        "Aerva lanata f. microphylla Suess.",
+        "Aerva lanata f. squarrosa Suess.",
+        "Aerva lanata var. citrina Suess.",
+        "Aerva lanata var. elegans Suess.",
+        "Aerva lanata var. floribunda Moq.",
+        "Aerva lanata var. leucuroides Suess.",
+        "Aerva lanata var. microstachys Moq.",
+        "Aerva lanata var. orbicularis Suess.",
+        "Aerva lanata var. pseudojavanica Suess.",
+        "Aerva lanata var. rhombea Suess.",
+        "Aerva lanata var. robusta Balf.f.",
+        "Aerva lanata var. rotundifolia Moq.",
+        "Aerva lanata var. steudneri Asch.",
+        "Aerva lanata var. suborbicularis Suess.",
+        "Aerva lanata var. viridis Moq.",
+        "Aerva mozambicensis Gand.",
+        "Aerva pubescens Mart.",
+        "Aerva sansibarica Suess.",
+        "Aerva tandalo Buch.-Ham. ex Dill.",
+        "Aerva viridis E.Mey. ex Moq.",
+        "Alternanthera pubescens Moq.",
+        "Amaranthus aeruoides Hochst. & Steud. ex A.Rich.",
+        "Amaranthus lanatus Dum.Cours.",
+        "Illecebrum lanatum (L.) L.",
+        "Illecebrum pubescens Willd.",
+        "Paronychia lanata (L.) Moench"
+    ],
+    "familyName": "AMARANTHACEAE",
+    "englishNames": [
+        "Mountain Knotgrass"
+    ],
+    "sinhalaName": "Polpala (පොල්පලා)",
+    "description": "Aerva lanata (L.) Juss., (AMARANTHACEAE) පොල්පලා / පොල්කුඩු පලා. බහුවාර්ෂික පැළෑටියකි, (0.1-) 0.3-2 මීටර උසැතිය, කඳ සහ අතු සිලින්ඩරාකාර වන අතර සුදු පැහැති හෝ කහ පැහැති ලෝම (tomentose) වලින් ඝනව වැසී පවතී. පත්‍ර සරලයි, ඒකාන්තරයි, උපපත්‍ර රහිතයි (extipulate). පුෂ්ප මංජරි (spikes) වෘන්ත රහිතයි (sessile), මහතයි, 0.4-1.5 (-2) x 0.3-0.4 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර සේද වැනි සුදු හෝ ක්‍රීම් පැහැයක් ගනී. සරු පුෂ්පයන් වෙනස් වූ වඳ පුෂ්පයන්ගෙන් ආවරණය වී නොමැත. මල් ද්විලිංගිකයි (hermaphrodite). බීජ කෝෂය (utricle) මි.මී. 1 ක් පමණ වන අතර වටකුරුය. බීජ මි.මී. 0.6-0.8 ක් පමණ වන අතර කළු පැහැයෙන් සහ දිලිසෙන සුළු ස්වභාවයකින් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Kidney Diseases",
+            "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Urethral Discharge",
+            "sinhala": "මුත්‍රා මාර්ගයෙන් ස්‍රාවයන් පිටවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Urolithiasis",
+            "sinhala": "වකුගඩු සහ මුත්‍රාශයේ ගල්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Sore Throat",
+            "sinhala": "උගුරේ බැරැන්ඩිය / කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant"
+    ],
+    "images": [
+        {
+            "image_id": "598",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/bgLzxNk8/plant00038-00598.jpg"
+        },
+        {
+            "image_id": "599",
+            "caption": "Axial inflorescence",
+            "url": "https://i.ibb.co/84YYdbTt/plant00038-00599.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "පොල්පලා බොන අයට වෙන දේ මෙන්න : Benefits of Polpala - Aerva",
+                "url": "https://youtube.com/watch?v=8hoW2pidiEQ",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/8hoW2pidiEQ/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය ඖෂධයක් වූ පොල්පලා | polpala wala guna | polpala panaya | Aerva lanata | herbal tea",
+                "url": "https://youtube.com/watch?v=tvE3_WsXvyw",
+                "duration": "28:59",
+                "thumbnail": "https://i.ytimg.com/vi/tvE3_WsXvyw/hq720.jpg"
+            },
+            {
+                "title": "Polpala|මුත්‍ර රෝග ඇතුළු රෝග රැසකට ගුණදෙන -පොල්පලා|Ouret lanata",
+                "url": "https://youtube.com/watch?v=iWT3-PK01yc",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/iWT3-PK01yc/hq720.jpg"
+            },
+            {
+                "title": "Aerva lanata | polpala | මූත්‍රා රෝග සුවයට පොල් පලා",
+                "url": "https://youtube.com/watch?v=FMcLk_3xAtI",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/FMcLk_3xAtI/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ආසාධන ඇතුළු රෝග රැසකට දිව්‍ය ඖශධයක් වූ පොල්පලා වල ඇති ඖශධිය ගුණය",
+                "url": "https://youtube.com/watch?v=uO-NmdVoEsw",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/uO-NmdVoEsw/hq720.jpg"
+            },
+            {
+                "title": "පොල්පලා තොරතුරු | Aerva Lanata |Polapala | Mountain Knotgrass Pindi-kura | Pindi-chettu |poola poo",
+                "url": "https://youtube.com/watch?v=lOODd5COKqw",
+                "duration": "11:23",
+                "thumbnail": "https://i.ytimg.com/vi/lOODd5COKqw/hq720.jpg"
+            },
+            {
+                "title": "පොල්පලා වල ඔබ නොදත් ගුණ | Polpalaa wala guana | Mountain Knotgrass | @Sakalawaga",
+                "url": "https://youtube.com/watch?v=5Vopo0b9Arg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/5Vopo0b9Arg/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබ නොදත් පොල්පලා ගසේ ගුණ",
+                "url": "https://youtube.com/watch?v=w1g4r6KmSro",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/w1g4r6KmSro/hqdefault.jpg"
+            },
+            {
+                "title": "නිරෝගී  සුව කැඳවන සිසිලකර ශාකය පොල්පලා",
+                "url": "https://youtube.com/watch?v=-V1o51PQejQ",
+                "duration": "9:08",
+                "thumbnail": "https://i.ytimg.com/vi/-V1o51PQejQ/hqdefault.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය, පොල්පලා තියනවා නම් මූත්‍රා රෝගවලට තිත | ඖශධීය පාන වර්ග| ශ්‍රී ලංකාවේ ඖශධීය ශාක",
+                "url": "https://youtube.com/watch?v=WA-Rrbl4X4Y",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/WA-Rrbl4X4Y/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා රෝග වලට දිව්‍යමය ඔසුවක් බඳු පොල් පලා කැඳ /Healthy porridge #aervelanata @healthytasty-ot7lc",
+                "url": "https://youtube.com/watch?v=YGs7YR9PW-Y",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/YGs7YR9PW-Y/hqdefault.jpg"
+            },
+            {
+                "title": "ඇයි ඔබේ ගෙදරටත් පොල්පළා පැලයක් අවශ්‍ය?_Health benefits of Aerva lanata #HealthyPodda",
+                "url": "https://youtube.com/watch?v=IhjbSMEqeO0",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/IhjbSMEqeO0/hq720.jpg"
+            },
+            {
+                "title": "පොල්පලා බොන අයට වෙන දේ මෙන්න : Benefits of Polpala - Aerva",
+                "url": "https://youtube.com/watch?v=lmQqIFR1JkI",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/lmQqIFR1JkI/frame0.jpg"
+            },
+            {
+                "title": "Healthy Avera lanata tea|polpala tea|විස්මිත ගුණ රැසකින් යුත් පොල්පලා තේ",
+                "url": "https://youtube.com/watch?v=m6dS8hGTqpQ",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/m6dS8hGTqpQ/hqdefault.jpg"
+            },
+            {
+                "title": "පොල්පලා Polpala Ouret lanata (Aerva lanata)",
+                "url": "https://youtube.com/watch?v=ntmc2p1ZKKM",
+                "duration": "2:44",
+                "thumbnail": "https://i.ytimg.com/vi/ntmc2p1ZKKM/hq720.jpg"
+            },
+            {
+                "title": "බොහෝ ලෙඩ දුක් වලින් අපිව ආරක්ෂා කරදුන් අපේ පැරැන්නන්ගේ ජනප්‍රියතම උදෑසන පානය | benefits of polpala",
+                "url": "https://youtube.com/watch?v=B6ezKvk8S6o",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/B6ezKvk8S6o/hq720.jpg"
+            },
+            {
+                "title": "පොල්පලා ශාකයේ කොච්චර ගුණ තියෙනවද ? බලන්නම වටිනවා polpala ( Aerva lanata )சிருபுலை",
+                "url": "https://youtube.com/watch?v=dY_5yrN48w4",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/dY_5yrN48w4/hqdefault.jpg"
+            },
+            {
+                "title": "පොල්පලා භාවිතයට ගැනීමෙන් මේ තරම් ගුණ රාශියක් සිරුරට ලබාගත හැකි බව දැනසිටියද? ඔබ දැනගතයුතුම ගුණ රැසක්",
+                "url": "https://youtube.com/watch?v=Q6syYiMJQuY",
+                "duration": "16:32",
+                "thumbnail": "https://i.ytimg.com/vi/Q6syYiMJQuY/hq720.jpg"
+            },
+            {
+                "title": "Polpala/පොල්පලා මුත්‍රා රෝග සුව කරන දිව්‍යමය ඔසුව",
+                "url": "https://youtube.com/watch?v=5epvOziBc2Y",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/5epvOziBc2Y/hq720.jpg"
+            },
+            {
+                "title": "පොල් පලා ශාක ඇති ගුණ",
+                "url": "https://youtube.com/watch?v=pFqcWrYIuh4",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/pFqcWrYIuh4/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග ගණනාවක් සුවකිරීමේ මහා බලසම්පන්න පොල්පලා ශාකය",
+                "url": "https://youtube.com/watch?v=74rs4tIni4M",
+                "duration": "5:37",
+                "thumbnail": "https://i.ytimg.com/vi/74rs4tIni4M/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රතිශක්තිය වඩන, රෝග රැසකට ගුණ දෙන විශ්මිත පැලය - පොල්පලා (Polpala)",
+                "url": "https://youtube.com/watch?v=KIPMH0ldmhw",
+                "duration": "8:52",
+                "thumbnail": "https://i.ytimg.com/vi/KIPMH0ldmhw/hq720.jpg"
+            },
+            {
+                "title": "what is knot grass Ayurvedic plants -පොල්පලා polpala",
+                "url": "https://youtube.com/watch?v=1GLLeD3I-Dg",
+                "duration": "0:33",
+                "thumbnail": "https://i.ytimg.com/vi/1GLLeD3I-Dg/hq720.jpg"
+            },
+            {
+                "title": "නිවසක තිබිය යුතුම බෙහෙත් පැලෑටිය තමයි පොල් පලා..",
+                "url": "https://youtube.com/watch?v=xvXlN4_wP7g",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/xvXlN4_wP7g/hq720.jpg"
+            },
+            {
+                "title": "Arva lanata / polpala / පොල්පළා / පොල්පලා",
+                "url": "https://youtube.com/watch?v=q2PSk6wYLdM",
+                "duration": "0:47",
+                "thumbnail": "https://i.ytimg.com/vi/q2PSk6wYLdM/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය ඖෂධයක් වූ පොල්පලා | polpala wala guna | polpala panaya | Aerva lanata | herbal tea",
+                "url": "https://youtube.com/watch?v=iVFzapLDkik",
+                "duration": "28:59",
+                "thumbnail": "https://i.ytimg.com/vi/iVFzapLDkik/frame0.jpg"
+            },
+            {
+                "title": "මුත්‍රා රෝග වලට ගුණ දෙන දිව ඔසුව \"පොල්පලා \"|Grow Balipoovu in Your Home Garden| Polpala wagawa.",
+                "url": "https://youtube.com/watch?v=gtwt0Yw_k_w",
+                "duration": "2:05",
+                "thumbnail": "https://i.ytimg.com/vi/gtwt0Yw_k_w/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය ඖෂධයක් වූ පොල්පලා | polpala wala guna | polpala panaya | Aerva lanata | herbal tea",
+                "url": "https://youtube.com/watch?v=uN9Rfg3LtHg",
+                "duration": "28:59",
+                "thumbnail": "https://i.ytimg.com/vi/uN9Rfg3LtHg/frame0.jpg"
+            },
+            {
+                "title": "පොල්පලා බොන අයට වෙන දේ මෙන්න : Benefits of Polpala - Aerva",
+                "url": "https://youtube.com/watch?v=bh-VNk28xS8",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/bh-VNk28xS8/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Kidney Diseases",
-      "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Urethral Discharge",
-      "sinhala": "මුත්‍රා මාර්ගයෙන් ස්‍රාවයන් පිටවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Urolithiasis",
-      "sinhala": "වකුගඩු සහ මුත්‍රාශයේ ගල්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Sore Throat",
-      "sinhala": "උගුරේ බැරැන්ඩිය / කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant"
-  ],
-  "images": [
-    {
-      "image_id": "598",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/bgLzxNk8/plant00038-00598.jpg"
-    },
-    {
-      "image_id": "599",
-      "caption": "Axial inflorescence",
-      "url": "https://i.ibb.co/84YYdbTt/plant00038-00599.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

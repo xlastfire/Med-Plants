@@ -1,137 +1,286 @@
 {
-  "scientificName": "Mirabilis jalapa L.",
-  "synonyms": [
-    "Jalapa congesta Moench",
-    "Jalapa dichotoma (L.) Crantz",
-    "Jalapa officinalis Crantz",
-    "Jalapa officinalis Garsault",
-    "Jalapa officinarum Martyn",
-    "Jalapa undulata Moench",
-    "Mirabilis ambigua Trautv.",
-    "Mirabilis cordata Brouss. ex Roem. & Schult.",
-    "Mirabilis dichotoma L.",
-    "Mirabilis divaricata Lowe",
-    "Mirabilis divaricata var. uniflora (Schrank) Choisy",
-    "Mirabilis hybrida Lepell.",
-    "Mirabilis jalapa f. eujalapa Heimerl",
-    "Mirabilis jalapa f. parviflora Heimerl",
-    "Mirabilis jalapa subsp. ciliata Standl.",
-    "Mirabilis jalapa subsp. lindheimeri Standl.",
-    "Mirabilis jalapa subsp. volcanica Standl.",
-    "Mirabilis jalapa var. ambigua (Trautv.) Choisy",
-    "Mirabilis jalapa var. lindheimeri (Standl.) Cory",
-    "Mirabilis jalapa var. odorata (L.) Heimerl",
-    "Mirabilis jalapa var. planiflora (Trautv.) Choisy",
-    "Mirabilis jalapa var. procera (Bertol.) Choisy",
-    "Mirabilis lindheimeri (Standl.) Shinners",
-    "Mirabilis odorata L.",
-    "Mirabilis parviflora O.Targ.Tozz. ex Steud.",
-    "Mirabilis pedunculata Stokes",
-    "Mirabilis planiflora Trautv.",
-    "Mirabilis procera Bertol.",
-    "Mirabilis pubescens Zipp. ex Span.",
-    "Mirabilis undulata Steud.",
-    "Mirabilis uniflora Schrank",
-    "Mirabilis xalapa Noronha",
-    "Nyctago dichotoma (L.) Dum.Cours.",
-    "Nyctago hortensis Dum.Cours.",
-    "Nyctago jalapae (L.) DC.",
-    "Nyctago mirabilis J.St.-Hil.",
-    "Nyctago versicolor Salisb.",
-    "Trimista levigata Raf."
-  ],
-  "familyName": "NYCTAGINACEAE",
-  "englishNames": [
-    "False Jalap",
-    "Four O'clock",
-    "Japanese Wonder Flower",
-    "Beauty-of-the-night",
-    "Marvel of Peru"
-  ],
-  "sinhalaName": "Hendirikka (හෙන්දිරික්කා)",
-  "description": "මීටර 1ක් දක්වා උසැති පැළෑටියකි; කඳේ ගැට (nodes) ප්‍රදේශ ඉදිමී පවතී. පත්‍ර යුගල සමාන වේ; පත්‍ර තලය (lamina) සෙන්ටිමීටර 4-10 x 2.25-6 ප්‍රමාණයෙන් යුක්තය; පත්‍ර වෘන්තය (petiole) සෙන්ටිමීටර 1.5-4.5ක් දිගය. ආවෘත පත්‍ර (involucres) සයිමෝස් (cymosely) ආකාරයට පොකුරු ගැසී පවතී. පුෂ්ප ආවරණ නාලය (perianth tube) සෙන්ටිමීටර 2-3.5ක් දිග වන අතර දම්, රෝස, කහ හෝ සුදු පැහැයෙන් යුක්ත වේ. පලය මිලිමීටර 5-10ක් දිග, කළු පැහැති සහ ඉළ ඇට සහිත (ribbed) වේ.",
-  "treatments": [
-    {
-      "treatment": "Body Heat Relief",
-      "sinhala": "ශරීරයේ දැවිල්ල නිවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Mirabilis jalapa L.",
+    "synonyms": [
+        "Jalapa congesta Moench",
+        "Jalapa dichotoma (L.) Crantz",
+        "Jalapa officinalis Crantz",
+        "Jalapa officinalis Garsault",
+        "Jalapa officinarum Martyn",
+        "Jalapa undulata Moench",
+        "Mirabilis ambigua Trautv.",
+        "Mirabilis cordata Brouss. ex Roem. & Schult.",
+        "Mirabilis dichotoma L.",
+        "Mirabilis divaricata Lowe",
+        "Mirabilis divaricata var. uniflora (Schrank) Choisy",
+        "Mirabilis hybrida Lepell.",
+        "Mirabilis jalapa f. eujalapa Heimerl",
+        "Mirabilis jalapa f. parviflora Heimerl",
+        "Mirabilis jalapa subsp. ciliata Standl.",
+        "Mirabilis jalapa subsp. lindheimeri Standl.",
+        "Mirabilis jalapa subsp. volcanica Standl.",
+        "Mirabilis jalapa var. ambigua (Trautv.) Choisy",
+        "Mirabilis jalapa var. lindheimeri (Standl.) Cory",
+        "Mirabilis jalapa var. odorata (L.) Heimerl",
+        "Mirabilis jalapa var. planiflora (Trautv.) Choisy",
+        "Mirabilis jalapa var. procera (Bertol.) Choisy",
+        "Mirabilis lindheimeri (Standl.) Shinners",
+        "Mirabilis odorata L.",
+        "Mirabilis parviflora O.Targ.Tozz. ex Steud.",
+        "Mirabilis pedunculata Stokes",
+        "Mirabilis planiflora Trautv.",
+        "Mirabilis procera Bertol.",
+        "Mirabilis pubescens Zipp. ex Span.",
+        "Mirabilis undulata Steud.",
+        "Mirabilis uniflora Schrank",
+        "Mirabilis xalapa Noronha",
+        "Nyctago dichotoma (L.) Dum.Cours.",
+        "Nyctago hortensis Dum.Cours.",
+        "Nyctago jalapae (L.) DC.",
+        "Nyctago mirabilis J.St.-Hil.",
+        "Nyctago versicolor Salisb.",
+        "Trimista levigata Raf."
+    ],
+    "familyName": "NYCTAGINACEAE",
+    "englishNames": [
+        "False Jalap",
+        "Four O'clock",
+        "Japanese Wonder Flower",
+        "Beauty-of-the-night",
+        "Marvel of Peru"
+    ],
+    "sinhalaName": "Hendirikka (හෙන්දිරික්කා)",
+    "description": "මීටර 1ක් දක්වා උසැති පැළෑටියකි; කඳේ ගැට (nodes) ප්‍රදේශ ඉදිමී පවතී. පත්‍ර යුගල සමාන වේ; පත්‍ර තලය (lamina) සෙන්ටිමීටර 4-10 x 2.25-6 ප්‍රමාණයෙන් යුක්තය; පත්‍ර වෘන්තය (petiole) සෙන්ටිමීටර 1.5-4.5ක් දිගය. ආවෘත පත්‍ර (involucres) සයිමෝස් (cymosely) ආකාරයට පොකුරු ගැසී පවතී. පුෂ්ප ආවරණ නාලය (perianth tube) සෙන්ටිමීටර 2-3.5ක් දිග වන අතර දම්, රෝස, කහ හෝ සුදු පැහැයෙන් යුක්ත වේ. පලය මිලිමීටර 5-10ක් දිග, කළු පැහැති සහ ඉළ ඇට සහිත (ribbed) වේ.",
+    "treatments": [
+        {
+            "treatment": "Body Heat Relief",
+            "sinhala": "ශරීරයේ දැවිල්ල නිවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Pruritus",
+            "sinhala": "චර්ම රෝග නිසා ඇතිවන කැසීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Abscesses",
+            "sinhala": "සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "444",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/1J9pBHBt/plant00921-00444.jpg"
+        },
+        {
+            "image_id": "445",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/rfk0N7H0/plant00921-00445.jpg"
+        },
+        {
+            "image_id": "446",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/Mx3N2sXw/plant00921-00446.jpg"
+        },
+        {
+            "image_id": "3829",
+            "caption": "Flower Bud (PDR)",
+            "url": "http://www.instituteofayurveda.org/plants/images/plants/00921/plant00921-03829.jpg"
+        },
+        {
+            "image_id": "3830",
+            "caption": "Opend fruit (PDR)",
+            "url": "http://www.instituteofayurveda.org/plants/images/plants/00921/plant00921-03830.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Four o'clock flower / Mirabilis jalapa  /හෙන්දිරික්කා වල ගුණ / හෙන්දිරික්කා ආර්ථික බෝගයක් ද?",
+                "url": "https://youtube.com/watch?v=l7VhF-uvhEA",
+                "duration": "10:10",
+                "thumbnail": "https://i.ytimg.com/vi/l7VhF-uvhEA/hq720.jpg"
+            },
+            {
+                "title": "How To Grow Mirabilis Jalapa From Seed",
+                "url": "https://youtube.com/watch?v=qXyrW_ohWHY",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/qXyrW_ohWHY/hq720.jpg"
+            },
+            {
+                "title": "හෙන්දිරික්කා | හෙන්දිරික්කා මල් | වෙලාව කියන පාට පාට මල් | හෙන්දිරික්කා මල් වගාව | 2024",
+                "url": "https://youtube.com/watch?v=_Xs8FSWGkNc",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/_Xs8FSWGkNc/hqdefault.jpg"
+            },
+            {
+                "title": "හෙන්දිරික්කා ,  Four O'clock flower . #nature #herbs #medicinalherbs #gardenherbs #education",
+                "url": "https://youtube.com/watch?v=hsLtJetcsEM",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/hsLtJetcsEM/hq720.jpg"
+            },
+            {
+                "title": "හෙන්දිරික්කා මල්",
+                "url": "https://youtube.com/watch?v=0NSRSEmPVTU",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/0NSRSEmPVTU/hq720.jpg"
+            },
+            {
+                "title": "වෙලාව කියන පාට පාට මල්  | \"Four O' clock Flower | Ceylon Agri | Episode 265",
+                "url": "https://youtube.com/watch?v=MAH0mV-yqvA",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/MAH0mV-yqvA/hq720.jpg"
+            },
+            {
+                "title": "four - o' clock flower | හෙන්දිරික්කා මල | සවස් කාලයේ පිපෙන මලක් .",
+                "url": "https://youtube.com/watch?v=LIoPioDcD6g",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/LIoPioDcD6g/hq720.jpg"
+            },
+            {
+                "title": "Mirabilis jalap  | Hendirikka |හෙන්දිරික්කා මල්",
+                "url": "https://youtube.com/watch?v=in33B0NTcA4",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/in33B0NTcA4/hqdefault.jpg"
+            },
+            {
+                "title": "Marvel of Peru ( Four - o - clock Flower )  timelapse | හෙන්දිරික්කා",
+                "url": "https://youtube.com/watch?v=KL0x1lT-KD4",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/KL0x1lT-KD4/hqdefault.jpg"
+            },
+            {
+                "title": "🥀🌺හෙන්දිරික්කා මලක් පිපෙනවා බලමුද🌺🥀",
+                "url": "https://youtube.com/watch?v=AP5JVLsvg14",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/AP5JVLsvg14/hq720.jpg"
+            },
+            {
+                "title": "හෙන්දිරික්කා මල් යායක් මේ විදියට හදා ගමුද life with sula",
+                "url": "https://youtube.com/watch?v=dl8yZ9-oMZI",
+                "duration": "8:09",
+                "thumbnail": "https://i.ytimg.com/vi/dl8yZ9-oMZI/hqdefault.jpg"
+            },
+            {
+                "title": "How To Grow Mirabilis Jalapa From Seed",
+                "url": "https://youtube.com/watch?v=tTPNJ_OZFAk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/tTPNJ_OZFAk/frame0.jpg"
+            },
+            {
+                "title": "සන්ධ්‍යාකාලී, ක්‍රිශ්ණකේලී,හෙවත් හෙන්දිරික්කා මලේ රුව ගුණ",
+                "url": "https://youtube.com/watch?v=egOpmOPURFs",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/egOpmOPURFs/hqdefault.jpg"
+            },
+            {
+                "title": "Hendirikka/හෙන්දිරික්කා /Mirabilis jalap",
+                "url": "https://youtube.com/watch?v=UHaIYxiFk_o",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/UHaIYxiFk_o/hq720.jpg"
+            },
+            {
+                "title": "Hendirikka flowers",
+                "url": "https://youtube.com/watch?v=u6fqX7qOjwI",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/u6fqX7qOjwI/hq720.jpg"
+            },
+            {
+                "title": "Four o'clock flower / Mirabilis jalapa  /හෙන්දිරික්කා වල ගුණ / හෙන්දිරික්කා ආර්ථික බෝගයක් ද?",
+                "url": "https://youtube.com/watch?v=Z7GzEs_Ch8k",
+                "duration": "10:10",
+                "thumbnail": "https://i.ytimg.com/vi/Z7GzEs_Ch8k/frame0.jpg"
+            },
+            {
+                "title": "🌿🍀🌱☘️🌺හෙන්දිරික්කා🌿🍀🌱☘️🌺 මලේ ලස්සන බලන්නකෝ",
+                "url": "https://youtube.com/watch?v=CdmIDVFEXfY",
+                "duration": "1:03",
+                "thumbnail": "https://i.ytimg.com/vi/CdmIDVFEXfY/hq720_2.jpg"
+            },
+            {
+                "title": "4'o clock plant /చంద్రకాంత మొక్క flowers and its uses in gardening",
+                "url": "https://youtube.com/watch?v=-Vqb-Qa0Nzc",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/-Vqb-Qa0Nzc/hqdefault.jpg"
+            },
+            {
+                "title": "ANTI-INFLAMMATORY HERB that BOOSTS SEXUAL STAMINA + much more / FOUR O’ CLOCK (MIRABILIS JALAPA)",
+                "url": "https://youtube.com/watch?v=9D1li_TER34",
+                "duration": "11:37",
+                "thumbnail": "https://i.ytimg.com/vi/9D1li_TER34/hq720.jpg"
+            },
+            {
+                "title": "Best benefits of Four o' clock plant",
+                "url": "https://youtube.com/watch?v=60oAJjzrVH8",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/60oAJjzrVH8/hq720.jpg"
+            },
+            {
+                "title": "four o'clock plant - medicinal uses.",
+                "url": "https://youtube.com/watch?v=hjKKr-ccyHA",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/hjKKr-ccyHA/hqdefault.jpg"
+            },
+            {
+                "title": "හෙන්දිරික්කා මල්   hendirikka mal",
+                "url": "https://youtube.com/watch?v=s4SflBsP6ew",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/s4SflBsP6ew/hq720.jpg"
+            },
+            {
+                "title": "හෙන්දිරික්කා මල්",
+                "url": "https://youtube.com/watch?v=VSjSYARHvRM",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/VSjSYARHvRM/hq720.jpg"
+            },
+            {
+                "title": "Four o'clock flower / Mirabilis jalapa  /හෙන්දිරික්කා වල ගුණ / හෙන්දිරික්කා ආර්ථික බෝගයක් ද?",
+                "url": "https://youtube.com/watch?v=8V6x9penaZg",
+                "duration": "10:10",
+                "thumbnail": "https://i.ytimg.com/vi/8V6x9penaZg/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Pruritus",
-      "sinhala": "චර්ම රෝග නිසා ඇතිවන කැසීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Abscesses",
-      "sinhala": "සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "444",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/1J9pBHBt/plant00921-00444.jpg"
-    },
-    {
-      "image_id": "445",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/rfk0N7H0/plant00921-00445.jpg"
-    },
-    {
-      "image_id": "446",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/Mx3N2sXw/plant00921-00446.jpg"
-    },
-    {
-      "image_id": "3829",
-      "caption": "Flower Bud (PDR)",
-      "url": "http://www.instituteofayurveda.org/plants/images/plants/00921/plant00921-03829.jpg"
-    },
-    {
-      "image_id": "3830",
-      "caption": "Opend fruit (PDR)",
-      "url": "http://www.instituteofayurveda.org/plants/images/plants/00921/plant00921-03830.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

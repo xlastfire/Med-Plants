@@ -1,75 +1,560 @@
 {
-  "scientificName": "Adansonia digitata L.",
-  "synonyms": [
-    "Adansonia bahobab L.",
-    "Adansonia baobab Gaertn.",
-    "Adansonia integrifolia Raf.",
-    "Adansonia kilima Pettigrew, K.L.Bell, Bhagw., Grinan, Jillani, Jean Mey., Wab",
-    "Adansonia scutula Steud.",
-    "Adansonia situla (Lour.) Spreng.",
-    "Adansonia somalensis Chiov.",
-    "Adansonia sphaerocarpa A.Chev.",
-    "Adansonia sulcata A.Chev.",
-    "Baobabus digitata (L.) Kuntze",
-    "Ophelus sitularius Lour."
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Monkey Bread Tree",
-    "Baobab",
-    "Judas' Bag"
-  ],
-  "sinhalaName": "Aliya gaha (අලිය ගහ)",
-  "description": "මීටර් 20ක් දක්වා උසට සෘජුව වැඩෙන ගසකි. පත්‍ර අතු අගට වන්නට පොකුරු ගැසී පවතී. පත්‍රිකා 5-7කින් යුක්ත වන අතර, ඒවා වෘන්ත රහිත (sessile) හෝ අර්ධ වෘන්ත රහිත (subsessile) වේ. පත්‍රිකා ආයත (oblong) සිට ප්‍රතිඩිම්බක-ආයත (obovate-oblong) හෝ ප්‍රතිඩිම්බක (obovate) හැඩයක් ගනී. පත්‍ර පාදය කුඤ්ඤාකාර (cuneate) සහ පහළට විහිදුණු (decurrent) ස්වභාවයක් ගන්නා අතර, අග්‍රය ක්‍රමයෙන් උල් වූ (acuminate) හෝ වල්ගයක් මෙන් උල් වූ (caudate-acuminate) ස්වභාවයක් ගනී. පත්‍ර දාරය සිනිඳු (entire) වේ. ළපටි අවස්ථාවේදී රෝම සහිත (tufted-pubescent) වන අතර, ඇතැම් විට රෝම රහිත (glabrous) විය හැක. මල් ඉතා ආකර්ෂණීය වන අතර, පත්‍ර කක්ෂීයව (axillary) පිහිටා ඇත. මල් පහළට එල්ලී පවතී (pendulous). කරල් ආයත (oblong) සිට ආයත-ඩිම්බක (oblong-ovoid) හැඩයක් ගන්නා අතර, ඇතැම් විට අක්‍රමවත් හැඩයකින් යුක්ත වේ. බීජ බොහෝ සංඛ්‍යාවක් පවතී. ඒවා තද දුඹුරු සිට කළු පැහැයක් ගන්නා අතර, තෙල් සහිත (oleaginous) වේ. බීජ පිටි වැනි මදය (farinaceous pulp) තුළ ගිලී පවතී.",
-  "treatments": [
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Adansonia digitata L.",
+    "synonyms": [
+        "Adansonia bahobab L.",
+        "Adansonia baobab Gaertn.",
+        "Adansonia integrifolia Raf.",
+        "Adansonia kilima Pettigrew, K.L.Bell, Bhagw., Grinan, Jillani, Jean Mey., Wab",
+        "Adansonia scutula Steud.",
+        "Adansonia situla (Lour.) Spreng.",
+        "Adansonia somalensis Chiov.",
+        "Adansonia sphaerocarpa A.Chev.",
+        "Adansonia sulcata A.Chev.",
+        "Baobabus digitata (L.) Kuntze",
+        "Ophelus sitularius Lour."
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Monkey Bread Tree",
+        "Baobab",
+        "Judas' Bag"
+    ],
+    "sinhalaName": "Aliya gaha (අලිය ගහ)",
+    "description": "මීටර් 20ක් දක්වා උසට සෘජුව වැඩෙන ගසකි. පත්‍ර අතු අගට වන්නට පොකුරු ගැසී පවතී. පත්‍රිකා 5-7කින් යුක්ත වන අතර, ඒවා වෘන්ත රහිත (sessile) හෝ අර්ධ වෘන්ත රහිත (subsessile) වේ. පත්‍රිකා ආයත (oblong) සිට ප්‍රතිඩිම්බක-ආයත (obovate-oblong) හෝ ප්‍රතිඩිම්බක (obovate) හැඩයක් ගනී. පත්‍ර පාදය කුඤ්ඤාකාර (cuneate) සහ පහළට විහිදුණු (decurrent) ස්වභාවයක් ගන්නා අතර, අග්‍රය ක්‍රමයෙන් උල් වූ (acuminate) හෝ වල්ගයක් මෙන් උල් වූ (caudate-acuminate) ස්වභාවයක් ගනී. පත්‍ර දාරය සිනිඳු (entire) වේ. ළපටි අවස්ථාවේදී රෝම සහිත (tufted-pubescent) වන අතර, ඇතැම් විට රෝම රහිත (glabrous) විය හැක. මල් ඉතා ආකර්ෂණීය වන අතර, පත්‍ර කක්ෂීයව (axillary) පිහිටා ඇත. මල් පහළට එල්ලී පවතී (pendulous). කරල් ආයත (oblong) සිට ආයත-ඩිම්බක (oblong-ovoid) හැඩයක් ගන්නා අතර, ඇතැම් විට අක්‍රමවත් හැඩයකින් යුක්ත වේ. බීජ බොහෝ සංඛ්‍යාවක් පවතී. ඒවා තද දුඹුරු සිට කළු පැහැයක් ගන්නා අතර, තෙල් සහිත (oleaginous) වේ. බීජ පිටි වැනි මදය (farinaceous pulp) තුළ ගිලී පවතී.",
+    "treatments": [
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hiccups",
+            "sinhala": "හිකිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Bark",
+        "Pulp of fruit",
+        "Seed"
+    ],
+    "images": [
+        {
+            "image_id": "1963",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/jvg7LfX3/plant00252-01963.jpg"
+        },
+        {
+            "image_id": "1964",
+            "caption": "Fruit (PMR)",
+            "url": "https://i.ibb.co/Qv4VjJG6/plant00252-01964.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මුලින්ම අලිය එලෙව්වෙ මං පස්සෙ මහත්තයෝ | වෙලාවට සරම විතරයි අලියට අහුවුනේ | දැන් අලිය මගෙ දෙවියෙක් වගේ",
+                "url": "https://youtube.com/watch?v=jCHBdbbBBfA",
+                "duration": "14:27",
+                "thumbnail": "https://i.ytimg.com/vi/jCHBdbbBBfA/hq720.jpg"
+            },
+            {
+                "title": "අග්බෝ ඉන්න වැව හැදුවෙ 1878 | සුදු අලිය රළපනාවට ගල් ඇද්දෙ | පංගුව නොදුන්නට වෙල්විදානේ මං",
+                "url": "https://youtube.com/watch?v=FhyIRbchn8E",
+                "duration": "28:43",
+                "thumbnail": "https://i.ytimg.com/vi/FhyIRbchn8E/hq720.jpg"
+            },
+            {
+                "title": "2023-08-22 මහනුවර ඇසල පෙරහරේ කුලප්පු වූ අලිය..",
+                "url": "https://youtube.com/watch?v=FRDwvHoSxJA",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/FRDwvHoSxJA/hqdefault.jpg"
+            },
+            {
+                "title": "පෙරහර අමතක කර අට්ටිකා කෑ අලිය -The elephant forgot the procession and ate the Attika#elephant#india",
+                "url": "https://youtube.com/watch?v=SrI1xaGE-Xg",
+                "duration": "0:57",
+                "thumbnail": "https://i.ytimg.com/vi/SrI1xaGE-Xg/hqdefault.jpg"
+            },
+            {
+                "title": "අලිය කොල්ලව පෑගුවෙ මං බලාඉද්දි | පහුවදා ඌ පොල්අතු ගෙනාවා මිනිය වහන්න | ඇත්තම කතාව මේකයි මහත්තයො",
+                "url": "https://youtube.com/watch?v=0jN3qZAjpS0",
+                "duration": "25:03",
+                "thumbnail": "https://i.ytimg.com/vi/0jN3qZAjpS0/hq720.jpg"
+            },
+            {
+                "title": "අලි පවුලක්ම වගා ලිඳට වැටිලා",
+                "url": "https://youtube.com/watch?v=7SZhTzatd9A",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/7SZhTzatd9A/hq720.jpg"
+            },
+            {
+                "title": "අලි අතුන් පවා දණ නමන විස්මිත ගස - Elephant Madara",
+                "url": "https://youtube.com/watch?v=pODjGK5x4Vk",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/pODjGK5x4Vk/hqdefault.jpg"
+            },
+            {
+                "title": "විල්පත්තු සිටින දරැණු අලිය /the fiercest elephant's in wilpattu/elephant attacking rakasi",
+                "url": "https://youtube.com/watch?v=-a7OnJOSDHA",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/-a7OnJOSDHA/hqdefault.jpg"
+            },
+            {
+                "title": "Aliya Puliya | අලියා පුලියා ටලං ටිලිං | Lama Geetha Sinhala | සිංහල ළමා ගීත",
+                "url": "https://youtube.com/watch?v=roThVIifWoc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/roThVIifWoc/hq720.jpg"
+            },
+            {
+                "title": "විශ්වවිද්‍යාල කථිකාචාර්යවරියට අලිය කරපු දේ මෙන්න - What an elephant has done",
+                "url": "https://youtube.com/watch?v=entyD7xHRsE",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/entyD7xHRsE/hq720.jpg"
+            },
+            {
+                "title": "මං තමයි බුතව බංගලාවෙ මේසන් බාස් | අලිය කොන්ද ඇතිල්ලුව පාරට වාඩියත් හෙල්ලුනා",
+                "url": "https://youtube.com/watch?v=6cIbcat78Ew",
+                "duration": "17:09",
+                "thumbnail": "https://i.ytimg.com/vi/6cIbcat78Ew/hq720.jpg"
+            },
+            {
+                "title": "Aliya Puliya | අලියා පුලියා | Lama Geetha Sinhala | Lama Gee",
+                "url": "https://youtube.com/watch?v=83r9mhYiG_o",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/83r9mhYiG_o/hq720.jpg"
+            },
+            {
+                "title": "මුලින්ම අලිය එලෙව්වෙ මං පස්සෙ මහත්තයෝ | වෙලාවට සරම විතරයි අලියට අහුවුනේ | දැන් අලිය මගෙ දෙවියෙක් වගේ",
+                "url": "https://youtube.com/watch?v=zoXnaaEYckk",
+                "duration": "14:27",
+                "thumbnail": "https://i.ytimg.com/vi/zoXnaaEYckk/frame0.jpg"
+            },
+            {
+                "title": "මද කිපුන අලියගේ හැසිරීම, ඇත් ගොව්වටත් ගහනවා.... #animals",
+                "url": "https://youtube.com/watch?v=1hRKYsc_9Pk",
+                "duration": "0:25",
+                "thumbnail": "https://i.ytimg.com/vi/1hRKYsc_9Pk/hq720.jpg"
+            },
+            {
+                "title": "ජල පහරට හසුව ගසාගෙන යන අලි රංචුව | Ada Derana",
+                "url": "https://youtube.com/watch?v=qgEO9SUoQlE",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/qgEO9SUoQlE/hq720.jpg"
+            },
+            {
+                "title": "මුලින්ම අලිය එලෙව්වෙ මං පස්සෙ මහත්තයෝ | වෙලාවට සරම විතරයි අලියට අහුවුනේ | දැන් අලිය මගෙ දෙවියෙක් වගේ",
+                "url": "https://youtube.com/watch?v=-fsslCcqZ4o",
+                "duration": "14:27",
+                "thumbnail": "https://i.ytimg.com/vi/-fsslCcqZ4o/frame0.jpg"
+            },
+            {
+                "title": "දන්නේ නෑ නේද මෙන්න හේතුව | Why don’t elephants get cancer",
+                "url": "https://youtube.com/watch?v=1JZvb7SqqG4",
+                "duration": "7:20",
+                "thumbnail": "https://i.ytimg.com/vi/1JZvb7SqqG4/hq720.jpg"
+            },
+            {
+                "title": "ගසක වරුණ 06 ගජමදාරා ශාකය (Cleistanthus collinus)අලි ඇතුන් පවා බිය/දන නමස්කාර කරන ශාකය",
+                "url": "https://youtube.com/watch?v=C03MS7sgjnM",
+                "duration": "7:38",
+                "thumbnail": "https://i.ytimg.com/vi/C03MS7sgjnM/hq720.jpg"
+            },
+            {
+                "title": "සේපාලිකා ශාකය ගැන මෙවැනි කතාවක් අහල තිබුනද | sepalika benefite |coral jasmine ✅♻",
+                "url": "https://youtube.com/watch?v=BPvakaDQRhA",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/BPvakaDQRhA/hqdefault.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවෙන් වඳවුනු “විල් අලියා” | Sri Lankan Swamp Elephant 🐘🍃",
+                "url": "https://youtube.com/watch?v=HqII-x-x714",
+                "duration": "7:01",
+                "thumbnail": "https://i.ytimg.com/vi/HqII-x-x714/hq720.jpg"
+            },
+            {
+                "title": "තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ.  Health benefits of Thulasi.",
+                "url": "https://youtube.com/watch?v=kKukenrdq0k",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/kKukenrdq0k/hq720.jpg"
+            },
+            {
+                "title": "ලුණුවිල වල විශ්මිත ගුණ | Sakalawaga",
+                "url": "https://youtube.com/watch?v=MK4tEU-t-Os",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/MK4tEU-t-Os/hqdefault.jpg"
+            },
+            {
+                "title": "කැලේ හිටියනම් මැරුම්කන - ලංකාවේ ලොකුම අලියා | Gajaba | Pet Talk",
+                "url": "https://youtube.com/watch?v=oqzMrv3wKvI",
+                "duration": "11:03",
+                "thumbnail": "https://i.ytimg.com/vi/oqzMrv3wKvI/hq720.jpg"
+            },
+            {
+                "title": "හිසතෙල් ගාන්න වගේම දියවැඩියාව ඇතුළු රෝග රැසකට ගුණ කොලොං/කොලොන් | Kolon Tree",
+                "url": "https://youtube.com/watch?v=zD30x-2Iy_I",
+                "duration": "11:45",
+                "thumbnail": "https://i.ytimg.com/vi/zD30x-2Iy_I/hq720.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "aliya gana rachana|aliya gana waki|අලියා ගැන රචනා|අලියා ගැන වාක්‍ය",
+                "url": "https://youtube.com/watch?v=IQGKh17oYB8",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/IQGKh17oYB8/hq720.jpg"
+            },
+            {
+                "title": "වන අලියගෙ තරම නොදැන වීඩියෝ කර කර පස්සෙන් දුවන මිනිස්සු.. මේක හරි ආතල් රටක්  - Hiru News",
+                "url": "https://youtube.com/watch?v=EbGWkmFyziw",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/EbGWkmFyziw/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල ශාකයේ ගුණ අගුණ නිවැරදිව දැනගමු | Health benefits of katupila | කටුපිල | Katupila",
+                "url": "https://youtube.com/watch?v=LnoPt_czJkM",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/LnoPt_czJkM/hqdefault.jpg"
+            },
+            {
+                "title": "වඳ වී ගිය ලංකාවේ විශාලතම අලියා විල් අලියා ගැන ඔබ කිසිදා නොඇසූ පුදුම දේවල්.| Swamp Elephant.",
+                "url": "https://youtube.com/watch?v=6I1-PngKjnw",
+                "duration": "8:16",
+                "thumbnail": "https://i.ytimg.com/vi/6I1-PngKjnw/hq720.jpg"
+            },
+            {
+                "title": "වැවුරුකන්නල රජ මහා විහාර පෙරහැරේ අලියා කුලප්පු වෙලා - මිනිස්සු පන එපා කියා දුවයි",
+                "url": "https://youtube.com/watch?v=stfg1yoF_Gk",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/stfg1yoF_Gk/hq720.jpg"
+            },
+            {
+                "title": "මාතලේටත් වන අලි කඩාවදී",
+                "url": "https://youtube.com/watch?v=bHaYEisfWMs",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/bHaYEisfWMs/hq720.jpg"
+            },
+            {
+                "title": "අලි භාෂාව | Biology Field Trip | Dehiwala Zoo | Roshan Wijesinghe",
+                "url": "https://youtube.com/watch?v=aGf_4fzmTMM",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/aGf_4fzmTMM/hq720.jpg"
+            },
+            {
+                "title": "කාලිගේ අනාවැකිය.. | මුතුගල මහ ඇමති පුටුවට..?  |Dinesh Muthugala | Episode 455",
+                "url": "https://youtube.com/watch?v=2GNiuSoLLl8",
+                "duration": "12:24",
+                "thumbnail": "https://i.ytimg.com/vi/2GNiuSoLLl8/hq720.jpg"
+            },
+            {
+                "title": "අලි පාගලා ඇවිද ගන්නත් බෑ | ඒත් තාම උන්ගෙ ගුණ කියන මිනිහෙක්",
+                "url": "https://youtube.com/watch?v=aAA8LunlCTU",
+                "duration": "16:03",
+                "thumbnail": "https://i.ytimg.com/vi/aAA8LunlCTU/hq720.jpg"
+            },
+            {
+                "title": "\"අලි පොරකනකොට තැලෙන්නේ තණකොළ\"ඇල්ලේ ගුණවංශ හිමිගෙන් සැර ප්‍රකාශයක් | Ada Derana",
+                "url": "https://youtube.com/watch?v=N5LnhfoAuKY",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/N5LnhfoAuKY/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "අඩ සිය වසරක අලි ඇතුන් පිළිබඳව රසමුස මතකය එක සැරයක් හරි අහන්න 01 කොටස  #heladeepatv",
+                "url": "https://youtube.com/watch?v=Z_FdBExeXVM",
+                "duration": "1:00:30",
+                "thumbnail": "https://i.ytimg.com/vi/Z_FdBExeXVM/hq720.jpg"
+            },
+            {
+                "title": "ගිනි අවියකින් ගිලිහුණු උණ්ඩයකින් සද්ධන්තයෙකුට සිදු වූ විපතක මහත",
+                "url": "https://youtube.com/watch?v=g2nAhxJlWwo",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/g2nAhxJlWwo/hq720.jpg"
+            },
+            {
+                "title": "Everything About Elephant Sinhala | අලි ඇත්තු ගැන හැමදේම",
+                "url": "https://youtube.com/watch?v=GDskG-bm65I",
+                "duration": "7:04",
+                "thumbnail": "https://i.ytimg.com/vi/GDskG-bm65I/hq720.jpg"
+            },
+            {
+                "title": "Elephant Dream Meaning Sinhala  Sihina Palapala | අලියෙක් සිහිනේ දැක්වෙන්නෙ ඇයි? සත්‍ය අරුත මෙන්න!",
+                "url": "https://youtube.com/watch?v=iuiEHQ4Vr9Y",
+                "duration": "5:09",
+                "thumbnail": "https://i.ytimg.com/vi/iuiEHQ4Vr9Y/hq720.jpg"
+            },
+            {
+                "title": "ගුරු මාරුව නිසා කන්‍යා ලග්න හිමියන් අලි අමාරුවක? | Astrology sri lanka",
+                "url": "https://youtube.com/watch?v=0F_myHvRCj0",
+                "duration": "10:37",
+                "thumbnail": "https://i.ytimg.com/vi/0F_myHvRCj0/hq720.jpg"
+            },
+            {
+                "title": "හිස තෙල් ගාන්න පන්සල් ආපු අලියා - අන්තිමට හාමුදුරුවන්ටත් වැඳලා යන්නේ",
+                "url": "https://youtube.com/watch?v=jgqCav96hmI",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/jgqCav96hmI/hq720.jpg"
+            },
+            {
+                "title": "අලියා|Elephants|ගැන විස්තර",
+                "url": "https://youtube.com/watch?v=l6OozqCx2Hs",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/l6OozqCx2Hs/hq720.jpg"
+            },
+            {
+                "title": "Elephant swallows a bag of manure පොහොර උරයක් ගිල්ල අලියා Elephant Soul",
+                "url": "https://youtube.com/watch?v=fVs9Kk0zE10",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/fVs9Kk0zE10/hq720.jpg"
+            },
+            {
+                "title": "විදුලි වැට කඩා ගම්වදින වන අලියා| Ada Derana",
+                "url": "https://youtube.com/watch?v=RYDKFsyofy8",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/RYDKFsyofy8/hq720.jpg"
+            },
+            {
+                "title": "අලියා -The elephant | පුංචි අපේ දැනුම් පොතට | Shraddha Kids",
+                "url": "https://youtube.com/watch?v=3HOJO6Jmdhc",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/3HOJO6Jmdhc/hq720.jpg"
+            },
+            {
+                "title": "නොමිනිස්සු පුච්චපු වන අලියා මැරුණේ කම්පනය සහ අභ්‍යන්තර ඉන්ද්‍රියන්ට හානි වෙලා- Aruna.lk-Derana Aruna",
+                "url": "https://youtube.com/watch?v=dJm3LiVmbRA",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/dJm3LiVmbRA/hq720.jpg"
+            },
+            {
+                "title": "මම අලියෙක් වෙමි | 3,4,5 ශ්‍රේණි සඳහා රචනා | අලියා ගැන රචනා | Elephant Sinhala essay | Aliya rachana",
+                "url": "https://youtube.com/watch?v=KuZKRjQQ7Kw",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/KuZKRjQQ7Kw/hq720.jpg"
+            },
+            {
+                "title": "අයවැය කතාවේ අලි මිනිස් ගැටුම - අලි එළවීමට එරෙහි දාබරේගේ පෙත්සම් විභාගයට - Hiru News",
+                "url": "https://youtube.com/watch?v=N8NN5ccjKWI",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/N8NN5ccjKWI/hq720.jpg"
+            },
+            {
+                "title": "අලි ඇතුන් පිළිබඳ ඔබ නොදන්නා අපූරු කරුණු 10  ක් | amazing fact of elephants",
+                "url": "https://youtube.com/watch?v=oPYiuzZtEwY",
+                "duration": "7:17",
+                "thumbnail": "https://i.ytimg.com/vi/oPYiuzZtEwY/hqdefault.jpg"
+            },
+            {
+                "title": "බූන්දල ප්‍රදේශයේ කෘෂිකාර්මාන්තයට වන අලි නිසා ඇති බාධා සහ එහි වත්මන් තත්වය.",
+                "url": "https://youtube.com/watch?v=2OefWwuGfMs",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/2OefWwuGfMs/hq720.jpg"
+            },
+            {
+                "title": "අලි අතුන් පවා දණ නමනවයි කියන විස්මිත ගස | අදුරගන්න ගජමදාර , Gaja madara",
+                "url": "https://youtube.com/watch?v=Z5UkzmT8LOA",
+                "duration": "1:10",
+                "thumbnail": "https://i.ytimg.com/vi/Z5UkzmT8LOA/hq720.jpg"
+            },
+            {
+                "title": "හමුදා මාමෙි දුවන්න එපා විහිළුවක් කරේ😂#wildlife #elephant #srilanka",
+                "url": "https://youtube.com/watch?v=zwQRtxHoVLk",
+                "duration": "0:12",
+                "thumbnail": "https://i.ytimg.com/vi/zwQRtxHoVLk/hq720.jpg"
+            },
+            {
+                "title": "සංඛ ඇතාව බය කරපු භාතිය  🥺 #wildlife #elephant #wildelephants #tusker",
+                "url": "https://youtube.com/watch?v=8YKixWnivXY",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/8YKixWnivXY/hq720.jpg"
+            },
+            {
+                "title": "අලි වෙඩි  | Elephant cartridge. | 🐘💣💥 #elephant #crackers  #viral",
+                "url": "https://youtube.com/watch?v=hKSfZtPpC2g",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/hKSfZtPpC2g/hq720.jpg"
+            },
+            {
+                "title": "සන්වේදී අය බලන්න එපා 😲🙏 Don't watch sensitive people | #elephant #trendingshorts #viralshorts",
+                "url": "https://youtube.com/watch?v=4HBlFsShFP0",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/4HBlFsShFP0/hq720.jpg"
+            },
+            {
+                "title": "කොමඩු ඇතුලෙ හංගලා අග්බෝට බෙහෙත් කවන හැටි 😜🤫 #agbo #elephant #nature #travel #wildlife",
+                "url": "https://youtube.com/watch?v=l99x11M0iQE",
+                "duration": "0:19",
+                "thumbnail": "https://i.ytimg.com/vi/l99x11M0iQE/hq720_2.jpg"
+            },
+            {
+                "title": "දරුවෙකුට මරු කැඳවූ පනාමුරේ අලි ප්‍රහාරය...",
+                "url": "https://youtube.com/watch?v=XaqZ6T7GMyg",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/XaqZ6T7GMyg/hq720_2.jpg"
+            },
+            {
+                "title": "කැලේට යන අලි කුලප්පු කරගත්තෙ 😱|  elephant attack boys 😱 #elephants",
+                "url": "https://youtube.com/watch?v=nvfFhI1-6Ho",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/nvfFhI1-6Ho/hq720.jpg"
+            },
+            {
+                "title": "8M ක් බලපු වීඩියෝව|දෙයියො සිහි වුණ වෙලාවක්|Elepahant attack| #wildelephant  |#trending01",
+                "url": "https://youtube.com/watch?v=3eUuoLpCQqI",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/3eUuoLpCQqI/hq720_2.jpg"
+            },
+            {
+                "title": "අලි හක්ක #2023 #elephant #wildlife #wildelephant",
+                "url": "https://youtube.com/watch?v=W4VO5hZstLg",
+                "duration": "0:06",
+                "thumbnail": "https://i.ytimg.com/vi/W4VO5hZstLg/hq720_2.jpg"
+            },
+            {
+                "title": "මහනුවර අලි කුලප්පුව 😱#elephant #attack",
+                "url": "https://youtube.com/watch?v=uR5eFpAVGUA",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/uR5eFpAVGUA/hq720.jpg"
+            },
+            {
+                "title": "බුදාම්මෝ අලියා 🫣💔 #elephant #elephants #wildelephant #elephantattacks #slmemereview #srilanka #viral",
+                "url": "https://youtube.com/watch?v=oVMOinUTz3A",
+                "duration": "0:12",
+                "thumbnail": "https://i.ytimg.com/vi/oVMOinUTz3A/hq720.jpg"
+            },
+            {
+                "title": "අලි කුලප්පුවෙ හොදම ටික පැත්තට උන නිසා බේරුනා #amazing #elephant #elephantattack #nature #animals",
+                "url": "https://youtube.com/watch?v=QmsPYxvmKIY",
+                "duration": "0:07",
+                "thumbnail": "https://i.ytimg.com/vi/QmsPYxvmKIY/hq720.jpg"
+            },
+            {
+                "title": "Elephant attacks cute girl in srilanka | අලියා ගහන කෙල්ල",
+                "url": "https://youtube.com/watch?v=GgUg9JaFkfc",
+                "duration": "0:06",
+                "thumbnail": "https://i.ytimg.com/vi/GgUg9JaFkfc/hq720_2.jpg"
+            },
+            {
+                "title": "Elephant attack Tree.Elephant pushing palm tree to get the tasty palm fruit and eat.",
+                "url": "https://youtube.com/watch?v=_Rooupy6QbY",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/_Rooupy6QbY/hq2.jpg"
+            },
+            {
+                "title": "සදරාජ..ඖෂධ herbel sadharaja..🌱 #youtubeshorts #nature #cute #youtube",
+                "url": "https://youtube.com/watch?v=SiXjlV8Twzk",
+                "duration": "0:06",
+                "thumbnail": "https://i.ytimg.com/vi/SiXjlV8Twzk/hq720_2.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවේ ජීවත් වන ප්‍රසිද්ධ වන ඇතුන් 05ක්🐘😍",
+                "url": "https://youtube.com/watch?v=SXa05HeHdxQ",
+                "duration": "0:23",
+                "thumbnail": "https://i.ytimg.com/vi/SXa05HeHdxQ/hq720.jpg"
+            },
+            {
+                "title": "සිත්තම්ගල්ල අලි කුලප්පුව (siththamgalla ali kulappuwa)",
+                "url": "https://youtube.com/watch?v=ODuxXYSpo9o",
+                "duration": "0:07",
+                "thumbnail": "https://i.ytimg.com/vi/ODuxXYSpo9o/hq2.jpg"
+            },
+            {
+                "title": "අලි වලියක් 😲😱 #highlights #trending #elephant #viralreels #shorts",
+                "url": "https://youtube.com/watch?v=vA-sFRb5nmo",
+                "duration": "0:12",
+                "thumbnail": "https://i.ytimg.com/vi/vA-sFRb5nmo/hq720.jpg"
+            },
+            {
+                "title": "බුත්තල කතරගම පාරේ අලි කලබල - Elephant Attack in Buttala- Katharagama Road",
+                "url": "https://youtube.com/watch?v=eBwvlE73iTM",
+                "duration": "0:48",
+                "thumbnail": "https://i.ytimg.com/vi/eBwvlE73iTM/hq720_2.jpg"
+            },
+            {
+                "title": "අලි රාලේ කොහෙද දුවන්නේ 😅😂🤣👇#lamakathandarasinhala #sinhalacartoon  #kathandara #කතන්දර",
+                "url": "https://youtube.com/watch?v=1vROVLEazc0",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/1vROVLEazc0/hq720.jpg"
+            },
+            {
+                "title": "වෙදකමෙන් සහ හෙදකමෙන් අලි ඇතුන් සුවකරන උඩුපිල මහත්තයා | Elephant SriLanka | Rupavahini News",
+                "url": "https://youtube.com/watch?v=o0HRQIKAwUc",
+                "duration": "6:01",
+                "thumbnail": "https://i.ytimg.com/vi/o0HRQIKAwUc/hq720.jpg"
+            },
+            {
+                "title": "මේ ගසේ කොළ ටිකක් කුඩු කරලා කෑවෙත් දියවැඩියාව සදහටම මට්ටුයි! - ඇගේ පටස් ගාලා ක්ෂණිකව සීනි බහිනවා!",
+                "url": "https://youtube.com/watch?v=juTMsxstz7k",
+                "duration": "23:43",
+                "thumbnail": "https://i.ytimg.com/vi/juTMsxstz7k/hq720.jpg"
+            },
+            {
+                "title": "අලියෙක් සිහිනෙන් පෙනීමේ සැබෑ තේරුම 🐘💰 | සිහින ලග්න පලාපල | Dreams of Elephants | Sinhala voice over",
+                "url": "https://youtube.com/watch?v=0td312HkmLA",
+                "duration": "3:56",
+                "thumbnail": "https://i.ytimg.com/vi/0td312HkmLA/hq720.jpg"
+            },
+            {
+                "title": "Elephant Soul කණ්ඩලම අලියට සිංහල බෙහෙත්",
+                "url": "https://youtube.com/watch?v=5cdLFVeQb7o",
+                "duration": "8:10",
+                "thumbnail": "https://i.ytimg.com/vi/5cdLFVeQb7o/hq720.jpg"
+            },
+            {
+                "title": "වගා ළිඳට වැටුණු අලි තුන්දෙනා ගොඩ ගත්ත මහා මෙහෙයුම | අන්තිමේ අලි තුන්දෙනාගේ ජීවිත බේරා ගත්ත හැටි",
+                "url": "https://youtube.com/watch?v=-rhpMIIvcho",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/-rhpMIIvcho/hq720.jpg"
+            },
+            {
+                "title": "News Alert  ඇමරිකාවෙන් ලැබුණු නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත් කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=QoxbefYPMS4",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/QoxbefYPMS4/hq720.jpg"
+            },
+            {
+                "title": "විනාශයට යන \"අලි ගස\" - Hiru News",
+                "url": "https://youtube.com/watch?v=zRoNBll9oL8",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/zRoNBll9oL8/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hiccups",
-      "sinhala": "හිකිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Bark",
-    "Pulp of fruit",
-    "Seed"
-  ],
-  "images": [
-    {
-      "image_id": "1963",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/jvg7LfX3/plant00252-01963.jpg"
-    },
-    {
-      "image_id": "1964",
-      "caption": "Fruit (PMR)",
-      "url": "https://i.ibb.co/Qv4VjJG6/plant00252-01964.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,72 +1,767 @@
 {
-  "scientificName": "Abroma augustum (L.) L.f.",
-  "synonyms": [
-    "Abroma alatum Blanco",
-    "Abroma angulatum Lam.",
-    "Abroma angulosum Poir.",
-    "Abroma commune Blanco",
-    "Abroma denticulatum Miq.",
-    "Abroma elongatum Lam.",
-    "Abroma fastuosum Jacq.",
-    "Abroma javanicum Miq.",
-    "Abroma molle DC.",
-    "Abroma obliquum C.Presl",
-    "Abroma sinuosum G.Nicholson",
-    "Abroma wheleri Retz.",
-    "Theobroma augustum L."
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Devil's Cotton",
-    "Cotton Abroma"
-  ],
-  "sinhalaName": "Yak kapu (යක් කපු )",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Dysmenorrhea",
-      "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
+    "scientificName": "Abroma augustum (L.) L.f.",
+    "synonyms": [
+        "Abroma alatum Blanco",
+        "Abroma angulatum Lam.",
+        "Abroma angulosum Poir.",
+        "Abroma commune Blanco",
+        "Abroma denticulatum Miq.",
+        "Abroma elongatum Lam.",
+        "Abroma fastuosum Jacq.",
+        "Abroma javanicum Miq.",
+        "Abroma molle DC.",
+        "Abroma obliquum C.Presl",
+        "Abroma sinuosum G.Nicholson",
+        "Abroma wheleri Retz.",
+        "Theobroma augustum L."
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Devil's Cotton",
+        "Cotton Abroma"
+    ],
+    "sinhalaName": "Yak kapu (යක් කපු )",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Dysmenorrhea",
+            "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Disorders",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dermatitis",
+            "sinhala": "චර්ම ප්‍රදාහය (සමේ ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Root bark"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කාල පාන්දම් දිම/ kala pandam dima ( චන්දන කපු මහතා)",
+                "url": "https://youtube.com/watch?v=g5ZgKA3uQ1k",
+                "duration": "24:15",
+                "thumbnail": "https://i.ytimg.com/vi/g5ZgKA3uQ1k/hq720.jpg"
+            },
+            {
+                "title": "කපු මහත්තයා ..අම්මෝ හිනා කාල මැරෙනව බං😅😅",
+                "url": "https://youtube.com/watch?v=s6rjB-f6Zbo",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/s6rjB-f6Zbo/hq720.jpg"
+            },
+            {
+                "title": "Yakek Kapu Gamarala | යකෙක් කාපු ගමරාල | FILMBOX",
+                "url": "https://youtube.com/watch?v=wwwCnR-a_ks",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/wwwCnR-a_ks/hq720.jpg"
+            },
+            {
+                "title": "Kapu Mahaththaya    කපු මහත්තයා",
+                "url": "https://youtube.com/watch?v=Ys0JD0Fp6jg",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/Ys0JD0Fp6jg/hqdefault.jpg"
+            },
+            {
+                "title": "කපුයක්කාරිය - මාතර සම්ප්‍රදාය - රිද්දි යාගය - සාස්ත්‍රානූකූල ශාන්තිකර්ම සම්ප්‍රදාය - ParapureUrumaya",
+                "url": "https://youtube.com/watch?v=5Rx73j4H5WQ",
+                "duration": "17:25",
+                "thumbnail": "https://i.ytimg.com/vi/5Rx73j4H5WQ/hq720.jpg"
+            },
+            {
+                "title": "චීනය සඳේ කපු පැළ කරයි - Hiru News",
+                "url": "https://youtube.com/watch?v=Bgt1g8eZCQU",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/Bgt1g8eZCQU/hqdefault.jpg"
+            },
+            {
+                "title": "කපු මහත්තයගෙන් ගත්ත ආතල් එක  😂  | Kapu mahaththaya",
+                "url": "https://youtube.com/watch?v=VyTYlNNPnxw",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/VyTYlNNPnxw/hqdefault.jpg"
+            },
+            {
+                "title": "කපු කිණිස්ස ශාකය යොදාගත් බලවතු වාජීකරණ ඔසුවක්",
+                "url": "https://youtube.com/watch?v=AfZ65b0Vm3Q",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/AfZ65b0Vm3Q/hq720.jpg"
+            },
+            {
+                "title": "sath siyk kapu mal ragena mama -kuweni",
+                "url": "https://youtube.com/watch?v=grL2sj9aZ6E",
+                "duration": "1:17",
+                "thumbnail": "https://i.ytimg.com/vi/grL2sj9aZ6E/hq720.jpg"
+            },
+            {
+                "title": "Kapu Mahaththaya / කපු මහත්තයා",
+                "url": "https://youtube.com/watch?v=ZYGVDTncN-c",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/ZYGVDTncN-c/hq720.jpg"
+            },
+            {
+                "title": "kapu kinissa",
+                "url": "https://youtube.com/watch?v=jm7NUUOfSjE",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/jm7NUUOfSjE/hq720.jpg"
+            },
+            {
+                "title": "රටයකුම හෙවත් රිද්දි යාගයේ උපත් කතාව AI ඇසින්",
+                "url": "https://youtube.com/watch?v=iN9B0X8fmkM",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/iN9B0X8fmkM/hq720.jpg"
+            },
+            {
+                "title": "රයිගම කෝරළයේ මහසොහොන් නැටීම......දේවගැති හසිත දිල්ෂාන් කපු මහතා මහසොහොන් දේවාලය ගම්පහ 0786591976",
+                "url": "https://youtube.com/watch?v=432rDci4CnU",
+                "duration": "7:47",
+                "thumbnail": "https://i.ytimg.com/vi/432rDci4CnU/hq720.jpg"
+            },
+            {
+                "title": "කපු පුලුන් natural nature 🌹🌳🌳🌳🙂🙂🙂",
+                "url": "https://youtube.com/watch?v=l2MF0GWWGlg",
+                "duration": "0:24",
+                "thumbnail": "https://i.ytimg.com/vi/l2MF0GWWGlg/hq720.jpg"
+            },
+            {
+                "title": "යාපනයේ කඩා දැමු වෙසක් කූඩු කතාවේ  කවුරුත් නොදන්න අලුත්ම පැත්ත මෙන්න",
+                "url": "https://youtube.com/watch?v=Xwky36foxhk",
+                "duration": "25:26",
+                "thumbnail": "https://i.ytimg.com/vi/Xwky36foxhk/hq720.jpg"
+            },
+            {
+                "title": "රෙද්දටත් ලෙඩටත් දෙකටම ගහ..",
+                "url": "https://youtube.com/watch?v=xO63THIwe6I",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/xO63THIwe6I/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ සහිත කුඹුක් ශාකය  | benifits of Arjuna tree | Episode 28",
+                "url": "https://youtube.com/watch?v=-tsp3fBSu5U",
+                "duration": "3:46",
+                "thumbnail": "https://i.ytimg.com/vi/-tsp3fBSu5U/hq720.jpg"
+            },
+            {
+                "title": "කපු මහත්තයත් බොරුව කරන්නෙ.දැනුම සොයා.@lifewithshiransilva #shiran silva#danumasoya.",
+                "url": "https://youtube.com/watch?v=e6VI8TPOa4E",
+                "duration": "34:09",
+                "thumbnail": "https://i.ytimg.com/vi/e6VI8TPOa4E/hq720.jpg"
+            },
+            {
+                "title": "කුප්පි ලාම්පුවට දින කියු වෙද මහතා",
+                "url": "https://youtube.com/watch?v=8Z8oZc2N_mE",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/8Z8oZc2N_mE/hq720.jpg"
+            },
+            {
+                "title": "කපුකිනිස්ස ශාකයේ ඖෂධීය ගුණය||kapukinissa shakaye oushadiya gunaya",
+                "url": "https://youtube.com/watch?v=hJ7NsfY0bsA",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/hJ7NsfY0bsA/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක්. Kumbuk Tree. Ayurvedic value of Kumbuk.",
+                "url": "https://youtube.com/watch?v=KjUTxwGyQ78",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/KjUTxwGyQ78/hq720.jpg"
+            },
+            {
+                "title": "කස්තුරි ගුණ දෙන විස්මිත යෝධ බන්ඩක්කා හෙවත් කපුකිණිස්ස",
+                "url": "https://youtube.com/watch?v=KfwUu_4O1jg",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/KfwUu_4O1jg/hqdefault.jpg"
+            },
+            {
+                "title": "kapu kinissa | kasthuri | hela osu rahas |  lanka osu pela | Healing of eye and heart diseases",
+                "url": "https://youtube.com/watch?v=s0yXhi7AnFs",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/s0yXhi7AnFs/hq720.jpg"
+            },
+            {
+                "title": "කිරිඅඟුණ කෑවම මොකද වෙන්නෙ : Health benefits of Kiri Aguna",
+                "url": "https://youtube.com/watch?v=o8vWzWsojxI",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/o8vWzWsojxI/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ ශරීරය යකඩ ඌණතාවයෙන් පෙළෙන බවට හැගවෙන ලක්ෂණ 10ක් | 10 Signs and Symptoms of Iron Deficiency",
+                "url": "https://youtube.com/watch?v=ugOan13cIgs",
+                "duration": "10:05",
+                "thumbnail": "https://i.ytimg.com/vi/ugOan13cIgs/hq720.jpg"
+            },
+            {
+                "title": "කඩවර පිදේනි කවි \" දළ කඩවර නම් යකුනි අසන්නේ \" | God Kadawara Waram | Sohon Kadawara God Mantra",
+                "url": "https://youtube.com/watch?v=-HrZfm2F050",
+                "duration": "11:57",
+                "thumbnail": "https://i.ytimg.com/vi/-HrZfm2F050/hq720.jpg"
+            },
+            {
+                "title": "දවසකට කරාබු නැටි දෙකක් කෑවොත් ඔබේ ශරීරයට සිදුවන පුදුම දේවල් 10ක් | The Power of Two Cloves a Day",
+                "url": "https://youtube.com/watch?v=RLzuL1nFcwU",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/RLzuL1nFcwU/hq720.jpg"
+            },
+            {
+                "title": "රජයේ අනුමත කෝප්ප කොළ කෑවොත් වෙන දේ මෙන්න : Benefits of Croton Leaves",
+                "url": "https://youtube.com/watch?v=sXY5rc_CYSA",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/sXY5rc_CYSA/hq720.jpg"
+            },
+            {
+                "title": "කෙහෙළිය ගෙදර යැව්වත් තවමත් ඉටු නොවූ දෙයක් වෛද්‍ය චමල් මතක් කරයි",
+                "url": "https://youtube.com/watch?v=BauFF14Vo6Y",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/BauFF14Vo6Y/hq720.jpg"
+            },
+            {
+                "title": "පොතුකබර රෝගී තත්ත්වය සහ ප්‍රතිකාර ක්‍රම  | Adaraneeya Jeewithaya | S.A.K.Wijerathna",
+                "url": "https://youtube.com/watch?v=b8NHuhZFi20",
+                "duration": "22:57",
+                "thumbnail": "https://i.ytimg.com/vi/b8NHuhZFi20/hq720.jpg"
+            },
+            {
+                "title": "කැස්ස නිසා උගුර වණ වෙලාද? සැලකිලිමත් වියයුතු නොනවතින කැස්ස | YouthWell with Dr Vipula",
+                "url": "https://youtube.com/watch?v=gT54jMuXlFE",
+                "duration": "5:18",
+                "thumbnail": "https://i.ytimg.com/vi/gT54jMuXlFE/hq720.jpg"
+            },
+            {
+                "title": "තරුණ වයසේම කොන්ද කැක්කුමද?",
+                "url": "https://youtube.com/watch?v=Ul0flMiqFQY",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/Ul0flMiqFQY/hq720_2.jpg"
+            },
+            {
+                "title": "සරම අල්ලපන් කොස්ගෙඩිය දාන්න 🙄",
+                "url": "https://youtube.com/watch?v=4QTEjTKA9z4",
+                "duration": "0:06",
+                "thumbnail": "https://i.ytimg.com/vi/4QTEjTKA9z4/hq720.jpg"
+            },
+            {
+                "title": "කිසිම බෙහෙතක් සැත්කම් නැතුව කොන්දේ අමාරු වලින් බේරෙන්න හොදම ආහාර - කශේරුකා අබාධ වලට හොදම විසදුම!",
+                "url": "https://youtube.com/watch?v=x2-Ond6ZPOs",
+                "duration": "23:28",
+                "thumbnail": "https://i.ytimg.com/vi/x2-Ond6ZPOs/hq720.jpg"
+            },
+            {
+                "title": "මහේන්ද්‍ර පොරොන්දමෙන් කියවෙන විවාහයේ සැබෑ රහස | Mahendra Porondama | Kapu Mahaththaya @කපු-මහත්තයා",
+                "url": "https://youtube.com/watch?v=nuVJ68K8oI0",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/nuVJ68K8oI0/hq720.jpg"
+            },
+            {
+                "title": "අලුහම් කියලා හිතන් ඉන්න ලප ලාදුරු වෙන්න පුලුවන් / This could be leprosy #leprosy #ayurveda",
+                "url": "https://youtube.com/watch?v=xdFydx7H0wM",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/xdFydx7H0wM/hq720.jpg"
+            },
+            {
+                "title": "උණ, කැස්ස, හෙම්බිරිස්සාව තියනවා නම් ගෙදර බෙහෙත් නොබී වහාම රෝහලට යන්න | වෛද්‍ය ජූඩ් ජයමහ",
+                "url": "https://youtube.com/watch?v=vFxuhtNno9Y",
+                "duration": "7:52",
+                "thumbnail": "https://i.ytimg.com/vi/vFxuhtNno9Y/hq720.jpg"
+            },
+            {
+                "title": "හෙළ ඔසුවක රහස: කොබ්බෑ ශාකයේ අසිරිය සහ ඖෂධීය ගුණ | Kobbe Plant (Allophylus cobbe)",
+                "url": "https://youtube.com/watch?v=_g6SGjYzZNs",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/_g6SGjYzZNs/hqdefault.jpg"
+            },
+            {
+                "title": "පොතු කඹර සහ සුදු කඹර රෝග පිළිබද ආයුර්වේදීය හැඳින්වීම සහ ප්‍රතිකාර ක්‍රම | Adaraneeya Jeewithaya",
+                "url": "https://youtube.com/watch?v=apFEoSALhno",
+                "duration": "19:08",
+                "thumbnail": "https://i.ytimg.com/vi/apFEoSALhno/hq720.jpg"
+            },
+            {
+                "title": "මේ එක ශාකයකින් මේ තරම් ලෙඩ රැසක් සුවකරන්න පුළුවන් කියල කවුද හිතුවේ | කුප්පමේනියා ශාකයේ ඔබ නොදත් රහස්",
+                "url": "https://youtube.com/watch?v=ShMW_KWMh2Q",
+                "duration": "9:36",
+                "thumbnail": "https://i.ytimg.com/vi/ShMW_KWMh2Q/hq720.jpg"
+            },
+            {
+                "title": "තුවාල සනීප කරන කැපුම් කීරියා ශාකය",
+                "url": "https://youtube.com/watch?v=Lbu9yuW-LpE",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/Lbu9yuW-LpE/hq720.jpg"
+            },
+            {
+                "title": "යක්බේරිය | Yakberiya #shorts #Youtubeshorts",
+                "url": "https://youtube.com/watch?v=lOax1t3CIho",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/lOax1t3CIho/hq720_2.jpg"
+            },
+            {
+                "title": "වදකහ ගැන ඔබ නොදත් පුදුම රහස්! 😱 | Ancient Herbal Secret",
+                "url": "https://youtube.com/watch?v=-geArfB63XQ",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/-geArfB63XQ/hq720.jpg"
+            },
+            {
+                "title": "## doctor. ඇත්තටම කුමක්ද මේ පොතු කබර රෝගය කියන්නේ .$ මෙම රෝගයට වයස් බේදයක් නැතිද ##motivation",
+                "url": "https://youtube.com/watch?v=81thIZA9CVs",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/81thIZA9CVs/hq720.jpg"
+            },
+            {
+                "title": "රෝග සුව කරන ඉන්දියාවේ අර් ජුන් ලංකාවෙදි කුඹුක් වූ හැටි | Rupavahini News",
+                "url": "https://youtube.com/watch?v=xAv5hWrGomo",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/xAv5hWrGomo/hq720.jpg"
+            },
+            {
+                "title": "⚠️ බෙල්ල හෝ කිහිල්ල කළු වෙනවාද? #ayurveda #sinhala",
+                "url": "https://youtube.com/watch?v=et32UVeanZk",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/et32UVeanZk/hq720.jpg"
+            },
+            {
+                "title": "''යකිනාරං'' ගුණ අගුණ - බොන අයට විශේෂයි",
+                "url": "https://youtube.com/watch?v=2LBwRtBbLHY",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/2LBwRtBbLHY/hqdefault.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "කහ වල ඇති ඔෳෂධිය ගුණ 15ක්|Turmeric15 medicinal properties of",
+                "url": "https://youtube.com/watch?v=_eRkyprVr4o",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/_eRkyprVr4o/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොඹ වල අපට නොපෙනෙන ගුණය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හැරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=hRpzilgWq5o",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/hRpzilgWq5o/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තටම කෝපි පානය ගුණ ද අගුණ ද? (Kopi Gunada Agunada) | Is Coffee Good or Bad for Your Health?",
+                "url": "https://youtube.com/watch?v=9ZNLyNWC50o",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/9ZNLyNWC50o/hq720.jpg"
+            },
+            {
+                "title": "✔ How to use spices part 1: Asafoetida/Hing Perumkayam පෙරුම්කායම් වල පුදුම ගුණ",
+                "url": "https://youtube.com/watch?v=QFoq2GcbhJA",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/QFoq2GcbhJA/hq720.jpg"
+            },
+            {
+                "title": "නික ගුණ වරුණ . සෙම් රෝග සහ වේදනා සමනයට. Health benefits of Nika.",
+                "url": "https://youtube.com/watch?v=YgOuPvji6N0",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgOuPvji6N0/hq720.jpg"
+            },
+            {
+                "title": "මානසික ආතතිය , නින්ද නොයාම ,අධි රුධිර පීඩනය  නැතිකරන ඒකාවේරිය.",
+                "url": "https://youtube.com/watch?v=DkgugSSlziI",
+                "duration": "5:41",
+                "thumbnail": "https://i.ytimg.com/vi/DkgugSSlziI/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "අක්කපාන අත්දුටු ඔසුවේ ගුණ | Akkapana  | The properties of Akkapana herb | Sampath Hamuwa",
+                "url": "https://youtube.com/watch?v=CAber0DWE-M",
+                "duration": "11:11",
+                "thumbnail": "https://i.ytimg.com/vi/CAber0DWE-M/hq720.jpg"
+            },
+            {
+                "title": "කලුකැම්මේරිය විශ්මිත ගුණ , රෝග රැසකට එක් ඔසුවක්.",
+                "url": "https://youtube.com/watch?v=CmQImWwL4Hw",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/CmQImWwL4Hw/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය ගුණ සහිත කුප්පමේනියා ගැන දැනගනිමු |kuppameniya| Acalypha Indica",
+                "url": "https://youtube.com/watch?v=fgliz181Bvg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/fgliz181Bvg/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "කුණ්ඩලීනී ශක්තිය කියන්නේ මොකක්ද? එය ලබා ගන්න පුලුවන්ද?",
+                "url": "https://youtube.com/watch?v=qLs6upziCYE",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/qLs6upziCYE/hq720.jpg"
+            },
+            {
+                "title": "වසර 300 ක් ජීවත් විය හැකි විශ්මයජනක ඖෂධය ගැන දන්නවද? #trending #history #srilanka",
+                "url": "https://youtube.com/watch?v=43q8HEJ934k",
+                "duration": "9:52",
+                "thumbnail": "https://i.ytimg.com/vi/43q8HEJ934k/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "යල සහ මහ කන්නය | අ.පො.ස. (උ/පෙළ) කෘෂි විද්‍යාව - #agri",
+                "url": "https://youtube.com/watch?v=AM6m2StnbLA",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/AM6m2StnbLA/hq720.jpg"
+            },
+            {
+                "title": "යකි නාරං වල ගුණ මෙච්චර තියනවා කියලා දැනන් හිටියද? | Yaki Naaran Plant",
+                "url": "https://youtube.com/watch?v=KkVtZsH2V4s",
+                "duration": "7:04",
+                "thumbnail": "https://i.ytimg.com/vi/KkVtZsH2V4s/hq720.jpg"
+            },
+            {
+                "title": "වැටකෙයියා ශාකය ඉදුනු ගෙඩියක් හා ඉදුනෙ නැති ගෙඩියකුත් ඔන්න තියනවා මෙච්චර ගුණයි කියලා හිතුවද",
+                "url": "https://youtube.com/watch?v=EZLPaDxV0Gg",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/EZLPaDxV0Gg/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "කුප්පමේණියා විෂ වෙනවද? Can Acalypha indica (Kuppameniya) be poisonous?",
+                "url": "https://youtube.com/watch?v=wSIT47ctMGg",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/wSIT47ctMGg/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක් ගසේ ඇති ඖෂධීය ප්‍රයෝජන | kumbuk plant benefits | Terminalia Arjuna ✅🌿",
+                "url": "https://youtube.com/watch?v=mewJ4ysNBNc",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/mewJ4ysNBNc/hqdefault.jpg"
+            },
+            {
+                "title": "මේ තරම් ප්‍රබල ඔසුවක් ? ඔබත් විසික් කරාද?  | Monarakudumbiya  Ceylon Agri | Episode 310",
+                "url": "https://youtube.com/watch?v=kAfcCjtKpUY",
+                "duration": "10:07",
+                "thumbnail": "https://i.ytimg.com/vi/kAfcCjtKpUY/hq720.jpg"
+            },
+            {
+                "title": "මේ ශාකය භාවිතයට නොගන්නා ඔබ බත් කාලා වැඩක් නෑ /ausadiya kikiridiya",
+                "url": "https://youtube.com/watch?v=scqO5Np5pcU",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/scqO5Np5pcU/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "අදටත් තිබෙන අහස ගුගුරවපු ඵුස්සදේව යෝධයාගේ හාස්කම් පිරුණු ජය සංඛයේ කථාව",
+                "url": "https://youtube.com/watch?v=qlJLaSF_rw8",
+                "duration": "7:21",
+                "thumbnail": "https://i.ytimg.com/vi/qlJLaSF_rw8/hq720.jpg"
+            },
+            {
+                "title": "භාවනාව ශරීරයේ ජාන සැකැස්ම වෙනස් කරවන බව විද්‍යාඥයන් සොයා ගනී #meditation #science #buddhism",
+                "url": "https://youtube.com/watch?v=PJGYEsYhktc",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/PJGYEsYhktc/hq720.jpg"
+            },
+            {
+                "title": "නිවන යනු මොන වගේ සුවයක්ද? 95% බෞද්ධයන් නොදන්න නිවනේ ඇත්ත",
+                "url": "https://youtube.com/watch?v=O9GxNMAmK70",
+                "duration": "12:52",
+                "thumbnail": "https://i.ytimg.com/vi/O9GxNMAmK70/hq720.jpg"
+            },
+            {
+                "title": "ඉඳිකටු තුඩ සහ තඹ කාසියක් උපයෝගී කරගෙන භූමිතෙල් ලාම්පු එලියෙන් කැරකැවෙන පහන් කූඩුව#  බලලම ඉන්නකෝ..👊🙏",
+                "url": "https://youtube.com/watch?v=I8wLDD0jeeg",
+                "duration": "12:15",
+                "thumbnail": "https://i.ytimg.com/vi/I8wLDD0jeeg/hq720.jpg"
+            },
+            {
+                "title": "Yacon Fruit [Health Benefits and Plant Profile]",
+                "url": "https://youtube.com/watch?v=NcAB3BUZosI",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/NcAB3BUZosI/hqdefault.jpg"
+            },
+            {
+                "title": "11 Impressive Health Benefits of Yucca Root",
+                "url": "https://youtube.com/watch?v=ZTm01D02Gss",
+                "duration": "5:42",
+                "thumbnail": "https://i.ytimg.com/vi/ZTm01D02Gss/hq720.jpg"
+            },
+            {
+                "title": "Top 8 Wonderful Health Benefits of Yucca Root",
+                "url": "https://youtube.com/watch?v=YjJQvfL4FsY",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/YjJQvfL4FsY/hqdefault.jpg"
+            },
+            {
+                "title": "Health Benefits of Yucca: Everything You Need to Know",
+                "url": "https://youtube.com/watch?v=3oiTSLRFmA0",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/3oiTSLRFmA0/hq720.jpg"
+            },
+            {
+                "title": "The Medicinal and Practical Benefits of Yucca!",
+                "url": "https://youtube.com/watch?v=YguiQnqoExg",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/YguiQnqoExg/hq720.jpg"
+            },
+            {
+                "title": "The Healing Power of YACON ROOT!",
+                "url": "https://youtube.com/watch?v=9fFmrGR1jgE",
+                "duration": "16:28",
+                "thumbnail": "https://i.ytimg.com/vi/9fFmrGR1jgE/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Eucalyptus",
+                "url": "https://youtube.com/watch?v=GYVrPWFtrdM",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/GYVrPWFtrdM/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Yaupon Tea a Powerful Native American Plant",
+                "url": "https://youtube.com/watch?v=AUPvk18CiUQ",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/AUPvk18CiUQ/hq720.jpg"
+            },
+            {
+                "title": "JACKFRUIT :  10 AMAZING HEALTH BENEFITS of JACKFRUIT to the HUMAN BODY",
+                "url": "https://youtube.com/watch?v=5QDC6h6PADk",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/5QDC6h6PADk/hq720.jpg"
+            },
+            {
+                "title": "Teak Plant Benefits: Spiritual Uses & Powerful Health Secrets of Teak Leaves",
+                "url": "https://youtube.com/watch?v=w5g_pqslV6g",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/w5g_pqslV6g/hq720.jpg"
+            },
+            {
+                "title": "The AMAZING Benefits of Catuaba Bark (CatuaPure)",
+                "url": "https://youtube.com/watch?v=jvY0hsUk1uU",
+                "duration": "12:22",
+                "thumbnail": "https://i.ytimg.com/vi/jvY0hsUk1uU/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල ශාකයේ ගුණ අගුණ නිවැරදිව දැනගමු | Health benefits of katupila | කටුපිල | Katupila",
+                "url": "https://youtube.com/watch?v=LnoPt_czJkM",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/LnoPt_czJkM/hqdefault.jpg"
+            },
+            {
+                "title": "කුඹුක් ගහේ පොතුවල තියෙන විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=Ig0tf2R9f_s",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/Ig0tf2R9f_s/hq720.jpg"
+            },
+            {
+                "title": "කඩුපහර | කඩුපහර ගුණ | Kadupahara | Kadu pahara |  lilac tasselflower | cupid's shaving brush",
+                "url": "https://youtube.com/watch?v=bwRRQzDvoeE",
+                "duration": "3:56",
+                "thumbnail": "https://i.ytimg.com/vi/bwRRQzDvoeE/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "කැප්පෙටියා ශාකයේ වැදගත්කම | Ayurvedic Plant of Sri lankan |  kappatiya shakaya | Croton aromaticus",
+                "url": "https://youtube.com/watch?v=h5-XsZHr0NY",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/h5-XsZHr0NY/hq720.jpg"
+            },
+            {
+                "title": "කපුකිනිස්ස ගහේ මල් Lashitha Mahesh Sinhala Video Editor",
+                "url": "https://youtube.com/watch?v=pADB6cV3zWA",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/pADB6cV3zWA/hqdefault.jpg"
+            },
+            {
+                "title": "දැනට සොයාගෙන ඇති ලොව හොදම පිළිකා ඖෂධය. The best cancer drug in the world. \"Keytruda\"",
+                "url": "https://youtube.com/watch?v=9-877WOnIj0",
+                "duration": "9:23",
+                "thumbnail": "https://i.ytimg.com/vi/9-877WOnIj0/hq720.jpg"
+            },
+            {
+                "title": "Kapparawalliya & Iriweriya  | ගෙදරක හිටවගන්නම ඕන ඔසු පැල | කප්පරවල්ලිය සහ ඉරිවේරිය| Episode 69",
+                "url": "https://youtube.com/watch?v=B7sMPk7vVbM",
+                "duration": "6:16",
+                "thumbnail": "https://i.ytimg.com/vi/B7sMPk7vVbM/hq720.jpg"
+            },
+            {
+                "title": "කැපුම් කීරිය ( Euphorbia Hirta )",
+                "url": "https://youtube.com/watch?v=AfDa8hnU8rQ",
+                "duration": "13:53",
+                "thumbnail": "https://i.ytimg.com/vi/AfDa8hnU8rQ/hqdefault.jpg"
+            },
+            {
+                "title": "කහ කුඩුයි උණු වතුරයි පාවිච්චි කරලා කැස්ස නවත්ත ගන්න - Cough remedy using turmeric and hot water",
+                "url": "https://youtube.com/watch?v=CdgOfNJgMxs",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/CdgOfNJgMxs/hq720.jpg"
+            },
+            {
+                "title": "කුප්පමේනිය ඖෂධ පැලෑටිය | kuppameniya | Acalypha indica | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=6ysXbzyxa7c",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/6ysXbzyxa7c/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ අය ලෙඩ වෙන්නෙ අරක්කු බොන්න දන්නෙ නැති නිසා |  Alcohol  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dk3QJjXV938",
+                "duration": "19:12",
+                "thumbnail": "https://i.ytimg.com/vi/dk3QJjXV938/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "ලේ තුනී වෙන්න බෙහෙත් බොන ගමන් සුදුළූණු කන එක මාරාන්තිකයි! 🧄⚠️ | Aspirin & Garlic Danger #science",
+                "url": "https://youtube.com/watch?v=f36FuttjYTg",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/f36FuttjYTg/hq720.jpg"
+            },
+            {
+                "title": "අක්මාව වේගයෙන් පිරිසුදු කරන හොදම ආහාර 10ක් | 10 Super Foods that Naturally Cleanse Your Liver",
+                "url": "https://youtube.com/watch?v=Mw2T2PeyGo4",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Mw2T2PeyGo4/hq720.jpg"
+            },
+            {
+                "title": "රතු මස් කන අයට පිළිකා හදවත් රෝග හැදෙනවද? මෙන්න ඇත්ත - ලෙඩ සියයක් වලක්වන එකම ආහාරය | Wannaku Method",
+                "url": "https://youtube.com/watch?v=yS8zARA6jTA",
+                "duration": "31:37",
+                "thumbnail": "https://i.ytimg.com/vi/yS8zARA6jTA/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම කහ පාරිබෝජනය කළොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 12ක් | Proven Health Benefits of Turmeric",
+                "url": "https://youtube.com/watch?v=KyBtVasewK8",
+                "duration": "12:02",
+                "thumbnail": "https://i.ytimg.com/vi/KyBtVasewK8/hq720.jpg"
+            },
+            {
+                "title": "ගැස්ට්‍රික් වලට පෙති බොන එක අදම නවත්වන්න! කෑමෙන් බීමෙන් අම්ලපිත්තය නිට්ටාවටම සුව කරන විශ්මිත රහස!",
+                "url": "https://youtube.com/watch?v=wWTHKRz1tfs",
+                "duration": "15:56",
+                "thumbnail": "https://i.ytimg.com/vi/wWTHKRz1tfs/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ගුණ. චර්ම රෝග ඇතුලු රෝගාබාධ රැසකට ගුණදෙන ආයුර්වේදීය ඔසු.",
+                "url": "https://youtube.com/watch?v=Uvb_M2tX2Ts",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/Uvb_M2tX2Ts/hq720.jpg"
+            },
+            {
+                "title": "යකඩ ඌනතාවට ප්‍රධාන හේතු 5ක් / causes of iron deficiency / low haemoglobin causes",
+                "url": "https://youtube.com/watch?v=CIXthUUz_Ew",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/CIXthUUz_Ew/hq720.jpg"
+            },
+            {
+                "title": "කිරිවලට වඩා කැල්සියම් තියෙන ඉතාම ගුණදායක ආහාර 10 ක් | Foods That Have More Calcium Than Milk",
+                "url": "https://youtube.com/watch?v=oOC-Gg1R7AM",
+                "duration": "9:19",
+                "thumbnail": "https://i.ytimg.com/vi/oOC-Gg1R7AM/hq720.jpg"
+            },
+            {
+                "title": "අක්මාවට හිතකර කෑම Best Foods for Your Liver #healthyliving #food #ayurveda #fruit",
+                "url": "https://youtube.com/watch?v=8JoTOeCpndY",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/8JoTOeCpndY/hq720.jpg"
+            },
+            {
+                "title": "චිකුන්ගුන්යා වැලඳුනොත් භාවිතයට හොඳ නැති ඖෂධ",
+                "url": "https://youtube.com/watch?v=68uGU7T6HOs",
+                "duration": "0:59",
+                "thumbnail": "https://i.ytimg.com/vi/68uGU7T6HOs/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Tract Disorders",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Dermatitis",
-      "sinhala": "චර්ම ප්‍රදාහය (සමේ ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Root bark"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,82 +1,339 @@
 {
-  "scientificName": "Sicyos edulis Jacq.",
-  "synonyms": [
-    "Chayota edulis (Jacq.) Jacq.",
-    "Sechium americanum Poir.",
-    "Sechium edule (Jacq.) Sw.",
-    "Sechium edule subsp. sylvestre Lira & Castrejón",
-    "Sicyos laciniatus Descourt."
-  ],
-  "familyName": "CUCURBITACEAE",
-  "englishNames": [
-    "Chow Chow",
-    "Chayote",
-    "Choko",
-    "Vegetable Pear",
-    "Custard Marrow",
-    "Mango Squash"
-  ],
-  "sinhalaName": "Chow chow (චව් චව් )",
-  "description": "බහුවාර්ෂික, ඒකලිංගික (monoecious) වැල් වර්ගයක් වන අතර, ඝන වූ මුල් සහ සිහින් කඳකින් යුක්ත වේ; ප්‍රරෝහ (tendrils) 3-5 ක් ඇත; කඳ අතු බෙදී මීටර් 10ක් දක්වා දිගට වැඩේ. පත්‍ර වල රැලි සහිත (sulcate) පත්‍ර වෘන්ත (petioles) ඇත; පත්‍ර වෘන්ත සෙන්ටිමීටර 8-15ක් දිගය; පත්‍ර තලය (lamina) සෙන්ටිමීටර 8-18 x 9-22ක් වන අතර, තරමක් ඛණ්ඩනය වූ (lobate) පත්‍ර 3-5ක් සහිතය, පත්‍ර දාර ඉතා සියුම් දන්තමය (minutely denticulate) වේ. පුෂ්ප මංජරිය සෙන්ටිමීටර 10-30ක් දිගය. මල් ඒකලිංගික (unisexual) වන අතර, කොළ පැහැයට හුරු සුදු පැහැයක් ගනී, මිලිමීටර 4-8 x 2-3ක් දිගය. ඵලය මාංසල වේ, කටු සහිතය, සුදු හෝ කහ පැහැතිය, බිත්තරාකාර (ovoid) වේ, බීජාවරණය (testa) සිනිඳුය.",
-  "treatments": [
-    {
-      "treatment": "Skin Rashes",
-      "sinhala": "සමේ පළු දැමීම / කුෂ්ඨ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Sicyos edulis Jacq.",
+    "synonyms": [
+        "Chayota edulis (Jacq.) Jacq.",
+        "Sechium americanum Poir.",
+        "Sechium edule (Jacq.) Sw.",
+        "Sechium edule subsp. sylvestre Lira & Castrejón",
+        "Sicyos laciniatus Descourt."
+    ],
+    "familyName": "CUCURBITACEAE",
+    "englishNames": [
+        "Chow Chow",
+        "Chayote",
+        "Choko",
+        "Vegetable Pear",
+        "Custard Marrow",
+        "Mango Squash"
+    ],
+    "sinhalaName": "Chow chow (චව් චව් )",
+    "description": "බහුවාර්ෂික, ඒකලිංගික (monoecious) වැල් වර්ගයක් වන අතර, ඝන වූ මුල් සහ සිහින් කඳකින් යුක්ත වේ; ප්‍රරෝහ (tendrils) 3-5 ක් ඇත; කඳ අතු බෙදී මීටර් 10ක් දක්වා දිගට වැඩේ. පත්‍ර වල රැලි සහිත (sulcate) පත්‍ර වෘන්ත (petioles) ඇත; පත්‍ර වෘන්ත සෙන්ටිමීටර 8-15ක් දිගය; පත්‍ර තලය (lamina) සෙන්ටිමීටර 8-18 x 9-22ක් වන අතර, තරමක් ඛණ්ඩනය වූ (lobate) පත්‍ර 3-5ක් සහිතය, පත්‍ර දාර ඉතා සියුම් දන්තමය (minutely denticulate) වේ. පුෂ්ප මංජරිය සෙන්ටිමීටර 10-30ක් දිගය. මල් ඒකලිංගික (unisexual) වන අතර, කොළ පැහැයට හුරු සුදු පැහැයක් ගනී, මිලිමීටර 4-8 x 2-3ක් දිගය. ඵලය මාංසල වේ, කටු සහිතය, සුදු හෝ කහ පැහැතිය, බිත්තරාකාර (ovoid) වේ, බීජාවරණය (testa) සිනිඳුය.",
+    "treatments": [
+        {
+            "treatment": "Skin Rashes",
+            "sinhala": "සමේ පළු දැමීම / කුෂ්ඨ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Suppurating Boils",
+            "sinhala": "ගෙඩි පැසවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits",
+        "Leaves",
+        "Tuber",
+        "Stem"
+    ],
+    "images": [
+        {
+            "image_id": "836",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/5Wcbjp3S/plant00373-00836.jpg"
+        },
+        {
+            "image_id": "837",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/jPXdmN9P/plant00373-00837.jpg"
+        },
+        {
+            "image_id": "838",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/gb9HqmQg/plant00373-00838.jpg"
+        },
+        {
+            "image_id": "3542",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/zWg3RZFr/plant00373-03542.jpg"
+        },
+        {
+            "image_id": "3543",
+            "caption": "Leaf Buds (PMR)",
+            "url": "https://i.ibb.co/SD6XdS1T/plant00373-03543.jpg"
+        },
+        {
+            "image_id": "3544",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/wZPjQhNd/plant00373-03544.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "චව් චව් චිකන් වගේ උයමු | How to make chow chow curry | Ema's kitchen",
+                "url": "https://youtube.com/watch?v=_MePmMD89SE",
+                "duration": "6:40",
+                "thumbnail": "https://i.ytimg.com/vi/_MePmMD89SE/hq720.jpg"
+            },
+            {
+                "title": "මේ විදියට චව් චව් කාලා තියෙනවාද ? රසට චව් චව් හදන ක්‍රම දෙකක් - Episode 1051 - Chow Chow Curry",
+                "url": "https://youtube.com/watch?v=n9SXn8-Y_X0",
+                "duration": "12:32",
+                "thumbnail": "https://i.ytimg.com/vi/n9SXn8-Y_X0/hqdefault.jpg"
+            },
+            {
+                "title": "චව් චව් මාලුව 👈 chaw chaw maaluwa by❤️My recipe",
+                "url": "https://youtube.com/watch?v=zfuE7uRLDig",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/zfuE7uRLDig/hqdefault.jpg"
+            },
+            {
+                "title": "✔ චව් චව් පරිප්පු වෑංජනය  Chaw Chaw Parippu curry by Apé Amma",
+                "url": "https://youtube.com/watch?v=eu9cuobNVqE",
+                "duration": "6:50",
+                "thumbnail": "https://i.ytimg.com/vi/eu9cuobNVqE/hq720.jpg"
+            },
+            {
+                "title": "මේ ගැන දන්නේ නැතිනම් චව් චව් කන්න එපා - Amazing properties of Chayote vegetables",
+                "url": "https://youtube.com/watch?v=Pb5KqlQndH8",
+                "duration": "5:04",
+                "thumbnail": "https://i.ytimg.com/vi/Pb5KqlQndH8/hq720.jpg"
+            },
+            {
+                "title": "පිස්සු හැදෙන චව්-චව් - Health benefits of Chayote",
+                "url": "https://youtube.com/watch?v=FsJgLMaGCQc",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/FsJgLMaGCQc/hq720.jpg"
+            },
+            {
+                "title": "ගෑවුනත් කන්න පුළුවන් රසම රස චව් චව් කරිය💯💞chow chow Curry",
+                "url": "https://youtube.com/watch?v=jqbceUeEm64",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/jqbceUeEm64/hq720.jpg"
+            },
+            {
+                "title": "Healthy & Tasty Chow Chow Curry ☺️|| චව් චව් හදන රසම ක්‍රමය🍈🍈 #food #chowchow #curry",
+                "url": "https://youtube.com/watch?v=ByKZNWPM2lg",
+                "duration": "5:23",
+                "thumbnail": "https://i.ytimg.com/vi/ByKZNWPM2lg/hq720.jpg"
+            },
+            {
+                "title": "ඔට්ටුයි ලංකාවෙ අය මෙහෙම කාලා නෑ #චව් චව් සලාදය / Chow Chow Salad / Chayote Salad",
+                "url": "https://youtube.com/watch?v=zlah7lkwMns",
+                "duration": "7:01",
+                "thumbnail": "https://i.ytimg.com/vi/zlah7lkwMns/hq720.jpg"
+            },
+            {
+                "title": "#ChowChow #Preserve  #SpicyTouch   #Chow Chow Preserve  ආහාර සෑඳීමට අවශ්‍ය අමුද්‍රව්‍ය #5#චව් චව්..",
+                "url": "https://youtube.com/watch?v=iv62DXNFziQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/iv62DXNFziQ/hq720.jpg"
+            },
+            {
+                "title": "චව් ඇටය විතරක් පැලකරන්න පුලුවන්  ක්‍රමයක් | Easy Steps to Plant Chow Chow Tree for a Healthy Harvest",
+                "url": "https://youtube.com/watch?v=Ji0s6aUX4Aw",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ji0s6aUX4Aw/hq720.jpg"
+            },
+            {
+                "title": "ලෙහෙසියෙන්  චවු චවු වැලක් හදාගමු  හදා ගත්තොත් හැමදාම අස්වැන්න තමයි ඉතින්    Chow Chow Cultivation",
+                "url": "https://youtube.com/watch?v=jrQey_kK4O4",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/jrQey_kK4O4/hq720.jpg"
+            },
+            {
+                "title": "චව් චව් කරිය | Chayote Curry | Chow Chow | @CookwithAshi ❤️",
+                "url": "https://youtube.com/watch?v=KMYLuhr6yOY",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/KMYLuhr6yOY/hq720.jpg"
+            },
+            {
+                "title": "Chaw Chaw Curry at home /chayote curry /chaw chaw maluwa /chaw curry recipe",
+                "url": "https://youtube.com/watch?v=no4fumeHlxk",
+                "duration": "9:32",
+                "thumbnail": "https://i.ytimg.com/vi/no4fumeHlxk/hq720.jpg"
+            },
+            {
+                "title": "චව් චව් මේ විදියට හැදුවම පට්ට රසයි| How to make chau chau curry|vegetarian curry recipes",
+                "url": "https://youtube.com/watch?v=W4JRTcTzqRY",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/W4JRTcTzqRY/hq720.jpg"
+            },
+            {
+                "title": "චව් චව් #චව් චව් කරිය#Chow chow recipe",
+                "url": "https://youtube.com/watch?v=yKHCEiVn9ZY",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/yKHCEiVn9ZY/hqdefault.jpg"
+            },
+            {
+                "title": "චව් චව් තෙම්පරාදුව සහ මෑල්ලුම (Chow Chow Tempered & Malluma) - Episode 37 - Shyamahesh Dissanayake",
+                "url": "https://youtube.com/watch?v=det4XebYHlE",
+                "duration": "7:29",
+                "thumbnail": "https://i.ytimg.com/vi/det4XebYHlE/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health Benefits of Chow chow | පිළිකා නැති කරන, අස්ථි නිරෝගීමත් කරන චව් චව්",
+                "url": "https://youtube.com/watch?v=MFkUhGsLhtk",
+                "duration": "5:43",
+                "thumbnail": "https://i.ytimg.com/vi/MFkUhGsLhtk/hq720.jpg"
+            },
+            {
+                "title": "#චව් චව් වල ගුණ දැනගෙන# චව් චව් කරියක් හදමු#chocho curry#😋😋😋😋 n kitchen😋",
+                "url": "https://youtube.com/watch?v=WqHtgcqP1YQ",
+                "duration": "29:35",
+                "thumbnail": "https://i.ytimg.com/vi/WqHtgcqP1YQ/hqdefault.jpg"
+            },
+            {
+                "title": "චව් චව් කොළ තෙම්පරාදුව | Tempered Chaw Chaw Leaves | Chaw Chaw Leaves Recipe | Chayote leaves recipe",
+                "url": "https://youtube.com/watch?v=WhAufznhwjg",
+                "duration": "4:53",
+                "thumbnail": "https://i.ytimg.com/vi/WhAufznhwjg/hq720.jpg"
+            },
+            {
+                "title": "චව් චව් වවන පහසු ක්‍රමය👉සම්පූර්ණ වීඩියෝව",
+                "url": "https://youtube.com/watch?v=4KDbSFpETrs",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/4KDbSFpETrs/hqdefault.jpg"
+            },
+            {
+                "title": "ගමේ  රසට චව් චව්  මාළුව 🫕| Chow chow curry🫕| 💚Simple home life💚",
+                "url": "https://youtube.com/watch?v=y6OOjDuhX1g",
+                "duration": "8:14",
+                "thumbnail": "https://i.ytimg.com/vi/y6OOjDuhX1g/hq720.jpg"
+            },
+            {
+                "title": "චව් චව් ව්‍යාංජනය by Ceylon Aroma",
+                "url": "https://youtube.com/watch?v=Bc5W6nlkbxw",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/Bc5W6nlkbxw/hqdefault.jpg"
+            },
+            {
+                "title": "කොස් ඇට මිශ්‍ර චව් කරිය/#chawchawcurry#by💕my recipe 💕",
+                "url": "https://youtube.com/watch?v=TWMpYwXY0u8",
+                "duration": "7:33",
+                "thumbnail": "https://i.ytimg.com/vi/TWMpYwXY0u8/hqdefault.jpg"
+            },
+            {
+                "title": "කවුරුත් කන් නැති කමුද චව් චව් ////Chaw Chaw Recepie 🇱🇰 🇱🇰 🇱🇰 style",
+                "url": "https://youtube.com/watch?v=C9KPZQ-pcqc",
+                "duration": "6:53",
+                "thumbnail": "https://i.ytimg.com/vi/C9KPZQ-pcqc/hq720.jpg"
+            },
+            {
+                "title": "පිස්සු හැදෙන චව්-චව් - Health benefits of Chayote",
+                "url": "https://youtube.com/watch?v=arAxc_9yaso",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/arAxc_9yaso/frame0.jpg"
+            },
+            {
+                "title": "CHOWCHOW BY BEING HUNGRY FROM SRI LANKA",
+                "url": "https://youtube.com/watch?v=qcqheZ38L4o",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/qcqheZ38L4o/hqdefault.jpg"
+            },
+            {
+                "title": "චව් චව් හදන්න මෙච්චර ලේසී කියලා ඔයා දැනන් හිටියද?| Chow chow sinhala| #LifewithSN |",
+                "url": "https://youtube.com/watch?v=1zdILMk1rZM",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/1zdILMk1rZM/hqdefault.jpg"
+            },
+            {
+                "title": "පිස්සු හැදෙන චව්-චව් - Health benefits of Chayote",
+                "url": "https://youtube.com/watch?v=gL_oTCdageo",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/gL_oTCdageo/frame0.jpg"
+            },
+            {
+                "title": "Nugasewana | මුළුතැන්ගෙය - චව් චව් සහ කොත්තමල්ලි සලාදය  | 2022-11-24 |Rupavahini",
+                "url": "https://youtube.com/watch?v=5kpibvGo5ns",
+                "duration": "10:10",
+                "thumbnail": "https://i.ytimg.com/vi/5kpibvGo5ns/hq720.jpg"
+            },
+            {
+                "title": "චව් චව්කොළ සම්බෝලය | Chaw chaw leaves Salad | Chayote leaves recipe | chow chow leaves recipe",
+                "url": "https://youtube.com/watch?v=6wwyXszexA4",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/6wwyXszexA4/hq720.jpg"
+            },
+            {
+                "title": "චව් චව් මේ විදිහට උයලා තියෙනවාද|chow chow curry #chowchow#villagefoodrecipe",
+                "url": "https://youtube.com/watch?v=zOuwcf2lGns",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/zOuwcf2lGns/hq720.jpg"
+            },
+            {
+                "title": "පිස්සු හැදෙන චව්-චව් - Health benefits of Chayote",
+                "url": "https://youtube.com/watch?v=8vS7OWZySQ4",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/8vS7OWZySQ4/frame0.jpg"
+            },
+            {
+                "title": "#Benefits of chayote vegetable#chow chow benefits#yt shorts🥦🥬🥒👍",
+                "url": "https://youtube.com/watch?v=pibyAhbi0rQ",
+                "duration": "0:10",
+                "thumbnail": "https://i.ytimg.com/vi/pibyAhbi0rQ/hq720.jpg"
+            },
+            {
+                "title": "පිස්සු හැදෙන චව්-චව් - Health benefits of Chayote",
+                "url": "https://youtube.com/watch?v=emc6PlJbRBg",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/emc6PlJbRBg/frame0.jpg"
+            },
+            {
+                "title": "චව් දලු මැල්ලුමක් හදමු #chaw dalu melluma💕 by my recipe 💕",
+                "url": "https://youtube.com/watch?v=sJUoFGAJGiw",
+                "duration": "7:05",
+                "thumbnail": "https://i.ytimg.com/vi/sJUoFGAJGiw/hqdefault.jpg"
+            },
+            {
+                "title": "චව් ටිකක් තම්බ‍ා ගමු / Chow Chow for blood pressure #srilanka #village #villagefood #viral #chowchow",
+                "url": "https://youtube.com/watch?v=5WJ-0SDPnb0",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/5WJ-0SDPnb0/hq720.jpg"
+            },
+            {
+                "title": "පිස්සු හැදෙන චව්-චව් - Health benefits of Chayote",
+                "url": "https://youtube.com/watch?v=6ZwFQ9BxDOY",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/6ZwFQ9BxDOY/frame0.jpg"
+            },
+            {
+                "title": "එළවළු ගිනි ගණන් කාලේ හැමදාම කෑවත් පාඩු නැති චව් චව් රසට උයමු (Amazing chayote )earth's gift#chayote#",
+                "url": "https://youtube.com/watch?v=d23h_BSedNM",
+                "duration": "6:18",
+                "thumbnail": "https://i.ytimg.com/vi/d23h_BSedNM/hq720.jpg"
+            },
+            {
+                "title": "මේ විදියට මසාලා  හදලා චව් චව් කරිය හදලා තියෙනවද",
+                "url": "https://youtube.com/watch?v=OigBUSPyzfA",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/OigBUSPyzfA/hq720.jpg"
+            },
+            {
+                "title": "6 Health Benefits Of Chayote Squash/Chow Chow",
+                "url": "https://youtube.com/watch?v=vemtSQBJfuM",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/vemtSQBJfuM/hq720.jpg"
+            },
+            {
+                "title": "Chow Chow vegetable cultivation and health benefits by Siva Subramanian",
+                "url": "https://youtube.com/watch?v=ZGf9eUOfHWM",
+                "duration": "6:15",
+                "thumbnail": "https://i.ytimg.com/vi/ZGf9eUOfHWM/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Suppurating Boils",
-      "sinhala": "ගෙඩි පැසවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits",
-    "Leaves",
-    "Tuber",
-    "Stem"
-  ],
-  "images": [
-    {
-      "image_id": "836",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/5Wcbjp3S/plant00373-00836.jpg"
-    },
-    {
-      "image_id": "837",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/jPXdmN9P/plant00373-00837.jpg"
-    },
-    {
-      "image_id": "838",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/gb9HqmQg/plant00373-00838.jpg"
-    },
-    {
-      "image_id": "3542",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/zWg3RZFr/plant00373-03542.jpg"
-    },
-    {
-      "image_id": "3543",
-      "caption": "Leaf Buds (PMR)",
-      "url": "https://i.ibb.co/SD6XdS1T/plant00373-03543.jpg"
-    },
-    {
-      "image_id": "3544",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/wZPjQhNd/plant00373-03544.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

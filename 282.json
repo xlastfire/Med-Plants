@@ -1,147 +1,608 @@
 {
-  "scientificName": "Capparis zeylanica L.",
-  "synonyms": [
-    "Capparis acuminata Roxb.",
-    "Capparis aeylanica Roxb.",
-    "Capparis aurantioides C.Presl",
-    "Capparis crassifolia Kurz",
-    "Capparis dealbata DC.",
-    "Capparis erythrodasys Miq.",
-    "Capparis hastigera Hance",
-    "Capparis hastigera var. obcordata Merr. & F.P.Metcalf",
-    "Capparis horrida L.f.",
-    "Capparis horrida var. erythrodasys (Miq.) Miq.",
-    "Capparis horrida var. paniculata Gagnep.",
-    "Capparis latifolia Craib",
-    "Capparis linearis Blanco",
-    "Capparis myrioneura var. latifolia Hallier f.",
-    "Capparis nemorosa Blanco",
-    "Capparis ovalifolia Zipp. ex Miq.",
-    "Capparis polymorpha Kurz",
-    "Capparis quadriflora DC.",
-    "Capparis rufescens Turcz.",
-    "Capparis subhorrida Craib",
-    "Capparis swinhoii Hance",
-    "Capparis terniflora DC.",
-    "Capparis wightiana Wall.",
-    "Capparis xanthophylla Collett & Hemsl.",
-    "Capparis zeylanica var. pubipetala S.Y.Liu, X.Q.Ning & Y.F.Tan"
-  ],
-  "familyName": "CAPPARACEAE",
-  "englishNames": [
-    "Indian Caper",
-    "Ceylon Caper"
-  ],
-  "sinhalaName": "Kalu wellangiriya (කළු වෙල්ලන්ගිරිය )",
-  "description": "මීටර් 0.75 - 10 ක් උසැති පඳුරකි. පත්‍ර අර්ධ සම්භවයක් ඇති (subcoriaceous); පත්‍ර තලය 3.75 - 11 X (1.25 -) 1.75 - 4.5 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, බිත්තරාකාර-ඉලිප්සාකාර (ovate-elliptic) හෝ බිත්තරාකාර-លාන්සාකාර (ovate-lanceolate) හැඩයක් ගනී. පත්‍ර අග්‍රය උල් වූ (acute) හෝ වටකුරු-මොට (rounded-obtuse) වන අතර, බොහෝ විට මිලිමීටර් 3 ක් දක්වා දිගැති තද අග්‍රස්ථ කටුවක් (mucro) පිහිටයි. පත්‍ර පාදය වටකුරු වන අතර සමහර විට අපැහැදිලි ලෙස හෘදයාකාර (subcordate) වේ. පත්‍ර මතුපිට රෝම සහිත (pubescent) වුවද ඉක්මනින් රෝම හැලී සිනිඳු (glabrescent) වී දිලිසෙන සුළු වේ; යටි පැත්තේ රෝම දිගු කලක් පැවතිය හැක. මල් සුදු පැහැතිය, ඉහළ පෙති යුගලයේ පාදය කහ පැහැති වන අතර වයසට යත්ම රතු-දම් පැහැයට හැරේ. පලතුරු ඉදුණු විට රතු, තැඹිලි හෝ දම් පැහැ ගනී.",
-  "treatments": [
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Capparis zeylanica L.",
+    "synonyms": [
+        "Capparis acuminata Roxb.",
+        "Capparis aeylanica Roxb.",
+        "Capparis aurantioides C.Presl",
+        "Capparis crassifolia Kurz",
+        "Capparis dealbata DC.",
+        "Capparis erythrodasys Miq.",
+        "Capparis hastigera Hance",
+        "Capparis hastigera var. obcordata Merr. & F.P.Metcalf",
+        "Capparis horrida L.f.",
+        "Capparis horrida var. erythrodasys (Miq.) Miq.",
+        "Capparis horrida var. paniculata Gagnep.",
+        "Capparis latifolia Craib",
+        "Capparis linearis Blanco",
+        "Capparis myrioneura var. latifolia Hallier f.",
+        "Capparis nemorosa Blanco",
+        "Capparis ovalifolia Zipp. ex Miq.",
+        "Capparis polymorpha Kurz",
+        "Capparis quadriflora DC.",
+        "Capparis rufescens Turcz.",
+        "Capparis subhorrida Craib",
+        "Capparis swinhoii Hance",
+        "Capparis terniflora DC.",
+        "Capparis wightiana Wall.",
+        "Capparis xanthophylla Collett & Hemsl.",
+        "Capparis zeylanica var. pubipetala S.Y.Liu, X.Q.Ning & Y.F.Tan"
+    ],
+    "familyName": "CAPPARACEAE",
+    "englishNames": [
+        "Indian Caper",
+        "Ceylon Caper"
+    ],
+    "sinhalaName": "Kalu wellangiriya (කළු වෙල්ලන්ගිරිය )",
+    "description": "මීටර් 0.75 - 10 ක් උසැති පඳුරකි. පත්‍ර අර්ධ සම්භවයක් ඇති (subcoriaceous); පත්‍ර තලය 3.75 - 11 X (1.25 -) 1.75 - 4.5 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, බිත්තරාකාර-ඉලිප්සාකාර (ovate-elliptic) හෝ බිත්තරාකාර-លාන්සාකාර (ovate-lanceolate) හැඩයක් ගනී. පත්‍ර අග්‍රය උල් වූ (acute) හෝ වටකුරු-මොට (rounded-obtuse) වන අතර, බොහෝ විට මිලිමීටර් 3 ක් දක්වා දිගැති තද අග්‍රස්ථ කටුවක් (mucro) පිහිටයි. පත්‍ර පාදය වටකුරු වන අතර සමහර විට අපැහැදිලි ලෙස හෘදයාකාර (subcordate) වේ. පත්‍ර මතුපිට රෝම සහිත (pubescent) වුවද ඉක්මනින් රෝම හැලී සිනිඳු (glabrescent) වී දිලිසෙන සුළු වේ; යටි පැත්තේ රෝම දිගු කලක් පැවතිය හැක. මල් සුදු පැහැතිය, ඉහළ පෙති යුගලයේ පාදය කහ පැහැති වන අතර වයසට යත්ම රතු-දම් පැහැයට හැරේ. පලතුරු ඉදුණු විට රතු, තැඹිලි හෝ දම් පැහැ ගනී.",
+    "treatments": [
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Syphilis",
+            "sinhala": "උපදංශය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Gastritis",
+            "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Vomiting",
+            "sinhala": "වමනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cholera",
+            "sinhala": "කොලරාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Root",
+        "Bark"
+    ],
+    "images": [
+        {
+            "image_id": "2913",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/xqJzntNk/plant00282-02913.jpg"
+        },
+        {
+            "image_id": "2914",
+            "caption": "Flower 1 (PMR)",
+            "url": "https://i.ibb.co/x9BMZZ2/plant00282-02914.jpg"
+        },
+        {
+            "image_id": "2915",
+            "caption": "Flower 2 (PMR)",
+            "url": "https://i.ibb.co/PGMF0TqD/plant00282-02915.jpg"
+        },
+        {
+            "image_id": "2916",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/Q35zQJ4J/plant00282-02916.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "වෙල්ලන්ගිරිද? යකාබැදි වැල් ද? ඒ දෙකම නෙවේද?",
+                "url": "https://youtube.com/watch?v=9_2_X8eGAMY",
+                "duration": "5:42",
+                "thumbnail": "https://i.ytimg.com/vi/9_2_X8eGAMY/hq720.jpg"
+            },
+            {
+                "title": "\" කැලේ හැදෙන ලස්සන වැලක් \" / A medicinal plant that grows in the forest @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=rME6x2nqyQw",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/rME6x2nqyQw/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "KALU WELLA - කළු වැල්ල | දහඅටවන කොටස | 2025-11- 14 | BIYA PRODUCTION",
+                "url": "https://youtube.com/watch?v=5oV8irs42ZY",
+                "duration": "19:34",
+                "thumbnail": "https://i.ytimg.com/vi/5oV8irs42ZY/hq720.jpg"
+            },
+            {
+                "title": "KALU WELLA - කළු වැල්ල | දොළොස්වන කොටස | 2025-10-03 | BIYA PRODUCTION",
+                "url": "https://youtube.com/watch?v=xWrjz3gZuqQ",
+                "duration": "17:00",
+                "thumbnail": "https://i.ytimg.com/vi/xWrjz3gZuqQ/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යලෝකයට යන පාර.. කලු පහන | Travel with Chatura Beragala",
+                "url": "https://youtube.com/watch?v=zncqj1peZE0",
+                "duration": "26:08",
+                "thumbnail": "https://i.ytimg.com/vi/zncqj1peZE0/hq720.jpg"
+            },
+            {
+                "title": "KALU WELLA - කළු වැල්ල | දහතුන් වන කොටස | 2025-10-10 | BIYA PRODUCTION",
+                "url": "https://youtube.com/watch?v=81efZYw-Xak",
+                "duration": "15:37",
+                "thumbnail": "https://i.ytimg.com/vi/81efZYw-Xak/hq720.jpg"
+            },
+            {
+                "title": "KALU WELLA - කළු වැල්ල | දහහතර වන කොටස | 2025-10-18 | BIYA PRODUCTION",
+                "url": "https://youtube.com/watch?v=eo2T136Jhvg",
+                "duration": "16:56",
+                "thumbnail": "https://i.ytimg.com/vi/eo2T136Jhvg/hqdefault.jpg"
+            },
+            {
+                "title": "KALU WELLA - කළු වැල්ල | දහසයවන කොටස | 2025-10- 31 | BIYA PRODUCTION",
+                "url": "https://youtube.com/watch?v=T74yj6Jw8kY",
+                "duration": "16:30",
+                "thumbnail": "https://i.ytimg.com/vi/T74yj6Jw8kY/hqdefault.jpg"
+            },
+            {
+                "title": "කලු නික සොයා ගිය ගමන | මොනවද මේ කලු නික | Kalu Nika",
+                "url": "https://youtube.com/watch?v=cvJp3hcaLBI",
+                "duration": "8:28",
+                "thumbnail": "https://i.ytimg.com/vi/cvJp3hcaLBI/hq720.jpg"
+            },
+            {
+                "title": "KALU WELLA - කළු වැල්ල ට මොකද වෙන්නේ..?",
+                "url": "https://youtube.com/watch?v=mHN_mVZZErM",
+                "duration": "20:22",
+                "thumbnail": "https://i.ytimg.com/vi/mHN_mVZZErM/hq720.jpg"
+            },
+            {
+                "title": "KALU WELLA - කළු වැල්ල | පහළොස් වන කොටස | 2025-10- 24 | BIYA PRODUCTION",
+                "url": "https://youtube.com/watch?v=_q2TuaP0zAY",
+                "duration": "15:27",
+                "thumbnail": "https://i.ytimg.com/vi/_q2TuaP0zAY/hq720.jpg"
+            },
+            {
+                "title": "KALU WELLA - කළු වැල්ල | දහවන කොටස | 2025-09-19 | BIYA PRODUCTION",
+                "url": "https://youtube.com/watch?v=F18S3kw-3z0",
+                "duration": "22:28",
+                "thumbnail": "https://i.ytimg.com/vi/F18S3kw-3z0/hq720.jpg"
+            },
+            {
+                "title": "🇱🇰 ඉංගිරියේ සැඟවුණු \"කළු වල\" අභිරහස සහ ඇල්ල දේවාලය | Ingiriya Kalu Wala & Ella Devalaya Vlog",
+                "url": "https://youtube.com/watch?v=m6tITZvbH5g",
+                "duration": "15:08",
+                "thumbnail": "https://i.ytimg.com/vi/m6tITZvbH5g/hq720.jpg"
+            },
+            {
+                "title": "KALU WELLA - කළු වැල්ල | නවවන කොටස | 2025-09-05 | BIYA PRODUCTION",
+                "url": "https://youtube.com/watch?v=_RfkTQh6mNU",
+                "duration": "22:19",
+                "thumbnail": "https://i.ytimg.com/vi/_RfkTQh6mNU/hq720.jpg"
+            },
+            {
+                "title": "KALU WELLA - කළු වැල්ල | හත්වන කොටස | 2025-08-15 | BIYA PRODUCTION",
+                "url": "https://youtube.com/watch?v=5yc2mXmOyfE",
+                "duration": "20:30",
+                "thumbnail": "https://i.ytimg.com/vi/5yc2mXmOyfE/hq720.jpg"
+            },
+            {
+                "title": "Rividina Arunella - කළු රත්තරං ටැංකියකින් ඔබට අමතර අදායමක් | 2022-01-23 | Agriculture Programme",
+                "url": "https://youtube.com/watch?v=O-ff8Ki6A_c",
+                "duration": "25:45",
+                "thumbnail": "https://i.ytimg.com/vi/O-ff8Ki6A_c/hq720.jpg"
+            },
+            {
+                "title": "කළු වැල්ලේ ගැටුම් නම් ඉවරක් නෑ | KALU WELLA - කළු වැල්ල || BIYA PRODUCTION",
+                "url": "https://youtube.com/watch?v=7bSiI3EpPzw",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/7bSiI3EpPzw/hq720.jpg"
+            },
+            {
+                "title": "කළු ජගුවර් කියන්නෙත් අපිටමද - Black Jaguar: A Powerful Lesson for Us All",
+                "url": "https://youtube.com/watch?v=ESH4L2BIK3I",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/ESH4L2BIK3I/hq720.jpg"
+            },
+            {
+                "title": "KALU WELLA - කළු වැල්ල | හයවන කොටස | 2025-08-08 | BIYA PRODUCTION",
+                "url": "https://youtube.com/watch?v=JKLjEV15tPY",
+                "duration": "15:05",
+                "thumbnail": "https://i.ytimg.com/vi/JKLjEV15tPY/hq720.jpg"
+            },
+            {
+                "title": "ඔබ දන්නවාද සර්ප විස ඇතුළු සියලු විස ශරීරයෙන් ඉවත් කිරීමේ හැකියාව කළු හීනටි වලට ඇත...",
+                "url": "https://youtube.com/watch?v=Xp3LMZn6ET0",
+                "duration": "7:38",
+                "thumbnail": "https://i.ytimg.com/vi/Xp3LMZn6ET0/hq720.jpg"
+            },
+            {
+                "title": "කලුකම්බේරිය | ප්‍රණීත මැල්ලුමක් | මහා ඖෂධයක් | kalukammeriya | Night shade | Herb for sleep disorder",
+                "url": "https://youtube.com/watch?v=tpcurgm_cbk",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/tpcurgm_cbk/hq720.jpg"
+            },
+            {
+                "title": "සෑම උදෑසනකම කරපිංචා කොළයක් හැපුවොත් ඔබේ ශරීරයට සිදුවන පුදුම දේවල් 8ක් | 8 benefits of curry leaves.",
+                "url": "https://youtube.com/watch?v=S9j0qyXZ5G4",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/S9j0qyXZ5G4/hq720.jpg"
+            },
+            {
+                "title": "Kadukamberiya |කඩුකම්බේරියා | ලේ වඩන ඔසු | osu-ඔසු",
+                "url": "https://youtube.com/watch?v=FxjYd4HaAik",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/FxjYd4HaAik/hqdefault.jpg"
+            },
+            {
+                "title": "කලුකැම්මේරිය විශ්මිත ගුණ , රෝග රැසකට එක් ඔසුවක්.",
+                "url": "https://youtube.com/watch?v=CmQImWwL4Hw",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/CmQImWwL4Hw/hq720.jpg"
+            },
+            {
+                "title": "සුදු කොන්ඩෙ කලු වෙනවා සතියෙන් _ඔයාලටත් ඕනෙද | thuru TV",
+                "url": "https://youtube.com/watch?v=a7YFHsWbVlk",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/a7YFHsWbVlk/hqdefault.jpg"
+            },
+            {
+                "title": "දණහිස් අමාරුව සුවකළ හැකි මේ වල්පැලෑටිය ගැන ඔබ දැනුවත් ද | දිය මෙනේරිය | Commalina benghalensis",
+                "url": "https://youtube.com/watch?v=ZiDyEm5o2tc",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/ZiDyEm5o2tc/hqdefault.jpg"
+            },
+            {
+                "title": "ප්‍රතිශක්තිය වඩවා මාරාන්තික රෝගවලින් අප ආරක්ෂා කරන විශ්මිත කළුදුරු - Episode 1",
+                "url": "https://youtube.com/watch?v=vCWCBBCYruc",
+                "duration": "29:58",
+                "thumbnail": "https://i.ytimg.com/vi/vCWCBBCYruc/hq720.jpg"
+            },
+            {
+                "title": "කළු කිරින්චි එළිය කරන රහස ඇත්තක්ද? 🤔 බොහෝ දෙනා නොදන්න සත්‍යය!",
+                "url": "https://youtube.com/watch?v=FcDSssZKaIQ",
+                "duration": "5:57",
+                "thumbnail": "https://i.ytimg.com/vi/FcDSssZKaIQ/hq720.jpg"
+            },
+            {
+                "title": "කාන්තාවන් බැලිය යුතුම #The blue avaria plant කොන්ඩෙ කළු කරන නිල් අවරිය #black  hair",
+                "url": "https://youtube.com/watch?v=hdXs_GcNz-E",
+                "duration": "6:59",
+                "thumbnail": "https://i.ytimg.com/vi/hdXs_GcNz-E/hq720.jpg"
+            },
+            {
+                "title": "කුෂ්ඨ රෝග, උන්මාද රෝග, ස්වසන රෝග ඇතුළු රෝග රැසකට ගුණ කලුකම්බේරිය",
+                "url": "https://youtube.com/watch?v=WWpQhhoWD1g",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/WWpQhhoWD1g/hq720.jpg"
+            },
+            {
+                "title": "කලුදුරු ගැන ඔබ නොදත් කරුණු | Black Seed වල පුදුම ප්‍රයෝජන | Ayurveda Sinhala",
+                "url": "https://youtube.com/watch?v=SRzolPwAxA8",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/SRzolPwAxA8/hq720.jpg"
+            },
+            {
+                "title": "සුදු කෙස් කළු කරන , පනු රෝග නසන විශිෂ්ඨ ඔසුව | Nil Awariya | Ceylon Agri | Episode 163",
+                "url": "https://youtube.com/watch?v=-DhDGVr-ixg",
+                "duration": "11:15",
+                "thumbnail": "https://i.ytimg.com/vi/-DhDGVr-ixg/hq720.jpg"
+            },
+            {
+                "title": "කලු ගල් දිය කිරීම සහ හෙල රහස් | Professor Paranagama Rathnayaka",
+                "url": "https://youtube.com/watch?v=dIsmW_OfR-E",
+                "duration": "33:04",
+                "thumbnail": "https://i.ytimg.com/vi/dIsmW_OfR-E/hqdefault.jpg"
+            },
+            {
+                "title": "මේ කලු ශක්තිය සහ කලු කිරන කියන්නේ මොනවද ? වරම් වලට සහ ලෙඩ රොග වලට මේවා බලපාන්නේ කෙසෙද ?",
+                "url": "https://youtube.com/watch?v=IkWoIUW2Vyc",
+                "duration": "17:28",
+                "thumbnail": "https://i.ytimg.com/vi/IkWoIUW2Vyc/hq720.jpg"
+            },
+            {
+                "title": "කලුපුස් රෝගය /පොට් එකේ කලු ගැටිති රෝගය /Aspagilas fungus/Black mold fungus/ bimmal roga/කලු පුල්ලි",
+                "url": "https://youtube.com/watch?v=cUV_f9yobZE",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/cUV_f9yobZE/hq720.jpg"
+            },
+            {
+                "title": "ගෙදර මිදුලෙ මේවා තියනවා සුදු කොන්ඩෙ කලු වෙනවා සති දෙකෙන්|thuru tv.",
+                "url": "https://youtube.com/watch?v=MCP6G2V182U",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/MCP6G2V182U/hqdefault.jpg"
+            },
+            {
+                "title": "100 Ayurveda plant’s  in Srilanka",
+                "url": "https://youtube.com/watch?v=cm1yVeiu5dU",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/cm1yVeiu5dU/hqdefault.jpg"
+            },
+            {
+                "title": "මේ ගසේ කොළ ටිකක් කුඩු කරලා කෑවෙත් දියවැඩියාව සදහටම මට්ටුයි! - ඇගේ පටස් ගාලා ක්ෂණිකව සීනි බහිනවා!",
+                "url": "https://youtube.com/watch?v=juTMsxstz7k",
+                "duration": "23:43",
+                "thumbnail": "https://i.ytimg.com/vi/juTMsxstz7k/hq720.jpg"
+            },
+            {
+                "title": "කළුබෝවිල තත්ත්වය - බෙහෙත් හොයන් ආව මිනිස්සු හිත පත්ලෙම වේදනාව පිටදායි.",
+                "url": "https://youtube.com/watch?v=zw-3z4C_e3Y",
+                "duration": "6:08",
+                "thumbnail": "https://i.ytimg.com/vi/zw-3z4C_e3Y/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රැසක් ඇති කලු කම්බේරියා මැල්ලුම | Kalukamberiya #kalu_kamberiya #healthy",
+                "url": "https://youtube.com/watch?v=9Fh0qU0vG9E",
+                "duration": "6:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Fh0qU0vG9E/hqdefault.jpg"
+            },
+            {
+                "title": "කලුකම්බේරිය , තැම්බේරිය , කෙම්බේරිය , kalukamberiya , #herbs #nature #medicinalherbs #education",
+                "url": "https://youtube.com/watch?v=LcZ2C8zdbpk",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/LcZ2C8zdbpk/hq720.jpg"
+            },
+            {
+                "title": "#මරණය හැර සියලු රෝග නසන කලුදුරු වල විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=KhtNIppzkJ8",
+                "duration": "10:14",
+                "thumbnail": "https://i.ytimg.com/vi/KhtNIppzkJ8/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට සුවය ගෙනෙන කළුදුරු ගැන දැනගන හිටියද? - #Health #Skin #Hair - Black Seed Benefits",
+                "url": "https://youtube.com/watch?v=gubESj8JCSY",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/gubESj8JCSY/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටවල ඖෂධීය ගුණ : Health benefits of Venivelgeta",
+                "url": "https://youtube.com/watch?v=B_GgVEA1A7U",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/B_GgVEA1A7U/hq720.jpg"
+            },
+            {
+                "title": "තරුණ කාලෙදිම කොන්ඩේ සුදු වෙනවා නම් ගෙදරදීම කළු කරගන්න විශ්මිත බෙහෙත් වට්ටෝරුවක්",
+                "url": "https://youtube.com/watch?v=fGgTppRWLbQ",
+                "duration": "1:41",
+                "thumbnail": "https://i.ytimg.com/vi/fGgTppRWLbQ/hq720.jpg"
+            },
+            {
+                "title": "රෝග ගනනාවකට සුව දෙන කලු උග්ගස් කොල කැද",
+                "url": "https://youtube.com/watch?v=yKE6IOeCK5E",
+                "duration": "13:18",
+                "thumbnail": "https://i.ytimg.com/vi/yKE6IOeCK5E/hqdefault.jpg"
+            },
+            {
+                "title": "කළු දිලීරය උග්‍ර කරපු ඖෂධ අධි භාවිතය. | Overuse of Drugs is Fatal for Black Fungus.",
+                "url": "https://youtube.com/watch?v=gUEKX0kdsvg",
+                "duration": "8:20",
+                "thumbnail": "https://i.ytimg.com/vi/gUEKX0kdsvg/hq720.jpg"
+            },
+            {
+                "title": "kaluduru/ම.ර.ණ.ය හැර අනිකුත් ලෙඩ සුව කරන විශ්මිත කලුදුරු/Black seeds",
+                "url": "https://youtube.com/watch?v=a0FdfYQgJ8A",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/a0FdfYQgJ8A/hqdefault.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "කළු කුහරයක් ඇතුළට වැටුණොත් මිනිස් සිරුරට සිදුවන පුදුම හිතෙන දෙය | Can You Survive A Black Hole?",
+                "url": "https://youtube.com/watch?v=_2vO--lbMVc",
+                "duration": "12:06",
+                "thumbnail": "https://i.ytimg.com/vi/_2vO--lbMVc/hq720.jpg"
+            },
+            {
+                "title": "මිල අධික කලු කහ දැකලා තියනවද? ඖෂධීය ගුණ පිරි Black Turmeric | Ceylon Agri Episode 451",
+                "url": "https://youtube.com/watch?v=gS-yL8vEQH8",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/gS-yL8vEQH8/hq720.jpg"
+            },
+            {
+                "title": "කලු උක්  කන්න දෙපාරක් හිතන්න එපා @vg.nn.4504",
+                "url": "https://youtube.com/watch?v=rm4uOa5tQxk",
+                "duration": "1:39",
+                "thumbnail": "https://i.ytimg.com/vi/rm4uOa5tQxk/hq720.jpg"
+            },
+            {
+                "title": "විද්‍යාඥයෝ  කළු කුහරයක් ඇතුලත ඇති දේ සොයා ගනිති | Astronomers discovered what's inside a black hole",
+                "url": "https://youtube.com/watch?v=5pPZQkgoTnQ",
+                "duration": "8:47",
+                "thumbnail": "https://i.ytimg.com/vi/5pPZQkgoTnQ/hq720.jpg"
+            },
+            {
+                "title": "2026 වසරේ 8ශ්‍රේණියට  විද්‍යාව පන්තිය-06/04",
+                "url": "https://youtube.com/watch?v=Jn93eIEDlpA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/Jn93eIEDlpA/hq720.jpg"
+            },
+            {
+                "title": "අකලට හිසකෙස් පැසීම නවත්වලා සුදු කෙස් කළු කරන රහස් අත්බෙහෙත | Grey Hair Remedy Sinhala",
+                "url": "https://youtube.com/watch?v=HeW2ksSYQ60",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/HeW2ksSYQ60/hq720.jpg"
+            },
+            {
+                "title": "විද්‍යාත්මකව තහවුරු කල කලදුරු සතු ගුන 7 ක් | Benefits of Black Seed Oil",
+                "url": "https://youtube.com/watch?v=0frrjXQcLW0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/0frrjXQcLW0/hqdefault.jpg"
+            },
+            {
+                "title": "මේ කළුදුරු තෙල් එක ගෙදර හදලා ගාන්න | බලන් ඉදිදි කොණ්ඩේ වැවෙනවා | දින කිහිපයකින් ඔබටම පුදුම හිතේවි",
+                "url": "https://youtube.com/watch?v=fR2OuEy0tCE",
+                "duration": "19:23",
+                "thumbnail": "https://i.ytimg.com/vi/fR2OuEy0tCE/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=MBR3AVmcWqw",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/MBR3AVmcWqw/hq720.jpg"
+            },
+            {
+                "title": "කලුනික ගැන කතා කරමු | නික වල විශේෂිත ගුණ මොනවද? | KaluNika | Kalu Nika Sinhala | Nika",
+                "url": "https://youtube.com/watch?v=woAYwcZcVi0",
+                "duration": "13:06",
+                "thumbnail": "https://i.ytimg.com/vi/woAYwcZcVi0/hq720.jpg"
+            },
+            {
+                "title": "කලුකම්බේරිය ☘️|| Blackberry Nightshade 🫐 #blackberry #blackberrynightshade #herb #goodsleep #forgood",
+                "url": "https://youtube.com/watch?v=wO1Ln8zWhKs",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/wO1Ln8zWhKs/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් - තිත්ත වැල් \"කොහොමද හොයන්නේ \" / Herbal Plants - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=e37sZqGCbfM",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/e37sZqGCbfM/hq720.jpg"
+            },
+            {
+                "title": "කෙස් කළු කරගන්න සරල ක්‍රමය! natural hair dye",
+                "url": "https://youtube.com/watch?v=NkB3HZO84FI",
+                "duration": "7:54",
+                "thumbnail": "https://i.ytimg.com/vi/NkB3HZO84FI/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල්ගැට හරියටම අදුර ගමු weniwalgata plants False Calumba Ceylon",
+                "url": "https://youtube.com/watch?v=983e1ZErnfM",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/983e1ZErnfM/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂ ශක්තිය වඩවන වැල් පෙණල කොළ කැඳ - Herbal Plants Of Sri Lanka Wel Penela Juice",
+                "url": "https://youtube.com/watch?v=sRWYctWfRjE",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/sRWYctWfRjE/hq720.jpg"
+            },
+            {
+                "title": "ඔබ දැනගතම යුතු,තුන් දොස් නසන අරුම පුදුම පැළෑටිය,තැම්බේරියා|කලු කම්බේරියා, blacknightshade|sunberry",
+                "url": "https://youtube.com/watch?v=mHxW89az4Vw",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/mHxW89az4Vw/hq720.jpg"
+            },
+            {
+                "title": "කම්බිලි වරම් දේව කන්නලව්ව|කළු කම්බිලි දෙවියෝ|Dewa adahili",
+                "url": "https://youtube.com/watch?v=k3Hph07iGuw",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/k3Hph07iGuw/hq720.jpg"
+            },
+            {
+                "title": "සැඩ කප්පර කලු කම්බිලි දෙවි අනුහ්ස් ඇති පුරාණ කෝල් මුර දේශනය අසා දොස් දුරු කරමු",
+                "url": "https://youtube.com/watch?v=IpE6ZpKKcbA",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/IpE6ZpKKcbA/hqdefault.jpg"
+            },
+            {
+                "title": "කාලිගේ අනාවැකිය.. | මුතුගල මහ ඇමති පුටුවට..?  |Dinesh Muthugala | Episode 455",
+                "url": "https://youtube.com/watch?v=2GNiuSoLLl8",
+                "duration": "12:24",
+                "thumbnail": "https://i.ytimg.com/vi/2GNiuSoLLl8/hq720.jpg"
+            },
+            {
+                "title": "ජවය ශක්තිය සපිරි කොල්ලු පානය - වෛද්‍ය සුසීමා සේනානායක",
+                "url": "https://youtube.com/watch?v=BBlufzuvZvw",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/BBlufzuvZvw/hq720.jpg"
+            },
+            {
+                "title": "කළුදුරු උලුහල් තේ මිශ්‍රණය  |දියවදියවද? තෙල් තැම්පත් වෙලාද ? chef silva හදන තේ එක පානය කරලා බලන්න",
+                "url": "https://youtube.com/watch?v=Q05ziNTUkIM",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/Q05ziNTUkIM/hq720.jpg"
+            },
+            {
+                "title": "එනසාල් සහ කරාබු නැටි එදිනෙදා රෝගවලට : Cardamom and Cloves for daily issues (NEW) 2019",
+                "url": "https://youtube.com/watch?v=hJGKH0qppPs",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/hJGKH0qppPs/hq720.jpg"
+            },
+            {
+                "title": "Black Seed Tea | kaluduru Tea |සියලුරෝග නසන දිව්‍යමය ඔසුවෙන් ( අශිර්වාදයලද් අැට) කළුදුරු පානය",
+                "url": "https://youtube.com/watch?v=_xRbrWrXPJE",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/_xRbrWrXPJE/hq720.jpg"
+            },
+            {
+                "title": "Black Seed - Powerful Ayurvedic Medicine   - කලුදුරු භාවිතා කරන විදි  கருஞ்சீரகம்",
+                "url": "https://youtube.com/watch?v=6m9_T_90Gr0",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/6m9_T_90Gr0/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Syphilis",
-      "sinhala": "උපදංශය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Gastritis",
-      "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Vomiting",
-      "sinhala": "වමනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cholera",
-      "sinhala": "කොලරාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Root",
-    "Bark"
-  ],
-  "images": [
-    {
-      "image_id": "2913",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/xqJzntNk/plant00282-02913.jpg"
-    },
-    {
-      "image_id": "2914",
-      "caption": "Flower 1 (PMR)",
-      "url": "https://i.ibb.co/x9BMZZ2/plant00282-02914.jpg"
-    },
-    {
-      "image_id": "2915",
-      "caption": "Flower 2 (PMR)",
-      "url": "https://i.ibb.co/PGMF0TqD/plant00282-02915.jpg"
-    },
-    {
-      "image_id": "2916",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/Q35zQJ4J/plant00282-02916.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

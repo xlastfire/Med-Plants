@@ -1,228 +1,515 @@
 {
-  "scientificName": "Cyanthillium cinereum (L.) H.Rob.",
-  "synonyms": [
-    "Blumea chinensis (L.) DC.",
-    "Blumea esquirolii H.Lév. & Vaniot",
-    "Cacalia cinerea (L.) Kuntze",
-    "Cacalia erigerodes Kuntze",
-    "Cacalia exilis Kuntze",
-    "Cacalia kroneana Kuntze",
-    "Cacalia rotundifolia Willd.",
-    "Calea cordata Lour.",
-    "Centratherum chinense (L.) Less.",
-    "Chrysocoma violacea Schumach. & Thonn.",
-    "Cineraria glaberrima Spreng. ex DC.",
-    "Conyza abbreviata Wall.",
-    "Conyza bellidifolia Wall.",
-    "Conyza chinensis L.",
-    "Conyza cinerascens Wall.",
-    "Conyza cinerea L.",
-    "Conyza elegantula Wall.",
-    "Conyza heterophylla Lam.",
-    "Conyza incana B.Heyne ex DC.",
-    "Conyza incana Wall.",
-    "Conyza ivifolia Burm.f.",
-    "Conyza mollis Willd.",
-    "Conyza prolifera Lam.",
-    "Crassocephalum flatmense Hochst. & Steud. ex DC.",
-    "Cyanopis erigeroides DC.",
-    "Cyanopsis decurrens Zoll. & Moritzi",
-    "Cyanthillium chinense (L.) Gleason",
-    "Cyanthillium cinereum var. ovatum Isawumi",
-    "Erigeron pisonis Burm.f.",
-    "Eupatorium arboreum Reinw. ex de Vriese",
-    "Eupatorium myosotifolium Jacq.",
-    "Isomeria chinensis Wight ex DC.",
-    "Isomeria cinerea Wight ex DC.",
-    "Leveillea chinensis Vaniot",
-    "Monosis elaeagnoides Kunth",
-    "Musteron bellidifolum Raf.",
-    "Placus chinensis Baill.",
-    "Placus chinensis Kuntze",
-    "Seneciodes cinereum (L.) Kuntze",
-    "Serratula cinerea (L.) Roxb.",
-    "Vernonia abbreviata DC.",
-    "Vernonia apocynifolia Baker",
-    "Vernonia betonicifolia Baker",
-    "Vernonia cinerea (L.) Less.",
-    "Vernonia cinerea subsp. vialis (DC.) Humbert",
-    "Vernonia cinerea var. erigeroides (DC.) Domin",
-    "Vernonia cinerea var. lentii (Volkens & O.Hoffm.) C.Jeffrey",
-    "Vernonia cinerea var. montana C.B.Clarke",
-    "Vernonia cinerea var. parviflora (Reinw. ex Blume) DC.",
-    "Vernonia cinerea var. vialis (DC.) R.Vig. & Humbert",
-    "Vernonia cyanonioides",
-    "Vernonia cyanonioides Walp.",
-    "Vernonia dendigulensis DC.",
-    "Vernonia diffusa Decne.",
-    "Vernonia erigeroides (DC.) DC.",
-    "Vernonia exilis Miq.",
-    "Vernonia fasciculata Blume",
-    "Vernonia kroneana Miq.",
-    "Vernonia laxiflora Less.",
-    "Vernonia lentii Volkens & O.Hoffm.",
-    "Vernonia leptophylla DC.",
-    "Vernonia parviflora Reinw. ex Blume",
-    "Vernonia physalifolia DC.",
-    "Vernonia rhomboidea Edgew.",
-    "Vernonia vialis DC.",
-    "Vernonia villosa W.Wight",
-    "Vernonia zollingeriana Sch.Bip."
-  ],
-  "familyName": "ASTERACEAE",
-  "englishNames": [
-    "Little Ironweed"
-  ],
-  "sinhalaName": "Monarakudumbiya (මොනරකුඩුම්බිය)",
-  "description": "සෘජු හෝ බිම දිගේ විහිදෙන (decumbent) වාර්ෂික පැළෑටි, උසින් සෙ.මී. (5-) 15-30 ක් වන අතර, සමහර විට මීටර් 1.5 ක් දක්වා උසට වැඩේ. කඳන් තදින් ඇලී පවතින රෝමවලින් (appressed pubescent) යුක්ත වේ. පත්‍ර ඩිම්බාකාර (ovate) වන අතර, පත්‍ර වෘන්ත (petioles) සෙ.මී. 0.5-1.5 ක් දිගය, පත්‍ර තලය සෙ.මී. 2-5 x 1-2 ප්‍රමාණයෙන් යුක්ත වේ. පුෂ්ප මංජරි (capitula) ස්වල්පයක් (3-10) හෝ අග්‍රස්ථ කෝරිම්බ (corymbs) ලෙස බහුලව පිහිටයි. පුෂ්පාවරණය (involucre) මි.මී. 3-4 ක් දිග සහ මි.මී. 2-3 ක විෂ්කම්භයකින් යුක්ත වේ. එක් පුෂ්ප මංජරියක මල් 20-35 ක් පවතී; මල් කිරීටය (corolla) මි.මී. 3-4 ක් දිග, නිල් පැහැයට හුරු දම් පැහැයක් ගන්නා අතර, කලාතුරකින් සුදු පැහැයෙන් යුක්ත වේ. අචීන (achenes) තද දුඹුරු හෝ කළු පැහැතිය. පැපස් (pappus) සුදු පැහැති වන අතර මි.මී. 3-4.5 ක් දිග වේ.",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Cyanthillium cinereum (L.) H.Rob.",
+    "synonyms": [
+        "Blumea chinensis (L.) DC.",
+        "Blumea esquirolii H.Lév. & Vaniot",
+        "Cacalia cinerea (L.) Kuntze",
+        "Cacalia erigerodes Kuntze",
+        "Cacalia exilis Kuntze",
+        "Cacalia kroneana Kuntze",
+        "Cacalia rotundifolia Willd.",
+        "Calea cordata Lour.",
+        "Centratherum chinense (L.) Less.",
+        "Chrysocoma violacea Schumach. & Thonn.",
+        "Cineraria glaberrima Spreng. ex DC.",
+        "Conyza abbreviata Wall.",
+        "Conyza bellidifolia Wall.",
+        "Conyza chinensis L.",
+        "Conyza cinerascens Wall.",
+        "Conyza cinerea L.",
+        "Conyza elegantula Wall.",
+        "Conyza heterophylla Lam.",
+        "Conyza incana B.Heyne ex DC.",
+        "Conyza incana Wall.",
+        "Conyza ivifolia Burm.f.",
+        "Conyza mollis Willd.",
+        "Conyza prolifera Lam.",
+        "Crassocephalum flatmense Hochst. & Steud. ex DC.",
+        "Cyanopis erigeroides DC.",
+        "Cyanopsis decurrens Zoll. & Moritzi",
+        "Cyanthillium chinense (L.) Gleason",
+        "Cyanthillium cinereum var. ovatum Isawumi",
+        "Erigeron pisonis Burm.f.",
+        "Eupatorium arboreum Reinw. ex de Vriese",
+        "Eupatorium myosotifolium Jacq.",
+        "Isomeria chinensis Wight ex DC.",
+        "Isomeria cinerea Wight ex DC.",
+        "Leveillea chinensis Vaniot",
+        "Monosis elaeagnoides Kunth",
+        "Musteron bellidifolum Raf.",
+        "Placus chinensis Baill.",
+        "Placus chinensis Kuntze",
+        "Seneciodes cinereum (L.) Kuntze",
+        "Serratula cinerea (L.) Roxb.",
+        "Vernonia abbreviata DC.",
+        "Vernonia apocynifolia Baker",
+        "Vernonia betonicifolia Baker",
+        "Vernonia cinerea (L.) Less.",
+        "Vernonia cinerea subsp. vialis (DC.) Humbert",
+        "Vernonia cinerea var. erigeroides (DC.) Domin",
+        "Vernonia cinerea var. lentii (Volkens & O.Hoffm.) C.Jeffrey",
+        "Vernonia cinerea var. montana C.B.Clarke",
+        "Vernonia cinerea var. parviflora (Reinw. ex Blume) DC.",
+        "Vernonia cinerea var. vialis (DC.) R.Vig. & Humbert",
+        "Vernonia cyanonioides",
+        "Vernonia cyanonioides Walp.",
+        "Vernonia dendigulensis DC.",
+        "Vernonia diffusa Decne.",
+        "Vernonia erigeroides (DC.) DC.",
+        "Vernonia exilis Miq.",
+        "Vernonia fasciculata Blume",
+        "Vernonia kroneana Miq.",
+        "Vernonia laxiflora Less.",
+        "Vernonia lentii Volkens & O.Hoffm.",
+        "Vernonia leptophylla DC.",
+        "Vernonia parviflora Reinw. ex Blume",
+        "Vernonia physalifolia DC.",
+        "Vernonia rhomboidea Edgew.",
+        "Vernonia vialis DC.",
+        "Vernonia villosa W.Wight",
+        "Vernonia zollingeriana Sch.Bip."
+    ],
+    "familyName": "ASTERACEAE",
+    "englishNames": [
+        "Little Ironweed"
+    ],
+    "sinhalaName": "Monarakudumbiya (මොනරකුඩුම්බිය)",
+    "description": "සෘජු හෝ බිම දිගේ විහිදෙන (decumbent) වාර්ෂික පැළෑටි, උසින් සෙ.මී. (5-) 15-30 ක් වන අතර, සමහර විට මීටර් 1.5 ක් දක්වා උසට වැඩේ. කඳන් තදින් ඇලී පවතින රෝමවලින් (appressed pubescent) යුක්ත වේ. පත්‍ර ඩිම්බාකාර (ovate) වන අතර, පත්‍ර වෘන්ත (petioles) සෙ.මී. 0.5-1.5 ක් දිගය, පත්‍ර තලය සෙ.මී. 2-5 x 1-2 ප්‍රමාණයෙන් යුක්ත වේ. පුෂ්ප මංජරි (capitula) ස්වල්පයක් (3-10) හෝ අග්‍රස්ථ කෝරිම්බ (corymbs) ලෙස බහුලව පිහිටයි. පුෂ්පාවරණය (involucre) මි.මී. 3-4 ක් දිග සහ මි.මී. 2-3 ක විෂ්කම්භයකින් යුක්ත වේ. එක් පුෂ්ප මංජරියක මල් 20-35 ක් පවතී; මල් කිරීටය (corolla) මි.මී. 3-4 ක් දිග, නිල් පැහැයට හුරු දම් පැහැයක් ගන්නා අතර, කලාතුරකින් සුදු පැහැයෙන් යුක්ත වේ. අචීන (achenes) තද දුඹුරු හෝ කළු පැහැතිය. පැපස් (pappus) සුදු පැහැති වන අතර මි.මී. 3-4.5 ක් දිග වේ.",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Urinary Calculi",
+            "sinhala": "මුත්‍රා ගල්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Malnutrition",
+            "sinhala": "මන්දපෝෂණ තත්ත්වයන් (පෝෂණ ඌනතා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Insomnia",
+            "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worm diseases",
+            "sinhala": "පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant",
+        "Seeds",
+        "Flowers"
+    ],
+    "images": [
+        {
+            "image_id": "183",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/0H5wJQy/plant00228-00183.jpg"
+        },
+        {
+            "image_id": "184",
+            "caption": "Fruits & Flowers",
+            "url": "https://i.ibb.co/JRt3nfBk/plant00228-00184.jpg"
+        },
+        {
+            "image_id": "3449",
+            "caption": "Inflorescences (PMR)",
+            "url": "https://i.ibb.co/4nqwFtrv/plant00228-03449.jpg"
+        },
+        {
+            "image_id": "3450",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/3yjYndPT/plant00228-03450.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Monarakudumbiya - Veronia cinerea - මොණරකඩුම්බිය",
+                "url": "https://youtube.com/watch?v=ODZ6217dH3A",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/ODZ6217dH3A/hq720.jpg"
+            },
+            {
+                "title": "මොනරකුඩුම්බිය විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=2belK87tGBc",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/2belK87tGBc/hq720.jpg"
+            },
+            {
+                "title": "මොනරකුඩුම්බිය සතු විශ්මිත ගුණ.benefits of monarakudumbiya",
+                "url": "https://youtube.com/watch?v=-Ps63u5QwVs",
+                "duration": "6:56",
+                "thumbnail": "https://i.ytimg.com/vi/-Ps63u5QwVs/hqdefault.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය වල ගුණ | Monarakudumbiya | @sakalawaga",
+                "url": "https://youtube.com/watch?v=9UOtsD-C_-o",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/9UOtsD-C_-o/hqdefault.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය ශාඛයේ ඖෂධීය ගුණ | Vernonia cinereum",
+                "url": "https://youtube.com/watch?v=n_8W1ejrHo8",
+                "duration": "8:12",
+                "thumbnail": "https://i.ytimg.com/vi/n_8W1ejrHo8/hq720.jpg"
+            },
+            {
+                "title": "poovamkurunthal പൂവാംകുരുന്നില പൂവാംകുറുന്തൽ poovamkurunnilla මොනරකුඩුම්බිය පැලය හඳුනා ගන්න.",
+                "url": "https://youtube.com/watch?v=xbuNHY4w4K0",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/xbuNHY4w4K0/hqdefault.jpg"
+            },
+            {
+                "title": "Monarakudumbiya ( මොනරකුඩුම්බිය )",
+                "url": "https://youtube.com/watch?v=C7BeykD2UKc",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/C7BeykD2UKc/hq720.jpg"
+            },
+            {
+                "title": "මොනරකුඩුම්බිය | ඔබේ ගෙවත්තේ තිබිය යුතුම ඖෂධයක් | Monarakudumbiya | A herb for increasing immunity",
+                "url": "https://youtube.com/watch?v=9xRB8-jdTng",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/9xRB8-jdTng/hq720.jpg"
+            },
+            {
+                "title": "මොනරකුඩුම්බිය වල ගුණ",
+                "url": "https://youtube.com/watch?v=_CbKTsOiqx8",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/_CbKTsOiqx8/hqdefault.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය කොළ කැඳ- අපෙන් ඈත් වෙන ඖෂධීය ගුණ සහිත මොනරකුඩුම්බිය කැඳ.",
+                "url": "https://youtube.com/watch?v=_6CL_77J3zA",
+                "duration": "7:54",
+                "thumbnail": "https://i.ytimg.com/vi/_6CL_77J3zA/hq720.jpg"
+            },
+            {
+                "title": "Monarakudumbiya - Veronia cinerea - මොණරකඩුම්බිය",
+                "url": "https://youtube.com/watch?v=l_yiRclfVXc",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/l_yiRclfVXc/frame0.jpg"
+            },
+            {
+                "title": "අපට අමතකව ගිය විශ්මිත ගුණ සහිත මොණරකුඩුම්බිය : Monarakudumbiya – Vernonia cinerea benefits",
+                "url": "https://youtube.com/watch?v=AVsoI8ga8rE",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/AVsoI8ga8rE/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ සහිත මොණරකුඩුම්බිය",
+                "url": "https://youtube.com/watch?v=VYuAFAA-7DI",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/VYuAFAA-7DI/hq720.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය වලට මෙච්චර දේවල් කරන්න පුලුවන් කියලා දැනගෙන හිටියද ? #Monarakudumbiya #මොණරකුඩුම්බිය",
+                "url": "https://youtube.com/watch?v=ylYr3ku9J0g",
+                "duration": "6:15",
+                "thumbnail": "https://i.ytimg.com/vi/ylYr3ku9J0g/hqdefault.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය වලින් මේ තරම් ගුණ රැසක්? නිතර දකින මේ ප්‍රබල ඔසුව දිව්‍යමය ඖෂධයක් බව දැනසිටියාද?",
+                "url": "https://youtube.com/watch?v=As_UacGA3Kc",
+                "duration": "11:54",
+                "thumbnail": "https://i.ytimg.com/vi/As_UacGA3Kc/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැඳ මේ වගේ බොන්න එපා : 6 Tips to drink leafy porridge",
+                "url": "https://youtube.com/watch?v=ntoqwsVo6Zw",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/ntoqwsVo6Zw/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු ශාකයේ ඇති ගුණ",
+                "url": "https://youtube.com/watch?v=_G0TFxrj-O0",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/_G0TFxrj-O0/hqdefault.jpg"
+            },
+            {
+                "title": "#විශ්මිත ගුණයෙන් පිරි මොනරකුඩුම්බිය#Monarakudumbiya#roof top Bonsai",
+                "url": "https://youtube.com/watch?v=uVhEeE9ZOs8",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/uVhEeE9ZOs8/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් මේ මාරාන්තික හීන්බෝවිටියා භාවිතා කරනවාද? අක්මාව ආරක්ෂා කරගන්න මේ ටික කලින් දැනගන්න",
+                "url": "https://youtube.com/watch?v=R7lH10NMWZU",
+                "duration": "14:38",
+                "thumbnail": "https://i.ytimg.com/vi/R7lH10NMWZU/hq720.jpg"
+            },
+            {
+                "title": "Monarakudumbiya| සොබාදහම අපට දුන් තවත් ඔසු පැලයක ගුණ - මොණරකුඩුම්බිය 🌿",
+                "url": "https://youtube.com/watch?v=PDCL-IIuGnQ",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/PDCL-IIuGnQ/hq720.jpg"
+            },
+            {
+                "title": "මේ තරම් ප්‍රබල ඔසුවක් ? ඔබත් විසික් කරාද?  | Monarakudumbiya  Ceylon Agri | Episode 310",
+                "url": "https://youtube.com/watch?v=kAfcCjtKpUY",
+                "duration": "10:07",
+                "thumbnail": "https://i.ytimg.com/vi/kAfcCjtKpUY/hq720.jpg"
+            },
+            {
+                "title": "කුප්පි ලාම්පුවට දින කියු වෙද මහතා",
+                "url": "https://youtube.com/watch?v=8Z8oZc2N_mE",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/8Z8oZc2N_mE/hq720.jpg"
+            },
+            {
+                "title": "මොනරකුඩුම්බිය | ඔබේ ගෙවත්තේ තිබිය යුතුම ඖශධ යක් | Monarakudumbiya sinhala | 2021",
+                "url": "https://youtube.com/watch?v=JDSGs_N6VgQ",
+                "duration": "5:35",
+                "thumbnail": "https://i.ytimg.com/vi/JDSGs_N6VgQ/hqdefault.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය monarakudumbiya",
+                "url": "https://youtube.com/watch?v=kOS6Js-cOrM",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/kOS6Js-cOrM/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය ඔසුවක් වන මොණරකුඩුම්බිය.....          Episode 22",
+                "url": "https://youtube.com/watch?v=xPIfm0znB7Q",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/xPIfm0znB7Q/hq720.jpg"
+            },
+            {
+                "title": "#මොනරකුඩුම්බිය #ශාකය‌ේ  #ගුණ    ‍‍#cyanthillium #cinereum #හෙළඔසු",
+                "url": "https://youtube.com/watch?v=gVw0jyXut5g",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/gVw0jyXut5g/hq720.jpg"
+            },
+            {
+                "title": "monarakudumbiya | මොණරකුඩුම්බිය | vernonia cinerea",
+                "url": "https://youtube.com/watch?v=lCliJTYlmNo",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/lCliJTYlmNo/hq720.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය  ඔයාලා කනවද?",
+                "url": "https://youtube.com/watch?v=swaNK6R9SYc",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/swaNK6R9SYc/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ දෙන මොණරකුඩුම්බිය | Vernonia Cinerea | wijaya tv",
+                "url": "https://youtube.com/watch?v=EBDu6zBphYA",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/EBDu6zBphYA/hqdefault.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ කුඩු දවස් 14ක් බිව්වොත් වෙන විස්මිත දේ! | Benefits of Moringa Powder (Sinhala)",
+                "url": "https://youtube.com/watch?v=n2bpVCsvkfM",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/n2bpVCsvkfM/hq720.jpg"
+            },
+            {
+                "title": "විස නසන මුරුංගා   Health benefits of Moringa. Value of drumstik tree",
+                "url": "https://youtube.com/watch?v=yz-gV2VwEcI",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/yz-gV2VwEcI/hq720.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය/monarakudumbiya (Vernonia cinerea )",
+                "url": "https://youtube.com/watch?v=vhZRHy3OMvI",
+                "duration": "12:49",
+                "thumbnail": "https://i.ytimg.com/vi/vhZRHy3OMvI/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක මුල් වර්ග සහ මුල් වල කාර්යයන් හඳුනාගනිමු 7 ශ්‍රේණිය විද්‍යාව පාඩම 5 ශ්‍රේණිය ශිෂ්‍යත්ව පාඩම",
+                "url": "https://youtube.com/watch?v=kvFjv5iGtFM",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/kvFjv5iGtFM/hq720.jpg"
+            },
+            {
+                "title": "ඉන්දියාවේ ඉඳලා ඇවිල්ලා ලංකාව ආක්‍රමණය කරපු හොරෙක් monarakudumbiya Vernonia cinerea ayurvedic plants",
+                "url": "https://youtube.com/watch?v=RQZCkpCyW3k",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/RQZCkpCyW3k/hq720.jpg"
+            },
+            {
+                "title": "උඳුපියලි කැඳ බිව්වම වෙන දේ මෙන්න : Benefits of Desmordium triflorum",
+                "url": "https://youtube.com/watch?v=_ElM_-P1pms",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/_ElM_-P1pms/hq720.jpg"
+            },
+            {
+                "title": "5 Incredible Health Benefits of Common Mallow (Malva Neglecta)",
+                "url": "https://youtube.com/watch?v=PYnbAYzOAW0",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/PYnbAYzOAW0/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=OhD9C89hrqk",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/OhD9C89hrqk/hq720.jpg"
+            },
+            {
+                "title": "Secret Benefits of Cyanthillium cinereum !",
+                "url": "https://youtube.com/watch?v=ouVIm6yKrQk",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/ouVIm6yKrQk/hq720.jpg"
+            },
+            {
+                "title": "කොළකැඳ බොන්න කලින් දැන ගන්න| Kola Kenda - 10 Plants for Herbal Porridge | Part 01",
+                "url": "https://youtube.com/watch?v=rU6NDyBgfGU",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/rU6NDyBgfGU/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ පිරි ලුණුවිල | Lunuwila - Bacopa Monnieri Plant - Brahmi | Dayawathi - දයාවතී",
+                "url": "https://youtube.com/watch?v=m9SUENHexrg",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/m9SUENHexrg/hq720.jpg"
+            },
+            {
+                "title": "monarakudumbiya kola/මොනරකුඩුම්බිය /vernonia cinerea/#medicinal #ishan #/lettle ironweed/sri lanka/",
+                "url": "https://youtube.com/watch?v=LClMys0S9tc",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/LClMys0S9tc/hq720.jpg"
+            },
+            {
+                "title": "TOO MANY MORINGA HEALTH BENEFITS FOR YOU TO SEE - Scientifically Based Moringa  Health Benefits",
+                "url": "https://youtube.com/watch?v=8odQY7GVB9k",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/8odQY7GVB9k/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රතිශක්තිය වඩවන මොණරකුඩුම්බිය කොළ කැද",
+                "url": "https://youtube.com/watch?v=hkmS5oGoaC4",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/hkmS5oGoaC4/hq720.jpg"
+            },
+            {
+                "title": "මොනවද මේ මොණරකුඩුම්බිය...monarakudumbiya...",
+                "url": "https://youtube.com/watch?v=fr4S-JwhYNY",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/fr4S-JwhYNY/hqdefault.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Urinary Calculi",
-      "sinhala": "මුත්‍රා ගල්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Malnutrition",
-      "sinhala": "මන්දපෝෂණ තත්ත්වයන් (පෝෂණ ඌනතා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Insomnia",
-      "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worm diseases",
-      "sinhala": "පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant",
-    "Seeds",
-    "Flowers"
-  ],
-  "images": [
-    {
-      "image_id": "183",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/0H5wJQy/plant00228-00183.jpg"
-    },
-    {
-      "image_id": "184",
-      "caption": "Fruits & Flowers",
-      "url": "https://i.ibb.co/JRt3nfBk/plant00228-00184.jpg"
-    },
-    {
-      "image_id": "3449",
-      "caption": "Inflorescences (PMR)",
-      "url": "https://i.ibb.co/4nqwFtrv/plant00228-03449.jpg"
-    },
-    {
-      "image_id": "3450",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/3yjYndPT/plant00228-03450.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

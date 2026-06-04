@@ -1,156 +1,623 @@
 {
-  "scientificName": "Eleusine indica (L.) Gaertn.",
-  "synonyms": [
-    "Agropyron geminatum (Spreng.) Schult. & Schult.f.",
-    "Chloris repens Steud.",
-    "Cynodon indicus (L.) Raspail",
-    "Cynosurus ara Buch.-Ham. ex Wall.",
-    "Cynosurus indicus L.",
-    "Cynosurus pectinatus Lam.",
-    "Eleusine distachya Trin. ex Steud.",
-    "Eleusine distans Link",
-    "Eleusine distans Moench",
-    "Eleusine domingensis Sieber ex Schult.",
-    "Eleusine glabra Schumach.",
-    "Eleusine gonantha Schrank",
-    "Eleusine gouinii E.Fourn.",
-    "Eleusine inaequalis E.Fourn.",
-    "Eleusine indica var. major E.Fourn.",
-    "Eleusine indica var. monostachya F.M.Bailey",
-    "Eleusine indica var. oligostachya Honda",
-    "Eleusine indica var. sandaensis Vanderyst",
-    "Eleusine japonica Steud.",
-    "Eleusine macrosperma Stokes",
-    "Eleusine marginata Lindl.",
-    "Eleusine pectinata (Lam.) Lam.",
-    "Eleusine polydactyla Steud.",
-    "Eleusine rigidifolia E.Fourn.",
-    "Eleusine scabra E.Fourn.",
-    "Eleusine textilis Welw.",
-    "Juncus loureiroana Schult. & Schult.f.",
-    "Leptochloa pectinata (Lam.) Kunth",
-    "Paspalum dissectum Kniph.",
-    "Poa spicata Willd. ex Steud.",
-    "Triticum geminatum Spreng."
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Indian Goosegrass",
-    "Silver Crabgrass",
-    "Yardgrass",
-    "Wiregrass",
-    "Crowfoot Gras",
-    "Indian Crowfoot Grass"
-  ],
-  "sinhalaName": "Wal kurakkan (වල් කුරක්කන්)",
-  "description": "විනාශයට ලක්වූ ස්ථානවල වැවෙන වල් පැලෑටියකි, මෙය වාර්ෂික හෝ කෙටි කාලීන බහුවාර්ෂික තෘණ වර්ගයකි; කඳන් ඉහළට නැඹුරු වූ (ascending), පැතලි වූ (compressed), සෙ.මී. 5 සිට 60 දක්වා උසකින් යුක්තය; පත්‍ර කොපු දාර සහිත (keeled) වන අතර, පත්‍ර දිව (ligule) පටලමය (membranous) වන අතර දාරය දළ සහිතය; පත්‍ර තල සෙ.මී. 5 සිට 15 දක්වා දිගින් සහ මි.මී. 3 සිට 4 දක්වා පළලින් යුක්තය; කරල් (spikes) බොහෝ විට දෙකේ සිට හත දක්වා පවතී, කලාතුරකින් එකක් පමණක් විය හැක, සෙ.මී. 5 සිට 15 දක්වා දිග, පැතලි, සෘජු හෝ තරමක් ඇතුළට නැමුණු (incurved) ස්වභාවයක් ගනී; කරල් අක්ෂය (rachis) සිහින් වන අතර දාර තරමක් රළුය; කරල්ක (spikelets) මි.මී. 2 සිට 4 දක්වා දිගින් යුක්ත වන අතර මල් තුනක සිට පහක් දක්වා අඩංගු වේ; ධාන්‍ය රතු පැහැයට හුරු දුඹුරු සිට කළු පැහැයක් ගනී, දිගටි-ඩිම්බාකාර (oblong-ovate) හැඩයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Sprains",
-      "sinhala": "උළුක්කු වීම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Eleusine indica (L.) Gaertn.",
+    "synonyms": [
+        "Agropyron geminatum (Spreng.) Schult. & Schult.f.",
+        "Chloris repens Steud.",
+        "Cynodon indicus (L.) Raspail",
+        "Cynosurus ara Buch.-Ham. ex Wall.",
+        "Cynosurus indicus L.",
+        "Cynosurus pectinatus Lam.",
+        "Eleusine distachya Trin. ex Steud.",
+        "Eleusine distans Link",
+        "Eleusine distans Moench",
+        "Eleusine domingensis Sieber ex Schult.",
+        "Eleusine glabra Schumach.",
+        "Eleusine gonantha Schrank",
+        "Eleusine gouinii E.Fourn.",
+        "Eleusine inaequalis E.Fourn.",
+        "Eleusine indica var. major E.Fourn.",
+        "Eleusine indica var. monostachya F.M.Bailey",
+        "Eleusine indica var. oligostachya Honda",
+        "Eleusine indica var. sandaensis Vanderyst",
+        "Eleusine japonica Steud.",
+        "Eleusine macrosperma Stokes",
+        "Eleusine marginata Lindl.",
+        "Eleusine pectinata (Lam.) Lam.",
+        "Eleusine polydactyla Steud.",
+        "Eleusine rigidifolia E.Fourn.",
+        "Eleusine scabra E.Fourn.",
+        "Eleusine textilis Welw.",
+        "Juncus loureiroana Schult. & Schult.f.",
+        "Leptochloa pectinata (Lam.) Kunth",
+        "Paspalum dissectum Kniph.",
+        "Poa spicata Willd. ex Steud.",
+        "Triticum geminatum Spreng."
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Indian Goosegrass",
+        "Silver Crabgrass",
+        "Yardgrass",
+        "Wiregrass",
+        "Crowfoot Gras",
+        "Indian Crowfoot Grass"
+    ],
+    "sinhalaName": "Wal kurakkan (වල් කුරක්කන්)",
+    "description": "විනාශයට ලක්වූ ස්ථානවල වැවෙන වල් පැලෑටියකි, මෙය වාර්ෂික හෝ කෙටි කාලීන බහුවාර්ෂික තෘණ වර්ගයකි; කඳන් ඉහළට නැඹුරු වූ (ascending), පැතලි වූ (compressed), සෙ.මී. 5 සිට 60 දක්වා උසකින් යුක්තය; පත්‍ර කොපු දාර සහිත (keeled) වන අතර, පත්‍ර දිව (ligule) පටලමය (membranous) වන අතර දාරය දළ සහිතය; පත්‍ර තල සෙ.මී. 5 සිට 15 දක්වා දිගින් සහ මි.මී. 3 සිට 4 දක්වා පළලින් යුක්තය; කරල් (spikes) බොහෝ විට දෙකේ සිට හත දක්වා පවතී, කලාතුරකින් එකක් පමණක් විය හැක, සෙ.මී. 5 සිට 15 දක්වා දිග, පැතලි, සෘජු හෝ තරමක් ඇතුළට නැමුණු (incurved) ස්වභාවයක් ගනී; කරල් අක්ෂය (rachis) සිහින් වන අතර දාර තරමක් රළුය; කරල්ක (spikelets) මි.මී. 2 සිට 4 දක්වා දිගින් යුක්ත වන අතර මල් තුනක සිට පහක් දක්වා අඩංගු වේ; ධාන්‍ය රතු පැහැයට හුරු දුඹුරු සිට කළු පැහැයක් ගනී, දිගටි-ඩිම්බාකාර (oblong-ovate) හැඩයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Sprains",
+            "sinhala": "උළුක්කු වීම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Joint Dislocation",
+            "sinhala": "සන්ධි පැනීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Convulsions",
+            "sinhala": "වලිප්පුව / වෙවුලීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemoptysis",
+            "sinhala": "කැස්ස සමඟ ලේ පිටවීම (ලේ කැස්ස)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Malaria",
+            "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole plant",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "1057",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/tTSnz4jY/plant01025-01057.jpg"
+        },
+        {
+            "image_id": "1058",
+            "caption": "A plant with inflorescence",
+            "url": "https://i.ibb.co/cKzGd1Lh/plant01025-01058.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Finger millet cultivation - කුරක්කන් වගාව",
+                "url": "https://youtube.com/watch?v=JThmGm-EQMw",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/JThmGm-EQMw/hqdefault.jpg"
+            },
+            {
+                "title": "කුරක්කන් වගාව | kurakkan Cultivation | Agri Life with Dilupa Akalanka",
+                "url": "https://youtube.com/watch?v=lCgUr6KAoGo",
+                "duration": "5:55",
+                "thumbnail": "https://i.ytimg.com/vi/lCgUr6KAoGo/hq720.jpg"
+            },
+            {
+                "title": "#කුරක්කන්|#Eleusine coracana|#Kurakkan",
+                "url": "https://youtube.com/watch?v=UMX5RHBXEUE",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/UMX5RHBXEUE/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවොත් ලැබෙන දේවල් මෙන්න : Benefits of Ragi Kurakkan (NEW) 2019",
+                "url": "https://youtube.com/watch?v=oKoud-XKUeA",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/oKoud-XKUeA/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවම ඇත්තටම ලෙඩ හොද වෙනවද? Finger Millet By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0KOSVb6dZNM",
+                "duration": "11:05",
+                "thumbnail": "https://i.ytimg.com/vi/0KOSVb6dZNM/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් ගැන තිත්ත ඇත්ත | Finger Millet By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=IlqMfYIuHq0",
+                "duration": "10:26",
+                "thumbnail": "https://i.ytimg.com/vi/IlqMfYIuHq0/hq720.jpg"
+            },
+            {
+                "title": "how to create guna agua kurakkan(කුරක්කන් කෑවොත් වෙනදේ) See what happens if you eat Kurahan",
+                "url": "https://youtube.com/watch?v=R3-3mpAcIXU",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/R3-3mpAcIXU/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් වල ඇති වැදගත්කම සහ එහි විශ්මිත ගුණ Kurakkkan benefit for us | Lokayedhanuma",
+                "url": "https://youtube.com/watch?v=cRS5Tkd2PzY",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/cRS5Tkd2PzY/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් වල ගුණ",
+                "url": "https://youtube.com/watch?v=6sdkFZGIFhA",
+                "duration": "4:33",
+                "thumbnail": "https://i.ytimg.com/vi/6sdkFZGIFhA/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවාම දියවැඩියාව ට මොකද වෙන්නේ. ?09/01/2923",
+                "url": "https://youtube.com/watch?v=id-emAj37WY",
+                "duration": "8:16",
+                "thumbnail": "https://i.ytimg.com/vi/id-emAj37WY/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් ගුණදායක වෙන්නෙ මෙහෙමයි",
+                "url": "https://youtube.com/watch?v=JOTRyemaqXE",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/JOTRyemaqXE/hq720.jpg"
+            },
+            {
+                "title": "පෝෂණීය කුරක්කන් කැඳ,පැණිරස ගාවන්නෙ නැතුව රසට හදාගන්න විදිහ.Healthy Finger Millet Porridge.",
+                "url": "https://youtube.com/watch?v=e8Y7gjkb9_8",
+                "duration": "5:44",
+                "thumbnail": "https://i.ytimg.com/vi/e8Y7gjkb9_8/hq720.jpg"
+            },
+            {
+                "title": "🌾 කිරිපිටි වලට වඩා ගුණ කුරක්කන් කැඳ පානය | Kurakkan | Kurakkan Recipe Sinhala | Kurakkan Kenda 🌾",
+                "url": "https://youtube.com/watch?v=8QSz6DZFSuY",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/8QSz6DZFSuY/hq720.jpg"
+            },
+            {
+                "title": "රසට සුවදට කුරක්කන් කැද එකක් හදමු - Kurakkan Kenda | Kurakkan Recipe | LK Kitchen | Kurakkan",
+                "url": "https://youtube.com/watch?v=o9jFjeksn-Y",
+                "duration": "7:13",
+                "thumbnail": "https://i.ytimg.com/vi/o9jFjeksn-Y/hq720.jpg"
+            },
+            {
+                "title": "රසට නිවැරදිව කුරක්කන් කැඳ හදමු| Kurakkan kenda| Kurakkan recipe sinhala| kurakkan porridge",
+                "url": "https://youtube.com/watch?v=xbJVlORQPyo",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/xbJVlORQPyo/hq720.jpg"
+            },
+            {
+                "title": "✔️✔️ලෙඩ රැසකට ගුණ ඇති කුරක්කන් කිරි පැණි විනාඩි 10 න් kurakkan Kada #kurakkan #kada #srilankanfood .",
+                "url": "https://youtube.com/watch?v=HqppUVyepiI",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/HqppUVyepiI/hq720.jpg"
+            },
+            {
+                "title": "රසයෙන් ගුණයෙන් පිරි කුරක්කන් කැඳ | Kurakkan Kenda | Healthy finger millet porridge |Kurakkan Recipe",
+                "url": "https://youtube.com/watch?v=jy9TPOd7anE",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/jy9TPOd7anE/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ උතුරන සව් මිශ්‍ර කුරක්කන් කැඳ|Sago mixed Finger Millet Gruel Recipe(Eng Sub)|Tharuz Cafe",
+                "url": "https://youtube.com/watch?v=V-RAuskAIuA",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/V-RAuskAIuA/hq720.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "පුළුන් වගේ මෙලෙකට කුරක්කන් වලින් රස ගුණ පිරි කෑමක්😍|#dinnerrecipe [💕Deliciously COOK 💕]",
+                "url": "https://youtube.com/watch?v=yOwYCdYDH-0",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/yOwYCdYDH-0/hq720.jpg"
+            },
+            {
+                "title": "✔ රසයෙන් ගුණයෙන් පිරි කුරක්කන් කැඳ (kurakkan) Healthy finger millet porridge by Apé Amma",
+                "url": "https://youtube.com/watch?v=cVWyMAydZck",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/cVWyMAydZck/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවොත් ලැබෙන දේවල් මෙන්න : Benefits of Ragi Kurakkan (NEW) 2019",
+                "url": "https://youtube.com/watch?v=sU5LKTacqhE",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/sU5LKTacqhE/frame0.jpg"
+            },
+            {
+                "title": "කුරක්කන් කැඳ|kurakkan kanda|sri lanka 💓M.R KITCHEN💓",
+                "url": "https://youtube.com/watch?v=f7FbiZgpYM0",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/f7FbiZgpYM0/hq720.jpg"
+            },
+            {
+                "title": "රසට,නිවැරැදිව කුරහන් තලප හදමු / kurahan thalapa recipe in sinhala / Rasa rahasa",
+                "url": "https://youtube.com/watch?v=PWWgQEZmeyU",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/PWWgQEZmeyU/hqdefault.jpg"
+            },
+            {
+                "title": "✔ අපේ අම්මා බර අඩු කරගන්න කන ප්‍රියතම උදේ කෑම Apé Amma's weight loss roti",
+                "url": "https://youtube.com/watch?v=NoG_NwJ2Gd0",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/NoG_NwJ2Gd0/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් වගාවක් සිදු කරන හැටි සරලවම / kurakkan wagawa | kurakkan Cultivation",
+                "url": "https://youtube.com/watch?v=PhDxpqsmQ5g",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/PhDxpqsmQ5g/hq720.jpg"
+            },
+            {
+                "title": "රසයෙනුත් ගුණයෙනුත් වැඩි  කුරක්කන් කැඳ |finger millet porridge by Grandma & me | kurakkan kada",
+                "url": "https://youtube.com/watch?v=eQoY4KfdiCk",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/eQoY4KfdiCk/hq720.jpg"
+            },
+            {
+                "title": "පෝශණිය රස කැවිල්ල | kurakkan piti walithalapa | walithalapa | healthy sweet sinhala",
+                "url": "https://youtube.com/watch?v=7VE2_USVEb8",
+                "duration": "8:13",
+                "thumbnail": "https://i.ytimg.com/vi/7VE2_USVEb8/hqdefault.jpg"
+            },
+            {
+                "title": "කලාඳුරු අලයේ පුදුම ගුණ | වල් පැළයක් කියා ඉවත දැමූ අගනා ඖෂධය! 🌿",
+                "url": "https://youtube.com/watch?v=Qk2ZpZWKXz0",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/Qk2ZpZWKXz0/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ ඇති වැල වරකා කන්න.",
+                "url": "https://youtube.com/watch?v=obdM6DJgh54",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/obdM6DJgh54/hqdefault.jpg"
+            },
+            {
+                "title": "වල් පැළෑටියක් යැයි සිතා ගලවා දමන මහා ඖෂධ ගුණ පිරි ඔසුව - Health Benefits of Stone Breaker",
+                "url": "https://youtube.com/watch?v=kW8LYRHv0RE",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/kW8LYRHv0RE/hq720.jpg"
+            },
+            {
+                "title": "ගල්කූර ශාකයේ ඇති විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=6WMO4IRJVqM",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/6WMO4IRJVqM/hqdefault.jpg"
+            },
+            {
+                "title": "අපි ගණන් ගන්නැති දියවැඩියාව ඇතූලු රෝග රැසකට ගූණදෙන වල් කොත්තමල්ලි",
+                "url": "https://youtube.com/watch?v=JKVGk77ADC8",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/JKVGk77ADC8/hq720.jpg"
+            },
+            {
+                "title": "නිවිති වල ගුණ Nivithi wala guna Health Benifits of Spinach by Vindy's Journey Kitchen",
+                "url": "https://youtube.com/watch?v=2LhDlFh89y4",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/2LhDlFh89y4/hqdefault.jpg"
+            },
+            {
+                "title": "''කලාඳුරු අල '' ගුණ අගුණ. රෝග රැසකට ගුණදෙන විශ්මිත ඖෂධ.",
+                "url": "https://youtube.com/watch?v=lKIPz0tGmWc",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/lKIPz0tGmWc/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "වරකා කන අයට ලැබෙන දේවල් මෙන්න : Benefits of jackfruit",
+                "url": "https://youtube.com/watch?v=cP0w7SSMdfU",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/cP0w7SSMdfU/hq720.jpg"
+            },
+            {
+                "title": "වැල්මී වල අද්භූත ගුණ",
+                "url": "https://youtube.com/watch?v=KtjLcFq9lcQ",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/KtjLcFq9lcQ/hq720.jpg"
+            },
+            {
+                "title": "Haathawariya - Medicinal plants |හාතවාරිය ඔසු ගුණ",
+                "url": "https://youtube.com/watch?v=jcEX06gVbBs",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/jcEX06gVbBs/hqdefault.jpg"
+            },
+            {
+                "title": "වකුගඩු රෝගයේ මුල් ලක්ෂණ දහයක්👨‍🦽",
+                "url": "https://youtube.com/watch?v=p5ddY0AbmdI",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/p5ddY0AbmdI/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "අරත්ත හොඳ ඖෂධීය ලිංගික උත්තේජක වලින් එකක්ද?.Is it good Herbal aphrodisiac ?",
+                "url": "https://youtube.com/watch?v=cwzzS5vBCj8",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/cwzzS5vBCj8/hqdefault.jpg"
+            },
+            {
+                "title": "ඉක්මණින් ශුක්‍රානු පිටවීම ආදී රෝග රැසකට ගුණදෙන බුලත් ගැන කවදාවත් නොවැසූ ආයුර්වේද රහස්",
+                "url": "https://youtube.com/watch?v=Rnu9zjTvxv0",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/Rnu9zjTvxv0/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් - තිත්ත වැල් \"කොහොමද හොයන්නේ \" / Herbal Plants - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=e37sZqGCbfM",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/e37sZqGCbfM/hq720.jpg"
+            },
+            {
+                "title": "සතියකට වතාවක්වත් ආහාරයට ගත යුතු අපිට ලැබුණු සොබා දමේ තෑග්ග Wal Penela Kola Kanda From Kusala  ✔",
+                "url": "https://youtube.com/watch?v=tDxvWCNk7IA",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/tDxvWCNk7IA/hq720.jpg"
+            },
+            {
+                "title": "වැල් කහඹිලියා ගැන ඔබ නොදත් දේ",
+                "url": "https://youtube.com/watch?v=D2msDqXHsE8",
+                "duration": "3:33",
+                "thumbnail": "https://i.ytimg.com/vi/D2msDqXHsE8/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ලිංගික බෙලහීනතාව දුරුකරන, පුරුෂ ශක්තිය වඩන, ශරිරයේ පහළ කොටසේ ලේ වඩන, ස්නායු ශක්තිමත් කරන, වැල් පෙනල.",
+                "url": "https://youtube.com/watch?v=jOEhTxk30bU",
+                "duration": "16:32",
+                "thumbnail": "https://i.ytimg.com/vi/jOEhTxk30bU/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් කොහිල ශාකයේ ගුණ අගුණ 🌿",
+                "url": "https://youtube.com/watch?v=sq_l6eMRseo",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/sq_l6eMRseo/hqdefault.jpg"
+            },
+            {
+                "title": "ගොඩක් දෙනා දැකල තියෙන වැල් වර්ගයක් තමයි මේකත් | මොනවද මේ පෝර වැල්",
+                "url": "https://youtube.com/watch?v=gYNbQTVMXbU",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/gYNbQTVMXbU/hq720.jpg"
+            },
+            {
+                "title": "දුර්වල වූ ශක්තිය නැවත ලබාගන්න වැල් පෙනෙල මේ විදිහට කන්න",
+                "url": "https://youtube.com/watch?v=qtpJhM-RtBw",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/qtpJhM-RtBw/hq720.jpg"
+            },
+            {
+                "title": "වල් ඉගුරු || Wal iguru || Zingber zerumbet",
+                "url": "https://youtube.com/watch?v=7NPXtmkfyek",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/7NPXtmkfyek/hqdefault.jpg"
+            },
+            {
+                "title": "වල් පැළෑටි වර්ගීකරණය /WEED CLASSIFICATION - SINHALA - AGRI LAB -RUWAN DEHIGAMA",
+                "url": "https://youtube.com/watch?v=9rwJ6MLnzxQ",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/9rwJ6MLnzxQ/hq720.jpg"
+            },
+            {
+                "title": "වැල් යන සියලු වැල් සඳහා සතයක්වත් වියදම් නොකර ආධාරක සැකසීම | Organic Home Gardening sri lanka",
+                "url": "https://youtube.com/watch?v=Oy1O5Cz5dRQ",
+                "duration": "13:52",
+                "thumbnail": "https://i.ytimg.com/vi/Oy1O5Cz5dRQ/hq720.jpg"
+            },
+            {
+                "title": "ලිංගික ශක්තිය වඩවන වැල් පෙනෙල#Balloon Vine",
+                "url": "https://youtube.com/watch?v=9-UnTPUyE4E",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/9-UnTPUyE4E/hq720.jpg"
+            },
+            {
+                "title": "දේශීය වෙදකමේදී වැදගත්ම ශාකයක්, පළතුරක් වගේම ප්‍රතිඔක්සිකාරකයක් | වල් ඇඹරැල්ලා Wal Ambaralla",
+                "url": "https://youtube.com/watch?v=tshLWb7Xczc",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/tshLWb7Xczc/hq720.jpg"
+            },
+            {
+                "title": "ගෙවතුවගාවෙදි වැල් යන බොග සදහා ආදාරක සැකසීම Preparing the base for the vines in the garden",
+                "url": "https://youtube.com/watch?v=vLNxaW8Kx1E",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/vLNxaW8Kx1E/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "මේක තමයි ලංකාවේ තියෙන ලොකුම හාස්කම! | මරණය පෙනී පෙනී හිටපු අයට දුන්නු ජීවය",
+                "url": "https://youtube.com/watch?v=I8gIechl7r8",
+                "duration": "31:36",
+                "thumbnail": "https://i.ytimg.com/vi/I8gIechl7r8/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "Wal koththamalli|රෝග  රැසකට ගුණදෙන වල් කොත්තමල්ලි පැළැටියේ විශ්මිත ඖෂධිය ගුණ",
+                "url": "https://youtube.com/watch?v=ky8SextNuXc",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/ky8SextNuXc/hq720.jpg"
+            },
+            {
+                "title": "වල් වී පාලන වැඩසටහන | Krushi Tv",
+                "url": "https://youtube.com/watch?v=0-vFi30HvTw",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/0-vFi30HvTw/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්තේ වැඩෙන වල් පැළෑටි... රූප සමග ඉගෙන ගමු.. ☘️☘️☘️🌿🌿🌳🌳🌲🌲",
+                "url": "https://youtube.com/watch?v=7pzaZSD6BXk",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/7pzaZSD6BXk/hqdefault.jpg"
+            },
+            {
+                "title": "කවදාවත් මේ පැලැටිය වල් පැළයක් කියලා හිතලා ගලවලා දාන්න එපා | Health Benefits of Purslane",
+                "url": "https://youtube.com/watch?v=c2AwkiIU-fc",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/c2AwkiIU-fc/hq720.jpg"
+            },
+            {
+                "title": "Welpenela Benefits : පිරිමි ගෙදරම තියාගන්න ගහපු වැල් පෙනෙල ගැටේ මෙන්න",
+                "url": "https://youtube.com/watch?v=gjqX33rzqng",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/gjqX33rzqng/hq720.jpg"
+            },
+            {
+                "title": "වද මල් යුෂ මගින් ලැබෙන සෞඛ්‍ය ප්‍රතිලාභ 9ක් - 9 Health Benefits of Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=xRInp9A-z18",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/xRInp9A-z18/hq720.jpg"
+            },
+            {
+                "title": "මේ පැළෑටිය මිදුලේ දැක්කොත් වල් පැළයක් කියලා ගලවලා විසි කරන්න එපා - 7 Health Benefits Of Purslane",
+                "url": "https://youtube.com/watch?v=_p0Ohee_ocs",
+                "duration": "10:52",
+                "thumbnail": "https://i.ytimg.com/vi/_p0Ohee_ocs/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂ ශක්තිය වඩවන වැල් පෙණල කොළ කැඳ - Herbal Plants Of Sri Lanka Wel Penela Juice",
+                "url": "https://youtube.com/watch?v=sRWYctWfRjE",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/sRWYctWfRjE/hq720.jpg"
+            },
+            {
+                "title": "කංකුං කෑවොත් මොකද වෙන්නෙ : Water Spinach Benefits",
+                "url": "https://youtube.com/watch?v=RxKSa0l8Fnk",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/RxKSa0l8Fnk/hq720.jpg"
+            },
+            {
+                "title": "Temperd Baloon vine leaves - පුරුෂ පාර්ශවයට වැදගත් වැල් පෙනෙල",
+                "url": "https://youtube.com/watch?v=_DGoalpcs7M",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/_DGoalpcs7M/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "Hibiscus Tea Benefits - 10 Benefits You Didn't Know About Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=osmO5QURWjQ",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/osmO5QURWjQ/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂ ශක්තිය වර්ධනය කරණ අරුම පුදුම ශාකය - Top health benefits of Drumsticks",
+                "url": "https://youtube.com/watch?v=cbEnXDbLMJg",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/cbEnXDbLMJg/hqdefault.jpg"
+            },
+            {
+                "title": "how to make a Benefits of jackfruit /Waraka/ Peniwaraka  Jackfruit/ kos/kos kola",
+                "url": "https://youtube.com/watch?v=D_FLiXnIl20",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/D_FLiXnIl20/hq720.jpg"
+            },
+            {
+                "title": "කංකුං  කනවද? | Kangkung (Water Spinach) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WDR_OvMpd44",
+                "duration": "14:18",
+                "thumbnail": "https://i.ytimg.com/vi/WDR_OvMpd44/hq720.jpg"
+            },
+            {
+                "title": "කොළකැඳ බොන්න කලින් දැන ගන්න| Kola Kenda - 10 Plants for Herbal Porridge | Part 01",
+                "url": "https://youtube.com/watch?v=rU6NDyBgfGU",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/rU6NDyBgfGU/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Joint Dislocation",
-      "sinhala": "සන්ධි පැනීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Convulsions",
-      "sinhala": "වලිප්පුව / වෙවුලීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemoptysis",
-      "sinhala": "කැස්ස සමඟ ලේ පිටවීම (ලේ කැස්ස)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Malaria",
-      "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole plant",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "1057",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/tTSnz4jY/plant01025-01057.jpg"
-    },
-    {
-      "image_id": "1058",
-      "caption": "A plant with inflorescence",
-      "url": "https://i.ibb.co/cKzGd1Lh/plant01025-01058.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

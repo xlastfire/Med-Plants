@@ -1,71 +1,364 @@
 {
-  "scientificName": "Ruellia tuberosa L.",
-  "synonyms": [
-    "Cryphiacanthus barbadensis Nees",
-    "Dipteracanthus clandestinus (L.) C.Presl",
-    "Ruellia clandestina L.",
-    "Ruellia lysimachia Nees",
-    "Ruellia paniculata Scop. ex Nees",
-    "Ruellia picta G.Lodd.",
-    "Ruellia tuberosa var. humilis M.Gómez"
-  ],
-  "familyName": "ACANTHACEAE",
-  "englishNames": [
-    "Popping Pod",
-    "Meadow Weed",
-    "Minnieroot",
-    "Cracker Plant",
-    "Waterkanon",
-    "Popping Pod",
-    "Meadow Weed",
-    "Minnieroot",
-    "Cracker Plant",
-    "Waterkanon"
-  ],
-  "sinhalaName": "Heen amukkara (හීන් අමුක්කරා)",
-  "description": "බහුවාර්ෂික ශාකයකි, සෙ.මී. 45ක් දක්වා උස වේ. පත්‍ර ආයත-ප්‍රතිඩිම්බ (oblong-obovate) හැඩැති වේ, සෙ.මී. 4-8 x 1.5-4.2 ප්‍රමාණයෙන් යුක්තය, පත්‍ර පාදම කුඤ්ඤාකාර (cuneate) හැඩයේ සිට පත්‍ර වෘන්තය දෙසට ක්‍රමයෙන් සිහින් වේ, රෝම රහිතය (glabrous), පත්‍ර යටි පැත්තේ නාරටි තරමක් කැපී පෙනේ. මල් පත්‍ර කක්ෂීය (axillary) වේ, ලිහිල් ද්විශාඛ (dichotomous) පුෂ්ප මංජරිවල පිහිටයි, ලා නිල් පැහැතිය. කරල් ගෙඩිය තර්කු රූපී (fusiform) වේ, මදක් පැතලි වී ඇත, අග්‍රය මොටය (bluntly apiculate). බීජ එක් කුටීරයකට 10-12 බැගින් පවතී, වෘත්තාකාර (orbicular) වේ, මි.මී. 2ක් පළලය.",
-  "treatments": [
-    {
-      "treatment": "Pulmonary Disorders",
-      "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Ruellia tuberosa L.",
+    "synonyms": [
+        "Cryphiacanthus barbadensis Nees",
+        "Dipteracanthus clandestinus (L.) C.Presl",
+        "Ruellia clandestina L.",
+        "Ruellia lysimachia Nees",
+        "Ruellia paniculata Scop. ex Nees",
+        "Ruellia picta G.Lodd.",
+        "Ruellia tuberosa var. humilis M.Gómez"
+    ],
+    "familyName": "ACANTHACEAE",
+    "englishNames": [
+        "Popping Pod",
+        "Meadow Weed",
+        "Minnieroot",
+        "Cracker Plant",
+        "Waterkanon",
+        "Popping Pod",
+        "Meadow Weed",
+        "Minnieroot",
+        "Cracker Plant",
+        "Waterkanon"
+    ],
+    "sinhalaName": "Heen amukkara (හීන් අමුක්කරා)",
+    "description": "බහුවාර්ෂික ශාකයකි, සෙ.මී. 45ක් දක්වා උස වේ. පත්‍ර ආයත-ප්‍රතිඩිම්බ (oblong-obovate) හැඩැති වේ, සෙ.මී. 4-8 x 1.5-4.2 ප්‍රමාණයෙන් යුක්තය, පත්‍ර පාදම කුඤ්ඤාකාර (cuneate) හැඩයේ සිට පත්‍ර වෘන්තය දෙසට ක්‍රමයෙන් සිහින් වේ, රෝම රහිතය (glabrous), පත්‍ර යටි පැත්තේ නාරටි තරමක් කැපී පෙනේ. මල් පත්‍ර කක්ෂීය (axillary) වේ, ලිහිල් ද්විශාඛ (dichotomous) පුෂ්ප මංජරිවල පිහිටයි, ලා නිල් පැහැතිය. කරල් ගෙඩිය තර්කු රූපී (fusiform) වේ, මදක් පැතලි වී ඇත, අග්‍රය මොටය (bluntly apiculate). බීජ එක් කුටීරයකට 10-12 බැගින් පවතී, වෘත්තාකාර (orbicular) වේ, මි.මී. 2ක් පළලය.",
+    "treatments": [
+        {
+            "treatment": "Pulmonary Disorders",
+            "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Kidney Diseases",
+            "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Whole Plant"
+    ],
+    "images": [
+        {
+            "image_id": "1857",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/xtnvmxPQ/plant00021-01857.jpg"
+        },
+        {
+            "image_id": "1858",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/V01x0bNY/plant00021-01858.jpg"
+        },
+        {
+            "image_id": "1859",
+            "caption": "Fruit (PMR)",
+            "url": "https://i.ibb.co/tTyZcn1Y/plant00021-01859.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "හීං අමුක්කරා නොහොත් වල් අමුක්කරා #herbs #garden #nature #plants",
+                "url": "https://youtube.com/watch?v=lAAPXHhiYI4",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/lAAPXHhiYI4/hqdefault.jpg"
+            },
+            {
+                "title": "අශ්වගන්ද|ashwagandha|අමුක්කරා|Amukkara|Dr.Chaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=vZt8nsZnG-8",
+                "duration": "18:32",
+                "thumbnail": "https://i.ytimg.com/vi/vZt8nsZnG-8/hq720.jpg"
+            },
+            {
+                "title": "Asia touch is live වල් අමුක්කරා / හීන් අමුක්කරා නමින් හදුන්වල විදේශීය ශාකය.",
+                "url": "https://youtube.com/watch?v=-_bJDHrP31g",
+                "duration": "37:20",
+                "thumbnail": "https://i.ytimg.com/vi/-_bJDHrP31g/hq720.jpg"
+            },
+            {
+                "title": "අමුක්‍රා | හීන් අමුක්කරා |වල් අමුක්කරා | Minnieroot | Cracker Plant | Popping pod | Ruellia tuberosa",
+                "url": "https://youtube.com/watch?v=62gGh74KDVk",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/62gGh74KDVk/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ධා - පුරුෂ ශක්තිය වඩවන අමුක්කරා ගැන දැනගෙන පාවිච්චි කරන්න. - Amukkara",
+                "url": "https://youtube.com/watch?v=oEiowRpTfkM",
+                "duration": "7:06",
+                "thumbnail": "https://i.ytimg.com/vi/oEiowRpTfkM/hq720.jpg"
+            },
+            {
+                "title": "වාජීකරණ ගුණයෙන් අනූන අමුක්කරා හෙවත් අශ්වගන්ධ ශාකය | Ashwagandha - Medicinal Herb",
+                "url": "https://youtube.com/watch?v=a5AS1SEA1Q8",
+                "duration": "14:14",
+                "thumbnail": "https://i.ytimg.com/vi/a5AS1SEA1Q8/hq720.jpg"
+            },
+            {
+                "title": "වාජීකරණ ගුණ සපිරි සුවිශේෂී  ඖෂධීය ශාකය අමුක්කරා - Ashwagandha Medicinal Herb #ashvagandha #herbs",
+                "url": "https://youtube.com/watch?v=l_v8BnWhLXg",
+                "duration": "20:58",
+                "thumbnail": "https://i.ytimg.com/vi/l_v8BnWhLXg/hq720.jpg"
+            },
+            {
+                "title": "ආර්ථික වගාවකට හොඳම ඔසුවක් | Amukkara | Ceylon Agri | Gasaka Waruna Episode 09",
+                "url": "https://youtube.com/watch?v=k7Nvn7Jjhs0",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/k7Nvn7Jjhs0/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිය වඩවන දිව්‍යමය ඖෂධය ||The divine potion that increases strength #Amukkara",
+                "url": "https://youtube.com/watch?v=JNtQ2Yhl1iM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/JNtQ2Yhl1iM/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබට ලබා ගත හැකි ඔසු පැල | Obata Labagatha Haki Beheth Pela",
+                "url": "https://youtube.com/watch?v=8YEZIepWqZw",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/8YEZIepWqZw/hq720.jpg"
+            },
+            {
+                "title": "Ashwaganda|amukkara|අශ්වගන්ද|අමුක්කරාලිංගිකශක්තියවැඩිකරනඅශ්වගන්ද|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=6n-k_RtMEnI",
+                "duration": "10:43",
+                "thumbnail": "https://i.ytimg.com/vi/6n-k_RtMEnI/hq720.jpg"
+            },
+            {
+                "title": "හීං අරත්ත | heen Araththa | ඔසු ගුණ",
+                "url": "https://youtube.com/watch?v=O8-hUoMgxqs",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/O8-hUoMgxqs/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ශාකයේ ඔසු ගුණ | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=29JyQOFg1WI",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/29JyQOFg1WI/hq720.jpg"
+            },
+            {
+                "title": "අරත්ත හොඳ ඖෂධීය ලිංගික උත්තේජක වලින් එකක්ද?.Is it good Herbal aphrodisiac ?",
+                "url": "https://youtube.com/watch?v=cwzzS5vBCj8",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/cwzzS5vBCj8/hqdefault.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල තිත්ත ඇත්ත | Heenbovitiya & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=lBsI67rHBnE",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/lBsI67rHBnE/hq720.jpg"
+            },
+            {
+                "title": "වයසට යාම ප්‍රමාද කරන සම ලස්සන කරවන විශ්මිත ශාකයක් | ඕනෑම ලෙඩකට විශ්ව කර්ම ගුණ දෙන ඔසුවක්",
+                "url": "https://youtube.com/watch?v=DGLbLuNh_Sc",
+                "duration": "14:12",
+                "thumbnail": "https://i.ytimg.com/vi/DGLbLuNh_Sc/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා ශාකයේ ගුණ අගුණ හරියට දැනගමු | Health benefits of Heen Bovitiya | Osbeckia octandra",
+                "url": "https://youtube.com/watch?v=qWhvPW9o2XI",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/qWhvPW9o2XI/hqdefault.jpg"
+            },
+            {
+                "title": "හීන්බෝවිටියා වල ගුණ | හීන්බෝවිටියා ලෙඩ රෝග කිහිපයකට ගුණදායකයි | Health benefits of Heen Bovitiya",
+                "url": "https://youtube.com/watch?v=gPgK8x0YzGc",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/gPgK8x0YzGc/hq720.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බා ශාකය ගැන විස්තර සහ ඖෂධීය ගුණ | Benefits of Biophytum reinwardtii | හීන් නිදිකුම්බා",
+                "url": "https://youtube.com/watch?v=8iRynAE_2_E",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/8iRynAE_2_E/hq720.jpg"
+            },
+            {
+                "title": "මේ ශාකය භාවිතයට නොගන්නා ඔබ බත් කාලා වැඩක් නෑ /ausadiya kikiridiya",
+                "url": "https://youtube.com/watch?v=scqO5Np5pcU",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/scqO5Np5pcU/hq720.jpg"
+            },
+            {
+                "title": "ස්ට්‍රෙස් එකයි නින්ද නැති එකයි විනාඩි 10න් ඉවරයි! 🧠🌙 Ashwagandha: The Stress Killer",
+                "url": "https://youtube.com/watch?v=ta63ICLqjDk",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/ta63ICLqjDk/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ධ ගත්තොත් වැඩේ හරිද? | Ashwagandha - @behethbydrnamal",
+                "url": "https://youtube.com/watch?v=ccNLNsa3MSE",
+                "duration": "11:14",
+                "thumbnail": "https://i.ytimg.com/vi/ccNLNsa3MSE/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "දේශීය වෙදදුරන්ට අනුව corona වලට එරෙහිව ප්‍රතිශක්තිය නගාසිටුවන හීන් බින් කොහොඹ",
+                "url": "https://youtube.com/watch?v=WKw3IhMmfmw",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/WKw3IhMmfmw/hq720.jpg"
+            },
+            {
+                "title": "හිරි ගඩු පිපෙන අලුත්ම අනාවැකිය",
+                "url": "https://youtube.com/watch?v=CumPsMZGmFs",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/CumPsMZGmFs/hq720.jpg"
+            },
+            {
+                "title": "හදවත ආරක්ශා කරන - ඔසප් කැක්කුම් නැති කරන - ලෙඩ වලින් බේරන මැග්නීසියම් ගැන හරියටම දැනගමු",
+                "url": "https://youtube.com/watch?v=h8hxUGfvYzY",
+                "duration": "9:07",
+                "thumbnail": "https://i.ytimg.com/vi/h8hxUGfvYzY/hqdefault.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බ|ඔසු පැලයේ ගුණ | Heen nidikumba | Biophytum reinwardti |A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=0aY7gRgkIpY",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/0aY7gRgkIpY/hq720.jpg"
+            },
+            {
+                "title": "හීං අරත්ත  | Alpinia calcarata  - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=g340MFKWU9k",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/g340MFKWU9k/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය භෝග, ඖෂධීය වාණිජ වගාව, හීන් බෝවිටිය, අඩු වියදම් භෝග වගාව, Medicinal Plant Cultivation,",
+                "url": "https://youtube.com/watch?v=pbWdOngCXXI",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/pbWdOngCXXI/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල ගුණ|Osbeckia octandra",
+                "url": "https://youtube.com/watch?v=2LtRzIpW4ag",
+                "duration": "9:57",
+                "thumbnail": "https://i.ytimg.com/vi/2LtRzIpW4ag/hqdefault.jpg"
+            },
+            {
+                "title": "Heen Bovitiya (Osbeckia octandra) හීන් බෝවිටියා Medicinal plants #medicine #helthytips",
+                "url": "https://youtube.com/watch?v=9jqoTIxECW4",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/9jqoTIxECW4/hq720.jpg"
+            },
+            {
+                "title": "ආර්ථිකය හදන හැටි චමර සම්පත්ට ජනාධිපතිගෙන් පැහැදිලි උත්තරයක්!\"",
+                "url": "https://youtube.com/watch?v=HdosQuT2hGE",
+                "duration": "20:03",
+                "thumbnail": "https://i.ytimg.com/vi/HdosQuT2hGE/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා හරියට පැල කරමු.. ලක්ෂ ගණන් මුදල් හොයමූ(how to plant Eight-Stamen Osbeckia plant home)",
+                "url": "https://youtube.com/watch?v=OXHZRQ2ZV4Q",
+                "duration": "6:52",
+                "thumbnail": "https://i.ytimg.com/vi/OXHZRQ2ZV4Q/hqdefault.jpg"
+            },
+            {
+                "title": "Heen nidikumba | හීන් නිදිකුම්බා | Indika Koralage",
+                "url": "https://youtube.com/watch?v=53YF0idR9eU",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/53YF0idR9eU/hq720.jpg"
+            },
+            {
+                "title": "හීන් ඇඟිලි මිට මෙළවෙන කුරක්කන්",
+                "url": "https://youtube.com/watch?v=WOj-XwR56tQ",
+                "duration": "2:57",
+                "thumbnail": "https://i.ytimg.com/vi/WOj-XwR56tQ/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල ඇති ඖෂධීය ගුණ 😱👍",
+                "url": "https://youtube.com/watch?v=pbyG59djyC0",
+                "duration": "7:37",
+                "thumbnail": "https://i.ytimg.com/vi/pbyG59djyC0/hq720.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බා වල විශ්මිත ගුණ ය /heen nidikumba/hen nidikumb sinhala",
+                "url": "https://youtube.com/watch?v=ePaVTP1cGh0",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/ePaVTP1cGh0/hqdefault.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා ශාකය - අක්මා මිතුරා",
+                "url": "https://youtube.com/watch?v=6dMfO26tgak",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/6dMfO26tgak/hq720.jpg"
+            },
+            {
+                "title": "Covid වලට හොදම බෙහෙත / හීන් බින් කොහොඹ / Heen Bin Kohomba / Kiratha / Andrographis paniculata",
+                "url": "https://youtube.com/watch?v=CpBgmAJPAXg",
+                "duration": "6:46",
+                "thumbnail": "https://i.ytimg.com/vi/CpBgmAJPAXg/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ධ පිළිබඳ ඔබ දැනගත යුතු සියලුම කරුනු | Ashwagandha best sinhala review On youtube",
+                "url": "https://youtube.com/watch?v=K6ilCuAo3jQ",
+                "duration": "12:07",
+                "thumbnail": "https://i.ytimg.com/vi/K6ilCuAo3jQ/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා කැඳ වල විස්මිත ගුණ | අක්මාවෙ සියලු රෝග සඳහා #sinhala #srilanka #nutritionist",
+                "url": "https://youtube.com/watch?v=VyvIQFXxdj0",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/VyvIQFXxdj0/hq720.jpg"
+            },
+            {
+                "title": "Ashwagandha thailaya | ලිංගික දුර්වලතා සඳහ  අශ්වගන්ධ තෛලය #aurveda | RH rathnadeepa hela osu",
+                "url": "https://youtube.com/watch?v=Q1O1HgGLZG4",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/Q1O1HgGLZG4/hq720.jpg"
+            },
+            {
+                "title": "නිතරම වෙහෙසයිද? Office තෙහෙට්ටුවට ස්වභාවික විසඳුම: අශ්වගන්ධ වල රහස් 5ක්|Ashwagandha Benefits Sinhala",
+                "url": "https://youtube.com/watch?v=fQ5_gc_eyPs",
+                "duration": "5:43",
+                "thumbnail": "https://i.ytimg.com/vi/fQ5_gc_eyPs/hq720.jpg"
+            },
+            {
+                "title": "Ashwagandha-review| නිරෝගි lifestyle එකකට Ashwagandha|Bodybuilding & fitness ප්‍රබල සහයක් (සිංහලෙන්)",
+                "url": "https://youtube.com/watch?v=M_Q4eYc4Qkg",
+                "duration": "15:10",
+                "thumbnail": "https://i.ytimg.com/vi/M_Q4eYc4Qkg/hq720.jpg"
+            },
+            {
+                "title": "\"කමටහන්\" යනු කුමක්ද? ජීවිතයේ හැම මොහොතක්ම භාවනාවක් කරගන්නා රහස",
+                "url": "https://youtube.com/watch?v=_wdLO1kKPjw",
+                "duration": "7:03",
+                "thumbnail": "https://i.ytimg.com/vi/_wdLO1kKPjw/hq720.jpg"
+            },
+            {
+                "title": "Nidikumba/නිදිකුම්බා ශාකයේ විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=Rcg4VWgOhh8",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/Rcg4VWgOhh8/hq720.jpg"
+            },
+            {
+                "title": "Turmeric Water Benefits In The Evening | 10 Health Benefits of Turmeric Water Doctors Never Tell You",
+                "url": "https://youtube.com/watch?v=RsCITGR3IPQ",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/RsCITGR3IPQ/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Kidney Diseases",
-      "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Whole Plant"
-  ],
-  "images": [
-    {
-      "image_id": "1857",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/xtnvmxPQ/plant00021-01857.jpg"
-    },
-    {
-      "image_id": "1858",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/V01x0bNY/plant00021-01858.jpg"
-    },
-    {
-      "image_id": "1859",
-      "caption": "Fruit (PMR)",
-      "url": "https://i.ibb.co/tTyZcn1Y/plant00021-01859.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,126 +1,323 @@
 {
-  "scientificName": "Biophytum reinwardtii (Zucc.) Klotzsch",
-  "synonyms": [
-    "Biophytum reinwardtii var. gracilenta Edgew. & Hook.f.",
-    "Biophytum reinwardtii var. metziana Edgew. & Hook.f.",
-    "Biophytum reinwardtii var. nervioides Edgew. & Hook.f.",
-    "Biophytum sensitivum var. reinwardtii (Zucc.) Guillaumin",
-    "Oxalis gracilenta Kurz",
-    "Oxalis metziana Miq. ex Edgew. & Hook.f.",
-    "Oxalis reinwardtii Zucc."
-  ],
-  "familyName": "OXALIDACEAE",
-  "englishNames": [
-    "Reinwardt's Tree Plant"
-  ],
-  "sinhalaName": "Gas nidikumba (ගස් නිදිකුම්බා)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Biophytum reinwardtii (Zucc.) Klotzsch",
+    "synonyms": [
+        "Biophytum reinwardtii var. gracilenta Edgew. & Hook.f.",
+        "Biophytum reinwardtii var. metziana Edgew. & Hook.f.",
+        "Biophytum reinwardtii var. nervioides Edgew. & Hook.f.",
+        "Biophytum sensitivum var. reinwardtii (Zucc.) Guillaumin",
+        "Oxalis gracilenta Kurz",
+        "Oxalis metziana Miq. ex Edgew. & Hook.f.",
+        "Oxalis reinwardtii Zucc."
+    ],
+    "familyName": "OXALIDACEAE",
+    "englishNames": [
+        "Reinwardt's Tree Plant"
+    ],
+    "sinhalaName": "Gas nidikumba (ගස් නිදිකුම්බා)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Skin Blisters",
+            "sinhala": "සමේ දිය බිබිලි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bleeding Hemorrhoids",
+            "sinhala": "ලේ අර්ශස්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Irritable Bowel Syndrome",
+            "sinhala": "නොසන්සුන් බඩවැල් සින්ඩ්‍රෝමය (IBS)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Calculi",
+            "sinhala": "මුත්‍රා ගල්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Hypertension",
+            "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole plant"
+    ],
+    "images": [
+        {
+            "image_id": "874",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/My8KKfG9/plant00964-00874.jpg"
+        },
+        {
+            "image_id": "875",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/4ngDs2CM/plant00964-00875.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Heen nidikumba | හීන් නිදිකුම්බා | Indika Koralage",
+                "url": "https://youtube.com/watch?v=53YF0idR9eU",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/53YF0idR9eU/hq720.jpg"
+            },
+            {
+                "title": "උදරාබාධ, අතීසාරයට, දියවැඩියාවට ගුණ පුංචි පැළය | හීං නිදිකුම්බා/ගස් නිදිකුම්බා Heen Nidikumba Plant",
+                "url": "https://youtube.com/watch?v=IIqfxhHsl7k",
+                "duration": "6:45",
+                "thumbnail": "https://i.ytimg.com/vi/IIqfxhHsl7k/hq720.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බා ශාකය ගැන විස්තර සහ ඖෂධීය ගුණ | Benefits of Biophytum reinwardtii | හීන් නිදිකුම්බා",
+                "url": "https://youtube.com/watch?v=8iRynAE_2_E",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/8iRynAE_2_E/hq720.jpg"
+            },
+            {
+                "title": "ගස් නිදිකුම්බා / හිං නිදිකුම්බා Biophytum reinwardti",
+                "url": "https://youtube.com/watch?v=0R2DggR0Nuk",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/0R2DggR0Nuk/hq720.jpg"
+            },
+            {
+                "title": "#trending #herbal #plants හීං නිදිකුම්බා නොහොත් ගස් නිදිකුම්බා Reinwardt's Tree Plant",
+                "url": "https://youtube.com/watch?v=euvYSjKwkDs",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/euvYSjKwkDs/hqdefault.jpg"
+            },
+            {
+                "title": "හීං නිදිකුම්බා(ගස් නිදිකුම්බා ) Heen nidikumba #nature #herbs #garden #gardenherbs#plants #education",
+                "url": "https://youtube.com/watch?v=8-zh1lRHvS8",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/8-zh1lRHvS8/hq720.jpg"
+            },
+            {
+                "title": "Nidikumba/නිදිකුම්බා ශාකයේ විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=Rcg4VWgOhh8",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/Rcg4VWgOhh8/hq720.jpg"
+            },
+            {
+                "title": "ඔබගේ සියලු රෝග නිමා කරන බලගතු නිදිකුම්බා ශාකය",
+                "url": "https://youtube.com/watch?v=46YeC0ToCP4",
+                "duration": "8:28",
+                "thumbnail": "https://i.ytimg.com/vi/46YeC0ToCP4/hq720.jpg"
+            },
+            {
+                "title": "Amazing Sleeping Tree (Mimosa Pudica) නිදිකුම්බා ශාකය",
+                "url": "https://youtube.com/watch?v=vC7ZbidxpqQ",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/vC7ZbidxpqQ/hq720.jpg"
+            },
+            {
+                "title": "Mimosa Pudica (නිදිකුම්බා) Little World",
+                "url": "https://youtube.com/watch?v=UdnUnyavbto",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/UdnUnyavbto/hq720.jpg"
+            },
+            {
+                "title": "නිදිකුම්බා මෙහෙම බිව්වොත්  මෙන්න මේ භයානක රෝග පවා සුව වෙයි",
+                "url": "https://youtube.com/watch?v=cemGMX_uuaY",
+                "duration": "8:28",
+                "thumbnail": "https://i.ytimg.com/vi/cemGMX_uuaY/hq720.jpg"
+            },
+            {
+                "title": "නිදිකුම්බා ශාකයේ ඔසු ගුණ | Nidikumba @osu-1380",
+                "url": "https://youtube.com/watch?v=o32z9hZi7so",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/o32z9hZi7so/hq720.jpg"
+            },
+            {
+                "title": "කවුරුත් දන්නා නිදිකුම්බා ශාකයේ විශ්මිත ගුණ ගැන ඔබත් දැනගන්න | nidikumba | Mimosa Pudica🌿",
+                "url": "https://youtube.com/watch?v=9lK3nnxvhWI",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/9lK3nnxvhWI/hqdefault.jpg"
+            },
+            {
+                "title": "නිදිකුම්බා වල විශ්මිත ගුණ | ඔබේ ගෙවත්තේ තියන විස්මිත ඔසුව | නිදිකුම්බා (Nidikumba)",
+                "url": "https://youtube.com/watch?v=hpE5U_Db25E",
+                "duration": "8:25",
+                "thumbnail": "https://i.ytimg.com/vi/hpE5U_Db25E/hq720.jpg"
+            },
+            {
+                "title": "පස සරු කරන නිදිකුම්බා වල ඇති ඖෂධීය ගුණ | Mimosa Pudica",
+                "url": "https://youtube.com/watch?v=CIaHx0QqHhM",
+                "duration": "9:31",
+                "thumbnail": "https://i.ytimg.com/vi/CIaHx0QqHhM/hq720.jpg"
+            },
+            {
+                "title": "නිදි කුම්බා ගුණ| Mimosa pudica පානයට ගාන්නා නිදිකුම්බා  රහස්",
+                "url": "https://youtube.com/watch?v=pD4ROAAnr04",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/pD4ROAAnr04/hqdefault.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බ|ඔසු පැලයේ ගුණ | Heen nidikumba | Biophytum reinwardti |A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=0aY7gRgkIpY",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/0aY7gRgkIpY/hq720.jpg"
+            },
+            {
+                "title": "නිදිගැට හැර බලමු නිදිකුම්බා ගුණ මහරු",
+                "url": "https://youtube.com/watch?v=49V1NnUZxqQ",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/49V1NnUZxqQ/hqdefault.jpg"
+            },
+            {
+                "title": "Nidikumba -නිදිකුම්භා ශාකයේ විශ්මිත ඖෂධීය ගුණ|Mimosa pudica",
+                "url": "https://youtube.com/watch?v=8wjRT-QRpPY",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/8wjRT-QRpPY/hq720.jpg"
+            },
+            {
+                "title": "වැඩකට නෑ කියන නිදිකුම්බා වලින් වැඩක් ගන්න හැටි - තිලක් කන්දේගම / Shameplant - Sri Lanka",
+                "url": "https://youtube.com/watch?v=9OFhPfgiWvY",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/9OFhPfgiWvY/hq720.jpg"
+            },
+            {
+                "title": "හින් නිදිකුම්බා ශාකයේ විශ්මිත බලය/#heen nidikumba#/biophytum/sensitive/#medicinal#/#ishan#/",
+                "url": "https://youtube.com/watch?v=iCBBdtX9tWg",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/iCBBdtX9tWg/hq720.jpg"
+            },
+            {
+                "title": "හීන් නිදිකුම්බා වල විශ්මිත ගුණ ය /heen nidikumba/hen nidikumb sinhala",
+                "url": "https://youtube.com/watch?v=ePaVTP1cGh0",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/ePaVTP1cGh0/hqdefault.jpg"
+            },
+            {
+                "title": "nidikumba/නිදිකුම්බා ශාකයේ නොදන්න කතාව,/agriculture  in srilanka",
+                "url": "https://youtube.com/watch?v=Q2DOj-VClYs",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/Q2DOj-VClYs/hqdefault.jpg"
+            },
+            {
+                "title": "නිදිකුම්බා ශාක⁣යේ ඇති ගුණ",
+                "url": "https://youtube.com/watch?v=zXbgjMhsx98",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/zXbgjMhsx98/hq720.jpg"
+            },
+            {
+                "title": "NIDIKUMBA #නිදිකුම්බා  ඔයත් මහ වදයක් කියල හිතුවනම් මේක බලන්නම වෙනවා.🤔🤔🤔🤔🍀🍀",
+                "url": "https://youtube.com/watch?v=ieaesPoxdwU",
+                "duration": "10:13",
+                "thumbnail": "https://i.ytimg.com/vi/ieaesPoxdwU/hqdefault.jpg"
+            },
+            {
+                "title": "උදරාබාධ, අතීසාරයට, දියවැඩියාවට ගුණ පුංචි පැළය | හීං නිදිකුම්බා/ගස් නිදිකුම්බා Heen Nidikumba Plant",
+                "url": "https://youtube.com/watch?v=EbURCNgp5yA",
+                "duration": "6:45",
+                "thumbnail": "https://i.ytimg.com/vi/EbURCNgp5yA/frame0.jpg"
+            },
+            {
+                "title": "නිදිකුම්බා | නිදිකුම්බා ශාඛයේ ඖශධීය ගුන | Nidikumba | නිදි කුමාරි | sinhala | 2022",
+                "url": "https://youtube.com/watch?v=5O9ulA7AZYU",
+                "duration": "5:42",
+                "thumbnail": "https://i.ytimg.com/vi/5O9ulA7AZYU/hqdefault.jpg"
+            },
+            {
+                "title": "නිදිකුම්බා ශාකය. Mimosa Pudica, Sensitive Plant Time lapse",
+                "url": "https://youtube.com/watch?v=Fntr1be1Khg",
+                "duration": "1:39",
+                "thumbnail": "https://i.ytimg.com/vi/Fntr1be1Khg/hq720.jpg"
+            },
+            {
+                "title": "නිදිකුම්බා ගසේ sensitive plant medicine natural remedies sinhala #නිදිකුම්බාගසේ @new top SL",
+                "url": "https://youtube.com/watch?v=NxP5TN0CIXA",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/NxP5TN0CIXA/hq720.jpg"
+            },
+            {
+                "title": "Sensitive Plant | නිදිකුම්බා ශාකයේ ඖෂධීය වටිනාකම | Mimosa pudica",
+                "url": "https://youtube.com/watch?v=HeAImGrc-VI",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/HeAImGrc-VI/hq720.jpg"
+            },
+            {
+                "title": "උදරාබාධ, අතීසාරයට, දියවැඩියාවට ගුණ පුංචි පැළය | හීං නිදිකුම්බා/ගස් නිදිකුම්බා Heen Nidikumba Plant",
+                "url": "https://youtube.com/watch?v=Kznn-IbhW-s",
+                "duration": "6:45",
+                "thumbnail": "https://i.ytimg.com/vi/Kznn-IbhW-s/frame0.jpg"
+            },
+            {
+                "title": "Heen nidikumba | Gas nidikumba | Biophytum reinwardtii",
+                "url": "https://youtube.com/watch?v=EF8YqRBnJks",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/EF8YqRBnJks/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Skin Blisters",
-      "sinhala": "සමේ දිය බිබිලි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Bleeding Hemorrhoids",
-      "sinhala": "ලේ අර්ශස්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Irritable Bowel Syndrome",
-      "sinhala": "නොසන්සුන් බඩවැල් සින්ඩ්‍රෝමය (IBS)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Calculi",
-      "sinhala": "මුත්‍රා ගල්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Hypertension",
-      "sinhala": "අධි රුධිර පීඩනය (රක්තචාප)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole plant"
-  ],
-  "images": [
-    {
-      "image_id": "874",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/My8KKfG9/plant00964-00874.jpg"
-    },
-    {
-      "image_id": "875",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/4ngDs2CM/plant00964-00875.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

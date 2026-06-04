@@ -1,90 +1,191 @@
 {
-  "scientificName": "Amaranthus spinosus L.",
-  "synonyms": [
-    "Amaranthus caracasanus Kunth",
-    "Amaranthus coracanus Mart.",
-    "Amaranthus diacanthus Raf.",
-    "Amaranthus spinosus var. basiscissus Thell.",
-    "Amaranthus spinosus var. circumscissus Thell.",
-    "Amaranthus spinosus var. indehiscens Thell.",
-    "Amaranthus spinosus var. purpurascens Moq.",
-    "Amaranthus spinosus var. pygmaeus Hassk.",
-    "Amaranthus spinosus var. rubricaulis Hassk.",
-    "Amaranthus spinosus var. viridicaulis Hassk.",
-    "Galliaria spitosa (L.) Nieuwl."
-  ],
-  "familyName": "AMARANTHACEAE",
-  "englishNames": [
-    "Spiny Amaranth",
-    "Prickly Amaranth",
-    "Edlebur",
-    "Needle burr",
-    "Thorny Amaranth"
-  ],
-  "sinhalaName": "Katu thampala (කටු තම්පලා )",
-  "description": "මීටර් 1.5ක් දක්වා උසැති වාර්ෂික පැළෑටියකි; කඳ ශක්තිමත්ය, සමහර විට රතු පැහැයට හුරුය, කෝණිකය (angular), රෝම රහිතය (glabrous). පත්‍ර අක්ෂවල යුගල වශයෙන් පිහිටි කටු ඇත. පත්‍ර රෝම රහිතය (glabrous); පත්‍ර වෘන්ත සෙන්ටිමීටර 9ක් දක්වා වේ; පත්‍ර තලය සෙන්ටිමීටර 1.5-12 x 0.8-6 වේ. මල් ඒකලිංගිකය, කොළ පැහැතිය, සයිමස් (cymose) පොකුරු ලෙස පිහිටයි; පරිපුෂ්ප ඛණ්ඩ 5කි, ගැහැණු මල් මිලිමීටර 1.5-2.5ක් පමණ වේ. කරල් ඩිම්බාකාර-කුම්භාකාර (ovoid-urceolate) හැඩැතිය, මිලිමීටර 1-1.5ක් වේ. බීජ කළු සහ දිලිසෙන සුළු හෝ ලා පැහැතිය, මිලිමීටර 0.75-1ක් වේ.",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Amaranthus spinosus L.",
+    "synonyms": [
+        "Amaranthus caracasanus Kunth",
+        "Amaranthus coracanus Mart.",
+        "Amaranthus diacanthus Raf.",
+        "Amaranthus spinosus var. basiscissus Thell.",
+        "Amaranthus spinosus var. circumscissus Thell.",
+        "Amaranthus spinosus var. indehiscens Thell.",
+        "Amaranthus spinosus var. purpurascens Moq.",
+        "Amaranthus spinosus var. pygmaeus Hassk.",
+        "Amaranthus spinosus var. rubricaulis Hassk.",
+        "Amaranthus spinosus var. viridicaulis Hassk.",
+        "Galliaria spitosa (L.) Nieuwl."
+    ],
+    "familyName": "AMARANTHACEAE",
+    "englishNames": [
+        "Spiny Amaranth",
+        "Prickly Amaranth",
+        "Edlebur",
+        "Needle burr",
+        "Thorny Amaranth"
+    ],
+    "sinhalaName": "Katu thampala (කටු තම්පලා )",
+    "description": "මීටර් 1.5ක් දක්වා උසැති වාර්ෂික පැළෑටියකි; කඳ ශක්තිමත්ය, සමහර විට රතු පැහැයට හුරුය, කෝණිකය (angular), රෝම රහිතය (glabrous). පත්‍ර අක්ෂවල යුගල වශයෙන් පිහිටි කටු ඇත. පත්‍ර රෝම රහිතය (glabrous); පත්‍ර වෘන්ත සෙන්ටිමීටර 9ක් දක්වා වේ; පත්‍ර තලය සෙන්ටිමීටර 1.5-12 x 0.8-6 වේ. මල් ඒකලිංගිකය, කොළ පැහැතිය, සයිමස් (cymose) පොකුරු ලෙස පිහිටයි; පරිපුෂ්ප ඛණ්ඩ 5කි, ගැහැණු මල් මිලිමීටර 1.5-2.5ක් පමණ වේ. කරල් ඩිම්බාකාර-කුම්භාකාර (ovoid-urceolate) හැඩැතිය, මිලිමීටර 1-1.5ක් වේ. බීජ කළු සහ දිලිසෙන සුළු හෝ ලා පැහැතිය, මිලිමීටර 0.75-1ක් වේ.",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Eczema",
+            "sinhala": "දද (එක්සීමා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Whole Plant"
+    ],
+    "images": [
+        {
+            "image_id": "212",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/9mfMxNrG/plant00043-00212.jpg"
+        },
+        {
+            "image_id": "213",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/SDJZd8tX/plant00043-00213.jpg"
+        },
+        {
+            "image_id": "214",
+            "caption": "Leaf axils with spines",
+            "url": "https://i.ibb.co/Fq3d7yBn/plant00043-00214.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "පිළිකා, හෘද රෝග, ලේවල යකඩ අඩුවට රක්තහීනතාවයට දිව්‍ය ඔසුව කටු තම්පලා",
+                "url": "https://youtube.com/watch?v=o0KFT24QLuM",
+                "duration": "8:09",
+                "thumbnail": "https://i.ytimg.com/vi/o0KFT24QLuM/hq720.jpg"
+            },
+            {
+                "title": "කටු කූර තම්පලා",
+                "url": "https://youtube.com/watch?v=kbANLr_kNj4",
+                "duration": "0:19",
+                "thumbnail": "https://i.ytimg.com/vi/kbANLr_kNj4/hq720.jpg"
+            },
+            {
+                "title": "Kura tampala කූර තම්පලා",
+                "url": "https://youtube.com/watch?v=YIUaFQAbDj8",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/YIUaFQAbDj8/hqdefault.jpg"
+            },
+            {
+                "title": "මස් මාලු නොකන පුද්ගලයින්ට ඉතාමත් ගුණ රතු තම්පලා  අස්ථි ශක්තිමත් කර ශරීරයේ විෂ ඉවත් කරයි",
+                "url": "https://youtube.com/watch?v=RPwcIfwFEYQ",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/RPwcIfwFEYQ/hq720.jpg"
+            },
+            {
+                "title": "කූර තම්පලා වල ඇති ඖෂධීය ගුණ 😱😱😱",
+                "url": "https://youtube.com/watch?v=fWp8QMzPtq8",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/fWp8QMzPtq8/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ පිරි තම්පලා මාලුව / ව්‍යාංජනය Amaranth Leaves Curry,කූර තම්පලා,Koora Thampala, Thampala Curry",
+                "url": "https://youtube.com/watch?v=GwfKq9C6bTE",
+                "duration": "6:16",
+                "thumbnail": "https://i.ytimg.com/vi/GwfKq9C6bTE/hq720.jpg"
+            },
+            {
+                "title": "තම්පලා කෑවට කමක් නැද්ද : Amaranth Benefits",
+                "url": "https://youtube.com/watch?v=W7R_gR9mc84",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/W7R_gR9mc84/hq720.jpg"
+            },
+            {
+                "title": "රසයෙන් ගුණයෙන් පිරි තම්පලා මාළුව/ කූර තම්පලා කරිය / Koora Thampala Curry #amaranthleaves #thampala",
+                "url": "https://youtube.com/watch?v=BCLfHpOuFpg",
+                "duration": "5:35",
+                "thumbnail": "https://i.ytimg.com/vi/BCLfHpOuFpg/hqdefault.jpg"
+            },
+            {
+                "title": "ඉන්දියාවෙ තම්පලා රජු AMARANTH",
+                "url": "https://youtube.com/watch?v=RSvprugo9l4",
+                "duration": "0:40",
+                "thumbnail": "https://i.ytimg.com/vi/RSvprugo9l4/hq720.jpg"
+            },
+            {
+                "title": "කූර තම්පලා වල ගුණ | Kuura thampala wala guna | Sakalawaga",
+                "url": "https://youtube.com/watch?v=GqvP2KOEdOc",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/GqvP2KOEdOc/hqdefault.jpg"
+            },
+            {
+                "title": "Kura thampala | කූර තම්පලා | amaranth greens | ayurvedic plants of sri lanka",
+                "url": "https://youtube.com/watch?v=-2KfV33dzZc",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/-2KfV33dzZc/hq720.jpg"
+            },
+            {
+                "title": "SURVIVE PLANTING |Amaranth |තම්පලා වගාව|Episode 02",
+                "url": "https://youtube.com/watch?v=4fYosXSIyEI",
+                "duration": "9:05",
+                "thumbnail": "https://i.ytimg.com/vi/4fYosXSIyEI/hq720.jpg"
+            },
+            {
+                "title": "thampala/තම්පලා/",
+                "url": "https://youtube.com/watch?v=Yf1j0MltxyM",
+                "duration": "5:13",
+                "thumbnail": "https://i.ytimg.com/vi/Yf1j0MltxyM/hqdefault.jpg"
+            },
+            {
+                "title": "kura thampala/කූරතම්පලා වල ගුණ/amaranath green/ ayurvedic plant;/sri lanka",
+                "url": "https://youtube.com/watch?v=No-7VOOxkGg",
+                "duration": "5:25",
+                "thumbnail": "https://i.ytimg.com/vi/No-7VOOxkGg/hqdefault.jpg"
+            },
+            {
+                "title": "ගෙවතු වල ඉබේ හැදෙන රක්ත අර්ශස්, රත්පිත් ඇතුළු රෝග රැසකට ගුණ දෙන තම්පලා (කූරතම්පලා)",
+                "url": "https://youtube.com/watch?v=0Bt-kSIPh8k",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/0Bt-kSIPh8k/hq720.jpg"
+            },
+            {
+                "title": "✔  ගැස්ට්‍රයිටිස්ට් සුවයට තම්පලා Amaranth (Thampala) for gastric ulcers by Apé Amma",
+                "url": "https://youtube.com/watch?v=2YjlOzZF_mg",
+                "duration": "8:21",
+                "thumbnail": "https://i.ytimg.com/vi/2YjlOzZF_mg/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Eczema",
-      "sinhala": "දද (එක්සීමා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Whole Plant"
-  ],
-  "images": [
-    {
-      "image_id": "212",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/9mfMxNrG/plant00043-00212.jpg"
-    },
-    {
-      "image_id": "213",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/SDJZd8tX/plant00043-00213.jpg"
-    },
-    {
-      "image_id": "214",
-      "caption": "Leaf axils with spines",
-      "url": "https://i.ibb.co/Fq3d7yBn/plant00043-00214.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

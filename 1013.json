@@ -1,58 +1,219 @@
 {
-  "scientificName": "Cymbopogon citratus (DC.) Stapf",
-  "synonyms": [
-    "Andropogon cerifer Hack.",
-    "Andropogon citratus DC.",
-    "Andropogon citriodorus Desf.",
-    "Andropogon nardus subsp. cerifer (Hack.) Hack.",
-    "Andropogon roxburghii Nees ex Wight & Arn.",
-    "Cymbopogon nardus subvar. citratus (DC.) Roberty"
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Lemon Grass",
-    "West Indian Lemon Grass",
-    "Oil Grass",
-    "Fever Grass"
-  ],
-  "sinhalaName": "Sera (සේර)",
-  "description": "ගුල්මකාර බහුවාර්ෂික ශාකයකි (tufted perennial); රයිසෝමය ආනතය (oblique); කඳන් මීටර් 2ක් දක්වා උසය. පත්‍ර තල සෙන්ටිමීටර 90ක් දක්වා දිග සහ සෙන්ටිමීටර 2ක් දක්වා පළලය, ලෙමන් සුවඳින් යුක්තය. ව්‍යාජ මංජරිය (false panicle) විශාලය, සෙන්ටිමීටර 60ක් දක්වා දිගය. මංජරිකා (racemes) සෙන්ටිමීටර 1-2.5ක් දිගය. වෘන්ත රහිත ස්පයිකලෙට් (sessile spikelets) මිලිමීටර 5-6ක් දිග සහ මිලිමීටර 0.7ක් පළලය. වෘන්ත සහිත ස්පයිකලෙට් (pedicelled spikelets) මිලිමීටර 4-4.5ක් දිගය.",
-  "treatments": [
-    {
-      "treatment": "Nasopharyngeal Disorders",
-      "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Cymbopogon citratus (DC.) Stapf",
+    "synonyms": [
+        "Andropogon cerifer Hack.",
+        "Andropogon citratus DC.",
+        "Andropogon citriodorus Desf.",
+        "Andropogon nardus subsp. cerifer (Hack.) Hack.",
+        "Andropogon roxburghii Nees ex Wight & Arn.",
+        "Cymbopogon nardus subvar. citratus (DC.) Roberty"
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Lemon Grass",
+        "West Indian Lemon Grass",
+        "Oil Grass",
+        "Fever Grass"
+    ],
+    "sinhalaName": "Sera (සේර)",
+    "description": "ගුල්මකාර බහුවාර්ෂික ශාකයකි (tufted perennial); රයිසෝමය ආනතය (oblique); කඳන් මීටර් 2ක් දක්වා උසය. පත්‍ර තල සෙන්ටිමීටර 90ක් දක්වා දිග සහ සෙන්ටිමීටර 2ක් දක්වා පළලය, ලෙමන් සුවඳින් යුක්තය. ව්‍යාජ මංජරිය (false panicle) විශාලය, සෙන්ටිමීටර 60ක් දක්වා දිගය. මංජරිකා (racemes) සෙන්ටිමීටර 1-2.5ක් දිගය. වෘන්ත රහිත ස්පයිකලෙට් (sessile spikelets) මිලිමීටර 5-6ක් දිග සහ මිලිමීටර 0.7ක් පළලය. වෘන්ත සහිත ස්පයිකලෙට් (pedicelled spikelets) මිලිමීටර 4-4.5ක් දිගය.",
+    "treatments": [
+        {
+            "treatment": "Nasopharyngeal Disorders",
+            "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gastric Disorders",
+            "sinhala": "ආමාශගත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Pulmonary Disorders",
+            "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Rhizome"
+    ],
+    "images": [
+        {
+            "image_id": "",
+            "caption": "",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgOcduzykpWAsTM-j-itrhRfbNz10ERuOYvQ&s"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "සේර ගැන ඔබ දැනගතයුතුම කරුණු. රසකාරක මෙන්ම ඖෂධීය ගුණදෙන සේර.",
+                "url": "https://youtube.com/watch?v=CHEyunXmzQo",
+                "duration": "5:46",
+                "thumbnail": "https://i.ytimg.com/vi/CHEyunXmzQo/hq720.jpg"
+            },
+            {
+                "title": "අපි නොදන්න සේර - sera - lemon grass benefits",
+                "url": "https://youtube.com/watch?v=fg4fGeQyIns",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/fg4fGeQyIns/hq720.jpg"
+            },
+            {
+                "title": "සේර එකතු කළ කෑම කෑවොත් වෙන දේ මෙන්න : Benefits of Lemongrass",
+                "url": "https://youtube.com/watch?v=4YW0qKrjRB0",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/4YW0qKrjRB0/hq720.jpg"
+            },
+            {
+                "title": "සේර (LEMONGRASS) දියුණු වෙනවනම් මෙන්න වගාව",
+                "url": "https://youtube.com/watch?v=ydBSIw8crMk",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/ydBSIw8crMk/hq720.jpg"
+            },
+            {
+                "title": "Lemongrass | හරිම පහසුවෙන් සේර ගහක් හිටව ගමුද? | පිළිකාව නසන සේර | Ceylon Agri | Episode 81",
+                "url": "https://youtube.com/watch?v=E3uUcjzYNtc",
+                "duration": "11:10",
+                "thumbnail": "https://i.ytimg.com/vi/E3uUcjzYNtc/hq720.jpg"
+            },
+            {
+                "title": "සේර අස්වනු නෙලීම හා සැකසීමේ ක්‍රියාවලිය🌿🍃Process of harvesting, preparing & packaging of Lime Grass",
+                "url": "https://youtube.com/watch?v=ml31QszcT88",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/ml31QszcT88/hq720.jpg"
+            },
+            {
+                "title": "සේර තේ / Lemongrass Tea -Recipe 🌿🌿",
+                "url": "https://youtube.com/watch?v=8cIRHoeWZ5Q",
+                "duration": "0:17",
+                "thumbnail": "https://i.ytimg.com/vi/8cIRHoeWZ5Q/hqdefault.jpg"
+            },
+            {
+                "title": "සතියකට දෙපාරක් බීල විශ්මිත ප්‍රතිඵල අත් විඳින්න Lemon grass benefit / Sera tea / Lemon grass tea ❤",
+                "url": "https://youtube.com/watch?v=4TmiAWk-Zew",
+                "duration": "6:32",
+                "thumbnail": "https://i.ytimg.com/vi/4TmiAWk-Zew/hq720.jpg"
+            },
+            {
+                "title": "සේර වල විශ්මිත ගුණ - Amazing properties of Lemongrass",
+                "url": "https://youtube.com/watch?v=q_iO1GkYCgI",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/q_iO1GkYCgI/hq720.jpg"
+            },
+            {
+                "title": "පොලෙන් අරන් එන මුල් නැති සේර ගහෙන් ගුණ රස සුවද පිරුණු  සාරවත් සේර පදුරක් ලේසියෙන්ම හදාගමු",
+                "url": "https://youtube.com/watch?v=4gc78o1aL3w",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/4gc78o1aL3w/hq720.jpg"
+            },
+            {
+                "title": "තෙල්, පොහොර ඕනී නෑ වතුර විතරයි | Lemongrass cultivation | sera wagawa | සේර වගාව| lakshitha vlogs",
+                "url": "https://youtube.com/watch?v=9r-7AbE_Pwc",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/9r-7AbE_Pwc/hq720.jpg"
+            },
+            {
+                "title": "එදිනෙදා වියඩමට නියම විසදුම. සේර වගාව සරලව ඉගෙන ගමු.#happyfamilynm  #agriculture කුලුබඩු බෝග වවමු.",
+                "url": "https://youtube.com/watch?v=Xc0gyLvjcEQ",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/Xc0gyLvjcEQ/hq720.jpg"
+            },
+            {
+                "title": "රෝග රාශියකට ගුණදායක සේර....        Episode 18",
+                "url": "https://youtube.com/watch?v=dupHfePZmFE",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/dupHfePZmFE/hq720.jpg"
+            },
+            {
+                "title": "සේර කෑවොත් බඩුම තමයි  Know about sera?",
+                "url": "https://youtube.com/watch?v=8zC_cM7hQs0",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/8zC_cM7hQs0/hqdefault.jpg"
+            },
+            {
+                "title": "rasaguna athi sera # රස ගුණ පිරි සේර # lemon grass # siw helaya",
+                "url": "https://youtube.com/watch?v=goV5B7GOoJo",
+                "duration": "7:33",
+                "thumbnail": "https://i.ytimg.com/vi/goV5B7GOoJo/hq720.jpg"
+            },
+            {
+                "title": "සේර කොච්චර ගුණ ද දන්නවද ?",
+                "url": "https://youtube.com/watch?v=g_-pwCjpJ-8",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/g_-pwCjpJ-8/hq720.jpg"
+            },
+            {
+                "title": "සුවඳින් පිළිකා සෛල වනසන දිව ඔසුව සේර ගුණ නෑර   Lemongrass is a drug that helps destroys cancer cells",
+                "url": "https://youtube.com/watch?v=NobeUU5rdVQ",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/NobeUU5rdVQ/hqdefault.jpg"
+            },
+            {
+                "title": "පිළිකා ඇතුළු ලෙඩ රෝග රාශියකට ගුණදායක වන සේර ශාකයේ ගුණ අගුණ හරියට දැනගමු | Lemongrass | සේර",
+                "url": "https://youtube.com/watch?v=F_i-sicJM7M",
+                "duration": "7:45",
+                "thumbnail": "https://i.ytimg.com/vi/F_i-sicJM7M/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්තෙ සේර වගා කරමුද? | How to grow sera plant? | Ceylon Agri | Epi. 475",
+                "url": "https://youtube.com/watch?v=xkFRAB8G7TM",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/xkFRAB8G7TM/hq720.jpg"
+            },
+            {
+                "title": "How to grow lemongras /පිලිකාව නසන සේර/ආයුර්වේද බෙහෙත්",
+                "url": "https://youtube.com/watch?v=RMERm09xAtI",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/RMERm09xAtI/hq720.jpg"
+            },
+            {
+                "title": "දහඩිය ගද යන සුපිරි හෝටල්වල භවිතාවන සේර පානය කරමු",
+                "url": "https://youtube.com/watch?v=NU3Ndiv_v58",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/NU3Ndiv_v58/hq720.jpg"
+            },
+            {
+                "title": "LEMON GRASS RICE | YELLOW RICE |  සේර බත් 02",
+                "url": "https://youtube.com/watch?v=z0x7TkPSgIY",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/z0x7TkPSgIY/hqdefault.jpg"
+            },
+            {
+                "title": "සේර (seara) - Cymbopogon Citratus",
+                "url": "https://youtube.com/watch?v=YGUnSpHX_Y4",
+                "duration": "0:48",
+                "thumbnail": "https://i.ytimg.com/vi/YGUnSpHX_Y4/hq720.jpg"
+            },
+            {
+                "title": "අපි නොදන්න සේර - sera - lemon grass benefits",
+                "url": "https://youtube.com/watch?v=7wQShRNyYSI",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/7wQShRNyYSI/frame0.jpg"
+            },
+            {
+                "title": "අපි නොදන්න සේර - sera - lemon grass benefits",
+                "url": "https://youtube.com/watch?v=f9O1fXfHpf0",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/f9O1fXfHpf0/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Gastric Disorders",
-      "sinhala": "ආමාශගත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Pulmonary Disorders",
-      "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Rhizome"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

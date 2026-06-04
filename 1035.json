@@ -1,57 +1,488 @@
 {
-  "scientificName": "Ischaemum ciliare Retz.",
-  "synonyms": [
-    "Andropogon aesthenos Steud.",
-    "Andropogon asthenos Steud.",
-    "Andropogon bifidus Steud.",
-    "Andropogon macraei Steud.",
-    "Andropogon malacophyllus Hochst. ex Steud.",
-    "Andropogon patentivillosus Steud.",
-    "Andropogon ramosus Blanco",
-    "Andropogon retzii Steud.",
-    "Andropogon simillimus Steud.",
-    "Ischaemum apricum Ridl.",
-    "Ischaemum aristatum var. wallichii (Hack.) Bor",
-    "Ischaemum ciliare var. longipilum Hack.",
-    "Ischaemum ciliare var. malacophyllum (Hochst. ex Steud.) Hack.",
-    "Ischaemum ciliare var. prorepens Hack.",
-    "Ischaemum ciliare var. scrobiculatum Hack.",
-    "Ischaemum ciliare var. villosum (Nees) Hack.",
-    "Ischaemum ciliare var. wallichii Hack.",
-    "Ischaemum indicum subvar. longipilum (Hack.) Bor",
-    "Ischaemum indicum subvar. malacophyllum (Hochst. ex Steud.) Bor",
-    "Ischaemum indicum subvar. scrobiculatum (Hack.) Bor",
-    "Ischaemum indicum subvar. villosum (Nees) Bor",
-    "Ischaemum indicum subvar. wallichii (Hack.) Bor",
-    "Ischaemum indicum var. breviaristatum H.R.Zhao",
-    "Ischaemum indicum var. guandongense H.R.Zhao",
-    "Ischaemum indicum var. longipilum (Hack.) Davidse",
-    "Ischaemum indicum var. malacophyllum (Hochst. ex Steud.) Ohwi",
-    "Ischaemum indicum var. scrobiculatum (Hack.) R.Kr.Singh & P.S.N.Rao",
-    "Ischaemum indicum var. togasii Ohwi",
-    "Ischaemum indicum var. villosum (Nees) R.Kr.Singh & P.S.N.Rao",
-    "Ischaemum indicum var. wallichii (Hack.) R.Kr.Singh & P.S.N.Rao",
-    "Ischaemum longipilum (Hack.) Alston",
-    "Ischaemum scrobiculatum Wight & Arn. ex Steud.",
-    "Ischaemum tenellum Roxb.",
-    "Meoschium ciliare (Retz.) P.Beauv.",
-    "Phleum indicum var. wallichii (Hack.) Bor",
-    "Spodiopogon inaequalivalvis Nees ex Steud.",
-    "Spodiopogon obliquivalvis Nees",
-    "Spodiopogon obliquivalvis var. villosus (Nees) Benth.",
-    "Spodiopogon scrobiculatus Nees ex Steud.",
-    "Spodiopogon villosus Nees",
-    "Spodiopogon zeylanicus Nees ex Steud."
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Smutgrass",
-    "Batiki Blue Grass"
-  ],
-  "sinhalaName": "Rattana (රත්තණ)",
-  "description": "ඉක්මනින් ලබාගත හැක",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Ischaemum ciliare Retz.",
+    "synonyms": [
+        "Andropogon aesthenos Steud.",
+        "Andropogon asthenos Steud.",
+        "Andropogon bifidus Steud.",
+        "Andropogon macraei Steud.",
+        "Andropogon malacophyllus Hochst. ex Steud.",
+        "Andropogon patentivillosus Steud.",
+        "Andropogon ramosus Blanco",
+        "Andropogon retzii Steud.",
+        "Andropogon simillimus Steud.",
+        "Ischaemum apricum Ridl.",
+        "Ischaemum aristatum var. wallichii (Hack.) Bor",
+        "Ischaemum ciliare var. longipilum Hack.",
+        "Ischaemum ciliare var. malacophyllum (Hochst. ex Steud.) Hack.",
+        "Ischaemum ciliare var. prorepens Hack.",
+        "Ischaemum ciliare var. scrobiculatum Hack.",
+        "Ischaemum ciliare var. villosum (Nees) Hack.",
+        "Ischaemum ciliare var. wallichii Hack.",
+        "Ischaemum indicum subvar. longipilum (Hack.) Bor",
+        "Ischaemum indicum subvar. malacophyllum (Hochst. ex Steud.) Bor",
+        "Ischaemum indicum subvar. scrobiculatum (Hack.) Bor",
+        "Ischaemum indicum subvar. villosum (Nees) Bor",
+        "Ischaemum indicum subvar. wallichii (Hack.) Bor",
+        "Ischaemum indicum var. breviaristatum H.R.Zhao",
+        "Ischaemum indicum var. guandongense H.R.Zhao",
+        "Ischaemum indicum var. longipilum (Hack.) Davidse",
+        "Ischaemum indicum var. malacophyllum (Hochst. ex Steud.) Ohwi",
+        "Ischaemum indicum var. scrobiculatum (Hack.) R.Kr.Singh & P.S.N.Rao",
+        "Ischaemum indicum var. togasii Ohwi",
+        "Ischaemum indicum var. villosum (Nees) R.Kr.Singh & P.S.N.Rao",
+        "Ischaemum indicum var. wallichii (Hack.) R.Kr.Singh & P.S.N.Rao",
+        "Ischaemum longipilum (Hack.) Alston",
+        "Ischaemum scrobiculatum Wight & Arn. ex Steud.",
+        "Ischaemum tenellum Roxb.",
+        "Meoschium ciliare (Retz.) P.Beauv.",
+        "Phleum indicum var. wallichii (Hack.) Bor",
+        "Spodiopogon inaequalivalvis Nees ex Steud.",
+        "Spodiopogon obliquivalvis Nees",
+        "Spodiopogon obliquivalvis var. villosus (Nees) Benth.",
+        "Spodiopogon scrobiculatus Nees ex Steud.",
+        "Spodiopogon villosus Nees",
+        "Spodiopogon zeylanicus Nees ex Steud."
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Smutgrass",
+        "Batiki Blue Grass"
+    ],
+    "sinhalaName": "Rattana (රත්තණ)",
+    "description": "ඉක්මනින් ලබාගත හැක",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Is the Rakattana tree so valuable?- රුක් අත්තන ගස මෙතරම් වටිනවාද? නිවසක මේම ගසක් තිබුනොත් ආයුෂ වැඩී",
+                "url": "https://youtube.com/watch?v=A2e3EPnisHI",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/A2e3EPnisHI/hqdefault.jpg"
+            },
+            {
+                "title": "රණවරා ශාකය සතු ඇදහිය නොහැකි ඖෂධීය ගුණ | Ranawara benefite | senna auriculata🌿♻",
+                "url": "https://youtube.com/watch?v=zQNKlgAF0k8",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/zQNKlgAF0k8/hqdefault.jpg"
+            },
+            {
+                "title": "ස්නායු රෝග සදහා ගුණ, සමහර පැතිවල ගොනිකා නමින් හදුන්වන රෑනමැඩිය නම් ඔසුව (Raanamadiya)",
+                "url": "https://youtube.com/watch?v=VjJVTX5Y_bs",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/VjJVTX5Y_bs/hq720.jpg"
+            },
+            {
+                "title": "ලස්සන වෙන්න රත්හදුන් | Rathhadun Sinhala | Story Eka",
+                "url": "https://youtube.com/watch?v=xfcteOL8kT8",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/xfcteOL8kT8/hq720.jpg"
+            },
+            {
+                "title": "Rasakida | රසකිඳ ශාකයේ ඔසු ගුණ වරුන | @osu-1380",
+                "url": "https://youtube.com/watch?v=n-Vn_83Jk-w",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/n-Vn_83Jk-w/hq720.jpg"
+            },
+            {
+                "title": "''යකිනාරං'' ගුණ අගුණ - බොන අයට විශේෂයි",
+                "url": "https://youtube.com/watch?v=2LBwRtBbLHY",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/2LBwRtBbLHY/hqdefault.jpg"
+            },
+            {
+                "title": "රසකිද වල ඖෂධීය ගුණ/Rasakinda Wala aushadeeya guna",
+                "url": "https://youtube.com/watch?v=BWqC5vJIdMo",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/BWqC5vJIdMo/hq720.jpg"
+            },
+            {
+                "title": "උදේට පාන් එපා මෙන්න රක්තහීනතාවයට ගුණ ලේ වඩවන පානයන් 2ක් | මේක බිව්වම කන්න ඕනත් නෑ | le wadawana kama",
+                "url": "https://youtube.com/watch?v=cl3XLpXplVQ",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/cl3XLpXplVQ/hq720.jpg"
+            },
+            {
+                "title": "රෝග 109 කට ගුණ දෙන වටිනා ශාකය The Miracle Plant That Heals 109 Diseases / Munnoria pinnata",
+                "url": "https://youtube.com/watch?v=PWtpgond4kA",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/PWtpgond4kA/hq720.jpg"
+            },
+            {
+                "title": "දත් කැක්කුමට \"රන් මානිස්ස\" - තිලක් කන්දේගම / Herbal Plant for Toothache @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=m2dVCqj-WRU",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/m2dVCqj-WRU/hq720.jpg"
+            },
+            {
+                "title": "Red Sandalwood |රන් රිදී පරදන\" රත් හඳුන් \"| Extra Episode 01 | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=kBBPJl9OBV4",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/kBBPJl9OBV4/hqdefault.jpg"
+            },
+            {
+                "title": "🔴🔵රටකජු වල සැඟවුණු \"ගුණ සහ අගුණ\" මෙන්න | Benefits and Risks of Peanuts Sinhala | Hela Suwa TV",
+                "url": "https://youtube.com/watch?v=BIFcznWW2So",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/BIFcznWW2So/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "රක්තයා නැතිකරගන්න හරිම විදිය | Eczema | Skin Specialist",
+                "url": "https://youtube.com/watch?v=PGB3831gfG8",
+                "duration": "8:38",
+                "thumbnail": "https://i.ytimg.com/vi/PGB3831gfG8/hq720.jpg"
+            },
+            {
+                "title": "රණවරා නිතර බොන අයට වෙන දේ මෙන්න  : Benefits of Ranawara Tea",
+                "url": "https://youtube.com/watch?v=TGIjF3H7E8Y",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/TGIjF3H7E8Y/hq720.jpg"
+            },
+            {
+                "title": "හැමෝම හොයන රතු රත්‍රන් ගැන මේ දේවල් දැනගෙන හිටියාද ? | Impressive Health Benefits of Saffron | Awata",
+                "url": "https://youtube.com/watch?v=ZMM9YPXfjcg",
+                "duration": "8:56",
+                "thumbnail": "https://i.ytimg.com/vi/ZMM9YPXfjcg/hqdefault.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවොත් ලැබෙන දේවල් මෙන්න : Benefits of Ragi Kurakkan (NEW) 2019",
+                "url": "https://youtube.com/watch?v=oKoud-XKUeA",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/oKoud-XKUeA/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "රත්මල් |Ixora coccinea",
+                "url": "https://youtube.com/watch?v=67nCLWxSovw",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/67nCLWxSovw/hqdefault.jpg"
+            },
+            {
+                "title": "රක්තහීනතාවයට ගුණ දෙන වටිනා මැල්ලුම් සහ කරි වර්ග | best food for anemia | le wadana ahara | moringa",
+                "url": "https://youtube.com/watch?v=q3A6-LRk2rA",
+                "duration": "18:00",
+                "thumbnail": "https://i.ytimg.com/vi/q3A6-LRk2rA/hq720.jpg"
+            },
+            {
+                "title": "Rathmal |රත්මල් | දිව ඔසුවක් වන්නේ කෙසේද  Health benefits of jungle geranium",
+                "url": "https://youtube.com/watch?v=3X5RWtZ49OY",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/3X5RWtZ49OY/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිය වඩවන දිව්‍යමය ඖෂධය ||The divine potion that increases strength #Amukkara",
+                "url": "https://youtube.com/watch?v=JNtQ2Yhl1iM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/JNtQ2Yhl1iM/hqdefault.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "6 Free Weeds That Are Stronger Than Antibiotics",
+                "url": "https://youtube.com/watch?v=VXBU7B4mqwU",
+                "duration": "14:46",
+                "thumbnail": "https://i.ytimg.com/vi/VXBU7B4mqwU/hq720.jpg"
+            },
+            {
+                "title": "Nettle as a Restorative Herb for Minerals, Vitality, and Long-Term Healing with Juliet Howard",
+                "url": "https://youtube.com/watch?v=EKAD1GUiJRI",
+                "duration": "1:00:04",
+                "thumbnail": "https://i.ytimg.com/vi/EKAD1GUiJRI/hq720.jpg"
+            },
+            {
+                "title": "🔥 වකුගඩු වලට දැනගත යුතු හොඳ සහ නරක අතිරේක⚠️ වකුගඩු වලට හානි කරයිද?! kidney health Vitamins",
+                "url": "https://youtube.com/watch?v=9OrQHJynr4I",
+                "duration": "20:03",
+                "thumbnail": "https://i.ytimg.com/vi/9OrQHJynr4I/hq720.jpg"
+            },
+            {
+                "title": "කෙණ්ඩා පෙරලීම මෙතරම් භයානකද? The Hidden Danger of Leg Cramps!",
+                "url": "https://youtube.com/watch?v=DKFnTu2dVyI",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/DKFnTu2dVyI/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ලේ වඩවන ආහාර 20 ක් | රක්තහීනතාවය වලක්වන්න කන්න | Iron Rich Foods",
+                "url": "https://youtube.com/watch?v=Iwh34rqk7iA",
+                "duration": "16:24",
+                "thumbnail": "https://i.ytimg.com/vi/Iwh34rqk7iA/hq720.jpg"
+            },
+            {
+                "title": "අධි රුධිර පීඩනය ස්වාභාවිකව පාලනය කරන ආහාර ර්ග 15ක් | 15 Best Foods for High Blood Pressure",
+                "url": "https://youtube.com/watch?v=iD2L88GekBM",
+                "duration": "11:55",
+                "thumbnail": "https://i.ytimg.com/vi/iD2L88GekBM/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "හැදෙන්න තියන පිළිකාවක් උනත් වලකන ලෙඩ 300කට ගුණ පානයක් | දියවැඩියාවට කොලෙස්ටරෝල් වලට බෙහෙත් nira S",
+                "url": "https://youtube.com/watch?v=5TmsOIyY_W8",
+                "duration": "6:33",
+                "thumbnail": "https://i.ytimg.com/vi/5TmsOIyY_W8/hq720.jpg"
+            },
+            {
+                "title": "අප්‍රාණිකත්වයට හරිම සප්ලිමන්ට් එක? | L- Arginine vs L- Citrulline - @behethbydrnamal",
+                "url": "https://youtube.com/watch?v=kbYnVroHlsI",
+                "duration": "6:50",
+                "thumbnail": "https://i.ytimg.com/vi/kbYnVroHlsI/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ තයිරොයිඩ් ග්‍රන්ථියේ ගැටළු ඇති බව කල්තියා පෙනුම් කරන ලක්ෂණ 9ක් | තයිරොයිඩ් සුව කරන හොදම ආහාර",
+                "url": "https://youtube.com/watch?v=tTHJZt_NS2w",
+                "duration": "25:32",
+                "thumbnail": "https://i.ytimg.com/vi/tTHJZt_NS2w/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන, ලෙඩවීම වලක්වන, පිටි වර්ග 7 ක්!",
+                "url": "https://youtube.com/watch?v=S_RsfSLzUw8",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/S_RsfSLzUw8/hq720.jpg"
+            },
+            {
+                "title": "දරු ප්‍රසූතිය පහසු කරන දියවැඩියාව පාලනය කරන රටඉඳි වල පුදුම හිතෙන ගුන",
+                "url": "https://youtube.com/watch?v=kqwoHKwBGvs",
+                "duration": "8:24",
+                "thumbnail": "https://i.ytimg.com/vi/kqwoHKwBGvs/hqdefault.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටීස් ඉක්මනින්ම අදුරගන්න පුළුවන් සරල රෝග ලක්ෂණ - ආතරයිටීස් සුවකරන හොඳම ආහාර මෙන්න",
+                "url": "https://youtube.com/watch?v=ffFttVwNHfA",
+                "duration": "18:27",
+                "thumbnail": "https://i.ytimg.com/vi/ffFttVwNHfA/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "රක්නහීනතාවය ගැන හරියටම දැන ගන්න - One of the most important things you don't know about anemia",
+                "url": "https://youtube.com/watch?v=LKW7L3MfoLo",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/LKW7L3MfoLo/hq720.jpg"
+            },
+            {
+                "title": "ගුණ පිරි මුද්දරප්පලම්වල ඇති විස්මිත ප්‍රතිලාභ මෙන්න #raisinsbenefits #healthy #food",
+                "url": "https://youtube.com/watch?v=nMSW30KNn-I",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/nMSW30KNn-I/hq720.jpg"
+            },
+            {
+                "title": "මේ දිනවල රට පුරා පැතිරෙන ලෙඩේට සැබෑ හේතුව කුමක්ද? ශාඛ සහ බීජ වල කල්පයක් පුරා පවතින වීර්ය කුමක්ද?",
+                "url": "https://youtube.com/watch?v=8YROIPMGNVc",
+                "duration": "25:24",
+                "thumbnail": "https://i.ytimg.com/vi/8YROIPMGNVc/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලි වල මෙච්චර ගුණයක්? 🍏 විශ්මිත සෞඛ්‍ය ප්‍රතිලාභ මෙන්න! |",
+                "url": "https://youtube.com/watch?v=rZyWK4LRjHE",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/rZyWK4LRjHE/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "supportive structures of plants | science sinhala medium #passionfruit #plants",
+                "url": "https://youtube.com/watch?v=eeIqoTkE7i0",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/eeIqoTkE7i0/hq720.jpg"
+            },
+            {
+                "title": "පෙයාස් කියන්නෙ කෙමිකල් ගොන්නක එකතුවක් | Pears and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=GE9JREHevZE",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/GE9JREHevZE/hq720.jpg"
+            },
+            {
+                "title": "රක්තවාතය හැදෙන්න තියනවා නම් මෙන්න මේ ලක්ෂණ මතු වෙනවා | බේරෙන්න ඕනේ නම් කවදාවත් මේ කෑම කන්න එපා!!",
+                "url": "https://youtube.com/watch?v=ewRX61N7-mA",
+                "duration": "18:01",
+                "thumbnail": "https://i.ytimg.com/vi/ewRX61N7-mA/hq720.jpg"
+            },
+            {
+                "title": "Relationship between plants and animals | 4 ශ්‍රේණිය/පරිසරය/ශාක හා සතුන් අතර සම්බන්ධතාවය.",
+                "url": "https://youtube.com/watch?v=gMqvtRLdvLM",
+                "duration": "14:40",
+                "thumbnail": "https://i.ytimg.com/vi/gMqvtRLdvLM/hq720.jpg"
+            },
+            {
+                "title": "Grade 4 | පරිසරය | ශාක සහ සතුන් අතර ඇති සම්බන්ධතා",
+                "url": "https://youtube.com/watch?v=mmHuVAJH9Oo",
+                "duration": "8:39",
+                "thumbnail": "https://i.ytimg.com/vi/mmHuVAJH9Oo/hq720.jpg"
+            },
+            {
+                "title": "මේ දේවල් වල ප්‍රයෝජන දැනගෙන කරමු (Sinhala) හැමෝම නොදන්න ගොඩක් දේ",
+                "url": "https://youtube.com/watch?v=6udAxTpJvv0",
+                "duration": "6:27",
+                "thumbnail": "https://i.ytimg.com/vi/6udAxTpJvv0/hq720.jpg"
+            },
+            {
+                "title": "ශාකවල පෝෂණ අවශ්‍යතා සිංහලෙන් සරලව (Crop Nutrient Requirements in Sinhala)",
+                "url": "https://youtube.com/watch?v=PdOvvgjS7Ek",
+                "duration": "28:45",
+                "thumbnail": "https://i.ytimg.com/vi/PdOvvgjS7Ek/hq720.jpg"
+            },
+            {
+                "title": "Amazing Arugula: 6 Benefits",
+                "url": "https://youtube.com/watch?v=veel2QMC-Xc",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/veel2QMC-Xc/hq720.jpg"
+            },
+            {
+                "title": "Rhodiola Root's Many Health Benefits",
+                "url": "https://youtube.com/watch?v=TZxyTIlXGYk",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/TZxyTIlXGYk/hq720.jpg"
+            },
+            {
+                "title": "10 Health Benefits Of Rutabaga",
+                "url": "https://youtube.com/watch?v=lA8BFiIDXj8",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/lA8BFiIDXj8/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Taro Root | Boost Immunity and get Glowing Skin",
+                "url": "https://youtube.com/watch?v=wW-XcI9kLr4",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/wW-XcI9kLr4/hq720.jpg"
+            },
+            {
+                "title": "11 Remarkable Stinging Nettle Benefits For Hair, Body, Skin & Gout",
+                "url": "https://youtube.com/watch?v=ZjXXvKizC8A",
+                "duration": "5:50",
+                "thumbnail": "https://i.ytimg.com/vi/ZjXXvKizC8A/hq720.jpg"
+            },
+            {
+                "title": "10 Amazing BENEFITS of Taurine",
+                "url": "https://youtube.com/watch?v=tm-6VLit3Ac",
+                "duration": "9:45",
+                "thumbnail": "https://i.ytimg.com/vi/tm-6VLit3Ac/hq720.jpg"
+            },
+            {
+                "title": "Taro Root: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=n6fIrOKvBx0",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/n6fIrOKvBx0/hq720.jpg"
+            },
+            {
+                "title": "Plantain Uses and Benefits",
+                "url": "https://youtube.com/watch?v=-97NXHyxRjA",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/-97NXHyxRjA/hq720.jpg"
+            },
+            {
+                "title": "6 Health Benefits of Nettle | Benefits of Stinging Nettle Root to Know",
+                "url": "https://youtube.com/watch?v=A4fzFvmQWZM",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/A4fzFvmQWZM/hq720.jpg"
+            },
+            {
+                "title": "5 Benefits of Stinging Nettle Root",
+                "url": "https://youtube.com/watch?v=o-HxGaqiBU4",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/o-HxGaqiBU4/hq720.jpg"
+            },
+            {
+                "title": "Careful about this when taking Arugula | Top 10 Health Benefits of Arugula | Arugula Salad",
+                "url": "https://youtube.com/watch?v=_zT1iJLTHeE",
+                "duration": "5:43",
+                "thumbnail": "https://i.ytimg.com/vi/_zT1iJLTHeE/hq720.jpg"
+            },
+            {
+                "title": "8 Things About Arugula Greens - Rocket Lettuce Nutrition",
+                "url": "https://youtube.com/watch?v=DkVQINORQdA",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/DkVQINORQdA/hq720.jpg"
+            },
+            {
+                "title": "Amazing Arugula: 6 Benefits",
+                "url": "https://youtube.com/watch?v=WMTEyhRMVmM",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/WMTEyhRMVmM/frame0.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

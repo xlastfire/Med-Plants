@@ -1,140 +1,223 @@
 {
-  "scientificName": "Crinum asiaticum L.",
-  "synonyms": [
-    "Bulbine asiatica (L.) Gaertn.",
-    "Crinum brevifolium Roxb.",
-    "Crinum toxicarium var. asiaticum (L.) Herb."
-  ],
-  "familyName": "AMARYLLIDACEAE",
-  "englishNames": [
-    "Giant Crinum Lily",
-    "Seashore Lily",
-    "Poison Bulb",
-    "Crinum Lily",
-    "Asiatic Poison Lily",
-    "Spider Lily",
-    "Seashore Crinum"
-  ],
-  "sinhalaName": "Tholabo (තොලබෝ)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Earache",
-      "sinhala": "කන් කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Crinum asiaticum L.",
+    "synonyms": [
+        "Bulbine asiatica (L.) Gaertn.",
+        "Crinum brevifolium Roxb.",
+        "Crinum toxicarium var. asiaticum (L.) Herb."
+    ],
+    "familyName": "AMARYLLIDACEAE",
+    "englishNames": [
+        "Giant Crinum Lily",
+        "Seashore Lily",
+        "Poison Bulb",
+        "Crinum Lily",
+        "Asiatic Poison Lily",
+        "Spider Lily",
+        "Seashore Crinum"
+    ],
+    "sinhalaName": "Tholabo (තොලබෝ)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Earache",
+            "sinhala": "කන් කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Sprains",
+            "sinhala": "උළුක්කු වීම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Arthritis",
+            "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Whitlow",
+            "sinhala": "නියපොතු කොන පැසවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Pneumonia",
+            "sinhala": "නියුමෝනියාව (පෙනහළු ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Lumbago",
+            "sinhala": "කොන්දේ පහළ ප්‍රදේශයේ කැක්කුම (කටි ශූල)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bulbs",
+        "Root",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "1027",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/Z6Jt9XrD/plant00050-01027.jpg"
+        },
+        {
+            "image_id": "1028",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/C5zFt0CV/plant00050-01028.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "තොලබෝ ශාකයේ ඖෂධීය වට්නාකම | Tolabo plant | Crinum asiaticum benefits🌿",
+                "url": "https://youtube.com/watch?v=WX7zKcQr3Pk",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/WX7zKcQr3Pk/hqdefault.jpg"
+            },
+            {
+                "title": "තොලබෝ [Tolabo] (Crinum asiaticum)",
+                "url": "https://youtube.com/watch?v=3FByLMeH0OY",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/3FByLMeH0OY/hq720.jpg"
+            },
+            {
+                "title": "නිවසට ධනවාසනාව කැන්දන ඖෂධීය තොලබො ශාකය/tolabo mediastinal planted",
+                "url": "https://youtube.com/watch?v=fHv-7Z3K5AA",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/fHv-7Z3K5AA/hq720.jpg"
+            },
+            {
+                "title": "තොලබෝ බෙහෙත් පැලය හඳුනා ගන්න...",
+                "url": "https://youtube.com/watch?v=ignQixILPpo",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/ignQixILPpo/hqdefault.jpg"
+            },
+            {
+                "title": "කන් කැක්කුමට වගේම හන්දිපත් රෝග වලට ගුනදෙන පියකරු මල් පදුර - Thola bo තොලබෝ",
+                "url": "https://youtube.com/watch?v=bGUq0UsrA14",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/bGUq0UsrA14/hq720.jpg"
+            },
+            {
+                "title": "තොලබෝ/Tholabo/Crinum asiaticum#herbalplantsofsrilanka#osupala#sinhalabehath",
+                "url": "https://youtube.com/watch?v=XhuKzxTDBnw",
+                "duration": "1:34",
+                "thumbnail": "https://i.ytimg.com/vi/XhuKzxTDBnw/hq720.jpg"
+            },
+            {
+                "title": "සිංහල බෙහෙත් තොල බෝ.. හඳුනා ගන්න..",
+                "url": "https://youtube.com/watch?v=UnRd03SAIlA",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/UnRd03SAIlA/hqdefault.jpg"
+            },
+            {
+                "title": "තොල බො ... මල",
+                "url": "https://youtube.com/watch?v=apmzJKy5dGo",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/apmzJKy5dGo/hq720.jpg"
+            },
+            {
+                "title": "thilabo/තොලබෝ වල ඔබ නොදත් ගුන",
+                "url": "https://youtube.com/watch?v=6uvuEkSYXfE",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/6uvuEkSYXfE/hqdefault.jpg"
+            },
+            {
+                "title": "සන්ධි ඉදිමුම, ක්ෂය රෝගය ඇතුළු රෝග රැසකට ගුණ දෙන තොලබෝ | තොලබෝ (Tolabo)",
+                "url": "https://youtube.com/watch?v=h2JaQOiITdk",
+                "duration": "6:56",
+                "thumbnail": "https://i.ytimg.com/vi/h2JaQOiITdk/hq720.jpg"
+            },
+            {
+                "title": "#trending #nature #herbal  #plants  Spider Lily තොලබෝ(Tholabo )",
+                "url": "https://youtube.com/watch?v=il2BFsja_bk",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/il2BFsja_bk/hqdefault.jpg"
+            },
+            {
+                "title": "Aurwedic Plant Sinhala | Hela Osu Sinhala | Tholabo | Health Tips Sinhalen | Story eka",
+                "url": "https://youtube.com/watch?v=42bEd6kR_4k",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/42bEd6kR_4k/hq720.jpg"
+            },
+            {
+                "title": "තොලබෝ පිළිබඳව පුංචි හැදින්වීමක් ?",
+                "url": "https://youtube.com/watch?v=zVhNSfxIdWY",
+                "duration": "5:41",
+                "thumbnail": "https://i.ytimg.com/vi/zVhNSfxIdWY/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Sprains",
-      "sinhala": "උළුක්කු වීම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Arthritis",
-      "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Whitlow",
-      "sinhala": "නියපොතු කොන පැසවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Pneumonia",
-      "sinhala": "නියුමෝනියාව (පෙනහළු ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Lumbago",
-      "sinhala": "කොන්දේ පහළ ප්‍රදේශයේ කැක්කුම (කටි ශූල)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bulbs",
-    "Root",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "1027",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/Z6Jt9XrD/plant00050-01027.jpg"
-    },
-    {
-      "image_id": "1028",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/C5zFt0CV/plant00050-01028.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,379 +1,918 @@
 {
-  "scientificName": "Solanum americanum Mill.",
-  "synonyms": [
-    "Solanum amarantoides Dunal",
-    "Solanum americanum subsp. nodiflorum (Jacq.) R.J.F.Hend.",
-    "Solanum americanum subsp. nutans (R.J.F.Hend.) R.J.F.Hend.",
-    "Solanum americanum var. nodiflorum (Jacq.) Edmonds",
-    "Solanum americanum var. odishense Kalidass & P.Murugan",
-    "Solanum americanum var. patulum (L.) Edmonds",
-    "Solanum asperum Hornem. ex Walp.",
-    "Solanum calvum Bitter",
-    "Solanum curtipes Bitter",
-    "Solanum depilatum Bitter",
-    "Solanum desvauxii Ham.",
-    "Solanum dillenii Schult.",
-    "Solanum erythrocarpon G.Mey.",
-    "Solanum imerinense Bitter",
-    "Solanum inconspicuum Bitter",
-    "Solanum indecorum A.Rich.",
-    "Solanum inops Dunal",
-    "Solanum merrillianum Liou",
-    "Solanum microspermum Dunal",
-    "Solanum minutibaccatum Bitter",
-    "Solanum minutibaccatum subsp. curtipedunculatum Bitter",
-    "Solanum nigrum f. grandifolium O.E.Schulz",
-    "Solanum nigrum f. nodiflorum (Jacq.) Miq.",
-    "Solanum nigrum f. parvifolium O.E.Schulz",
-    "Solanum nigrum f. rumphii (Dunal) Miq.",
-    "Solanum nigrum f. uniflorum Miq.",
-    "Solanum nigrum subsp. aguaraquiya Sendtn.",
-    "Solanum nigrum subsp. dillenii (Schult.) Schur",
-    "Solanum nigrum var. aguaraquiya (Sendtn.) Witasek",
-    "Solanum nigrum var. americanum (Mill.) O.E.Schulz",
-    "Solanum nigrum var. angulosum Sendtn.",
-    "Solanum nigrum var. heterogonum (Dunal) Witasek",
-    "Solanum nigrum var. minus Hook.f.",
-    "Solanum nigrum var. nodiflorum (Jacq.) A.Gray",
-    "Solanum nigrum var. oleraceum (Dunal) Hitchc.",
-    "Solanum nigrum var. patulum L.",
-    "Solanum nigrum var. pauciflorum Liou",
-    "Solanum nigrum var. violaceum Chen ex Wessely",
-    "Solanum nodiflorum Desv. ex Dunal",
-    "Solanum nodiflorum Jacq.",
-    "Solanum nodiflorum subsp. nutans R.J.F.Hend.",
-    "Solanum nodiflorum var. acuminatum Chodat",
-    "Solanum nodiflorum var. macrophyllum Dunal",
-    "Solanum nodiflorum var. petiolastrum Dunal",
-    "Solanum nodiflorum var. sapucayense Chodat",
-    "Solanum oleraceum Dunal",
-    "Solanum pachystylum Polgar",
-    "Solanum papilionaceum Dum.Cours.",
-    "Solanum patulum (L.) Roth",
-    "Solanum pauciflorum (Liou) H.Y.Zhang",
-    "Solanum photeinocarpum Nakamura & Odash.",
-    "Solanum photeinocarpum var. violaceum (Chen ex Wessely) C.Y.Wu & S.C.Huang",
-    "Solanum pterocaulum Dunal",
-    "Solanum pterocaulum var. aguaraquiya (Sendtn.) Dunal",
-    "Solanum pterocaulum var. heterogonum Dunal",
-    "Solanum ptychanthum Dunal",
-    "Solanum quadrangulare L.f.",
-    "Solanum rumphii Dunal",
-    "Solanum sancti-thomae Bitter",
-    "Solanum sciaphilum Bitter",
-    "Solanum strictum Zuccagni",
-    "Solanum suffruticosum var. merrillianum (Liou) C.Y.Wu & S.C.Huang",
-    "Solanum tenellum Bitter",
-    "Solanum tenuiflorum Steud.",
-    "Solanum umbelliferum Torr."
-  ],
-  "familyName": "SOLANACEAE",
-  "englishNames": [
-    "Night Shade",
-    "American Nightshade",
-    "American Black Nightshade"
-  ],
-  "sinhalaName": "Kalukammeriya (කළුකම්මේරිය)",
-  "description": "සෘජු වාර්ෂික පැළෑටියකි (erect annual herb), උස සෙ.මී. 50-100 කි. පත්‍ර දිග සෙ.මී. (2-) 4-10 ක් සහ පළල සෙ.මී. (1-) 2-3.5 කි. පුෂ්ප මංජරිය කිහිපයක් සහිත සයිම (cymes) වේ; පුෂ්ප දණ්ඩ (peduncle) දිග සෙ.මී. 1-2 කි. කොරොල්ලා (corolla) දිග මි.මී. 2 ක් වන අතර සුදු පැහැතිය. පල ගෝලාකාර (globose) වන අතර විෂ්කම්භය මි.මී. 8 කි, මේරූ විට කළු පැහැ වේ. බීජ බොහෝ සංඛ්‍යාවක් පවතින අතර විෂ්කම්භය මි.මී. 1 කි.",
-  "treatments": [
-    {
-      "treatment": "Hiccups",
-      "sinhala": "හිකිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Solanum americanum Mill.",
+    "synonyms": [
+        "Solanum amarantoides Dunal",
+        "Solanum americanum subsp. nodiflorum (Jacq.) R.J.F.Hend.",
+        "Solanum americanum subsp. nutans (R.J.F.Hend.) R.J.F.Hend.",
+        "Solanum americanum var. nodiflorum (Jacq.) Edmonds",
+        "Solanum americanum var. odishense Kalidass & P.Murugan",
+        "Solanum americanum var. patulum (L.) Edmonds",
+        "Solanum asperum Hornem. ex Walp.",
+        "Solanum calvum Bitter",
+        "Solanum curtipes Bitter",
+        "Solanum depilatum Bitter",
+        "Solanum desvauxii Ham.",
+        "Solanum dillenii Schult.",
+        "Solanum erythrocarpon G.Mey.",
+        "Solanum imerinense Bitter",
+        "Solanum inconspicuum Bitter",
+        "Solanum indecorum A.Rich.",
+        "Solanum inops Dunal",
+        "Solanum merrillianum Liou",
+        "Solanum microspermum Dunal",
+        "Solanum minutibaccatum Bitter",
+        "Solanum minutibaccatum subsp. curtipedunculatum Bitter",
+        "Solanum nigrum f. grandifolium O.E.Schulz",
+        "Solanum nigrum f. nodiflorum (Jacq.) Miq.",
+        "Solanum nigrum f. parvifolium O.E.Schulz",
+        "Solanum nigrum f. rumphii (Dunal) Miq.",
+        "Solanum nigrum f. uniflorum Miq.",
+        "Solanum nigrum subsp. aguaraquiya Sendtn.",
+        "Solanum nigrum subsp. dillenii (Schult.) Schur",
+        "Solanum nigrum var. aguaraquiya (Sendtn.) Witasek",
+        "Solanum nigrum var. americanum (Mill.) O.E.Schulz",
+        "Solanum nigrum var. angulosum Sendtn.",
+        "Solanum nigrum var. heterogonum (Dunal) Witasek",
+        "Solanum nigrum var. minus Hook.f.",
+        "Solanum nigrum var. nodiflorum (Jacq.) A.Gray",
+        "Solanum nigrum var. oleraceum (Dunal) Hitchc.",
+        "Solanum nigrum var. patulum L.",
+        "Solanum nigrum var. pauciflorum Liou",
+        "Solanum nigrum var. violaceum Chen ex Wessely",
+        "Solanum nodiflorum Desv. ex Dunal",
+        "Solanum nodiflorum Jacq.",
+        "Solanum nodiflorum subsp. nutans R.J.F.Hend.",
+        "Solanum nodiflorum var. acuminatum Chodat",
+        "Solanum nodiflorum var. macrophyllum Dunal",
+        "Solanum nodiflorum var. petiolastrum Dunal",
+        "Solanum nodiflorum var. sapucayense Chodat",
+        "Solanum oleraceum Dunal",
+        "Solanum pachystylum Polgar",
+        "Solanum papilionaceum Dum.Cours.",
+        "Solanum patulum (L.) Roth",
+        "Solanum pauciflorum (Liou) H.Y.Zhang",
+        "Solanum photeinocarpum Nakamura & Odash.",
+        "Solanum photeinocarpum var. violaceum (Chen ex Wessely) C.Y.Wu & S.C.Huang",
+        "Solanum pterocaulum Dunal",
+        "Solanum pterocaulum var. aguaraquiya (Sendtn.) Dunal",
+        "Solanum pterocaulum var. heterogonum Dunal",
+        "Solanum ptychanthum Dunal",
+        "Solanum quadrangulare L.f.",
+        "Solanum rumphii Dunal",
+        "Solanum sancti-thomae Bitter",
+        "Solanum sciaphilum Bitter",
+        "Solanum strictum Zuccagni",
+        "Solanum suffruticosum var. merrillianum (Liou) C.Y.Wu & S.C.Huang",
+        "Solanum tenellum Bitter",
+        "Solanum tenuiflorum Steud.",
+        "Solanum umbelliferum Torr."
+    ],
+    "familyName": "SOLANACEAE",
+    "englishNames": [
+        "Night Shade",
+        "American Nightshade",
+        "American Black Nightshade"
+    ],
+    "sinhalaName": "Kalukammeriya (කළුකම්මේරිය)",
+    "description": "සෘජු වාර්ෂික පැළෑටියකි (erect annual herb), උස සෙ.මී. 50-100 කි. පත්‍ර දිග සෙ.මී. (2-) 4-10 ක් සහ පළල සෙ.මී. (1-) 2-3.5 කි. පුෂ්ප මංජරිය කිහිපයක් සහිත සයිම (cymes) වේ; පුෂ්ප දණ්ඩ (peduncle) දිග සෙ.මී. 1-2 කි. කොරොල්ලා (corolla) දිග මි.මී. 2 ක් වන අතර සුදු පැහැතිය. පල ගෝලාකාර (globose) වන අතර විෂ්කම්භය මි.මී. 8 කි, මේරූ විට කළු පැහැ වේ. බීජ බොහෝ සංඛ්‍යාවක් පවතින අතර විෂ්කම්භය මි.මී. 1 කි.",
+    "treatments": [
+        {
+            "treatment": "Hiccups",
+            "sinhala": "හිකිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Splenomegaly",
+            "sinhala": "ප්ලීහාව විශාල වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hepatomegaly",
+            "sinhala": "අක්මාව විශාල වීම (යකෘද්දරය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Conjunctivitis",
+            "sinhala": "ඇස් ලෙඩ (අක්ෂි පටල ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Malaria",
+            "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Erysipelas",
+            "sinhala": "විසර්පය (සමේ හටගන්නා වේගවත් ප්‍රදාහයකි)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Body Ache",
+            "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Rabies",
+            "sinhala": "ජලභීතිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Ringworm",
+            "sinhala": "දද (ඇළුම් හම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Inflammatory Conditions",
+            "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Abdominal Pain",
+            "sinhala": "බඩේ කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Stem",
+        "Whole plant",
+        "Fruit"
+    ],
+    "images": [
+        {
+            "image_id": "1229",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/qMkHQzRB/plant01257-01229.jpg"
+        },
+        {
+            "image_id": "1230",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/4wZrTczt/plant01257-01230.jpg"
+        },
+        {
+            "image_id": "1231",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/N2RDhtwC/plant01257-01231.jpg"
+        },
+        {
+            "image_id": "466",
+            "caption": "Fruits & Flowers",
+            "url": "https://i.ibb.co/Y4j7CkrK/plant01257-00466.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කලුකැම්මේරිය විශ්මිත ගුණ , රෝග රැසකට එක් ඔසුවක්.",
+                "url": "https://youtube.com/watch?v=CmQImWwL4Hw",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/CmQImWwL4Hw/hq720.jpg"
+            },
+            {
+                "title": "කලුකම්බේරිය ☘️|| Blackberry Nightshade 🫐 #blackberry #blackberrynightshade #herb #goodsleep #forgood",
+                "url": "https://youtube.com/watch?v=wO1Ln8zWhKs",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/wO1Ln8zWhKs/hq720.jpg"
+            },
+            {
+                "title": "කට හඬ ලස්සන කරන කළුකම්මේරිය | ලක් එෆ්.එම් ළමා නිවේදිකා, ළමා ගායිකා රෂ්මි නවෝද්‍යා #srilanka #rashmi",
+                "url": "https://youtube.com/watch?v=LMqdU5E-Xdw",
+                "duration": "1:34",
+                "thumbnail": "https://i.ytimg.com/vi/LMqdU5E-Xdw/hq720.jpg"
+            },
+            {
+                "title": "වස විස නැති වත්තේ හැදෙන තැම්බේරියා දළු මැල්ලුම|Black nightshade leaves curry |thamberiya|kammeriya",
+                "url": "https://youtube.com/watch?v=MmWoJ1q6H0s",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/MmWoJ1q6H0s/hq720.jpg"
+            },
+            {
+                "title": "කළු කම්බේරිය මැල්ලුම🌿|රෝග රැසකට ගුණදෙන පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=bERd3D1SHzI",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/bERd3D1SHzI/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ ඇති අපේ හෙල ඔසු / Medicinal Plants of Sri Lanka",
+                "url": "https://youtube.com/watch?v=HdxDnJVMfuo",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/HdxDnJVMfuo/hq720.jpg"
+            },
+            {
+                "title": "සිංහළ බෞද්ධයන් මෙහෙම අය කියලා ඔබ හීනෙන්වත් හිතලා නැතුව ඇති!@Amunews_අමු",
+                "url": "https://youtube.com/watch?v=r4EHiIfsTNA",
+                "duration": "30:46",
+                "thumbnail": "https://i.ytimg.com/vi/r4EHiIfsTNA/hq720.jpg"
+            },
+            {
+                "title": "මිනිස් වෙස්ගත් යක්ෂයන්: බ්‍රිතාන්‍යයම හොල්ලපු \"භීෂණයේ නිවස / House of Horrors",
+                "url": "https://youtube.com/watch?v=27MFfeAl3MI",
+                "duration": "15:11",
+                "thumbnail": "https://i.ytimg.com/vi/27MFfeAl3MI/hq720.jpg"
+            },
+            {
+                "title": "කළුතර ඝා#නයේ ප්‍රධාන සැකකරු ඉම්රාන් ඛාන් කොටුවෙයි",
+                "url": "https://youtube.com/watch?v=iqUo5eEcw34",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/iqUo5eEcw34/hq720.jpg"
+            },
+            {
+                "title": "කෙහෙළිය ගෙදර යැව්වත් තවමත් ඉටු නොවූ දෙයක් වෛද්‍ය චමල් මතක් කරයි",
+                "url": "https://youtube.com/watch?v=BauFF14Vo6Y",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/BauFF14Vo6Y/hq720.jpg"
+            },
+            {
+                "title": "\"ඇමතිතුමා මාර කෙනෙක්\" | නව පත්වීම්ලාභියා කියපු කතාව | ඇමති ලාල් කාන්ත මිනින්දෝරු පත්වීම් ප්‍රධානය",
+                "url": "https://youtube.com/watch?v=pmzpgPOn14I",
+                "duration": "14:04",
+                "thumbnail": "https://i.ytimg.com/vi/pmzpgPOn14I/hq720.jpg"
+            },
+            {
+                "title": "කලු වර්ග 2ක් මේ ඔයාට වෙනස්ද 0764090776☎️",
+                "url": "https://youtube.com/watch?v=bFny4Q3nrtI",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/bFny4Q3nrtI/hq720.jpg"
+            },
+            {
+                "title": "මරුවා විරුවා කර විරුවා මරුවා කරපු දියවන්නාවේ ගුබ්බෑයම @Amunews_අමු",
+                "url": "https://youtube.com/watch?v=Ii5oS5tdU4c",
+                "duration": "18:36",
+                "thumbnail": "https://i.ytimg.com/vi/Ii5oS5tdU4c/hq720.jpg"
+            },
+            {
+                "title": "කළුනික 🔴 Litsea saligna (Nees) N.P.Balakr.",
+                "url": "https://youtube.com/watch?v=WOBz2Fao8uI",
+                "duration": "11:11",
+                "thumbnail": "https://i.ytimg.com/vi/WOBz2Fao8uI/hq720.jpg"
+            },
+            {
+                "title": "BREAKING කළුතර වෙ# තැබීමේ සිද්ධියේ වීඩියෝ එළියට",
+                "url": "https://youtube.com/watch?v=OHbl36fD_Yc",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/OHbl36fD_Yc/hq720.jpg"
+            },
+            {
+                "title": "කලු ඇන්තුරියම් offer එකක් දෙන්නද?වර්ග 6ම Freeකුරියර් එක්ක ගෙදරටම ගෙන්න ගන්න පුලුවන් .මිස් කර ගන්නඑපා",
+                "url": "https://youtube.com/watch?v=3gmC0-t-nKQ",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/3gmC0-t-nKQ/hq720.jpg"
+            },
+            {
+                "title": "කළුකම්බේරිය ශාකයේ විශ්මිත ඖෂධීය ගුණ 😱😱",
+                "url": "https://youtube.com/watch?v=8zdRhM_4IEk",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/8zdRhM_4IEk/hq720.jpg"
+            },
+            {
+                "title": "#කලුකම්බේරිය   #කට  සේදුම් දියරයක් # mouthwash(American Black Nightshade)",
+                "url": "https://youtube.com/watch?v=cvm8NriKxBQ",
+                "duration": "4:20",
+                "thumbnail": "https://i.ytimg.com/vi/cvm8NriKxBQ/hq720.jpg"
+            },
+            {
+                "title": "තැම්බේරියා.... ඔබ නොදත් විශ්මිත ගුණ සහිත පැලෑටිය",
+                "url": "https://youtube.com/watch?v=j2nWjkHBvHw",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/j2nWjkHBvHw/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රැසක් ඇති කලු කම්බේරියා මැල්ලුම | Kalukamberiya #kalu_kamberiya #healthy",
+                "url": "https://youtube.com/watch?v=9Fh0qU0vG9E",
+                "duration": "6:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Fh0qU0vG9E/hqdefault.jpg"
+            },
+            {
+                "title": "Kadukamberiya |කඩුකම්බේරියා | ලේ වඩන ඔසු | osu-ඔසු",
+                "url": "https://youtube.com/watch?v=FxjYd4HaAik",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/FxjYd4HaAik/hqdefault.jpg"
+            },
+            {
+                "title": "කුෂ්ඨ රෝග, උන්මාද රෝග, ස්වසන රෝග ඇතුළු රෝග රැසකට ගුණ කලුකම්බේරිය",
+                "url": "https://youtube.com/watch?v=WWpQhhoWD1g",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/WWpQhhoWD1g/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක්. Kumbuk Tree. Ayurvedic value of Kumbuk.",
+                "url": "https://youtube.com/watch?v=KjUTxwGyQ78",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/KjUTxwGyQ78/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=MBR3AVmcWqw",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/MBR3AVmcWqw/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "කලුකම්බේරිය මැල්ලුමක් හදමු ඉතාමත් ගුණ රසවත් මැල්ලුමක් | කාන්තාවන්ට විශේෂයි",
+                "url": "https://youtube.com/watch?v=vJSodeFD3rI",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/vJSodeFD3rI/hqdefault.jpg"
+            },
+            {
+                "title": "ප්‍රතිශක්තිය වඩවා මාරාන්තික රෝගවලින් අප ආරක්ෂා කරන විශ්මිත කළුදුරු - Episode 1",
+                "url": "https://youtube.com/watch?v=vCWCBBCYruc",
+                "duration": "29:58",
+                "thumbnail": "https://i.ytimg.com/vi/vCWCBBCYruc/hq720.jpg"
+            },
+            {
+                "title": "''කලාඳුරු අල '' ගුණ අගුණ. රෝග රැසකට ගුණදෙන විශ්මිත ඖෂධ.",
+                "url": "https://youtube.com/watch?v=lKIPz0tGmWc",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/lKIPz0tGmWc/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් නමිනම් කාපු කෙනෙක්ද? වීඩියෝව බලලම තීරණය කරන්න | cynometra cauliflora medical plant",
+                "url": "https://youtube.com/watch?v=6UE4mGVU1CQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/6UE4mGVU1CQ/hqdefault.jpg"
+            },
+            {
+                "title": "උදරාබාධ ඇතුළු රෝග රැසකට ගුණ කලාදුරු | Kalaaduru Plant",
+                "url": "https://youtube.com/watch?v=bBpMAwcZ0j8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/bBpMAwcZ0j8/hq720.jpg"
+            },
+            {
+                "title": "Kalukammeriya - Nightshade - Solanum americanum",
+                "url": "https://youtube.com/watch?v=r8q3ngUWXOg",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/r8q3ngUWXOg/hq720.jpg"
+            },
+            {
+                "title": "👉👉😲😲කලාදුරු ශාකයේ විශ්මිත ගුණ😱😱😱",
+                "url": "https://youtube.com/watch?v=eRtqpeVCgSo",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/eRtqpeVCgSo/hq720.jpg"
+            },
+            {
+                "title": "අපට අමතකව ගිය විශ්මිත ගුණ සහිත මොණරකුඩුම්බිය : Monarakudumbiya – Vernonia cinerea benefits",
+                "url": "https://youtube.com/watch?v=AVsoI8ga8rE",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/AVsoI8ga8rE/hq720.jpg"
+            },
+            {
+                "title": "තුන් දොස් නසන කලුකම්බේරිය | CM Plants Store Sri Lanka",
+                "url": "https://youtube.com/watch?v=rrRCoM1DCX8",
+                "duration": "11:17",
+                "thumbnail": "https://i.ytimg.com/vi/rrRCoM1DCX8/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "කොන්දේ අමාරුවට බොරුවට බෙහෙත් බොන්න එපා - අදම මේක මාරු කරලා බලන්න |How Your Mattress Causes Back Pain",
+                "url": "https://youtube.com/watch?v=2fmfdDayx50",
+                "duration": "8:25",
+                "thumbnail": "https://i.ytimg.com/vi/2fmfdDayx50/hq720.jpg"
+            },
+            {
+                "title": "අඹ මල් කළුවීම වළක්වා ගනිමු #farming #agriculture #fruit",
+                "url": "https://youtube.com/watch?v=pbzq4qbpPsM",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/pbzq4qbpPsM/hq720_2.jpg"
+            },
+            {
+                "title": "Unveiling nature’s dark masterpiece: The Black Bat Flower 🦇🖤 🌿​#blackbatflower #rareplants #gahakola",
+                "url": "https://youtube.com/watch?v=g9G7kn_fJ4k",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/g9G7kn_fJ4k/hq720_2.jpg"
+            },
+            {
+                "title": "හැමදාම තරුණව ඉන්න රෑට මේවා බොන්න | Top 10 Night Anti-Aging Drinks #health #shorts",
+                "url": "https://youtube.com/watch?v=gIerJkG5OD8",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/gIerJkG5OD8/hq720.jpg"
+            },
+            {
+                "title": "Click Here බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය| Repair & Clean Gut Naturally",
+                "url": "https://youtube.com/watch?v=7spkXvR6ad8",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/7spkXvR6ad8/hq720_2.jpg"
+            },
+            {
+                "title": "Click Here බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය| Repair & Clean Gut Naturally",
+                "url": "https://youtube.com/watch?v=3ZmQx32-Hu4",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/3ZmQx32-Hu4/hq720_2.jpg"
+            },
+            {
+                "title": "srilankan healthy foods අපිට අගේ නැති වුණාට විදේශිකයෝ හොයන Careya arborea 🌿",
+                "url": "https://youtube.com/watch?v=fxYyVouLgHk",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/fxYyVouLgHk/hq720.jpg"
+            },
+            {
+                "title": "🌿 කුඩු මිරිස්ස 🔴 Zanthoxylum asiaticum (L.) Appelhans, Groppo & J.Wen",
+                "url": "https://youtube.com/watch?v=HOtexPcLzFs",
+                "duration": "14:12",
+                "thumbnail": "https://i.ytimg.com/vi/HOtexPcLzFs/hq720.jpg"
+            },
+            {
+                "title": "ජනතාවට වස කන්න දීල බලා සිටින සෞඛ්‍ය අමාත්‍යාංශය.......",
+                "url": "https://youtube.com/watch?v=IyoJFo-BOuE",
+                "duration": "13:31",
+                "thumbnail": "https://i.ytimg.com/vi/IyoJFo-BOuE/hq720.jpg"
+            },
+            {
+                "title": "🔥 වකුගඩු වලට දැනගත යුතු හොඳ සහ නරක අතිරේක⚠️ වකුගඩු වලට හානි කරයිද?! kidney health Vitamins",
+                "url": "https://youtube.com/watch?v=9OrQHJynr4I",
+                "duration": "20:03",
+                "thumbnail": "https://i.ytimg.com/vi/9OrQHJynr4I/hq720.jpg"
+            },
+            {
+                "title": "තෙත් කලාපීය කැලේ සැඟවුණු, අපූරු ඔසුව \"කුකුරුමාන්\"! 🌿🔴#Kukuruman #SLRavee #Ayurveda",
+                "url": "https://youtube.com/watch?v=3OSrLSyi3ng",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/3OSrLSyi3ng/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "රාවණා රජුගේ ප්‍රධාන ආහාරය- මහා කළු හීනටි සහල් The staple food of King Ravana: Maha Kalu Heenati rice",
+                "url": "https://youtube.com/watch?v=i0QacLK82LI",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/i0QacLK82LI/hq720.jpg"
+            },
+            {
+                "title": "කලුකම්බේරිය | ප්‍රණීත මැල්ලුමක් | මහා ඖෂධයක් | kalukammeriya | Night shade | Herb for sleep disorder",
+                "url": "https://youtube.com/watch?v=tpcurgm_cbk",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/tpcurgm_cbk/hq720.jpg"
+            },
+            {
+                "title": "කලුකම්බේරිය , තැම්බේරිය , කෙම්බේරිය , kalukamberiya , #herbs #nature #medicinalherbs #education",
+                "url": "https://youtube.com/watch?v=LcZ2C8zdbpk",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/LcZ2C8zdbpk/hq720.jpg"
+            },
+            {
+                "title": "#මරණය හැර සියලු රෝග නසන කලුදුරු වල විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=KhtNIppzkJ8",
+                "duration": "10:14",
+                "thumbnail": "https://i.ytimg.com/vi/KhtNIppzkJ8/hq720.jpg"
+            },
+            {
+                "title": "කළු කම්මෙරිය (  Solanum Nigrum )",
+                "url": "https://youtube.com/watch?v=t_D8x4APgsY",
+                "duration": "15:51",
+                "thumbnail": "https://i.ytimg.com/vi/t_D8x4APgsY/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ගුණ. චර්ම රෝග ඇතුලු රෝගාබාධ රැසකට ගුණදෙන ආයුර්වේදීය ඔසු.",
+                "url": "https://youtube.com/watch?v=Uvb_M2tX2Ts",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/Uvb_M2tX2Ts/hq720.jpg"
+            },
+            {
+                "title": "එනසාල් සහ කරාබු නැටි එදිනෙදා රෝගවලට : Cardamom and Cloves for daily issues (NEW) 2019",
+                "url": "https://youtube.com/watch?v=hJGKH0qppPs",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/hJGKH0qppPs/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට සුවය ගෙනෙන කළුදුරු ගැන දැනගන හිටියද? - #Health #Skin #Hair - Black Seed Benefits",
+                "url": "https://youtube.com/watch?v=gubESj8JCSY",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/gubESj8JCSY/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් සහ කරාබුනැටි වලින් ලබාගත හැකි වාස්තු ප්‍රයෝජන | Vastu Benefits of Black Pepper and Clove",
+                "url": "https://youtube.com/watch?v=3oOCar4w4VE",
+                "duration": "6:59",
+                "thumbnail": "https://i.ytimg.com/vi/3oOCar4w4VE/hq720.jpg"
+            },
+            {
+                "title": "දවස් 14ක් කරාබුනැටි වතුර පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක් |  Clove Water Health Benefits",
+                "url": "https://youtube.com/watch?v=alH2Qfliurc",
+                "duration": "11:44",
+                "thumbnail": "https://i.ytimg.com/vi/alH2Qfliurc/hq720.jpg"
+            },
+            {
+                "title": "වෛද්‍යවරුන් සඟවන කරාබු නැටි රහස | අක්මාවට හානි වෙන්නේ ඇයි?",
+                "url": "https://youtube.com/watch?v=OEXeZNjVmq4",
+                "duration": "13:40",
+                "thumbnail": "https://i.ytimg.com/vi/OEXeZNjVmq4/hq720.jpg"
+            },
+            {
+                "title": "🔴කන්නම ඕන කොලමැල්ලුම| Healthy Kalukamberiya leaves ☘️🌿",
+                "url": "https://youtube.com/watch?v=8I1_7zOB7g4",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/8I1_7zOB7g4/hqdefault.jpg"
+            },
+            {
+                "title": "කළු මැදිරිය | Unveiling Nature's Sweet Symphony",
+                "url": "https://youtube.com/watch?v=0U9bkvxopG4",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/0U9bkvxopG4/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොඹ ශාකයේ ඔසු ගුණ | Neem Tree | kohomba",
+                "url": "https://youtube.com/watch?v=B-iZPT8JzD4",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/B-iZPT8JzD4/hq720.jpg"
+            },
+            {
+                "title": "කලුනික ගැන කතා කරමු | නික වල විශේෂිත ගුණ මොනවද? | KaluNika | Kalu Nika Sinhala | Nika",
+                "url": "https://youtube.com/watch?v=woAYwcZcVi0",
+                "duration": "13:06",
+                "thumbnail": "https://i.ytimg.com/vi/woAYwcZcVi0/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ගුණ. Aloe Vera.",
+                "url": "https://youtube.com/watch?v=Ad2OmCX59-c",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/Ad2OmCX59-c/hq720.jpg"
+            },
+            {
+                "title": "fiowers/Grade 4/parisaraya/4 ශ්‍රේණිය/පරිසරය/කාල නියමයක් ඇති, නැති මල්,   එක් කාලයකට හටගන්නා පලතුරු.",
+                "url": "https://youtube.com/watch?v=m8WNL2FqM60",
+                "duration": "6:37",
+                "thumbnail": "https://i.ytimg.com/vi/m8WNL2FqM60/hq720.jpg"
+            },
+            {
+                "title": "🔥 කලු කුහරයේ සත්‍ය කතාව | ආලෝකයවත් පැනලා යන්න බැරි තැන",
+                "url": "https://youtube.com/watch?v=EkxoL2vSuok",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/EkxoL2vSuok/hq720.jpg"
+            },
+            {
+                "title": "කලුදුරු ගැන ඔබ නොදත් කරුණු | Black Seed වල පුදුම ප්‍රයෝජන | Ayurveda Sinhala",
+                "url": "https://youtube.com/watch?v=SRzolPwAxA8",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/SRzolPwAxA8/hq720.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය/කටු ඉකිරිය කාල නැතිනම් මේක බලන්න : Neeramulliya – Marsh Barbel benefits",
+                "url": "https://youtube.com/watch?v=vA4eB7rdDFg",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/vA4eB7rdDFg/hq720.jpg"
+            },
+            {
+                "title": "5 health benefits of makoy or black nightshade ( Solanum nigrum ) medicinal use and side effects💐",
+                "url": "https://youtube.com/watch?v=unbJfX5zcxo",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/unbJfX5zcxo/hqdefault.jpg"
+            },
+            {
+                "title": "Health & Spiritual benefits of the miracle leaf plant",
+                "url": "https://youtube.com/watch?v=Z6pWGN_BtL8",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/Z6pWGN_BtL8/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Kale - 7 Reasons to Eat It | When to Avoid",
+                "url": "https://youtube.com/watch?v=8_hFjbmNsBs",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/8_hFjbmNsBs/hq720.jpg"
+            },
+            {
+                "title": "THE MANY USES OF KALAWALLA - SKIN - IMMUNE SYSTEM - TONIC - (Dr. Sebi Approved) - Natural",
+                "url": "https://youtube.com/watch?v=APoDDW4vmLE",
+                "duration": "5:54",
+                "thumbnail": "https://i.ytimg.com/vi/APoDDW4vmLE/hq720.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "What is the best drinks to flush your kidneys",
+                "url": "https://youtube.com/watch?v=BG8bOc-9ZqE",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/BG8bOc-9ZqE/hqdefault.jpg"
+            },
+            {
+                "title": "බඩ ඇතුලේ තුවාල,දැවිල්ල,ගැස්ට්‍රයිටිස් සුව කරගන්න කෝමාරිකා පානය මේ විදිහට හරියටම හදාගෙන බොන්න",
+                "url": "https://youtube.com/watch?v=RCttADedz70",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/RCttADedz70/hq720.jpg"
+            },
+            {
+                "title": "ජවය ශක්තිය සපිරි කොල්ලු පානය - වෛද්‍ය සුසීමා සේනානායක",
+                "url": "https://youtube.com/watch?v=BBlufzuvZvw",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/BBlufzuvZvw/hq720.jpg"
+            },
+            {
+                "title": "ඔබ දැනගතම යුතු,තුන් දොස් නසන අරුම පුදුම පැළෑටිය,තැම්බේරියා|කලු කම්බේරියා, blacknightshade|sunberry",
+                "url": "https://youtube.com/watch?v=mHxW89az4Vw",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/mHxW89az4Vw/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය ගුණ සහිත කුප්පමේනියා ගැන දැනගනිමු |kuppameniya| Acalypha Indica",
+                "url": "https://youtube.com/watch?v=fgliz181Bvg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/fgliz181Bvg/hqdefault.jpg"
+            },
+            {
+                "title": "පරාගණය සහ මී මැස්සන්ගේ ජීවිතය 🐝 | අපි එකපාරටම මී වදයක් ඇතුළට ගියොත් මොනවා වෙයිද?",
+                "url": "https://youtube.com/watch?v=0qfuuqBCijU",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/0qfuuqBCijU/hq720.jpg"
+            },
+            {
+                "title": "මාරයාගෙන් අදම බේරෙන්න කරපිංචා. Is Curry Leaf Really a Menace? 🌿⚠️",
+                "url": "https://youtube.com/watch?v=EG1h1GteZl4",
+                "duration": "15:30",
+                "thumbnail": "https://i.ytimg.com/vi/EG1h1GteZl4/hq720.jpg"
+            },
+            {
+                "title": "සෑම උදෑසනකම කරපිංචා කොළයක් හැපුවොත් ඔබේ ශරීරයට සිදුවන පුදුම දේවල් 8ක් | 8 benefits of curry leaves.",
+                "url": "https://youtube.com/watch?v=S9j0qyXZ5G4",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/S9j0qyXZ5G4/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ කරවිලවල ඇත්ත නැත්ත | Bitter Melon For Blood Sugar By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0SdTXNz-LDE",
+                "duration": "12:53",
+                "thumbnail": "https://i.ytimg.com/vi/0SdTXNz-LDE/hq720.jpg"
+            },
+            {
+                "title": "\"කහ\" විශ්මිත බලය  සහ ගුණ අගුණ ගැන දැනගන්න",
+                "url": "https://youtube.com/watch?v=wsZDIxhskwY",
+                "duration": "10:14",
+                "thumbnail": "https://i.ytimg.com/vi/wsZDIxhskwY/hq720.jpg"
+            },
+            {
+                "title": "BENEFITS of KALANCHOE 💚 Properties, What is it for and Contraindications ✅",
+                "url": "https://youtube.com/watch?v=xz4tB-XhnGg",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/xz4tB-XhnGg/hq720.jpg"
+            },
+            {
+                "title": "Mayana Leaves: Benefits and Uses (Coleus Plant)",
+                "url": "https://youtube.com/watch?v=Yik3ZNqA3KQ",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/Yik3ZNqA3KQ/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits of Chamomile To Know! | Health Benefits Of Chamomile Tea",
+                "url": "https://youtube.com/watch?v=gzpwzEGtvq8",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/gzpwzEGtvq8/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Splenomegaly",
-      "sinhala": "ප්ලීහාව විශාල වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hepatomegaly",
-      "sinhala": "අක්මාව විශාල වීම (යකෘද්දරය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Conjunctivitis",
-      "sinhala": "ඇස් ලෙඩ (අක්ෂි පටල ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Malaria",
-      "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Erysipelas",
-      "sinhala": "විසර්පය (සමේ හටගන්නා වේගවත් ප්‍රදාහයකි)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Body Ache",
-      "sinhala": "ශරීරයේ වේදනාවන් (ඇඟ පත රුදාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Rabies",
-      "sinhala": "ජලභීතිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Ringworm",
-      "sinhala": "දද (ඇළුම් හම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Inflammatory Conditions",
-      "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Abdominal Pain",
-      "sinhala": "බඩේ කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Stem",
-    "Whole plant",
-    "Fruit"
-  ],
-  "images": [
-    {
-      "image_id": "1229",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/qMkHQzRB/plant01257-01229.jpg"
-    },
-    {
-      "image_id": "1230",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/4wZrTczt/plant01257-01230.jpg"
-    },
-    {
-      "image_id": "1231",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/N2RDhtwC/plant01257-01231.jpg"
-    },
-    {
-      "image_id": "466",
-      "caption": "Fruits & Flowers",
-      "url": "https://i.ibb.co/Y4j7CkrK/plant01257-00466.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

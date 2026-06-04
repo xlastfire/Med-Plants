@@ -1,128 +1,253 @@
 {
-  "scientificName": "Myristica fragrans Houtt.",
-  "synonyms": [
-    "Aruana silvestris Burm.f.",
-    "Myristica amboinensis Gand.",
-    "Myristica aromatica Sw.",
-    "Myristica laurella Gand.",
-    "Myristica moschata Thunb.",
-    "Myristica officinalis L.f.",
-    "Myristica philippinensis Gand.",
-    "Palala fragrans (Houtt.) Kuntze"
-  ],
-  "familyName": "MYRISTICACEAE",
-  "englishNames": [
-    "Nutmeg",
-    "Mace"
-  ],
-  "sinhalaName": "Sadikka (සාදික්කා)",
-  "description": "මීටර් 9-18ක් හෝ ඊට වැඩි උසැති ගසකි. පත්‍ර තලය (leaf lamina) සෙ.මී. 6-10(-15) x 2.75-4(-5.5) වන අතර, උඩ පැත්ත තද කොළ පැහැයෙන්ද, යටි පැත්ත ලා කොළ පැහැයෙන්ද යුක්ත වේ; පත්‍ර වෘන්තය (petiole) සෙ.මී. 0.5-1.25ක් දිගය. මල් මි.මී. 6-8ක් දිග, ලා කහ පැහැති, කළයක හැඩැති (urceolate) වේ. පලතුර සෙ.මී. 4-6 x 3-5.5 වේ. බීජය සෙ.මී. 2.5-3.5 x 1.75-2 වන අතර, තද රතු හෝ කලාතුරකින් කහ-සුදු පැහැති බීජාවරණයකින් (aril) වටවී ඇත.",
-  "treatments": [
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Myristica fragrans Houtt.",
+    "synonyms": [
+        "Aruana silvestris Burm.f.",
+        "Myristica amboinensis Gand.",
+        "Myristica aromatica Sw.",
+        "Myristica laurella Gand.",
+        "Myristica moschata Thunb.",
+        "Myristica officinalis L.f.",
+        "Myristica philippinensis Gand.",
+        "Palala fragrans (Houtt.) Kuntze"
+    ],
+    "familyName": "MYRISTICACEAE",
+    "englishNames": [
+        "Nutmeg",
+        "Mace"
+    ],
+    "sinhalaName": "Sadikka (සාදික්කා)",
+    "description": "මීටර් 9-18ක් හෝ ඊට වැඩි උසැති ගසකි. පත්‍ර තලය (leaf lamina) සෙ.මී. 6-10(-15) x 2.75-4(-5.5) වන අතර, උඩ පැත්ත තද කොළ පැහැයෙන්ද, යටි පැත්ත ලා කොළ පැහැයෙන්ද යුක්ත වේ; පත්‍ර වෘන්තය (petiole) සෙ.මී. 0.5-1.25ක් දිගය. මල් මි.මී. 6-8ක් දිග, ලා කහ පැහැති, කළයක හැඩැති (urceolate) වේ. පලතුර සෙ.මී. 4-6 x 3-5.5 වේ. බීජය සෙ.මී. 2.5-3.5 x 1.75-2 වන අතර, තද රතු හෝ කලාතුරකින් කහ-සුදු පැහැති බීජාවරණයකින් (aril) වටවී ඇත.",
+    "treatments": [
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Flatulence",
+            "sinhala": "බඩ පිපුම (වාතය පිරීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nausea and Vomiting",
+            "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Vomiting",
+            "sinhala": "වමනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "1001",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/HLdL2MmL/plant00886-01001.jpg"
+        },
+        {
+            "image_id": "1002",
+            "caption": "Young male flowers",
+            "url": "https://i.ibb.co/Z6RjxscK/plant00886-01002.jpg"
+        },
+        {
+            "image_id": "1003",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/vrccvYg/plant00886-01003.jpg"
+        },
+        {
+            "image_id": "3801",
+            "caption": "Inside mature fruit (PMR)",
+            "url": "https://i.ibb.co/TMwjY65d/plant00886-03801.jpg"
+        },
+        {
+            "image_id": "3802",
+            "caption": "Mace and seed (PMR)",
+            "url": "https://i.ibb.co/YBYBDDHk/plant00886-03802.jpg"
+        },
+        {
+            "image_id": "3803",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/4gfxcz7s/plant00886-03803.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "සාදික්කා හා වසාවාසි වල ගුණ අගුණ හරියට දැනගමු | සාදික්කා | වසාවාසි | Sadikka | Nutmeg",
+                "url": "https://youtube.com/watch?v=Mttq7F2oyWQ",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/Mttq7F2oyWQ/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබත් සාදික්ක ගැන දැනගෙන හිටියද? මෙන්න ඇත්ත කතාව| Nutmeg & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=2Ys488mwJhM",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/2Ys488mwJhM/hq720.jpg"
+            },
+            {
+                "title": "සාදික්කා සතු ඖෂධීය ගුණ 10 ක්.... | 10 MEDICINAL PROPERTIES OF NUTMUG",
+                "url": "https://youtube.com/watch?v=WhinCXC6QEM",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/WhinCXC6QEM/hqdefault.jpg"
+            },
+            {
+                "title": "ක්‍රමයෙන් සැඟවී යන සාදික්කා රහස මෙන්න : Benefits of Nutmeg",
+                "url": "https://youtube.com/watch?v=TqpJsIgZGms",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/TqpJsIgZGms/hq720.jpg"
+            },
+            {
+                "title": "සාදික්කා  මී පැණි ගුණ | Nutmeg benefit | sadikka",
+                "url": "https://youtube.com/watch?v=w-Ixnj2mICE",
+                "duration": "15:56",
+                "thumbnail": "https://i.ytimg.com/vi/w-Ixnj2mICE/hq720.jpg"
+            },
+            {
+                "title": "Did you know these things about Sadikka? ඔබ සාදික්කා  ගැන මේ දේවල් දැන සිටියාද? #spices #health",
+                "url": "https://youtube.com/watch?v=pYkxiWE8ymI",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/pYkxiWE8ymI/hq720.jpg"
+            },
+            {
+                "title": "සාදික්කා වල ගුණ | Nutmeg|  Sanda Asapuwa",
+                "url": "https://youtube.com/watch?v=z7bF7f3EINA",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/z7bF7f3EINA/hq720.jpg"
+            },
+            {
+                "title": "Sadikka made සාදික්කා මදෙන් බෙහෙතක්",
+                "url": "https://youtube.com/watch?v=CqGQ4ulr9gM",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/CqGQ4ulr9gM/hqdefault.jpg"
+            },
+            {
+                "title": "සාදික්කා වස ද? - Is nutmeg poisonous",
+                "url": "https://youtube.com/watch?v=8xhPNFqQBSs",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/8xhPNFqQBSs/hq720.jpg"
+            },
+            {
+                "title": "සාදික්කා ගැන දැනගමු – Nutmeg’s Benefits & Uses",
+                "url": "https://youtube.com/watch?v=UEDd5oR3zks",
+                "duration": "10:58",
+                "thumbnail": "https://i.ytimg.com/vi/UEDd5oR3zks/hq720.jpg"
+            },
+            {
+                "title": "බඩට ගුණ සාදික්කා  Sadikka | Nutmeg Ruk",
+                "url": "https://youtube.com/watch?v=e2Ol1Y1STeU",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/e2Ol1Y1STeU/hq720.jpg"
+            },
+            {
+                "title": "Sadikka(සාදික්කා,වසාවාසි මගින් ප්‍රයොජන රැසක් ඖෂධයක්, කුළුබඩුවක්)සාදික්කා ගැන දරුවන්ටත් කියල දෙමු.",
+                "url": "https://youtube.com/watch?v=QNIg-IRW-2A",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/QNIg-IRW-2A/hqdefault.jpg"
+            },
+            {
+                "title": "සාදික්කා  ගැන මතයක්",
+                "url": "https://youtube.com/watch?v=gAfYkMvRIrM",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/gAfYkMvRIrM/hq720.jpg"
+            },
+            {
+                "title": "සාදික්කා සහ වසාවාසි ?  Nutmeg & Mace",
+                "url": "https://youtube.com/watch?v=xp10pDR8HfM",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/xp10pDR8HfM/hq720.jpg"
+            },
+            {
+                "title": "මොනවද මේ සාදික්කා? / what is nutmeg ? @Letscultivate-uv5ht",
+                "url": "https://youtube.com/watch?v=S4hN6TaZJXY",
+                "duration": "7:51",
+                "thumbnail": "https://i.ytimg.com/vi/S4hN6TaZJXY/hq720.jpg"
+            },
+            {
+                "title": "Healthy Hot Nutmeg Tea | සාදික්කා තේ පානය | Special Meal",
+                "url": "https://youtube.com/watch?v=vUDh85VNRyA",
+                "duration": "0:48",
+                "thumbnail": "https://i.ytimg.com/vi/vUDh85VNRyA/hqdefault.jpg"
+            },
+            {
+                "title": "5 සාදික්කා පැල සිටුවීම",
+                "url": "https://youtube.com/watch?v=MS-AbTMMAEM",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/MS-AbTMMAEM/hq720.jpg"
+            },
+            {
+                "title": "සාදික්කා බීජ පැල නිපදවීම",
+                "url": "https://youtube.com/watch?v=PJuLPilxAss",
+                "duration": "14:48",
+                "thumbnail": "https://i.ytimg.com/vi/PJuLPilxAss/hq720.jpg"
+            },
+            {
+                "title": "සාදික්කා වස ද? - Is nutmeg poisonous",
+                "url": "https://youtube.com/watch?v=v7kGZsvGFsA",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/v7kGZsvGFsA/frame0.jpg"
+            },
+            {
+                "title": "සාදික්කා ගසට දිලීර ආසාදනයක් - රෝගය හදුනා ගත්තොත් වහාම දැනුම්දෙන්න - Hiru News",
+                "url": "https://youtube.com/watch?v=ymFIrYfYDeE",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/ymFIrYfYDeE/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Flatulence",
-      "sinhala": "බඩ පිපුම (වාතය පිරීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nausea and Vomiting",
-      "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Vomiting",
-      "sinhala": "වමනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "1001",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/HLdL2MmL/plant00886-01001.jpg"
-    },
-    {
-      "image_id": "1002",
-      "caption": "Young male flowers",
-      "url": "https://i.ibb.co/Z6RjxscK/plant00886-01002.jpg"
-    },
-    {
-      "image_id": "1003",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/vrccvYg/plant00886-01003.jpg"
-    },
-    {
-      "image_id": "3801",
-      "caption": "Inside mature fruit (PMR)",
-      "url": "https://i.ibb.co/TMwjY65d/plant00886-03801.jpg"
-    },
-    {
-      "image_id": "3802",
-      "caption": "Mace and seed (PMR)",
-      "url": "https://i.ibb.co/YBYBDDHk/plant00886-03802.jpg"
-    },
-    {
-      "image_id": "3803",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/4gfxcz7s/plant00886-03803.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

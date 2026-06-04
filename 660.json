@@ -1,177 +1,284 @@
 {
-  "scientificName": "Pterocarpus santalinus L.f.",
-  "synonyms": [
-    "Lingoum santalinum (L.f.) Kuntze",
-    "Santalum rubrum Hill"
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Ruby Wood",
-    "Red Sandal-wood"
-  ],
-  "sinhalaName": "Rath handun (රත් හඳුන්)",
-  "description": "මීටර් 30ක් පමණ උසැති ගසකි; කඳ රෝම රහිතය (glabrous). පත්‍ර පත්‍රිකා 4-8කින් සමන්විතය; පත්‍රිකා දිගින් සෙ.මී. 5.5-12(-15)ක් සහ පළලින් සෙ.මී. 2.5-7ක් වන අතර රෝම රහිතය (glabrous). පුෂ්ප මංජරියන් රේඛීයව අතු බෙදී පවතී (paniculate). මල් 12-19ක් ඇත; පෙති දීප්තිමත් කහ පැහැති වන අතර රෝම රහිතය (glabrous). පලයේ බීජ 1ක් හෝ 2ක් අඩංගු වන අතර විෂ්කම්භය සෙ.මී. 4-5.5ක් පමණ වේ; පලයේ දාරයේ ඇති පියාපත් වැනි කොටස සෙ.මී. 1-2ක් පළලය; බීජ දුඹුරු පැහැති වන අතර දිග මි.මී. 10-12ක් සහ පළල මි.මී. 5-6ක් වේ.",
-  "treatments": [
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Pterocarpus santalinus L.f.",
+    "synonyms": [
+        "Lingoum santalinum (L.f.) Kuntze",
+        "Santalum rubrum Hill"
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Ruby Wood",
+        "Red Sandal-wood"
+    ],
+    "sinhalaName": "Rath handun (රත් හඳුන්)",
+    "description": "මීටර් 30ක් පමණ උසැති ගසකි; කඳ රෝම රහිතය (glabrous). පත්‍ර පත්‍රිකා 4-8කින් සමන්විතය; පත්‍රිකා දිගින් සෙ.මී. 5.5-12(-15)ක් සහ පළලින් සෙ.මී. 2.5-7ක් වන අතර රෝම රහිතය (glabrous). පුෂ්ප මංජරියන් රේඛීයව අතු බෙදී පවතී (paniculate). මල් 12-19ක් ඇත; පෙති දීප්තිමත් කහ පැහැති වන අතර රෝම රහිතය (glabrous). පලයේ බීජ 1ක් හෝ 2ක් අඩංගු වන අතර විෂ්කම්භය සෙ.මී. 4-5.5ක් පමණ වේ; පලයේ දාරයේ ඇති පියාපත් වැනි කොටස සෙ.මී. 1-2ක් පළලය; බීජ දුඹුරු පැහැති වන අතර දිග මි.මී. 10-12ක් සහ පළල මි.මී. 5-6ක් වේ.",
+    "treatments": [
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Vomiting",
+            "sinhala": "වමනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Inflammatory Conditions",
+            "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Polydipsia",
+            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worm diseases",
+            "sinhala": "පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Heartwood"
+    ],
+    "images": [
+        {
+            "image_id": "2353",
+            "caption": "Pod  (PMR)",
+            "url": "https://i.ibb.co/R4kfhyR2/plant00660-02353.jpg"
+        },
+        {
+            "image_id": "2354",
+            "caption": "Compund Leaf (PMR)",
+            "url": "https://i.ibb.co/TXfw0LT/plant00660-02354.jpg"
+        },
+        {
+            "image_id": "2355",
+            "caption": "Leaflet - lower surface (PMR) ",
+            "url": "https://i.ibb.co/DfFFkzZ3/plant00660-02355.jpg"
+        },
+        {
+            "image_id": "2356",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/QvQqsbDw/plant00660-02356.jpg"
+        },
+        {
+            "image_id": "2357",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/rGsn4fx1/plant00660-02357.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Red Sandalwood |රන් රිදී පරදන\" රත් හඳුන් \"| Extra Episode 01 | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=kBBPJl9OBV4",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/kBBPJl9OBV4/hqdefault.jpg"
+            },
+            {
+                "title": "රුව වැඩීමට මෙන්ම නීරෝගීමත් වීමට සුවිශේෂී වූ රත් හදුන්, ඔබ නොදන්නා කරුණු රැසක් Pterocarpus santalinus",
+                "url": "https://youtube.com/watch?v=iyP3eqG4ZUQ",
+                "duration": "18:06",
+                "thumbnail": "https://i.ytimg.com/vi/iyP3eqG4ZUQ/hq720.jpg"
+            },
+            {
+                "title": "ඔබටත් මේ ගස් නිවැරදිව හඳුනගන්න පුළුවන්ද? | Red Sandalwood Vs Gammalu | Ceylon Agri | Episode 341",
+                "url": "https://youtube.com/watch?v=F49JEe4ih1w",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/F49JEe4ih1w/hq720.jpg"
+            },
+            {
+                "title": "කෝටි ගණන් වටින රත් හඳුන් ශාකය හඳුනාගන්නා අයුරු",
+                "url": "https://youtube.com/watch?v=mikOyy5XQQU",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/mikOyy5XQQU/hq720.jpg"
+            },
+            {
+                "title": "ලස්සන වෙන්න රත්හදුන් | Rathhadun Sinhala | Story Eka",
+                "url": "https://youtube.com/watch?v=xfcteOL8kT8",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/xfcteOL8kT8/hq720.jpg"
+            },
+            {
+                "title": "රත් හඳුන් - Rath Handun - Pterocarpus santalinus",
+                "url": "https://youtube.com/watch?v=TGMsOsHoJlQ",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/TGMsOsHoJlQ/hqdefault.jpg"
+            },
+            {
+                "title": "Red sandalwood face pack #beauty #redsandalwood #sandlwoodfacepack #beautycare #beautyinfluencer",
+                "url": "https://youtube.com/watch?v=zdsfYiYmpRU",
+                "duration": "1:27",
+                "thumbnail": "https://i.ytimg.com/vi/zdsfYiYmpRU/hq720.jpg"
+            },
+            {
+                "title": "හම පැහැපත් කරන සුදු හඳුන්, රත් හඳුන් හරියට පාවිච්චි කරන්නේ කොහොමද? SANDALWOOD SKINCARE / Madu Talks",
+                "url": "https://youtube.com/watch?v=iloA8HZqbmU",
+                "duration": "7:12",
+                "thumbnail": "https://i.ytimg.com/vi/iloA8HZqbmU/hq720.jpg"
+            },
+            {
+                "title": "රත් හඳුන් වලින් මෙච්චර දෙවල් කරන්න පුලුවන්ද😍|body scrub for skin brightening ✨|pink skin at home💖",
+                "url": "https://youtube.com/watch?v=Yf_VsXFSGTo",
+                "duration": "10:05",
+                "thumbnail": "https://i.ytimg.com/vi/Yf_VsXFSGTo/hq720.jpg"
+            },
+            {
+                "title": "ලස්සන කරන රත් හදුන්/rath hadun sri lanka/peterocapas  santalinous./#ishan#/heritage",
+                "url": "https://youtube.com/watch?v=DTOoy8VrVt4",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/DTOoy8VrVt4/hq720.jpg"
+            },
+            {
+                "title": "Red Sandalwood |රන් රිදී පරදන\" රත් හඳුන් \"| Extra Episode 01 | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=i1AqYnyCWeI",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/i1AqYnyCWeI/frame0.jpg"
+            },
+            {
+                "title": "කොහොමද නිවැරදිව රත් හදුන් සහ ගම්මාලු ශාක හදුනගන්නේ?Haldummulla Herbal Garden part ¡¡",
+                "url": "https://youtube.com/watch?v=0c8Tp2F6pF8",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/0c8Tp2F6pF8/hqdefault.jpg"
+            },
+            {
+                "title": "rath hadun රත් හඳුන්  කාන්තාවන් බැලිය යුතුමරුවැත්තියන්ගේ රහස ලංකාවේ දිව්‍යමය ඖෂධ",
+                "url": "https://youtube.com/watch?v=C74H31qFXTo",
+                "duration": "8:59",
+                "thumbnail": "https://i.ytimg.com/vi/C74H31qFXTo/hq720.jpg"
+            },
+            {
+                "title": "Red Sandalwood Face pack For skin brightening / රත් හදුන් වලින් ලස්සන වෙමු 🌟🧚🏼",
+                "url": "https://youtube.com/watch?v=AhNZu_LX02U",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/AhNZu_LX02U/hq720.jpg"
+            },
+            {
+                "title": "Red Sandalwood Vs White Sandalwood For Skin Lightening",
+                "url": "https://youtube.com/watch?v=_UW_fB2abpo",
+                "duration": "9:02",
+                "thumbnail": "https://i.ytimg.com/vi/_UW_fB2abpo/hq720.jpg"
+            },
+            {
+                "title": "සම පැහැපත් කරල ලස්සන වෙන්න රත්හදුන් පැක්  | Red Sandalwood Face pack For skin brightening",
+                "url": "https://youtube.com/watch?v=nt-6zbQus3Q",
+                "duration": "7:00",
+                "thumbnail": "https://i.ytimg.com/vi/nt-6zbQus3Q/hq720.jpg"
+            },
+            {
+                "title": "රත්හදුන් ඔසු පැලයක් හදුනා ගනිමු. Episode 02",
+                "url": "https://youtube.com/watch?v=twSvWl_XDxU",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/twSvWl_XDxU/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Vomiting",
-      "sinhala": "වමනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Inflammatory Conditions",
-      "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Polydipsia",
-      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worm diseases",
-      "sinhala": "පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Heartwood"
-  ],
-  "images": [
-    {
-      "image_id": "2353",
-      "caption": "Pod  (PMR)",
-      "url": "https://i.ibb.co/R4kfhyR2/plant00660-02353.jpg"
-    },
-    {
-      "image_id": "2354",
-      "caption": "Compund Leaf (PMR)",
-      "url": "https://i.ibb.co/TXfw0LT/plant00660-02354.jpg"
-    },
-    {
-      "image_id": "2355",
-      "caption": "Leaflet - lower surface (PMR) ",
-      "url": "https://i.ibb.co/DfFFkzZ3/plant00660-02355.jpg"
-    },
-    {
-      "image_id": "2356",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/QvQqsbDw/plant00660-02356.jpg"
-    },
-    {
-      "image_id": "2357",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/rGsn4fx1/plant00660-02357.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

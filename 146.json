@@ -1,112 +1,291 @@
 {
-  "scientificName": "Lasia spinosa (L.) Thwaites",
-  "synonyms": [
-    "Dracontium spinosum L.",
-    "Lasia aculeata Lour.",
-    "Lasia crassifolia Engl.",
-    "Lasia crassifolia f. angustisecta Engl.",
-    "Lasia crassifolia f. latisecta Engl.",
-    "Lasia desciscens Schott",
-    "Lasia hermannii Schott",
-    "Lasia heterophylla (Roxb.) Schott",
-    "Lasia jenkinsii Schott",
-    "Lasia loureiroi Schott",
-    "Lasia roxburghii Griff.",
-    "Lasia zollingeri Schott",
-    "Pothos heterophyllus Roxb.",
-    "Pothos lasia Roxb.",
-    "Pothos spinosus Buch.-Ham. ex Wall."
-  ],
-  "familyName": "ARACEAE",
-  "englishNames": [
-    "Lasia",
-    "Spiny Lasia"
-  ],
-  "sinhalaName": "Kohila (කොහිල)",
-  "description": "ඖෂධීය ශාකයකි, කඳ සෙන්ටිමීටර 4ක් දක්වා ඝනකමකින් යුක්ත වන අතර කටු සහිතය, බිම දිගේ ඇදී යන සහ ඉහළට නැඹුරු වූ ස්වභාවයක් ගනී. පත්‍ර තලය ඊතලයක හැඩැති (sagittate) වන අතර, සම්පූර්ණ හෝ පක්ෂාකාරව බෙදුණු (pinnatifid) දාරයකින් යුක්ත වේ. පත්‍රයේ යටි පැත්තේ නාරටි මත දිගු කටු (aculei) පිහිටා ඇත; ඉදිරිපස පත්‍ර ඛණ්ඩය සෙන්ටිමීටර 45 x 35 දක්වා වන අතර පසුපස පත්‍ර ඛණ්ඩ සෙන්ටිමීටර 25 x 10 දක්වා වේ. පුෂ්ප දණ්ඩ සෙන්ටිමීටර 75ක් දක්වා දිගු වන අතර කටු සහිත (aculeate) වේ. පත්‍රාවරණය (spathe) සම් වැනි (coriaceous) ස්වභාවයකින් යුක්ත වන අතර, කොළ පැහැති දුඹුරු සිට දම් පැහැයක් ගනී. එය සෙන්ටිමීටර 55ක් දක්වා දිගු වන අතර තරමක් ඇඹරුණු ස්වභාවයක් ගනී; පහළ සෙන්ටිමීටර 7ක කොටස විවෘත වීමෙන් පුෂ්ප මංජරිය (spadix) නිරාවරණය වේ. මල් සාමාන්‍යයෙන් ද්වි-ඛණ්ඩ (2-merous) වන අතර, ස්ත්‍රී පුෂ්ප කලින් පරිණත වේ (protogynous). පලතුරු සම් වැනි වන අතර ඉහළ කොටස ගැටිති සහිත (warty) වේ.",
-  "treatments": [
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Lasia spinosa (L.) Thwaites",
+    "synonyms": [
+        "Dracontium spinosum L.",
+        "Lasia aculeata Lour.",
+        "Lasia crassifolia Engl.",
+        "Lasia crassifolia f. angustisecta Engl.",
+        "Lasia crassifolia f. latisecta Engl.",
+        "Lasia desciscens Schott",
+        "Lasia hermannii Schott",
+        "Lasia heterophylla (Roxb.) Schott",
+        "Lasia jenkinsii Schott",
+        "Lasia loureiroi Schott",
+        "Lasia roxburghii Griff.",
+        "Lasia zollingeri Schott",
+        "Pothos heterophyllus Roxb.",
+        "Pothos lasia Roxb.",
+        "Pothos spinosus Buch.-Ham. ex Wall."
+    ],
+    "familyName": "ARACEAE",
+    "englishNames": [
+        "Lasia",
+        "Spiny Lasia"
+    ],
+    "sinhalaName": "Kohila (කොහිල)",
+    "description": "ඖෂධීය ශාකයකි, කඳ සෙන්ටිමීටර 4ක් දක්වා ඝනකමකින් යුක්ත වන අතර කටු සහිතය, බිම දිගේ ඇදී යන සහ ඉහළට නැඹුරු වූ ස්වභාවයක් ගනී. පත්‍ර තලය ඊතලයක හැඩැති (sagittate) වන අතර, සම්පූර්ණ හෝ පක්ෂාකාරව බෙදුණු (pinnatifid) දාරයකින් යුක්ත වේ. පත්‍රයේ යටි පැත්තේ නාරටි මත දිගු කටු (aculei) පිහිටා ඇත; ඉදිරිපස පත්‍ර ඛණ්ඩය සෙන්ටිමීටර 45 x 35 දක්වා වන අතර පසුපස පත්‍ර ඛණ්ඩ සෙන්ටිමීටර 25 x 10 දක්වා වේ. පුෂ්ප දණ්ඩ සෙන්ටිමීටර 75ක් දක්වා දිගු වන අතර කටු සහිත (aculeate) වේ. පත්‍රාවරණය (spathe) සම් වැනි (coriaceous) ස්වභාවයකින් යුක්ත වන අතර, කොළ පැහැති දුඹුරු සිට දම් පැහැයක් ගනී. එය සෙන්ටිමීටර 55ක් දක්වා දිගු වන අතර තරමක් ඇඹරුණු ස්වභාවයක් ගනී; පහළ සෙන්ටිමීටර 7ක කොටස විවෘත වීමෙන් පුෂ්ප මංජරිය (spadix) නිරාවරණය වේ. මල් සාමාන්‍යයෙන් ද්වි-ඛණ්ඩ (2-merous) වන අතර, ස්ත්‍රී පුෂ්ප කලින් පරිණත වේ (protogynous). පලතුරු සම් වැනි වන අතර ඉහළ කොටස ගැටිති සහිත (warty) වේ.",
+    "treatments": [
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Stem",
+        "Tubers"
+    ],
+    "images": [
+        {
+            "image_id": "3388",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/C3T46MJ6/plant00146-03388.jpg"
+        },
+        {
+            "image_id": "3389",
+            "caption": "Young Leaf (PMR)",
+            "url": "https://i.ibb.co/1GF5DqqG/plant00146-03389.jpg"
+        },
+        {
+            "image_id": "921",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/Cppxfpm9/plant00146-00921.jpg"
+        },
+        {
+            "image_id": "922",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/DDXczT7Q/plant00146-00922.jpg"
+        },
+        {
+            "image_id": "923",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/5ghw0Kwg/plant00146-00923.jpg"
+        },
+        {
+            "image_id": "3390",
+            "caption": "Leaf 1 (PMR)",
+            "url": "https://i.ibb.co/PZmKyDsm/plant00146-03390.jpg"
+        },
+        {
+            "image_id": "3391",
+            "caption": "Leaf 2 (PMR)",
+            "url": "https://i.ibb.co/d0rbM4Dd/plant00146-03391.jpg"
+        },
+        {
+            "image_id": "3392",
+            "caption": "Petiole (PMR)",
+            "url": "https://i.ibb.co/VYTr7dcs/plant00146-03392.jpg"
+        },
+        {
+            "image_id": "3393",
+            "caption": "Leaf lower surface (PMR)",
+            "url": "https://i.ibb.co/TDK25ZRd/plant00146-03393.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Nutritional value of Kohila plant - කොහිල",
+                "url": "https://youtube.com/watch?v=B0V14qoVlek",
+                "duration": "6:30",
+                "thumbnail": "https://i.ytimg.com/vi/B0V14qoVlek/hq720.jpg"
+            },
+            {
+                "title": "කොහිල වගාවක් ගේවත්තක ආරම්භ කරමු / Lasia Spinosa / කොහිල වලක් සාදාගමු / Kohila Wagawa Sinhala",
+                "url": "https://youtube.com/watch?v=IVMLuEl9bxY",
+                "duration": "30:44",
+                "thumbnail": "https://i.ytimg.com/vi/IVMLuEl9bxY/hq720.jpg"
+            },
+            {
+                "title": "වැල් කොහිල ශාකයේ ගුණ අගුණ 🌿",
+                "url": "https://youtube.com/watch?v=sq_l6eMRseo",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/sq_l6eMRseo/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් කොහිල ශාකය ගැන දැනගමු | Wel kohila | Syngonium angustatum🌿✅",
+                "url": "https://youtube.com/watch?v=lEuvSECe6wE",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/lEuvSECe6wE/hqdefault.jpg"
+            },
+            {
+                "title": "Lasia - මඩෙහි හැදුනත් ගුණ බහුල කොහිල",
+                "url": "https://youtube.com/watch?v=-0KdSJ5Bd5k",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/-0KdSJ5Bd5k/hq720.jpg"
+            },
+            {
+                "title": "කොහිල මෙච්චර ගුණයි කියල දැනං හිටියෙ නෑ නේද? | Kohila wala guna | Lasia Spinosa",
+                "url": "https://youtube.com/watch?v=L724Nf34H2c",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/L724Nf34H2c/hqdefault.jpg"
+            },
+            {
+                "title": "Kohila Benefits (Lasia spinosa): ඇත්තටම කොහිල කටු පිටින් කන්න ඕනෙද",
+                "url": "https://youtube.com/watch?v=WrkSOyKlnKg",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/WrkSOyKlnKg/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන පෝෂණීය කොහිල අල කැද හදමු | How to make kohila ala kada",
+                "url": "https://youtube.com/watch?v=-qYw3oqY80c",
+                "duration": "5:31",
+                "thumbnail": "https://i.ytimg.com/vi/-qYw3oqY80c/hq720.jpg"
+            },
+            {
+                "title": "දිව ඔසුවක් වන් වැල් කොහිල",
+                "url": "https://youtube.com/watch?v=MtFUV5BgHMo",
+                "duration": "7:31",
+                "thumbnail": "https://i.ytimg.com/vi/MtFUV5BgHMo/hqdefault.jpg"
+            },
+            {
+                "title": "කොහිල දළු සම්බොල/අර්ශස් රෝගින්ට ගුණ/Lasia sambal / cures hemorrhoids /cooking with Ayurvedic Doctor",
+                "url": "https://youtube.com/watch?v=XkSyn4hgysE",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/XkSyn4hgysE/hqdefault.jpg"
+            },
+            {
+                "title": "අර්ශස් සුව කරන කොහිල අල පානය (Kohila Drinking For The Hemorrhoids)",
+                "url": "https://youtube.com/watch?v=GW43AErRszQ",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/GW43AErRszQ/hq720.jpg"
+            },
+            {
+                "title": "තරබාරුව අඩු කරගන්න, දියවැඩියාව පාලනය ඇතුළු කොහිල වල ඇති විස්මිත ගුණ /Amazing Benefits of Kohila",
+                "url": "https://youtube.com/watch?v=SESSsCwUkCk",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/SESSsCwUkCk/hqdefault.jpg"
+            },
+            {
+                "title": "තරහා නොගෙන කොහිල කැඳක් බොමු - Lasia Conjee Recipe (Sinhala)",
+                "url": "https://youtube.com/watch?v=62SJiSTEnR4",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/62SJiSTEnR4/hqdefault.jpg"
+            },
+            {
+                "title": "Kohila is good for many diseases/රෝග රැසකට ගුණ දෙන කොහිල කැද//kohila kada 🌹",
+                "url": "https://youtube.com/watch?v=4ocmqLvOIjI",
+                "duration": "9:13",
+                "thumbnail": "https://i.ytimg.com/vi/4ocmqLvOIjI/hqdefault.jpg"
+            },
+            {
+                "title": "දුර්ලභ - වටිනා \"කළු කොහිල\" / Black ( lasia spinosa ) Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=Q5QIdp0dUVk",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/Q5QIdp0dUVk/hq720.jpg"
+            },
+            {
+                "title": "Best Medicinal Vegetable for haemorrhoids - Natural treatment for piles",
+                "url": "https://youtube.com/watch?v=_I5Es0eOPyQ",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/_I5Es0eOPyQ/hq720.jpg"
+            },
+            {
+                "title": "මලබද්ධය අර්ශස් වලට දිව්‍යමය ඔසුව කොහිල කැද ඕට්ස් දාලා හදමු | How to make Lasia Porridge",
+                "url": "https://youtube.com/watch?v=UslSLYQrnXE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/UslSLYQrnXE/hqdefault.jpg"
+            },
+            {
+                "title": "සතියට දෙවරක් මෙන්න මේ දළු මැල්ලුම කෑවොත් අර්ශස් රෝගය මලබද්ධය ඉක්මනින් සුව වෙනවා | වැල් කොහිල දළු",
+                "url": "https://youtube.com/watch?v=67ZHWtgO-AQ",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/67ZHWtgO-AQ/hq720.jpg"
+            },
+            {
+                "title": "(කොහිල)මේවා කැවොත් මූලක්ගින්න (අර්ශස්) නම් ඉවරයි.Kohila Sri Lankan Natural Food",
+                "url": "https://youtube.com/watch?v=d85BnMwcvy4",
+                "duration": "7:34",
+                "thumbnail": "https://i.ytimg.com/vi/d85BnMwcvy4/hqdefault.jpg"
+            },
+            {
+                "title": "අර්ශස් සුව කරන කොහිල අල පානය (Kohila Drinking For The Hemorrhoids)",
+                "url": "https://youtube.com/watch?v=UNxhw7X6c8c",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/UNxhw7X6c8c/frame0.jpg"
+            },
+            {
+                "title": "වැල්කොහිල ගුණ |walkohila plant",
+                "url": "https://youtube.com/watch?v=yV1Vu6R3g8U",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/yV1Vu6R3g8U/hqdefault.jpg"
+            },
+            {
+                "title": "කොහිල කවන්න ඕන කියන්නේ මෙන්න මේ ලෙඩේට...බලන්න ඔබටත් තියෙනවා ද? 01 කොටස",
+                "url": "https://youtube.com/watch?v=1X93WEagLts",
+                "duration": "10:12",
+                "thumbnail": "https://i.ytimg.com/vi/1X93WEagLts/hq720.jpg"
+            },
+            {
+                "title": "kohila (කොහිල ශාකය)",
+                "url": "https://youtube.com/watch?v=EHCqkMBGbWY",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/EHCqkMBGbWY/hqdefault.jpg"
+            },
+            {
+                "title": "කොහිල,,, ශාකය හදුනා ගනිමු ද",
+                "url": "https://youtube.com/watch?v=TUi6Z0zc-jw",
+                "duration": "5:21",
+                "thumbnail": "https://i.ytimg.com/vi/TUi6Z0zc-jw/hq720.jpg"
+            },
+            {
+                "title": "ගැස්ට්‍රයිටිස් අර්ශස් මල බද්ධය නිට්ටාවට සුව කර ගමු! kohila plants Lasia spinosa in sri lanka",
+                "url": "https://youtube.com/watch?v=XL8TFoWTQmU",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/XL8TFoWTQmU/hq720.jpg"
+            },
+            {
+                "title": "කොහිල අල කැඳ -​ Kohila kanda",
+                "url": "https://youtube.com/watch?v=7iETPKakh3Q",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/7iETPKakh3Q/hqdefault.jpg"
+            },
+            {
+                "title": "කොහිල කැඳ හදන හැටි | Kohila Kanda | Lasia Porridge by Cook with Ashi ❤️",
+                "url": "https://youtube.com/watch?v=V6HPJaCZOA4",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/V6HPJaCZOA4/hq720.jpg"
+            },
+            {
+                "title": "අර්ශස් රෝගීන්ට ගුණදායි කොහිල අල ගමේ ක්‍රමයට රස වට්ටෝරු හතරකින්@traditionalfoodsandagro8736",
+                "url": "https://youtube.com/watch?v=EMkgKxq78To",
+                "duration": "43:04",
+                "thumbnail": "https://i.ytimg.com/vi/EMkgKxq78To/hq720.jpg"
+            },
+            {
+                "title": "Lasia - මඩෙහි හැදුනත් ගුණ බහුල කොහිල",
+                "url": "https://youtube.com/watch?v=0__C0VVLvQY",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/0__C0VVLvQY/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Stem",
-    "Tubers"
-  ],
-  "images": [
-    {
-      "image_id": "3388",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/C3T46MJ6/plant00146-03388.jpg"
-    },
-    {
-      "image_id": "3389",
-      "caption": "Young Leaf (PMR)",
-      "url": "https://i.ibb.co/1GF5DqqG/plant00146-03389.jpg"
-    },
-    {
-      "image_id": "921",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/Cppxfpm9/plant00146-00921.jpg"
-    },
-    {
-      "image_id": "922",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/DDXczT7Q/plant00146-00922.jpg"
-    },
-    {
-      "image_id": "923",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/5ghw0Kwg/plant00146-00923.jpg"
-    },
-    {
-      "image_id": "3390",
-      "caption": "Leaf 1 (PMR)",
-      "url": "https://i.ibb.co/PZmKyDsm/plant00146-03390.jpg"
-    },
-    {
-      "image_id": "3391",
-      "caption": "Leaf 2 (PMR)",
-      "url": "https://i.ibb.co/d0rbM4Dd/plant00146-03391.jpg"
-    },
-    {
-      "image_id": "3392",
-      "caption": "Petiole (PMR)",
-      "url": "https://i.ibb.co/VYTr7dcs/plant00146-03392.jpg"
-    },
-    {
-      "image_id": "3393",
-      "caption": "Leaf lower surface (PMR)",
-      "url": "https://i.ibb.co/TDK25ZRd/plant00146-03393.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

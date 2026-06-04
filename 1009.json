@@ -1,104 +1,535 @@
 {
-  "scientificName": "Chrysopogon aciculatus (Retz.) Trin.",
-  "synonyms": [
-    "Andropogon acicularis Roem. & Schult.",
-    "Andropogon acicularis Willd.",
-    "Andropogon aciculatus Retz.",
-    "Andropogon aculeatus Steud.",
-    "Andropogon javanicus Steud.",
-    "Andropogon subulatus J.Presl",
-    "Centrophorum chinense Trin.",
-    "Chrysopogon acicularis Duthie",
-    "Chrysopogon aciculatus var. elatior Benth.",
-    "Chrysopogon aciculatus var. longifolius Buse",
-    "Chrysopogon subulatus (J.Presl) Trin. ex Steud.",
-    "Chrysopogon trivialis (Lour.) Arn. & Nees",
-    "Holcus aciculatus (Retz.) R.Br.",
-    "Rhaphis acicularis Desv.",
-    "Rhaphis aciculata (Retz.) Honda",
-    "Rhaphis javanica Nees ex Steud.",
-    "Rhaphis trivalvis Kunth",
-    "Rhaphis trivialis Lour.",
-    "Rhaphis zizanioides var. aciculatus (Retz.) Roberty",
-    "Sorghum aciculatum (Retz.) Kuntze"
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Love Grass",
-    "Golden Beardgrass",
-    "Mackie's Pest",
-    "Needle Grass",
-    "Seed Grass",
-    "Spear Gras"
-  ],
-  "sinhalaName": "Tuththiri (තුත්තිරි)",
-  "description": "ඝනකම් බඩගා යන ස්ටෝලන (stolons) සහිත බිම දිගේ පැතිරෙන බහුවාර්ෂික ශාකයකි; මල් හටගන්නා කඳන් (culms) සෙ.මී. 20-60ක් උසය. පත්‍ර තල සෙ.මී. 1-9ක් දිග සහ මි.මී. 2-5ක් පළලය. පුෂ්ප මංජරිය (panicle) සෙ.මී. 4-9ක් දිගය. වෘන්ත රහිත කරල් (sessile spikelets) මි.මී. 3-5ක් දිග ඉඳිකටුවක් වැනි පහළට විහිදුණු කැලසයක් (decurrent callus) සහිතය. වෘන්ත සහිත කරල් (pedicelled spikelets) මි.මී. 4-5ක් දිග වන අතර කෙටි අග්‍රස්ථ කූඩුවක් (awn point) සහිතය.",
-  "treatments": [
-    {
-      "treatment": "Blood Disorders",
-      "sinhala": "රුධිරය ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
+    "scientificName": "Chrysopogon aciculatus (Retz.) Trin.",
+    "synonyms": [
+        "Andropogon acicularis Roem. & Schult.",
+        "Andropogon acicularis Willd.",
+        "Andropogon aciculatus Retz.",
+        "Andropogon aculeatus Steud.",
+        "Andropogon javanicus Steud.",
+        "Andropogon subulatus J.Presl",
+        "Centrophorum chinense Trin.",
+        "Chrysopogon acicularis Duthie",
+        "Chrysopogon aciculatus var. elatior Benth.",
+        "Chrysopogon aciculatus var. longifolius Buse",
+        "Chrysopogon subulatus (J.Presl) Trin. ex Steud.",
+        "Chrysopogon trivialis (Lour.) Arn. & Nees",
+        "Holcus aciculatus (Retz.) R.Br.",
+        "Rhaphis acicularis Desv.",
+        "Rhaphis aciculata (Retz.) Honda",
+        "Rhaphis javanica Nees ex Steud.",
+        "Rhaphis trivalvis Kunth",
+        "Rhaphis trivialis Lour.",
+        "Rhaphis zizanioides var. aciculatus (Retz.) Roberty",
+        "Sorghum aciculatum (Retz.) Kuntze"
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Love Grass",
+        "Golden Beardgrass",
+        "Mackie's Pest",
+        "Needle Grass",
+        "Seed Grass",
+        "Spear Gras"
+    ],
+    "sinhalaName": "Tuththiri (තුත්තිරි)",
+    "description": "ඝනකම් බඩගා යන ස්ටෝලන (stolons) සහිත බිම දිගේ පැතිරෙන බහුවාර්ෂික ශාකයකි; මල් හටගන්නා කඳන් (culms) සෙ.මී. 20-60ක් උසය. පත්‍ර තල සෙ.මී. 1-9ක් දිග සහ මි.මී. 2-5ක් පළලය. පුෂ්ප මංජරිය (panicle) සෙ.මී. 4-9ක් දිගය. වෘන්ත රහිත කරල් (sessile spikelets) මි.මී. 3-5ක් දිග ඉඳිකටුවක් වැනි පහළට විහිදුණු කැලසයක් (decurrent callus) සහිතය. වෘන්ත සහිත කරල් (pedicelled spikelets) මි.මී. 4-5ක් දිග වන අතර කෙටි අග්‍රස්ථ කූඩුවක් (awn point) සහිතය.",
+    "treatments": [
+        {
+            "treatment": "Blood Disorders",
+            "sinhala": "රුධිරය ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Malaria",
+            "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Insomnia",
+            "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Root"
+    ],
+    "images": [
+        {
+            "image_id": "2563",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/YFT2NV5P/plant01009-02563.jpg"
+        },
+        {
+            "image_id": "2564",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/Swg6jd5V/plant01009-02564.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "තුත්තිරි ගස  හදුනාගන්න.",
+                "url": "https://youtube.com/watch?v=xSgzMSubotk",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/xSgzMSubotk/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු වල තිත්ත ඇත්ත | Turkey Berry & Bitter Truth By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Yxcn99C76YM",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Yxcn99C76YM/hq720.jpg"
+            },
+            {
+                "title": "හිතත් සමග (තුත්තිරි)_05",
+                "url": "https://youtube.com/watch?v=420RXlOMD0U",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/420RXlOMD0U/hq720.jpg"
+            },
+            {
+                "title": "\"ඒක අධිකරණ තීන්දුවක් බව මම දැනගෙන හිටියේ නෑ\" පූජ්‍ය තිනියාවල පාලිත හිමියෝ සමාව ඉල්ලති",
+                "url": "https://youtube.com/watch?v=5rY94OGIL3A",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/5rY94OGIL3A/hq720.jpg"
+            },
+            {
+                "title": "තිත් තිත් තුත්තිරි",
+                "url": "https://youtube.com/watch?v=Dns3cH0a_yM",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/Dns3cH0a_yM/hqdefault.jpg"
+            },
+            {
+                "title": "දුක අහමු (තුත්තිරි) 10",
+                "url": "https://youtube.com/watch?v=eYNmx0SIVGU",
+                "duration": "1:40",
+                "thumbnail": "https://i.ytimg.com/vi/eYNmx0SIVGU/hqdefault.jpg"
+            },
+            {
+                "title": "තුත්තිරි | Thuththiri",
+                "url": "https://youtube.com/watch?v=nSwkvE-oAI4",
+                "duration": "1:44",
+                "thumbnail": "https://i.ytimg.com/vi/nSwkvE-oAI4/hq720.jpg"
+            },
+            {
+                "title": "Thuththiri Grass | Plants In Sri Lanka | Download Royalty Free Stock Video Footage | තුත්තිරි | #85",
+                "url": "https://youtube.com/watch?v=YY5D68StkD0",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/YY5D68StkD0/hq720.jpg"
+            },
+            {
+                "title": "සල්ලි (තුත්තිරි)_04",
+                "url": "https://youtube.com/watch?v=zwsbkYcnDeA",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/zwsbkYcnDeA/hq720.jpg"
+            },
+            {
+                "title": "Organic Master | Episode 05 | දෙවියන් මැවූ තුල්සි ගසේ හැමෝම නොදන්න ගුණ කන්ද.",
+                "url": "https://youtube.com/watch?v=ql8pKHlPctQ",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/ql8pKHlPctQ/hq720.jpg"
+            },
+            {
+                "title": "ඇඹුල් ඇඹිලිය | මේකේ ගුණ දන්නවනම් හොයාගෙන හරි කනවා | Ambul Ambiliya Plant",
+                "url": "https://youtube.com/watch?v=C5iqUDUFyLQ",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/C5iqUDUFyLQ/hq720.jpg"
+            },
+            {
+                "title": "කුළුණු ගුණෙන් ‍| Kulunu Gunen",
+                "url": "https://youtube.com/watch?v=IID8xp2dBjE",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/IID8xp2dBjE/hq720.jpg"
+            },
+            {
+                "title": "#පිටවක්කා වල ඇති අසීමිත ගුණ ගැන ඔබ දැනුවත්ද? #SL KAVI",
+                "url": "https://youtube.com/watch?v=kucD2MEV6s0",
+                "duration": "6:38",
+                "thumbnail": "https://i.ytimg.com/vi/kucD2MEV6s0/hqdefault.jpg"
+            },
+            {
+                "title": "බුදු ගුණ සිහිකල නිසා කැලයක අතරමං වූ අනේපිඬු සිටුතුමාට පිහිට වූ දෙවිවරු | Galigamuwe Gnanadeepa Thero",
+                "url": "https://youtube.com/watch?v=hxwv1bkCcAU",
+                "duration": "39:17",
+                "thumbnail": "https://i.ytimg.com/vi/hxwv1bkCcAU/hq720.jpg"
+            },
+            {
+                "title": "මරණ බය නැති කරන පුහුණු වීමක් | Beyond the Fear of Death - Thripitaka sutta explanation #girayagene",
+                "url": "https://youtube.com/watch?v=6pjKJWBkf6c",
+                "duration": "24:14",
+                "thumbnail": "https://i.ytimg.com/vi/6pjKJWBkf6c/hq720.jpg"
+            },
+            {
+                "title": "Roo Guna Wanuma (රූ ගුණ වැනුම) - Duresh Sharintha (Official Lyrics Video)",
+                "url": "https://youtube.com/watch?v=9jbDHSkr1do",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/9jbDHSkr1do/hq720.jpg"
+            },
+            {
+                "title": "Thuththiri (තුත්තිරි) | Episode 01 | Sirasa TV",
+                "url": "https://youtube.com/watch?v=hwTD6l17B5Q",
+                "duration": "16:28",
+                "thumbnail": "https://i.ytimg.com/vi/hwTD6l17B5Q/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය  ඔයාලා කනවද?",
+                "url": "https://youtube.com/watch?v=swaNK6R9SYc",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/swaNK6R9SYc/hq720.jpg"
+            },
+            {
+                "title": "මේ සියළු රෝග සුවකර ඔබව පැහැපත් කර තරුණ කරන ලොව හොදම පානය.. Turmeric Tea Benefits & Recipe.",
+                "url": "https://youtube.com/watch?v=XnH1pCjnbNo",
+                "duration": "12:08",
+                "thumbnail": "https://i.ytimg.com/vi/XnH1pCjnbNo/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද වෛද්‍යවරයෙක් වෙන්නේ  කොහොමද?  I Tissa Jananayake with Life (EP 228)",
+                "url": "https://youtube.com/watch?v=_YAPfB84ukQ",
+                "duration": "7:44",
+                "thumbnail": "https://i.ytimg.com/vi/_YAPfB84ukQ/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත - part 2🙏",
+                "url": "https://youtube.com/watch?v=IdQIkJpM5Ns",
+                "duration": "25:31",
+                "thumbnail": "https://i.ytimg.com/vi/IdQIkJpM5Ns/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ගල් ඇතිවෙන්නේ මෙහෙමයි... | සුව අරණ | Channel One",
+                "url": "https://youtube.com/watch?v=B_GT76Hp9nU",
+                "duration": "24:45",
+                "thumbnail": "https://i.ytimg.com/vi/B_GT76Hp9nU/hq720.jpg"
+            },
+            {
+                "title": "6 Free Weeds That Are Stronger Than Antibiotics",
+                "url": "https://youtube.com/watch?v=VXBU7B4mqwU",
+                "duration": "14:46",
+                "thumbnail": "https://i.ytimg.com/vi/VXBU7B4mqwU/hq720.jpg"
+            },
+            {
+                "title": "හදවත රකින සූදුරු .  සූදුරු  වල ඇති ආයුර්වේදීය ගුණ .",
+                "url": "https://youtube.com/watch?v=Ty2rR_aZVDY",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ty2rR_aZVDY/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව, කොලොස්ටරෝල් අඩු කරන රස වගේම ගුණ පානය",
+                "url": "https://youtube.com/watch?v=dj16BMLZ4WM",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/dj16BMLZ4WM/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වල විශ්මිත ගුණ. Ugurassa fruit.",
+                "url": "https://youtube.com/watch?v=aW2FO176HVU",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/aW2FO176HVU/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණ-දද,අළුහම්,හිස්සොරි සහ තවත් දේවල් - උපුටගත්තකි.",
+                "url": "https://youtube.com/watch?v=RBB5_oyLdOc",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/RBB5_oyLdOc/hqdefault.jpg"
+            },
+            {
+                "title": "විද්‍යාත්මකව තාහවුරු කල ශ්‍රී ලාංකික කුරුඳු සතු විශ්මිත ගුන 8 ක්",
+                "url": "https://youtube.com/watch?v=LskI19qCTMY",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/LskI19qCTMY/hqdefault.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "තයිරොයිඩ් රෝග වලට හේතුව ? | Reason for Thyroid Disease with Dr.Niranjala Meegoda Widanage",
+                "url": "https://youtube.com/watch?v=J9xMJWS_WbM",
+                "duration": "8:55",
+                "thumbnail": "https://i.ytimg.com/vi/J9xMJWS_WbM/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල්, තරබාරුව මට්ටු කරන්න පුරාණයේ සිට පැවැත එන විශ්මිත ගුලිය",
+                "url": "https://youtube.com/watch?v=e290CnJkWGs",
+                "duration": "16:31",
+                "thumbnail": "https://i.ytimg.com/vi/e290CnJkWGs/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ තයිරොයිඩ් ග්‍රන්ථියේ ගැටළු ඇති බව කල්තියා පෙනුම් කරන ලක්ෂණ 9ක් | තයිරොයිඩ් සුව කරන හොදම ආහාර",
+                "url": "https://youtube.com/watch?v=tTHJZt_NS2w",
+                "duration": "25:32",
+                "thumbnail": "https://i.ytimg.com/vi/tTHJZt_NS2w/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ ඇති අපේ හෙල ඔසු / Medicinal Plants of Sri Lanka",
+                "url": "https://youtube.com/watch?v=HdxDnJVMfuo",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/HdxDnJVMfuo/hq720.jpg"
+            },
+            {
+                "title": "හැම ලෙඩකටම හොඳ උලුහාල් වල විද්‍යාත්මකව තහවුරු කල ගුන #fenugreekbenefits",
+                "url": "https://youtube.com/watch?v=Pk0W8TjxCzs",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/Pk0W8TjxCzs/hqdefault.jpg"
+            },
+            {
+                "title": "පෙති තෝර වල පුදුම සහගත ගුණ මෙන්න 🌿☘️",
+                "url": "https://youtube.com/watch?v=nOhc0GT54uU",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/nOhc0GT54uU/hq720.jpg"
+            },
+            {
+                "title": "තයිරොයිඩ් රෝග වලින් සුවවීමට සහ බේරීමට නම්!",
+                "url": "https://youtube.com/watch?v=cc1Pi2VRDvI",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/cc1Pi2VRDvI/hq720.jpg"
+            },
+            {
+                "title": "දධ කුෂ්ඨ අලුහම් සුව කරන ඇත්තෝර |eththora | aththora | cassia alata",
+                "url": "https://youtube.com/watch?v=haoEjG0IDDk",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/haoEjG0IDDk/hqdefault.jpg"
+            },
+            {
+                "title": "ජීවිතේට එන ටෝක්සික් මිනිස්සුන්ගෙන් තියන ප්‍රයෝජන 7ක් - 7 Hidden Benefits of Toxic People",
+                "url": "https://youtube.com/watch?v=N7EKV9f7HZY",
+                "duration": "17:33",
+                "thumbnail": "https://i.ytimg.com/vi/N7EKV9f7HZY/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "මොනවද මේ \" තුන්පත් කුරුඳු \" කියන්නේ ? / Medicinal Plants in Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=ayEPq6NGaJM",
+                "duration": "3:56",
+                "thumbnail": "https://i.ytimg.com/vi/ayEPq6NGaJM/hq720.jpg"
+            },
+            {
+                "title": "තුල්සි ශාකය | ඔසු ලොව රැජින | Thulsi tree | Ocimum tenuiflorum",
+                "url": "https://youtube.com/watch?v=RjfxpuTgdnQ",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/RjfxpuTgdnQ/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "පාන වර්ග - 03 ශ්‍රේණිය(පරිසරය)",
+                "url": "https://youtube.com/watch?v=kN0t7RcumJ4",
+                "duration": "25:25",
+                "thumbnail": "https://i.ytimg.com/vi/kN0t7RcumJ4/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "🔴\"මේ තායි පානය නිසා මම අවු: 35 තරැණ උනා! පිරිමි වැදගෙන ආවේ\" මෙන්න සුපිරි පානය",
+                "url": "https://youtube.com/watch?v=1ivli1AwXDA",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/1ivli1AwXDA/hq720.jpg"
+            },
+            {
+                "title": "බුදු දහමේ To Do List | ආර්ථික ශක්තිය ගොඩනගන ක්‍රම 8 - මිනිත්තු 2යි",
+                "url": "https://youtube.com/watch?v=Ci19QmkgCQA",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/Ci19QmkgCQA/hq720.jpg"
+            },
+            {
+                "title": "වයසට යාම ප්‍රමාධ කරන සංඝටක අඩංගු ස්වභාවික පාන වර්ග. | how to maintain young look.",
+                "url": "https://youtube.com/watch?v=T52paOwbmo4",
+                "duration": "6:22",
+                "thumbnail": "https://i.ytimg.com/vi/T52paOwbmo4/hqdefault.jpg"
+            },
+            {
+                "title": "වැඩ පහසු කිරීමේ මං | 4  ශ්‍රේණිය පරිසරය | Grade 4 Parisaraya",
+                "url": "https://youtube.com/watch?v=z49r8FRkK_E",
+                "duration": "33:21",
+                "thumbnail": "https://i.ytimg.com/vi/z49r8FRkK_E/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන 🐕#trending #viral #foryou #education #educational #animals",
+                "url": "https://youtube.com/watch?v=m_QLK68xX50",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/m_QLK68xX50/hq720.jpg"
+            },
+            {
+                "title": "තෙල් මිල අඩු කරන්න බැරිද? ඇමතිතුමා පොඩි සහණයක් දෙන්නකෝ. ඇමති නලින්ද දුන්න උත්තරේ",
+                "url": "https://youtube.com/watch?v=y4U7jB-2gU4",
+                "duration": "25:14",
+                "thumbnail": "https://i.ytimg.com/vi/y4U7jB-2gU4/hq720.jpg"
+            },
+            {
+                "title": "අපට යහපත් දේ කිආදෙන පුදගලයින්  | 3 ශ්‍රේණිය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=cQpLgp3JKU0",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/cQpLgp3JKU0/hq720.jpg"
+            },
+            {
+                "title": "6 Health Benefits of Nettle | Benefits of Stinging Nettle Root to Know",
+                "url": "https://youtube.com/watch?v=A4fzFvmQWZM",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/A4fzFvmQWZM/hq720.jpg"
+            },
+            {
+                "title": "Taro Root: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=n6fIrOKvBx0",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/n6fIrOKvBx0/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits of Turkey Berry for a Healthy Diet! - Credihealth",
+                "url": "https://youtube.com/watch?v=bQ1PtV5pukg",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/bQ1PtV5pukg/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Wormwood",
+                "url": "https://youtube.com/watch?v=F3ZaPJN6Ml0",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/F3ZaPJN6Ml0/hq720.jpg"
+            },
+            {
+                "title": "Tulsi Plant  Amazing Medicinal Benefits  .#health",
+                "url": "https://youtube.com/watch?v=wHpTno-1I2Y",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/wHpTno-1I2Y/hq720.jpg"
+            },
+            {
+                "title": "Powerful Roselle Health Benefits",
+                "url": "https://youtube.com/watch?v=o6wFse1-iEU",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/o6wFse1-iEU/hq720.jpg"
+            },
+            {
+                "title": "Teak Plant Benefits: Spiritual Uses & Powerful Health Secrets of Teak Leaves",
+                "url": "https://youtube.com/watch?v=w5g_pqslV6g",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/w5g_pqslV6g/hq720.jpg"
+            },
+            {
+                "title": "Turmeric Water Benefits In The Evening | 10 Health Benefits of Turmeric Water Doctors Never Tell You",
+                "url": "https://youtube.com/watch?v=RsCITGR3IPQ",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/RsCITGR3IPQ/hq720.jpg"
+            },
+            {
+                "title": "Tawa Tawa Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=hN5i3U25EMA",
+                "duration": "6:19",
+                "thumbnail": "https://i.ytimg.com/vi/hN5i3U25EMA/hq720.jpg"
+            },
+            {
+                "title": "6 Health Benefits of Nettle | Benefits of Stinging Nettle Root to Know",
+                "url": "https://youtube.com/watch?v=MbZCccsSEwM",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/MbZCccsSEwM/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Malaria",
-      "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Insomnia",
-      "sinhala": "නින්ද නොයාම (අනිද්‍රාව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Root"
-  ],
-  "images": [
-    {
-      "image_id": "2563",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/YFT2NV5P/plant01009-02563.jpg"
-    },
-    {
-      "image_id": "2564",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/Swg6jd5V/plant01009-02564.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

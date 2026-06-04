@@ -1,36 +1,503 @@
 {
-  "scientificName": "Dichanthium caricosum (L.) A.Camus",
-  "synonyms": [
-    "Andropogon annulatus var. subrepens Hack.",
-    "Andropogon binatus Roxb.",
-    "Andropogon caricosus L.",
-    "Andropogon caricosus subsp. genuinus Hack.",
-    "Andropogon curvatus Russell ex Wall.",
-    "Andropogon depressus Steud.",
-    "Andropogon filiformis Pers.",
-    "Andropogon serratus Retz.",
-    "Andropogon tenellus Roxb.",
-    "Apocopis pallidus Hook.f.",
-    "Dichanthium caricosum var. theinlwinii (Bor) de Wet & Harlan",
-    "Dichanthium pallidum (Hook.f.) Stapf ex C.E.C.Fisch.",
-    "Dichanthium theinlwinii Bor",
-    "Heteropogon concinnus Thwaites",
-    "Heteropogon tenellus (Roxb.) Schult.",
-    "Lepeocercis serrata Trin.",
-    "Sorghum caricosum (L.) Kuntze"
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "India Bluestem",
-    "Nadi Blue Grass",
-    "Antigua Hay Grass",
-    "Roadside Bluestem",
-    "Nawai Grass"
-  ],
-  "sinhalaName": "Getamana (ගැටමාන)",
-  "description": "පස දිගේ ඇදෙන පත්‍ර සහිත කඳන්වල ගැටවලින් හටගන්නා කෙළින් පිහිටි මල් හටගන්නා කඳන් (floriferous culms) පොකුරු වශයෙන් පවතී. කෙළින් පිහිටි කඳන් බොහෝ විට සෙ.මී. 30 - 50 ක් උසය. ශාක පත්‍ර රෝම රහිත (glabrous) හෝ ආසන්න වශයෙන් එසේ වේ. පත්‍රවල කොපු සහ පත්‍ර තල එකතු වන ස්ථානයේ ඉඳහිට දිගු රෝම කිහිපයක් දක්නට ලැබේ. පත්‍ර කොපු කීල සහිත (keeled) වන අතර ගැටවලට වඩා කෙටි වේ. පත්‍ර දිව (ligule) ඉතා කුඩා, අග කොටස කැපූ ආකාරයේ (truncate) සහ දාරය අක්‍රමවත් (erose) වේ. පුෂ්ප මංජරිය තනි මල් කරලකි (raceme). කරල් (spikelets) මි.මී. 3 - 3.5 ක් වේ. වෘන්ත රහිත (sessile) කරලේ පිටත තුහින පත්‍රය (outer glume) පළල්, පැතලි, අග්‍රය වටකුරු සහ නහර රාශියකින් යුක්ත වේ. ලෙමාව (lemma) අග්‍රස්ථ කටුවකින් (awned) යුක්ත වේ. වෘන්ත සහිත (pedicelled) කරල වෘන්ත රහිත කරලට බොහෝ සෙයින් සමාන වන අතර කටු රහිත (awnless) වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Dichanthium caricosum (L.) A.Camus",
+    "synonyms": [
+        "Andropogon annulatus var. subrepens Hack.",
+        "Andropogon binatus Roxb.",
+        "Andropogon caricosus L.",
+        "Andropogon caricosus subsp. genuinus Hack.",
+        "Andropogon curvatus Russell ex Wall.",
+        "Andropogon depressus Steud.",
+        "Andropogon filiformis Pers.",
+        "Andropogon serratus Retz.",
+        "Andropogon tenellus Roxb.",
+        "Apocopis pallidus Hook.f.",
+        "Dichanthium caricosum var. theinlwinii (Bor) de Wet & Harlan",
+        "Dichanthium pallidum (Hook.f.) Stapf ex C.E.C.Fisch.",
+        "Dichanthium theinlwinii Bor",
+        "Heteropogon concinnus Thwaites",
+        "Heteropogon tenellus (Roxb.) Schult.",
+        "Lepeocercis serrata Trin.",
+        "Sorghum caricosum (L.) Kuntze"
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "India Bluestem",
+        "Nadi Blue Grass",
+        "Antigua Hay Grass",
+        "Roadside Bluestem",
+        "Nawai Grass"
+    ],
+    "sinhalaName": "Getamana (ගැටමාන)",
+    "description": "පස දිගේ ඇදෙන පත්‍ර සහිත කඳන්වල ගැටවලින් හටගන්නා කෙළින් පිහිටි මල් හටගන්නා කඳන් (floriferous culms) පොකුරු වශයෙන් පවතී. කෙළින් පිහිටි කඳන් බොහෝ විට සෙ.මී. 30 - 50 ක් උසය. ශාක පත්‍ර රෝම රහිත (glabrous) හෝ ආසන්න වශයෙන් එසේ වේ. පත්‍රවල කොපු සහ පත්‍ර තල එකතු වන ස්ථානයේ ඉඳහිට දිගු රෝම කිහිපයක් දක්නට ලැබේ. පත්‍ර කොපු කීල සහිත (keeled) වන අතර ගැටවලට වඩා කෙටි වේ. පත්‍ර දිව (ligule) ඉතා කුඩා, අග කොටස කැපූ ආකාරයේ (truncate) සහ දාරය අක්‍රමවත් (erose) වේ. පුෂ්ප මංජරිය තනි මල් කරලකි (raceme). කරල් (spikelets) මි.මී. 3 - 3.5 ක් වේ. වෘන්ත රහිත (sessile) කරලේ පිටත තුහින පත්‍රය (outer glume) පළල්, පැතලි, අග්‍රය වටකුරු සහ නහර රාශියකින් යුක්ත වේ. ලෙමාව (lemma) අග්‍රස්ථ කටුවකින් (awned) යුක්ත වේ. වෘන්ත සහිත (pedicelled) කරල වෘන්ත රහිත කරලට බොහෝ සෙයින් සමාන වන අතර කටු රහිත (awnless) වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "ගුණ පිරි මුද්දරප්පලම්වල ඇති විස්මිත ප්‍රතිලාභ මෙන්න #raisinsbenefits #healthy #food",
+                "url": "https://youtube.com/watch?v=nMSW30KNn-I",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/nMSW30KNn-I/hq720.jpg"
+            },
+            {
+                "title": "ගුණ ධර්ම දියුණු කරගන්නේ කෙසේද welimada saddaseela theru.#trending #buddha",
+                "url": "https://youtube.com/watch?v=50Y6UGqq9bw",
+                "duration": "57:02",
+                "thumbnail": "https://i.ytimg.com/vi/50Y6UGqq9bw/hq720.jpg"
+            },
+            {
+                "title": "04 Daham Guna Handunaganimu (දහම් ගුණ හඳුනාගනිමු) ~ Ven. Kiribathgoda Gnanananda Thero",
+                "url": "https://youtube.com/watch?v=WlI6c5Xse6k",
+                "duration": "1:32:28",
+                "thumbnail": "https://i.ytimg.com/vi/WlI6c5Xse6k/hq720.jpg"
+            },
+            {
+                "title": "ගුණ දේවල් පාට දාල දෙනවනම් ලමයි ආසාවෙන් කනව",
+                "url": "https://youtube.com/watch?v=rulizLTnt9M",
+                "duration": "5:24",
+                "thumbnail": "https://i.ytimg.com/vi/rulizLTnt9M/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙ හොයගන්න නැති , ගුණ අසීමිතව තියෙන ආහාරයක්",
+                "url": "https://youtube.com/watch?v=QvMlqz-1ebY",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/QvMlqz-1ebY/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටවල ඖෂධීය ගුණ : Health benefits of Venivelgeta",
+                "url": "https://youtube.com/watch?v=B_GgVEA1A7U",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/B_GgVEA1A7U/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට හදවතට මෙච්චර ගුණ උණ ලංකාවෙ කන්නෙ නෑ bamboo health benifits",
+                "url": "https://youtube.com/watch?v=sI8k8Vdiffc",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/sI8k8Vdiffc/hq720.jpg"
+            },
+            {
+                "title": "ගිතෙල් කෑවොත් ලැබෙන ගුණ ඔබව පුදුම කරවයි/ Eat “Ghee” for amazing benefits for your health",
+                "url": "https://youtube.com/watch?v=8siobTZGl3o",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/8siobTZGl3o/hqdefault.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ගුණ | Natural Herbal Benefits of Venivel Gata 🌱",
+                "url": "https://youtube.com/watch?v=yI4YH1kNYsk",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/yI4YH1kNYsk/hq720.jpg"
+            },
+            {
+                "title": "රට ගොඩනගන විමල්ගේ විහිලු උපදෙස් - Vlog Ep  655- Gune Aiyage Kamare",
+                "url": "https://youtube.com/watch?v=NoxLwFPsP3U",
+                "duration": "26:26",
+                "thumbnail": "https://i.ytimg.com/vi/NoxLwFPsP3U/hq720.jpg"
+            },
+            {
+                "title": "කැඳ බීමෙන් ඔබට ලැබෙන ගුණ 10ය දන්නවද? | බුදුවෙදකම | EPISODE 50",
+                "url": "https://youtube.com/watch?v=RizDYZPuR54",
+                "duration": "21:03",
+                "thumbnail": "https://i.ytimg.com/vi/RizDYZPuR54/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත වෙනිවැල් ගැට වල පැණිරස රහස් රැසක් මෙන්න, අහිතකර මේදය, දියවැඩියාව සහ තවත් රෝග රැසක් සුවකිරීමට",
+                "url": "https://youtube.com/watch?v=fdTafIwAZ58",
+                "duration": "13:28",
+                "thumbnail": "https://i.ytimg.com/vi/fdTafIwAZ58/hq720.jpg"
+            },
+            {
+                "title": "ගිනිගත් වැඩිහිටි නිවාසයේ අද උදෑසන තත්ත්වය - කන්න උයපු කෑමත් එක්කම අළුවෙලා තියෙන හැටි",
+                "url": "https://youtube.com/watch?v=ZDMMZ1TG530",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/ZDMMZ1TG530/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "මළ බතේ රහස – අපේ මුතුන්මිත්තන් දැනසිටි ආහාර වල ගුණ | පැරණි දැනුම හා නවින විද්‍යාව",
+                "url": "https://youtube.com/watch?v=DiNA1aaDOk0",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/DiNA1aaDOk0/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "අටලොස් වැදෑරුම් ස්ත්‍රී ගුණාංග Atalos wadarum sthri gunanga",
+                "url": "https://youtube.com/watch?v=WOSgJcNOrnw",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/WOSgJcNOrnw/hq720.jpg"
+            },
+            {
+                "title": "මනුෂ්‍ය, දේව, රක්ෂස ගුණ – ඔබ කුමන වර්ගයටද? | ජ්‍යෝතිෂ්‍ය රහස්",
+                "url": "https://youtube.com/watch?v=peKcVqRvmHo",
+                "duration": "6:37",
+                "thumbnail": "https://i.ytimg.com/vi/peKcVqRvmHo/hq720.jpg"
+            },
+            {
+                "title": "මදන මෝදක - ආයුර්වේද ගුණ - An ayurvedic medicine",
+                "url": "https://youtube.com/watch?v=jFXq07T7WhY",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/jFXq07T7WhY/hqdefault.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "ගෝඨා ඇතුළු තිදෙනෙක්ට පාස්කු පරික්ෂණ නිසා විදෙස් ගමන් තහනමක්!පළවෙනිවරට ටී කටස් 19ක් කොළඹින් අල්ලයි!",
+                "url": "https://youtube.com/watch?v=piGB6lYJqdo",
+                "duration": "7:59",
+                "thumbnail": "https://i.ytimg.com/vi/piGB6lYJqdo/hqdefault.jpg"
+            },
+            {
+                "title": "මුත්‍රා ගල් ඇතිවෙන්නේ මෙහෙමයි... | සුව අරණ | Channel One",
+                "url": "https://youtube.com/watch?v=B_GT76Hp9nU",
+                "duration": "24:45",
+                "thumbnail": "https://i.ytimg.com/vi/B_GT76Hp9nU/hq720.jpg"
+            },
+            {
+                "title": "නහර ගැට ගැසීම බෙහෙත් | සුව කරගනීමට ආර්යුවේධ සහ එදිනෙද පුරුදු, Nahara Gata Gasima, Varicose Treatment",
+                "url": "https://youtube.com/watch?v=faMp8DewUTA",
+                "duration": "18:44",
+                "thumbnail": "https://i.ytimg.com/vi/faMp8DewUTA/hq720.jpg"
+            },
+            {
+                "title": "ගැස්ට්‍රයිටිස් කියන්නේ මානසික ලෙඩක්. ඒකට හොදම බෙහෙත මෙන්න | Isiwara_Adawiya | Hela_herbals",
+                "url": "https://youtube.com/watch?v=tPZ3TzrGmGA",
+                "duration": "15:52",
+                "thumbnail": "https://i.ytimg.com/vi/tPZ3TzrGmGA/hq720.jpg"
+            },
+            {
+                "title": "නහර ගැට ගැසෙනවද🪱🪔|ගැස්ට්‍රයිටීස් රෝගයෙන් ඔබත් විදවනවද🙇| අදම අවසන් කරමු🤷🌿🏺|පල්ලෙකැලේ ආයුර්වේද රෝහල🏥",
+                "url": "https://youtube.com/watch?v=Jho79GFrKdo",
+                "duration": "10:58",
+                "thumbnail": "https://i.ytimg.com/vi/Jho79GFrKdo/hq720.jpg"
+            },
+            {
+                "title": "කෙණ්ඩා පෙරලීම මෙතරම් භයානකද? The Hidden Danger of Leg Cramps!",
+                "url": "https://youtube.com/watch?v=DKFnTu2dVyI",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/DKFnTu2dVyI/hq720.jpg"
+            },
+            {
+                "title": "ඇඟපතේ වේදනාවට ආයුර්වේදයෙන් පිළියම්, අභ්‍යංග ප්‍රතිකාරයේ රහස්!",
+                "url": "https://youtube.com/watch?v=qWC6Zn40Sl8",
+                "duration": "21:55",
+                "thumbnail": "https://i.ytimg.com/vi/qWC6Zn40Sl8/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Koththamalli (Coriander). Ayurvedic and medicinal value of Coriander.",
+                "url": "https://youtube.com/watch?v=RBZc65_lO5U",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/RBZc65_lO5U/hq720.jpg"
+            },
+            {
+                "title": "ගැස්ට්‍රයිටීස් ප්‍රත්‍යක්ෂ ඔසුව A Successful Herbal drink for gastritis & healthy digestive system",
+                "url": "https://youtube.com/watch?v=rSxFUQrKqt0",
+                "duration": "5:46",
+                "thumbnail": "https://i.ytimg.com/vi/rSxFUQrKqt0/hq720.jpg"
+            },
+            {
+                "title": "අපට නොවටින ඇඟට ගුණ දෙන ගොරකා. 🍈🌼🐟#GarciniaEats #GarciniaGoodness #NutritiousGarcinia",
+                "url": "https://youtube.com/watch?v=e889lY0lubU",
+                "duration": "1:40",
+                "thumbnail": "https://i.ytimg.com/vi/e889lY0lubU/hqdefault.jpg"
+            },
+            {
+                "title": "ගෝරෝචන - ගවයාගෙන් ලබා ගන්නා විස්මිත ඖෂධ, අපේ පැරැන්නන් භාවිතා කල විවිධ කෙම් ක්‍රම සහ හදි හූනියම්",
+                "url": "https://youtube.com/watch?v=GefNR3siSFw",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/GefNR3siSFw/hq720.jpg"
+            },
+            {
+                "title": "මේ ගස් 3 ගෙදර තියෙනවා නම් කවදාවත් දියවැඩියාව හැදෙන්නේ නැහැ - මේ ගෙඩියක් කන්න පටගාල සීනි බහිනවා",
+                "url": "https://youtube.com/watch?v=ySXYL6YHSpo",
+                "duration": "26:55",
+                "thumbnail": "https://i.ytimg.com/vi/ySXYL6YHSpo/hq720.jpg"
+            },
+            {
+                "title": "ගුණ අධික මාරාන්තික සැමන්ටින්  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=X0N-CkeYUzI",
+                "duration": "13:05",
+                "thumbnail": "https://i.ytimg.com/vi/X0N-CkeYUzI/hq720.jpg"
+            },
+            {
+                "title": "ගොනු කෑ කොළ හෙවත් ගොනිකා වල විශ්මිත සුව කිරීමේ ගුණ | @Sakalawaga | #gonika #ගොනිකා",
+                "url": "https://youtube.com/watch?v=y5dCYJS7zRE",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/y5dCYJS7zRE/hqdefault.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල්, තරබාරුව මට්ටු කරන්න පුරාණයේ සිට පැවැත එන විශ්මිත ගුලිය",
+                "url": "https://youtube.com/watch?v=e290CnJkWGs",
+                "duration": "16:31",
+                "thumbnail": "https://i.ytimg.com/vi/e290CnJkWGs/hq720.jpg"
+            },
+            {
+                "title": "ගිතෙල් භාවිතයෙන් ලැබෙන ප්‍රතිලාභ 6ක්. | Githel | Suwa Divi Arana | Ep 01 | Tharana Tv",
+                "url": "https://youtube.com/watch?v=lzAlc9Qxx20",
+                "duration": "5:06",
+                "thumbnail": "https://i.ytimg.com/vi/lzAlc9Qxx20/hq720.jpg"
+            },
+            {
+                "title": "මේ ස්වාභාවික පානය බොනකොට නහර ගැට ගැසීම නිකන්ම හොද වෙනවා! - නහර ගැටගැසීමට ස්වාභාවික විසදුමක්",
+                "url": "https://youtube.com/watch?v=3hWqwOesSHs",
+                "duration": "22:57",
+                "thumbnail": "https://i.ytimg.com/vi/3hWqwOesSHs/hq720.jpg"
+            },
+            {
+                "title": "වාත රෝගීන්ට ගුණ සහ අගුණ ආහාර",
+                "url": "https://youtube.com/watch?v=riPoLRcasU8",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/riPoLRcasU8/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "Giving Tree in Sinhala | Sinhala Cartoon | @SinhalaFairyTales",
+                "url": "https://youtube.com/watch?v=WvZHh_3BOm8",
+                "duration": "13:45",
+                "thumbnail": "https://i.ytimg.com/vi/WvZHh_3BOm8/hq720.jpg"
+            },
+            {
+                "title": "Parampara Sinhala | X Generation, Y Generation, Z & Alpha, මොනවද මේ පරම්පරා, Sinhala Education",
+                "url": "https://youtube.com/watch?v=YPHcCIp_DVg",
+                "duration": "14:35",
+                "thumbnail": "https://i.ytimg.com/vi/YPHcCIp_DVg/hq720.jpg"
+            },
+            {
+                "title": "Gotukola and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LcQ_lwSLdIA",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/LcQ_lwSLdIA/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "නිවස ළඟ මේ ගස් තිබේ නම් ධන හානි : 7 Gardening Tips 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=YgxFI-pBIJQ",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/YgxFI-pBIJQ/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "Graphs in Sinhala | Prasthara | O/L & Grade 10-11 maths | Questions with theory | Siyomaths 🇱🇰",
+                "url": "https://youtube.com/watch?v=9s18wS4dzlQ",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/9s18wS4dzlQ/hq720.jpg"
+            },
+            {
+                "title": "වා පිත් සෙම් යන තුන්දොස කියන්නේ කුමක්ද? | What is the three dosas of Va Pith Sem?",
+                "url": "https://youtube.com/watch?v=yVZBb1yVNNM",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/yVZBb1yVNNM/hq720.jpg"
+            },
+            {
+                "title": "🔴ගොටුකොළ, නිවිති කන්ඩ එපා! මේ ජාති 5 විතරක් කන්ඩ!",
+                "url": "https://youtube.com/watch?v=Jc2zK1uZg18",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/Jc2zK1uZg18/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් සිටුවීමේ වැදගත්කම/ ගස් වලින් ලැබෙන ප්‍රයෝජන* gas walin lebena prayojana/wadagathkama*primary අපි",
+                "url": "https://youtube.com/watch?v=VN0sy98nyLU",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/VN0sy98nyLU/hqdefault.jpg"
+            },
+            {
+                "title": "මතක ශක්තිය 10 ගුණයකින් වැඩි කරමු - විද්‍යාත්මක සහ බෞද්ධ ක්‍රම | Improve Memory Power.",
+                "url": "https://youtube.com/watch?v=X7_W5hC_4FM",
+                "duration": "10:07",
+                "thumbnail": "https://i.ytimg.com/vi/X7_W5hC_4FM/hq720.jpg"
+            },
+            {
+                "title": "අද යෝද කිබුලා අල්ලමුද? එන්න බලන්න🔥 | Ark Survival Ragnarok Map Sinhala Live | DR MaxWave Gaming",
+                "url": "https://youtube.com/watch?v=ngbHAAdomlM",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/ngbHAAdomlM/hq720.jpg"
+            },
+            {
+                "title": "මතක ශක්තිය වැඩිකරන ආහාර 10ක් | 10 Foods That Supercharge Your Memory | Best Foods for Your Brain",
+                "url": "https://youtube.com/watch?v=Ck_fqXLOJFs",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/Ck_fqXLOJFs/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "9 Surprising Health Benefits of Galangal",
+                "url": "https://youtube.com/watch?v=uGmQqjyNRH0",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/uGmQqjyNRH0/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "Teak Plant Benefits: Spiritual Uses & Powerful Health Secrets of Teak Leaves",
+                "url": "https://youtube.com/watch?v=w5g_pqslV6g",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/w5g_pqslV6g/hq720.jpg"
+            },
+            {
+                "title": "6 Health Benefits of Gymnema Sylvestre |  What is gymnema?",
+                "url": "https://youtube.com/watch?v=NfakjYdFUdY",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/NfakjYdFUdY/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Health Benefits and Possible Side Effects",
+                "url": "https://youtube.com/watch?v=gOwyQDgmJP0",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/gOwyQDgmJP0/hq720.jpg"
+            },
+            {
+                "title": "6 Effective Health Benefits of Galangal",
+                "url": "https://youtube.com/watch?v=OGMkaZSENIk",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/OGMkaZSENIk/hq720.jpg"
+            },
+            {
+                "title": "10 Health Benefits Of Mangosteen (Garcinia Mangostana)",
+                "url": "https://youtube.com/watch?v=n8Gg2Ye7DXk",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/n8Gg2Ye7DXk/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Benefits",
+                "url": "https://youtube.com/watch?v=iU9Enpt2hgc",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/iU9Enpt2hgc/hq720.jpg"
+            },
+            {
+                "title": "Galangal Benefits and Side Effects, Source of Antioxidants and Fight Inflammation",
+                "url": "https://youtube.com/watch?v=xCG5nHJpYPo",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/xCG5nHJpYPo/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Benefits -12 Amazing Health Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=QVx5byve-EE",
+                "duration": "6:17",
+                "thumbnail": "https://i.ytimg.com/vi/QVx5byve-EE/hq720.jpg"
+            },
+            {
+                "title": "Benefits Of Jatropha For Male & Female #theshangtareal #jatropha",
+                "url": "https://youtube.com/watch?v=4HmJKoHIlB0",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/4HmJKoHIlB0/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ආමන්ඩ් ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදු වෙන විශ්මිත දේවල් 12ක් | 12 Health Benefits of Almonds",
+                "url": "https://youtube.com/watch?v=Fd8_EKAo9QU",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/Fd8_EKAo9QU/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Taro Root | Boost Immunity and get Glowing Skin",
+                "url": "https://youtube.com/watch?v=wW-XcI9kLr4",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/wW-XcI9kLr4/hq720.jpg"
+            },
+            {
+                "title": "8 Amazing Health Benefits of Gotu Kola Herb",
+                "url": "https://youtube.com/watch?v=ksFg2knJung",
+                "duration": "10:58",
+                "thumbnail": "https://i.ytimg.com/vi/ksFg2knJung/hq720.jpg"
+            },
+            {
+                "title": "BENEFITS OF GYNOSTEMMA - THE GREATEST ADAPTOGEN YOU'VE NEVER HEARD OF",
+                "url": "https://youtube.com/watch?v=3XjqzbgBvB8",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/3XjqzbgBvB8/hq720.jpg"
+            },
+            {
+                "title": "Control DIABETES Naturally with GYMNEMA (4 Ways)!",
+                "url": "https://youtube.com/watch?v=fTWDFZgu3ZQ",
+                "duration": "11:36",
+                "thumbnail": "https://i.ytimg.com/vi/fTWDFZgu3ZQ/hq720.jpg"
+            },
+            {
+                "title": "The 5 BENEFITS Of Adding Jicama To Your Diet | Dr. Steven Gundry",
+                "url": "https://youtube.com/watch?v=hNnS_eSMLNg",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/hNnS_eSMLNg/hq720.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

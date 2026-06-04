@@ -1,174 +1,365 @@
 {
-  "scientificName": "Hellenia speciosa (J.Koenig) S.R.Dutta",
-  "synonyms": [
-    "Amomum arboreum Lour.",
-    "Amomum hirsutum Lam.",
-    "Banksea speciosa J.Koenig",
-    "Cardamomum arboreum (Lour.) Kuntze",
-    "Cheilocostus potierae (F.Muell.) M.G.Harr. & Zich",
-    "Cheilocostus speciosus (J.Koenig) C.D.Specht",
-    "Costus angustifolius Ker Gawl.",
-    "Costus argyrophyllus Wall.",
-    "Costus crispiflorus Stokes",
-    "Costus foeniculaceus Noronha",
-    "Costus formosanus Nakai",
-    "Costus glaber (K.Schum.) Merr.",
-    "Costus glabratus Rchb.",
-    "Costus hirsutus Blume",
-    "Costus lamingtonii F.M.Bailey",
-    "Costus loureiroi Horan.",
-    "Costus nipalensis Roscoe",
-    "Costus potierae F.Muell.",
-    "Costus sericeus Blume",
-    "Costus speciosus (J.Koenig) Sm.",
-    "Costus speciosus var. angustifolius Ker Gawl.",
-    "Costus speciosus var. argyrophyllus Wall. ex Baker",
-    "Costus speciosus var. dilnavaziae M.R.Almeida & S.M.Almeida",
-    "Costus speciosus var. formosanus (Nakai) S.S.Ying",
-    "Costus speciosus var. glaber K.Schum.",
-    "Costus speciosus var. hirsutus (Blume) K.Schum.",
-    "Costus speciosus var. leocalyx Nakai",
-    "Costus speciosus var. nipalensis (Roscoe) Baker",
-    "Costus speciosus var. sericeus (Blume) K.Schum.",
-    "Costus spicatus var. pubescens Griseb.",
-    "Costus vaginalis Salisb.",
-    "Hellenia grandiflora Retz.",
-    "Hellenia speciosa var. dilnavaziae (M.R.Almeida & S.M.Almeida) S.R.Dutta",
-    "Kaempferia speciosa (J.Koenig) Thunb.",
-    "Planera speciosa (J.Koenig) Giseke",
-    "Pyxa speciosa (J.Koenig) M.R.Almeida",
-    "Pyxa speciosa var. dilnavaziae (M.R.Almeida & S.M.Almeida) M.R.Almeida",
-    "Tsiana speciosa (J.Koenig) J.F.Gmel."
-  ],
-  "familyName": "COSTACEAE",
-  "englishNames": [
-    "Canereed"
-  ],
-  "sinhalaName": "Thebu (තෙබු)",
-  "description": "රයිසෝම සහිත (rhizomatous) පැළෑටි වේ. කඳන් අතු බෙදුණු හෝ නොබෙදුණු, මහත, මීටර 1ක් දක්වා උසැති සහ පත්‍ර සහිත වේ. පත්‍ර සර්පිලාකාරව පිහිටා ඇත; පත්‍ර කොපු නලයක හැඩැති (tubular), රතු පැහැති සහ රළු රෝම සහිත (hirsute) වේ; කෙටි පත්‍ර වෘන්ත සහිත, 20 x 10 සෙ.මී. දක්වා විශාල වන අතර, පත්‍රයේ උඩු පැත්ත ලා කොළ සහ තද කොළ පැහැති තීරු රටාවකින් යුක්ත වේ; පත්‍රිකා දිව (ligule) 1 මි.මී. වේ. පත්‍ර වෘන්ත ආවරණ (bracts) රතු-කොළ පැහැති, 4 x 4 සෙ.මී. දක්වා වේ; උප පත්‍ර වෘන්ත ආවරණ (bracteoles) රතු පැහැතිය; මල් කිරීටය (corolla) සුදු පැහැතිය; තොල් පෙත්ත (labellum) කහ පැහැති, 6 x 5 සෙ.මී. දක්වා විශාල වේ. කරල් ගෙඩිය (capsule) ඉලිප්සාකාර (ellipsoid) වන අතර රෝම රහිත (glabrous) වේ.",
-  "treatments": [
-    {
-      "treatment": "Catarrhal Fever",
-      "sinhala": "සෙම්ප්‍රතිශ්‍යාව සමඟ ඇතිවන උණ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Hellenia speciosa (J.Koenig) S.R.Dutta",
+    "synonyms": [
+        "Amomum arboreum Lour.",
+        "Amomum hirsutum Lam.",
+        "Banksea speciosa J.Koenig",
+        "Cardamomum arboreum (Lour.) Kuntze",
+        "Cheilocostus potierae (F.Muell.) M.G.Harr. & Zich",
+        "Cheilocostus speciosus (J.Koenig) C.D.Specht",
+        "Costus angustifolius Ker Gawl.",
+        "Costus argyrophyllus Wall.",
+        "Costus crispiflorus Stokes",
+        "Costus foeniculaceus Noronha",
+        "Costus formosanus Nakai",
+        "Costus glaber (K.Schum.) Merr.",
+        "Costus glabratus Rchb.",
+        "Costus hirsutus Blume",
+        "Costus lamingtonii F.M.Bailey",
+        "Costus loureiroi Horan.",
+        "Costus nipalensis Roscoe",
+        "Costus potierae F.Muell.",
+        "Costus sericeus Blume",
+        "Costus speciosus (J.Koenig) Sm.",
+        "Costus speciosus var. angustifolius Ker Gawl.",
+        "Costus speciosus var. argyrophyllus Wall. ex Baker",
+        "Costus speciosus var. dilnavaziae M.R.Almeida & S.M.Almeida",
+        "Costus speciosus var. formosanus (Nakai) S.S.Ying",
+        "Costus speciosus var. glaber K.Schum.",
+        "Costus speciosus var. hirsutus (Blume) K.Schum.",
+        "Costus speciosus var. leocalyx Nakai",
+        "Costus speciosus var. nipalensis (Roscoe) Baker",
+        "Costus speciosus var. sericeus (Blume) K.Schum.",
+        "Costus spicatus var. pubescens Griseb.",
+        "Costus vaginalis Salisb.",
+        "Hellenia grandiflora Retz.",
+        "Hellenia speciosa var. dilnavaziae (M.R.Almeida & S.M.Almeida) S.R.Dutta",
+        "Kaempferia speciosa (J.Koenig) Thunb.",
+        "Planera speciosa (J.Koenig) Giseke",
+        "Pyxa speciosa (J.Koenig) M.R.Almeida",
+        "Pyxa speciosa var. dilnavaziae (M.R.Almeida & S.M.Almeida) M.R.Almeida",
+        "Tsiana speciosa (J.Koenig) J.F.Gmel."
+    ],
+    "familyName": "COSTACEAE",
+    "englishNames": [
+        "Canereed"
+    ],
+    "sinhalaName": "Thebu (තෙබු)",
+    "description": "රයිසෝම සහිත (rhizomatous) පැළෑටි වේ. කඳන් අතු බෙදුණු හෝ නොබෙදුණු, මහත, මීටර 1ක් දක්වා උසැති සහ පත්‍ර සහිත වේ. පත්‍ර සර්පිලාකාරව පිහිටා ඇත; පත්‍ර කොපු නලයක හැඩැති (tubular), රතු පැහැති සහ රළු රෝම සහිත (hirsute) වේ; කෙටි පත්‍ර වෘන්ත සහිත, 20 x 10 සෙ.මී. දක්වා විශාල වන අතර, පත්‍රයේ උඩු පැත්ත ලා කොළ සහ තද කොළ පැහැති තීරු රටාවකින් යුක්ත වේ; පත්‍රිකා දිව (ligule) 1 මි.මී. වේ. පත්‍ර වෘන්ත ආවරණ (bracts) රතු-කොළ පැහැති, 4 x 4 සෙ.මී. දක්වා වේ; උප පත්‍ර වෘන්ත ආවරණ (bracteoles) රතු පැහැතිය; මල් කිරීටය (corolla) සුදු පැහැතිය; තොල් පෙත්ත (labellum) කහ පැහැති, 6 x 5 සෙ.මී. දක්වා විශාල වේ. කරල් ගෙඩිය (capsule) ඉලිප්සාකාර (ellipsoid) වන අතර රෝම රහිත (glabrous) වේ.",
+    "treatments": [
+        {
+            "treatment": "Catarrhal Fever",
+            "sinhala": "සෙම්ප්‍රතිශ්‍යාව සමඟ ඇතිවන උණ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Worms",
+            "sinhala": "පණුවන්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Syphilis",
+            "sinhala": "උපදංශය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Rhizome",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "313",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/BHgFdxD9/plant01346-00313.jpg"
+        },
+        {
+            "image_id": "314",
+            "caption": "Leaves",
+            "url": "https://i.ibb.co/WNy7SHBq/plant01346-00314.jpg"
+        },
+        {
+            "image_id": "510",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/QjTLtFJz/plant01346-00510.jpg"
+        },
+        {
+            "image_id": "4034",
+            "caption": "Flower 1 (PMR)",
+            "url": "https://i.ibb.co/ZR0v3VMf/plant01346-04034.jpg"
+        },
+        {
+            "image_id": "4035",
+            "caption": "Flower 2 (PMR)",
+            "url": "https://i.ibb.co/9HmFNHWd/plant01346-04035.jpg"
+        },
+        {
+            "image_id": "4036",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/cXJj5hhg/plant01346-04036.jpg"
+        },
+        {
+            "image_id": "4037",
+            "caption": "Young stem (PMR)",
+            "url": "https://i.ibb.co/CKkrpG1T/plant01346-04037.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "තෙබු කොළ වල ගුණ අගුණ",
+                "url": "https://youtube.com/watch?v=2K0AZAexBV0",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/2K0AZAexBV0/hq720.jpg"
+            },
+            {
+                "title": "Thebu Kola - තෙබු කොළ",
+                "url": "https://youtube.com/watch?v=H4HWOJ7uppQ",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/H4HWOJ7uppQ/hqdefault.jpg"
+            },
+            {
+                "title": "බලන්න ඔයා හිටවන් ඉන්න තෙබු ශාකය මේකද කියලා... එහෙනම් ඔයා හරි",
+                "url": "https://youtube.com/watch?v=acdDw6FLGHs",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/acdDw6FLGHs/hq720.jpg"
+            },
+            {
+                "title": "තෙබු | දියවැඩියාවට වගේම තව බොහෝ රෝග වලට දිව ඔසුවකි | The best cure for diabetes is Thebu |",
+                "url": "https://youtube.com/watch?v=141RARQ1amM",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/141RARQ1amM/hq720.jpg"
+            },
+            {
+                "title": "සීනි අඩුකරන තෙබු ශාකයේ තවත් විශ්මිත ගුණ, තෙබු ආහාරයට ගැනීමෙන් බෙහෙත් අඩුකරගත හැකි බව ඔබ දැනසිටියාද?",
+                "url": "https://youtube.com/watch?v=wnsnlxYZvVs",
+                "duration": "18:21",
+                "thumbnail": "https://i.ytimg.com/vi/wnsnlxYZvVs/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියවද​  diabetic diet තෙබු කොළ",
+                "url": "https://youtube.com/watch?v=sdRCdp6yuhU",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/sdRCdp6yuhU/hq720.jpg"
+            },
+            {
+                "title": "තෙබු කොළ ආහාරයට ගැනිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 7ක් | Crepe Ginger Leaves | Thebu Kola Wala Guna",
+                "url": "https://youtube.com/watch?v=DOsEoVeZO-g",
+                "duration": "12:42",
+                "thumbnail": "https://i.ytimg.com/vi/DOsEoVeZO-g/hq720.jpg"
+            },
+            {
+                "title": "තෙබු කොළ මැල්ලුම් හදමු | Tebu Leaf Mallum Recipe",
+                "url": "https://youtube.com/watch?v=TiEFi19u0gk",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/TiEFi19u0gk/hq720.jpg"
+            },
+            {
+                "title": "✔ ස්වාභාවික ඉන්සියුලින් 100% අඩංගු තෙබු කොළ සම්බෝලේ Thebu leaves for reducing blood sugar Apé Amma",
+                "url": "https://youtube.com/watch?v=VP5sENvqWzw",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/VP5sENvqWzw/hq720.jpg"
+            },
+            {
+                "title": "තෙබු ශාකය හඳුනා ගනිමු.cheilocostus speciosus",
+                "url": "https://youtube.com/watch?v=AiJlHwm4Ofc",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/AiJlHwm4Ofc/hqdefault.jpg"
+            },
+            {
+                "title": "තෙබු කොළ වැඩිපුර ආහාරයට ගත්තොත් මොකදවෙන්නෙ? I Dr. Swarna Hapuarachchi I Ayurweda Prathikara",
+                "url": "https://youtube.com/watch?v=9O5dGZtQuGM",
+                "duration": "45:03",
+                "thumbnail": "https://i.ytimg.com/vi/9O5dGZtQuGM/hq720.jpg"
+            },
+            {
+                "title": "thebu kola malluma තෙබු කොළ මැල්ලුම කෑවොත් දියවැඩියාව කොලෙස්ටරෝල් හැදුන අයත් මාසෙන් ගොඩ thembu kola",
+                "url": "https://youtube.com/watch?v=iS0txlAEck8",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/iS0txlAEck8/hq720.jpg"
+            },
+            {
+                "title": "තෙබු වල විස්තර , ඖෂධීය ගුණ හා අගුණ , Crepe-ginger",
+                "url": "https://youtube.com/watch?v=Mr_XOTxFsws",
+                "duration": "9:56",
+                "thumbnail": "https://i.ytimg.com/vi/Mr_XOTxFsws/hq720.jpg"
+            },
+            {
+                "title": "තෙබු කොළ මේ තරම් ගුණයි කියල දැනගෙන හිටිය ද? ලිංගික ශක්තියත් වැඩි කරනවලු.(Thebu kola)",
+                "url": "https://youtube.com/watch?v=1cpQmzKn76w",
+                "duration": "7:45",
+                "thumbnail": "https://i.ytimg.com/vi/1cpQmzKn76w/hq720.jpg"
+            },
+            {
+                "title": "වටිනාකම කියන්න බැරි තෙබු ගහ නිවැරදිව හඳුනගමු | Thebu | Ceylon Agri | Episode 85",
+                "url": "https://youtube.com/watch?v=3w9MkqU_zWE",
+                "duration": "4:48",
+                "thumbnail": "https://i.ytimg.com/vi/3w9MkqU_zWE/hq720.jpg"
+            },
+            {
+                "title": "තෙබු කොල කෑවම ශරීරයට වෙන දේ : Crepe Ginger Health Benefits",
+                "url": "https://youtube.com/watch?v=I3lcIwsMPCQ",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/I3lcIwsMPCQ/hq720.jpg"
+            },
+            {
+                "title": "✔️ තෙබු කොල කරිය ( දියවැඩියාවට ) තෙබු කොළ | තෙබු කොල | තෙබු | THEBU KOLA RECIPE SINHALA | THEBU",
+                "url": "https://youtube.com/watch?v=ux-BipzJOAE",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/ux-BipzJOAE/hqdefault.jpg"
+            },
+            {
+                "title": "තෙබු කන්න කලින් මේ වීඩියෝව අනිවාර්යයෙන් බලන්න!🌿(ගුණ වගේම අගුණත් මෙන්න)",
+                "url": "https://youtube.com/watch?v=Kr5M5B3V-bU",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/Kr5M5B3V-bU/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට ගුණ දෙන තෙබු  සම්බෝලය/ thebu sambolaya",
+                "url": "https://youtube.com/watch?v=E3rXzlzpQqs",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/E3rXzlzpQqs/hq720.jpg"
+            },
+            {
+                "title": "තෙබු කොළ කනවානම් මේ කතාවත් දැනගෙන ඉන්න | Tebu plant🌿",
+                "url": "https://youtube.com/watch?v=5B4ud6H-BrM",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/5B4ud6H-BrM/hq720.jpg"
+            },
+            {
+                "title": "Crepe _ginger  |  thebu  |තෙබු | තෙබු ශාකයේ ඇති ඖෂධීය ගුණ  | hela osu samaga ama 2022",
+                "url": "https://youtube.com/watch?v=zGerj2ghqXM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/zGerj2ghqXM/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව නසන ඖෂධීය තෙබු කොළ සම්බෝලෙ | 🍃 Medicinal thebu leaf sambole that cures diabetes 🥗",
+                "url": "https://youtube.com/watch?v=R8wr6jFWEVo",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/R8wr6jFWEVo/hq720.jpg"
+            },
+            {
+                "title": "තෙබු ශාකයේ ගුණ🌿 |Thebu shakaya |Costus",
+                "url": "https://youtube.com/watch?v=_2xt8c5NPQk",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/_2xt8c5NPQk/hq720.jpg"
+            },
+            {
+                "title": "තෙබු ගැන දැනගමු / Thebu Herbal Plant / Scientific Name - Costus speciosus",
+                "url": "https://youtube.com/watch?v=RSIyJxZY4LU",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/RSIyJxZY4LU/hqdefault.jpg"
+            },
+            {
+                "title": "තෙබු කොළ වල ගුණ අගුණ",
+                "url": "https://youtube.com/watch?v=wIPaKxQQZlM",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/wIPaKxQQZlM/frame0.jpg"
+            },
+            {
+                "title": "තෙබු|තෙබු කොල වල ගුන අගුන|දියවැඩියාව ට සුව දෙන තෙබු කොල|thebu|sinhala|2022",
+                "url": "https://youtube.com/watch?v=ke8fBq33tSw",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/ke8fBq33tSw/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට නියම තෙබු කොළ මැල්ලුමක් Tebu leaf mallum is great for diabetes@GAMIRASA",
+                "url": "https://youtube.com/watch?v=-aQKouEzW9E",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/-aQKouEzW9E/hq720.jpg"
+            },
+            {
+                "title": "තෙබුවල  ගුණ හා මැල්ළුම සෑදීම | tebu,koltan",
+                "url": "https://youtube.com/watch?v=MFszj6nE29M",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/MFszj6nE29M/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව ස්වභාවිකව සුව කරගමු ! organic diabetic medicene Canereed plant thebu plants",
+                "url": "https://youtube.com/watch?v=9u7WC7crdZs",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/9u7WC7crdZs/hq720.jpg"
+            },
+            {
+                "title": "Thebu leaves | insulin plant ගුණ වඩන හෙල ඔසු 🌿 සීනි පාලනයට කදිම තෙබු 😯😯🤫 #youtubeshorts #viralshort",
+                "url": "https://youtube.com/watch?v=oH6BY-E0tM4",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/oH6BY-E0tM4/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන තෙබු කොළ පානය 😋❤️ Thebu Kola Drink #shorts#naturalinsulin",
+                "url": "https://youtube.com/watch?v=A87rsmqhZes",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/A87rsmqhZes/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Worms",
-      "sinhala": "පණුවන්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Syphilis",
-      "sinhala": "උපදංශය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Rhizome",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "313",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/BHgFdxD9/plant01346-00313.jpg"
-    },
-    {
-      "image_id": "314",
-      "caption": "Leaves",
-      "url": "https://i.ibb.co/WNy7SHBq/plant01346-00314.jpg"
-    },
-    {
-      "image_id": "510",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/QjTLtFJz/plant01346-00510.jpg"
-    },
-    {
-      "image_id": "4034",
-      "caption": "Flower 1 (PMR)",
-      "url": "https://i.ibb.co/ZR0v3VMf/plant01346-04034.jpg"
-    },
-    {
-      "image_id": "4035",
-      "caption": "Flower 2 (PMR)",
-      "url": "https://i.ibb.co/9HmFNHWd/plant01346-04035.jpg"
-    },
-    {
-      "image_id": "4036",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/cXJj5hhg/plant01346-04036.jpg"
-    },
-    {
-      "image_id": "4037",
-      "caption": "Young stem (PMR)",
-      "url": "https://i.ibb.co/CKkrpG1T/plant01346-04037.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

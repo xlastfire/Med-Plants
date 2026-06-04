@@ -1,89 +1,214 @@
 {
-  "scientificName": "Borassus flabellifer L.",
-  "synonyms": [
-    "Borassus flabelliformis L.",
-    "Borassus sundaicus Becc.",
-    "Borassus tunicatus Lour.",
-    "Lontarus domestica Gaertn.",
-    "Pholidocarpus tunicatus (Lour.) H.Wendl.",
-    "Thrinax tunicata (Lour.) Rollisson"
-  ],
-  "familyName": "ARECACEAE",
-  "englishNames": [
-    "Palmyra",
-    "Palmyrah Palm",
-    "Talouriksha Palm",
-    "Toddy Palm",
-    "Wine Palm",
-    "Tala Palm",
-    "Doub Palm",
-    "Sugar Palm",
-    "Sea Coconut",
-    "Fan Palm"
-  ],
-  "sinhalaName": "Thal (තල්)",
-  "description": "උස, තනිව වැඩෙන, කටු සහිත තල් වර්ගයකි. කඳ කුළුණක හැඩැති වන අතර, මුදුන සහ පාදය දෙසට පැහැදිලිවම සිහින් වේ. එය තද අළු හෝ කළු පැහැයෙන් යුක්ත වන අතර, උස මීටර් 8-15 (20) ක් සහ විෂ්කම්භය සෙන්ටිමීටර 60-100 ක් වේ. පත්‍ර තදින් පිටතට විහිදී ඝන නිල්-කොළ පැහැති ඔටුන්නක් සාදයි; පත්‍ර දණ්ඩේ (petiole) පාමුල පුළුල් ත්‍රිකෝණාකාර විභේදනයක් සහිත පත්‍ර කොපුවක් (sheath) ඇත; පත්‍ර දණ්ඩ කහ පැහැති වන අතර මීටර් 0.5-1.2 ක් දිගු වේ, එහි පාදය පුළුල් ලෙස බෙදී ඇත. පලතුරු ප්‍රතිලෝම බිත්තරාකාර (obovoid) වන අතර විෂ්කම්භය සෙන්ටිමීටර 15-20 කි; කලංකයේ අවශේෂ (stigmatic remains) අග්‍රස්ථයේ පිහිටා ඇති අතර, පුෂ්ප කෝෂය (perianth) විශාල වී ස්ථිරව පවතී; බාහිර ඵලාවරණය (epicarp) සිනිඳු සහ තද දම් පැහැති වේ, මධ්‍ය ඵලාවරණය (mesocarp) ඝන, තන්තුමය සහ සුවඳවත් වේ, අන්තඃ ඵලාවරණය (endocarp) දෘඩ අස්ථි වැනි බීජාෂ්ඨි (pyrenes) 3 කින් සමන්විත වේ. බීජ දිගටි හැඩැති, සෙන්ටිමීටර 4 ක් පමණ වන අතර, ගැඹුරින් දෙකට බෙදුණු (bilobed) සහ උල් වූ හැඩයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Raktavata",
-      "sinhala": "රක්ත වාත රෝගී තත්ත්වයන්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Flowers",
-    "Fruits",
-    "Seeds",
-    "Leaves",
-    "Trunk"
-  ],
-  "images": [
-    {
-      "image_id": "1146",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/JjqFhfKT/plant00159-01146.jpg"
+    "scientificName": "Borassus flabellifer L.",
+    "synonyms": [
+        "Borassus flabelliformis L.",
+        "Borassus sundaicus Becc.",
+        "Borassus tunicatus Lour.",
+        "Lontarus domestica Gaertn.",
+        "Pholidocarpus tunicatus (Lour.) H.Wendl.",
+        "Thrinax tunicata (Lour.) Rollisson"
+    ],
+    "familyName": "ARECACEAE",
+    "englishNames": [
+        "Palmyra",
+        "Palmyrah Palm",
+        "Talouriksha Palm",
+        "Toddy Palm",
+        "Wine Palm",
+        "Tala Palm",
+        "Doub Palm",
+        "Sugar Palm",
+        "Sea Coconut",
+        "Fan Palm"
+    ],
+    "sinhalaName": "Thal (තල්)",
+    "description": "උස, තනිව වැඩෙන, කටු සහිත තල් වර්ගයකි. කඳ කුළුණක හැඩැති වන අතර, මුදුන සහ පාදය දෙසට පැහැදිලිවම සිහින් වේ. එය තද අළු හෝ කළු පැහැයෙන් යුක්ත වන අතර, උස මීටර් 8-15 (20) ක් සහ විෂ්කම්භය සෙන්ටිමීටර 60-100 ක් වේ. පත්‍ර තදින් පිටතට විහිදී ඝන නිල්-කොළ පැහැති ඔටුන්නක් සාදයි; පත්‍ර දණ්ඩේ (petiole) පාමුල පුළුල් ත්‍රිකෝණාකාර විභේදනයක් සහිත පත්‍ර කොපුවක් (sheath) ඇත; පත්‍ර දණ්ඩ කහ පැහැති වන අතර මීටර් 0.5-1.2 ක් දිගු වේ, එහි පාදය පුළුල් ලෙස බෙදී ඇත. පලතුරු ප්‍රතිලෝම බිත්තරාකාර (obovoid) වන අතර විෂ්කම්භය සෙන්ටිමීටර 15-20 කි; කලංකයේ අවශේෂ (stigmatic remains) අග්‍රස්ථයේ පිහිටා ඇති අතර, පුෂ්ප කෝෂය (perianth) විශාල වී ස්ථිරව පවතී; බාහිර ඵලාවරණය (epicarp) සිනිඳු සහ තද දම් පැහැති වේ, මධ්‍ය ඵලාවරණය (mesocarp) ඝන, තන්තුමය සහ සුවඳවත් වේ, අන්තඃ ඵලාවරණය (endocarp) දෘඩ අස්ථි වැනි බීජාෂ්ඨි (pyrenes) 3 කින් සමන්විත වේ. බීජ දිගටි හැඩැති, සෙන්ටිමීටර 4 ක් පමණ වන අතර, ගැඹුරින් දෙකට බෙදුණු (bilobed) සහ උල් වූ හැඩයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Raktavata",
+            "sinhala": "රක්ත වාත රෝගී තත්ත්වයන්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Flowers",
+        "Fruits",
+        "Seeds",
+        "Leaves",
+        "Trunk"
+    ],
+    "images": [
+        {
+            "image_id": "1146",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/JjqFhfKT/plant00159-01146.jpg"
+        },
+        {
+            "image_id": "1147",
+            "caption": "Top of a female plant",
+            "url": "https://i.ibb.co/nMNmfnD1/plant00159-01147.jpg"
+        },
+        {
+            "image_id": "1148",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/MkBctMTb/plant00159-01148.jpg"
+        },
+        {
+            "image_id": "3403",
+            "caption": "Male Plant with Inflorescence (PMR)",
+            "url": "https://i.ibb.co/206jrpf6/plant00159-03403.jpg"
+        },
+        {
+            "image_id": "3404",
+            "caption": "Young Fruits (PMR)",
+            "url": "https://i.ibb.co/LD5gLxhR/plant00159-03404.jpg"
+        },
+        {
+            "image_id": "3405",
+            "caption": "Cross section of Fruit (PMR)",
+            "url": "https://i.ibb.co/jvV9rcd8/plant00159-03405.jpg"
+        },
+        {
+            "image_id": "3406",
+            "caption": "Seedlings (PMR)",
+            "url": "https://i.ibb.co/h141rytf/plant00159-03406.jpg"
+        },
+        {
+            "image_id": "3407",
+            "caption": "Crown (PMR)",
+            "url": "https://i.ibb.co/7NTc05n3/plant00159-03407.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "#තල් කිරිපැණි / තල් කිරියා / තල් දොදොල් / Palmyra Palm Fruit Dodol / Thal Kiriya / ඇඟ සිසිල් කරන කෑම",
+                "url": "https://youtube.com/watch?v=rF4l83-s33w",
+                "duration": "7:47",
+                "thumbnail": "https://i.ytimg.com/vi/rF4l83-s33w/hq720.jpg"
+            },
+            {
+                "title": "රස්නේ කාලෙට ගුණ දෙන තල් කිරි / Refreshing Summer Drink",
+                "url": "https://youtube.com/watch?v=1lqHRrXpU54",
+                "duration": "5:43",
+                "thumbnail": "https://i.ytimg.com/vi/1lqHRrXpU54/hq720.jpg"
+            },
+            {
+                "title": "තල් ගෙඩියකින් රස කෑමක් හදමුද | තල් වන්ඩු | තල් පුස්නාප්ප | thal wandu | palm fruits | wandu hadamu",
+                "url": "https://youtube.com/watch?v=Prn7WYCXlIQ",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/Prn7WYCXlIQ/hq720.jpg"
+            },
+            {
+                "title": "#තල් පිනාටු / තල් බොර / Palmyra Palm Fruit Pinaatu / Pannatu / යාපනේ විතරක් තියෙන තල් රසය..",
+                "url": "https://youtube.com/watch?v=1itl7L0XbDg",
+                "duration": "7:30",
+                "thumbnail": "https://i.ytimg.com/vi/1itl7L0XbDg/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙත් ගන්නවද ?  තල් ගෙඩියෙන් ගොඩදාගන්නවද? | Palmyra By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=9fTmI3sz-uE",
+                "duration": "13:54",
+                "thumbnail": "https://i.ytimg.com/vi/9fTmI3sz-uE/hq720.jpg"
+            },
+            {
+                "title": "ඇඟ සිහින් කරන ස්වාභාවික තල් පලතුරු බීම Natural weight loss palm (Thal) fruit juice by Apé Amma",
+                "url": "https://youtube.com/watch?v=33f6c18UINI",
+                "duration": "6:42",
+                "thumbnail": "https://i.ytimg.com/vi/33f6c18UINI/hq720.jpg"
+            },
+            {
+                "title": "තල් කැව්ම් |palm fruit |Thal kaum |Asian palmyra palm fruit recipe by villager's foods 2021",
+                "url": "https://youtube.com/watch?v=fMCXkcDU29c",
+                "duration": "3:40",
+                "thumbnail": "https://i.ytimg.com/vi/fMCXkcDU29c/hq720.jpg"
+            },
+            {
+                "title": "#තල් කිරිපැණි / තල් කිරියා / තල් දොදොල් / Palmyra Palm Fruit Dodol / Thal Kiriya / ඇඟ සිසිල් කරන කෑම",
+                "url": "https://youtube.com/watch?v=TRTjIlqR_PM",
+                "duration": "7:47",
+                "thumbnail": "https://i.ytimg.com/vi/TRTjIlqR_PM/frame0.jpg"
+            },
+            {
+                "title": "තිත්ත නැතුව තල් කිරි හදන්න යාපනයේ අත්තම්මා කියපු රහස 😮",
+                "url": "https://youtube.com/watch?v=NngA3OzklyU",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/NngA3OzklyU/hq720.jpg"
+            },
+            {
+                "title": "Palm Toddy Juice in Sri Lanka | තල් රා මදිමු",
+                "url": "https://youtube.com/watch?v=UgUw-Bwnlf8",
+                "duration": "9:42",
+                "thumbnail": "https://i.ytimg.com/vi/UgUw-Bwnlf8/hq720.jpg"
+            },
+            {
+                "title": "බිං තල් ඔසු ශාකය හදුනා ගනිමු Episode 10",
+                "url": "https://youtube.com/watch?v=cS8_aK0hwX4",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/cS8_aK0hwX4/hqdefault.jpg"
+            },
+            {
+                "title": "බිං තල්, Bin thal, #education #garden #herbs #nature #herbalremedies #plants #gardening",
+                "url": "https://youtube.com/watch?v=_SMOtDk-IEk",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/_SMOtDk-IEk/hq720.jpg"
+            },
+            {
+                "title": "තල් ගස | තල් ශාකය | තල ගසේ ප්‍රයෝජන | vishmaya",
+                "url": "https://youtube.com/watch?v=P-SfUcTE_Ag",
+                "duration": "18:35",
+                "thumbnail": "https://i.ytimg.com/vi/P-SfUcTE_Ag/hqdefault.jpg"
+            },
+            {
+                "title": "තල්බීම බොන අයට ලැබෙන සුපිරි දේවල් මෙන්න : Benefits of Toddy Palm fruit juice",
+                "url": "https://youtube.com/watch?v=UJuMmryP7FU",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/UJuMmryP7FU/hq720.jpg"
+            },
+            {
+                "title": "පැරණි ආයුර්වේදයේ කෙටි දළ විශ්ලේෂණයක් තල් ආහාරයට ගන්න අයට විතරක් ලැබෙන වාසි Palmyra Palm benefits",
+                "url": "https://youtube.com/watch?v=5dNcT3BXgT4",
+                "duration": "7:08",
+                "thumbnail": "https://i.ytimg.com/vi/5dNcT3BXgT4/hq720.jpg"
+            },
+            {
+                "title": "තල් ගස පිළිබඳ සියලු විස්තර #palmyra three#තල්ගස#තල්කිරි",
+                "url": "https://youtube.com/watch?v=-b98wa1QBek",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/-b98wa1QBek/hq720.jpg"
+            },
+            {
+                "title": "දේශිය තල් කිරියා රෙසිපිය. palm kiriya recipe . මැනිකෙ නැන්දා, manike nenda.",
+                "url": "https://youtube.com/watch?v=q-jKpD6Fw8Y",
+                "duration": "10:08",
+                "thumbnail": "https://i.ytimg.com/vi/q-jKpD6Fw8Y/hq720.jpg"
+            },
+            {
+                "title": "රසයෙන් මෙන්ම ගුණයෙන්ද පොහොසත් තල් වන්ඩු /Palm Fruit Wandu",
+                "url": "https://youtube.com/watch?v=XxE8NIdX5Rc",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/XxE8NIdX5Rc/hqdefault.jpg"
+            },
+            {
+                "title": "ප්‍රයෝජන රාශියක් ඇති තල් ගස ගැන විස්තර.Details about the palm tree which has many uses.",
+                "url": "https://youtube.com/watch?v=SgyJSKodYJ8",
+                "duration": "8:07",
+                "thumbnail": "https://i.ytimg.com/vi/SgyJSKodYJ8/hqdefault.jpg"
+            },
+            {
+                "title": "✔කෙට්ටු වීමට ස්වාභාවික ආහාරයක් වන කොට්ට කිළංගු - තල් අල Natural weight loss food Thal ala by ApéAmma",
+                "url": "https://youtube.com/watch?v=0ipVRiMBlJw",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/0ipVRiMBlJw/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "1147",
-      "caption": "Top of a female plant",
-      "url": "https://i.ibb.co/nMNmfnD1/plant00159-01147.jpg"
-    },
-    {
-      "image_id": "1148",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/MkBctMTb/plant00159-01148.jpg"
-    },
-    {
-      "image_id": "3403",
-      "caption": "Male Plant with Inflorescence (PMR)",
-      "url": "https://i.ibb.co/206jrpf6/plant00159-03403.jpg"
-    },
-    {
-      "image_id": "3404",
-      "caption": "Young Fruits (PMR)",
-      "url": "https://i.ibb.co/LD5gLxhR/plant00159-03404.jpg"
-    },
-    {
-      "image_id": "3405",
-      "caption": "Cross section of Fruit (PMR)",
-      "url": "https://i.ibb.co/jvV9rcd8/plant00159-03405.jpg"
-    },
-    {
-      "image_id": "3406",
-      "caption": "Seedlings (PMR)",
-      "url": "https://i.ibb.co/h141rytf/plant00159-03406.jpg"
-    },
-    {
-      "image_id": "3407",
-      "caption": "Crown (PMR)",
-      "url": "https://i.ibb.co/7NTc05n3/plant00159-03407.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,108 +1,239 @@
 {
-  "scientificName": "Triumfetta rhomboidea Jacq.",
-  "synonyms": [
-    "Bartramia angulata Lam.",
-    "Bartramia crispifolia Stokes",
-    "Bartramia glandulosa Lam.",
-    "Bartramia indica L.",
-    "Bartramia lappago Gaertn.",
-    "Bartramia rhombifolia Stokes",
-    "Mopex sinensis Lour. ex Gomes Mach.",
-    "Triumfetta angulata Lam.",
-    "Triumfetta bartramia L.",
-    "Triumfetta canacorum Gand.",
-    "Triumfetta dembianensis Chiov.",
-    "Triumfetta diversifolia E.Mey.",
-    "Triumfetta eriocarpa A.St.-Hil.",
-    "Triumfetta excisa Urb.",
-    "Triumfetta glandulosa Forssk.",
-    "Triumfetta indica Lam.",
-    "Triumfetta lappula Vell.",
-    "Triumfetta martiana Turcz.",
-    "Triumfetta mauritiana C.Presl",
-    "Triumfetta micropetala Lindl.",
-    "Triumfetta mollis Schumach. & Thonn.",
-    "Triumfetta pseudoangulata Blume",
-    "Triumfetta rhombeifolia Sw.",
-    "Triumfetta rhomboidea var. angulata (Lam.) Baker",
-    "Triumfetta rhomboidea var. glandulosa (Forssk.) Baker",
-    "Triumfetta rhomboidea var. recifensis Monteiro",
-    "Triumfetta rhomboidea var. spruceana K.Schum.",
-    "Triumfetta riparia Hochst.",
-    "Triumfetta thonningiana DC.",
-    "Triumfetta trilocularis Roxb. ex Hornem.",
-    "Triumfetta tungarensis Billore",
-    "Triumfetta vahlii Poir.",
-    "Triumfetta velutina Sieber ex C.Presl",
-    "Triumfetta velutina Vahl",
-    "Urena polyflora Lour."
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Burr Bush",
-    "Chinese Burr",
-    "Diamond Burrbark",
-    "Parakeet Bur"
-  ],
-  "sinhalaName": "Epala (ඇපල)",
-  "description": "මෙය පැළෑටියක් වන අතර බොහෝ විට පාදස්ථය දැවමය ස්වභාවයක් ගනී, නැතහොත් මීටර් 1.2ක් දක්වා උසැති පඳුරකි. පහළ පත්‍රවල පත්‍ර තලය ගැඹුරින් 3-ඛණ්ඩිත (3-lobed) වන අතර ඉහළ පත්‍රවල පත්‍ර තලය අඩු ගැඹුරකින් යුතුව ඛණ්ඩිත හෝ අඛණ්ඩිත වේ. මේවා දළ වශයෙන් වටකුරු සිට පටු අණ්ඩාකාර (ovate) හැඩයක් ගනී. පත්‍ර අග්‍රය (apex) උල් වූ (acuminate) සිට තියුණු (acute) ස්වභාවයක් ගන්නා අතර, පත්‍ර පාදස්ථය හෘදයාකාරයට ආසන්න (subcordate) සිට වටකුරු-කූඤ්ඤාකාර (rounded-cuneate) හෝ මොට (obtuse) වේ. පත්‍ර දාර අක්‍රමවත් ලෙස සහ බොහෝ විට මොට දත් සහිත (serrate) වේ. පත්‍ර ප්‍රමාණය 7 x 6 සෙ.මී. වන අතර අතු අග්‍රය දෙසට ක්‍රමයෙන් කුඩා වේ. මල් කහ හෝ තැඹිලි පැහැති වන අතර, පත්‍ර කක්ෂීය (axillary) 3-5 බැගින් වූ පුෂ්ප මංජරි (cymules) ලෙස පිහිටයි. ඵලය දළ වශයෙන් ගෝලාකාර (globose) වන අතර නොපැළෙන (indehiscent) ස්වභාවයක් ගනී. ඵලයේ දේහය මි.මී. 3ක් පමණ විෂ්කම්භයකින් යුක්ත වන අතර අළු පැහැති සියුම් රෝමවලින් (cinereous-tomentellous) වැසී ඇත. කටු මි.මී. 1.5ක් පමණ දිග වන අතර රෝම රහිත (glabrous) වේ; කුඩා කටු කොකු හැඩැති (uncinate) වේ.",
-  "treatments": [
-    {
-      "treatment": "Nasopharyngeal Disorders",
-      "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Triumfetta rhomboidea Jacq.",
+    "synonyms": [
+        "Bartramia angulata Lam.",
+        "Bartramia crispifolia Stokes",
+        "Bartramia glandulosa Lam.",
+        "Bartramia indica L.",
+        "Bartramia lappago Gaertn.",
+        "Bartramia rhombifolia Stokes",
+        "Mopex sinensis Lour. ex Gomes Mach.",
+        "Triumfetta angulata Lam.",
+        "Triumfetta bartramia L.",
+        "Triumfetta canacorum Gand.",
+        "Triumfetta dembianensis Chiov.",
+        "Triumfetta diversifolia E.Mey.",
+        "Triumfetta eriocarpa A.St.-Hil.",
+        "Triumfetta excisa Urb.",
+        "Triumfetta glandulosa Forssk.",
+        "Triumfetta indica Lam.",
+        "Triumfetta lappula Vell.",
+        "Triumfetta martiana Turcz.",
+        "Triumfetta mauritiana C.Presl",
+        "Triumfetta micropetala Lindl.",
+        "Triumfetta mollis Schumach. & Thonn.",
+        "Triumfetta pseudoangulata Blume",
+        "Triumfetta rhombeifolia Sw.",
+        "Triumfetta rhomboidea var. angulata (Lam.) Baker",
+        "Triumfetta rhomboidea var. glandulosa (Forssk.) Baker",
+        "Triumfetta rhomboidea var. recifensis Monteiro",
+        "Triumfetta rhomboidea var. spruceana K.Schum.",
+        "Triumfetta riparia Hochst.",
+        "Triumfetta thonningiana DC.",
+        "Triumfetta trilocularis Roxb. ex Hornem.",
+        "Triumfetta tungarensis Billore",
+        "Triumfetta vahlii Poir.",
+        "Triumfetta velutina Sieber ex C.Presl",
+        "Triumfetta velutina Vahl",
+        "Urena polyflora Lour."
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Burr Bush",
+        "Chinese Burr",
+        "Diamond Burrbark",
+        "Parakeet Bur"
+    ],
+    "sinhalaName": "Epala (ඇපල)",
+    "description": "මෙය පැළෑටියක් වන අතර බොහෝ විට පාදස්ථය දැවමය ස්වභාවයක් ගනී, නැතහොත් මීටර් 1.2ක් දක්වා උසැති පඳුරකි. පහළ පත්‍රවල පත්‍ර තලය ගැඹුරින් 3-ඛණ්ඩිත (3-lobed) වන අතර ඉහළ පත්‍රවල පත්‍ර තලය අඩු ගැඹුරකින් යුතුව ඛණ්ඩිත හෝ අඛණ්ඩිත වේ. මේවා දළ වශයෙන් වටකුරු සිට පටු අණ්ඩාකාර (ovate) හැඩයක් ගනී. පත්‍ර අග්‍රය (apex) උල් වූ (acuminate) සිට තියුණු (acute) ස්වභාවයක් ගන්නා අතර, පත්‍ර පාදස්ථය හෘදයාකාරයට ආසන්න (subcordate) සිට වටකුරු-කූඤ්ඤාකාර (rounded-cuneate) හෝ මොට (obtuse) වේ. පත්‍ර දාර අක්‍රමවත් ලෙස සහ බොහෝ විට මොට දත් සහිත (serrate) වේ. පත්‍ර ප්‍රමාණය 7 x 6 සෙ.මී. වන අතර අතු අග්‍රය දෙසට ක්‍රමයෙන් කුඩා වේ. මල් කහ හෝ තැඹිලි පැහැති වන අතර, පත්‍ර කක්ෂීය (axillary) 3-5 බැගින් වූ පුෂ්ප මංජරි (cymules) ලෙස පිහිටයි. ඵලය දළ වශයෙන් ගෝලාකාර (globose) වන අතර නොපැළෙන (indehiscent) ස්වභාවයක් ගනී. ඵලයේ දේහය මි.මී. 3ක් පමණ විෂ්කම්භයකින් යුක්ත වන අතර අළු පැහැති සියුම් රෝමවලින් (cinereous-tomentellous) වැසී ඇත. කටු මි.මී. 1.5ක් පමණ දිග වන අතර රෝම රහිත (glabrous) වේ; කුඩා කටු කොකු හැඩැති (uncinate) වේ.",
+    "treatments": [
+        {
+            "treatment": "Nasopharyngeal Disorders",
+            "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Parasitic Skin Infections",
+            "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gastric Disorders",
+            "sinhala": "ආමාශගත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Stem",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "",
+            "caption": "",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmvgnPRd-Mxdq3L0gZoQeer73NQV8n2jh2w&s"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඇපල ගහ/urena labata/ඇපල් නෙවෙයි මේ ගහ ඇපල/apala/malwecea/biodiversity;හින් ඇපල/heen epala",
+                "url": "https://youtube.com/watch?v=pDNS9qI1UJ4",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/pDNS9qI1UJ4/hqdefault.jpg"
+            },
+            {
+                "title": "ඇපල (වං ඇපල)  | කැලේ ගහක් 01",
+                "url": "https://youtube.com/watch?v=7qLGFJkhpE4",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/7qLGFJkhpE4/hq720.jpg"
+            },
+            {
+                "title": "[Sri Llanka Wildflowers]  #Urena lobate#아욱#Patta epala (පට්ට ඇපල)#Caesar weed#열대식물",
+                "url": "https://youtube.com/watch?v=LmqS4PqSr7s",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/LmqS4PqSr7s/hq720.jpg"
+            },
+            {
+                "title": "ගොඩක් දෙනා දන්නම ශාකයක් තමයි මේක, භාවිතත් තියෙනවා | ඇපල",
+                "url": "https://youtube.com/watch?v=A0jxhPWz48I",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/A0jxhPWz48I/hq720.jpg"
+            },
+            {
+                "title": "ඇපල | apple | Slap productions",
+                "url": "https://youtube.com/watch?v=_AacS4cMBDY",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/_AacS4cMBDY/hqdefault.jpg"
+            },
+            {
+                "title": "ගෝල්ඩන් හාට් ඇපල",
+                "url": "https://youtube.com/watch?v=WzD5NXVekQg",
+                "duration": "1:05",
+                "thumbnail": "https://i.ytimg.com/vi/WzD5NXVekQg/hqdefault.jpg"
+            },
+            {
+                "title": "ඇපල ගහ/urena labata/ඇපල් නෙවෙයි මේ ගහ ඇපල/apala/malwecea/biodiversity;හින් ඇපල/heen epala",
+                "url": "https://youtube.com/watch?v=U8pL6gZD8o8",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/U8pL6gZD8o8/frame0.jpg"
+            },
+            {
+                "title": "විශ්මිත ඖෂධීය ගුණ සහිත ඇපල් | Apples health benefits in sinhala #mammypages #sinhala #apple #health",
+                "url": "https://youtube.com/watch?v=4iBIN0pGE8k",
+                "duration": "2:05",
+                "thumbnail": "https://i.ytimg.com/vi/4iBIN0pGE8k/hq720.jpg"
+            },
+            {
+                "title": "ඇපල්  බීජ පැල කරමුද? | How to Plant Apple Seeds at Home | Ceylon Agri | Episode 207",
+                "url": "https://youtube.com/watch?v=vVqvYMMZfLE",
+                "duration": "22:04",
+                "thumbnail": "https://i.ytimg.com/vi/vVqvYMMZfLE/hq720.jpg"
+            },
+            {
+                "title": "ඔයා හැමදාම ඇපල් ගෙඩියේ ඇට ටික ඉවත් කරලද කන්නෙ? | Apple Seeds Danger | True Sense | Health | Fitness",
+                "url": "https://youtube.com/watch?v=4T_4YPmYC4I",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/4T_4YPmYC4I/hqdefault.jpg"
+            },
+            {
+                "title": "රැල්ලට ගොඩ දෙනෙක් හිටවන මොනාද මේ ඇපල් පේර?  Apple Guava| Ceylon Agri Episode 444",
+                "url": "https://youtube.com/watch?v=Qs8lh1o4Quo",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/Qs8lh1o4Quo/hq720.jpg"
+            },
+            {
+                "title": "Benifits of eat apple daily.| Eat apple for weight loss.| apple benefits sinhala| dm secret | 🇱🇰",
+                "url": "https://youtube.com/watch?v=jqYvs4vyNg4",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/jqYvs4vyNg4/hqdefault.jpg"
+            },
+            {
+                "title": "Apples and Diabetes | ඇපල් සහ දියවැඩියාව | Apples Good for Diabetes?",
+                "url": "https://youtube.com/watch?v=WMcqd31nxo8",
+                "duration": "13:22",
+                "thumbnail": "https://i.ytimg.com/vi/WMcqd31nxo8/hq720.jpg"
+            },
+            {
+                "title": "Otaheite Apple Revealed: Health Benefits and More",
+                "url": "https://youtube.com/watch?v=3kxr38kNDJg",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/3kxr38kNDJg/hq720.jpg"
+            },
+            {
+                "title": "9 AMAZING Benefits of Eating ONE Apple Every Day",
+                "url": "https://youtube.com/watch?v=HrD1pPwUMLg",
+                "duration": "25:03",
+                "thumbnail": "https://i.ytimg.com/vi/HrD1pPwUMLg/hq720.jpg"
+            },
+            {
+                "title": "16 Impressive Health Benefits of Green Apples | Why You Should Eat More Green Apples!",
+                "url": "https://youtube.com/watch?v=yJLYKewWi1M",
+                "duration": "6:15",
+                "thumbnail": "https://i.ytimg.com/vi/yJLYKewWi1M/hq720.jpg"
+            },
+            {
+                "title": "5 Science-Backed Health Benefits of Apples | Why Are Apples Healthy? Best Benefits of Eating Apples",
+                "url": "https://youtube.com/watch?v=DVqcnlbMaTU",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/DVqcnlbMaTU/hq720.jpg"
+            },
+            {
+                "title": "An Apple a Day: Discover 10 Health Benefits That Will Amaze You!",
+                "url": "https://youtube.com/watch?v=vpDWkrU77ps",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/vpDWkrU77ps/hqdefault.jpg"
+            },
+            {
+                "title": "Otaheite Apple Revealed: Health Benefits and More",
+                "url": "https://youtube.com/watch?v=0VgwFerxMRI",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/0VgwFerxMRI/frame0.jpg"
+            },
+            {
+                "title": "ඇපල් සහ ඇපල් ජූස්  කන්න බොන්න කලින්  | Apple & Apple Juice By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=dr1WA44J7bI",
+                "duration": "19:06",
+                "thumbnail": "https://i.ytimg.com/vi/dr1WA44J7bI/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Parasitic Skin Infections",
-      "sinhala": "සමේ සහ සම යට පරපෝෂිත ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gastric Disorders",
-      "sinhala": "ආමාශගත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Stem",
-    "Seeds"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

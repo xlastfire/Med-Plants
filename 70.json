@@ -1,126 +1,197 @@
 {
-  "scientificName": "Annona cherimola Mill.",
-  "synonyms": [
-    "Annona pubescens Salisb.",
-    "Annona tripetala Aiton"
-  ],
-  "familyName": "ANNONACEAE",
-  "englishNames": [
-    "Custard Apple",
-    "Cherimoya"
-  ],
-  "sinhalaName": "Seeni anoda  (සීනි අනෝදා)",
-  "description": "මීටර් 3 - 7 ක් උසැති කුඩා ගසකි. පත්‍ර තලය සෙන්ටිමීටර 5 - 14 ක් දිග සහ සෙන්ටිමීටර 4 - 9 ක් පළල වේ. එය ඉලිප්සාකාර (elliptical) සිට පාහේ වෘත්තාකාර (orbicular) හැඩයක් ගනී. පත්‍රයේ දෙකෙළවර මොට හෝ වටකුරු වන අතර, පත්‍ර වෘන්තය දිගේ කෙටි ලෙස පහළට විහිදී පවතී (short-decurrent). පත්‍රයේ උඩු පැත්ත ළපටි අවස්ථාවේදී හෝ අවම වශයෙන් රෝම සහිත (pubescent) වේ. මල් කොළ පැහැතිය; පත්‍ර සහිත අතු වල පාදමෙන් තනිව හෝ යුගල වශයෙන් හටගනී. ඉදුණු පලතුර ඩිම්බාකාර (ovoid) වේ; බොහෝ විට කොළ පැහැති වන අතර, මතුපිට සිනිඳු හෝ ගැටිති සහිත (tuberculate) වේ. නමුත් පලතුරේ කොටස් (areoles) අතර වලවල් නොමැත. මෙම කොටස් සමතලා, ගිලී ගිය හෝ කේතුකාකාර නෙරා යාමක් (conical protuberance) ලෙස පවතී. පලතුරු මදය සුදු පැහැතිය; බීජ කළු පැහැයට හුරු දුඹුරු පැහැයක් ගන්නා අතර වියළි විට ලා පැහැයට හැරේ.",
-  "treatments": [
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Annona cherimola Mill.",
+    "synonyms": [
+        "Annona pubescens Salisb.",
+        "Annona tripetala Aiton"
+    ],
+    "familyName": "ANNONACEAE",
+    "englishNames": [
+        "Custard Apple",
+        "Cherimoya"
+    ],
+    "sinhalaName": "Seeni anoda  (සීනි අනෝදා)",
+    "description": "මීටර් 3 - 7 ක් උසැති කුඩා ගසකි. පත්‍ර තලය සෙන්ටිමීටර 5 - 14 ක් දිග සහ සෙන්ටිමීටර 4 - 9 ක් පළල වේ. එය ඉලිප්සාකාර (elliptical) සිට පාහේ වෘත්තාකාර (orbicular) හැඩයක් ගනී. පත්‍රයේ දෙකෙළවර මොට හෝ වටකුරු වන අතර, පත්‍ර වෘන්තය දිගේ කෙටි ලෙස පහළට විහිදී පවතී (short-decurrent). පත්‍රයේ උඩු පැත්ත ළපටි අවස්ථාවේදී හෝ අවම වශයෙන් රෝම සහිත (pubescent) වේ. මල් කොළ පැහැතිය; පත්‍ර සහිත අතු වල පාදමෙන් තනිව හෝ යුගල වශයෙන් හටගනී. ඉදුණු පලතුර ඩිම්බාකාර (ovoid) වේ; බොහෝ විට කොළ පැහැති වන අතර, මතුපිට සිනිඳු හෝ ගැටිති සහිත (tuberculate) වේ. නමුත් පලතුරේ කොටස් (areoles) අතර වලවල් නොමැත. මෙම කොටස් සමතලා, ගිලී ගිය හෝ කේතුකාකාර නෙරා යාමක් (conical protuberance) ලෙස පවතී. පලතුරු මදය සුදු පැහැතිය; බීජ කළු පැහැයට හුරු දුඹුරු පැහැයක් ගන්නා අතර වියළි විට ලා පැහැයට හැරේ.",
+    "treatments": [
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Toothache",
+            "sinhala": "දත් කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Facial Paralysis",
+            "sinhala": "මුහුණේ අංශභාගය (අර්දිත රෝගය / කට ඇදවීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Menorrhagia",
+            "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Sciatica",
+            "sinhala": "ගෘධ්‍රසී වාතය (Sciatica)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Disorders",
+            "sinhala": "මුත්‍රා පද්ධතියේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Bark",
+        "Roots",
+        "Flowers",
+        "Fruits",
+        "Seeds"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "සීනි අනෝදා කාල තියෙනවාද : Benefits of Custard apple",
+                "url": "https://youtube.com/watch?v=KZT4ockipy4",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/KZT4ockipy4/hq720.jpg"
+            },
+            {
+                "title": "How to grow Custard Apple in a pot |පිළිකානාශක ගුණ ඇති සීනි අනෝදා | Ceylon Agri | Episode 106",
+                "url": "https://youtube.com/watch?v=SZbKF2Z0IME",
+                "duration": "10:01",
+                "thumbnail": "https://i.ytimg.com/vi/SZbKF2Z0IME/hq720.jpg"
+            },
+            {
+                "title": "සීනි අනෝදා - Sugger Apple 🍑",
+                "url": "https://youtube.com/watch?v=7pB1fYsy7Kg",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/7pB1fYsy7Kg/hq720.jpg"
+            },
+            {
+                "title": "ආයේ ආයේ කන්න හිතෙන සීනි අනෝදා -  custard apple",
+                "url": "https://youtube.com/watch?v=oXeEdqnj3f4",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/oXeEdqnj3f4/hqdefault.jpg"
+            },
+            {
+                "title": "සීනි අනෝදා වල ඇති විශ්මිත ගුණ/benefits of custard apple",
+                "url": "https://youtube.com/watch?v=L9bwlRefPaA",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/L9bwlRefPaA/hqdefault.jpg"
+            },
+            {
+                "title": "Anoda  Custard Apple, සීනිඅනෝදා,",
+                "url": "https://youtube.com/watch?v=gcCoThWYv8s",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/gcCoThWYv8s/hq720.jpg"
+            },
+            {
+                "title": "How to grow Custard Apple in a pot |පිළිකානාශක ගුණ ඇති සීනි අනෝදා | Ceylon Agri | Episode 106",
+                "url": "https://youtube.com/watch?v=K67DebKqTpM",
+                "duration": "10:01",
+                "thumbnail": "https://i.ytimg.com/vi/K67DebKqTpM/frame0.jpg"
+            },
+            {
+                "title": "සීනි අනෝදා වල ඇති විශ්මිත ගුණ/benefits of custard apple",
+                "url": "https://youtube.com/watch?v=Nn6EbiQ67hQ",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/Nn6EbiQ67hQ/frame0.jpg"
+            },
+            {
+                "title": "සීනි අනෝදා වල ඇති විශ්මිත ගුණ/benefits of custard apple",
+                "url": "https://youtube.com/watch?v=FG29Wxm-EyI",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/FG29Wxm-EyI/frame0.jpg"
+            },
+            {
+                "title": "SWEETSOP: Surprising MEDICINAL USES & BENEFITS for DIABETES + MORE / Earth’s Medicine",
+                "url": "https://youtube.com/watch?v=7ap6WxE0bGc",
+                "duration": "9:23",
+                "thumbnail": "https://i.ytimg.com/vi/7ap6WxE0bGc/hq720.jpg"
+            },
+            {
+                "title": "සීනි අනෝදා වල ඇති විශ්මිත ගුණ/benefits of custard apple",
+                "url": "https://youtube.com/watch?v=WtZYVFRUot4",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/WtZYVFRUot4/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Toothache",
-      "sinhala": "දත් කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Facial Paralysis",
-      "sinhala": "මුහුණේ අංශභාගය (අර්දිත රෝගය / කට ඇදවීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Menorrhagia",
-      "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Sciatica",
-      "sinhala": "ගෘධ්‍රසී වාතය (Sciatica)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Disorders",
-      "sinhala": "මුත්‍රා පද්ධතියේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Bark",
-    "Roots",
-    "Flowers",
-    "Fruits",
-    "Seeds"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

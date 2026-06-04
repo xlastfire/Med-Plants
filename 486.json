@@ -1,101 +1,178 @@
 {
-  "scientificName": "Bridelia retusa (L.) A.Juss.",
-  "synonyms": [
-    "Andrachne doonkyboisca B.Heyne ex Benth.",
-    "Bridelia airy-shawii P.T.Li",
-    "Bridelia amoena Wall. ex Baill.",
-    "Bridelia cambodiana Gagnep.",
-    "Bridelia chineensis Thin",
-    "Bridelia cinerascens Gehrm.",
-    "Bridelia crenulata Roxb.",
-    "Bridelia fruticosa Pers.",
-    "Bridelia hamiltoniana var. glabra Müll.Arg.",
-    "Bridelia pierrei Gagnep.",
-    "Bridelia retusa var. genuina Müll.Arg.",
-    "Bridelia retusa var. glabra Gehrm.",
-    "Bridelia retusa var. glauca Hook.f.",
-    "Bridelia retusa var. pubescens Gehrm.",
-    "Bridelia retusa var. roxburghiana Müll.Arg.",
-    "Bridelia retusa var. squamosa (Lam.) Müll.Arg.",
-    "Bridelia retusa var. stipulata Gehrm.",
-    "Bridelia roxburghiana (Müll.Arg.) Gehrm.",
-    "Bridelia spinosa (Roxb.) Willd.",
-    "Bridelia squamosa (Lam.) Gehrm.",
-    "Bridelia squamosa var. meeboldii Gehrm.",
-    "Bridelia squamosa var. typica Gehrm.",
-    "Clutia retusa L.",
-    "Clutia spinosa Roxb.",
-    "Clutia squamosa Lam."
-  ],
-  "familyName": "PHYLLANTHACEAE",
-  "englishNames": [
-    "Spinous Kino Tree"
-  ],
-  "sinhalaName": "Ketakela (කැටකෑල)",
-  "description": "කුඩා ගසකි, ළපටි කොටස් රෝමශ (pubescent) වේ. පත්‍ර සරලයි; පත්‍ර තලය සෙන්ටිමීටර 8.7-1.2 ක් දිගු වන අතර, උඩු පැත්ත සිනිඳුයි (glabrous), යටි පැත්තෙහි ඉතා සියුම් රෝම දක්නට ලැබේ; පත්‍ර වෘන්ත කෙටිය; උප පත්‍ර හෙල්ලයක හැඩැති (lanceolate) වේ. පුෂ්ප මංජරිය කරල් හැඩැති (spicate) වන අතර කලාතුරකින් අතු බෙදී පවතී. මල් ඒකලිංගික වන අතර, දම් පැහැති තැටියක් සහිතව වියැකුණු කොළ පැහැයක් ගනී; ඉතා කෙටි පුෂ්ප වෘන්ත මත පිහිටයි. ඵලය අෂ්ඨිල (drupe) වර්ගයේ එකක් වන අතර, එය බීජ එක බැගින් වූ කොටස් දෙකකින් සමන්විතව පවතින රේඛීය (persistent) බාහිර දල සහ පෙති මත පිහිටයි; විෂ්කම්භය මිලිමීටර 8 ක් පමණ වන අතර, ගෝලාකාර (globose) සහ දම් පැහැයට හුරු කළු පැහැයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Bridelia retusa (L.) A.Juss.",
+    "synonyms": [
+        "Andrachne doonkyboisca B.Heyne ex Benth.",
+        "Bridelia airy-shawii P.T.Li",
+        "Bridelia amoena Wall. ex Baill.",
+        "Bridelia cambodiana Gagnep.",
+        "Bridelia chineensis Thin",
+        "Bridelia cinerascens Gehrm.",
+        "Bridelia crenulata Roxb.",
+        "Bridelia fruticosa Pers.",
+        "Bridelia hamiltoniana var. glabra Müll.Arg.",
+        "Bridelia pierrei Gagnep.",
+        "Bridelia retusa var. genuina Müll.Arg.",
+        "Bridelia retusa var. glabra Gehrm.",
+        "Bridelia retusa var. glauca Hook.f.",
+        "Bridelia retusa var. pubescens Gehrm.",
+        "Bridelia retusa var. roxburghiana Müll.Arg.",
+        "Bridelia retusa var. squamosa (Lam.) Müll.Arg.",
+        "Bridelia retusa var. stipulata Gehrm.",
+        "Bridelia roxburghiana (Müll.Arg.) Gehrm.",
+        "Bridelia spinosa (Roxb.) Willd.",
+        "Bridelia squamosa (Lam.) Gehrm.",
+        "Bridelia squamosa var. meeboldii Gehrm.",
+        "Bridelia squamosa var. typica Gehrm.",
+        "Clutia retusa L.",
+        "Clutia spinosa Roxb.",
+        "Clutia squamosa Lam."
+    ],
+    "familyName": "PHYLLANTHACEAE",
+    "englishNames": [
+        "Spinous Kino Tree"
+    ],
+    "sinhalaName": "Ketakela (කැටකෑල)",
+    "description": "කුඩා ගසකි, ළපටි කොටස් රෝමශ (pubescent) වේ. පත්‍ර සරලයි; පත්‍ර තලය සෙන්ටිමීටර 8.7-1.2 ක් දිගු වන අතර, උඩු පැත්ත සිනිඳුයි (glabrous), යටි පැත්තෙහි ඉතා සියුම් රෝම දක්නට ලැබේ; පත්‍ර වෘන්ත කෙටිය; උප පත්‍ර හෙල්ලයක හැඩැති (lanceolate) වේ. පුෂ්ප මංජරිය කරල් හැඩැති (spicate) වන අතර කලාතුරකින් අතු බෙදී පවතී. මල් ඒකලිංගික වන අතර, දම් පැහැති තැටියක් සහිතව වියැකුණු කොළ පැහැයක් ගනී; ඉතා කෙටි පුෂ්ප වෘන්ත මත පිහිටයි. ඵලය අෂ්ඨිල (drupe) වර්ගයේ එකක් වන අතර, එය බීජ එක බැගින් වූ කොටස් දෙකකින් සමන්විතව පවතින රේඛීය (persistent) බාහිර දල සහ පෙති මත පිහිටයි; විෂ්කම්භය මිලිමීටර 8 ක් පමණ වන අතර, ගෝලාකාර (globose) සහ දම් පැහැයට හුරු කළු පැහැයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fractures",
+            "sinhala": "අස්ථි බිඳීම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bruises",
+            "sinhala": "තැලීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Bark of the Root",
+        "Flowers"
+    ],
+    "images": [
+        {
+            "image_id": "1492",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/Q7q0xfxT/plant00486-01492.jpg"
+        },
+        {
+            "image_id": "1493",
+            "caption": "Twig",
+            "url": "https://i.ibb.co/0ymRmmYN/plant00486-01493.jpg"
+        },
+        {
+            "image_id": "1494",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/zWzCVnN7/plant00486-01494.jpg"
+        },
+        {
+            "image_id": "3585",
+            "caption": "Fruits (PMR)",
+            "url": "http://www.instituteofayurveda.org/plants/images/plants/00486/plant00486-03585.jpg"
+        },
+        {
+            "image_id": "3586",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/GQTyK442/plant00486-03586.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "kata kala tree /කැටකැල/Bridelia  retusha/sri lanka/medicinal  plant",
+                "url": "https://youtube.com/watch?v=-4_j_8YjfPY",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/-4_j_8YjfPY/hq720.jpg"
+            },
+            {
+                "title": "නාඳුනන ගස්  \"කැට කෑල\" - තිලක් කන්දේගම / Trees unknown to people - 04",
+                "url": "https://youtube.com/watch?v=ZAP-fbI1ar0",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/ZAP-fbI1ar0/hq720.jpg"
+            },
+            {
+                "title": "Keta Keela plant (Bridelia retusa)",
+                "url": "https://youtube.com/watch?v=4-gjdYJT1l4",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/4-gjdYJT1l4/hq720.jpg"
+            },
+            {
+                "title": "කැඩුම් බ්දුම් අස්ථි රථ ගායට සමේ රෝග සුවකරන ඖෂධ ශාකය කැටකෑල",
+                "url": "https://youtube.com/watch?v=kg24V1yN52E",
+                "duration": "6:17",
+                "thumbnail": "https://i.ytimg.com/vi/kg24V1yN52E/hq720.jpg"
+            },
+            {
+                "title": "ඇට කටු කැඩුනම නැවත හදන අරුමපුදුම කටුකෑල්ල | කැටකෑල්ල | Indika Koralage",
+                "url": "https://youtube.com/watch?v=HFyNvUKtScc",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/HFyNvUKtScc/hq720.jpg"
+            },
+            {
+                "title": "කැට කෑල",
+                "url": "https://youtube.com/watch?v=BtFmwYet18I",
+                "duration": "0:26",
+                "thumbnail": "https://i.ytimg.com/vi/BtFmwYet18I/hq720.jpg"
+            },
+            {
+                "title": "Ketakela - Spinous kino tree - Bridelia retusa - Ayurwedhic plant",
+                "url": "https://youtube.com/watch?v=X8qv79VP-Ag",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/X8qv79VP-Ag/hq720.jpg"
+            },
+            {
+                "title": "SARA OSU VARUNA - සාර ඔසු වරුණ | කැටකෑල | 2024 - 11 - 11 | Erundeniya Ayurveda Hospital",
+                "url": "https://youtube.com/watch?v=Rr71llbfXwM",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/Rr71llbfXwM/hqdefault.jpg"
+            },
+            {
+                "title": "කැටකෑල ගස්",
+                "url": "https://youtube.com/watch?v=WVUUSZrCpeI",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/WVUUSZrCpeI/hq720.jpg"
+            },
+            {
+                "title": "කැට කෑල පත්තුව",
+                "url": "https://youtube.com/watch?v=Grej_-HpfyU",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/Grej_-HpfyU/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ සංධිවල කාටලේජ ගෙවිලද? එහෙනම් මෙන්න කාටලේජ වර්ධන කර ගන්න පත්තුව හදන ක්‍රමය. රජදවසේ රහස් බෙහෙත",
+                "url": "https://youtube.com/watch?v=zi66jlZ_dlg",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/zi66jlZ_dlg/hq720.jpg"
+            },
+            {
+                "title": "kata kala tree /කැටකැල/Bridelia  retusha/sri lanka/medicinal  plant",
+                "url": "https://youtube.com/watch?v=fgNKImZnm1o",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/fgNKImZnm1o/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fractures",
-      "sinhala": "අස්ථි බිඳීම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Bruises",
-      "sinhala": "තැලීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Bark of the Root",
-    "Flowers"
-  ],
-  "images": [
-    {
-      "image_id": "1492",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/Q7q0xfxT/plant00486-01492.jpg"
-    },
-    {
-      "image_id": "1493",
-      "caption": "Twig",
-      "url": "https://i.ibb.co/0ymRmmYN/plant00486-01493.jpg"
-    },
-    {
-      "image_id": "1494",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/zWzCVnN7/plant00486-01494.jpg"
-    },
-    {
-      "image_id": "3585",
-      "caption": "Fruits (PMR)",
-      "url": "http://www.instituteofayurveda.org/plants/images/plants/00486/plant00486-03585.jpg"
-    },
-    {
-      "image_id": "3586",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/GQTyK442/plant00486-03586.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

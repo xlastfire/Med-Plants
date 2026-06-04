@@ -1,70 +1,159 @@
 {
-  "scientificName": "Coleus strobilifer (Roxb.) A.J.Paton",
-  "synonyms": [
-    "Anisochilus carnosus (L.f.) Wall. ex Benth.",
-    "Anisochilus carnosus var. eriocephalus (Benth.) T.Cooke",
-    "Anisochilus carnosus var. glaber (Schrad.) Benth.",
-    "Anisochilus carnosus var. purpurascens Benth.",
-    "Anisochilus carnosus var. villosior Benth.",
-    "Anisochilus carnosus var. viridis Benth.",
-    "Anisochilus crassus Benth.",
-    "Anisochilus decussatus Dalzell & A.Gibson",
-    "Anisochilus eriocephalus Benth.",
-    "Anisochilus glaber Schrad.",
-    "Anisochilus rupestris Wight ex Hook.f.",
-    "Lavandula carnosa L.f.",
-    "Plectranthus carnosus (L.f.) Sm.",
-    "Plectranthus dubius Spreng.",
-    "Plectranthus strobilifer Roxb."
-  ],
-  "familyName": "LAMIACEAE",
-  "englishNames": [
-    "Kapurli",
-    "Thick Leaved Lavender"
-  ],
-  "sinhalaName": "Gal kapparawalliya (ගල් කප්පරවල්ලිය)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Pediatric Cough",
-      "sinhala": "ළමුන්ගේ කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Coleus strobilifer (Roxb.) A.J.Paton",
+    "synonyms": [
+        "Anisochilus carnosus (L.f.) Wall. ex Benth.",
+        "Anisochilus carnosus var. eriocephalus (Benth.) T.Cooke",
+        "Anisochilus carnosus var. glaber (Schrad.) Benth.",
+        "Anisochilus carnosus var. purpurascens Benth.",
+        "Anisochilus carnosus var. villosior Benth.",
+        "Anisochilus carnosus var. viridis Benth.",
+        "Anisochilus crassus Benth.",
+        "Anisochilus decussatus Dalzell & A.Gibson",
+        "Anisochilus eriocephalus Benth.",
+        "Anisochilus glaber Schrad.",
+        "Anisochilus rupestris Wight ex Hook.f.",
+        "Lavandula carnosa L.f.",
+        "Plectranthus carnosus (L.f.) Sm.",
+        "Plectranthus dubius Spreng.",
+        "Plectranthus strobilifer Roxb."
+    ],
+    "familyName": "LAMIACEAE",
+    "englishNames": [
+        "Kapurli",
+        "Thick Leaved Lavender"
+    ],
+    "sinhalaName": "Gal kapparawalliya (ගල් කප්පරවල්ලිය)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Pediatric Cough",
+            "sinhala": "ළමුන්ගේ කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Sore Throat",
+            "sinhala": "උගුරේ බැරැන්ඩිය / කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant"
+    ],
+    "images": [
+        {
+            "image_id": "1372",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/qM2Lcm03/plant00712-01372.jpg"
+        },
+        {
+            "image_id": "1373",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/cG6CqKS/plant00712-01373.jpg"
+        },
+        {
+            "image_id": "1374",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/zWfdxPJ7/plant00712-01374.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "සෙම නසන කප්පරවල්ලිය ශාකය ගැන විස්තර | Coleus amboinicus | Kapparawalliya",
+                "url": "https://youtube.com/watch?v=iE_I-vlPAc8",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/iE_I-vlPAc8/hq720.jpg"
+            },
+            {
+                "title": "කප්පරවල්ලිය( Kapparawalliya) - Plectranthus Amboinicus",
+                "url": "https://youtube.com/watch?v=LjarMeYtLp8",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/LjarMeYtLp8/hq720.jpg"
+            },
+            {
+                "title": "කප්පරවල්ලිය | සෙම් රෝග වලට දිව ඔසුවකි | kapparawalliya | The best cure for respiratory diseases",
+                "url": "https://youtube.com/watch?v=ft7Vo-4Z_D0",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/ft7Vo-4Z_D0/hq720.jpg"
+            },
+            {
+                "title": "හෙල ඔසු - ගල් කපරවල්ලිය",
+                "url": "https://youtube.com/watch?v=B1hwLwNwHNs",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/B1hwLwNwHNs/hq720.jpg"
+            },
+            {
+                "title": "කප්පරවල්ලිය ශාකය | Kapparawalliya plant",
+                "url": "https://youtube.com/watch?v=K7qT7dkA0TA",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/K7qT7dkA0TA/hqdefault.jpg"
+            },
+            {
+                "title": "Kapparawalliya & Iriweriya  | ගෙදරක හිටවගන්නම ඕන ඔසු පැල | කප්පරවල්ලිය සහ ඉරිවේරිය| Episode 69",
+                "url": "https://youtube.com/watch?v=B7sMPk7vVbM",
+                "duration": "6:16",
+                "thumbnail": "https://i.ytimg.com/vi/B7sMPk7vVbM/hq720.jpg"
+            },
+            {
+                "title": "kapparawalliya # කොරෝනා නිසා ඇතිවන ස්වසන අපහසුව මගහරින කප්පරක් සුවද දෙන කප්පරවල්ලිය # siw helaya",
+                "url": "https://youtube.com/watch?v=oxlsqbfTNnY",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/oxlsqbfTNnY/hq720.jpg"
+            },
+            {
+                "title": "උගුරේ ඇති වන දැවිල්ලට, නිව්මෝනියාවට ඇතුළු රෝග රැසකට දිව්‍යමය ශාකය | කප්පරවල්ලිය (Kapparawalliya)",
+                "url": "https://youtube.com/watch?v=0rM5x_knG_M",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/0rM5x_knG_M/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ දාහක් නසන කප්පරවල්ලිය",
+                "url": "https://youtube.com/watch?v=XyTTiiIT0J4",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/XyTTiiIT0J4/hq720.jpg"
+            },
+            {
+                "title": "කොහොමද නිවැරදිව ඉරිවේරිය සහ කප්පරවල්ලිය ශාක හදුගන්නේ?(How to identify correctly iriveriya plant)",
+                "url": "https://youtube.com/watch?v=iWfCkXXDM_Q",
+                "duration": "3:55",
+                "thumbnail": "https://i.ytimg.com/vi/iWfCkXXDM_Q/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට සුවගෙනෙන කප්පරවල්ලිය (Kapparawalliya)",
+                "url": "https://youtube.com/watch?v=iU5mVc_Tnu0",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/iU5mVc_Tnu0/hqdefault.jpg"
+            },
+            {
+                "title": "Kapparawalliya & Rath Karal Haba කප්පරවල්ලිය සහ රත් කරල් හැබ නිවැරිදිව හදුනාගමු/Medicinal Plants",
+                "url": "https://youtube.com/watch?v=hZIbTFyTIkc",
+                "duration": "9:18",
+                "thumbnail": "https://i.ytimg.com/vi/hZIbTFyTIkc/hq720.jpg"
+            },
+            {
+                "title": "Mayana Leaves: Benefits and Uses (Coleus Plant)",
+                "url": "https://youtube.com/watch?v=Yik3ZNqA3KQ",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/Yik3ZNqA3KQ/hq720.jpg"
+            },
+            {
+                "title": "කප්පරවල්ලි ශාකයේ විශේෂත්වය යෝගිතුමා හෙළිකරයි | ලෙඩ රෝග රැසකින් බේරෙන්න | ප්‍රතිඵල සහතිකයි 🙏 🇱🇰 😍",
+                "url": "https://youtube.com/watch?v=Bg65BhSdyIk",
+                "duration": "21:35",
+                "thumbnail": "https://i.ytimg.com/vi/Bg65BhSdyIk/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Sore Throat",
-      "sinhala": "උගුරේ බැරැන්ඩිය / කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant"
-  ],
-  "images": [
-    {
-      "image_id": "1372",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/qM2Lcm03/plant00712-01372.jpg"
-    },
-    {
-      "image_id": "1373",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/cG6CqKS/plant00712-01373.jpg"
-    },
-    {
-      "image_id": "1374",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/zWfdxPJ7/plant00712-01374.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,33 +1,572 @@
 {
-  "scientificName": "Solanum macrocarpon L.",
-  "synonyms": [
-    "Solanum atropo Schumach. & Thonn.",
-    "Solanum calicinum Dunal",
-    "Solanum calycinum Hurt. ex Dunal",
-    "Solanum calycinum Moc. & Sessé ex Dunal",
-    "Solanum crassifolium Salisb.",
-    "Solanum decaisneanum Schimp. ex Bitter",
-    "Solanum dimorphum Matsum.",
-    "Solanum duplo-sinuatum Klotzsch",
-    "Solanum duplo-sinuatum var. semiglabrum C.H.Wright",
-    "Solanum farini Dammer",
-    "Solanum grandiflorum Vahl ex Dunal",
-    "Solanum kilimandschari Dammer",
-    "Solanum melongena var. depressum L.H.Bailey",
-    "Solanum mors-elephantum Dammann",
-    "Solanum thonningianum Jacq.f",
-    "Solanum toxicarium Rich.",
-    "Solanum zanonii Gouan"
-  ],
-  "familyName": "SOLANACEAE",
-  "englishNames": [
-    "Brinjal",
-    "African Eggplant"
-  ],
-  "sinhalaName": "Wambatu (වම්බටු)",
-  "description": "සෙන්ටිමීටර 60-120ක් දක්වා උසැති කෙටි බහුවාර්ෂික (perennial) හෝ වාර්ෂික ශාකයකි. පත්‍ර විශාලය, කෙලින් පිහිටයි (erect), කොළ පැහැතිය. මල් විශාලය, ලා දම් පැහැතිය, රෝස පැහැති නහර රටා දක්නට ලැබේ. පලතුරු වටකුරුය, විෂ්කම්භය සෙන්ටිමීටර 4කි, කහ පැහැතිය.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Solanum macrocarpon L.",
+    "synonyms": [
+        "Solanum atropo Schumach. & Thonn.",
+        "Solanum calicinum Dunal",
+        "Solanum calycinum Hurt. ex Dunal",
+        "Solanum calycinum Moc. & Sessé ex Dunal",
+        "Solanum crassifolium Salisb.",
+        "Solanum decaisneanum Schimp. ex Bitter",
+        "Solanum dimorphum Matsum.",
+        "Solanum duplo-sinuatum Klotzsch",
+        "Solanum duplo-sinuatum var. semiglabrum C.H.Wright",
+        "Solanum farini Dammer",
+        "Solanum grandiflorum Vahl ex Dunal",
+        "Solanum kilimandschari Dammer",
+        "Solanum melongena var. depressum L.H.Bailey",
+        "Solanum mors-elephantum Dammann",
+        "Solanum thonningianum Jacq.f",
+        "Solanum toxicarium Rich.",
+        "Solanum zanonii Gouan"
+    ],
+    "familyName": "SOLANACEAE",
+    "englishNames": [
+        "Brinjal",
+        "African Eggplant"
+    ],
+    "sinhalaName": "Wambatu (වම්බටු)",
+    "description": "සෙන්ටිමීටර 60-120ක් දක්වා උසැති කෙටි බහුවාර්ෂික (perennial) හෝ වාර්ෂික ශාකයකි. පත්‍ර විශාලය, කෙලින් පිහිටයි (erect), කොළ පැහැතිය. මල් විශාලය, ලා දම් පැහැතිය, රෝස පැහැති නහර රටා දක්නට ලැබේ. පලතුරු වටකුරුය, විෂ්කම්භය සෙන්ටිමීටර 4කි, කහ පැහැතිය.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "",
+            "caption": "",
+            "url": "https://smartlady.lk/wp-content/uploads/2020/04/wp-15864527598761827026729512673569.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කන්න ආස හිතෙන විදිහට, හින්දලා හදපු \"වම්බටු ව්‍යංජනය\" | Brinjal Curry Sinhala | Wambatu Curry",
+                "url": "https://youtube.com/watch?v=WutMUHbO6D4",
+                "duration": "4:33",
+                "thumbnail": "https://i.ytimg.com/vi/WutMUHbO6D4/hq720.jpg"
+            },
+            {
+                "title": "වම්බොටු ක්‍රම 8කට උයන පහසු විදිය - Episode 1092 - 8 Types of Eggplant curries",
+                "url": "https://youtube.com/watch?v=L0J2nhjk3vk",
+                "duration": "22:42",
+                "thumbnail": "https://i.ytimg.com/vi/L0J2nhjk3vk/hq720.jpg"
+            },
+            {
+                "title": "✔වම්බටු උයනවාට වඩා මෙහෙම රසයි| tasty and simple eggplants with eggs|",
+                "url": "https://youtube.com/watch?v=t0mfWcCfjHg",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/t0mfWcCfjHg/hq720.jpg"
+            },
+            {
+                "title": "මේකනම් කන්නම ඕන වම්බටු ව්‍යංජනයක් Tasty Brinjal curry Eggplant wambatu Curry from Kusala Simple Life",
+                "url": "https://youtube.com/watch?v=c6kKlSwXk8Q",
+                "duration": "5:57",
+                "thumbnail": "https://i.ytimg.com/vi/c6kKlSwXk8Q/hq720.jpg"
+            },
+            {
+                "title": "✔ අපේ අම්මා හිදෙන්න රසට උයන වම්බටු වෑංජනය Wambatu curry | Delicious brinjal curry by Apé Amma",
+                "url": "https://youtube.com/watch?v=E_CnO8soJHs",
+                "duration": "6:22",
+                "thumbnail": "https://i.ytimg.com/vi/E_CnO8soJHs/hq720.jpg"
+            },
+            {
+                "title": "මේක නම් ඔයා කන්නම ඕනෙ!!🤤වම්බටු හදන රසම විදිහ | Wambatu pahi | Brinjal curry recipe in sinhala",
+                "url": "https://youtube.com/watch?v=gKraTxC_WFY",
+                "duration": "6:24",
+                "thumbnail": "https://i.ytimg.com/vi/gKraTxC_WFY/hq720.jpg"
+            },
+            {
+                "title": "කරවල කෑල්ලක් දාලා හදපු ලස්සන රස වම්බටු බැදුම | Delicious Dried Fish Mix Brinjal Fry",
+                "url": "https://youtube.com/watch?v=N2Kft4Dl9jU",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/N2Kft4Dl9jU/hq720.jpg"
+            },
+            {
+                "title": "ගෑවුනු තැන කන්න සුපිරි වම්බටු ග්‍රේවි | Spicy & Tasty Brinjal Gravy",
+                "url": "https://youtube.com/watch?v=QvjNdVKa4kY",
+                "duration": "5:27",
+                "thumbnail": "https://i.ytimg.com/vi/QvjNdVKa4kY/hq720.jpg"
+            },
+            {
+                "title": "ෆ්රයිඩ් රයිස් කහබත් කන්න වම්බටු  රසට හදන්න පුලුවන් ක්ෂණික ‍ක්‍රමයක්...😋#eggplantrecipesinhala",
+                "url": "https://youtube.com/watch?v=QtYp_q9yBEM",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/QtYp_q9yBEM/hq720.jpg"
+            },
+            {
+                "title": "අලුත්ම විදිහකට වම්බටු අල එකට උයලා බලන්නකො පුදුම රසක්💓 | wambatu recipe sinhala | eggplant recipe",
+                "url": "https://youtube.com/watch?v=Oxi74fF1Hk0",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/Oxi74fF1Hk0/hqdefault.jpg"
+            },
+            {
+                "title": "තෙල් අඩුවෙන් මෝජුවකටත් වඩා රසට වම්බටු තෙම්පරාදුවක්👌| Wambatu Themparaduwa | Brinjaal Moju Tempered",
+                "url": "https://youtube.com/watch?v=uqEha24TKuc",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/uqEha24TKuc/hq720.jpg"
+            },
+            {
+                "title": "බටු වගාවක සුල මුල  | batu wagawa | wambatu wagawa  |  Brinjal Cultivation",
+                "url": "https://youtube.com/watch?v=JWyAqIOxXPY",
+                "duration": "42:44",
+                "thumbnail": "https://i.ytimg.com/vi/JWyAqIOxXPY/hq720.jpg"
+            },
+            {
+                "title": "කන්න ආස හිතෙන විදිහට, හින්දලා හදපු \"වම්බටු ව්‍යංජනය\" | Brinjal Curry Sinhala | Wambatu Curry",
+                "url": "https://youtube.com/watch?v=hbPrp5D0REQ",
+                "duration": "4:33",
+                "thumbnail": "https://i.ytimg.com/vi/hbPrp5D0REQ/frame0.jpg"
+            },
+            {
+                "title": "වම්බටු වල ඇති ගුණය - Properties of eggplant",
+                "url": "https://youtube.com/watch?v=_7R9mOSaG6I",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/_7R9mOSaG6I/hq720.jpg"
+            },
+            {
+                "title": "වම්බටු කන අයට වෙන අමුතු දේවල් මෙන්න : Amazing health benefits of Eggplant",
+                "url": "https://youtube.com/watch?v=w_mbfqoYorY",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/w_mbfqoYorY/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් වම්බටු කනවද? | Brijal|  Podcast | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=nb8ixbPTrQo",
+                "duration": "13:48",
+                "thumbnail": "https://i.ytimg.com/vi/nb8ixbPTrQo/hq720.jpg"
+            },
+            {
+                "title": "බටු වල ගුණ / Value of Brinjal",
+                "url": "https://youtube.com/watch?v=mFgP6GHXsWQ",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/mFgP6GHXsWQ/hq720.jpg"
+            },
+            {
+                "title": "තලන බටු වැඩපුර කන අයට වෙන දේ මෙන්න : Benefits of Thai Eggplant",
+                "url": "https://youtube.com/watch?v=Z-JZPsbUw4E",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/Z-JZPsbUw4E/hq720.jpg"
+            },
+            {
+                "title": "වම්බටු වගාවේ රෝග හා පළිබෝධ  [ Brinjal Pest & Disease ]",
+                "url": "https://youtube.com/watch?v=QsIvRt9eitQ",
+                "duration": "19:46",
+                "thumbnail": "https://i.ytimg.com/vi/QsIvRt9eitQ/hq720.jpg"
+            },
+            {
+                "title": "Learn how to choose the best eggplant varieties.ලංකාවේ හොදම වම්බටු ප්‍රභේද මෙවා තමයි",
+                "url": "https://youtube.com/watch?v=LKeU2HCXTS4",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/LKeU2HCXTS4/hq720.jpg"
+            },
+            {
+                "title": "ඉක්මනින්ම #මැරෙන්න ආස නම් වම්බටු බැදලා කන්න - eggplant",
+                "url": "https://youtube.com/watch?v=BLAqzxWlKBY",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/BLAqzxWlKBY/hq720.jpg"
+            },
+            {
+                "title": "වම්බටු වල ඇති ගුණය - Properties of eggplant",
+                "url": "https://youtube.com/watch?v=5fQht8I78gs",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/5fQht8I78gs/frame0.jpg"
+            },
+            {
+                "title": "වම්බටු කාබනික ගෙවතුවගාව කොලපාට වම්බටු Eggplant organic garden, green eggplant වම්බටු බීජ  seeds",
+                "url": "https://youtube.com/watch?v=Dj2bSoUtMaQ",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/Dj2bSoUtMaQ/hq720.jpg"
+            },
+            {
+                "title": "Pest Attack to Brinjal plant | වම්බටු පැලයට පළිබෝධ හානියක්  |  Thenuka's Home Garden 04",
+                "url": "https://youtube.com/watch?v=xNzjUrRl35U",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/xNzjUrRl35U/hq720.jpg"
+            },
+            {
+                "title": "How to Control Bacterial Wilt of Brinjal Cultivation in Sri Lanka | වම්බටු හිටුමැරීම පාලනය කරන හැටි",
+                "url": "https://youtube.com/watch?v=e8MQLnAD3Hc",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/e8MQLnAD3Hc/hq720.jpg"
+            },
+            {
+                "title": "වම්බටු අතු මුල් අද්දවන්න හරිම පහසුයි|ගස් පිරෙන්න ගෙඩි|thuru tv",
+                "url": "https://youtube.com/watch?v=cfcqymF1V4w",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/cfcqymF1V4w/hq720.jpg"
+            },
+            {
+                "title": "සාර්ථක වම්බටු වගාවකට උපදෙස්. මුල සිට සරලව",
+                "url": "https://youtube.com/watch?v=40EFIlHArDQ",
+                "duration": "1:10",
+                "thumbnail": "https://i.ytimg.com/vi/40EFIlHArDQ/hq720.jpg"
+            },
+            {
+                "title": "වම්බටු වගාව ගැන දැනගමු ¬ Agri Life with Dilupa Akalanka - 0772337980",
+                "url": "https://youtube.com/watch?v=rTUTfRURwVU",
+                "duration": "9:09",
+                "thumbnail": "https://i.ytimg.com/vi/rTUTfRURwVU/hq720.jpg"
+            },
+            {
+                "title": "පිරිමි අයට අවශ්‍ය කායිකශක්තිය වර්ධනය කරන ගුණයක් සහිත වම්බටු ශාකය | Brinjal - Sobadam Piyasa",
+                "url": "https://youtube.com/watch?v=-KLatw74e1I",
+                "duration": "9:05",
+                "thumbnail": "https://i.ytimg.com/vi/-KLatw74e1I/hq720.jpg"
+            },
+            {
+                "title": "Eggplant cultivation cannot be carried out without agrochemicals|wambatu wagawa|Magadige Agriculture",
+                "url": "https://youtube.com/watch?v=D4jfP7GfhI0",
+                "duration": "14:40",
+                "thumbnail": "https://i.ytimg.com/vi/D4jfP7GfhI0/hq720.jpg"
+            },
+            {
+                "title": "වම්බටු වගාවේ පණු හානියට තිත | Yellow Bulb",
+                "url": "https://youtube.com/watch?v=LiqJglmx6c4",
+                "duration": "10:25",
+                "thumbnail": "https://i.ytimg.com/vi/LiqJglmx6c4/hq720.jpg"
+            },
+            {
+                "title": "අවුරුදු එක හමාරක් අස්වැන්න දෙන වම්බටු වගාව | Haritha Tv | Waga Perahuru | Wambatu wagawa | Eggplant",
+                "url": "https://youtube.com/watch?v=_gozyAGPFgo",
+                "duration": "8:00",
+                "thumbnail": "https://i.ytimg.com/vi/_gozyAGPFgo/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් වම්බටු කනවද? | Brijal|  Podcast | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=tU5QHrxsePQ",
+                "duration": "13:48",
+                "thumbnail": "https://i.ytimg.com/vi/tU5QHrxsePQ/frame0.jpg"
+            },
+            {
+                "title": "තිබ්බටු කෑවට එකේ ගුණ ගැන ඔබ දැනගෙන හිටියේ නැහැ නේද? මේක දිව්‍ය ඖෂධයක්",
+                "url": "https://youtube.com/watch?v=U0eg_h7T6i8",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/U0eg_h7T6i8/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ශාකයේ ඔසු ගුණ | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=29JyQOFg1WI",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/29JyQOFg1WI/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටුවල ඇති විශේෂිත ගුණ.  Turkey Berry.",
+                "url": "https://youtube.com/watch?v=KAsZe_2Z-F0",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/KAsZe_2Z-F0/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු වල තිත්ත ඇත්ත | Turkey Berry & Bitter Truth By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Yxcn99C76YM",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Yxcn99C76YM/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "තිබ්බටු කෑවොත් මෙන්න මේ රෝග වලට ගුණයි | Thibbutu | Solanum torvum",
+                "url": "https://youtube.com/watch?v=Vs1ZvRhKNlA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/Vs1ZvRhKNlA/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට ගුණ මේවා තම්බලා බිවොත්වෙනදේ  | සීනී පාලනය කිරීමට නියම දේශීය ඖෂධය",
+                "url": "https://youtube.com/watch?v=y1EXJntQjjU",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/y1EXJntQjjU/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ එළබටු වල විශ්මිත ගුණ - Amazing properties of Batu Vegetable",
+                "url": "https://youtube.com/watch?v=krcNHcPh3Zk",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/krcNHcPh3Zk/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල තිත්ත ඇත්ත | Heenbovitiya & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=lBsI67rHBnE",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/lBsI67rHBnE/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "තිබිබටු ගෙඩියක් කරපු දෙයක්😥ඇත්තටම මෙහෙමද තිබිබටු? තිබිබටු වල ගුණ අගුණ",
+                "url": "https://youtube.com/watch?v=j2F_imzpej4",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/j2F_imzpej4/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "පාවට්ටා /ආඩතෝඩා/අගල්ආධාර. Medicinal value of Pavatta",
+                "url": "https://youtube.com/watch?v=lcyrrINSThE",
+                "duration": "6:17",
+                "thumbnail": "https://i.ytimg.com/vi/lcyrrINSThE/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු වල විෂ සෝදලා හරින්න බොන්නම ඕන බීම වර්ග 6ක් | 6 drinks Cleanse Your Kidneys Naturally",
+                "url": "https://youtube.com/watch?v=jVdnQz2lrBc",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/jVdnQz2lrBc/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු පෝෂණ ගබඩාවක්ද? නැතිනම් මාරාන්තික අනතුරක්ද? 🌿",
+                "url": "https://youtube.com/watch?v=eWHlkehp63Q",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/eWHlkehp63Q/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා වල විශ්මිත ගුණ - Amazing properties of okra / Health Vedeo",
+                "url": "https://youtube.com/watch?v=6Ub6hS-RMbw",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/6Ub6hS-RMbw/hq720.jpg"
+            },
+            {
+                "title": "වට්ටක්කා වල ඇති කවුරුත් නොදන්නා විශ්මිත ගුණ - Amazing properties of pumpkin For a healthy life",
+                "url": "https://youtube.com/watch?v=vrvnJ7vDeCY",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/vrvnJ7vDeCY/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "වනජීවි අමාත්‍යාංශයට සුපිරි භාණ්ඩයක් බස්සයි",
+                "url": "https://youtube.com/watch?v=9beQmJUylDE",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/9beQmJUylDE/hq720.jpg"
+            },
+            {
+                "title": "PLANT HORMONES | A/L Biology [plant] short cuts-Episode 4-2|  Bio keti krama (හොමෝන වගුව )",
+                "url": "https://youtube.com/watch?v=apFXCVmwelc",
+                "duration": "24:10",
+                "thumbnail": "https://i.ytimg.com/vi/apFXCVmwelc/hq720.jpg"
+            },
+            {
+                "title": "මාංශ භක්ෂක ශාක/මස් කන ගස් පැළෑටි හා ගස්වැල්/carnivorous plants/singithi iskole",
+                "url": "https://youtube.com/watch?v=6-yE4YlxTZI",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/6-yE4YlxTZI/hqdefault.jpg"
+            },
+            {
+                "title": "අව්වේ සහ හෙවනේ වැවෙන බෝග නිවැරැදිව හදුනාගනිමු",
+                "url": "https://youtube.com/watch?v=jcmFdi5iJ0o",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/jcmFdi5iJ0o/hqdefault.jpg"
+            },
+            {
+                "title": "බටු 🍆කුණුවිම ආරම්බක 👉සලකුණු brinjal diseases  phomopsis Episode 4  #brinjal #fungicides",
+                "url": "https://youtube.com/watch?v=FKtSgDCV64c",
+                "duration": "5:58",
+                "thumbnail": "https://i.ytimg.com/vi/FKtSgDCV64c/hq720.jpg"
+            },
+            {
+                "title": "විටමින් ඛනිජ ලවණ ගබඩාව පලතුරු Vitamin Mineral salt store fruits",
+                "url": "https://youtube.com/watch?v=sCQV8iWPZYs",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/sCQV8iWPZYs/hqdefault.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "වම්බටු වගාව සඳහා අවශ්‍ය කෘෂි උපදෙස් - Brinjal Cultivation | ගෙවතු වගාව",
+                "url": "https://youtube.com/watch?v=UWEvgQ04Iyk",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/UWEvgQ04Iyk/hqdefault.jpg"
+            },
+            {
+                "title": "Baobab Fruit Health Benefits: 10x More Vitamin C Than Oranges & More Calcium Than Milk",
+                "url": "https://youtube.com/watch?v=l45u-CHsE90",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/l45u-CHsE90/hq720.jpg"
+            },
+            {
+                "title": "FIVE HEALTH BENEFITS OF BAOBAB",
+                "url": "https://youtube.com/watch?v=aVPeWOodSlw",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/aVPeWOodSlw/hq720.jpg"
+            },
+            {
+                "title": "Health Tips || Benefits of Baobab fruit & Powder",
+                "url": "https://youtube.com/watch?v=t8aR1xxebhI",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/t8aR1xxebhI/hq720.jpg"
+            },
+            {
+                "title": "10 HEALTH BENEFITS OF WILD EGGPLANT (Turkey Berry)",
+                "url": "https://youtube.com/watch?v=1E7W24wNt2k",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/1E7W24wNt2k/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Alugbati (A Versatile and Nutritious Vegetable)",
+                "url": "https://youtube.com/watch?v=Eueb3lcEh9A",
+                "duration": "22:46",
+                "thumbnail": "https://i.ytimg.com/vi/Eueb3lcEh9A/hq720.jpg"
+            },
+            {
+                "title": "Ashitaba Plant: Health Benefits (Tomorrow Leaf)",
+                "url": "https://youtube.com/watch?v=pxJLhqXJS3Q",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/pxJLhqXJS3Q/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Taro Root | Boost Immunity and get Glowing Skin",
+                "url": "https://youtube.com/watch?v=wW-XcI9kLr4",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/wW-XcI9kLr4/hq720.jpg"
+            },
+            {
+                "title": "The Health Benefits of Baobab Fruit Part 1: Moderating the Glycaemic Response",
+                "url": "https://youtube.com/watch?v=ZUNz5KKGXkc",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/ZUNz5KKGXkc/hq720.jpg"
+            },
+            {
+                "title": "Eggplant nutrition facts | Eggplant Health Benefits",
+                "url": "https://youtube.com/watch?v=_gZYpSqQ83w",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/_gZYpSqQ83w/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Bitter Leaf Health Benefits ( & SIDE EFFECTS)",
+                "url": "https://youtube.com/watch?v=qtQZNnaVCDQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/qtQZNnaVCDQ/hq720.jpg"
+            },
+            {
+                "title": "Plantain Uses and Benefits",
+                "url": "https://youtube.com/watch?v=-97NXHyxRjA",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/-97NXHyxRjA/hq720.jpg"
+            },
+            {
+                "title": "වද මල් යුෂ මගින් ලැබෙන සෞඛ්‍ය ප්‍රතිලාභ 9ක් - 9 Health Benefits of Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=xRInp9A-z18",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/xRInp9A-z18/hq720.jpg"
+            },
+            {
+                "title": "Bitter Leaf: Benefits for Health",
+                "url": "https://youtube.com/watch?v=gMUH7ap8cdE",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/gMUH7ap8cdE/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Wormwood",
+                "url": "https://youtube.com/watch?v=F3ZaPJN6Ml0",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/F3ZaPJN6Ml0/hq720.jpg"
+            },
+            {
+                "title": "වම්බටු සම්බෝලේ / Brinjal Recipe",
+                "url": "https://youtube.com/watch?v=GRhNUITrQoc",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/GRhNUITrQoc/hq720.jpg"
+            },
+            {
+                "title": "අවුරුදු කෑම මේසෙට බැදල උයන වම්බටු පැහි /wambatu pehi recipe in sinhala /",
+                "url": "https://youtube.com/watch?v=YfLtc4eDOLk",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/YfLtc4eDOLk/hqdefault.jpg"
+            },
+            {
+                "title": "වම්බටු වගාව රෝග brinjal plant diseases ගෙවතු වගාව wambatu wagawa roga gewathu wagawa sinhala",
+                "url": "https://youtube.com/watch?v=5p8cQge3jIc",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/5p8cQge3jIc/hq720.jpg"
+            },
+            {
+                "title": "how to pollinate eggplant වම්බටු මල් පිපුනට කරල් හැදෙන්නෙ නැද්ද gewathu wagawa",
+                "url": "https://youtube.com/watch?v=6E9d5v2uJfo",
+                "duration": "7:45",
+                "thumbnail": "https://i.ytimg.com/vi/6E9d5v2uJfo/hq720.jpg"
+            },
+            {
+                "title": "වම්බටු බැදුම | wambatu baduma aththammai mamai | brinjal recipe Grandma & me",
+                "url": "https://youtube.com/watch?v=cc6t7Cc1tn8",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/cc6t7Cc1tn8/hq720.jpg"
+            },
+            {
+                "title": "Wambatu wagawa |සති දෙකෙන් වම්බටු පලදාව ගන්න රහස| How to grow brinjal gewathu wagawa ගෙවතු වගාව",
+                "url": "https://youtube.com/watch?v=6yBu--FJFys",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/6yBu--FJFys/hq720.jpg"
+            },
+            {
+                "title": "වම්බටු කන අයට වෙන අමුතු දේවල් මෙන්න : Amazing health benefits of Eggplant",
+                "url": "https://youtube.com/watch?v=YQFzFAjhojk",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/YQFzFAjhojk/frame0.jpg"
+            },
+            {
+                "title": "වදමල් පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක් | Health Benefits Of Hibiscus Tea | Wadamal Bima",
+                "url": "https://youtube.com/watch?v=fxdjqg4xd4k",
+                "duration": "11:16",
+                "thumbnail": "https://i.ytimg.com/vi/fxdjqg4xd4k/hq720.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "සෙවණට ප්‍රියකරන කලාත්මක ශාක වර්ග | Plants that can grow without sunlight within 2 weeks",
+                "url": "https://youtube.com/watch?v=ojm4U7vPAGs",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/ojm4U7vPAGs/hq720.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

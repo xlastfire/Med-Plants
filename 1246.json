@@ -1,67 +1,432 @@
 {
-  "scientificName": "Smilax china L.",
-  "synonyms": [],
-  "familyName": "SMILACACEAE",
-  "englishNames": [
-    "China Root"
-  ],
-  "sinhalaName": "Cheena ala (චීන අල)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Smilax china L.",
+    "synonyms": [],
+    "familyName": "SMILACACEAE",
+    "englishNames": [
+        "China Root"
+    ],
+    "sinhalaName": "Cheena ala (චීන අල)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemiplegia",
+            "sinhala": "අංශභාගය (එකාංගඝාත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Herpes",
+            "sinhala": "හර්පීස් (විසර්ප දද වර්ගයක්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Tubers"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "රාබු වගේ නේද දැක්කේ? හැබැයි ටිකක් වෙනස් | අල බේත්, චීන අල, සීන අල, මුල් බේත් | Ala Beth, Cheena Ala",
+                "url": "https://youtube.com/watch?v=lmszjXiTNQk",
+                "duration": "7:06",
+                "thumbnail": "https://i.ytimg.com/vi/lmszjXiTNQk/hq720.jpg"
+            },
+            {
+                "title": "චීන ක්‍රමයට රසම රස අල බැදුමක් - ප්‍රවීණ සුපවේදිනී අනෝමා විජේතුංග මහත්මිය සමග",
+                "url": "https://youtube.com/watch?v=SrkSm5w5ngo",
+                "duration": "15:19",
+                "thumbnail": "https://i.ytimg.com/vi/SrkSm5w5ngo/hq720.jpg"
+            },
+            {
+                "title": "HOW TO MAKE A POTATO SALAD.         #live  චීන ක්‍රමයට අර්තාපල් වලින් සලාදයක් හදමු ..Traditional Me",
+                "url": "https://youtube.com/watch?v=wJn03xQ9vEU",
+                "duration": "23:49",
+                "thumbnail": "https://i.ytimg.com/vi/wJn03xQ9vEU/hqdefault.jpg"
+            },
+            {
+                "title": "අල හදන අලුත්ම ක්‍රමය මෙන්න සුපිරිම රහස",
+                "url": "https://youtube.com/watch?v=9FGAxRhGZ4Y",
+                "duration": "11:17",
+                "thumbnail": "https://i.ytimg.com/vi/9FGAxRhGZ4Y/hq720.jpg"
+            },
+            {
+                "title": "ලක්ෂ 80කට වැඩි චීන දුම්වැටි තොගයක් සමග තිදෙනෙකු ගුවන්තොටේදී අත්අඩංගුවට| Ada Derana",
+                "url": "https://youtube.com/watch?v=j1q5V5yyl4w",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/j1q5V5yyl4w/hq720.jpg"
+            },
+            {
+                "title": "රසවත් හා පෝෂ්‍යදායී චීන කෑම වර්ග දෙකක් සෑදීමේ ක්‍රම",
+                "url": "https://youtube.com/watch?v=ufAae7Q8NIA",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/ufAae7Q8NIA/hq720.jpg"
+            },
+            {
+                "title": "නෙළුම් ඇට වල තියන ගුනාත්මක බව චීන ජාතිකයෙක්ගෙන් ඉගෙන ගමු | Nelum | Sheng Li",
+                "url": "https://youtube.com/watch?v=5hQPaGOiHFU",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/5hQPaGOiHFU/hq720.jpg"
+            },
+            {
+                "title": "සීනි අල ශාකයේ සැගවුණු විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=MBtQY9yunC4",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/MBtQY9yunC4/hqdefault.jpg"
+            },
+            {
+                "title": "ලාංකිකයන් ප්‍රියකරන චීන ආහාර පාන අස්සේ සැඟවුණු රහස්...  උකුස්සා සියල්ල හෙළිකරයි..",
+                "url": "https://youtube.com/watch?v=SF8S908c-3M",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/SF8S908c-3M/hq720.jpg"
+            },
+            {
+                "title": "සල්ලි උතුරන ලෝක ප්‍රසිද්ධ චීන රහස් 10ක් | Salli Labena Jothisha Rahas",
+                "url": "https://youtube.com/watch?v=7WJpDovHNfk",
+                "duration": "4:52",
+                "thumbnail": "https://i.ytimg.com/vi/7WJpDovHNfk/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනයට, අධි රුධිර පීඩනයට ගුණ දෙන ඉනිසියුලින් පැල | චීන නිවිති | Longevity spinach Epi.285",
+                "url": "https://youtube.com/watch?v=T3P6LjLm98Y",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/T3P6LjLm98Y/hq720.jpg"
+            },
+            {
+                "title": "Chinese Bamboo Tree Motivation Video | චීන උණ ගහේ කතාව | Sinhala Podcast",
+                "url": "https://youtube.com/watch?v=bMsRcIPlwHA",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/bMsRcIPlwHA/hq720.jpg"
+            },
+            {
+                "title": "හුලංකීරිය ගුණ. Hulankeeriya.",
+                "url": "https://youtube.com/watch?v=HncGlXMnwNA",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/HncGlXMnwNA/hq720.jpg"
+            },
+            {
+                "title": "චීනය විශාල කාන්තාරයක් වනාන්තරයක් බවට පත්කරේ කොහොමද? | The Great Green Wall of China",
+                "url": "https://youtube.com/watch?v=xncflDVKASc",
+                "duration": "8:11",
+                "thumbnail": "https://i.ytimg.com/vi/xncflDVKASc/hq720.jpg"
+            },
+            {
+                "title": "කිඩාරම් ශාකය පිළිබඳ විශේෂ කරුණු ටිකක් | kidaram | Amorphophallus paeoniifoliu🌿",
+                "url": "https://youtube.com/watch?v=CB-xr1rjPi0",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/CB-xr1rjPi0/hqdefault.jpg"
+            },
+            {
+                "title": "චීනය ලෝක බලවතා වෙන්නේ කොහොමද?  China vs USA – අනාගත ලෝක බලය කාටද?  AI, Economy, Military",
+                "url": "https://youtube.com/watch?v=fypQbGJAW4M",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/fypQbGJAW4M/hq720.jpg"
+            },
+            {
+                "title": "The Secret Story Of China Bamboo tree| Sinhala Motivational Video| Madhushan Athugal",
+                "url": "https://youtube.com/watch?v=4kzZ4Vf_-Dw",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/4kzZ4Vf_-Dw/hq720.jpg"
+            },
+            {
+                "title": "චීන්නුන්ගෙ ඇස් හීනි උනේ ඇයි? WHY CHINESE HAVE SMALL EYES - Sinhala Sri Lanka Knowledge",
+                "url": "https://youtube.com/watch?v=dPeEY7rGyAc",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/dPeEY7rGyAc/hq720.jpg"
+            },
+            {
+                "title": "The Miraculous Chinese Indigenous Medical System | Rupavahini News",
+                "url": "https://youtube.com/watch?v=LALrOVjIWmw",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/LALrOVjIWmw/hq720.jpg"
+            },
+            {
+                "title": "චීන්නු ගැන මේ දේවල් දැනගෙන හිටියාද ? | Amazing Facts About China | Awata",
+                "url": "https://youtube.com/watch?v=vtaYSg-PpcY",
+                "duration": "7:39",
+                "thumbnail": "https://i.ytimg.com/vi/vtaYSg-PpcY/hqdefault.jpg"
+            },
+            {
+                "title": "ලෝක බලවතා වෙන්න හදන චීනයේ යුධ ශක්තිය ගැන දන්නවද | China Military Strength In 2023",
+                "url": "https://youtube.com/watch?v=3_3PWx1q14M",
+                "duration": "2:44",
+                "thumbnail": "https://i.ytimg.com/vi/3_3PWx1q14M/hqdefault.jpg"
+            },
+            {
+                "title": "චීනය ගැන ඔබ අනිවාර්යයෙන්ම දැනගත යුතු කරුණු 15ක්|තරඟ විභාග|GK Challenge#china#චීනය#gk#දැනුම#knowledge",
+                "url": "https://youtube.com/watch?v=zCacYg3JFQc",
+                "duration": "16:03",
+                "thumbnail": "https://i.ytimg.com/vi/zCacYg3JFQc/hq720.jpg"
+            },
+            {
+                "title": "වයස නොපෙනෙන චීන රහස්! - Mr and Mrs D",
+                "url": "https://youtube.com/watch?v=0wmBkisVzUc",
+                "duration": "11:01",
+                "thumbnail": "https://i.ytimg.com/vi/0wmBkisVzUc/hq720.jpg"
+            },
+            {
+                "title": "This Is Why China Grows Garlic Faster Than the USA 🧄🔥, Exposed. #yt #comparison",
+                "url": "https://youtube.com/watch?v=tgsKi3Hl_zI",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/tgsKi3Hl_zI/hq720.jpg"
+            },
+            {
+                "title": "චීන අධිරාජ්‍යයා තේ පානය ලොවට හඳුන්වාදුන් දිනය අදයි | Ada Derana",
+                "url": "https://youtube.com/watch?v=pgoSExuFk-k",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/pgoSExuFk-k/hq720.jpg"
+            },
+            {
+                "title": "අමුද්‍රව්‍ය 3න් චීන අච්චාරු හෙවත් සුදුලූනු කොළපාට කරන මැජික් එක - Oishilanka",
+                "url": "https://youtube.com/watch?v=rQ_HFXrUetc",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/rQ_HFXrUetc/hq720.jpg"
+            },
+            {
+                "title": "15 Chinese Superfoods That Keep You Young",
+                "url": "https://youtube.com/watch?v=vHtJBkdfDaI",
+                "duration": "30:25",
+                "thumbnail": "https://i.ytimg.com/vi/vHtJBkdfDaI/hq720.jpg"
+            },
+            {
+                "title": "චීනය වෙනස් කරන චීනයේ සැලැස්ම | haritha Tv | Puwath Serisara",
+                "url": "https://youtube.com/watch?v=e4TKV8e2_Xg",
+                "duration": "11:32",
+                "thumbnail": "https://i.ytimg.com/vi/e4TKV8e2_Xg/hq720.jpg"
+            },
+            {
+                "title": "චීන උණ බය වෙන්න ඕන උණක්ද? | Rupavahini News",
+                "url": "https://youtube.com/watch?v=zRV-wRA_ycA",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/zRV-wRA_ycA/hq720.jpg"
+            },
+            {
+                "title": "6 Chinese Secret Foods to Reclaim Youth",
+                "url": "https://youtube.com/watch?v=bjyV_UEYZ-Y",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/bjyV_UEYZ-Y/hq720.jpg"
+            },
+            {
+                "title": "චීනය ලෝක බලවතා වෙන්න ගහපු ගේම | Ma O Sethun China |",
+                "url": "https://youtube.com/watch?v=ddi3eBuMjG8",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/ddi3eBuMjG8/hq720.jpg"
+            },
+            {
+                "title": "චීනය ගැන දැන ගනිමු | China Facts Sinhala",
+                "url": "https://youtube.com/watch?v=A3EguiyzBCY",
+                "duration": "9:18",
+                "thumbnail": "https://i.ytimg.com/vi/A3EguiyzBCY/hq720.jpg"
+            },
+            {
+                "title": "China power of 2025 | ආසියාවේ යෝධයා,  චීනයේ වත්මන් බලය මෙන්න 🇨🇳",
+                "url": "https://youtube.com/watch?v=qJRC6ujIIVM",
+                "duration": "9:52",
+                "thumbnail": "https://i.ytimg.com/vi/qJRC6ujIIVM/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "චීන භාෂාවේ jǐ (几) සහ yǒu (有) පද භාවිතය | Use of the Chinese words jǐ (几) ​​and yǒu (有)",
+                "url": "https://youtube.com/watch?v=WJvaE3xnai8",
+                "duration": "10:58",
+                "thumbnail": "https://i.ytimg.com/vi/WJvaE3xnai8/hq720.jpg"
+            },
+            {
+                "title": "චීනයේ AI කෘෂිකර්ම විප්ලවය – chinaye ai power china waga project | China AI Farming Revolutioni #ai",
+                "url": "https://youtube.com/watch?v=mA60F4Y7OM8",
+                "duration": "7:09",
+                "thumbnail": "https://i.ytimg.com/vi/mA60F4Y7OM8/hq720.jpg"
+            },
+            {
+                "title": "චීනය ගැන විස්තර සියල්ල | All about China",
+                "url": "https://youtube.com/watch?v=2RPSehrcMfE",
+                "duration": "12:10",
+                "thumbnail": "https://i.ytimg.com/vi/2RPSehrcMfE/hq720.jpg"
+            },
+            {
+                "title": "චීන - අමෙරිකා නිල සාකච්ඡා ඇරඹෙයි - Hiru News",
+                "url": "https://youtube.com/watch?v=W6Yxsh_u6bc",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/W6Yxsh_u6bc/hq720.jpg"
+            },
+            {
+                "title": "චීනයේ රැකියා, ශිෂ්‍යත්ව සහ ව්‍යාපාර අවස්ථා . China Work Visa, scholarship - PODCAST 17",
+                "url": "https://youtube.com/watch?v=_ppd-r3C7sE",
+                "duration": "1:10:31",
+                "thumbnail": "https://i.ytimg.com/vi/_ppd-r3C7sE/hq720.jpg"
+            },
+            {
+                "title": "චීනය ගැන, ඔයා ඇහුවොත් පුදුම හිතෙන දේවල් 10ක්",
+                "url": "https://youtube.com/watch?v=Z7NLn7FL0O4",
+                "duration": "7:00",
+                "thumbnail": "https://i.ytimg.com/vi/Z7NLn7FL0O4/hq720.jpg"
+            },
+            {
+                "title": "චීනයේ ශිෂ්‍යත්ව ගැන හරියටම දැනගන්න",
+                "url": "https://youtube.com/watch?v=CYCsqHi_lXQ",
+                "duration": "5:47",
+                "thumbnail": "https://i.ytimg.com/vi/CYCsqHi_lXQ/hq720.jpg"
+            },
+            {
+                "title": "How to Express the Amount of Chinese Currency in sinhala|චීන භාෂාවෙන් මුදල් භාවිතා කරන ආකාරය ඉගෙනගමු",
+                "url": "https://youtube.com/watch?v=0Gy1xmjJn7w",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/0Gy1xmjJn7w/hqdefault.jpg"
+            },
+            {
+                "title": "චීනයේ සිට තොග මිලට භාන්ඩ ආනයනය lesson 01",
+                "url": "https://youtube.com/watch?v=2iibiWCzAnI",
+                "duration": "15:29",
+                "thumbnail": "https://i.ytimg.com/vi/2iibiWCzAnI/hqdefault.jpg"
+            },
+            {
+                "title": "The plant that cures everything❗️ Liver, vision, kidneys, intestines, heart, bones.",
+                "url": "https://youtube.com/watch?v=qi-i00Jo9gY",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/qi-i00Jo9gY/hq720.jpg"
+            },
+            {
+                "title": "Want to HEAL Your Body Naturally? Try These 15 Ancient Chinese Fruits",
+                "url": "https://youtube.com/watch?v=g9N4nEwRPGY",
+                "duration": "7:43",
+                "thumbnail": "https://i.ytimg.com/vi/g9N4nEwRPGY/hq720.jpg"
+            },
+            {
+                "title": "10 Essential Chinese Herbs in my Pantry (Part 1) | A Chinese Medicine Practitioner's Guide",
+                "url": "https://youtube.com/watch?v=dwq8mDChByo",
+                "duration": "11:15",
+                "thumbnail": "https://i.ytimg.com/vi/dwq8mDChByo/hq720.jpg"
+            },
+            {
+                "title": "චීන තේ පානය කිරීමෙන් ලැබෙන ප්‍රයෝජන ම...",
+                "url": "https://youtube.com/watch?v=C1_TNRyIVmk",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/C1_TNRyIVmk/hq720.jpg"
+            },
+            {
+                "title": "20 Ancient Chinese Healing Plants You Should Know",
+                "url": "https://youtube.com/watch?v=EGEIObDexPk",
+                "duration": "29:01",
+                "thumbnail": "https://i.ytimg.com/vi/EGEIObDexPk/hq720.jpg"
+            },
+            {
+                "title": "රාබු වගේ නේද දැක්කේ? හැබැයි ටිකක් වෙනස් | අල බේත්, චීන අල, සීන අල, මුල් බේත් | Ala Beth, Cheena Ala",
+                "url": "https://youtube.com/watch?v=otObwkCyc1w",
+                "duration": "7:06",
+                "thumbnail": "https://i.ytimg.com/vi/otObwkCyc1w/frame0.jpg"
+            },
+            {
+                "title": "🟣ලා රෝසපාට මේ අල වලින් හදන අමෘතය ඔබත් බිවුවද? ලෙඩ සුන්! රත්තරං බදු වූ හීන් අරත්ත ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=h8ruYsrZcOU",
+                "duration": "8:08",
+                "thumbnail": "https://i.ytimg.com/vi/h8ruYsrZcOU/hq720.jpg"
+            },
+            {
+                "title": "හැමෝම දැනගන්න ඕන දෙයක් අද වීඩියෝ එක වටිනවද බලන්න Purple Yam benefits දන්දිල අල දේශීය අල වර්ග/Kusala✔",
+                "url": "https://youtube.com/watch?v=fqCd_xLOmrk",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/fqCd_xLOmrk/hq720.jpg"
+            },
+            {
+                "title": "ගැස්ට්‍රයිටීස් වලට සහනය දෙන, දියවැඩියාවට ගුණ දෙන අල කමුද? | Arrowroot | Ceylon Agri | Episode 201",
+                "url": "https://youtube.com/watch?v=0arbWCk8S-4",
+                "duration": "8:44",
+                "thumbnail": "https://i.ytimg.com/vi/0arbWCk8S-4/hq720.jpg"
+            },
+            {
+                "title": "චීනය තුල නිෂ්පාදනය කරන මෙම ආහාර කවදාවත් කන්න එපා - 7 Foods Made in China You Must Avoid",
+                "url": "https://youtube.com/watch?v=u9LpKgAWklM",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/u9LpKgAWklM/hq720.jpg"
+            },
+            {
+                "title": "චීන හමුදා ජනරාල්වරිය ඉලෝන් මස්ක් ගැන ඔත්තු බලලා",
+                "url": "https://youtube.com/watch?v=od8ycZWYXCU",
+                "duration": "0:54",
+                "thumbnail": "https://i.ytimg.com/vi/od8ycZWYXCU/hq720.jpg"
+            },
+            {
+                "title": "සිංහලෙන් රටකජු හදන්න කියලා දෙන චීන යුවතිය | Rasika Lu China",
+                "url": "https://youtube.com/watch?v=0xX9zAQi78g",
+                "duration": "15:22",
+                "thumbnail": "https://i.ytimg.com/vi/0xX9zAQi78g/hqdefault.jpg"
+            },
+            {
+                "title": "කසාද බදින්න හොඳ චීන පිරිමියෙක් තෝරාගන්නේ කොහොමද | how to select a good Chinese guy to marry",
+                "url": "https://youtube.com/watch?v=lWvKcrmOlxU",
+                "duration": "1:04:42",
+                "thumbnail": "https://i.ytimg.com/vi/lWvKcrmOlxU/hq720.jpg"
+            },
+            {
+                "title": "අගමැතිනියගේ චීන නිල සංචාරයේ රසමුසු තැන් - චීනයේ තහනම් නගරයත් චීන මහා ප්‍රාකාරයත් නරඹයි",
+                "url": "https://youtube.com/watch?v=14ahhzrPqhA",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/14ahhzrPqhA/hq720.jpg"
+            },
+            {
+                "title": "චීනෙට පුළුවන් ඇයි ඉන්දියාවට බැරි? (Explained)",
+                "url": "https://youtube.com/watch?v=Bw6r0LhvjbE",
+                "duration": "20:56",
+                "thumbnail": "https://i.ytimg.com/vi/Bw6r0LhvjbE/hq720.jpg"
+            },
+            {
+                "title": "චීනය සහ රුසියාව ලෝකයම රැවටූ රහස් මිලිටරි ගිවිසුම එළියට",
+                "url": "https://youtube.com/watch?v=e8OJMt2Yio0",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/e8OJMt2Yio0/hq720.jpg"
+            },
+            {
+                "title": "Names of vegetables in Chinese - Learn Chinese in Sinhala",
+                "url": "https://youtube.com/watch?v=e4AloovzR2Y",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/e4AloovzR2Y/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Hemiplegia",
-      "sinhala": "අංශභාගය (එකාංගඝාත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Herpes",
-      "sinhala": "හර්පීස් (විසර්ප දද වර්ගයක්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Tubers"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

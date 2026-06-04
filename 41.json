@@ -1,121 +1,276 @@
 {
-  "scientificName": "Alternanthera sessilis (L.) R.Br. ex DC.",
-  "synonyms": [
-    "Achyranthes linearifolia Sw. ex Wikstr.",
-    "Achyranthes polygonoides (L.) Lam.",
-    "Achyranthes repens Elliott",
-    "Achyranthes sessilis (L.) Besser",
-    "Achyranthes triandra Roxb.",
-    "Achyranthes villosa Blanco",
-    "Allaganthera forsskaolei Mart.",
-    "Alternanthera achyranth Forssk.",
-    "Alternanthera achyranthoides Hiern",
-    "Alternanthera denticulata var. bifaria Hassk.",
-    "Alternanthera dubia Moq.",
-    "Alternanthera ficoides P.Beauv.",
-    "Alternanthera ficoides var. minor P.Beauv.",
-    "Alternanthera ficoides var. versicolor Lem.",
-    "Alternanthera glabra Moq.",
-    "Alternanthera major (Benth.) Domin",
-    "Alternanthera micrantha (Benth.) Domin",
-    "Alternanthera nana R.Br.",
-    "Alternanthera nana var. major Benth.",
-    "Alternanthera polygonoides (L.) R.Br. ex Sweet",
-    "Alternanthera prostrata D.Don",
-    "Alternanthera repens J.F.Gmel.",
-    "Alternanthera sessilis f. lanceolata Kuntze",
-    "Alternanthera sessilis f. lanceolata Kuntze",
-    "Alternanthera sessilis f. spathulifolia Kuntze",
-    "Alternanthera sessilis var. angustifolia Moq.",
-    "Alternanthera sessilis var. major Moq.",
-    "Alternanthera sessilis var. neglecta Kuntze",
-    "Alternanthera sessilis var. parviflora Kuntze",
-    "Alternanthera sessilis var. stauntonii Moq.",
-    "Alternanthera sessilis var. tenuissima (Suess.) Backer",
-    "Alternanthera sibirica (Vent. ex Schult.) Steud.",
-    "Alternanthera sissoo Velde",
-    "Alternanthera tenella Moq.",
-    "Alternanthera tenuissima Suess.",
-    "Alternanthera triandra Lam.",
-    "Alternanthera uliginosa (Domin) Dinter",
-    "Bucholzia diffusa Mart.",
-    "Bucholzia polygonoides (L.) Mart.",
-    "Gomphrena brasiliensis Moq.",
-    "Gomphrena polygonoides L.",
-    "Gomphrena sessilis L.",
-    "Illecebrum denticulatum Spreng.",
-    "Illecebrum glabrum Spreng. ex Moq.",
-    "Illecebrum indicum Houtt.",
-    "Illecebrum nanum (R.Br.) Spreng.",
-    "Illecebrum polygonoides (L.) L.",
-    "Illecebrum sessile (L.) L.",
-    "Illecebrum sessile Pall. ex Moq.",
-    "Illecebrum sibiricum Vent. ex Schult.",
-    "Illecebrum triandrum Buch.-Ham. ex Moq.",
-    "Illecebrum triandrum Llanos",
-    "Paronychia dubia Moq.",
-    "Paronychia sessilis (L.) Desf.",
-    "Paronychia tetragona Moench",
-    "Steiremis sessilifolia Raf.",
-    "Telanthera polygonoides (L.) Moq.",
-    "Telanthera polygonoides var. compacta Moq.",
-    "Telanthera polygonoides var. major Moq."
-  ],
-  "familyName": "AMARANTHACEAE",
-  "englishNames": [
-    "Sessile Joyweed",
-    "Stalkless Joyweed",
-    "Dwarf Copperleaf",
-    "Joyweed"
-  ],
-  "sinhalaName": "Mukunuwenna (මුකුනුවැන්න)",
-  "description": "වාර්ෂික හෝ සාමාන්‍යයෙන් බහුවාර්ෂික පැළෑටි, තෙත් ස්ථානවල සෙන්ටිමීටර 30ක් පමණ උසට වැඩේ. කඳ සෙන්ටිමීටර 0.1-1ක් පමණ දිග වන අතර ගැට (nodes) වලින් මුල් හටගනී. කඳ සහ අතු කොළ පැහැති හෝ දම් පැහැයට හුරුය. කඳේ දෙපස සුදු පැහැති රෝම පේළියක් සහ අතු හා පත්‍ර අක්ෂවල (axils) සුදු පැහැති රෝම පොකුරක් දක්නට ලැබේ. පත්‍ර විවිධ හැඩගනී, සෙන්ටිමීටර 1-9 (-15) x 0.2-2 (-3) ප්‍රමාණයෙන් යුක්තය. පුෂ්ප මංජරිය වෘන්ත රහිත (sessile) වන අතර 5ක් දක්වා වූ පොකුරු ලෙස පවතී. පෙති සියල්ලම එකම හැඩයකින් යුක්තය; ප්‍රධාන මධ්‍ය නාරටිය (midrib) පමණක් කැපී පෙනෙන තනි නාරටියකින් සමන්විත වේ. පලය මිලිමීටර 2-2.5ක් දිගය. බීජ තැටියක හැඩැති (discoid), මිලිමීටර 0.75-1ක් පමණ වන අතර දුඹුරු පැහැයෙන් සහ දිලිසෙන ස්වභාවයකින් යුක්තය.",
-  "treatments": [
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Alternanthera sessilis (L.) R.Br. ex DC.",
+    "synonyms": [
+        "Achyranthes linearifolia Sw. ex Wikstr.",
+        "Achyranthes polygonoides (L.) Lam.",
+        "Achyranthes repens Elliott",
+        "Achyranthes sessilis (L.) Besser",
+        "Achyranthes triandra Roxb.",
+        "Achyranthes villosa Blanco",
+        "Allaganthera forsskaolei Mart.",
+        "Alternanthera achyranth Forssk.",
+        "Alternanthera achyranthoides Hiern",
+        "Alternanthera denticulata var. bifaria Hassk.",
+        "Alternanthera dubia Moq.",
+        "Alternanthera ficoides P.Beauv.",
+        "Alternanthera ficoides var. minor P.Beauv.",
+        "Alternanthera ficoides var. versicolor Lem.",
+        "Alternanthera glabra Moq.",
+        "Alternanthera major (Benth.) Domin",
+        "Alternanthera micrantha (Benth.) Domin",
+        "Alternanthera nana R.Br.",
+        "Alternanthera nana var. major Benth.",
+        "Alternanthera polygonoides (L.) R.Br. ex Sweet",
+        "Alternanthera prostrata D.Don",
+        "Alternanthera repens J.F.Gmel.",
+        "Alternanthera sessilis f. lanceolata Kuntze",
+        "Alternanthera sessilis f. lanceolata Kuntze",
+        "Alternanthera sessilis f. spathulifolia Kuntze",
+        "Alternanthera sessilis var. angustifolia Moq.",
+        "Alternanthera sessilis var. major Moq.",
+        "Alternanthera sessilis var. neglecta Kuntze",
+        "Alternanthera sessilis var. parviflora Kuntze",
+        "Alternanthera sessilis var. stauntonii Moq.",
+        "Alternanthera sessilis var. tenuissima (Suess.) Backer",
+        "Alternanthera sibirica (Vent. ex Schult.) Steud.",
+        "Alternanthera sissoo Velde",
+        "Alternanthera tenella Moq.",
+        "Alternanthera tenuissima Suess.",
+        "Alternanthera triandra Lam.",
+        "Alternanthera uliginosa (Domin) Dinter",
+        "Bucholzia diffusa Mart.",
+        "Bucholzia polygonoides (L.) Mart.",
+        "Gomphrena brasiliensis Moq.",
+        "Gomphrena polygonoides L.",
+        "Gomphrena sessilis L.",
+        "Illecebrum denticulatum Spreng.",
+        "Illecebrum glabrum Spreng. ex Moq.",
+        "Illecebrum indicum Houtt.",
+        "Illecebrum nanum (R.Br.) Spreng.",
+        "Illecebrum polygonoides (L.) L.",
+        "Illecebrum sessile (L.) L.",
+        "Illecebrum sessile Pall. ex Moq.",
+        "Illecebrum sibiricum Vent. ex Schult.",
+        "Illecebrum triandrum Buch.-Ham. ex Moq.",
+        "Illecebrum triandrum Llanos",
+        "Paronychia dubia Moq.",
+        "Paronychia sessilis (L.) Desf.",
+        "Paronychia tetragona Moench",
+        "Steiremis sessilifolia Raf.",
+        "Telanthera polygonoides (L.) Moq.",
+        "Telanthera polygonoides var. compacta Moq.",
+        "Telanthera polygonoides var. major Moq."
+    ],
+    "familyName": "AMARANTHACEAE",
+    "englishNames": [
+        "Sessile Joyweed",
+        "Stalkless Joyweed",
+        "Dwarf Copperleaf",
+        "Joyweed"
+    ],
+    "sinhalaName": "Mukunuwenna (මුකුනුවැන්න)",
+    "description": "වාර්ෂික හෝ සාමාන්‍යයෙන් බහුවාර්ෂික පැළෑටි, තෙත් ස්ථානවල සෙන්ටිමීටර 30ක් පමණ උසට වැඩේ. කඳ සෙන්ටිමීටර 0.1-1ක් පමණ දිග වන අතර ගැට (nodes) වලින් මුල් හටගනී. කඳ සහ අතු කොළ පැහැති හෝ දම් පැහැයට හුරුය. කඳේ දෙපස සුදු පැහැති රෝම පේළියක් සහ අතු හා පත්‍ර අක්ෂවල (axils) සුදු පැහැති රෝම පොකුරක් දක්නට ලැබේ. පත්‍ර විවිධ හැඩගනී, සෙන්ටිමීටර 1-9 (-15) x 0.2-2 (-3) ප්‍රමාණයෙන් යුක්තය. පුෂ්ප මංජරිය වෘන්ත රහිත (sessile) වන අතර 5ක් දක්වා වූ පොකුරු ලෙස පවතී. පෙති සියල්ලම එකම හැඩයකින් යුක්තය; ප්‍රධාන මධ්‍ය නාරටිය (midrib) පමණක් කැපී පෙනෙන තනි නාරටියකින් සමන්විත වේ. පලය මිලිමීටර 2-2.5ක් දිගය. බීජ තැටියක හැඩැති (discoid), මිලිමීටර 0.75-1ක් පමණ වන අතර දුඹුරු පැහැයෙන් සහ දිලිසෙන ස්වභාවයකින් යුක්තය.",
+    "treatments": [
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burning Sensation of Feet",
+            "sinhala": "යටිපතුල් දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole plant"
+    ],
+    "images": [
+        {
+            "image_id": "41",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/7d0yp2hw/plant00041-00041.jpg"
+        },
+        {
+            "image_id": "42",
+            "caption": "Bunch of plants",
+            "url": "https://i.ibb.co/Y4HkfNzK/plant00041-00042.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මුකුණුවැන්න වල විශ්මිත ගුණ - Amazing properties of Mukunuwenna",
+                "url": "https://youtube.com/watch?v=F6lFnOJQnYE",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/F6lFnOJQnYE/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න කනවා නම් මේවාත් දැනගෙන ඉන්න : Mukunuwenna Benefits",
+                "url": "https://youtube.com/watch?v=iHP60R9f_M0",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/iHP60R9f_M0/hq720.jpg"
+            },
+            {
+                "title": "ඇලිගේටර් ශාකය හා මුකුණුවැන්න ශාකය අතර වෙනස | Difference between Alligator and Mukunuwenna",
+                "url": "https://youtube.com/watch?v=hp_t5-u9R7Q",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/hp_t5-u9R7Q/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න කියලා කිඹුල්වැන්න කනවද?",
+                "url": "https://youtube.com/watch?v=_ndJLc9cV-Q",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/_ndJLc9cV-Q/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ ඇති මුකුණුවැන්න ඉඩ කඩ ඇති හැටියට වවමු/Alternanthera sessilis🌿",
+                "url": "https://youtube.com/watch?v=OFakA795Yok",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/OFakA795Yok/hq720.jpg"
+            },
+            {
+                "title": "මුකුනුවැන්න වල ගුණ අගුණ",
+                "url": "https://youtube.com/watch?v=kksIAhbptqY",
+                "duration": "4:48",
+                "thumbnail": "https://i.ytimg.com/vi/kksIAhbptqY/hq720.jpg"
+            },
+            {
+                "title": "ගොටු කොළ සහ මුකුණුවැන්න ගැන කවුරුත් නොදත් දෙයක් හෙළි වේ.. ජීවිතයට ආදරෙයි නම් අනිවා මේක බලන්න.",
+                "url": "https://youtube.com/watch?v=kErKjTos_LM",
+                "duration": "3:55",
+                "thumbnail": "https://i.ytimg.com/vi/kErKjTos_LM/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න  මෙහෙම කපනව දැකල තියෙනවද Alternanthera sessilis Cultivation",
+                "url": "https://youtube.com/watch?v=qdGORoiOnVs",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/qdGORoiOnVs/hq720.jpg"
+            },
+            {
+                "title": "alligator weed good and bad | මුකුණුවැන්න සහ කිබුල්වැන්න | mukunuwanna | kibulwanna | pettagama",
+                "url": "https://youtube.com/watch?v=Fy7M5_Z7hck",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/Fy7M5_Z7hck/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න වගාව,mukunuwenna wagawa",
+                "url": "https://youtube.com/watch?v=S4PDhXQYaT0",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/S4PDhXQYaT0/hqdefault.jpg"
+            },
+            {
+                "title": "හිසකෙස් කළු කරගන්න, හිසකෙස් දිගට වවා ගන්න සහ ඇස් පෙනීම වර්ධනයට හොඳම ඖෂධය මුකුණුවැන්න- Sobadam Piyasa",
+                "url": "https://youtube.com/watch?v=PNnjITmKmkM",
+                "duration": "10:23",
+                "thumbnail": "https://i.ytimg.com/vi/PNnjITmKmkM/hq720.jpg"
+            },
+            {
+                "title": "මුකුනුවැන්න ගෙවත්තේ වගාකරමු බදුන්ගතව කාබනිකව මුකුනුවැන්න වගාව Organic gardening",
+                "url": "https://youtube.com/watch?v=rQwEk2f2yC4",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/rQwEk2f2yC4/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න බදුනක වගාකරමු  Let's cultivate Mukunuwenna in a pot,ගෙවතු වගාව ,gewathu wagawa ,",
+                "url": "https://youtube.com/watch?v=Z9aeJM7vLM8",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/Z9aeJM7vLM8/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්නා කනවානම් ප්‍රවේශමෙන්, අස් අන්ධ වෙන්නත් පුළුවන්.",
+                "url": "https://youtube.com/watch?v=8nevayGHB0w",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/8nevayGHB0w/hq720.jpg"
+            },
+            {
+                "title": "Mukunuwanna wagaawa | මුකුණුවැන්න වගාව ගෙදරදී බදුන්ගතව ලේසියෙන් සිටවමු | Alternanthera sessilis",
+                "url": "https://youtube.com/watch?v=fD-zxm3ZfVQ",
+                "duration": "5:49",
+                "thumbnail": "https://i.ytimg.com/vi/fD-zxm3ZfVQ/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න වගාව හැදින්විම",
+                "url": "https://youtube.com/watch?v=PwyKFT6udJ8",
+                "duration": "11:04",
+                "thumbnail": "https://i.ytimg.com/vi/PwyKFT6udJ8/hqdefault.jpg"
+            },
+            {
+                "title": "මුකුනුවැන්න අස්වනු නෙලීම..",
+                "url": "https://youtube.com/watch?v=aoLr7hysyXQ",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/aoLr7hysyXQ/hq720.jpg"
+            },
+            {
+                "title": "සති 2න් මුකුණුවැන්න ගන්න මේ විදියට අදම පැල කරන්න | Mukunuwenna Wagawa | Ceylon Agri | Episode 295",
+                "url": "https://youtube.com/watch?v=alHfj9fYz9k",
+                "duration": "10:57",
+                "thumbnail": "https://i.ytimg.com/vi/alHfj9fYz9k/hq720.jpg"
+            },
+            {
+                "title": "Mukunuwenna |කිඹුල්වැන්නා මුකුණුවැන්නා කියා ඔබත් රැවටුනාද",
+                "url": "https://youtube.com/watch?v=fq74hre-e0Y",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/fq74hre-e0Y/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න  වගාව👌🌹",
+                "url": "https://youtube.com/watch?v=3e9cr8EZH-w",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/3e9cr8EZH-w/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න වල විශ්මිත ගුණ - Amazing properties of Mukunuwenna",
+                "url": "https://youtube.com/watch?v=tnUGtiuhgT4",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/tnUGtiuhgT4/frame0.jpg"
+            },
+            {
+                "title": "Sessile Joyweed – Frequently used medicinal herb in indigenous meals",
+                "url": "https://youtube.com/watch?v=QQvvs8VzXOQ",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/QQvvs8VzXOQ/hq720.jpg"
+            },
+            {
+                "title": "5 Curious Science-Backed Benefits of Sessile Joyweed",
+                "url": "https://youtube.com/watch?v=nZajbZFB830",
+                "duration": "1:32",
+                "thumbnail": "https://i.ytimg.com/vi/nZajbZFB830/hqdefault.jpg"
+            },
+            {
+                "title": "34 🌿 ආයෙනම් මුකුණුවැකන්න කියල කිබුල්වැන්නට ඔයා රැවටෙන එකක් නෑ gamiya Mukunuwenna wagawa",
+                "url": "https://youtube.com/watch?v=4b3fROPJeg8",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/4b3fROPJeg8/hq720.jpg"
+            },
+            {
+                "title": "කඩෙන් ගේන වස මුකුණුවැන්න වෙනුවට ගෙදර  ඖෂධීය පලා වවමු",
+                "url": "https://youtube.com/watch?v=KJqSVSRxUjI",
+                "duration": "9:18",
+                "thumbnail": "https://i.ytimg.com/vi/KJqSVSRxUjI/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Burning Sensation of Feet",
-      "sinhala": "යටිපතුල් දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole plant"
-  ],
-  "images": [
-    {
-      "image_id": "41",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/7d0yp2hw/plant00041-00041.jpg"
-    },
-    {
-      "image_id": "42",
-      "caption": "Bunch of plants",
-      "url": "https://i.ibb.co/Y4HkfNzK/plant00041-00042.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

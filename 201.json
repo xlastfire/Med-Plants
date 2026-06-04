@@ -1,17 +1,526 @@
 {
-  "scientificName": "Anaphalis subdecurrens Gamble",
-  "synonyms": [
-    "Gnaphalium indicum Thwaites",
-    "Gnaphalium subdecurrens DC."
-  ],
-  "familyName": "ASTERACEAE",
-  "englishNames": [
-    "Indian Pearly Everlasting"
-  ],
-  "sinhalaName": "Maha sudhana (මහ සුධනා )",
-  "description": "සෙන්ටිමීටර 15 - 40 (-70) ක් උසැති, කෙළින් වැඩෙන වාර්ෂික පැළෑටි වේ. කඳන් ඝනව සුදු පැහැති ලෝම සහිත (tomentose) වේ. පත්‍ර ආයත (oblong), ලාන්සාකාර (oblanceolate) හෝ හැන්දක හැඩැති (spathulate) වන අතර, පාදස්ථ පත්‍ර සමහර විට රොසෙටා හැඩයක් (rosulate) ගනී. පත්‍ර සෙන්ටිමීටර 3 - 5 x 6 - 12 මි.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, පාදම දෙසට සිහින් වී (attenuate) පවතී. පත්‍ර අග්‍රය තියුණු (acute) හෝ උල් වූ (apiculate) වන අතර, පත්‍ර දාරය සම්පූර්ණ (entire) සහ පැතලි වේ. පත්‍රයේ උඩු පැත්ත තුනී සුදු ලෝම සහිත වන අතර යටි පැත්ත ඊටත් වඩා ඝනව ලෝම සහිත වේ. පත්‍ර නහර 3 ක් හෝ සමහර විට 5 ක් දක්නට ලැබේ. පුෂ්ප මංජරිය (capitula) මි.මී. 2.5 - 3 ක් පළල වන අතර, බොහෝ සංඛ්‍යාවක් ඝන හෝ අතු බෙදුණු අග්‍රස්ථ කොරිම්බ (corymbose) ආකාරයෙන් පිහිටයි. ආවෘත පත්‍ර (phyllaries) පේළි 4 - 5 කින් යුක්ත වන අතර කොළ පැහැතිය. මල් කහ පැහැතිය; ස්ත්‍රී පුෂ්පවල කොරොල්ලා (corollas) 25 - 30 ක් ඇති අතර ඒවා මි.මී. 1.5 - 2 ක් දිගය. ද්විලිංගික පුෂ්පවල කොරොල්ලා 5 - 10 ක් ඇති අතර ඒවා මි.මී. 1.75 - 2.25 ක් දිගය. දෙවර්ගයේම අචීන (achenes) ඵල දරන සුළු බවක් පෙනෙන අතර දුඹුරු පැහැතිය. පැපස් (pappus) මි.මී. 2.25 ක් දිග වන අතර එහි රෝම සුදු පැහැතිය.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Anaphalis subdecurrens Gamble",
+    "synonyms": [
+        "Gnaphalium indicum Thwaites",
+        "Gnaphalium subdecurrens DC."
+    ],
+    "familyName": "ASTERACEAE",
+    "englishNames": [
+        "Indian Pearly Everlasting"
+    ],
+    "sinhalaName": "Maha sudhana (මහ සුධනා )",
+    "description": "සෙන්ටිමීටර 15 - 40 (-70) ක් උසැති, කෙළින් වැඩෙන වාර්ෂික පැළෑටි වේ. කඳන් ඝනව සුදු පැහැති ලෝම සහිත (tomentose) වේ. පත්‍ර ආයත (oblong), ලාන්සාකාර (oblanceolate) හෝ හැන්දක හැඩැති (spathulate) වන අතර, පාදස්ථ පත්‍ර සමහර විට රොසෙටා හැඩයක් (rosulate) ගනී. පත්‍ර සෙන්ටිමීටර 3 - 5 x 6 - 12 මි.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, පාදම දෙසට සිහින් වී (attenuate) පවතී. පත්‍ර අග්‍රය තියුණු (acute) හෝ උල් වූ (apiculate) වන අතර, පත්‍ර දාරය සම්පූර්ණ (entire) සහ පැතලි වේ. පත්‍රයේ උඩු පැත්ත තුනී සුදු ලෝම සහිත වන අතර යටි පැත්ත ඊටත් වඩා ඝනව ලෝම සහිත වේ. පත්‍ර නහර 3 ක් හෝ සමහර විට 5 ක් දක්නට ලැබේ. පුෂ්ප මංජරිය (capitula) මි.මී. 2.5 - 3 ක් පළල වන අතර, බොහෝ සංඛ්‍යාවක් ඝන හෝ අතු බෙදුණු අග්‍රස්ථ කොරිම්බ (corymbose) ආකාරයෙන් පිහිටයි. ආවෘත පත්‍ර (phyllaries) පේළි 4 - 5 කින් යුක්ත වන අතර කොළ පැහැතිය. මල් කහ පැහැතිය; ස්ත්‍රී පුෂ්පවල කොරොල්ලා (corollas) 25 - 30 ක් ඇති අතර ඒවා මි.මී. 1.5 - 2 ක් දිගය. ද්විලිංගික පුෂ්පවල කොරොල්ලා 5 - 10 ක් ඇති අතර ඒවා මි.මී. 1.75 - 2.25 ක් දිගය. දෙවර්ගයේම අචීන (achenes) ඵල දරන සුළු බවක් පෙනෙන අතර දුඹුරු පැහැතිය. පැපස් (pappus) මි.මී. 2.25 ක් දිග වන අතර එහි රෝම සුදු පැහැතිය.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Maha Piritha   මහ පිරිත  (තුන් සූත්‍රය)   Thun Suthraya",
+                "url": "https://youtube.com/watch?v=2PkbYtGIDFk",
+                "duration": "17:37",
+                "thumbnail": "https://i.ytimg.com/vi/2PkbYtGIDFk/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Piritha (Thun Suthraya), මහ පිරිත හෙවත්  තුන් සූත්‍රය",
+                "url": "https://youtube.com/watch?v=oiaM8rZ5Kf8",
+                "duration": "22:37",
+                "thumbnail": "https://i.ytimg.com/vi/oiaM8rZ5Kf8/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha මහ පිරිත | Thun Suthra Deshanawa | තුන් සූත්‍රය Mahamangala | Rathana |Karaneeyameththa",
+                "url": "https://youtube.com/watch?v=FbjB503Oqz0",
+                "duration": "53:52",
+                "thumbnail": "https://i.ytimg.com/vi/FbjB503Oqz0/hq720.jpg"
+            },
+            {
+                "title": "මහ පිරිත (තුන්සුත්‍රය) 21 වාරයක් I Maha Piritha (Thun Suththrya) 21 Times - 4 Hours and 30 Min.",
+                "url": "https://youtube.com/watch?v=7isIiXMincg",
+                "duration": "4:39:38",
+                "thumbnail": "https://i.ytimg.com/vi/7isIiXMincg/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Piritha | මහ පිරිත | විචිත්‍රභාණක වත්තල සීලරතන නායක ස්වාමින්ද්‍රයන්වහන්සේ",
+                "url": "https://youtube.com/watch?v=8uWmHJrktDE",
+                "duration": "58:52",
+                "thumbnail": "https://i.ytimg.com/vi/8uWmHJrktDE/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Piritha / Pirith / Paritta Recording / Thun Suthraya / Buddhist Pirith Chantings",
+                "url": "https://youtube.com/watch?v=FkOTYO8wFmQ",
+                "duration": "8:56:22",
+                "thumbnail": "https://i.ytimg.com/vi/FkOTYO8wFmQ/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha | මහ පිරිත | Thun Suthraya | තුන් සූත්‍රය",
+                "url": "https://youtube.com/watch?v=jnZ_dhR1a-o",
+                "duration": "53:50",
+                "thumbnail": "https://i.ytimg.com/vi/jnZ_dhR1a-o/hq720.jpg"
+            },
+            {
+                "title": "මහ පිරිත । maha Piritha #mahapirith #pirithsinhalafull",
+                "url": "https://youtube.com/watch?v=3qDbbFF3KYw",
+                "duration": "57:00",
+                "thumbnail": "https://i.ytimg.com/vi/3qDbbFF3KYw/hq720.jpg"
+            },
+            {
+                "title": "04. මහ පිරිත | පිරිත් සජ්ඣායනය",
+                "url": "https://youtube.com/watch?v=k5lHu-f2TdE",
+                "duration": "53:57",
+                "thumbnail": "https://i.ytimg.com/vi/k5lHu-f2TdE/hq720.jpg"
+            },
+            {
+                "title": "maha piritha | thun suthraya | rathana suthraya | maha mangala suthraya | karaneeyameththa suthraya",
+                "url": "https://youtube.com/watch?v=EWPKPi1R-m4",
+                "duration": "1:03:22",
+                "thumbnail": "https://i.ytimg.com/vi/EWPKPi1R-m4/hq720.jpg"
+            },
+            {
+                "title": "MAHA PIRITHA (sinhala meaning)",
+                "url": "https://youtube.com/watch?v=9tOIJEjVgnQ",
+                "duration": "57:18",
+                "thumbnail": "https://i.ytimg.com/vi/9tOIJEjVgnQ/hqdefault.jpg"
+            },
+            {
+                "title": "මහා සඟරුවන විසින් දේශිත බලගතු මූල මහා පිරිත...mula maha piritha...",
+                "url": "https://youtube.com/watch?v=7QHpAMVucM4",
+                "duration": "1:04:44",
+                "thumbnail": "https://i.ytimg.com/vi/7QHpAMVucM4/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Piritha  මහ පිරිත  ( Buddhist Suttra )",
+                "url": "https://youtube.com/watch?v=wKTB7Khnh-g",
+                "duration": "59:38",
+                "thumbnail": "https://i.ytimg.com/vi/wKTB7Khnh-g/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Piritha | මහ පිරිත by Buddhist LK",
+                "url": "https://youtube.com/watch?v=olB6vpe_BS4",
+                "duration": "53:41",
+                "thumbnail": "https://i.ytimg.com/vi/olB6vpe_BS4/hq720.jpg"
+            },
+            {
+                "title": "Maha Mangala Suthraya - මහා මංගල සූත්‍රය (MKS)",
+                "url": "https://youtube.com/watch?v=waMcSYfSIsk",
+                "duration": "5:03",
+                "thumbnail": "https://i.ytimg.com/vi/waMcSYfSIsk/hq720.jpg"
+            },
+            {
+                "title": "MAHA PIRITHA I මහ පිරිත I තුන් සූත්‍රය",
+                "url": "https://youtube.com/watch?v=9jsOa6j0aI0",
+                "duration": "53:38",
+                "thumbnail": "https://i.ytimg.com/vi/9jsOa6j0aI0/hq720.jpg"
+            },
+            {
+                "title": "Thun Suthraya & Maha Piritha - මහානුභාව සම්පන්න තුන් සූත්‍රය හා මහ පිරිත එක දිගට රැය පහන් වන තුරු",
+                "url": "https://youtube.com/watch?v=xUGnBvFCjvM",
+                "duration": "10:35:18",
+                "thumbnail": "https://i.ytimg.com/vi/xUGnBvFCjvM/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha මහ පිරිත Thun Suthraya තුන් සූත්‍රය #sethpirith",
+                "url": "https://youtube.com/watch?v=zmxjl4x2sSk",
+                "duration": "55:27",
+                "thumbnail": "https://i.ytimg.com/vi/zmxjl4x2sSk/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha   Pirith   Paritta Recording   Thun Suthraya   Buddhist Pirith Chantings",
+                "url": "https://youtube.com/watch?v=KPBvbFm5U8s",
+                "duration": "8:56:22",
+                "thumbnail": "https://i.ytimg.com/vi/KPBvbFm5U8s/hq720.jpg"
+            },
+            {
+                "title": "මහා පිරිත Maha Piritha නාඋයනේ අරියධම්ම අනුනාහිමි Nauyane Ariyadhamma Thero",
+                "url": "https://youtube.com/watch?v=AbWa1Id2TPo",
+                "duration": "8:56:27",
+                "thumbnail": "https://i.ytimg.com/vi/AbWa1Id2TPo/hqdefault.jpg"
+            },
+            {
+                "title": "suvisi maha guna - සූවිසි මහා ගුණ සජ්ජායනය",
+                "url": "https://youtube.com/watch?v=k-eL7jMiUF8",
+                "duration": "10:38",
+                "thumbnail": "https://i.ytimg.com/vi/k-eL7jMiUF8/hq720.jpg"
+            },
+            {
+                "title": "⭕ සූවිසි මහා ගුණ | පූජ්‍ය බෝපිටියේ සුමංගල ස්වාමීන් වහන්සේ |  Bopitiya Sadaham Pasala",
+                "url": "https://youtube.com/watch?v=PnAT6at-Buc",
+                "duration": "1:29:45",
+                "thumbnail": "https://i.ytimg.com/vi/PnAT6at-Buc/hq720.jpg"
+            },
+            {
+                "title": "නියත ප්‍රතිඵල සහිත බුදු ගුණ සත්‍යක්‍රියාව || Rev.Balangoda Radha Thero",
+                "url": "https://youtube.com/watch?v=di3AXWeXxtc",
+                "duration": "27:27",
+                "thumbnail": "https://i.ytimg.com/vi/di3AXWeXxtc/hq720.jpg"
+            },
+            {
+                "title": "සුගන්ධ මහ රහතන් වහන්සේ විසින් සිදු කළ බුද්ධාලම්බන ප්‍රීතිය උපදවන අසිරිමත් බුදුගුණ වර්ණනාව...",
+                "url": "https://youtube.com/watch?v=4yEnU0rnU3g",
+                "duration": "42:14",
+                "thumbnail": "https://i.ytimg.com/vi/4yEnU0rnU3g/hq720.jpg"
+            },
+            {
+                "title": "56) බමුණන් කියූ බුදු ගුණ.(සෝණ දණ්ඩ සූත්‍රය) | අසිරිමත් සම්බුදු සරණ | Asirimath Sambudu Sarana",
+                "url": "https://youtube.com/watch?v=CqpzxKOSDLU",
+                "duration": "53:09",
+                "thumbnail": "https://i.ytimg.com/vi/CqpzxKOSDLU/hq720.jpg"
+            },
+            {
+                "title": "57) රහතුන් දෙසූ බුදු ගුණ.(සම්පසාදනීය සූත්‍රය) | අසිරිමත් සම්බුදු සරණ | Asirimath Sambudu Sarana",
+                "url": "https://youtube.com/watch?v=C9vqzemhIpI",
+                "duration": "54:52",
+                "thumbnail": "https://i.ytimg.com/vi/C9vqzemhIpI/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ |මෙතරම් සුන්දර බණක් ඔබ කිසිදාක ශ්‍රවණය කර නෑ |Ven Koralayagama Saranathissa Thero 2021 bana",
+                "url": "https://youtube.com/watch?v=A0NQ_5IQyWY",
+                "duration": "3:40:59",
+                "thumbnail": "https://i.ytimg.com/vi/A0NQ_5IQyWY/hqdefault.jpg"
+            },
+            {
+                "title": "සෙත් සිරි දෙන මහ ගුණ මුහුඳානන්| Amawathura TV",
+                "url": "https://youtube.com/watch?v=D3HLkWkwP0Y",
+                "duration": "2:28",
+                "thumbnail": "https://i.ytimg.com/vi/D3HLkWkwP0Y/hq720.jpg"
+            },
+            {
+                "title": "සර්වරාත්‍රික මහා කරුණා බුදුගුණ වර්ණනාව...  | පැය 7ක් පුරා බුදු ගුණ ම අසමින් සැනසෙමු",
+                "url": "https://youtube.com/watch?v=9Im7L3-PUA8",
+                "duration": "6:51:29",
+                "thumbnail": "https://i.ytimg.com/vi/9Im7L3-PUA8/hq720.jpg"
+            },
+            {
+                "title": "සුගත ගුණ වන්දනාව",
+                "url": "https://youtube.com/watch?v=uz1MpuohN8o",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/uz1MpuohN8o/hq720.jpg"
+            },
+            {
+                "title": "චූල සුභද්‍රාවගේ සඟ ගුණ වරුණ.. | Chuula Subhadrawage Sanga Guna Waruna |   @GandharwaMandapaya ​",
+                "url": "https://youtube.com/watch?v=OP5Tsy0Ufuw",
+                "duration": "6:18",
+                "thumbnail": "https://i.ytimg.com/vi/OP5Tsy0Ufuw/hq720.jpg"
+            },
+            {
+                "title": "සෙත් සිරි දෙන මහ ගුණ මුහුදාණන්",
+                "url": "https://youtube.com/watch?v=qWPw7LPOfkU",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/qWPw7LPOfkU/hq720.jpg"
+            },
+            {
+                "title": "බුදුගුණ භාවනාව। Bawanawa Bawanawa #budugunadeshana  #mahapirith  #bawana #osakajagoda #sethpirith",
+                "url": "https://youtube.com/watch?v=uU-DhdrOvPc",
+                "duration": "1:23:12",
+                "thumbnail": "https://i.ytimg.com/vi/uU-DhdrOvPc/hq720.jpg"
+            },
+            {
+                "title": "සූවිසි මහා ගුණ නිවැරදිව අර්ථ සහිතව දැන වඩමු |Suvisi maha guna|මා මෙසේ ඇසුවෙමි|ma mese esuwemi",
+                "url": "https://youtube.com/watch?v=n2Pl9tCLSwM",
+                "duration": "31:56",
+                "thumbnail": "https://i.ytimg.com/vi/n2Pl9tCLSwM/hq720.jpg"
+            },
+            {
+                "title": "බුදු ගුණ වඩන ආකාරය | හසලක සීලවිමල හිමි | Hasalaka Seelawimala Thero | #hasalakaseelawimalathero",
+                "url": "https://youtube.com/watch?v=ph1R_A57q7w",
+                "duration": "15:35",
+                "thumbnail": "https://i.ytimg.com/vi/ph1R_A57q7w/hq720.jpg"
+            },
+            {
+                "title": "මහානුභාව සම්පන්න උතුම් සූවිසි මහා ගුණ පිරිත නොවරදවාම අසන්න ...suvisi guna piritha damsilu TV sinhala",
+                "url": "https://youtube.com/watch?v=9whe9QUs-4U",
+                "duration": "36:12",
+                "thumbnail": "https://i.ytimg.com/vi/9whe9QUs-4U/hqdefault.jpg"
+            },
+            {
+                "title": "සුමනවංශ හිමියන්ගෙන් විශේෂ ප්‍රකාශයක් | සියළු ඖෂධ නොමිලේ | ඉක්මනට සම්බන්ධ වෙන්න",
+                "url": "https://youtube.com/watch?v=VfDFJzboxYo",
+                "duration": "14:51",
+                "thumbnail": "https://i.ytimg.com/vi/VfDFJzboxYo/hq720.jpg"
+            },
+            {
+                "title": "මහා දුක්ඛක්ඛන්ධ සූත්‍රය | Mankadawala Sudassana Thero  |  2025 03 08 | Sathi TV | Dharma Deshana",
+                "url": "https://youtube.com/watch?v=gMeCluddd2g",
+                "duration": "1:03:28",
+                "thumbnail": "https://i.ytimg.com/vi/gMeCluddd2g/hq720.jpg"
+            },
+            {
+                "title": "මහා ඖෂධ පූජාව (හිසේ සිට දෙපතුල දක්වා ඇති සියලු රෝග දුරු වේවා...)",
+                "url": "https://youtube.com/watch?v=P1lmmXOTRd8",
+                "duration": "1:04:31",
+                "thumbnail": "https://i.ytimg.com/vi/P1lmmXOTRd8/hq720.jpg"
+            },
+            {
+                "title": "MAHASON SAMAYAMA - ලෙඩ රෝග යක්ස දෝස ප්‍රේත දෝස අනවින කොඩිවින දුරලන මහා සොහොන් දේවතා සමයම -ApePansala",
+                "url": "https://youtube.com/watch?v=SOer438mptA",
+                "duration": "32:28",
+                "thumbnail": "https://i.ytimg.com/vi/SOer438mptA/hq720.jpg"
+            },
+            {
+                "title": "මහ පිරිත / mahapiritha #mahapiritha #osakajagoda #pirithsinhalafull #sethpirith #මහපිරිත",
+                "url": "https://youtube.com/watch?v=NFoz5RUEDTU",
+                "duration": "57:00",
+                "thumbnail": "https://i.ytimg.com/vi/NFoz5RUEDTU/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ පූජාව | Oushadha Pujawa | 2026.06.03",
+                "url": "https://youtube.com/watch?v=w-b-U86i_hg",
+                "duration": "1:04:12",
+                "thumbnail": "https://i.ytimg.com/vi/w-b-U86i_hg/hq720.jpg"
+            },
+            {
+                "title": "මහා ත්‍රිපිටක සජ්ඣායනාව /La grande récitation du Tipitaka / The great recitation of Tipitaka",
+                "url": "https://youtube.com/watch?v=l6nMxwpitK8",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/l6nMxwpitK8/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ පූජාව | Oushadha Pujawa | 2025.03.16",
+                "url": "https://youtube.com/watch?v=Zuodm3Z6huo",
+                "duration": "53:32",
+                "thumbnail": "https://i.ytimg.com/vi/Zuodm3Z6huo/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ පූජාව | Oushadha Pujawa | 2026.03.17",
+                "url": "https://youtube.com/watch?v=Rv6AJv_BbB4",
+                "duration": "1:05:36",
+                "thumbnail": "https://i.ytimg.com/vi/Rv6AJv_BbB4/hq720.jpg"
+            },
+            {
+                "title": "ඇතුළත ඖෂධ හා පිටත ඖෂධ",
+                "url": "https://youtube.com/watch?v=aczgwv69qp8",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/aczgwv69qp8/hq720.jpg"
+            },
+            {
+                "title": "ලොව්තුරා බුදුරජාණන්වහන්සේ විසින් දේශනාකොට වදාළ මහ පිරිත් දේශනාවේ බලයෙන් ඔබසැමට ශාන්තිය උදාවේවා!",
+                "url": "https://youtube.com/watch?v=2a_rDGxn2vA",
+                "duration": "7:39:46",
+                "thumbnail": "https://i.ytimg.com/vi/2a_rDGxn2vA/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Piritha | මහ පිරිත",
+                "url": "https://youtube.com/watch?v=7uwO_vukHZE",
+                "duration": "7:41:37",
+                "thumbnail": "https://i.ytimg.com/vi/7uwO_vukHZE/hqdefault.jpg"
+            },
+            {
+                "title": "තුන් සුත්‍රය සහ ජය පිරිත  රත්නාවලි ගාථා",
+                "url": "https://youtube.com/watch?v=aVke_xdYv74",
+                "duration": "31:49",
+                "thumbnail": "https://i.ytimg.com/vi/aVke_xdYv74/hq720.jpg"
+            },
+            {
+                "title": "සෑම ගුරුවරයෙක් ම, සෑම දුවා දරුවෙක් ම, සෑම මව්පිය කෙනෙක් ම ඇසිය යුතු දේශනාවක්",
+                "url": "https://youtube.com/watch?v=W2qO77kCk6s",
+                "duration": "1:31:59",
+                "thumbnail": "https://i.ytimg.com/vi/W2qO77kCk6s/hq720.jpg"
+            },
+            {
+                "title": "🙏🙏 අදම අසන්න | මහා මංගල සූත්‍රය | වාසනා සෙත ආශීර්වාද ලැබෙන බලගතු පිරිත 🙏✨",
+                "url": "https://youtube.com/watch?v=1aNEGxLnFIA",
+                "duration": "1:28:01",
+                "thumbnail": "https://i.ytimg.com/vi/1aNEGxLnFIA/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha - මහ පිරිත (තුන් සූත්‍රය - මහා මංගල සූත්‍රය,රතන සූත්‍රය,කරණීය මෙත්ත සූත්‍රය)",
+                "url": "https://youtube.com/watch?v=ma7Cv_jtn9c",
+                "duration": "36:34",
+                "thumbnail": "https://i.ytimg.com/vi/ma7Cv_jtn9c/hq720.jpg"
+            },
+            {
+                "title": "මහ පිරිත සහ තුන් සුත්‍රය",
+                "url": "https://youtube.com/watch?v=Fe6RUk9yu_4",
+                "duration": "53:48",
+                "thumbnail": "https://i.ytimg.com/vi/Fe6RUk9yu_4/hqdefault.jpg"
+            },
+            {
+                "title": "තුන් සූත්‍රය සහ ජය පිරිත,රත්නමාලා ගාථා-thun suthraya and jaya piritha,rathnamala gatha - #sethpirith",
+                "url": "https://youtube.com/watch?v=S04FLFnCBSg",
+                "duration": "31:47",
+                "thumbnail": "https://i.ytimg.com/vi/S04FLFnCBSg/hqdefault.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "දේශීය වෙදදුරන්ට අනුව corona වලට එරෙහිව ප්‍රතිශක්තිය නගාසිටුවන හීන් බින් කොහොඹ",
+                "url": "https://youtube.com/watch?v=WKw3IhMmfmw",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/WKw3IhMmfmw/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රතිශක්තිය වඩන, ඇසෙ සුද ඉවත් කරන විශ්මිත ශාකය | CM Plants Store Sri Lanka නළල් බටු/මොට්ටු ශාකය",
+                "url": "https://youtube.com/watch?v=aOchjIcmF2k",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/aOchjIcmF2k/hq720.jpg"
+            },
+            {
+                "title": "ආහාර අරුචිය, දියවැඩියාව, අර්ශස් ඇතුළු රෝග රැසකට ගුණදෙන විස්මිත ශාකය | සව්කෙන්ද (Saukenda)",
+                "url": "https://youtube.com/watch?v=P20v05s6q1A",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/P20v05s6q1A/hq720.jpg"
+            },
+            {
+                "title": "සෙම් පිත් සමනය කරන, ඉදිමුම් අඩු කරන සැවැන්දරා වල ඔසු ගුණ |  සැවැන්දරා Sawandara",
+                "url": "https://youtube.com/watch?v=WMTkXmug77M",
+                "duration": "7:09",
+                "thumbnail": "https://i.ytimg.com/vi/WMTkXmug77M/hq720.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "Maha yakuwanassa - Leonotis nepetiifolia",
+                "url": "https://youtube.com/watch?v=xJy4qIM-4RM",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/xJy4qIM-4RM/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ද|ashwagandha|අමුක්කරා|Amukkara|Dr.Chaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=vZt8nsZnG-8",
+                "duration": "18:32",
+                "thumbnail": "https://i.ytimg.com/vi/vZt8nsZnG-8/hq720.jpg"
+            },
+            {
+                "title": "උඳුපියලි කැඳ බිව්වම වෙන දේ මෙන්න : Benefits of Desmordium triflorum",
+                "url": "https://youtube.com/watch?v=_ElM_-P1pms",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/_ElM_-P1pms/hq720.jpg"
+            },
+            {
+                "title": "සූදුරු කන අයට වෙන අමුතු දේවල් : Health benefits of Caraway seeds",
+                "url": "https://youtube.com/watch?v=MMqX2bcpj-s",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/MMqX2bcpj-s/hq720.jpg"
+            },
+            {
+                "title": "මහදුරු වල විශ්මිත ගුණ - Amazing quality of fennel for a healthy life",
+                "url": "https://youtube.com/watch?v=yu87jayqE8U",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/yu87jayqE8U/hq720.jpg"
+            },
+            {
+                "title": "මස්බැද්ද-Masbedda | දියවැඩියාවට මස්බැද්ද ශරීරයට හිතකරද?  #Lokayo",
+                "url": "https://youtube.com/watch?v=f4yWry-UCnU",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/f4yWry-UCnU/hqdefault.jpg"
+            },
+            {
+                "title": "මහණදම් පිරීමට අවශ්‍ය ගුණාංග /mahana daham pirimata awashya gunanga",
+                "url": "https://youtube.com/watch?v=qqwgitBsWXA",
+                "duration": "55:02",
+                "thumbnail": "https://i.ytimg.com/vi/qqwgitBsWXA/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්තෙන් අයින් කරන්න ඕන විස සහිත ශාක ඔබ ලගත් තියනවද? List Of Poison Plants| Ceylon Agri|Episode 235",
+                "url": "https://youtube.com/watch?v=iyq95nCHM9k",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/iyq95nCHM9k/hq720.jpg"
+            },
+            {
+                "title": "Sri Lankan Herbs - Binkohomba |නිතරම ලෙඩ වෙන අයට හොදම බෙහෙත “බිං කොහොඹ” | Ceylon Agri | Episode 34",
+                "url": "https://youtube.com/watch?v=lnJONJ6ou-U",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/lnJONJ6ou-U/hqdefault.jpg"
+            },
+            {
+                "title": "ඖෂධ පූජාව | Oushadha Pujawa | 2026.05.18",
+                "url": "https://youtube.com/watch?v=ftGlceQl3qc",
+                "duration": "1:00:04",
+                "thumbnail": "https://i.ytimg.com/vi/ftGlceQl3qc/hq720.jpg"
+            },
+            {
+                "title": "යශෝධරා මහරහත් තෙරණින් වහන්සේ උදෙසා සිදු කරන ව්ශේෂ ඖෂධ පුජාව|Ruwix s media| Sinhala",
+                "url": "https://youtube.com/watch?v=5-TzbiXHWh0",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/5-TzbiXHWh0/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "Maha sathipattana suthraya - මහා සතිපට්ඨාන සූත්‍රය",
+                "url": "https://youtube.com/watch?v=J2KwNDOHYnk",
+                "duration": "1:06:02",
+                "thumbnail": "https://i.ytimg.com/vi/J2KwNDOHYnk/hq720.jpg"
+            },
+            {
+                "title": "Maha Samaya Suthraya - මහා සමය සූත්‍රය | සිංහල අර්ථය සහිත",
+                "url": "https://youtube.com/watch?v=fyY6pq2MWnk",
+                "duration": "55:42",
+                "thumbnail": "https://i.ytimg.com/vi/fyY6pq2MWnk/hq720.jpg"
+            },
+            {
+                "title": "මහ පිරිත Maha Piritha | තුන් සූත්‍ර Thun Suthra | මහා මංගල, රතන, කරණීය මෙත්ත සූත්‍රය | Life & Living",
+                "url": "https://youtube.com/watch?v=Tpbxf6S7s_A",
+                "duration": "53:54",
+                "thumbnail": "https://i.ytimg.com/vi/Tpbxf6S7s_A/hq720.jpg"
+            },
+            {
+                "title": "උදුපියලිය වලින් අපිට කරන්න පුලුවන් දේවල්  | Benefits we get from Udupiyaliya plant | Herbal Plant",
+                "url": "https://youtube.com/watch?v=if7qj6tqfK4",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/if7qj6tqfK4/hqdefault.jpg"
+            },
+            {
+                "title": "උදුපියළිය වල ඖෂධීය ගුණ | Desmodium Triflorum  | Sakala waga",
+                "url": "https://youtube.com/watch?v=3Z9Uc7pAGQc",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/3Z9Uc7pAGQc/hqdefault.jpg"
+            },
+            {
+                "title": "දෙවි දේවතාවියන් පවා බොහෝ ප්‍රිය කෙරූ | මහා කස්සප මහා රහතන් වහන්සේ 🙏 | Bana 12 March 2026",
+                "url": "https://youtube.com/watch?v=LLhtzq3_LqQ",
+                "duration": "42:42",
+                "thumbnail": "https://i.ytimg.com/vi/LLhtzq3_LqQ/hq720.jpg"
+            },
+            {
+                "title": "මිනිස් සිරුරේ රෝග ගණනකට සුවය ගෙනදෙන ඇහැල | Cassia fistula plant | ehela tree🌿",
+                "url": "https://youtube.com/watch?v=GK4j0XSQQAM",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/GK4j0XSQQAM/hqdefault.jpg"
+            },
+            {
+                "title": "ලොව බලගතුම ඖෂධය සෙම්බුවත්තෙන් | මිනිත්තු 3 යි|Nature Theraphy with  Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=6qaIOyhPB1o",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/6qaIOyhPB1o/hq720.jpg"
+            },
+            {
+                "title": "මල්වතු මහා විහාරයේ 273 වෙනි උපසම්පදා විනය කර්මය ඇරඹෙයි",
+                "url": "https://youtube.com/watch?v=eI029WZ_pxM",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/eI029WZ_pxM/hq720.jpg"
+            },
+            {
+                "title": "මේ පැලයක් ඔබේ නිවසේ නිදන කාමරයේ තියන්න | කරදර නැති වෙලා ඔබේ ජීවිතයම වෙනස් වෙනවා | Plants for House",
+                "url": "https://youtube.com/watch?v=d4XwAz6oRdk",
+                "duration": "15:08",
+                "thumbnail": "https://i.ytimg.com/vi/d4XwAz6oRdk/hq720.jpg"
+            },
+            {
+                "title": "පාරම්පරික වෙදකමේ රුක් අඟුණ වල වටිනාකම | Traditional Medicine: Ruk Aguna",
+                "url": "https://youtube.com/watch?v=MO-eIQkksa0",
+                "duration": "3:56",
+                "thumbnail": "https://i.ytimg.com/vi/MO-eIQkksa0/hq720.jpg"
+            },
+            {
+                "title": "සුදු කෙස් කළු කරන නික - Vitex leucoxylon Herb Uses, Benefits and Cures",
+                "url": "https://youtube.com/watch?v=WU96rJKOYa4",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/WU96rJKOYa4/hq720.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

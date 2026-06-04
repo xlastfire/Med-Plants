@@ -1,121 +1,348 @@
 {
-  "scientificName": "Abelmoschus esculentus (L.) Moench",
-  "synonyms": [
-    "Abelmoschus bammia Webb",
-    "Abelmoschus longifolius (Willd.) Kostel.",
-    "Abelmoschus officinalis (DC.) Endl.",
-    "Abelmoschus praecox (Forssk.) Sickenb.",
-    "Abelmoschus tuberculatus Pal & Singh",
-    "Abelmoschus tuberculatus var. deltoidefolius T.K.Paul & M.P.Nayar",
-    "Hibiscus bammia Tozzetti",
-    "Hibiscus esculentus L.",
-    "Hibiscus esculentus var. praecox (Forssk.) A.Chev.",
-    "Hibiscus esculentus var. textilis A.Chev.",
-    "Hibiscus ficifolius Mill.",
-    "Hibiscus hispidissimus A.Chev.",
-    "Hibiscus longifolius Roxb.",
-    "Hibiscus longifolius Willd.",
-    "Hibiscus praecox Forssk."
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Lady's Finger",
-    "Okra"
-  ],
-  "sinhalaName": "Bandakka (බණ්ඩක්කා)",
-  "description": "වාර්ෂික, ශක්තිමත්, සෘජු පැළෑටියකි, උස මීටර් 0.5-2 කි; කඳ බොහෝ විට කුහර සහිත (fistular) වන අතර දිගු සරල රෝම සහ කෙටි රැලි සහිත රෝම මිශ්‍රව පවතී (hirsute). පත්‍ර සෙන්ටිමීටර 5-25 x 5-30 විෂ්කම්භයකින් යුක්ත වන අතර, අත්ලක හැඩයට පෙති 5-7 කට බෙදී ඇත (palmately 5-7-lobed or -divided), පත්‍ර දාරය කියත් දත් සහිත (serrate) හෝ දන්තමය (crenate) වේ; පත්‍ර වෘන්තය සෙන්ටිමීටර 5-35 ක් දිගය; උප පත්‍ර (stipules) මිලිමීටර 5-10 ක් දිගය. මල් තනිව පිහිටයි; මල් වෘන්තය සෙන්ටිමීටර 0.5-1.5 ක් දිගය; මල් කිරීටය (corolla) කහ හෝ සුදු පැහැති වන අතර මධ්‍යය තද දම් පැහැතිය. පලය සෙන්ටිමීටර 10-25 x 1.5-3 ප්‍රමාණයේ වන අතර, කුටීර 5-9 කින් සමන්විත වේ (5-9 celled), විරල ලෙස රෝම සහිතය. බීජ මිලිමීටර 3-6 ක විෂ්කම්භයකින් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Abelmoschus esculentus (L.) Moench",
+    "synonyms": [
+        "Abelmoschus bammia Webb",
+        "Abelmoschus longifolius (Willd.) Kostel.",
+        "Abelmoschus officinalis (DC.) Endl.",
+        "Abelmoschus praecox (Forssk.) Sickenb.",
+        "Abelmoschus tuberculatus Pal & Singh",
+        "Abelmoschus tuberculatus var. deltoidefolius T.K.Paul & M.P.Nayar",
+        "Hibiscus bammia Tozzetti",
+        "Hibiscus esculentus L.",
+        "Hibiscus esculentus var. praecox (Forssk.) A.Chev.",
+        "Hibiscus esculentus var. textilis A.Chev.",
+        "Hibiscus ficifolius Mill.",
+        "Hibiscus hispidissimus A.Chev.",
+        "Hibiscus longifolius Roxb.",
+        "Hibiscus longifolius Willd.",
+        "Hibiscus praecox Forssk."
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Lady's Finger",
+        "Okra"
+    ],
+    "sinhalaName": "Bandakka (බණ්ඩක්කා)",
+    "description": "වාර්ෂික, ශක්තිමත්, සෘජු පැළෑටියකි, උස මීටර් 0.5-2 කි; කඳ බොහෝ විට කුහර සහිත (fistular) වන අතර දිගු සරල රෝම සහ කෙටි රැලි සහිත රෝම මිශ්‍රව පවතී (hirsute). පත්‍ර සෙන්ටිමීටර 5-25 x 5-30 විෂ්කම්භයකින් යුක්ත වන අතර, අත්ලක හැඩයට පෙති 5-7 කට බෙදී ඇත (palmately 5-7-lobed or -divided), පත්‍ර දාරය කියත් දත් සහිත (serrate) හෝ දන්තමය (crenate) වේ; පත්‍ර වෘන්තය සෙන්ටිමීටර 5-35 ක් දිගය; උප පත්‍ර (stipules) මිලිමීටර 5-10 ක් දිගය. මල් තනිව පිහිටයි; මල් වෘන්තය සෙන්ටිමීටර 0.5-1.5 ක් දිගය; මල් කිරීටය (corolla) කහ හෝ සුදු පැහැති වන අතර මධ්‍යය තද දම් පැහැතිය. පලය සෙන්ටිමීටර 10-25 x 1.5-3 ප්‍රමාණයේ වන අතර, කුටීර 5-9 කින් සමන්විත වේ (5-9 celled), විරල ලෙස රෝම සහිතය. බීජ මිලිමීටර 3-6 ක විෂ්කම්භයකින් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Oral Ulcers",
+            "sinhala": "මුඛ වණ / මුඛයේ හටගන්නා තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds",
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "345",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/GrdTVHJ/plant00778-00345.jpg"
+        },
+        {
+            "image_id": "346",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/chnRVzsR/plant00778-00346.jpg"
+        },
+        {
+            "image_id": "347",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/qwFM4NX/plant00778-00347.jpg"
+        },
+        {
+            "image_id": "3722",
+            "caption": "Flower Bud (PMR)",
+            "url": "https://i.ibb.co/7xX3KVND/plant00778-03722.jpg"
+        },
+        {
+            "image_id": "3723",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/hJ3CHt0c/plant00778-03723.jpg"
+        },
+        {
+            "image_id": "3724",
+            "caption": "Young fruit (PMR)",
+            "url": "https://i.ibb.co/ZRvb0GtM/plant00778-03724.jpg"
+        },
+        {
+            "image_id": "3725",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/whRtsgC4/plant00778-03725.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "බණ්ඩක්කා හිටවන්න කලින් දැන ගන්නම ඕන කරුණු | Growing Okra Plants at Home | Ceylon Agri | Episode 277",
+                "url": "https://youtube.com/watch?v=4v5TrCAwH_Y",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/4v5TrCAwH_Y/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා වල විශ්මිත ගුණ - Amazing properties of okra / Health Vedeo",
+                "url": "https://youtube.com/watch?v=6Ub6hS-RMbw",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/6Ub6hS-RMbw/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ ගොඩකට විසඳුම් දෙන බණ්ඩක්කා | Lady fingers By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=V-6_LxglWqM",
+                "duration": "10:42",
+                "thumbnail": "https://i.ytimg.com/vi/V-6_LxglWqM/hq720.jpg"
+            },
+            {
+                "title": "Amazing Thing Okra Does - බණ්ඩක්කා ඔබේ ශරීරයට කරන දේවල්",
+                "url": "https://youtube.com/watch?v=fgkQlVq9rt0",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/fgkQlVq9rt0/hqdefault.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා වල  ගුණ  පිලිබදව ඔබ දන්නවද",
+                "url": "https://youtube.com/watch?v=0bSZL4wxY_o",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/0bSZL4wxY_o/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා ගුණ / අගුණ",
+                "url": "https://youtube.com/watch?v=qxkxMZqsq2U",
+                "duration": "4:54",
+                "thumbnail": "https://i.ytimg.com/vi/qxkxMZqsq2U/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ අඩංගු බණ්ඩක්කා පානය|Drink Okra Soaked Water & Get Amazing Health benefits|Gami Sirikatha",
+                "url": "https://youtube.com/watch?v=tkHZhoC5Wv0",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/tkHZhoC5Wv0/hqdefault.jpg"
+            },
+            {
+                "title": "බන්ඩක්කා වල ඇති විශ්මිත ගුණ/Amazing properties of okra.",
+                "url": "https://youtube.com/watch?v=VrFYZ1jIseg",
+                "duration": "2:44",
+                "thumbnail": "https://i.ytimg.com/vi/VrFYZ1jIseg/hq720.jpg"
+            },
+            {
+                "title": "රුව වඩන තරුණ කරන glutathion අඩංගු බන්ඩක්කා Okra drink for Skin lightning & tightening",
+                "url": "https://youtube.com/watch?v=S_8Ojiy783U",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/S_8Ojiy783U/hqdefault.jpg"
+            },
+            {
+                "title": "අරුම පුදුම ගති ගුණ ඇති බණ්ඩක්කා | Why we should eat ladies Fingers | Lanka Show | Sinhala",
+                "url": "https://youtube.com/watch?v=PaicEyyHc2g",
+                "duration": "1:27",
+                "thumbnail": "https://i.ytimg.com/vi/PaicEyyHc2g/hqdefault.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ අඩංගු බණ්ඩක්කා පානය|healthy drink",
+                "url": "https://youtube.com/watch?v=cHMfc93Fbw8",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/cHMfc93Fbw8/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා සතු ව්ශ්මිත ගුණ(okra)😱",
+                "url": "https://youtube.com/watch?v=qICTWLjLbRI",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/qICTWLjLbRI/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ 5ක් සනීප කර ගන්න බණ්ඩක්කා මේ විදිහට කන්න.  Okra Health Benefits Sinhala, Bandakka",
+                "url": "https://youtube.com/watch?v=kkDMuUb6P-Q",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/kkDMuUb6P-Q/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා කියන්නේ සුවිශේෂ ඔසුවක්!   මේ විදිහට මාසයක් කෑවොත්, මේ ලෙඩ 5 ම සනීපයි!",
+                "url": "https://youtube.com/watch?v=BeZoYyYcLPA",
+                "duration": "8:57",
+                "thumbnail": "https://i.ytimg.com/vi/BeZoYyYcLPA/hq720.jpg"
+            },
+            {
+                "title": "Bandakka wagawa , බාණ්ඩක්කා වගාව / Bandakka , බණ්ඩක්කා",
+                "url": "https://youtube.com/watch?v=CODcG_U6GHU",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/CODcG_U6GHU/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ හන්දි කාටිලේජ ගැටළු සදහා බණ්ඩක්කා සත්කාරය | Okra remedy for diabetes!",
+                "url": "https://youtube.com/watch?v=_Fw5QEDoOAU",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/_Fw5QEDoOAU/hq720.jpg"
+            },
+            {
+                "title": "රසායනික කාබනික ප්‍රතිකාර #okra",
+                "url": "https://youtube.com/watch?v=lPv7i-gszOw",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/lPv7i-gszOw/hq720.jpg"
+            },
+            {
+                "title": "Bandakka wagawa , බණ්ඩක්කා වගාව",
+                "url": "https://youtube.com/watch?v=S50fQsGODtI",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/S50fQsGODtI/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා කරන පිස්සු හැදෙන දේවල් ටිකක් - Amazing thing Okra does",
+                "url": "https://youtube.com/watch?v=PoymZAlSfLw",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/PoymZAlSfLw/hq720.jpg"
+            },
+            {
+                "title": "මගෙ බන්ඩක්කා වගාව#Ocra#ocra seed",
+                "url": "https://youtube.com/watch?v=2vQVzaga8OY",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/2vQVzaga8OY/hq720.jpg"
+            },
+            {
+                "title": "මෙහෙම කෑවොත් බණ්ඩක්කා [  Bandakka  ] If you eat okra like this,",
+                "url": "https://youtube.com/watch?v=oX9VCIhBTro",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/oX9VCIhBTro/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා වල ඇති විස්මිත ඖෂධීය ගුණ 😱😱",
+                "url": "https://youtube.com/watch?v=K6SuzgnSFQg",
+                "duration": "4:19",
+                "thumbnail": "https://i.ytimg.com/vi/K6SuzgnSFQg/hq720.jpg"
+            },
+            {
+                "title": "Do you know benefits of eating lady fingers?|benefits|health|nutrition|sinhala|Bandakka",
+                "url": "https://youtube.com/watch?v=nweurczMRSM",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/nweurczMRSM/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා අස්වැන්න නිවැරදිව නෙලා ගනිමු",
+                "url": "https://youtube.com/watch?v=5xsFC4YQSSc",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/5xsFC4YQSSc/hq720.jpg"
+            },
+            {
+                "title": "කාබනික ගෙවතු වගවේ ඇත්දල බන්ඩක්කා අද අස්වැන්නToday's harvest of ivory bandakka from organic garden",
+                "url": "https://youtube.com/watch?v=JiZa_5XdYxU",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/JiZa_5XdYxU/hq720.jpg"
+            },
+            {
+                "title": "හරිම විදියට රතු බණ්ඩක්කා වවමු | Red Okra Seeds | Ceylon Agri | Episode 487",
+                "url": "https://youtube.com/watch?v=USR3XoDzLUw",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/USR3XoDzLUw/hq720.jpg"
+            },
+            {
+                "title": "සාර්ථකව බණ්ඩක්ක වගාවක් කරන්න, මෙහෙම කලොත් පළදාව උතුරනව.",
+                "url": "https://youtube.com/watch?v=x2wY6I5eLLI",
+                "duration": "6:23",
+                "thumbnail": "https://i.ytimg.com/vi/x2wY6I5eLLI/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා වවන් කමුද? | Okra home garden",
+                "url": "https://youtube.com/watch?v=7lGDqu8qGXw",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/7lGDqu8qGXw/hq720.jpg"
+            },
+            {
+                "title": "බන්ඩක්කා වගාව සාර්ථක කරගන්න සම්පූර්ණ මාර්ගෝපදේශය | Bandakka Wagava A–Z",
+                "url": "https://youtube.com/watch?v=FDUYs-V1hGY",
+                "duration": "6:27",
+                "thumbnail": "https://i.ytimg.com/vi/FDUYs-V1hGY/hq720.jpg"
+            },
+            {
+                "title": "Secrets of Okra for Boosting Health - Amazing Health Benefits Of Okra |Okra Benefits",
+                "url": "https://youtube.com/watch?v=KP4Zc3FuH7s",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/KP4Zc3FuH7s/hq720.jpg"
+            },
+            {
+                "title": "OKRA...The Superfood That Heals Your Body Inside & Out!  Dr. Mandell",
+                "url": "https://youtube.com/watch?v=sJCGX89f3DY",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/sJCGX89f3DY/hq720.jpg"
+            },
+            {
+                "title": "13 Shocking Okra Benefits Most People Over 45 Never Hear About",
+                "url": "https://youtube.com/watch?v=2p-8hFs4iCM",
+                "duration": "24:20",
+                "thumbnail": "https://i.ytimg.com/vi/2p-8hFs4iCM/hq720.jpg"
+            },
+            {
+                "title": "Dr. Gundry Reveals the Shocking Health Benefits of Okra!",
+                "url": "https://youtube.com/watch?v=WJJo8x9jPvw",
+                "duration": "8:37",
+                "thumbnail": "https://i.ytimg.com/vi/WJJo8x9jPvw/hq720.jpg"
+            },
+            {
+                "title": "Do you know benefits of eating lady fingers?|benefits|health|nutrition|sinhala|Bandakka",
+                "url": "https://youtube.com/watch?v=Apykyf4Q3jY",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/Apykyf4Q3jY/frame0.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ සන්ධි වේදනා නැති කරන බණ්ඩක්කා වතුර සත්කාරය.| Okra water drink that cure diabetes!",
+                "url": "https://youtube.com/watch?v=tKYjpyNJGWI",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/tKYjpyNJGWI/hq720.jpg"
+            },
+            {
+                "title": "ලන්කාවේ දුර්ලබ රතු බන්ඩක්කා  Read Ladies finger, cultivation in Srilanka, okra",
+                "url": "https://youtube.com/watch?v=M7u4uBqNzXg",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/M7u4uBqNzXg/hq720.jpg"
+            },
+            {
+                "title": "බණ්ඩක්කා  කරල් 5 න් දිග කොණ්ඩයක් 😇|Long hair, fair skin from 5 lady finger#health #naturalhaircare",
+                "url": "https://youtube.com/watch?v=GcblZ8l4K5k",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/GcblZ8l4K5k/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Oral Ulcers",
-      "sinhala": "මුඛ වණ / මුඛයේ හටගන්නා තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds",
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "345",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/GrdTVHJ/plant00778-00345.jpg"
-    },
-    {
-      "image_id": "346",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/chnRVzsR/plant00778-00346.jpg"
-    },
-    {
-      "image_id": "347",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/qwFM4NX/plant00778-00347.jpg"
-    },
-    {
-      "image_id": "3722",
-      "caption": "Flower Bud (PMR)",
-      "url": "https://i.ibb.co/7xX3KVND/plant00778-03722.jpg"
-    },
-    {
-      "image_id": "3723",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/hJ3CHt0c/plant00778-03723.jpg"
-    },
-    {
-      "image_id": "3724",
-      "caption": "Young fruit (PMR)",
-      "url": "https://i.ibb.co/ZRvb0GtM/plant00778-03724.jpg"
-    },
-    {
-      "image_id": "3725",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/whRtsgC4/plant00778-03725.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

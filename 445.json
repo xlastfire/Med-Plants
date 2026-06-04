@@ -1,84 +1,593 @@
 {
-  "scientificName": "Drosera indica L.",
-  "synonyms": [
-    "Drosera hexagynia Blanco",
-    "Drosera indica f. albiflora Makino",
-    "Drosera indica var. albiflora (Makino) Makino",
-    "Drosera indica var. makinoi (Masam.) Tamura",
-    "Drosera makinoi Masam.",
-    "Drosera metziana Gand.",
-    "Drosera minor Schumach. & Thonn."
-  ],
-  "familyName": "DROSERACEAE",
-  "englishNames": [
-    "Flycatcher",
-    "Sundew",
-    "Indian Sundew",
-    "Dew Plant"
-  ],
-  "sinhalaName": "Kandulessa (කඳුලැස්ස)",
-  "description": "තන්තුමය මුල් පද්ධතියකින් (fibrous root system) යුත්, සෙන්ටිමීටර 5-10ක් උසැති, කහ-කොළ හෝ තද රතු පැහැති වාර්ෂික පැළෑටියකි. පත්‍ර පටු රේඛීය (narrowly linear) වන අතර සෙන්ටිමීටර 10ක් දක්වා දිගු වේ. පුෂ්ප වෘන්ත (pedicels) සෙන්ටිමීටර 1-1.5ක් දිගු වේ. ලපටි පැළෑටි කෙලින් පිහිටන අතර, වැඩුණු පැළෑටි බිම දිගේ ඇදෙන කඳන් (scrambling stems) සාදයි; එහි අග්‍රස්ථ කොටස් පමණක් කෙලින් පිහිටයි. මල් පෙති සුදු, රෝස හෝ දම් පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Tumors",
-      "sinhala": "ගෙඩි / අර්බුද",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Drosera indica L.",
+    "synonyms": [
+        "Drosera hexagynia Blanco",
+        "Drosera indica f. albiflora Makino",
+        "Drosera indica var. albiflora (Makino) Makino",
+        "Drosera indica var. makinoi (Masam.) Tamura",
+        "Drosera makinoi Masam.",
+        "Drosera metziana Gand.",
+        "Drosera minor Schumach. & Thonn."
+    ],
+    "familyName": "DROSERACEAE",
+    "englishNames": [
+        "Flycatcher",
+        "Sundew",
+        "Indian Sundew",
+        "Dew Plant"
+    ],
+    "sinhalaName": "Kandulessa (කඳුලැස්ස)",
+    "description": "තන්තුමය මුල් පද්ධතියකින් (fibrous root system) යුත්, සෙන්ටිමීටර 5-10ක් උසැති, කහ-කොළ හෝ තද රතු පැහැති වාර්ෂික පැළෑටියකි. පත්‍ර පටු රේඛීය (narrowly linear) වන අතර සෙන්ටිමීටර 10ක් දක්වා දිගු වේ. පුෂ්ප වෘන්ත (pedicels) සෙන්ටිමීටර 1-1.5ක් දිගු වේ. ලපටි පැළෑටි කෙලින් පිහිටන අතර, වැඩුණු පැළෑටි බිම දිගේ ඇදෙන කඳන් (scrambling stems) සාදයි; එහි අග්‍රස්ථ කොටස් පමණක් කෙලින් පිහිටයි. මල් පෙති සුදු, රෝස හෝ දම් පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Tumors",
+            "sinhala": "ගෙඩි / අර්බුද",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Corns and Calluses",
+            "sinhala": "පාදවල හටගන්නා කරඳ / කරපොතු තත්ත්වයන්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Warts",
+            "sinhala": "ඉන්නන්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant"
+    ],
+    "images": [
+        {
+            "image_id": "1462",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/DPqNgMQd/plant00445-01462.jpg"
+        },
+        {
+            "image_id": "1463",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/S41CTf9w/plant00445-01463.jpg"
+        },
+        {
+            "image_id": "1464",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/mrJscXNc/plant00445-01464.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "kadulessa   (Drosera) - කඳුලැස්ස",
+                "url": "https://youtube.com/watch?v=FSyyukhcSz0",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/FSyyukhcSz0/hq720.jpg"
+            },
+            {
+                "title": "Kadulessa plant  2016(කඳුලැස්ස)",
+                "url": "https://youtube.com/watch?v=7d7fPKOXLVs",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/7d7fPKOXLVs/hq720.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "Kadulessa",
+                "url": "https://youtube.com/watch?v=w5xrYl9WQe4",
+                "duration": "1:05",
+                "thumbnail": "https://i.ytimg.com/vi/w5xrYl9WQe4/hqdefault.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "දැනට ලෝකයේ දකින්නට ලැබෙන​ භායානකම මාංශ භක්ෂක ශාක​ 10 | Top 10 most dangerous carnivorous plant",
+                "url": "https://youtube.com/watch?v=dOGTLCBn74w",
+                "duration": "8:07",
+                "thumbnail": "https://i.ytimg.com/vi/dOGTLCBn74w/hq720.jpg"
+            },
+            {
+                "title": "හදවත රකින සූදුරු .  සූදුරු  වල ඇති ආයුර්වේදීය ගුණ .",
+                "url": "https://youtube.com/watch?v=Ty2rR_aZVDY",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ty2rR_aZVDY/hq720.jpg"
+            },
+            {
+                "title": "කාලිගේ අනාවැකිය.. | මුතුගල මහ ඇමති පුටුවට..?  |Dinesh Muthugala | Episode 455",
+                "url": "https://youtube.com/watch?v=2GNiuSoLLl8",
+                "duration": "12:24",
+                "thumbnail": "https://i.ytimg.com/vi/2GNiuSoLLl8/hq720.jpg"
+            },
+            {
+                "title": "👉👉😲😲කලාදුරු ශාකයේ විශ්මිත ගුණ😱😱😱",
+                "url": "https://youtube.com/watch?v=eRtqpeVCgSo",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/eRtqpeVCgSo/hq720.jpg"
+            },
+            {
+                "title": "විද්‍යාත්මකව තාහවුරු කල ශ්‍රී ලාංකික කුරුඳු සතු විශ්මිත ගුන 8 ක්",
+                "url": "https://youtube.com/watch?v=LskI19qCTMY",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/LskI19qCTMY/hqdefault.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ වල ඇති විශ්මිත ගුණ|Mununia pinnata",
+                "url": "https://youtube.com/watch?v=Cl4gwAmBm6Y",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/Cl4gwAmBm6Y/hqdefault.jpg"
+            },
+            {
+                "title": "කුරුඳු වල විශ්මිත ගුණ . Ayurvedic value of cinnamon.",
+                "url": "https://youtube.com/watch?v=HYqpafpiFWE",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/HYqpafpiFWE/hq720.jpg"
+            },
+            {
+                "title": "වේදනා  නැසීමේ ගුණයෙම් හෙබි පහණබෙය කොළරාව හා  ක්ෂය රෝගයට ඉතාමත් ගුණ අක්කපාන",
+                "url": "https://youtube.com/watch?v=SJrkFtSYPes",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/SJrkFtSYPes/hq720.jpg"
+            },
+            {
+                "title": "මේ කොළ වර්ග වලින් කැද හදලා බොනවා නම් ඇස් පෙනීම වැඩි වෙනවා! - කකුල් දෙකට පෑගුණත් ඇති ඒ තරම් ගුණයි",
+                "url": "https://youtube.com/watch?v=nsCwWSuwfyw",
+                "duration": "19:04",
+                "thumbnail": "https://i.ytimg.com/vi/nsCwWSuwfyw/hq720.jpg"
+            },
+            {
+                "title": "කලාඳුරු අලයේ පුදුම ගුණ | වල් පැළයක් කියා ඉවත දැමූ අගනා ඖෂධය! 🌿",
+                "url": "https://youtube.com/watch?v=Qk2ZpZWKXz0",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/Qk2ZpZWKXz0/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ගැන මේ ටික දැන්ගෙන හිටියද ඇතමෙකු පොල් කිරි යොදා ආහාරයක් ලෙසත් සිසිල් බීමක් ලෙසත් පානය කරයි",
+                "url": "https://youtube.com/watch?v=oTaJ-HXxQrA",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/oTaJ-HXxQrA/hq720.jpg"
+            },
+            {
+                "title": "කඩුපහර  ( Emilia sonchifolia) Lilac tassel flower",
+                "url": "https://youtube.com/watch?v=Ff5X9RchgMo",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/Ff5X9RchgMo/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවේ වඳ වෙමින් පවතින ශාක / Endangered plants of srilanka / 3,4,5ශ්‍රේණි පරිසරය / primary අපි",
+                "url": "https://youtube.com/watch?v=p-Oe3wY9scg",
+                "duration": "0:57",
+                "thumbnail": "https://i.ytimg.com/vi/p-Oe3wY9scg/hqdefault.jpg"
+            },
+            {
+                "title": "කබරොස්ස ,කබරස ඔසු වැල හදුනා ගනිමු Episode 04",
+                "url": "https://youtube.com/watch?v=LYO9XRIgB88",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/LYO9XRIgB88/hqdefault.jpg"
+            },
+            {
+                "title": "soba dahame mara ugul 01 | සොබා දහමේ මර උගුල් | මස් කන ගස් | did you know",
+                "url": "https://youtube.com/watch?v=NS6OFMOgbOU",
+                "duration": "6:49",
+                "thumbnail": "https://i.ytimg.com/vi/NS6OFMOgbOU/hq720.jpg"
+            },
+            {
+                "title": "බදුරා මල සතෙක් ගිලින අයුරු",
+                "url": "https://youtube.com/watch?v=-sE_-AFJgqc",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/-sE_-AFJgqc/hqdefault.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත - part 2🙏",
+                "url": "https://youtube.com/watch?v=IdQIkJpM5Ns",
+                "duration": "25:31",
+                "thumbnail": "https://i.ytimg.com/vi/IdQIkJpM5Ns/hq720.jpg"
+            },
+            {
+                "title": "කෙහෙළිය ගෙදර යැව්වත් තවමත් ඉටු නොවූ දෙයක් වෛද්‍ය චමල් මතක් කරයි",
+                "url": "https://youtube.com/watch?v=BauFF14Vo6Y",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/BauFF14Vo6Y/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "ශරීරය ලෙඩ කරන බලවේග මෙන්න හරි විදිහට ශරීරය සුද්ද කර කදබාර දුන්නොත් වරමට එන ආකාරය මෙන්න ,,",
+                "url": "https://youtube.com/watch?v=d3NWmZJa4B4",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/d3NWmZJa4B4/hq720.jpg"
+            },
+            {
+                "title": "ජනතාවට වස කන්න දීල බලා සිටින සෞඛ්‍ය අමාත්‍යාංශය.......",
+                "url": "https://youtube.com/watch?v=IyoJFo-BOuE",
+                "duration": "13:31",
+                "thumbnail": "https://i.ytimg.com/vi/IyoJFo-BOuE/hq720.jpg"
+            },
+            {
+                "title": "කන්සා ශාකය ගැන මේ දේවල් දන්නවාද?   | This plant can save earth",
+                "url": "https://youtube.com/watch?v=Ds_TLqD562U",
+                "duration": "6:26",
+                "thumbnail": "https://i.ytimg.com/vi/Ds_TLqD562U/hq720.jpg"
+            },
+            {
+                "title": "එනසාල් සහ කරාබු නැටි එදිනෙදා රෝගවලට : Cardamom and Cloves for daily issues (NEW) 2019",
+                "url": "https://youtube.com/watch?v=hJGKH0qppPs",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/hJGKH0qppPs/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "පහ වසර ශිෂ්‍යත්වයට /සුලඟේ ප්‍රයෝජන - for grade 5 scholarship",
+                "url": "https://youtube.com/watch?v=JHMqo39M4Sk",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/JHMqo39M4Sk/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය ගුණ සහිත කුප්පමේනියා ගැන දැනගනිමු |kuppameniya| Acalypha Indica",
+                "url": "https://youtube.com/watch?v=fgliz181Bvg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/fgliz181Bvg/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "⛔ලංකාව ලෝකය හොල්ලයි! ලේ වල ඝනකම අඩුකරන සුපිරි පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=R03vVDIhLWs",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/R03vVDIhLWs/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම සුදුළුණු අනුභව කරන අයගේ ශරීරයට සිදුවන පුදුම හිතෙන දේවල් 9ක් - 9 Health Benefits Of Raw Garlic",
+                "url": "https://youtube.com/watch?v=mtDUfuiqaQU",
+                "duration": "11:08",
+                "thumbnail": "https://i.ytimg.com/vi/mtDUfuiqaQU/hq720.jpg"
+            },
+            {
+                "title": "කඩල වල ඇති ගුණයන් ගැන දැනුවත්වෙමු | chickpeas banefits in sinhala #mammypages #chickpeas #health",
+                "url": "https://youtube.com/watch?v=BK7MJlNRQ2w",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/BK7MJlNRQ2w/hq720.jpg"
+            },
+            {
+                "title": "කඩොලාන පරිසරයේ වැදගත්කම/ Importance of Mangroves Sinhala/Lowen Ethera",
+                "url": "https://youtube.com/watch?v=CM5qs2d1XGc",
+                "duration": "2:38",
+                "thumbnail": "https://i.ytimg.com/vi/CM5qs2d1XGc/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වල විශ්මිත ගුණ. Ugurassa fruit.",
+                "url": "https://youtube.com/watch?v=aW2FO176HVU",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/aW2FO176HVU/hq720.jpg"
+            },
+            {
+                "title": "ශාකවලට උදව් කරන සත්තු",
+                "url": "https://youtube.com/watch?v=lco1MuIFsW4",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lco1MuIFsW4/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Kale - 7 Reasons to Eat It | When to Avoid",
+                "url": "https://youtube.com/watch?v=8_hFjbmNsBs",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/8_hFjbmNsBs/hq720.jpg"
+            },
+            {
+                "title": "Calendula!  Health Benefits & Medicinal Uses",
+                "url": "https://youtube.com/watch?v=erouxjdlx-E",
+                "duration": "8:07",
+                "thumbnail": "https://i.ytimg.com/vi/erouxjdlx-E/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "සලාද කන අයට වෙන දේ දැනගමු : Benefits of Lettuce",
+                "url": "https://youtube.com/watch?v=DRuEnL0hYU8",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/DRuEnL0hYU8/hq720.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "කංකුං කෑවොත් මොකද වෙන්නෙ : Water Spinach Benefits",
+                "url": "https://youtube.com/watch?v=RxKSa0l8Fnk",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/RxKSa0l8Fnk/hq720.jpg"
+            },
+            {
+                "title": "Top 7 Surprising Health Benefits of Cactus!",
+                "url": "https://youtube.com/watch?v=8WlF1RVNxFM",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/8WlF1RVNxFM/hq720.jpg"
+            },
+            {
+                "title": "කිරල කන අයට ලැබෙන දේවල් දන්නවා ද : Benefits of Mangrove Apple Juice",
+                "url": "https://youtube.com/watch?v=I2j8bI_GW28",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/I2j8bI_GW28/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Koththamalli (Coriander). Ayurvedic and medicinal value of Coriander.",
+                "url": "https://youtube.com/watch?v=RBZc65_lO5U",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/RBZc65_lO5U/hq720.jpg"
+            },
+            {
+                "title": "රජයේ අනුමත කෝප්ප කොළ කෑවොත් වෙන දේ මෙන්න : Benefits of Croton Leaves",
+                "url": "https://youtube.com/watch?v=sXY5rc_CYSA",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/sXY5rc_CYSA/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට සුවය ගෙනෙන කළුදුරු ගැන දැනගන හිටියද? - #Health #Skin #Hair - Black Seed Benefits",
+                "url": "https://youtube.com/watch?v=gubESj8JCSY",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/gubESj8JCSY/hq720.jpg"
+            },
+            {
+                "title": "Exploring the Surprising Health Benefits of Castor Leaves! 🌿🌟",
+                "url": "https://youtube.com/watch?v=LKcqFdkDITE",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/LKcqFdkDITE/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Chamomile | මෙහි ඇති වටිනා රහස් මොනවද?",
+                "url": "https://youtube.com/watch?v=qqeaLgyt99A",
+                "duration": "14:45",
+                "thumbnail": "https://i.ytimg.com/vi/qqeaLgyt99A/hqdefault.jpg"
+            },
+            {
+                "title": "කටුපිල ශාකයේ ගුණ අගුණ නිවැරදිව දැනගමු | Health benefits of katupila | කටුපිල | Katupila",
+                "url": "https://youtube.com/watch?v=LnoPt_czJkM",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/LnoPt_czJkM/hqdefault.jpg"
+            },
+            {
+                "title": "Why Dandelion is SO Powerful!",
+                "url": "https://youtube.com/watch?v=Sxzqg_BclSE",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/Sxzqg_BclSE/hq720.jpg"
+            },
+            {
+                "title": "AMAZING MEDICINAL BENEFITS OF THE LANTANA CAMARA PLANT (ANANSE DOKONU)",
+                "url": "https://youtube.com/watch?v=rVSxckn8KxE",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/rVSxckn8KxE/hq720.jpg"
+            },
+            {
+                "title": "Kathurumurunga Health Benefits : කතුරුමුරුංගා කෑවොත් මොකද වෙන්නෙ",
+                "url": "https://youtube.com/watch?v=eRo0zHRptYE",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/eRo0zHRptYE/hq720.jpg"
+            },
+            {
+                "title": "කොළකැඳ බොන්න කලින් දැන ගන්න| Kola Kenda - 10 Plants for Herbal Porridge | Part 01",
+                "url": "https://youtube.com/watch?v=rU6NDyBgfGU",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/rU6NDyBgfGU/hq720.jpg"
+            },
+            {
+                "title": "12 Amazing Health Benefits of Bitter Kola You Need to Know",
+                "url": "https://youtube.com/watch?v=CIX5OeewU54",
+                "duration": "9:42",
+                "thumbnail": "https://i.ytimg.com/vi/CIX5OeewU54/hq720.jpg"
+            },
+            {
+                "title": "''කලාඳුරු අල '' ගුණ අගුණ. රෝග රැසකට ගුණදෙන විශ්මිත ඖෂධ.",
+                "url": "https://youtube.com/watch?v=lKIPz0tGmWc",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/lKIPz0tGmWc/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "News Alert  ඇමරිකාවෙන් ලැබුණු නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත් කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=QoxbefYPMS4",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/QoxbefYPMS4/hq720.jpg"
+            },
+            {
+                "title": "විශේෂ හාස්කම් දේවමෙහෙය / SPECIAL HEALING SERVICE 2026.06.04",
+                "url": "https://youtube.com/watch?v=AAAMrPYx1VI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/AAAMrPYx1VI/hq720.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "මානව ප්‍රජනනය | Day 2",
+                "url": "https://youtube.com/watch?v=DDMNjXBOnXs",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/DDMNjXBOnXs/hq720.jpg"
+            },
+            {
+                "title": "Forensic Night | ප්‍රොපේතමය රාත්‍රිය with Prophet Jerome Fernando",
+                "url": "https://youtube.com/watch?v=BzcdJHKC7mU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/BzcdJHKC7mU/hq720.jpg"
+            },
+            {
+                "title": "කජු කනවා නම් මේ දේවල් අනිවාර්යයෙන්ම දැනගන්න | Why You Should Eat Cashews - @behethbydrnamal",
+                "url": "https://youtube.com/watch?v=EXVHczl5JKc",
+                "duration": "6:04",
+                "thumbnail": "https://i.ytimg.com/vi/EXVHczl5JKc/hq720.jpg"
+            },
+            {
+                "title": "#nature මෙම පලතුර අක්ෂි රෝග සුව කිරීමේ ගුණ ඇත.This fruit has healing properties for eye diseases",
+                "url": "https://youtube.com/watch?v=wv4oQ2zggW0",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/wv4oQ2zggW0/hq720_2.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ගුණ. චර්ම රෝග ඇතුලු රෝගාබාධ රැසකට ගුණදෙන ආයුර්වේදීය ඔසු.",
+                "url": "https://youtube.com/watch?v=Uvb_M2tX2Ts",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/Uvb_M2tX2Ts/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල් තියෙන අයට බය නැතුව කන්න පුළුවන් කෑම 10ක් - මේ ආහාර කනකොට රුධිර ධමනි පිරිසිදු වෙනවා!",
+                "url": "https://youtube.com/watch?v=cYxNBwdNLHA",
+                "duration": "14:13",
+                "thumbnail": "https://i.ytimg.com/vi/cYxNBwdNLHA/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැඳවල තිත්ත ඇත්ත? Kola Kanda & Bitter Truth By Nutritionist Hiroshan  Jayaranga",
+                "url": "https://youtube.com/watch?v=l1DagmLR9Zg",
+                "duration": "15:56",
+                "thumbnail": "https://i.ytimg.com/vi/l1DagmLR9Zg/hq720.jpg"
+            },
+            {
+                "title": "හැදුණොත් සීනි ලේසි නෑනි. ඔක්කොටම කළින් වෛද්‍යවරියගේ මේ කතාව බලන්න.",
+                "url": "https://youtube.com/watch?v=Vej58Ed6glI",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/Vej58Ed6glI/hq720.jpg"
+            },
+            {
+                "title": "කලුකැම්මේරිය විශ්මිත ගුණ , රෝග රැසකට එක් ඔසුවක්.",
+                "url": "https://youtube.com/watch?v=CmQImWwL4Hw",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/CmQImWwL4Hw/hq720.jpg"
+            },
+            {
+                "title": "🔴LIVE | අද දෙරණ 6.55 ප්‍රධාන පුවත් විකාශය - 2026.06.04 | Ada Derana Prime Time News Bulletin",
+                "url": "https://youtube.com/watch?v=LLiADooEJxA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/LLiADooEJxA/hq720.jpg"
+            },
+            {
+                "title": "පෙනහළු වලට හිතකර කෑම Best Foods for Your Lungs #healthyliving #food #ayurveda#srilanka #curryleaves",
+                "url": "https://youtube.com/watch?v=K9PJcg_AZ70",
+                "duration": "0:33",
+                "thumbnail": "https://i.ytimg.com/vi/K9PJcg_AZ70/hqdefault.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "උගුඩු කවිය ♥️🍃 ලංකාවට ආවේණික, උගුඩු හල් 🔴 Symplocos coronata Thwaites",
+                "url": "https://youtube.com/watch?v=ZD9oYpnF8Gc",
+                "duration": "0:39",
+                "thumbnail": "https://i.ytimg.com/vi/ZD9oYpnF8Gc/hq720_2.jpg"
+            },
+            {
+                "title": "ශාක වලින් අපට ලැබෙන ප්‍රයෝජන @SmartKidllh",
+                "url": "https://youtube.com/watch?v=1N7t1L3Hwhw",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/1N7t1L3Hwhw/hqdefault.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන - Benefits of Water",
+                "url": "https://youtube.com/watch?v=kt5Lgg90GcA",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/kt5Lgg90GcA/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Corns and Calluses",
-      "sinhala": "පාදවල හටගන්නා කරඳ / කරපොතු තත්ත්වයන්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Warts",
-      "sinhala": "ඉන්නන්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant"
-  ],
-  "images": [
-    {
-      "image_id": "1462",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/DPqNgMQd/plant00445-01462.jpg"
-    },
-    {
-      "image_id": "1463",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/S41CTf9w/plant00445-01463.jpg"
-    },
-    {
-      "image_id": "1464",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/mrJscXNc/plant00445-01464.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

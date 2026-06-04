@@ -1,139 +1,324 @@
 {
-  "scientificName": "Breynia androgyna (L.) Chakrab. & N.P.Balakr.",
-  "synonyms": [
-    "Aalius androgyna (L.) Kuntze",
-    "Aalius oblongifolia (Hook.f.) Kuntze",
-    "Aalius retroversa (Wight) Kuntze",
-    "Aalius sumatrana (Miq.) Kuntze",
-    "Agyneia ovata Poir.",
-    "Andrachne ovata Lam. ex Poir.",
-    "Breynia retroversa (Wight) Chakrab. & N.P.Balakr.",
-    "Clutia androgyna L.",
-    "Phyllanthus acidissimus Noronha",
-    "Phyllanthus androgynus (L.) Chakrab. & N.P.Balakr.",
-    "Phyllanthus retroversus (Wight) Chakrab. & N.P.Balakr.",
-    "Phyllanthus speciosus Noronha",
-    "Phyllanthus strictus Roxb.",
-    "Sauropus albicans Blume",
-    "Sauropus albicans var. gardnerianus (Wight) Müll.Arg.",
-    "Sauropus albicans var. genuinus Müll.Arg.",
-    "Sauropus albicans var. intermedius Müll.Arg.",
-    "Sauropus albicans var. zeylanicus (Wight) Müll.Arg.",
-    "Sauropus androgynus (L.) Merr.",
-    "Sauropus convexus J.J.Sm.",
-    "Sauropus gardnerianus Wight",
-    "Sauropus indicus Wight",
-    "Sauropus macranthus Fern.-Vill.",
-    "Sauropus oblongifolius Hook.f.",
-    "Sauropus parviflorus Pax & K.Hoffm.",
-    "Sauropus retroversus Wight",
-    "Sauropus scandens C.B.Rob.",
-    "Sauropus sumatranus Miq.",
-    "Sauropus zeylanicus Wight"
-  ],
-  "familyName": "PHYLLANTHACEAE",
-  "englishNames": [
-    "Sweet Leaf Bush",
-    "Star Gooseberry"
-  ],
-  "sinhalaName": "Japan batu (ජපන් බටු)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Breynia androgyna (L.) Chakrab. & N.P.Balakr.",
+    "synonyms": [
+        "Aalius androgyna (L.) Kuntze",
+        "Aalius oblongifolia (Hook.f.) Kuntze",
+        "Aalius retroversa (Wight) Kuntze",
+        "Aalius sumatrana (Miq.) Kuntze",
+        "Agyneia ovata Poir.",
+        "Andrachne ovata Lam. ex Poir.",
+        "Breynia retroversa (Wight) Chakrab. & N.P.Balakr.",
+        "Clutia androgyna L.",
+        "Phyllanthus acidissimus Noronha",
+        "Phyllanthus androgynus (L.) Chakrab. & N.P.Balakr.",
+        "Phyllanthus retroversus (Wight) Chakrab. & N.P.Balakr.",
+        "Phyllanthus speciosus Noronha",
+        "Phyllanthus strictus Roxb.",
+        "Sauropus albicans Blume",
+        "Sauropus albicans var. gardnerianus (Wight) Müll.Arg.",
+        "Sauropus albicans var. genuinus Müll.Arg.",
+        "Sauropus albicans var. intermedius Müll.Arg.",
+        "Sauropus albicans var. zeylanicus (Wight) Müll.Arg.",
+        "Sauropus androgynus (L.) Merr.",
+        "Sauropus convexus J.J.Sm.",
+        "Sauropus gardnerianus Wight",
+        "Sauropus indicus Wight",
+        "Sauropus macranthus Fern.-Vill.",
+        "Sauropus oblongifolius Hook.f.",
+        "Sauropus parviflorus Pax & K.Hoffm.",
+        "Sauropus retroversus Wight",
+        "Sauropus scandens C.B.Rob.",
+        "Sauropus sumatranus Miq.",
+        "Sauropus zeylanicus Wight"
+    ],
+    "familyName": "PHYLLANTHACEAE",
+    "englishNames": [
+        "Sweet Leaf Bush",
+        "Star Gooseberry"
+    ],
+    "sinhalaName": "Japan batu (ජපන් බටු)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Disorders",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Uterine Disorders",
+            "sinhala": "ගර්භාෂයේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Common Cold",
+            "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "1560",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/ZCQ67qB/plant00542-01560.jpg"
+        },
+        {
+            "image_id": "894",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/fYg33MbP/plant00542-00894.jpg"
+        },
+        {
+            "image_id": "1561",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/DPJfPT1p/plant00542-01561.jpg"
+        },
+        {
+            "image_id": "1562",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/GfLsWwqd/plant00542-01562.jpg"
+        },
+        {
+            "image_id": "3621",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/VYpF37Wq/plant00542-03621.jpg"
+        },
+        {
+            "image_id": "3622",
+            "caption": "Seeds (PMR)",
+            "url": "https://i.ibb.co/XwcRVt5/plant00542-03622.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ජපන් බටු පෝෂණ ගබඩාවක්ද? නැතිනම් මාරාන්තික අනතුරක්ද? 🌿",
+                "url": "https://youtube.com/watch?v=eWHlkehp63Q",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/eWHlkehp63Q/hq720.jpg"
+            },
+            {
+                "title": "නිවසක වගා කළ යුතු ඉතාම ගුණදායක ජපන් බටු",
+                "url": "https://youtube.com/watch?v=llYfYgk_XHk",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/llYfYgk_XHk/hqdefault.jpg"
+            },
+            {
+                "title": "ගසක වරුණ 08 ජපන් බටු (Sauropus androgynus) ඇස් පෙනීම වඩවන,හතලිස් ඇදිරිය පමා කරන,විටමින් A බහුල ශාකය",
+                "url": "https://youtube.com/watch?v=Dr2ypojKNB4",
+                "duration": "12:06",
+                "thumbnail": "https://i.ytimg.com/vi/Dr2ypojKNB4/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "🔴🌿සිංගප්පූරු කොළ කෑවොත් වෙන දේ|පුදුම හිතෙන සිංගප්පූරු කොල| ජපන් බටු කොළ#health#Japan batu#ayurveda",
+                "url": "https://youtube.com/watch?v=lgtyEGBNHrY",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/lgtyEGBNHrY/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු මාලුව|Japan Batu Curry|Sauropus Androgynus Fruit|Rasa Resa|#japanbatu#villagefood#srilanka",
+                "url": "https://youtube.com/watch?v=PS14W_gscz8",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/PS14W_gscz8/hqdefault.jpg"
+            },
+            {
+                "title": "ජපන් බටු කරිය/ හින්දුම 🍲🥘 Japan batu curry #villagefood #cooking #madu #healthyfood #healthyrecipes",
+                "url": "https://youtube.com/watch?v=S4HnXRpAkzg",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/S4HnXRpAkzg/hqdefault.jpg"
+            },
+            {
+                "title": "🇱🇰 නීරෝගීව ඉන්න දෙවියන් ලබා දුන් මිහිරි රසැති  කොළ මැල්ලුම Miracle of Sauropus Androgynus by Kusala",
+                "url": "https://youtube.com/watch?v=eb_kziGe_y4",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/eb_kziGe_y4/hq720.jpg"
+            },
+            {
+                "title": "@GAMIRASA ජපන් බටු හෙවත් සිංගප්පුරු ගෙඩි බැදුම Japanese brinjal or Singaporean nuts fried",
+                "url": "https://youtube.com/watch?v=8vnAeQNGLzk",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/8vnAeQNGLzk/hq720.jpg"
+            },
+            {
+                "title": "ජපන්බටු කොල මැල්ලුම|සිංගප්පූරු කොල|ආඪි බටු|JapanBatu Kola Malluma|@Rasaresa8259",
+                "url": "https://youtube.com/watch?v=bT6Y6mR4OS8",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/bT6Y6mR4OS8/hqdefault.jpg"
+            },
+            {
+                "title": "ගෑවුණු තැන කන්න පුළුවන්  ජපන් බටු කොළ සම්බෝලය ( ආඬිබටු )  | How To Make Sauropus Androgynus Leaves.",
+                "url": "https://youtube.com/watch?v=PBWExLWhK_w",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/PBWExLWhK_w/hq720.jpg"
+            },
+            {
+                "title": "Sauropus androgynus : ජපන් බටු හෙවත් සිංගප්පූරු කොළ ඇත්තටම පිළිකාකාරක ද",
+                "url": "https://youtube.com/watch?v=lzJ4UrN2iJI",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/lzJ4UrN2iJI/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු පෝෂණ ගබඩාවක්ද? නැතිනම් මාරාන්තික අනතුරක්ද? 🌿",
+                "url": "https://youtube.com/watch?v=VyzYAfe1Ngc",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/VyzYAfe1Ngc/frame0.jpg"
+            },
+            {
+                "title": "ජපන් බටු(Japan Batu)/Sweet Leaf Bush/Sauropus androgynus",
+                "url": "https://youtube.com/watch?v=7PPrG_yNZ2s",
+                "duration": "10:34",
+                "thumbnail": "https://i.ytimg.com/vi/7PPrG_yNZ2s/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=N5IilB2cimU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/N5IilB2cimU/frame0.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළයේ විශ්මිත ගුණ..",
+                "url": "https://youtube.com/watch?v=GElfsYVW6Mc",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/GElfsYVW6Mc/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට ගුණ දෙන ජපන් බටු වල රහස මෙන්න | The secret that cures many diseases | sl anam manam",
+                "url": "https://youtube.com/watch?v=dR42NrlbFQ0",
+                "duration": "7:16",
+                "thumbnail": "https://i.ytimg.com/vi/dR42NrlbFQ0/hqdefault.jpg"
+            },
+            {
+                "title": "අක්ෂි රෝග සඳහා ❤️❤️❤️ විශේෂ ගුණ ඇති ජපන් බටු කොළ  #gardenplants #ayurveda",
+                "url": "https://youtube.com/watch?v=Fb8ai6bTU3g",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/Fb8ai6bTU3g/hqdefault.jpg"
+            },
+            {
+                "title": "ජපන් බටු වල ඇති ඖෂධීය ගුණ 😱😱",
+                "url": "https://youtube.com/watch?v=Dc6s8paKe14",
+                "duration": "5:14",
+                "thumbnail": "https://i.ytimg.com/vi/Dc6s8paKe14/hq720.jpg"
+            },
+            {
+                "title": "රසයෙන් ගුණයෙන් පිරි ජපන් බටු / japan batu | sauropus androgynus | multi green | hela osu samaga ama",
+                "url": "https://youtube.com/watch?v=SSEECgwV2ls",
+                "duration": "6:23",
+                "thumbnail": "https://i.ytimg.com/vi/SSEECgwV2ls/hqdefault.jpg"
+            },
+            {
+                "title": "පුදුම හිතෙන සිංගප්පූරු කොල singappuru kola,japan batu,mellum,vitamin,food,",
+                "url": "https://youtube.com/watch?v=AiC01cFbgRg",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/AiC01cFbgRg/hq720.jpg"
+            },
+            {
+                "title": "#JapanBatu #Villagefood #ආඬිබටු #SpicyTouch   Sauropus androgynus fruit curry  ජපන් බටු ගෙඩි හින්දුම",
+                "url": "https://youtube.com/watch?v=NvqwEWIrJnE",
+                "duration": "5:44",
+                "thumbnail": "https://i.ytimg.com/vi/NvqwEWIrJnE/hq720.jpg"
+            },
+            {
+                "title": "හතලිස් ඇඳිරිය පමාකරන මල්ටි විටමින් ශාකය sauropus androgynus plant singappuru kola/japan batu",
+                "url": "https://youtube.com/watch?v=ZrexTV2UDRk",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/ZrexTV2UDRk/hq720.jpg"
+            },
+            {
+                "title": "Sauropus androgynous / japan batu kola melluma / Aadi kola melluma by Small Kitchen recipe",
+                "url": "https://youtube.com/watch?v=hbT5GUj7xBk",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/hbT5GUj7xBk/hq720.jpg"
+            },
+            {
+                "title": "Sri Lanka health/සිංගප්පුර් කොළ වල ඔබ නොදත් දේ/ජපන් බටු/GAMISUWADA/VILLAGE MOTHER",
+                "url": "https://youtube.com/watch?v=oHn4TTIal8I",
+                "duration": "6:44",
+                "thumbnail": "https://i.ytimg.com/vi/oHn4TTIal8I/hqdefault.jpg"
+            },
+            {
+                "title": "Multivitamin Plant Curry  | සිංගප්පූරු ගෙඩි වෑංජන | ජපන් බටු වෑංජන | ආඩි බටු වෑංජන",
+                "url": "https://youtube.com/watch?v=EL_Mi2Couxs",
+                "duration": "8:44",
+                "thumbnail": "https://i.ytimg.com/vi/EL_Mi2Couxs/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රාශියක් තියෙන සිංගප්පූරු කොළ හෙවත් ජපන් බටු කොළ මැල්ලුම",
+                "url": "https://youtube.com/watch?v=03ELGMJ_UZU",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/03ELGMJ_UZU/hqdefault.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=vkInW5n4uxg",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/vkInW5n4uxg/frame0.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=0pwAJRwRUfc",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/0pwAJRwRUfc/frame0.jpg"
+            },
+            {
+                "title": "[Sri Lanka Wildflowers]#열대식물#Katuk#Sweet Leaf#Japan Batu(ජපන් බටු)#Thavasi Keerai (தவசிக்கீரை)",
+                "url": "https://youtube.com/watch?v=GU0ula9ieAc",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/GU0ula9ieAc/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Urinary Tract Disorders",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Uterine Disorders",
-      "sinhala": "ගර්භාෂයේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Common Cold",
-      "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "1560",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/ZCQ67qB/plant00542-01560.jpg"
-    },
-    {
-      "image_id": "894",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/fYg33MbP/plant00542-00894.jpg"
-    },
-    {
-      "image_id": "1561",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/DPJfPT1p/plant00542-01561.jpg"
-    },
-    {
-      "image_id": "1562",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/GfLsWwqd/plant00542-01562.jpg"
-    },
-    {
-      "image_id": "3621",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/VYpF37Wq/plant00542-03621.jpg"
-    },
-    {
-      "image_id": "3622",
-      "caption": "Seeds (PMR)",
-      "url": "https://i.ibb.co/XwcRVt5/plant00542-03622.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

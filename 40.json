@@ -1,79 +1,162 @@
 {
-  "scientificName": "Alternanthera bettzickiana (Regel) G.Nicholson",
-  "synonyms": [
-    "Achyranthes amabilis Britton",
-    "Achyranthes bettzickiana (Regel) Standl.",
-    "Achyranthes cyclophylla (Seub.) Standl.",
-    "Achyranthes picta Pass.",
-    "Alternanthera amabilis Lem.",
-    "Alternanthera amabilis var. tricolor Linden & André",
-    "Alternanthera amoena (Lem.) Hovey",
-    "Alternanthera amoena f. amabilis (Lem.) Voss",
-    "Alternanthera amoena f. reinhardii Voss",
-    "Alternanthera amoena f. rosea Voss",
-    "Alternanthera amoena f. sessilis Voss",
-    "Alternanthera amoena f. spectabilis (E.C.Hend.) Voss",
-    "Alternanthera amoena f. typica Voss",
-    "Alternanthera amoena var. spectabilis E.C.Hend.",
-    "Alternanthera articulata f. capitellata O.Stützer",
-    "Alternanthera articulata f. capitulifera O.Stützer",
-    "Alternanthera articulata O.Stützer",
-    "Alternanthera articulata var. minuta O.Stützer",
-    "Alternanthera bettzickiana f. aurea Voss",
-    "Alternanthera bettzickiana f. kurzii Voss",
-    "Alternanthera bettzickiana f. spathulata (Lem.) Voss",
-    "Alternanthera bettzickiana f. typica Voss",
-    "Alternanthera bettzickiana var. spathulata (Lem.) Seub.",
-    "Alternanthera brasiliensis Voss",
-    "Alternanthera coerilis Voss",
-    "Alternanthera cyclophylla (Seub.) Schinz",
-    "Alternanthera ficoidea var. amoena (Lem.) L.B.Sm. & Downs",
-    "Alternanthera ficoidea var. bettzickiana (Regel) Backer",
-    "Alternanthera ficoidea var. spathulata (Lem.) L.B.Sm. & Downs",
-    "Alternanthera kerberi Uline & W.L.Bray",
-    "Alternanthera latifolia Hovey",
-    "Alternanthera latifolia magnifica Hovey",
-    "Alternanthera nagnifica Hovey",
-    "Alternanthera paronychioides Klotzsch ex K.Koch",
-    "Alternanthera paronychioides var. bettzickiana (Regel) Fosberg",
-    "Alternanthera purpurea Pynaert",
-    "Alternanthera reinhardii Voss",
-    "Alternanthera rosea Voss",
-    "Alternanthera sessilis var. amoena Lem.",
-    "Alternanthera spathulata Lem.",
-    "Alternanthera tenella var. bettzickiana (Regel) Veldkamp",
-    "Alternanthera variegata K.Koch",
-    "Alternanthera versicolor f. aurea Voss",
-    "Amarantesia brasiliensis Regel",
-    "Jeilium tricolor Regel",
-    "Telanthera amoena (Lem.) Regel",
-    "Telanthera amoena var. amabilis (Lem.) Regel",
-    "Telanthera bettzickiana Regel",
-    "Telanthera bettzickiana var. spathulata (Lem.) Regel",
-    "Telanthera cyclophylla Seub.",
-    "Telanthera picta K.Koch"
-  ],
-  "familyName": "AMARANTHACEAE",
-  "englishNames": [
-    "Calico Plant"
-  ],
-  "sinhalaName": "Mal mukunuwenna (මල් මුකුණුවැන්න)",
-  "description": "සෘජු හෝ ඉහළට නැඹුරු වූ, පඳුරු සහිත බහු වාර්ෂික පැළෑටියක් වන අතර එය සාමාන්‍යයෙන් වාර්ෂික ශාකයක් ලෙස වගා කෙරේ. පත්‍ර පටු හෝ පුළුල් ඉලිප්සාකාර (elliptic) සිට ලාන්සාකාර (oblanceolate) හෝ රොම්බොයිඩ-ඕවයිඩ් (rhomboid-ovate) හැඩයක් ගනී, අග්‍රය තියුණු (acute) හෝ උල් වූ (acuminate) වන අතර පහළින් පැහැදිලිව වෙන් නොවන පත්‍ර වෘන්තයක් (petiole) දක්වා දිගු වී පටු වේ. පුෂ්ප මංජරි (heads) පත්‍ර කක්ෂීය (axillary), වෘන්ත රහිත (sessile), සාමාන්‍යයෙන් තනිව පිහිටන, ගෝලාකාර (globose) හෝ ඕවයිඩ් (ovoid) හැඩැති වේ. ව්‍යාජ රේණු (pseudo-staminodes) රේණු තන්තු (filaments) තරම් දිගු වන අතර අග්‍රය දාර සහිත (laciniate) වේ.",
-  "treatments": [
-    {
-      "treatment": "Herpes",
-      "sinhala": "හර්පීස් (විසර්ප දද වර්ගයක්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves"
-  ],
-  "images": [],
-  "special": []
+    "scientificName": "Alternanthera bettzickiana (Regel) G.Nicholson",
+    "synonyms": [
+        "Achyranthes amabilis Britton",
+        "Achyranthes bettzickiana (Regel) Standl.",
+        "Achyranthes cyclophylla (Seub.) Standl.",
+        "Achyranthes picta Pass.",
+        "Alternanthera amabilis Lem.",
+        "Alternanthera amabilis var. tricolor Linden & André",
+        "Alternanthera amoena (Lem.) Hovey",
+        "Alternanthera amoena f. amabilis (Lem.) Voss",
+        "Alternanthera amoena f. reinhardii Voss",
+        "Alternanthera amoena f. rosea Voss",
+        "Alternanthera amoena f. sessilis Voss",
+        "Alternanthera amoena f. spectabilis (E.C.Hend.) Voss",
+        "Alternanthera amoena f. typica Voss",
+        "Alternanthera amoena var. spectabilis E.C.Hend.",
+        "Alternanthera articulata f. capitellata O.Stützer",
+        "Alternanthera articulata f. capitulifera O.Stützer",
+        "Alternanthera articulata O.Stützer",
+        "Alternanthera articulata var. minuta O.Stützer",
+        "Alternanthera bettzickiana f. aurea Voss",
+        "Alternanthera bettzickiana f. kurzii Voss",
+        "Alternanthera bettzickiana f. spathulata (Lem.) Voss",
+        "Alternanthera bettzickiana f. typica Voss",
+        "Alternanthera bettzickiana var. spathulata (Lem.) Seub.",
+        "Alternanthera brasiliensis Voss",
+        "Alternanthera coerilis Voss",
+        "Alternanthera cyclophylla (Seub.) Schinz",
+        "Alternanthera ficoidea var. amoena (Lem.) L.B.Sm. & Downs",
+        "Alternanthera ficoidea var. bettzickiana (Regel) Backer",
+        "Alternanthera ficoidea var. spathulata (Lem.) L.B.Sm. & Downs",
+        "Alternanthera kerberi Uline & W.L.Bray",
+        "Alternanthera latifolia Hovey",
+        "Alternanthera latifolia magnifica Hovey",
+        "Alternanthera nagnifica Hovey",
+        "Alternanthera paronychioides Klotzsch ex K.Koch",
+        "Alternanthera paronychioides var. bettzickiana (Regel) Fosberg",
+        "Alternanthera purpurea Pynaert",
+        "Alternanthera reinhardii Voss",
+        "Alternanthera rosea Voss",
+        "Alternanthera sessilis var. amoena Lem.",
+        "Alternanthera spathulata Lem.",
+        "Alternanthera tenella var. bettzickiana (Regel) Veldkamp",
+        "Alternanthera variegata K.Koch",
+        "Alternanthera versicolor f. aurea Voss",
+        "Amarantesia brasiliensis Regel",
+        "Jeilium tricolor Regel",
+        "Telanthera amoena (Lem.) Regel",
+        "Telanthera amoena var. amabilis (Lem.) Regel",
+        "Telanthera bettzickiana Regel",
+        "Telanthera bettzickiana var. spathulata (Lem.) Regel",
+        "Telanthera cyclophylla Seub.",
+        "Telanthera picta K.Koch"
+    ],
+    "familyName": "AMARANTHACEAE",
+    "englishNames": [
+        "Calico Plant"
+    ],
+    "sinhalaName": "Mal mukunuwenna (මල් මුකුණුවැන්න)",
+    "description": "සෘජු හෝ ඉහළට නැඹුරු වූ, පඳුරු සහිත බහු වාර්ෂික පැළෑටියක් වන අතර එය සාමාන්‍යයෙන් වාර්ෂික ශාකයක් ලෙස වගා කෙරේ. පත්‍ර පටු හෝ පුළුල් ඉලිප්සාකාර (elliptic) සිට ලාන්සාකාර (oblanceolate) හෝ රොම්බොයිඩ-ඕවයිඩ් (rhomboid-ovate) හැඩයක් ගනී, අග්‍රය තියුණු (acute) හෝ උල් වූ (acuminate) වන අතර පහළින් පැහැදිලිව වෙන් නොවන පත්‍ර වෘන්තයක් (petiole) දක්වා දිගු වී පටු වේ. පුෂ්ප මංජරි (heads) පත්‍ර කක්ෂීය (axillary), වෘන්ත රහිත (sessile), සාමාන්‍යයෙන් තනිව පිහිටන, ගෝලාකාර (globose) හෝ ඕවයිඩ් (ovoid) හැඩැති වේ. ව්‍යාජ රේණු (pseudo-staminodes) රේණු තන්තු (filaments) තරම් දිගු වන අතර අග්‍රය දාර සහිත (laciniate) වේ.",
+    "treatments": [
+        {
+            "treatment": "Herpes",
+            "sinhala": "හර්පීස් (විසර්ප දද වර්ගයක්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඇලිගේටර් ශාකය හා මුකුණුවැන්න ශාකය අතර වෙනස | Difference between Alligator and Mukunuwenna",
+                "url": "https://youtube.com/watch?v=hp_t5-u9R7Q",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/hp_t5-u9R7Q/hq720.jpg"
+            },
+            {
+                "title": "34 🌿 ආයෙනම් මුකුණුවැකන්න කියල කිබුල්වැන්නට ඔයා රැවටෙන එකක් නෑ gamiya Mukunuwenna wagawa",
+                "url": "https://youtube.com/watch?v=4b3fROPJeg8",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/4b3fROPJeg8/hq720.jpg"
+            },
+            {
+                "title": "alligator weed good and bad | මුකුණුවැන්න සහ කිබුල්වැන්න | mukunuwanna | kibulwanna | pettagama",
+                "url": "https://youtube.com/watch?v=Fy7M5_Z7hck",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/Fy7M5_Z7hck/hq720.jpg"
+            },
+            {
+                "title": "දැඩි නියං කාලයකට සාර්ථක ලෙස මුහුණ දුන් මුකුණුවැන්න අළුතින් අස්වැන්න දෙනවා",
+                "url": "https://youtube.com/watch?v=szAdwLbxLmI",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/szAdwLbxLmI/hqdefault.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න කනවා නම් මේවාත් දැනගෙන ඉන්න : Mukunuwenna Benefits",
+                "url": "https://youtube.com/watch?v=iHP60R9f_M0",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/iHP60R9f_M0/hq720.jpg"
+            },
+            {
+                "title": "ඇලිගේටර් ශාකය හා මුකුණුවැන්න ශාකය අතර වෙනස | Difference between Alligator and Mukunuwenna",
+                "url": "https://youtube.com/watch?v=BycyJ0vKbGo",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/BycyJ0vKbGo/frame0.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න වල විශ්මිත ගුණ - Amazing properties of Mukunuwenna",
+                "url": "https://youtube.com/watch?v=F6lFnOJQnYE",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/F6lFnOJQnYE/hq720.jpg"
+            },
+            {
+                "title": "ඇලිගේටර් ශාකය හා මුකුණුවැන්න ශාකය අතර වෙනස | Difference between Alligator and Mukunuwenna",
+                "url": "https://youtube.com/watch?v=3Vp1h1sUB-g",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/3Vp1h1sUB-g/frame0.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න  මෙහෙම කපනව දැකල තියෙනවද Alternanthera sessilis Cultivation",
+                "url": "https://youtube.com/watch?v=qdGORoiOnVs",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/qdGORoiOnVs/hq720.jpg"
+            },
+            {
+                "title": "කඩෙන් ගේන වස මුකුණුවැන්න වෙනුවට ගෙදර  ඖෂධීය පලා වවමු",
+                "url": "https://youtube.com/watch?v=KJqSVSRxUjI",
+                "duration": "9:18",
+                "thumbnail": "https://i.ytimg.com/vi/KJqSVSRxUjI/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න බදුනක වගාකරමු  Let's cultivate Mukunuwenna in a pot,ගෙවතු වගාව ,gewathu wagawa ,",
+                "url": "https://youtube.com/watch?v=Z9aeJM7vLM8",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/Z9aeJM7vLM8/hq720.jpg"
+            },
+            {
+                "title": "mukunuwenna  Home Gardening මුකුණුවැන්න ගෙවතු වගාව Herb cultivation Organic Home Gardening Sri Lanka",
+                "url": "https://youtube.com/watch?v=lHqT48SWM7U",
+                "duration": "5:23",
+                "thumbnail": "https://i.ytimg.com/vi/lHqT48SWM7U/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න වගාව,mukunuwenna wagawa",
+                "url": "https://youtube.com/watch?v=S4PDhXQYaT0",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/S4PDhXQYaT0/hqdefault.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

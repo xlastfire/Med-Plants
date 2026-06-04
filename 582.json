@@ -1,159 +1,284 @@
 {
-  "scientificName": "Cajanus cajan (L.) Huth",
-  "synonyms": [
-    "Cajanum thora Raf.",
-    "Cajanus bicolor DC.",
-    "Cajanus cajan f. bicolor (DC.) Baker f.",
-    "Cajanus cajan var. bicolor (DC.) Purseglove",
-    "Cajanus cajan var. flavus (DC.) Purseglove",
-    "Cajanus flavus DC.",
-    "Cajanus indicus Spreng.",
-    "Cajanus indicus var. bicolor (DC.) Kuntze",
-    "Cajanus indicus var. flavus Kuntze",
-    "Cajanus indicus var. maculatus Kuntze",
-    "Cajanus inodorus Medik.",
-    "Cajanus luteus Bello",
-    "Cajanus obcordifolia D.N.Singh",
-    "Cajanus pseudocajan (Jacq.) Schinz & Guillaumin",
-    "Cajanus striatus Bojer",
-    "Cytisus cajan L.",
-    "Cytisus guineensis Schumach. & Thonn.",
-    "Cytisus mollis Salisb.",
-    "Cytisus pseudocajan Jacq."
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Red Gram",
-    "Chick Pea",
-    "Dhal",
-    "Red Gram",
-    "Pigeon Pea"
-  ],
-  "sinhalaName": "Tora parippu (තෝරපරිප්පු)",
-  "description": "මීටර් 1.5ක් පමණ උසැති පඳුරකි. පත්‍රිකා ලාන්සාකාර (lanceolate) හෝ පටු ඉලිප්සාකාර (narrowly elliptic) වේ, උඩ සහ යට පෘෂ්ඨයන්හි රෝම සහිත (pubescent) වේ, විශාලතම පත්‍රිකා සෙ.මී. 7.5 - 8 x 2.8 - 3.5 ප්‍රමාණයෙන් යුක්ත වන අතර අග්‍රය උල් (acute) වේ, පාදම ද එලෙසම වේ. පුෂ්ප මංජරිය තනි පුෂ්ප දණ්ඩකින් (peduncle) යුතුව පත්‍ර කක්ෂයෙන් හටගනී, එය පුෂ්ප වෘන්ත (pedicels) 1 - 2කින් අවසන් වේ, මල් කහ-කොළ පැහැතිය. ඵලය කෙලින් සහ පැතලි (compressed) ස්වභාවයක් ගනී, බීජ (1 -) 5ක් දරයි. බීජ පැතලි (compressed) වන අතර විවිධ වර්ණයන්ගෙන් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Pulmonary Disorders",
-      "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Cajanus cajan (L.) Huth",
+    "synonyms": [
+        "Cajanum thora Raf.",
+        "Cajanus bicolor DC.",
+        "Cajanus cajan f. bicolor (DC.) Baker f.",
+        "Cajanus cajan var. bicolor (DC.) Purseglove",
+        "Cajanus cajan var. flavus (DC.) Purseglove",
+        "Cajanus flavus DC.",
+        "Cajanus indicus Spreng.",
+        "Cajanus indicus var. bicolor (DC.) Kuntze",
+        "Cajanus indicus var. flavus Kuntze",
+        "Cajanus indicus var. maculatus Kuntze",
+        "Cajanus inodorus Medik.",
+        "Cajanus luteus Bello",
+        "Cajanus obcordifolia D.N.Singh",
+        "Cajanus pseudocajan (Jacq.) Schinz & Guillaumin",
+        "Cajanus striatus Bojer",
+        "Cytisus cajan L.",
+        "Cytisus guineensis Schumach. & Thonn.",
+        "Cytisus mollis Salisb.",
+        "Cytisus pseudocajan Jacq."
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Red Gram",
+        "Chick Pea",
+        "Dhal",
+        "Red Gram",
+        "Pigeon Pea"
+    ],
+    "sinhalaName": "Tora parippu (තෝරපරිප්පු)",
+    "description": "මීටර් 1.5ක් පමණ උසැති පඳුරකි. පත්‍රිකා ලාන්සාකාර (lanceolate) හෝ පටු ඉලිප්සාකාර (narrowly elliptic) වේ, උඩ සහ යට පෘෂ්ඨයන්හි රෝම සහිත (pubescent) වේ, විශාලතම පත්‍රිකා සෙ.මී. 7.5 - 8 x 2.8 - 3.5 ප්‍රමාණයෙන් යුක්ත වන අතර අග්‍රය උල් (acute) වේ, පාදම ද එලෙසම වේ. පුෂ්ප මංජරිය තනි පුෂ්ප දණ්ඩකින් (peduncle) යුතුව පත්‍ර කක්ෂයෙන් හටගනී, එය පුෂ්ප වෘන්ත (pedicels) 1 - 2කින් අවසන් වේ, මල් කහ-කොළ පැහැතිය. ඵලය කෙලින් සහ පැතලි (compressed) ස්වභාවයක් ගනී, බීජ (1 -) 5ක් දරයි. බීජ පැතලි (compressed) වන අතර විවිධ වර්ණයන්ගෙන් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Pulmonary Disorders",
+            "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gastric Disorders",
+            "sinhala": "ආමාශගත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nervous System Disorders",
+            "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Kidney Diseases",
+            "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Nasopharyngeal Disorders",
+            "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Smallpox",
+            "sinhala": "වසූරිය (Smallpox)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Chickenpox",
+            "sinhala": "පැපොල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Measles",
+            "sinhala": "සරම්ප රෝගය (රෝමාන්තිකා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Venereal Disease",
+            "sinhala": "ලිංගික රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds",
+        "Roots",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "2210",
+            "caption": "Flower 1 (PMR)",
+            "url": "https://i.ibb.co/zVTRn9fJ/plant00582-02210.jpg"
+        },
+        {
+            "image_id": "2211",
+            "caption": "Flower 2 (PMR)",
+            "url": "https://i.ibb.co/zHQN87kS/plant00582-02211.jpg"
+        },
+        {
+            "image_id": "2212",
+            "caption": "Pods (PMR)",
+            "url": "https://i.ibb.co/pBw59P0j/plant00582-02212.jpg"
+        },
+        {
+            "image_id": "2213",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/Z6rfqvCy/plant00582-02213.jpg"
+        },
+        {
+            "image_id": "2214",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/XkkVncLh/plant00582-02214.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "තෝරපරිප්පු",
+                "url": "https://youtube.com/watch?v=GGU1hf-ueps",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/GGU1hf-ueps/hq720.jpg"
+            },
+            {
+                "title": "පරිප්පු ගෙදරම වවන්නේ කොහොමද? | How to grow dhal at home? | තෝරපරිප්පු වගාව",
+                "url": "https://youtube.com/watch?v=8jEtsvhpyb4",
+                "duration": "8:14",
+                "thumbnail": "https://i.ytimg.com/vi/8jEtsvhpyb4/hq720.jpg"
+            },
+            {
+                "title": "අතීතයේ අපේ ආහාර වේලට එක් කර ගත් \"තෝර පරිප්පු \"",
+                "url": "https://youtube.com/watch?v=gou8b2elJhg",
+                "duration": "0:17",
+                "thumbnail": "https://i.ytimg.com/vi/gou8b2elJhg/hq720.jpg"
+            },
+            {
+                "title": "කඩෙන් පරිප්පු ගේන එක නතර කරන පහසුවෙන් වැවෙන තෝර පරිප්පු වගාව | How to Grow Pigeon Pea 🌿",
+                "url": "https://youtube.com/watch?v=TLsNgHQban4",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/TLsNgHQban4/hqdefault.jpg"
+            },
+            {
+                "title": "how to grow dhal plant easy way at your home, dhal,lentils cultivation, parippu hadamu Kothmaletv",
+                "url": "https://youtube.com/watch?v=_l0K62RVqjU",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/_l0K62RVqjU/hq720.jpg"
+            },
+            {
+                "title": "අපි ගෙදර හදන පරිප්පු, වස විස නැති පරිප්පු වගාව | තෝර පරිප්පු",
+                "url": "https://youtube.com/watch?v=Ie5ZbBViHU4",
+                "duration": "0:55",
+                "thumbnail": "https://i.ytimg.com/vi/Ie5ZbBViHU4/hq720.jpg"
+            },
+            {
+                "title": "Toor Dal තෝර පරිප්පු Cultivation in Sri Lanka Introduction and Benefits",
+                "url": "https://youtube.com/watch?v=TAme4Fmo5HU",
+                "duration": "7:07",
+                "thumbnail": "https://i.ytimg.com/vi/TAme4Fmo5HU/hq720.jpg"
+            },
+            {
+                "title": "ගෙවත්තෙ පරිප්පු වවමුද? | Parippu Wagawa | Lentil | Ceylon Agri | Episode 323",
+                "url": "https://youtube.com/watch?v=4FfEcETNYXc",
+                "duration": "9:55",
+                "thumbnail": "https://i.ytimg.com/vi/4FfEcETNYXc/hq720.jpg"
+            },
+            {
+                "title": "#Dal#parippu#plant#srilanka# How to grow Dal at home. | කන පරිප්පු නිවසේ වවමු | Parippu",
+                "url": "https://youtube.com/watch?v=d-rrwvEbdt4",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/d-rrwvEbdt4/hq720.jpg"
+            },
+            {
+                "title": "පාරදිගේ වගාව කෙටි වීඩියෝවක්",
+                "url": "https://youtube.com/watch?v=Zg1VeRTKfO8",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/Zg1VeRTKfO8/hq720.jpg"
+            },
+            {
+                "title": "157 පරිප්පු මොකටද කඩෙන් ගන්නෙ. ලේසියෙන් පැලවෙන තෝර පරිප්පු how to grow pigeon pea",
+                "url": "https://youtube.com/watch?v=vPV0J96JgcE",
+                "duration": "5:30",
+                "thumbnail": "https://i.ytimg.com/vi/vPV0J96JgcE/hq720.jpg"
+            },
+            {
+                "title": "🇱🇰  sri Lanka /අපේ තෝර පරිප්පු",
+                "url": "https://youtube.com/watch?v=LYrfwccxTTM",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/LYrfwccxTTM/hqdefault.jpg"
+            },
+            {
+                "title": "තෝරා පරිප්පු හදනවනම් මෙන්න මේ ජාති දාලා හදන්න",
+                "url": "https://youtube.com/watch?v=cxux6RZRzwM",
+                "duration": "7:33",
+                "thumbnail": "https://i.ytimg.com/vi/cxux6RZRzwM/hq720.jpg"
+            },
+            {
+                "title": "ආහාර හිගයට විසදුම් | තෝර | Episode 4",
+                "url": "https://youtube.com/watch?v=h2Uik7bIcys",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/h2Uik7bIcys/hq720.jpg"
+            },
+            {
+                "title": "ලීක්ස් , ගෝව , බෙල් පෙපර් , තෝර පරිප්පු , සලාද කොල අස්වනු නෙලීමට සුදුසු නිවැරැදි කාලය සහ විශේෂ කරුනු",
+                "url": "https://youtube.com/watch?v=0SFI-hfwcwM",
+                "duration": "12:03",
+                "thumbnail": "https://i.ytimg.com/vi/0SFI-hfwcwM/hqdefault.jpg"
+            },
+            {
+                "title": "හදිස්සියෙ ආපු වැස්ස නිසා පරිප්පු ගහට වුන දේ…. | Lentils Ceylon Agri",
+                "url": "https://youtube.com/watch?v=CZvfGtVQPz8",
+                "duration": "5:03",
+                "thumbnail": "https://i.ytimg.com/vi/CZvfGtVQPz8/hqdefault.jpg"
+            },
+            {
+                "title": "තෝර පරිප්පු || thora parippu || Canjanum cajan || pigean pea (15)",
+                "url": "https://youtube.com/watch?v=-IHydOXoUFM",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/-IHydOXoUFM/hqdefault.jpg"
+            },
+            {
+                "title": "Kinds of dhal \" lentils \" - තෝර පරිප්පු",
+                "url": "https://youtube.com/watch?v=dhipFmXySJQ",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/dhipFmXySJQ/hq720.jpg"
+            },
+            {
+                "title": "agriculture in srilanka|tora gasa|තෝර ගස.",
+                "url": "https://youtube.com/watch?v=jVtIPzd2LM4",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/jVtIPzd2LM4/hqdefault.jpg"
+            },
+            {
+                "title": "පරිප්පු පැලයක් සිටුවා ගැනීම",
+                "url": "https://youtube.com/watch?v=IXBCd6hdfXE",
+                "duration": "4:19",
+                "thumbnail": "https://i.ytimg.com/vi/IXBCd6hdfXE/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Gastric Disorders",
-      "sinhala": "ආමාශගත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nervous System Disorders",
-      "sinhala": "ස්නායු පද්ධතියේ ආබාධ සහ දුර්වලතා (ස්නායු රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Kidney Diseases",
-      "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Nasopharyngeal Disorders",
-      "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Smallpox",
-      "sinhala": "වසූරිය (Smallpox)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Chickenpox",
-      "sinhala": "පැපොල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Measles",
-      "sinhala": "සරම්ප රෝගය (රෝමාන්තිකා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Venereal Disease",
-      "sinhala": "ලිංගික රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds",
-    "Roots",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "2210",
-      "caption": "Flower 1 (PMR)",
-      "url": "https://i.ibb.co/zVTRn9fJ/plant00582-02210.jpg"
-    },
-    {
-      "image_id": "2211",
-      "caption": "Flower 2 (PMR)",
-      "url": "https://i.ibb.co/zHQN87kS/plant00582-02211.jpg"
-    },
-    {
-      "image_id": "2212",
-      "caption": "Pods (PMR)",
-      "url": "https://i.ibb.co/pBw59P0j/plant00582-02212.jpg"
-    },
-    {
-      "image_id": "2213",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/Z6rfqvCy/plant00582-02213.jpg"
-    },
-    {
-      "image_id": "2214",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/XkkVncLh/plant00582-02214.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

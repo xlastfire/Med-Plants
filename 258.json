@@ -1,109 +1,612 @@
 {
-  "scientificName": "Cordia dichotoma G.Forst.",
-  "synonyms": [
-    "Cordia brownii A.DC.",
-    "Cordia dichotoma var. brunnea Kurz",
-    "Cordia griffithii C.B.Clarke",
-    "Cordia indica Lam.",
-    "Cordia ixiocarpa F.Muell.",
-    "Cordia latifolia Roxb.",
-    "Cordia loureiroi Roem. & Schult.",
-    "Cordia myxa var. ixiocarpa (F.Muell.) Domin",
-    "Cordia obliqua var. tomentosa Kazmi",
-    "Cordia obliqua var. wallichii (G.Don) C.B.Clarke",
-    "Cordia obliqua Willd.",
-    "Cordia premnifolia Ridl.",
-    "Cordia suaveolens Blume",
-    "Cordia tomentosa Wall.",
-    "Cordia tremula Griseb.",
-    "Cordia wallichii G.Don",
-    "Gerascanthus dichotomus (G.Forst.) Borhidi",
-    "Gerascanthus griffithii (C.B.Clarke) Borhidi",
-    "Gerascanthus suaveolens (Blume) Borhidi",
-    "Lithocardium griffithii (C.B.Clarke) Kuntze",
-    "Lithocardium platyphyllum Kuntze",
-    "Lithocardium suaveolens (Blume) Kuntze",
-    "Lithocardium subdentatum Kuntze",
-    "Lithocardium tremulum (Griseb.) Kuntze",
-    "Sebestena indica (Lam.) Raf.",
-    "Varronia integerrima Stokes",
-    "Varronia sinensis Lour."
-  ],
-  "familyName": "BORAGINACEAE",
-  "englishNames": [
-    "Indian Cherry",
-    "Clammy Cherry",
-    "Fragrant Manjack",
-    "Bird Lime Tree"
-  ],
-  "sinhalaName": "Lolu (ලෝලු)",
-  "description": "මීටර් 5 (- 10) ක් දක්වා උසැති ගසකි. පත්‍ර සදාහරිත වන අතර, ඒකාන්තරව හෝ කලාතුරකින් අර්ධ විරුද්ධව කෙටි අතු කොටස් මත පිහිටයි; පත්‍ර තලය ඉලිප්සාකාර සිට පුළුල් ඉලිප්සාකාර හෝ කලාතුරකින් අණ්ඩාකාර (ovate) හෝ ප්‍රතිලෝම අණ්ඩාකාර (obovate) වේ, (2.5 -) 5 - 10 (- 12) X (1.8 -) 2.5 - 6 (- 8) සෙ.මී. ප්‍රමාණයෙන් යුක්තය. පත්‍ර අග්‍රය මොට හෝ උල් වන අතර, කලාතුරකින් වටකුරු ස්වභාවයක් ගනී, ඇතැම් විට හදිසියේ උල් වූ (abruptly acuminate) අග්‍රයක් දක්නට ලැබේ. පත්‍ර පාදය මොට හෝ වටකුරු වන අතර, කලාතුරකින් උල් වේ. පත්‍ර දාරය සම්පූර්ණ (entire) වන අතර, ඇතැම් විට අග්‍රය අසල රැලි සහිත (undulate) හෝ දන්තමය (crenate) වේ. පත්‍රයේ උඩු මතුපිට ප්‍රධාන වශයෙන් රෝම රහිත (glabrous) වන අතර, කුඩා, සෛල කිහිපයකින් සමන්විත සිස්ටොලිත් (cystoliths) රාශියක් දක්නට ලැබේ. පුෂ්ප මංජරිය අග්‍රස්ථ වන අතර, සයිමෝස්-පැනිකියුලේට් (cymose-paniculate) ආකාරයක් ගනී; දිග සෙ.මී. 3.5 - 13 ක් සහ පළල සෙ.මී. 3 - 10 ක් වේ. පුෂ්ප මංජරියේ අතු රෝම රහිත (glabrous) හෝ විසිරුණු කෙටි රෝම කිහිපයකින් යුක්ත වේ. ඵලය අෂ්ටිල (drupaceous) වන අතර, කහ සිට තැඹිලි පැහැයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Respiratory Tract Infections",
-      "sinhala": "ශ්වාසනාල සහ ශ්වසන පද්ධති ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Cordia dichotoma G.Forst.",
+    "synonyms": [
+        "Cordia brownii A.DC.",
+        "Cordia dichotoma var. brunnea Kurz",
+        "Cordia griffithii C.B.Clarke",
+        "Cordia indica Lam.",
+        "Cordia ixiocarpa F.Muell.",
+        "Cordia latifolia Roxb.",
+        "Cordia loureiroi Roem. & Schult.",
+        "Cordia myxa var. ixiocarpa (F.Muell.) Domin",
+        "Cordia obliqua var. tomentosa Kazmi",
+        "Cordia obliqua var. wallichii (G.Don) C.B.Clarke",
+        "Cordia obliqua Willd.",
+        "Cordia premnifolia Ridl.",
+        "Cordia suaveolens Blume",
+        "Cordia tomentosa Wall.",
+        "Cordia tremula Griseb.",
+        "Cordia wallichii G.Don",
+        "Gerascanthus dichotomus (G.Forst.) Borhidi",
+        "Gerascanthus griffithii (C.B.Clarke) Borhidi",
+        "Gerascanthus suaveolens (Blume) Borhidi",
+        "Lithocardium griffithii (C.B.Clarke) Kuntze",
+        "Lithocardium platyphyllum Kuntze",
+        "Lithocardium suaveolens (Blume) Kuntze",
+        "Lithocardium subdentatum Kuntze",
+        "Lithocardium tremulum (Griseb.) Kuntze",
+        "Sebestena indica (Lam.) Raf.",
+        "Varronia integerrima Stokes",
+        "Varronia sinensis Lour."
+    ],
+    "familyName": "BORAGINACEAE",
+    "englishNames": [
+        "Indian Cherry",
+        "Clammy Cherry",
+        "Fragrant Manjack",
+        "Bird Lime Tree"
+    ],
+    "sinhalaName": "Lolu (ලෝලු)",
+    "description": "මීටර් 5 (- 10) ක් දක්වා උසැති ගසකි. පත්‍ර සදාහරිත වන අතර, ඒකාන්තරව හෝ කලාතුරකින් අර්ධ විරුද්ධව කෙටි අතු කොටස් මත පිහිටයි; පත්‍ර තලය ඉලිප්සාකාර සිට පුළුල් ඉලිප්සාකාර හෝ කලාතුරකින් අණ්ඩාකාර (ovate) හෝ ප්‍රතිලෝම අණ්ඩාකාර (obovate) වේ, (2.5 -) 5 - 10 (- 12) X (1.8 -) 2.5 - 6 (- 8) සෙ.මී. ප්‍රමාණයෙන් යුක්තය. පත්‍ර අග්‍රය මොට හෝ උල් වන අතර, කලාතුරකින් වටකුරු ස්වභාවයක් ගනී, ඇතැම් විට හදිසියේ උල් වූ (abruptly acuminate) අග්‍රයක් දක්නට ලැබේ. පත්‍ර පාදය මොට හෝ වටකුරු වන අතර, කලාතුරකින් උල් වේ. පත්‍ර දාරය සම්පූර්ණ (entire) වන අතර, ඇතැම් විට අග්‍රය අසල රැලි සහිත (undulate) හෝ දන්තමය (crenate) වේ. පත්‍රයේ උඩු මතුපිට ප්‍රධාන වශයෙන් රෝම රහිත (glabrous) වන අතර, කුඩා, සෛල කිහිපයකින් සමන්විත සිස්ටොලිත් (cystoliths) රාශියක් දක්නට ලැබේ. පුෂ්ප මංජරිය අග්‍රස්ථ වන අතර, සයිමෝස්-පැනිකියුලේට් (cymose-paniculate) ආකාරයක් ගනී; දිග සෙ.මී. 3.5 - 13 ක් සහ පළල සෙ.මී. 3 - 10 ක් වේ. පුෂ්ප මංජරියේ අතු රෝම රහිත (glabrous) හෝ විසිරුණු කෙටි රෝම කිහිපයකින් යුක්ත වේ. ඵලය අෂ්ටිල (drupaceous) වන අතර, කහ සිට තැඹිලි පැහැයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Respiratory Tract Infections",
+            "sinhala": "ශ්වාසනාල සහ ශ්වසන පද්ධති ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Infection",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "936",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/JRsbGgBM/plant00258-00936.jpg"
+        },
+        {
+            "image_id": "937",
+            "caption": "Twig",
+            "url": "https://i.ibb.co/zMY1Fpq/plant00258-00937.jpg"
+        },
+        {
+            "image_id": "938",
+            "caption": "Flowers and Fruits",
+            "url": "https://i.ibb.co/vxZWm0ps/plant00258-00938.jpg"
+        },
+        {
+            "image_id": "3476",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/QFzBV7KC/plant00258-03476.jpg"
+        },
+        {
+            "image_id": "3477",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/2YKpbgvz/plant00258-03477.jpg"
+        },
+        {
+            "image_id": "3478",
+            "caption": "Leaf upper surface (PMR)",
+            "url": "https://i.ibb.co/gFRbgkvT/plant00258-03478.jpg"
+        },
+        {
+            "image_id": "3479",
+            "caption": "Leaf lower surface (PMR)",
+            "url": "https://i.ibb.co/x8wtBBQV/plant00258-03479.jpg"
+        },
+        {
+            "image_id": "3480",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/Jjr54XLZ/plant00258-03480.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "නාඳුනන ගස්  \"ලෝලු\" - තිලක් කන්දේගම / Trees unknown to people - 03",
+                "url": "https://youtube.com/watch?v=JS014jpfsGc",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/JS014jpfsGc/hq720.jpg"
+            },
+            {
+                "title": "පතරාජ මල් (ලෝලු මල්) දර ළිපේ රසට උයමු | Traditional Patharaja Mal Curry (Lolu) Recipe by Rasa Piyasa",
+                "url": "https://youtube.com/watch?v=astxKstyNuM",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/astxKstyNuM/hqdefault.jpg"
+            },
+            {
+                "title": "මේවත් පලතුරු තමයි | ලෝලු | වැඩි විස්තර ඉදිරියේදී කතාකරමු | පලතුරක් වගේම වටිනා ඖෂධයක් | Lolu Plant",
+                "url": "https://youtube.com/watch?v=vdQ2_MHINvY",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/vdQ2_MHINvY/hq720.jpg"
+            },
+            {
+                "title": "Secrets of the herbal plant LOLU. ලෝලු ශාකයේ ඇති ඖෂධීය වටිනාකම. Senani Jayasundara.",
+                "url": "https://youtube.com/watch?v=7LMORzUsfQo",
+                "duration": "7:20",
+                "thumbnail": "https://i.ytimg.com/vi/7LMORzUsfQo/hq720.jpg"
+            },
+            {
+                "title": "ගම්බඳ පළාත් වල ප්‍රසිද්ධ කෑමක් තමයි මේ, ඔයාලා කාලා තියෙනවද ලෝලු දළු මාළුව | Lolu ලෝලු",
+                "url": "https://youtube.com/watch?v=mBaioEkFvas",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/mBaioEkFvas/hq720.jpg"
+            },
+            {
+                "title": "lolu  flowers recipe 😋 අවාරයේදීත් ලෝලු මල් රස බලමුද?. #1 #foodie  #viral #recipe",
+                "url": "https://youtube.com/watch?v=ZVu6IR5cxm8",
+                "duration": "7:54",
+                "thumbnail": "https://i.ytimg.com/vi/ZVu6IR5cxm8/hq720.jpg"
+            },
+            {
+                "title": "Lolu Flowers Abula ලෝලු මල් ඇඹුල [රසවත් ගුණවත් වන්නියේ ආහාරය]",
+                "url": "https://youtube.com/watch?v=B5VF1P8w0FU",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/B5VF1P8w0FU/hq720.jpg"
+            },
+            {
+                "title": "සීහෙළ ගමේ ලෝලු කොළ සම්බෝලයක් හදමු  - තිලක් කන්දේගම /සීහෙළ සොබාදහම් ගොවි ගම්මානය, ඇළහැර",
+                "url": "https://youtube.com/watch?v=vRpc1psGd9M",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/vRpc1psGd9M/hq720.jpg"
+            },
+            {
+                "title": "The story of lolu flower/ ලෝලු මල් වෑංජනය#loluflower#",
+                "url": "https://youtube.com/watch?v=bkqhcWoxWZk",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/bkqhcWoxWZk/hq720.jpg"
+            },
+            {
+                "title": "#lolu flowers#ලෝලු මල් බැදුම සමග ලෝලු කොල මැල්ලුම..(kanchana,s  village kitchen)",
+                "url": "https://youtube.com/watch?v=_9-HInQXqEw",
+                "duration": "10:29",
+                "thumbnail": "https://i.ytimg.com/vi/_9-HInQXqEw/hqdefault.jpg"
+            },
+            {
+                "title": "රසවත් ගමේ කෑමක් - ලෝලු මල් මැල්ලුම / Village Recipe 03 - Sri Lanka",
+                "url": "https://youtube.com/watch?v=Aq7Ecx_mHvM",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/Aq7Ecx_mHvM/hq720.jpg"
+            },
+            {
+                "title": "ලෝලු සුඹුලු කසාය ගැන අහලා තියෙනවද? මුඛ දුර්ගන්ධය ඇතුළු මුඛ රෝග සදහා ගුණ මුඛ සේදුම්කාරකයක් | ලෝලු",
+                "url": "https://youtube.com/watch?v=Vb0ccwkDYvc",
+                "duration": "1:03",
+                "thumbnail": "https://i.ytimg.com/vi/Vb0ccwkDYvc/hq720.jpg"
+            },
+            {
+                "title": "#අඹ මිශ්‍ර ලෝලු මල් ඇඹුල / Mango Mixed Lolu Flower Ambula / Curry /අවුරුද්දටම එක් වරක් එන මල් වාරෙට.",
+                "url": "https://youtube.com/watch?v=_I5U2qgS8NA",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/_I5U2qgS8NA/hq720.jpg"
+            },
+            {
+                "title": "ලෝලු",
+                "url": "https://youtube.com/watch?v=Z3nCqEbouCE",
+                "duration": "0:19",
+                "thumbnail": "https://i.ytimg.com/vi/Z3nCqEbouCE/hq720.jpg"
+            },
+            {
+                "title": "අවාරයේත් ලෝලු මල් රස බලමුද? / Shall we taste Lolu flowers in the off season too? / cordia dichotoma",
+                "url": "https://youtube.com/watch?v=DQs3NmP7J8g",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/DQs3NmP7J8g/hq720.jpg"
+            },
+            {
+                "title": "උගුරේ දැවිල්ල, මුත්‍ර දැවිල්ල ආදී රෝග රැසකට ඔසුවක් වූ පතරාජ | ලෝලු",
+                "url": "https://youtube.com/watch?v=UZcJQl56Xwg",
+                "duration": "1:20",
+                "thumbnail": "https://i.ytimg.com/vi/UZcJQl56Xwg/hq720.jpg"
+            },
+            {
+                "title": "අමතක නොකල යුතුම පලතුරක් - ලාවලු",
+                "url": "https://youtube.com/watch?v=-kLxdPIt3dc",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/-kLxdPIt3dc/hq720.jpg"
+            },
+            {
+                "title": "ලොවි කන එක හැමෝටම ගුණ නැහැ | Palathuru ware | Haritha TV | Lovi",
+                "url": "https://youtube.com/watch?v=rnp7y40QBLI",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/rnp7y40QBLI/hq720.jpg"
+            },
+            {
+                "title": "සර්ප විෂ නසන ලෝලු.....",
+                "url": "https://youtube.com/watch?v=7R4Kp8raDB4",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/7R4Kp8raDB4/hqdefault.jpg"
+            },
+            {
+                "title": "කිලෝ එක 1000ට ගියත් කෑවට පාඩු නැති ළූණුවල පුදුම හිතෙන ගුණ 10ක්",
+                "url": "https://youtube.com/watch?v=qEUSM6H2stE",
+                "duration": "10:06",
+                "thumbnail": "https://i.ytimg.com/vi/qEUSM6H2stE/hq720.jpg"
+            },
+            {
+                "title": "හදවත රකින සූදුරු .  සූදුරු  වල ඇති ආයුර්වේදීය ගුණ .",
+                "url": "https://youtube.com/watch?v=Ty2rR_aZVDY",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ty2rR_aZVDY/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "#foods | local foods sri lanka | ලෝලු දලු ඇඹුල.",
+                "url": "https://youtube.com/watch?v=SVHKT3vTmek",
+                "duration": "10:21",
+                "thumbnail": "https://i.ytimg.com/vi/SVHKT3vTmek/hqdefault.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ පිරි ලුණුවිල | Lunuwila - Bacopa Monnieri Plant - Brahmi | Dayawathi - දයාවතී",
+                "url": "https://youtube.com/watch?v=m9SUENHexrg",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/m9SUENHexrg/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=MBR3AVmcWqw",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/MBR3AVmcWqw/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවේ කැලෑ පලතුරු වර්ග - Wild Fruits In Srilanka",
+                "url": "https://youtube.com/watch?v=R1EQ_ejcK_4",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/R1EQ_ejcK_4/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "නාඳුනන ගස්  \"කැට කෑල\" - තිලක් කන්දේගම / Trees unknown to people - 04",
+                "url": "https://youtube.com/watch?v=ZAP-fbI1ar0",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/ZAP-fbI1ar0/hq720.jpg"
+            },
+            {
+                "title": "Lolu , Ayuruvedic Plant (CORDIA DICOTOMA FORST)",
+                "url": "https://youtube.com/watch?v=nPK3eSqlPvU",
+                "duration": "7:17",
+                "thumbnail": "https://i.ytimg.com/vi/nPK3eSqlPvU/hqdefault.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "වතුපාලු හෙවත් ලෝකපාලු බෙහෙත් කියලා දන්නවද/Climbing Hempweed",
+                "url": "https://youtube.com/watch?v=HtyNR--DR6c",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/HtyNR--DR6c/hqdefault.jpg"
+            },
+            {
+                "title": "ඔසු පැල 32ක් | වල් පැල කියල ගලවලා විසිකරන වටිනා ඔසු | Osu Pela 32 k Menna | ඖෂධීය ශාක හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=Fy5R3h2W1kw",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/Fy5R3h2W1kw/hq720.jpg"
+            },
+            {
+                "title": "මෙන්න මේ පැලයක් අනිවාර්යෙන්ම ඔබේ නිවසේ තිබිය යුතුමයි\" | ගොඩක් අය නොදන්නා \"ලෝලූ\" | Thilak Kandegama",
+                "url": "https://youtube.com/watch?v=9a_lpf4YU60",
+                "duration": "15:34",
+                "thumbnail": "https://i.ytimg.com/vi/9a_lpf4YU60/hq720.jpg"
+            },
+            {
+                "title": "Katata Rahata | කටට රහට | 2020-01-22",
+                "url": "https://youtube.com/watch?v=akr2pfblRhw",
+                "duration": "18:03",
+                "thumbnail": "https://i.ytimg.com/vi/akr2pfblRhw/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ලේ වඩවන දනහිසේ කාටිලේජ වඩවන වෙල් අයිනේ හැදෙන fern පැලය",
+                "url": "https://youtube.com/watch?v=DKspqVvjyQY",
+                "duration": "6:54",
+                "thumbnail": "https://i.ytimg.com/vi/DKspqVvjyQY/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබව ධනවතෙකු නිරෝගී ප්‍රීතිමත් පුද්ගලයකු කළ හැකි අරුම පුදුම ශාකයක්",
+                "url": "https://youtube.com/watch?v=_ED1btBfPxo",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/_ED1btBfPxo/hq720.jpg"
+            },
+            {
+                "title": "උලුහාල් වල ඇති විශ්මිත ගුණ ගැන ඔබ නොදත්දේ",
+                "url": "https://youtube.com/watch?v=9i7g1nKKljY",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/9i7g1nKKljY/hq720.jpg"
+            },
+            {
+                "title": "ජවය ශක්තිය සපිරි කොල්ලු පානය - වෛද්‍ය සුසීමා සේනානායක",
+                "url": "https://youtube.com/watch?v=BBlufzuvZvw",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/BBlufzuvZvw/hq720.jpg"
+            },
+            {
+                "title": "''කලාඳුරු අල '' ගුණ අගුණ. රෝග රැසකට ගුණදෙන විශ්මිත ඖෂධ.",
+                "url": "https://youtube.com/watch?v=lKIPz0tGmWc",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/lKIPz0tGmWc/hq720.jpg"
+            },
+            {
+                "title": "රතු ළූණු වල ඇති කවුරුත් නොදන්න විශ්මිත ගුණ - Amazing quality of red onion for a healthy life",
+                "url": "https://youtube.com/watch?v=wD24UUt56Ic",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/wD24UUt56Ic/hq720.jpg"
+            },
+            {
+                "title": "හැම ලෙඩකටම හොඳ උලුහාල් වල විද්‍යාත්මකව තහවුරු කල ගුන #fenugreekbenefits",
+                "url": "https://youtube.com/watch?v=Pk0W8TjxCzs",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/Pk0W8TjxCzs/hqdefault.jpg"
+            },
+            {
+                "title": "ලූණුවල ගුණ අගුණ හරියට දැනගමු  | Health Benefits of Onion",
+                "url": "https://youtube.com/watch?v=c26SK5ZTHg4",
+                "duration": "9:17",
+                "thumbnail": "https://i.ytimg.com/vi/c26SK5ZTHg4/hqdefault.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "Leaves are a must-eat fruit with high nutritional value | ලාවුළු වල ගුණ ඔබව විමතියට පත් කරාවි",
+                "url": "https://youtube.com/watch?v=wj2Fksa621Q",
+                "duration": "7:08",
+                "thumbnail": "https://i.ytimg.com/vi/wj2Fksa621Q/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු මේ විදියට විතරක් කන්න නැත්නම් සුදු ලූණු වල ගුණ නැතිවෙනවා |Take Garlic, Don't Make Mistake",
+                "url": "https://youtube.com/watch?v=h4tX2HGiCgg",
+                "duration": "8:44",
+                "thumbnail": "https://i.ytimg.com/vi/h4tX2HGiCgg/hq720.jpg"
+            },
+            {
+                "title": "දවසට එක අරළු ගෙඩියක් මළබද්ධය නැති කරන්න, බඩ අඩුකර ගන්න | Aralu Ayurvedic medication",
+                "url": "https://youtube.com/watch?v=JpWWszmROcE",
+                "duration": "4:33",
+                "thumbnail": "https://i.ytimg.com/vi/JpWWszmROcE/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "සූර්යාලෝකයෙන් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=eIAX-iPabsY",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/eIAX-iPabsY/hqdefault.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "පහ වසර ශිෂ්‍යත්වයට /සුලඟේ ප්‍රයෝජන - for grade 5 scholarship",
+                "url": "https://youtube.com/watch?v=JHMqo39M4Sk",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/JHMqo39M4Sk/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "නීරෝගී ලස්සනටම හැදුනු පැල ඔයාලට ගන්න පුලුවන්#anthuriumwagawasinhala#fypviral#plants0765647812",
+                "url": "https://youtube.com/watch?v=5sUz5dj8UGM",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/5sUz5dj8UGM/hqdefault.jpg"
+            },
+            {
+                "title": "උපදෙස් දෙන්න ගියපු නාමල්ට වෙච්ච දෙයක්",
+                "url": "https://youtube.com/watch?v=bLNmN49Y0bY",
+                "duration": "19:37",
+                "thumbnail": "https://i.ytimg.com/vi/bLNmN49Y0bY/hq720.jpg"
+            },
+            {
+                "title": "විටමින් සහ ඛනිජ  ලවන බහුල අලකොල.(දිගිකල් ජීවත්වීමේ රහස් )",
+                "url": "https://youtube.com/watch?v=e7L70ribu00",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/e7L70ribu00/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "පොලොස් වල ගුණ | Polos wala guna | Sakalawaga",
+                "url": "https://youtube.com/watch?v=mPh7ihfwxa0",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/mPh7ihfwxa0/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "8 Things About Arugula Greens - Rocket Lettuce Nutrition",
+                "url": "https://youtube.com/watch?v=DkVQINORQdA",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/DkVQINORQdA/hq720.jpg"
+            },
+            {
+                "title": "Purslane: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=AKjcsZRcuQY",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/AKjcsZRcuQY/hq720.jpg"
+            },
+            {
+                "title": "5 Health Benefits of Loquat Leaves",
+                "url": "https://youtube.com/watch?v=9vL8KoQDzoU",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/9vL8KoQDzoU/hq720.jpg"
+            },
+            {
+                "title": "The Loquat Fruit Tree & IT'S AMAZING HEALTH BENEFITS! | Dr. Eilbra Younan",
+                "url": "https://youtube.com/watch?v=2j6K7OrOHUQ",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/2j6K7OrOHUQ/hq720.jpg"
+            },
+            {
+                "title": "Loquat - Health Benefits",
+                "url": "https://youtube.com/watch?v=ph86cGtMyjU",
+                "duration": "9:21",
+                "thumbnail": "https://i.ytimg.com/vi/ph86cGtMyjU/hq720.jpg"
+            },
+            {
+                "title": "6 Benefits of Lovage to Know About! | Lovage Herb Health Benefits",
+                "url": "https://youtube.com/watch?v=0NEHcaIXU0U",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/0NEHcaIXU0U/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Health Benefits of Loquat Fruit",
+                "url": "https://youtube.com/watch?v=FHdTlmHdCi0",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/FHdTlmHdCi0/hq720.jpg"
+            },
+            {
+                "title": "Lobelia Uses & Benefits Explained by Professional Supplement Review | National Nutrition Canada",
+                "url": "https://youtube.com/watch?v=Mp7qGf5FV3s",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/Mp7qGf5FV3s/hq720.jpg"
+            },
+            {
+                "title": "8 Things About Arugula Greens - Rocket Lettuce Nutrition",
+                "url": "https://youtube.com/watch?v=2A1wvizqTEQ",
+                "duration": "8:48",
+                "thumbnail": "https://i.ytimg.com/vi/2A1wvizqTEQ/frame0.jpg"
+            },
+            {
+                "title": "බිත්තර පළතුර හෙවත් ලාවුලු වල ගුණ – ඔබ විමතියට පත් කරාවි",
+                "url": "https://youtube.com/watch?v=44JmyxzXlTo",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/44JmyxzXlTo/hq720.jpg"
+            },
+            {
+                "title": "thel kola |  තැල් කොළ  | තැල්කොළ | රසය පිරි ඔසු ගුණ සපිරි තැල්කොළ  | hela osu samaga ama 2022",
+                "url": "https://youtube.com/watch?v=f_wBvff8iaQ",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/f_wBvff8iaQ/hqdefault.jpg"
+            },
+            {
+                "title": "හැමදාම සුදුළුණු අනුභව කරන අයගේ ශරීරයට සිදුවන පුදුම හිතෙන දේවල් 9ක් - 9 Health Benefits Of Raw Garlic",
+                "url": "https://youtube.com/watch?v=mtDUfuiqaQU",
+                "duration": "11:08",
+                "thumbnail": "https://i.ytimg.com/vi/mtDUfuiqaQU/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල 10ක ගුණ දැනගමුද? | Benifits of 10 Herbal Plants | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=Cpdzcr3fXu0",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Cpdzcr3fXu0/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම ළූණු කන අයගේ ශරීරයට සිදුවන පුදුම දේවල් 10ක් | 10 Amazing Health Benefits of Onion",
+                "url": "https://youtube.com/watch?v=km4lTKpGLEg",
+                "duration": "9:51",
+                "thumbnail": "https://i.ytimg.com/vi/km4lTKpGLEg/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු වල විශ්මිත ගුණ . Ayurvedic value of cinnamon.",
+                "url": "https://youtube.com/watch?v=HYqpafpiFWE",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/HYqpafpiFWE/hq720.jpg"
+            },
+            {
+                "title": "දෝෂ දුරුකර නිවසට ධන වාසනාව ගේන ලුණු වාස්තු පිළියම | Sault Vastu Remedy For Wealth Attraction To Home",
+                "url": "https://youtube.com/watch?v=RX_eg3abCsM",
+                "duration": "10:28",
+                "thumbnail": "https://i.ytimg.com/vi/RX_eg3abCsM/hq720.jpg"
+            },
+            {
+                "title": "මේ විදියට උළුහාල් වතුර පානය කරොත් සම වේගයෙන් තිරිහන් වෙනවා | Your Natural Secret for Glowing Skin",
+                "url": "https://youtube.com/watch?v=aRFwr7oAbrs",
+                "duration": "9:14",
+                "thumbnail": "https://i.ytimg.com/vi/aRFwr7oAbrs/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද යට අනුව බුද්ධිය වඩවන ප්‍රධානම ශාක දෙක | ලුනිවිල සහ ගොටුකොළ | Dr.Nalaka Lakruwan",
+                "url": "https://youtube.com/watch?v=RwrfzHnFm6M",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/RwrfzHnFm6M/hq720.jpg"
+            },
+            {
+                "title": "අංක එකේ බුද්ධිය වැඩි දියුණු කරන ලුණුවිල ශාකය | Allocalyx microphylla Cordem - Sobadam Piyasa",
+                "url": "https://youtube.com/watch?v=5xRjLU8XwTI",
+                "duration": "11:02",
+                "thumbnail": "https://i.ytimg.com/vi/5xRjLU8XwTI/hq720.jpg"
+            },
+            {
+                "title": "⛔ලංකාව ලෝකය හොල්ලයි! ලේ වල ඝනකම අඩුකරන සුපිරි පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=R03vVDIhLWs",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/R03vVDIhLWs/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Urinary Tract Infection",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "936",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/JRsbGgBM/plant00258-00936.jpg"
-    },
-    {
-      "image_id": "937",
-      "caption": "Twig",
-      "url": "https://i.ibb.co/zMY1Fpq/plant00258-00937.jpg"
-    },
-    {
-      "image_id": "938",
-      "caption": "Flowers and Fruits",
-      "url": "https://i.ibb.co/vxZWm0ps/plant00258-00938.jpg"
-    },
-    {
-      "image_id": "3476",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/QFzBV7KC/plant00258-03476.jpg"
-    },
-    {
-      "image_id": "3477",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/2YKpbgvz/plant00258-03477.jpg"
-    },
-    {
-      "image_id": "3478",
-      "caption": "Leaf upper surface (PMR)",
-      "url": "https://i.ibb.co/gFRbgkvT/plant00258-03478.jpg"
-    },
-    {
-      "image_id": "3479",
-      "caption": "Leaf lower surface (PMR)",
-      "url": "https://i.ibb.co/x8wtBBQV/plant00258-03479.jpg"
-    },
-    {
-      "image_id": "3480",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/Jjr54XLZ/plant00258-03480.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

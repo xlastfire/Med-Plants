@@ -1,106 +1,249 @@
 {
-  "scientificName": "Arisaema leschenaultii Blume",
-  "synonyms": [
-    "Arisaema attenuatum E.Barnes & C.E.C.Fisch.",
-    "Arisaema filicaudatum N.E.Br.",
-    "Arisaema huegelii Schott",
-    "Arisaema longicaudatum Blatt.",
-    "Arisaema papillosum Steud. ex Schott",
-    "Arisaema peltatum C.E.C.Fisch.",
-    "Arisaema pulchrum N.E.Br."
-  ],
-  "familyName": "ARACEAE",
-  "englishNames": [
-    "Indian Turnip"
-  ],
-  "sinhalaName": "Wal kidaram (වල් කිඩාරම් /  වල් කිඩාරං )",
-  "description": "ඖෂධීය පැළෑටියකි. කඳ පාදස්ථය (corm) අර්ධ ගෝලාකාර (subglobose) වේ. පත්‍ර තනි එකකි, අරීයව බෙදී පවතී (radiatisect). පත්‍ර දණ්ඩ මීටර් 1.25ක් දක්වා දිගු වන අතර, පාදස්ථය කොපු ආකාර වේ, සාමාන්‍යයෙන් ලප සහිතය. පත්‍රිකා 5-13ක් පවතී, බොහෝ විට 7කි, දාරය සම්පූර්ණ හෝ ඉතා සියුම් ලෙස දත් සහිත (erose) වේ, ප්‍රතිලෝම බිත්තරාකාර (obovate) සිට හෙල්ලයක හැඩැති (lanceolate) දක්වා වේ, උඩ පැත්ත දිලිසෙන සුළු වන අතර යටි පැත්ත මැට් (dull) සහ ලා කොළ පැහැතිය, අග්‍රය කෙටි උල් සහිත (acuminate) වේ, පත්‍රිකා වෘන්ත රහිත (sessile) වන අතර පාදස්ථය දෙසට සිහින් වේ, නාරටි වින්‍යාසය පක්ෂාකාර (pinnate) වන අතර උප-පර්යන්ත නාරටි දෙකක් පවතී. පුෂ්ප මංජරිය (spadix) කුඩා ශාකවල පුරුෂ පුෂ්ප දරන අතර විශාල ශාකවල ස්ත්‍රී පුෂ්ප දරයි. ස්ත්‍රී පුෂ්ප තදින් ඇසිරී පවතී, සෑම පුෂ්පයක්ම අර්ධ ගෝලාකාර (subglobose) වන අතර කෙටි රූපකයක් (style) මත පැපිලෝස් (papillose) කලංකයක් පවතී. පුරුෂ පුෂ්ප විසිරී පවතී, 2-8 බැගින් වූ කෙටි වෘන්ත සහිත පරාගධානි (anthers) සමූහ ලෙස පවතී. බෙරි ගෙඩිවල ගෝලාකාර බීජ 1ක් හෝ කිහිපයක් පවතී.",
-  "treatments": [
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Arisaema leschenaultii Blume",
+    "synonyms": [
+        "Arisaema attenuatum E.Barnes & C.E.C.Fisch.",
+        "Arisaema filicaudatum N.E.Br.",
+        "Arisaema huegelii Schott",
+        "Arisaema longicaudatum Blatt.",
+        "Arisaema papillosum Steud. ex Schott",
+        "Arisaema peltatum C.E.C.Fisch.",
+        "Arisaema pulchrum N.E.Br."
+    ],
+    "familyName": "ARACEAE",
+    "englishNames": [
+        "Indian Turnip"
+    ],
+    "sinhalaName": "Wal kidaram (වල් කිඩාරම් /  වල් කිඩාරං )",
+    "description": "ඖෂධීය පැළෑටියකි. කඳ පාදස්ථය (corm) අර්ධ ගෝලාකාර (subglobose) වේ. පත්‍ර තනි එකකි, අරීයව බෙදී පවතී (radiatisect). පත්‍ර දණ්ඩ මීටර් 1.25ක් දක්වා දිගු වන අතර, පාදස්ථය කොපු ආකාර වේ, සාමාන්‍යයෙන් ලප සහිතය. පත්‍රිකා 5-13ක් පවතී, බොහෝ විට 7කි, දාරය සම්පූර්ණ හෝ ඉතා සියුම් ලෙස දත් සහිත (erose) වේ, ප්‍රතිලෝම බිත්තරාකාර (obovate) සිට හෙල්ලයක හැඩැති (lanceolate) දක්වා වේ, උඩ පැත්ත දිලිසෙන සුළු වන අතර යටි පැත්ත මැට් (dull) සහ ලා කොළ පැහැතිය, අග්‍රය කෙටි උල් සහිත (acuminate) වේ, පත්‍රිකා වෘන්ත රහිත (sessile) වන අතර පාදස්ථය දෙසට සිහින් වේ, නාරටි වින්‍යාසය පක්ෂාකාර (pinnate) වන අතර උප-පර්යන්ත නාරටි දෙකක් පවතී. පුෂ්ප මංජරිය (spadix) කුඩා ශාකවල පුරුෂ පුෂ්ප දරන අතර විශාල ශාකවල ස්ත්‍රී පුෂ්ප දරයි. ස්ත්‍රී පුෂ්ප තදින් ඇසිරී පවතී, සෑම පුෂ්පයක්ම අර්ධ ගෝලාකාර (subglobose) වන අතර කෙටි රූපකයක් (style) මත පැපිලෝස් (papillose) කලංකයක් පවතී. පුරුෂ පුෂ්ප විසිරී පවතී, 2-8 බැගින් වූ කෙටි වෘන්ත සහිත පරාගධානි (anthers) සමූහ ලෙස පවතී. බෙරි ගෙඩිවල ගෝලාකාර බීජ 1ක් හෝ කිහිපයක් පවතී.",
+    "treatments": [
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Abdominal Colic",
+            "sinhala": "උදරයේ ශූල වේදනාව (බඩේ කැක්කුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fistula-in-ano",
+            "sinhala": "භගන්දරය (ගුද මාර්ගයේ හටගන්නා වණ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Disorders",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Tubers"
+    ],
+    "images": [
+        {
+            "image_id": "1676",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/d4rbvKJJ/plant00132-01676.jpg"
+        },
+        {
+            "image_id": "1677",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/1fddzqJS/plant00132-01677.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කිඩාරම් - Kidaram - Amorphophallus paeoniifolius",
+                "url": "https://youtube.com/watch?v=sSJXy8Z6tO0",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/sSJXy8Z6tO0/hqdefault.jpg"
+            },
+            {
+                "title": "කිඩාරම් ශාකය පිළිබඳ විශේෂ කරුණු ටිකක් | kidaram | Amorphophallus paeoniifoliu🌿",
+                "url": "https://youtube.com/watch?v=CB-xr1rjPi0",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/CB-xr1rjPi0/hqdefault.jpg"
+            },
+            {
+                "title": "Elephant Foot Yam/Stink Lily Plant ( Amorphophallus paeoniifolius)/ kidaram - කිඩාරම් මල Sri Lanka",
+                "url": "https://youtube.com/watch?v=d5pfUQ_v_wg",
+                "duration": "0:12",
+                "thumbnail": "https://i.ytimg.com/vi/d5pfUQ_v_wg/hq720.jpg"
+            },
+            {
+                "title": "ඇයි කිඩා‍රම් මල මෙච්චර ගඳ Elephant foot yam flower, Stink Lily",
+                "url": "https://youtube.com/watch?v=8_9UZtm7m3k",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/8_9UZtm7m3k/hq720.jpg"
+            },
+            {
+                "title": "කිඩාරම් අල | Elephant foot yam | රූසෝ | Ruuso @RuusoOfficial #science #explained",
+                "url": "https://youtube.com/watch?v=3FyNc1_0gM0",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/3FyNc1_0gM0/hq720.jpg"
+            },
+            {
+                "title": "රසවත් මෙන්ම ගුනයෙන් පිරි කිඩාරම් අල කරියක් හදමු 🥔🥔🍲🍲| elephant foot yum",
+                "url": "https://youtube.com/watch?v=e6U7c_ohn2M",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/e6U7c_ohn2M/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය වටිනාකමක් ඇති කිඩාරම් අල වගාව | Elephant Foot Yam",
+                "url": "https://youtube.com/watch?v=tvvSseogBso",
+                "duration": "9:31",
+                "thumbnail": "https://i.ytimg.com/vi/tvvSseogBso/hq720.jpg"
+            },
+            {
+                "title": "නිල මැස්සො ඇවිල්ලා - කිඩාරම් මල  Elephant yam",
+                "url": "https://youtube.com/watch?v=LL1ZroE_Q98",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/LL1ZroE_Q98/hq720.jpg"
+            },
+            {
+                "title": "Elephant Foot Yam/ කිඩාරම් මල #CleverKids",
+                "url": "https://youtube.com/watch?v=0yErpYBflZo",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/0yErpYBflZo/hqdefault.jpg"
+            },
+            {
+                "title": "Elephant Foot Yam Flower | Stink Lily | කිඩාරම් මල",
+                "url": "https://youtube.com/watch?v=AWh5xXwADBI",
+                "duration": "0:55",
+                "thumbnail": "https://i.ytimg.com/vi/AWh5xXwADBI/hq720.jpg"
+            },
+            {
+                "title": "කිඩාරම් ගැන මේ රහස් ඔබ දන්නවාද?/Elephant foot yam..",
+                "url": "https://youtube.com/watch?v=1k5-eObELVM",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/1k5-eObELVM/hq720.jpg"
+            },
+            {
+                "title": "කිඩාරම් අල කාලා අර්ශස්,පිලීකා, රක්තවාතය සුවවනහැටි.",
+                "url": "https://youtube.com/watch?v=nQLvciQwvwA",
+                "duration": "9:15",
+                "thumbnail": "https://i.ytimg.com/vi/nQLvciQwvwA/hq720.jpg"
+            },
+            {
+                "title": "Wal Kidaram. Senani Jayasundara.",
+                "url": "https://youtube.com/watch?v=vntuDFvExqo",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/vntuDFvExqo/hq720.jpg"
+            },
+            {
+                "title": "කිඩාරම් (අර්ශස් නාශක)",
+                "url": "https://youtube.com/watch?v=onScANESB2I",
+                "duration": "0:27",
+                "thumbnail": "https://i.ytimg.com/vi/onScANESB2I/hq720.jpg"
+            },
+            {
+                "title": "Amorphophallus | ayurvedic plants | amazing flower | kidaram mala | අහලා ඇති දැකලා නැති කිඩාරම් මල",
+                "url": "https://youtube.com/watch?v=cwDzuWkzREQ",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/cwDzuWkzREQ/hq720.jpg"
+            },
+            {
+                "title": "කිඩාරම් ගස",
+                "url": "https://youtube.com/watch?v=Hj-zEAmfXWM",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/Hj-zEAmfXWM/hq720.jpg"
+            },
+            {
+                "title": "බෝවත්තේ සුවඳ දිගහැරී කිඩාරම් මල",
+                "url": "https://youtube.com/watch?v=KJmEwmnj3Y0",
+                "duration": "0:45",
+                "thumbnail": "https://i.ytimg.com/vi/KJmEwmnj3Y0/hq720.jpg"
+            },
+            {
+                "title": "#shorts#  අර්ශස් ගෙඩි හකුලවන පාත්තර අලය - කිඩාරම්",
+                "url": "https://youtube.com/watch?v=PeWq5rcLAAo",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/PeWq5rcLAAo/hq720.jpg"
+            },
+            {
+                "title": "කිඩාරම් මල",
+                "url": "https://youtube.com/watch?v=wuOy-oE-sy4",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/wuOy-oE-sy4/hq720_2.jpg"
+            },
+            {
+                "title": "Kidaram Flower - කිඩාරම් මල",
+                "url": "https://youtube.com/watch?v=gqb4LOy_GDE",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/gqb4LOy_GDE/hq720_2.jpg"
+            },
+            {
+                "title": "කිඩාරම් | ගද ගහන විශාලම පුශ්ඵය | කිඩාරම් අල | 2024",
+                "url": "https://youtube.com/watch?v=isWC0Brfoo4",
+                "duration": "6:21",
+                "thumbnail": "https://i.ytimg.com/vi/isWC0Brfoo4/hqdefault.jpg"
+            },
+            {
+                "title": "කුණු මස් ගඳ ගහන කිඩාරම් මල | kidaram mala | Elephant foot yam flower | rotten flesh smell flower",
+                "url": "https://youtube.com/watch?v=2Zlxz9Vt9e8",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/2Zlxz9Vt9e8/hq720.jpg"
+            },
+            {
+                "title": "40 ඇයි පොලව පලාගෙන අමුතු මල් පහල වෙන්නෙ how to grow Elephant Foot Yam පොච්චියක  කිඩාරම් අල වවමු",
+                "url": "https://youtube.com/watch?v=_OPffYsByvo",
+                "duration": "5:52",
+                "thumbnail": "https://i.ytimg.com/vi/_OPffYsByvo/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Abdominal Colic",
-      "sinhala": "උදරයේ ශූල වේදනාව (බඩේ කැක්කුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fistula-in-ano",
-      "sinhala": "භගන්දරය (ගුද මාර්ගයේ හටගන්නා වණ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Tract Disorders",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Tubers"
-  ],
-  "images": [
-    {
-      "image_id": "1676",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/d4rbvKJJ/plant00132-01676.jpg"
-    },
-    {
-      "image_id": "1677",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/1fddzqJS/plant00132-01677.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

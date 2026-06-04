@@ -1,115 +1,636 @@
 {
-  "scientificName": "Oroxylum indicum (L.) Kurz",
-  "synonyms": [
-    "Arthrophyllum ceylanicum Miq.",
-    "Arthrophyllum reticulatum Blume ex Miq.",
-    "Bignonia indica L.",
-    "Bignonia lugubris Salisb.",
-    "Bignonia pentandra Lour.",
-    "Bignonia quadripinnata Blanco",
-    "Bignonia tripinnata Noronha",
-    "Bignonia tuberculata Roxb. ex DC.",
-    "Calosanthes indica (L.) Blume",
-    "Hippoxylon indica (L.) Raf.",
-    "Oroxylum flavum Rehder",
-    "Spathodea indica (L.) Pers."
-  ],
-  "familyName": "BIGNONIACEAE",
-  "englishNames": [
-    "Broken Bones Tree",
-    "Midnight Horror",
-    "Tree of Damocles",
-    "Indian Trumpet Flower"
-  ],
-  "sinhalaName": "Thotila (තොටිල)",
-  "description": "මීටර් 5 - 8 ක් උසැති, ඇතැම් විට මීටර් 13 ක් දක්වා උසැති කුඩා ගසකි. පොත්ත ඝනකම වන අතර කහ පැහැති අළු පැහැයක් ගනී; විශාල කෝකිය (corky) ලෙන්ටිසෙල් (lenticels) රාශියකින් සමන්විත වේ. බොහෝ විට අතු බෙදී ඇත්තේ ඉහළ කොටසින් අක්‍රමවත් ලෙසය. පත්‍රවල දළ සටහන ත්‍රිකෝණාකාර-ඩිම්බකෝෂ (deltoid-ovate) හැඩයක් ගනී; පත්‍ර පාදය මොට (obtuse) සිට හෘදයාකාර (cordate) හෝ ඇල (oblique) වේ. පත්‍ර දාරය සම්පූර්ණ (entire) වන අතර, අග්‍රය වලිගයක් වැනි උල් සහිත (caudate-acuminate) වේ; ඉතා කුඩා කොරපොතු වැනි (lepidote) ස්වභාවයක් ගනී. පුෂ්ප මංජරිය ඉතා ශක්තිමත්, අත්තක් වැනි පුෂ්ප දණ්ඩක් මත පිහිටා ඇති අතර එය දිගු කලක් පවතී. බාහිර දල කෝෂය (calyx) කළු පැහැයට හුරු දම් පැහැයක් ගනී, රෝම රහිත (glabrous) වේ; මල් සවස් කාලයේ විවෘත වන අතර, පිටතින් තද තද රතු (maroon) සිට රතු-දම් පැහැයක් ගන්නා අතර ඇතුළත ක්‍රීම්-කහ පැහැයක් සහ පැතිරුණු අඳුරු රෝස පැහැයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Oroxylum indicum (L.) Kurz",
+    "synonyms": [
+        "Arthrophyllum ceylanicum Miq.",
+        "Arthrophyllum reticulatum Blume ex Miq.",
+        "Bignonia indica L.",
+        "Bignonia lugubris Salisb.",
+        "Bignonia pentandra Lour.",
+        "Bignonia quadripinnata Blanco",
+        "Bignonia tripinnata Noronha",
+        "Bignonia tuberculata Roxb. ex DC.",
+        "Calosanthes indica (L.) Blume",
+        "Hippoxylon indica (L.) Raf.",
+        "Oroxylum flavum Rehder",
+        "Spathodea indica (L.) Pers."
+    ],
+    "familyName": "BIGNONIACEAE",
+    "englishNames": [
+        "Broken Bones Tree",
+        "Midnight Horror",
+        "Tree of Damocles",
+        "Indian Trumpet Flower"
+    ],
+    "sinhalaName": "Thotila (තොටිල)",
+    "description": "මීටර් 5 - 8 ක් උසැති, ඇතැම් විට මීටර් 13 ක් දක්වා උසැති කුඩා ගසකි. පොත්ත ඝනකම වන අතර කහ පැහැති අළු පැහැයක් ගනී; විශාල කෝකිය (corky) ලෙන්ටිසෙල් (lenticels) රාශියකින් සමන්විත වේ. බොහෝ විට අතු බෙදී ඇත්තේ ඉහළ කොටසින් අක්‍රමවත් ලෙසය. පත්‍රවල දළ සටහන ත්‍රිකෝණාකාර-ඩිම්බකෝෂ (deltoid-ovate) හැඩයක් ගනී; පත්‍ර පාදය මොට (obtuse) සිට හෘදයාකාර (cordate) හෝ ඇල (oblique) වේ. පත්‍ර දාරය සම්පූර්ණ (entire) වන අතර, අග්‍රය වලිගයක් වැනි උල් සහිත (caudate-acuminate) වේ; ඉතා කුඩා කොරපොතු වැනි (lepidote) ස්වභාවයක් ගනී. පුෂ්ප මංජරිය ඉතා ශක්තිමත්, අත්තක් වැනි පුෂ්ප දණ්ඩක් මත පිහිටා ඇති අතර එය දිගු කලක් පවතී. බාහිර දල කෝෂය (calyx) කළු පැහැයට හුරු දම් පැහැයක් ගනී, රෝම රහිත (glabrous) වේ; මල් සවස් කාලයේ විවෘත වන අතර, පිටතින් තද තද රතු (maroon) සිට රතු-දම් පැහැයක් ගන්නා අතර ඇතුළත ක්‍රීම්-කහ පැහැයක් සහ පැතිරුණු අඳුරු රෝස පැහැයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Otorrhoea",
+            "sinhala": "කනෙන් සැරව ගැලීම (කර්ණස්‍රාවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Stem bark",
+        "Root"
+    ],
+    "images": [
+        {
+            "image_id": "1661",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/6cypcMfx/plant00245-01661.jpg"
+        },
+        {
+            "image_id": "1662",
+            "caption": "Habit (Wet zone)",
+            "url": "https://i.ibb.co/LXKxvCpD/plant00245-01662.jpg"
+        },
+        {
+            "image_id": "1663",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/DfyHxdmP/plant00245-01663.jpg"
+        },
+        {
+            "image_id": "1664",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/jv9bBLzB/plant00245-01664.jpg"
+        },
+        {
+            "image_id": "3463",
+            "caption": "Seeds (PMR)",
+            "url": "https://i.ibb.co/7xRWMt02/plant00245-03463.jpg"
+        },
+        {
+            "image_id": "3464",
+            "caption": "Sapling (PMR)",
+            "url": "https://i.ibb.co/V01tcLjN/plant00245-03464.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "තොටිල ‍| තොටිල්ල හඳුනා ගන්න",
+                "url": "https://youtube.com/watch?v=dHuR8i4QEtA",
+                "duration": "11:22",
+                "thumbnail": "https://i.ytimg.com/vi/dHuR8i4QEtA/hq720.jpg"
+            },
+            {
+                "title": "තොටිල පැලවෙලා",
+                "url": "https://youtube.com/watch?v=FfUHeriaj3g",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/FfUHeriaj3g/hq720.jpg"
+            },
+            {
+                "title": "දස මූල සංයෝගයේ සාමාජික තොටිල | ලක් එෆ්.එම් ළමා නිවේදිකා, ළමා ගායිකා රෂ්මි නවෝද්‍යා #srilanka #tips",
+                "url": "https://youtube.com/watch?v=Ju9Guth5XcU",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/Ju9Guth5XcU/hq720.jpg"
+            },
+            {
+                "title": "දශමූලයට අයත් කැස්ස, කුෂ්ඨ ඇතුළු රෝග රැසකට ගුණ තොටිල්ල",
+                "url": "https://youtube.com/watch?v=kiIvjeI9xjs",
+                "duration": "8:29",
+                "thumbnail": "https://i.ytimg.com/vi/kiIvjeI9xjs/hq720.jpg"
+            },
+            {
+                "title": "සුළඟ මඟින් ව්‍යාප්තවනබීජ/seeds propagated by wind/beeja wiyaptiya/බීජ ව්‍යාප්තිය සිදු වෙන්නේ මෙහෙමයි",
+                "url": "https://youtube.com/watch?v=IVxIeMOW59k",
+                "duration": "8:27",
+                "thumbnail": "https://i.ytimg.com/vi/IVxIeMOW59k/hqdefault.jpg"
+            },
+            {
+                "title": "තොටිල ‍| තොටිල්ල හඳුනා ගන්න",
+                "url": "https://youtube.com/watch?v=Gtqo8auW3rE",
+                "duration": "11:22",
+                "thumbnail": "https://i.ytimg.com/vi/Gtqo8auW3rE/frame0.jpg"
+            },
+            {
+                "title": "මොනවද මේ ඖශධීය ගුණවලින් සමන්විත \"නිටොල්\"  - තිලක් කන්දේගම / Plumbago Indica - Sri Lanka",
+                "url": "https://youtube.com/watch?v=VzXBTl3a-4U",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/VzXBTl3a-4U/hq720.jpg"
+            },
+            {
+                "title": "සුළඟ මඟින් පැතිරී යන බීජ වර්ග ( sulaga magin pathiri yana bija warga) primary අපි",
+                "url": "https://youtube.com/watch?v=ouaiFFfSU8U",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/ouaiFFfSU8U/hqdefault.jpg"
+            },
+            {
+                "title": "ඔන්චිල්ලා තොටිලි කොයින්දෝ (Reggae) - Onchillla thotili",
+                "url": "https://youtube.com/watch?v=CMn0YPAyBrc",
+                "duration": "5:06",
+                "thumbnail": "https://i.ytimg.com/vi/CMn0YPAyBrc/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු වල තිත්ත ඇත්ත | Turkey Berry & Bitter Truth By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Yxcn99C76YM",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Yxcn99C76YM/hq720.jpg"
+            },
+            {
+                "title": "Onchilla Thotili | Sujatha Attanayake | (Official Audio)",
+                "url": "https://youtube.com/watch?v=vrNS9nkZsDI",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/vrNS9nkZsDI/hqdefault.jpg"
+            },
+            {
+                "title": "තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ.  Health benefits of Thulasi.",
+                "url": "https://youtube.com/watch?v=kKukenrdq0k",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/kKukenrdq0k/hq720.jpg"
+            },
+            {
+                "title": "මේක රාජ භෝජනයක් කියලා දැනම් හිටියද? රෝග රැසකට ගුණ අරුම පුදුම ගහ | පාවට්ටා (Pawatta)",
+                "url": "https://youtube.com/watch?v=R4W7uBs3smA",
+                "duration": "11:35",
+                "thumbnail": "https://i.ytimg.com/vi/R4W7uBs3smA/hq720.jpg"
+            },
+            {
+                "title": "Aththora-සමේ රෝග සුව කරන ඇත්තෝර ඔසු ගුණ same roga nasana Aththora",
+                "url": "https://youtube.com/watch?v=V4MAp3SNC7c",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/V4MAp3SNC7c/hq720.jpg"
+            },
+            {
+                "title": "තල ඇට මෙච්චර ගුණ දායකද? | Danuwath",
+                "url": "https://youtube.com/watch?v=Kenl3c4w0Uo",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/Kenl3c4w0Uo/hq720.jpg"
+            },
+            {
+                "title": "මේ විශ්මිත ශාකයේ ගුණ ..ඔබ නැරඹුවොත් පුදුම වේවි",
+                "url": "https://youtube.com/watch?v=LpV6u0iPaqs",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/LpV6u0iPaqs/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ සපිරි සුදුරු",
+                "url": "https://youtube.com/watch?v=HrrB8n3mkys",
+                "duration": "5:24",
+                "thumbnail": "https://i.ytimg.com/vi/HrrB8n3mkys/hq720.jpg"
+            },
+            {
+                "title": "අතිවිශිෂ්ඨ ගුණ වලින් හෙබි අපේ ඔසුව | Ithana | Ceylon Agri | Episode 142",
+                "url": "https://youtube.com/watch?v=SOCAHEP3yTA",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/SOCAHEP3yTA/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "Gotukola and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LcQ_lwSLdIA",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/LcQ_lwSLdIA/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "⁣ඖෂධ පැලෑටි වර්ග සීයයක් එක වීඩියෝවකින් බලන්න meditation plants #dpeducation #meditation #plants",
+                "url": "https://youtube.com/watch?v=qYKBg3T1Qx0",
+                "duration": "7:30",
+                "thumbnail": "https://i.ytimg.com/vi/qYKBg3T1Qx0/hqdefault.jpg"
+            },
+            {
+                "title": "දත් වලට, කටේ තුවාල වලට ඉතා ගුණ , බඩේ දෝෂ, හෘදයේ ගැටළු ඇතුළු රෝග රැසකට හොදම ඖශධිය ශාකය | මුණ මල් ශාකය",
+                "url": "https://youtube.com/watch?v=6WHr-kmwPzg",
+                "duration": "9:47",
+                "thumbnail": "https://i.ytimg.com/vi/6WHr-kmwPzg/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල 32ක් | වල් පැල කියල ගලවලා විසිකරන වටිනා ඔසු | Osu Pela 32 k Menna | ඖෂධීය ශාක හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=Fy5R3h2W1kw",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/Fy5R3h2W1kw/hq720.jpg"
+            },
+            {
+                "title": "ඕනෑම කටුවක් විනාඩි කිහිපයෙන් නිකන්ම එලියට එනවා. ශල්‍යකමයක් නැතුව කටුව එලියට ගන්න ගැමි වෙදකමේ රහසක්.",
+                "url": "https://youtube.com/watch?v=nhp8_Hld0y4",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/nhp8_Hld0y4/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "Best Easy Treatment for dark teeth | විට කහට යවන ස්වභාවික බෙහෙත",
+                "url": "https://youtube.com/watch?v=U9ZX_RJ387w",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/U9ZX_RJ387w/hqdefault.jpg"
+            },
+            {
+                "title": "තිබ්බටුවල ඇති විශේෂිත ගුණ.  Turkey Berry.",
+                "url": "https://youtube.com/watch?v=KAsZe_2Z-F0",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/KAsZe_2Z-F0/hq720.jpg"
+            },
+            {
+                "title": "හදවත රකින සූදුරු .  සූදුරු  වල ඇති ආයුර්වේදීය ගුණ .",
+                "url": "https://youtube.com/watch?v=Ty2rR_aZVDY",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ty2rR_aZVDY/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ ශාකයේ ගුණ Leucas aspera geta thuba getathuba guna ගැට තුබ වගාව getathuba wagawa badungathawa",
+                "url": "https://youtube.com/watch?v=oUs0G1l121Y",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/oUs0G1l121Y/hq720.jpg"
+            },
+            {
+                "title": "තන්තුමය ආහාර වල ඔබ නොදන්නා ගුණ | Benefits of Fiber | Dietary Fiber",
+                "url": "https://youtube.com/watch?v=Qjyv5-JQM30",
+                "duration": "9:40",
+                "thumbnail": "https://i.ytimg.com/vi/Qjyv5-JQM30/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "තලවල අතිවිශිෂ්ට සෞඛ්‍ය ප්‍රතිලාභ | Superfood For Strong Bones and Heart @Knowdiet496",
+                "url": "https://youtube.com/watch?v=ouCp3BpFNEI",
+                "duration": "8:38",
+                "thumbnail": "https://i.ytimg.com/vi/ouCp3BpFNEI/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත නැති තුඹ වල ගුණ අගුණ සමෙහි ඇති වන ආසාදනයන්ට තිත baby bottle gourd benefits",
+                "url": "https://youtube.com/watch?v=WOUOlSpAplM",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/WOUOlSpAplM/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව, කොලොස්ටරෝල් අඩු කරන රස වගේම ගුණ පානය",
+                "url": "https://youtube.com/watch?v=dj16BMLZ4WM",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/dj16BMLZ4WM/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙත් ගන්නවද ?  තල් ගෙඩියෙන් ගොඩදාගන්නවද? | Palmyra By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=9fTmI3sz-uE",
+                "duration": "13:54",
+                "thumbnail": "https://i.ytimg.com/vi/9fTmI3sz-uE/hq720.jpg"
+            },
+            {
+                "title": "පාවට්ටා /ආඩතෝඩා/අගල්ආධාර. Medicinal value of Pavatta",
+                "url": "https://youtube.com/watch?v=lcyrrINSThE",
+                "duration": "6:17",
+                "thumbnail": "https://i.ytimg.com/vi/lcyrrINSThE/hq720.jpg"
+            },
+            {
+                "title": "#Aratuwa# Gotukola # ගොටුකොළවල ගුණ ඔබ දන්නවාද #",
+                "url": "https://youtube.com/watch?v=LatcXZZ0Dl4",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/LatcXZZ0Dl4/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබේ  ප්‍රශ්න  තුරන් කර ඔබ දියුණු  වෙන්න.  දියුණුවේ  රහස",
+                "url": "https://youtube.com/watch?v=adzQht2yUlo",
+                "duration": "8:43",
+                "thumbnail": "https://i.ytimg.com/vi/adzQht2yUlo/hq720.jpg"
+            },
+            {
+                "title": "ජීවිතේට එන ටෝක්සික් මිනිස්සුන්ගෙන් තියන ප්‍රයෝජන 7ක් - 7 Hidden Benefits of Toxic People",
+                "url": "https://youtube.com/watch?v=N7EKV9f7HZY",
+                "duration": "17:33",
+                "thumbnail": "https://i.ytimg.com/vi/N7EKV9f7HZY/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් මිනිසාට ඇති ප්‍රයෝජන, අප අවට සත්තු,sathungen minisata athi preyojana, Apa awata saththu,",
+                "url": "https://youtube.com/watch?v=QKzQ_lIBcr4",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/QKzQ_lIBcr4/hq720.jpg"
+            },
+            {
+                "title": "03 වන තේමාව - 03 වන පාඩම | සතුන්ගේ චර්යා වලින් ඇති ප්‍රයෝජන | 02 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=N-4RR2AJ2ZY",
+                "duration": "15:11",
+                "thumbnail": "https://i.ytimg.com/vi/N-4RR2AJ2ZY/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන මොකක්ද මේ තනිගහ (වඳවීමේ තර්ජනයට ලක්ව ඇති ශාකයක්)",
+                "url": "https://youtube.com/watch?v=v7FvAYllpz8",
+                "duration": "8:50",
+                "thumbnail": "https://i.ytimg.com/vi/v7FvAYllpz8/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "සත්තුන්ගෙන් අපට ලැබෙන ප්‍රයෝජන  | 03 වන තේමාව  | 01 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=8tfTs8fo9pU",
+                "duration": "14:31",
+                "thumbnail": "https://i.ytimg.com/vi/8tfTs8fo9pU/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "බර අඩු කරන, කොලෙස්ටරෝල්, දියවැඩියාව පාලනයට ගුණ ආහාරය පැළ මුං | Mung bean sprouts",
+                "url": "https://youtube.com/watch?v=B6aXsgnrL4Q",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/B6aXsgnrL4Q/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන - Benefits of Water",
+                "url": "https://youtube.com/watch?v=kt5Lgg90GcA",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/kt5Lgg90GcA/hq720.jpg"
+            },
+            {
+                "title": "⛔ලංකාව ලෝකය හොල්ලයි! ලේ වල ඝනකම අඩුකරන සුපිරි පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=R03vVDIhLWs",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/R03vVDIhLWs/hq720.jpg"
+            },
+            {
+                "title": "Teak Plant Benefits: Spiritual Uses & Powerful Health Secrets of Teak Leaves",
+                "url": "https://youtube.com/watch?v=w5g_pqslV6g",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/w5g_pqslV6g/hq720.jpg"
+            },
+            {
+                "title": "Cactus Leaf: Benefits & Uses (Nopales)",
+                "url": "https://youtube.com/watch?v=ayQyCUyKk-U",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/ayQyCUyKk-U/hq720.jpg"
+            },
+            {
+                "title": "Purslane: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=AKjcsZRcuQY",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/AKjcsZRcuQY/hq720.jpg"
+            },
+            {
+                "title": "Top 7 Surprising Health Benefits of Cactus!",
+                "url": "https://youtube.com/watch?v=8WlF1RVNxFM",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/8WlF1RVNxFM/hq720.jpg"
+            },
+            {
+                "title": "11 Remarkable Stinging Nettle Benefits For Hair, Body, Skin & Gout",
+                "url": "https://youtube.com/watch?v=ZjXXvKizC8A",
+                "duration": "5:50",
+                "thumbnail": "https://i.ytimg.com/vi/ZjXXvKizC8A/hq720.jpg"
+            },
+            {
+                "title": "10 LIFE CHANGING Health Benefits Of HOLY BASIL (Tulsi) No One Told You",
+                "url": "https://youtube.com/watch?v=dOvaBvwPz2w",
+                "duration": "18:46",
+                "thumbnail": "https://i.ytimg.com/vi/dOvaBvwPz2w/hq720.jpg"
+            },
+            {
+                "title": "TATSOI - HEALTH BENEFITS AND NUTRIENTS FACTS",
+                "url": "https://youtube.com/watch?v=j91kVYFnPN0",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/j91kVYFnPN0/hq720.jpg"
+            },
+            {
+                "title": "Thyme Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=0PJqgjMPx0c",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/0PJqgjMPx0c/hq720.jpg"
+            },
+            {
+                "title": "Thyme Leaves Health Benefits | 15 Amazing Health Benefits of Thyme | Dr. Eilbra Younan",
+                "url": "https://youtube.com/watch?v=TiCzzMLx-ko",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/TiCzzMLx-ko/hq720.jpg"
+            },
+            {
+                "title": "Ashitaba Plant: Health Benefits (Tomorrow Leaf)",
+                "url": "https://youtube.com/watch?v=pxJLhqXJS3Q",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/pxJLhqXJS3Q/hq720.jpg"
+            },
+            {
+                "title": "Amazing Benefits of Tawa Tawa Plant | Tawa Tawa Secret Health Benefits",
+                "url": "https://youtube.com/watch?v=oTsdrVWwBU8",
+                "duration": "6:44",
+                "thumbnail": "https://i.ytimg.com/vi/oTsdrVWwBU8/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Health Benefits Of Cactus Water",
+                "url": "https://youtube.com/watch?v=v4l2A9XmpUE",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/v4l2A9XmpUE/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "Plantain Uses and Benefits",
+                "url": "https://youtube.com/watch?v=-97NXHyxRjA",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/-97NXHyxRjA/hq720.jpg"
+            },
+            {
+                "title": "Teak Plant Benefits: Spiritual Uses & Powerful Health Secrets of Teak Leaves",
+                "url": "https://youtube.com/watch?v=F6JPWsGusiw",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/F6JPWsGusiw/frame0.jpg"
+            },
+            {
+                "title": "සන්ධි ඉදිමුම, ක්ෂය රෝගය ඇතුළු රෝග රැසකට ගුණ දෙන තොලබෝ | තොලබෝ (Tolabo)",
+                "url": "https://youtube.com/watch?v=h2JaQOiITdk",
+                "duration": "6:56",
+                "thumbnail": "https://i.ytimg.com/vi/h2JaQOiITdk/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "තුල්සි ශාකය | ඔසු ලොව රැජින | Thulsi tree | Ocimum tenuiflorum",
+                "url": "https://youtube.com/watch?v=RjfxpuTgdnQ",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/RjfxpuTgdnQ/hq720.jpg"
+            },
+            {
+                "title": "Pawatta|Adathoda|කැස්ස ඇදුම ඇතුළු රෝග බොහෝමයකට ගුණදෙන -පාවට්ටා(ආඩතෝඩා )",
+                "url": "https://youtube.com/watch?v=ddPZKZjtGco",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/ddPZKZjtGco/hq720.jpg"
+            },
+            {
+                "title": "දෙමව්පියන්ට වගේම ළමුන්ට..| ආරම්භක දේශනය | Dayarathna Muthugala | Episode 454",
+                "url": "https://youtube.com/watch?v=F7E2hiAGBAQ",
+                "duration": "1:27:08",
+                "thumbnail": "https://i.ytimg.com/vi/F7E2hiAGBAQ/hq720.jpg"
+            },
+            {
+                "title": "නීරෝගී ලස්සනටම හැදුනු පැල ඔයාලට ගන්න පුලුවන්#anthuriumwagawasinhala#fypviral#plants0765647812",
+                "url": "https://youtube.com/watch?v=5sUz5dj8UGM",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/5sUz5dj8UGM/hqdefault.jpg"
+            },
+            {
+                "title": "07 වන තේමාව | 02 වන පාඩම - ආහාර වලින් තිබෙන ප්‍රයෝජන | 01 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=ExJxQg6i2JI",
+                "duration": "13:28",
+                "thumbnail": "https://i.ytimg.com/vi/ExJxQg6i2JI/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Holy Basil (Tulsi)",
+                "url": "https://youtube.com/watch?v=cTRC0gAcXIY",
+                "duration": "11:19",
+                "thumbnail": "https://i.ytimg.com/vi/cTRC0gAcXIY/hq720.jpg"
+            },
+            {
+                "title": "6 Health Benefits of Nettle | Benefits of Stinging Nettle Root to Know",
+                "url": "https://youtube.com/watch?v=A4fzFvmQWZM",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/A4fzFvmQWZM/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola Benefits",
+                "url": "https://youtube.com/watch?v=iU9Enpt2hgc",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/iU9Enpt2hgc/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Otorrhoea",
-      "sinhala": "කනෙන් සැරව ගැලීම (කර්ණස්‍රාවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Stem bark",
-    "Root"
-  ],
-  "images": [
-    {
-      "image_id": "1661",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/6cypcMfx/plant00245-01661.jpg"
-    },
-    {
-      "image_id": "1662",
-      "caption": "Habit (Wet zone)",
-      "url": "https://i.ibb.co/LXKxvCpD/plant00245-01662.jpg"
-    },
-    {
-      "image_id": "1663",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/DfyHxdmP/plant00245-01663.jpg"
-    },
-    {
-      "image_id": "1664",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/jv9bBLzB/plant00245-01664.jpg"
-    },
-    {
-      "image_id": "3463",
-      "caption": "Seeds (PMR)",
-      "url": "https://i.ibb.co/7xRWMt02/plant00245-03463.jpg"
-    },
-    {
-      "image_id": "3464",
-      "caption": "Sapling (PMR)",
-      "url": "https://i.ibb.co/V01tcLjN/plant00245-03464.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

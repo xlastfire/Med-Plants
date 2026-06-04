@@ -1,108 +1,701 @@
 {
-  "scientificName": "Tagetes erecta L.",
-  "synonyms": [
-    "Tagetes corymbosa Sweet",
-    "Tagetes corymbosa Sweet",
-    "Tagetes elongata Willd.",
-    "Tagetes elongata Willd.",
-    "Tagetes heterocarpha Rydb.",
-    "Tagetes heterocarpha Rydb.",
-    "Tagetes major Gaertn.",
-    "Tagetes major Gaertn.",
-    "Tagetes patula L.",
-    "Tagetes patula L.",
-    "Tagetes remotiflora Kunze",
-    "Tagetes remotiflora Kunze",
-    "Tagetes tenuifolia Kunth",
-    "Tagetes tenuifolia Kunth"
-  ],
-  "familyName": "ASTERACEAE",
-  "englishNames": [
-    "Marigold Yellow",
-    "Marigold",
-    "African Marigold",
-    "Aztec Marigold",
-    "Big Marigold",
-    "American Marigold"
-  ],
-  "sinhalaName": "Mahayak mal (මහයක් මල්)",
-  "description": "සෘජු වාර්ෂික පැළෑටි, සෙ.මී. 15 - 60 ක් උසැතිය. පත්‍ර පක්ෂ්මව පිහිටි (pinnate) අතර සෙ.මී. 2.5 - 15 ක් දිගය; පත්‍රිකා 11 - 17 ක් සහිත වන අතර ඒවා ලාන්සාකාර (lanceolate) වේ, සෙ.මී. 1 - 5 ක් දිග සහ මි.මී. 2 - 10 ක් පළලය, පාදම ක්ෂීණ (attenuate) වේ, අග්‍රය තියුණු (acute) හෝ උල් වූ (acuminate) වේ, දාරය කියත් දත් සහිත (serrate) වේ, ඉහළ පත්‍රවල දත් සාමාන්‍යයෙන් සියුම් කටු සහිත (setose) අග්‍රයකින් යුක්ත වේ, ග්‍රන්ථි ස්වල්පයක් පවතින අතර ඒවා සාමාන්‍යයෙන් දත්වල පාදමේ පිහිටයි. පුෂ්ප මංජරිය (capitula) තනිව පිහිටන අතර ඒවා ඉදිමුණු පුෂ්ප දණ්ඩක් (peduncle) මත සෙ.මී. 5 - 15 ක් දිගට පිහිටයි. ආවෘත පත්‍ර (involucre) සෙ.මී. 1.75 - 2 ක් දිග සහ මි.මී. 7 - 12 ක් පළල වන අතර රෝම රහිත (glabrous) වේ. පැපස් (pappus) කොරපොතු එකිනෙක සම්බන්ධ වී මි.මී. 4 - 4.5 ක් දිගට පිහිටන අතර, මි.මී. 6 - 10 ක් දිගැති දිගු කටු වැනි (aristate) කොරපොතු 1 - 2 ක් ද පවතී.",
-  "treatments": [
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Tagetes erecta L.",
+    "synonyms": [
+        "Tagetes corymbosa Sweet",
+        "Tagetes corymbosa Sweet",
+        "Tagetes elongata Willd.",
+        "Tagetes elongata Willd.",
+        "Tagetes heterocarpha Rydb.",
+        "Tagetes heterocarpha Rydb.",
+        "Tagetes major Gaertn.",
+        "Tagetes major Gaertn.",
+        "Tagetes patula L.",
+        "Tagetes patula L.",
+        "Tagetes remotiflora Kunze",
+        "Tagetes remotiflora Kunze",
+        "Tagetes tenuifolia Kunth",
+        "Tagetes tenuifolia Kunth"
+    ],
+    "familyName": "ASTERACEAE",
+    "englishNames": [
+        "Marigold Yellow",
+        "Marigold",
+        "African Marigold",
+        "Aztec Marigold",
+        "Big Marigold",
+        "American Marigold"
+    ],
+    "sinhalaName": "Mahayak mal (මහයක් මල්)",
+    "description": "සෘජු වාර්ෂික පැළෑටි, සෙ.මී. 15 - 60 ක් උසැතිය. පත්‍ර පක්ෂ්මව පිහිටි (pinnate) අතර සෙ.මී. 2.5 - 15 ක් දිගය; පත්‍රිකා 11 - 17 ක් සහිත වන අතර ඒවා ලාන්සාකාර (lanceolate) වේ, සෙ.මී. 1 - 5 ක් දිග සහ මි.මී. 2 - 10 ක් පළලය, පාදම ක්ෂීණ (attenuate) වේ, අග්‍රය තියුණු (acute) හෝ උල් වූ (acuminate) වේ, දාරය කියත් දත් සහිත (serrate) වේ, ඉහළ පත්‍රවල දත් සාමාන්‍යයෙන් සියුම් කටු සහිත (setose) අග්‍රයකින් යුක්ත වේ, ග්‍රන්ථි ස්වල්පයක් පවතින අතර ඒවා සාමාන්‍යයෙන් දත්වල පාදමේ පිහිටයි. පුෂ්ප මංජරිය (capitula) තනිව පිහිටන අතර ඒවා ඉදිමුණු පුෂ්ප දණ්ඩක් (peduncle) මත සෙ.මී. 5 - 15 ක් දිගට පිහිටයි. ආවෘත පත්‍ර (involucre) සෙ.මී. 1.75 - 2 ක් දිග සහ මි.මී. 7 - 12 ක් පළල වන අතර රෝම රහිත (glabrous) වේ. පැපස් (pappus) කොරපොතු එකිනෙක සම්බන්ධ වී මි.මී. 4 - 4.5 ක් දිගට පිහිටන අතර, මි.මී. 6 - 10 ක් දිගැති දිගු කටු වැනි (aristate) කොරපොතු 1 - 2 ක් ද පවතී.",
+    "treatments": [
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Carbuncles",
+            "sinhala": "රාජ ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Flowers"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ගෙවත්තට ලස්සනම මල් වැලක් \" බහුමානියා \" / The most beautiful flower bouquet  @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=zS6ZzViIjTE",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/zS6ZzViIjTE/hq720.jpg"
+            },
+            {
+                "title": "Mal wagawa/rain lily/ how to grow rain lily/Mal pirenna midule hadana mal",
+                "url": "https://youtube.com/watch?v=QoOd25L1D2U",
+                "duration": "3:40",
+                "thumbnail": "https://i.ytimg.com/vi/QoOd25L1D2U/hq720.jpg"
+            },
+            {
+                "title": "Vishwa Prasadith X Tharushi Senanayake | Akahe Mal (ආකාහේ මල්) | Official Lyric Video",
+                "url": "https://youtube.com/watch?v=HqOy_eBdAwU",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/HqOy_eBdAwU/hq720.jpg"
+            },
+            {
+                "title": "Mal Mandahasenda Kiwe | මල් මන්දහාසෙන්ම කීවේ | Jagath Wikramasinghe",
+                "url": "https://youtube.com/watch?v=dAlq8yLuGmg",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/dAlq8yLuGmg/hq720.jpg"
+            },
+            {
+                "title": "Easy Fabric flower - Satin Dhalia",
+                "url": "https://youtube.com/watch?v=GQuqU2EvFVU",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/GQuqU2EvFVU/hq720.jpg"
+            },
+            {
+                "title": "මහ පුදුමෙකි මලෙක මලකි | මල් බස් | කුමර ගී",
+                "url": "https://youtube.com/watch?v=1jr0avK9bs0",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/1jr0avK9bs0/hq720.jpg"
+            },
+            {
+                "title": "වද මල් යුෂ මගින් ලැබෙන සෞඛ්‍ය ප්‍රතිලාභ 9ක් - 9 Health Benefits of Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=xRInp9A-z18",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/xRInp9A-z18/hq720.jpg"
+            },
+            {
+                "title": "දෙවියන්ගේ ආකර්ෂණය ලබන මදනකාම මල් වල විශ්මිත ගුණ මෙන්න | Horoscope Srilanka",
+                "url": "https://youtube.com/watch?v=dtqrhvyCB7Q",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/dtqrhvyCB7Q/hq720.jpg"
+            },
+            {
+                "title": "තිලොවේ මල් පූජාවයි... තිලොව පුරා මල්...මිහිරි බුදු ගුණ වන්දනාව | Ven. Bandarawela Santhadeepa Thero",
+                "url": "https://youtube.com/watch?v=1zUd__x7vhA",
+                "duration": "32:39",
+                "thumbnail": "https://i.ytimg.com/vi/1zUd__x7vhA/hq720.jpg"
+            },
+            {
+                "title": "කාන්තා රෝග | හෘර්ද රෝග | මුඛ රෝග සහ තවත් රෝග රැසකටම හෙළ ඔසුව | මූණමල් ශාකය |  Munamal🌿",
+                "url": "https://youtube.com/watch?v=UfGs-Iiqm1U",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/UfGs-Iiqm1U/hqdefault.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග නිට්ටාවටම සුව කරන දේශීය මල් වර්ග | මල් වර්ග | විශ්මිත ගුණ ඇති මල් වර්ග",
+                "url": "https://youtube.com/watch?v=wNwqpklUxc4",
+                "duration": "9:11",
+                "thumbnail": "https://i.ytimg.com/vi/wNwqpklUxc4/hqdefault.jpg"
+            },
+            {
+                "title": "ආහාර සඳහා ගන්නා මල් වර්ග / 3.4.5 පරිසරය",
+                "url": "https://youtube.com/watch?v=JYMwGdiu1go",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/JYMwGdiu1go/hq720.jpg"
+            },
+            {
+                "title": "සමන් පිච්ච මලේ අරුම පුදුම වටිනාකම මෙන්න : Benefits of Jasmine flower",
+                "url": "https://youtube.com/watch?v=1buWySWcXnA",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/1buWySWcXnA/hq720.jpg"
+            },
+            {
+                "title": "වද මල් බොන එකේ ඇත්ත නැත්ත | Hibiscus Tea & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=vj2RlbqQtco",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/vj2RlbqQtco/hq720.jpg"
+            },
+            {
+                "title": "තේ වෙනුවට භාවිතා කරන්නට පුලුවන් මල් තේ වර්ග - 10 different flower teas",
+                "url": "https://youtube.com/watch?v=Gg7yRXSy3ng",
+                "duration": "7:23",
+                "thumbnail": "https://i.ytimg.com/vi/Gg7yRXSy3ng/hqdefault.jpg"
+            },
+            {
+                "title": "Budu Guna Pamanai (බුදු ගුණ පමණයි) Vesak Song |  Mangala Denex",
+                "url": "https://youtube.com/watch?v=PHU5t57bTXw",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/PHU5t57bTXw/hq720.jpg"
+            },
+            {
+                "title": "රත්පිත්, උගුරේ ආබාධ ඇතුළු රෝග රැසකට ගුණ විස්මිත ශාකය | මයිල වල නොදත් විස්තර | මයිල(Maila)",
+                "url": "https://youtube.com/watch?v=zKr35hW87g0",
+                "duration": "8:33",
+                "thumbnail": "https://i.ytimg.com/vi/zKr35hW87g0/hq720.jpg"
+            },
+            {
+                "title": "මල් පූජාවෙන් ලැබෙන දේ | Venerable Ankubure Amithadeepa Thero | @BUDU BANA",
+                "url": "https://youtube.com/watch?v=RhtUTX92S2w",
+                "duration": "1:52:29",
+                "thumbnail": "https://i.ytimg.com/vi/RhtUTX92S2w/hqdefault.jpg"
+            },
+            {
+                "title": "The symbolic use and the noble meaning of flower offering| මල් පූජාවේ සංකේත භාවිතාව හා ආර්ය අර්ථය",
+                "url": "https://youtube.com/watch?v=_HD-eVtoxog",
+                "duration": "12:54",
+                "thumbnail": "https://i.ytimg.com/vi/_HD-eVtoxog/hq720.jpg"
+            },
+            {
+                "title": "මේ මල් ටිකක් වෙනිවැල්ගැට කෝප්පයකට දාලා උදේ හවස බොන්න | පුදුමයි! දියවැඩියාව අයේ ජිවිතේට හැදෙන්නේ නැහැ",
+                "url": "https://youtube.com/watch?v=pUE4ckk8h4I",
+                "duration": "22:50",
+                "thumbnail": "https://i.ytimg.com/vi/pUE4ckk8h4I/hq720.jpg"
+            },
+            {
+                "title": "මෙත් මල් පිබිදේවා | මොරිස් දහනායක | Meth Mal Pibidewa | Moris Dahanayake",
+                "url": "https://youtube.com/watch?v=gke8b8_Daj4",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/gke8b8_Daj4/hqdefault.jpg"
+            },
+            {
+                "title": "මළ බද්ධයට හරියටම හරියන දිව්‍ය ඖෂධය | කුප්පමේනියා ශාකයේ ගුණ | Acalypha indica | Sakalawaga",
+                "url": "https://youtube.com/watch?v=Wn51tuaSdyY",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/Wn51tuaSdyY/hq720.jpg"
+            },
+            {
+                "title": "අඩනහිරිය | අඩනහිරියා මල් | කහ අඩනහිරිය | adanahiriya | adanahiriya plant | sinhala  | 2024",
+                "url": "https://youtube.com/watch?v=5ivoeMtnE78",
+                "duration": "7:05",
+                "thumbnail": "https://i.ytimg.com/vi/5ivoeMtnE78/hqdefault.jpg"
+            },
+            {
+                "title": "මහසෙන් අරණ Mahasen Arana සියලුම පාදවල වේදනා වලට ,අත්තික්කා ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=iHO593WN-d8",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/iHO593WN-d8/hq720.jpg"
+            },
+            {
+                "title": "#Flowers that bloom in the evening#සවසට පිපෙන මල්#",
+                "url": "https://youtube.com/watch?v=qz3uUsoYNjI",
+                "duration": "0:20",
+                "thumbnail": "https://i.ytimg.com/vi/qz3uUsoYNjI/hq720.jpg"
+            },
+            {
+                "title": "මේක ස්ප්‍රරේ කරා විතරයි පිරෙන්න මල් ආවා . 100% ක් සාර්තකයි",
+                "url": "https://youtube.com/watch?v=1L6ABOAGi4E",
+                "duration": "10:30",
+                "thumbnail": "https://i.ytimg.com/vi/1L6ABOAGi4E/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවේ අඩුවෙන්ම දකින්න ලැබෙන මල් වර්ගයක්😱 | Beautiful flowers",
+                "url": "https://youtube.com/watch?v=ewRUtaEtnwo",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/ewRUtaEtnwo/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණය අතින් ඉතාමත් ඉහල වදමල් |(සපත්තු මල) wada mal plant | hibiscus flower benefits 🌺",
+                "url": "https://youtube.com/watch?v=rDFoSJDvUAI",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/rDFoSJDvUAI/hq720.jpg"
+            },
+            {
+                "title": "වයස 77යි තාම මල් මදිනවා | මෙලෝ ගුරුමුෂ්ටියක් නෑ | මෙන්න කිතුලට බෙහෙත් තියන විදිහ",
+                "url": "https://youtube.com/watch?v=6NY_X5FYSEE",
+                "duration": "1:15:05",
+                "thumbnail": "https://i.ytimg.com/vi/6NY_X5FYSEE/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණයෙන් පිරි මල් ||Medicinal flowers @AnanmananTV7500 2023",
+                "url": "https://youtube.com/watch?v=e9dJ6O3SS_I",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/e9dJ6O3SS_I/hqdefault.jpg"
+            },
+            {
+                "title": "මානසික ආතතිය නැති කරන මානෙල් මල-  මහඟු ඖෂධයක්",
+                "url": "https://youtube.com/watch?v=ciSn8tnJzeM",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/ciSn8tnJzeM/hq720.jpg"
+            },
+            {
+                "title": "මහදුරු වල විශ්මිත ගුණ - Amazing quality of fennel for a healthy life",
+                "url": "https://youtube.com/watch?v=yu87jayqE8U",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/yu87jayqE8U/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ කුඩු දවස් 14ක් බිව්වොත් වෙන විස්මිත දේ! | Benefits of Moringa Powder (Sinhala)",
+                "url": "https://youtube.com/watch?v=n2bpVCsvkfM",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/n2bpVCsvkfM/hq720.jpg"
+            },
+            {
+                "title": "පොකුරු වදමල් වල ඖෂධීය ගුණ | @Sakalawaga  | #wadamal #වදමල්",
+                "url": "https://youtube.com/watch?v=E4LX7vyL1jA",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/E4LX7vyL1jA/hqdefault.jpg"
+            },
+            {
+                "title": "වදමල් පානය | ඔබ නොහිතන ගුණ ඇත",
+                "url": "https://youtube.com/watch?v=JneIx0wAtso",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/JneIx0wAtso/hqdefault.jpg"
+            },
+            {
+                "title": "අඟුණ කොළ සලාදය හෝ මැල්ලුම ආහාරයට ගැනීමෙන් ලැබෙන  ගුණය   - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=CcEpH4cmi1g",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/CcEpH4cmi1g/hq720.jpg"
+            },
+            {
+                "title": "මහසෙන් අරණ Mahasen Arana දරුඵල පවා ගෙනෙන කෙකටිය ශාකයේ ගුණ බලය",
+                "url": "https://youtube.com/watch?v=nhhT7BS8aUY",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/nhhT7BS8aUY/hq720.jpg"
+            },
+            {
+                "title": "සිරුර පෘෂ්ටිමත් වීමට පමණක් නොව ශ්වසන ආබාධ සදහා ද ගුණ දෙන කුෂ්මාණ්ඩ ‍රසායන බෙහෙත | Kushmaand Rasayan",
+                "url": "https://youtube.com/watch?v=LDl93JcFs1o",
+                "duration": "19:08",
+                "thumbnail": "https://i.ytimg.com/vi/LDl93JcFs1o/hq720.jpg"
+            },
+            {
+                "title": "වදමල් පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක් | Health Benefits Of Hibiscus Tea | Wadamal Bima",
+                "url": "https://youtube.com/watch?v=fxdjqg4xd4k",
+                "duration": "11:16",
+                "thumbnail": "https://i.ytimg.com/vi/fxdjqg4xd4k/hq720.jpg"
+            },
+            {
+                "title": "Rathmal |රත්මල් | දිව ඔසුවක් වන්නේ කෙසේද  Health benefits of jungle geranium",
+                "url": "https://youtube.com/watch?v=3X5RWtZ49OY",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/3X5RWtZ49OY/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල අපට නොපෙනෙන ගුණය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හැරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=hRpzilgWq5o",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/hRpzilgWq5o/hq720.jpg"
+            },
+            {
+                "title": "මහලු වීම වළකන දේශීය බීම වර්ග 10ක් - 10 Drinks That Can Slow Down Aging",
+                "url": "https://youtube.com/watch?v=aF4DLQKwZCo",
+                "duration": "12:37",
+                "thumbnail": "https://i.ytimg.com/vi/aF4DLQKwZCo/hq720.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය වලින් මේ තරම් ගුණ රැසක්? නිතර දකින මේ ප්‍රබල ඔසුව දිව්‍යමය ඖෂධයක් බව දැනසිටියාද?",
+                "url": "https://youtube.com/watch?v=As_UacGA3Kc",
+                "duration": "11:54",
+                "thumbnail": "https://i.ytimg.com/vi/As_UacGA3Kc/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට ගුණ දෙන නික ශාඛය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=cgU7USJ32GA",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/cgU7USJ32GA/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය ගුණ සහිත කුප්පමේනියා ගැන දැනගනිමු |kuppameniya| Acalypha Indica",
+                "url": "https://youtube.com/watch?v=fgliz181Bvg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/fgliz181Bvg/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "නිවස ඇතුලත තියන්න හොඳම ශාකය | Oxigen Plant | Snake Plant | Ceylon Agri | Episode 161",
+                "url": "https://youtube.com/watch?v=tXaQkLW-uGo",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/tXaQkLW-uGo/hq720.jpg"
+            },
+            {
+                "title": "මුදල් ආකර්ෂණය කරන වාසනාවන්ත ශාක 7ක් 🌿💰#මුදල්ආකර්ෂණය #lowofattraction #luckyplants",
+                "url": "https://youtube.com/watch?v=-qwhD9DfTaI",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/-qwhD9DfTaI/hqdefault.jpg"
+            },
+            {
+                "title": "වාසනාව සහ අවාසනාව ලබාදෙන ශාක | නිවසට සුභ ගස් සහ නිවසට අසුභ ගස් - ගුප්ත රහස්",
+                "url": "https://youtube.com/watch?v=FIRaE8srLsQ",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/FIRaE8srLsQ/hq720.jpg"
+            },
+            {
+                "title": "fiowers/Grade 4/parisaraya/4 ශ්‍රේණිය/පරිසරය/කාල නියමයක් ඇති, නැති මල්,   එක් කාලයකට හටගන්නා පලතුරු.",
+                "url": "https://youtube.com/watch?v=m8WNL2FqM60",
+                "duration": "6:37",
+                "thumbnail": "https://i.ytimg.com/vi/m8WNL2FqM60/hq720.jpg"
+            },
+            {
+                "title": "සෙවණට ප්‍රියකරන කලාත්මක ශාක වර්ග | Plants that can grow without sunlight within 2 weeks",
+                "url": "https://youtube.com/watch?v=ojm4U7vPAGs",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/ojm4U7vPAGs/hq720.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "පරාගණය සහ මී මැස්සන්ගේ ජීවිතය 🐝 | අපි එකපාරටම මී වදයක් ඇතුළට ගියොත් මොනවා වෙයිද?",
+                "url": "https://youtube.com/watch?v=0qfuuqBCijU",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/0qfuuqBCijU/hq720.jpg"
+            },
+            {
+                "title": "මාංශ භක්ෂක ශාක/මස් කන ගස් පැළෑටි හා ගස්වැල්/carnivorous plants/singithi iskole",
+                "url": "https://youtube.com/watch?v=6-yE4YlxTZI",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/6-yE4YlxTZI/hqdefault.jpg"
+            },
+            {
+                "title": "මේ දේවල් වල ප්‍රයෝජන දැනගෙන කරමු (Sinhala) හැමෝම නොදන්න ගොඩක් දේ",
+                "url": "https://youtube.com/watch?v=6udAxTpJvv0",
+                "duration": "6:27",
+                "thumbnail": "https://i.ytimg.com/vi/6udAxTpJvv0/hq720.jpg"
+            },
+            {
+                "title": "\" විෂ නසන මල් ගහක් \" / A flower tree that eliminates poisons - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=hbhbVkE0qbA",
+                "duration": "1:48",
+                "thumbnail": "https://i.ytimg.com/vi/hbhbVkE0qbA/hq720.jpg"
+            },
+            {
+                "title": "ශාක මුල් වර්ග සහ මුල් වල කාර්යයන් හඳුනාගනිමු 7 ශ්‍රේණිය විද්‍යාව පාඩම 5 ශ්‍රේණිය ශිෂ්‍යත්ව පාඩම",
+                "url": "https://youtube.com/watch?v=kvFjv5iGtFM",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/kvFjv5iGtFM/hq720.jpg"
+            },
+            {
+                "title": "නිවසට ධන ආකර්ෂණය ගෙන දෙන මල් වර්ග 10ක් | Lucky Flower Plants For Home",
+                "url": "https://youtube.com/watch?v=mk_hp9ZaOTc",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/mk_hp9ZaOTc/hq720.jpg"
+            },
+            {
+                "title": "ඔබගේ නිදන කාමරයේ තැබිය හැකි සෞඛ්‍යට හිතකරම පැලෑටි 06 මෙන්න",
+                "url": "https://youtube.com/watch?v=rLUoZoVTano",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/rLUoZoVTano/hq720.jpg"
+            },
+            {
+                "title": "නිවසට වාසනාව කැන්දන අපූරු ශාක වර්ග | Plants that brings good fortune to your house and office!",
+                "url": "https://youtube.com/watch?v=3wZ58nZrwD8",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/3wZ58nZrwD8/hq720.jpg"
+            },
+            {
+                "title": "5 Incredible Health Benefits of Common Mallow (Malva Neglecta)",
+                "url": "https://youtube.com/watch?v=PYnbAYzOAW0",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/PYnbAYzOAW0/hq720.jpg"
+            },
+            {
+                "title": "Mahogany benefits",
+                "url": "https://youtube.com/watch?v=WKnmrvwu3o8",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/WKnmrvwu3o8/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක්. Kumbuk Tree. Ayurvedic value of Kumbuk.",
+                "url": "https://youtube.com/watch?v=KjUTxwGyQ78",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/KjUTxwGyQ78/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka  - Benefits of Mangosteen",
+                "url": "https://youtube.com/watch?v=U4em5wKfI1g",
+                "duration": "2:05",
+                "thumbnail": "https://i.ytimg.com/vi/U4em5wKfI1g/hq720.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා කොළවල තියෙන විශ්මිත ගුණ|manioc leaves|benefits|nutrition",
+                "url": "https://youtube.com/watch?v=ctM08V5v0U8",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/ctM08V5v0U8/hq720.jpg"
+            },
+            {
+                "title": "Honeysuckle Benefits and Uses",
+                "url": "https://youtube.com/watch?v=EtUQQ0l6gVo",
+                "duration": "8:13",
+                "thumbnail": "https://i.ytimg.com/vi/EtUQQ0l6gVo/hq720.jpg"
+            },
+            {
+                "title": "රතු මල් බීම නිතර බොන අයගේ සිරුරේ වෙනස | Hibiscus Tea Benefits",
+                "url": "https://youtube.com/watch?v=ES4fhk_1XVc",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/ES4fhk_1XVc/hqdefault.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න කනවා නම් මේවාත් දැනගෙන ඉන්න : Mukunuwenna Benefits",
+                "url": "https://youtube.com/watch?v=iHP60R9f_M0",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/iHP60R9f_M0/hq720.jpg"
+            },
+            {
+                "title": "Hibiscus Tea Benefits - 10 Benefits You Didn't Know About Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=osmO5QURWjQ",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/osmO5QURWjQ/hq720.jpg"
+            },
+            {
+                "title": "Maha yakuwanassa - Leonotis nepetiifolia",
+                "url": "https://youtube.com/watch?v=xJy4qIM-4RM",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/xJy4qIM-4RM/hq720.jpg"
+            },
+            {
+                "title": "7 Benefits of Maca | Dr. Janine",
+                "url": "https://youtube.com/watch?v=b6aeOXwGIwg",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/b6aeOXwGIwg/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන මේ මල් අහක දාන්න එපා...මේ විදියට තම්බල බොන්න.",
+                "url": "https://youtube.com/watch?v=l6t6ml5-9Lg",
+                "duration": "16:22",
+                "thumbnail": "https://i.ytimg.com/vi/l6t6ml5-9Lg/hqdefault.jpg"
+            },
+            {
+                "title": "6 Amazing BENEFITS of HIBISCUS TEA (Daily)",
+                "url": "https://youtube.com/watch?v=SsG366WaShY",
+                "duration": "8:11",
+                "thumbnail": "https://i.ytimg.com/vi/SsG366WaShY/hq720.jpg"
+            },
+            {
+                "title": "පාට 10යි වර්ග 10යි මව් ශාක වල මල් පිරැණු සෙට් එකක් ඔනිද?අලුතින්ම පටන් ගන්නඅයට වාසිම වාසි.0752878676",
+                "url": "https://youtube.com/watch?v=sg9mhnthL08",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/sg9mhnthL08/hq720.jpg"
+            },
+            {
+                "title": "5 Incredible Health Benefits of Common Mallow (Malva Neglecta)",
+                "url": "https://youtube.com/watch?v=GfTwPER6mbM",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/GfTwPER6mbM/frame0.jpg"
+            },
+            {
+                "title": "Mal Sugande | මල් සුගන්දේ | Bodu Bathi Gee",
+                "url": "https://youtube.com/watch?v=oBcuzkwHCq0",
+                "duration": "3:55",
+                "thumbnail": "https://i.ytimg.com/vi/oBcuzkwHCq0/hq720.jpg"
+            },
+            {
+                "title": "Methmal Pibidewa | මෙත්මල් පිබිදේවා | Bodu Bathi Gee",
+                "url": "https://youtube.com/watch?v=v8uUXUZXsQU",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/v8uUXUZXsQU/hq720.jpg"
+            },
+            {
+                "title": "Vidusha Rajaguru - Sambudu Ruwa (සම්බුදු රුව) | Official Music Video",
+                "url": "https://youtube.com/watch?v=ThDUJbCsOsc",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/ThDUJbCsOsc/hq720.jpg"
+            },
+            {
+                "title": "Binura Methsara - Budu Guna Mahime ( බුදු ගුණ මහිමේ) | Official Music Video",
+                "url": "https://youtube.com/watch?v=_ha6PoiSbcI",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/_ha6PoiSbcI/hq720.jpg"
+            },
+            {
+                "title": "How to Grow Hydrangea Flower Plants in Sinhala",
+                "url": "https://youtube.com/watch?v=TuFUkaSBSSc",
+                "duration": "8:45",
+                "thumbnail": "https://i.ytimg.com/vi/TuFUkaSBSSc/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ ගෙදරත් වවන්නම ඕන ඖෂදීය මලක් | Sun Flower | CeylonAgri | Epi.463",
+                "url": "https://youtube.com/watch?v=G6z6NSTSjRQ",
+                "duration": "6:27",
+                "thumbnail": "https://i.ytimg.com/vi/G6z6NSTSjRQ/hq720.jpg"
+            },
+            {
+                "title": "කපුකිනිස්ස ගහේ මල් Lashitha Mahesh Sinhala Video Editor",
+                "url": "https://youtube.com/watch?v=pADB6cV3zWA",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/pADB6cV3zWA/hqdefault.jpg"
+            },
+            {
+                "title": "ඉතා දුර්ලභ පරසතු මල ශ්‍රී ලංකාවේ..එකම වීඩියෝව parasathu mala in Sri Lanka",
+                "url": "https://youtube.com/watch?v=VQCySF04e8k",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/VQCySF04e8k/hq720.jpg"
+            },
+            {
+                "title": "තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ.  Health benefits of Thulasi.",
+                "url": "https://youtube.com/watch?v=kKukenrdq0k",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/kKukenrdq0k/hq720.jpg"
+            },
+            {
+                "title": "#මොනවද මේ මල්පාන|#Dr.Keerthi Halambage|#monawada me mal pana",
+                "url": "https://youtube.com/watch?v=wnEH3PuBy5c",
+                "duration": "39:31",
+                "thumbnail": "https://i.ytimg.com/vi/wnEH3PuBy5c/hq720.jpg"
+            },
+            {
+                "title": "සීනි වලට කුස්සියෙන්ම බෙහෙතක්",
+                "url": "https://youtube.com/watch?v=jOdCnwB6M8I",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/jOdCnwB6M8I/hqdefault.jpg"
+            },
+            {
+                "title": "මාශ භෝග හඳුනාගනිමු | 3 ශ්‍රේණිය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=B65ZiDPiMsg",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/B65ZiDPiMsg/hq720.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "බදුරා මල සතෙක් ගිලින අයුරු",
+                "url": "https://youtube.com/watch?v=-sE_-AFJgqc",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/-sE_-AFJgqc/hqdefault.jpg"
+            },
+            {
+                "title": "මලක කොටස් හඳුනාගනිමු | 5 ශ්‍රේණිය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=iCshGKolhPQ",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/iCshGKolhPQ/hq720.jpg"
+            },
+            {
+                "title": "මාංස භක්ෂක ශාක carnivorous plants #plants #carnivorous plants #education",
+                "url": "https://youtube.com/watch?v=EGaEM_ve_Ko",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/EGaEM_ve_Ko/hq720.jpg"
+            },
+            {
+                "title": "මේ එක ශාකයකින් මේ තරම් ලෙඩ රැසක් සුවකරන්න පුළුවන් කියල කවුද හිතුවේ | කුප්පමේනියා ශාකයේ ඔබ නොදත් රහස්",
+                "url": "https://youtube.com/watch?v=ShMW_KWMh2Q",
+                "duration": "9:36",
+                "thumbnail": "https://i.ytimg.com/vi/ShMW_KWMh2Q/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම මුරුංගා කොළ යුෂ කෝප්පයක් බිව්වොත් ශරීරයට සිදුවන විශ්මිත දේවල් - Health Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=eJvVlXTMwjI",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/eJvVlXTMwjI/hq720.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා කොළ ගැන අමුතුම තොරතුරු රැසක් : Health benefits of Cassava leaves",
+                "url": "https://youtube.com/watch?v=MQm8NX3GNJ8",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/MQm8NX3GNJ8/hq720.jpg"
+            },
+            {
+                "title": "මෑකරල් කෑවොත් වෙන දේ දන්නවා ද : Health benefits of Yard Long Beans",
+                "url": "https://youtube.com/watch?v=ku2PbsdXGRg",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/ku2PbsdXGRg/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Carbuncles",
-      "sinhala": "රාජ ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Flowers"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

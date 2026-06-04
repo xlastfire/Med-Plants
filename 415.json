@@ -1,211 +1,294 @@
 {
-  "scientificName": "Dioscorea bulbifera L.",
-  "synonyms": [
-    "Dioscorea anthropophagorum A.Chev.",
-    "Dioscorea bulbifera f. domestica (Makino) Makino & Nemoto",
-    "Dioscorea bulbifera var. albotuberosa Y.F.Zhou, Z.L.Xu & Y.Y.Hang",
-    "Dioscorea bulbifera var. anthropophagorum (A.Chev.) Summerh.",
-    "Dioscorea bulbifera var. brachybotryum Y.Y.Hang & Y.F.Zhou",
-    "Dioscorea bulbifera var. crispata (Roxb.) Prain",
-    "Dioscorea bulbifera var. elongata (F.M.Bailey) Prain & Burkill",
-    "Dioscorea bulbifera var. pulchella (Roxb.) Prain",
-    "Dioscorea bulbifera var. sativa Prain",
-    "Dioscorea bulbifera var. suavia Prain & Burkill",
-    "Dioscorea bulbifera var. vera Prain & Burkill",
-    "Dioscorea crispata Roxb.",
-    "Dioscorea heterophylla Roxb.",
-    "Dioscorea hoffa Cordem.",
-    "Dioscorea hofika Jum. & H.Perrier",
-    "Dioscorea korrorensis R.Knuth",
-    "Dioscorea latifolia Benth.",
-    "Dioscorea longipetiolata Baudon",
-    "Dioscorea perrieri R.Knuth",
-    "Dioscorea pulchella Roxb.",
-    "Dioscorea rogersii Prain & Burkill",
-    "Dioscorea sativa f. domestica Makino",
-    "Dioscorea sativa f. spontanea Makino",
-    "Dioscorea sativa var. elongata F.M.Bailey",
-    "Dioscorea sativa var. rotunda F.M.Bailey",
-    "Dioscorea tamifolia Salisb.",
-    "Dioscorea tenuiflora Schltdl.",
-    "Dioscorea violacea Baudon",
-    "Helmia bulbifera (L.) Kunth",
-    "Polynome bulbifera (L.) Salisb."
-  ],
-  "familyName": "DIOSCOREACEAE",
-  "englishNames": [
-    "Air Yam",
-    "Aerial Yam",
-    "Potato Yam"
-  ],
-  "sinhalaName": "Udala (උඩල)",
-  "description": "ශාක අල සහිත හෝ රහිත වේ; අල පවතින්නේ නම්, ඒවා පස මතුපිටට මදක් පහළින් පිහිටන අතර ගෝලාකාර (globose) වේ. කඳන් වාමාවර්තව (counter-clockwise) දඟර ගැසෙමින් මීටර් 20කට වඩා උසට නැඟේ; බොහෝ විට දම් පැහැති ලප සහිත වන අතර පියාපත් රහිත හෝ කලාතුරකින් පටු පියාපත් සහිත, සිලින්ඩරාකාර (terete) වේ. කක්ෂීය බල්බිල (axillary bulbils) නිපදවන අතර ඒවා විෂ්කම්භයෙන් සෙන්ටිමීටර 5කට වඩා වැඩිය. පත්‍ර සෙන්ටිමීටර 5-25 x 5-26 වේ; පත්‍ර වෘන්තය (petiole) සාමාන්‍යයෙන් පත්‍ර තලය (blade) ට වඩා මදක් කෙටි වන අතර මිලිමීටර 1-4ක් පළල වේ. පුරුෂ පුෂ්ප මංජරි (staminate inflorescences) කක්ෂීය වන අතර සයිමෝස් (cymose) ආකාර වේ; සෙන්ටිමීටර 70ක් දක්වා දිගු වේ. සයිම (cymes) එක් වෘන්ත රහිත (sessile) උපපත්‍ර සහිත (bracteolate) පුෂ්පයකට සීමා වී ඇති අතර අන්තර් පර්ව (internodes) මිලිමීටර 2ක් පමණ වේ. ස්ත්‍රී පුෂ්ප මංජරි (pistillate inflorescences) තනිව හෝ පොකුරු වශයෙන් (fasciculate) හටගන්නා අතර, එක් කක්ෂයකට 6ක් දක්වා පවතී; කරල් (spicate) ආකාර වේ. කරල් පුෂ්ප 50ක් දක්වා දරන අතර සෙන්ටිමීටර 6-40ක් දිගු වේ. පුරුෂ පුෂ්ප සුවඳවත් වේ; පුෂ්ප ආවරණය (perianth) සුදු පැහැති වන අතර පසුව දම් පැහැයට හැරේ; ටෙපල් (tepals) සමාන වට දෙකකින් යුක්ත වේ. ස්ත්‍රී පුෂ්ප: පුෂ්ප ආවරණය කොළ පැහැයට හුරු සුදු පැහැතිය. කරල් (capsules) පළලට වඩා දිගු වන අතර සෙන්ටිමීටර 1.8-2.8 x 1-1.5 වේ. බීජ ඒකපාර්ශ්විකව පියාපත් සහිත (unilaterally winged) වන අතර මිලිමීටර 12-20ක් වේ.",
-  "treatments": [
-    {
-      "treatment": "Goiter",
-      "sinhala": "ගලගණ්ඩය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Dioscorea bulbifera L.",
+    "synonyms": [
+        "Dioscorea anthropophagorum A.Chev.",
+        "Dioscorea bulbifera f. domestica (Makino) Makino & Nemoto",
+        "Dioscorea bulbifera var. albotuberosa Y.F.Zhou, Z.L.Xu & Y.Y.Hang",
+        "Dioscorea bulbifera var. anthropophagorum (A.Chev.) Summerh.",
+        "Dioscorea bulbifera var. brachybotryum Y.Y.Hang & Y.F.Zhou",
+        "Dioscorea bulbifera var. crispata (Roxb.) Prain",
+        "Dioscorea bulbifera var. elongata (F.M.Bailey) Prain & Burkill",
+        "Dioscorea bulbifera var. pulchella (Roxb.) Prain",
+        "Dioscorea bulbifera var. sativa Prain",
+        "Dioscorea bulbifera var. suavia Prain & Burkill",
+        "Dioscorea bulbifera var. vera Prain & Burkill",
+        "Dioscorea crispata Roxb.",
+        "Dioscorea heterophylla Roxb.",
+        "Dioscorea hoffa Cordem.",
+        "Dioscorea hofika Jum. & H.Perrier",
+        "Dioscorea korrorensis R.Knuth",
+        "Dioscorea latifolia Benth.",
+        "Dioscorea longipetiolata Baudon",
+        "Dioscorea perrieri R.Knuth",
+        "Dioscorea pulchella Roxb.",
+        "Dioscorea rogersii Prain & Burkill",
+        "Dioscorea sativa f. domestica Makino",
+        "Dioscorea sativa f. spontanea Makino",
+        "Dioscorea sativa var. elongata F.M.Bailey",
+        "Dioscorea sativa var. rotunda F.M.Bailey",
+        "Dioscorea tamifolia Salisb.",
+        "Dioscorea tenuiflora Schltdl.",
+        "Dioscorea violacea Baudon",
+        "Helmia bulbifera (L.) Kunth",
+        "Polynome bulbifera (L.) Salisb."
+    ],
+    "familyName": "DIOSCOREACEAE",
+    "englishNames": [
+        "Air Yam",
+        "Aerial Yam",
+        "Potato Yam"
+    ],
+    "sinhalaName": "Udala (උඩල)",
+    "description": "ශාක අල සහිත හෝ රහිත වේ; අල පවතින්නේ නම්, ඒවා පස මතුපිටට මදක් පහළින් පිහිටන අතර ගෝලාකාර (globose) වේ. කඳන් වාමාවර්තව (counter-clockwise) දඟර ගැසෙමින් මීටර් 20කට වඩා උසට නැඟේ; බොහෝ විට දම් පැහැති ලප සහිත වන අතර පියාපත් රහිත හෝ කලාතුරකින් පටු පියාපත් සහිත, සිලින්ඩරාකාර (terete) වේ. කක්ෂීය බල්බිල (axillary bulbils) නිපදවන අතර ඒවා විෂ්කම්භයෙන් සෙන්ටිමීටර 5කට වඩා වැඩිය. පත්‍ර සෙන්ටිමීටර 5-25 x 5-26 වේ; පත්‍ර වෘන්තය (petiole) සාමාන්‍යයෙන් පත්‍ර තලය (blade) ට වඩා මදක් කෙටි වන අතර මිලිමීටර 1-4ක් පළල වේ. පුරුෂ පුෂ්ප මංජරි (staminate inflorescences) කක්ෂීය වන අතර සයිමෝස් (cymose) ආකාර වේ; සෙන්ටිමීටර 70ක් දක්වා දිගු වේ. සයිම (cymes) එක් වෘන්ත රහිත (sessile) උපපත්‍ර සහිත (bracteolate) පුෂ්පයකට සීමා වී ඇති අතර අන්තර් පර්ව (internodes) මිලිමීටර 2ක් පමණ වේ. ස්ත්‍රී පුෂ්ප මංජරි (pistillate inflorescences) තනිව හෝ පොකුරු වශයෙන් (fasciculate) හටගන්නා අතර, එක් කක්ෂයකට 6ක් දක්වා පවතී; කරල් (spicate) ආකාර වේ. කරල් පුෂ්ප 50ක් දක්වා දරන අතර සෙන්ටිමීටර 6-40ක් දිගු වේ. පුරුෂ පුෂ්ප සුවඳවත් වේ; පුෂ්ප ආවරණය (perianth) සුදු පැහැති වන අතර පසුව දම් පැහැයට හැරේ; ටෙපල් (tepals) සමාන වට දෙකකින් යුක්ත වේ. ස්ත්‍රී පුෂ්ප: පුෂ්ප ආවරණය කොළ පැහැයට හුරු සුදු පැහැතිය. කරල් (capsules) පළලට වඩා දිගු වන අතර සෙන්ටිමීටර 1.8-2.8 x 1-1.5 වේ. බීජ ඒකපාර්ශ්විකව පියාපත් සහිත (unilaterally winged) වන අතර මිලිමීටර 12-20ක් වේ.",
+    "treatments": [
+        {
+            "treatment": "Goiter",
+            "sinhala": "ගලගණ්ඩය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Hematemesis",
+            "sinhala": "ලේ වමනය (රුධිර වමනය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemoptysis",
+            "sinhala": "කැස්ස සමඟ ලේ පිටවීම (ලේ කැස්ස)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Uterine Bleeding",
+            "sinhala": "ගර්භාෂයෙන් ලේ වහනය වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Toxicity",
+            "sinhala": "විෂ සහිත බව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Abdominal Pain",
+            "sinhala": "බඩේ කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Muscle Cramps",
+            "sinhala": "මස්පිඬු පෙරළීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Erectile Dysfunction",
+            "sinhala": "ලිංගික අප්‍රාණිකත්වය / ධ්වජභංගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Endocrine Disorders",
+            "sinhala": "හෝමෝන පද්ධතිය ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hysteria",
+            "sinhala": "හිස්ටීරියාව (යෝෂාපස්මාරය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Infertility",
+            "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Nervous Hyperexcitability",
+            "sinhala": "ස්නායු පද්ධතියේ අධි-සංවේදීතාවය හෝ නොසන්සුන් බව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Syphilis",
+            "sinhala": "උපදංශය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Tuber"
+    ],
+    "images": [
+        {
+            "image_id": "1605",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/hRBKdc6s/plant00415-01605.jpg"
+        },
+        {
+            "image_id": "1606",
+            "caption": "Bulbils",
+            "url": "https://i.ibb.co/G4V1QR4L/plant00415-01606.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "උඩල ගැන දැන ගනිමු ද?",
+                "url": "https://youtube.com/watch?v=wFoQ575-Nbc",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/wFoQ575-Nbc/hq720.jpg"
+            },
+            {
+                "title": "උඩල අල .udala ala.උඩ හැදෙන අල දැකලා තියේද",
+                "url": "https://youtube.com/watch?v=k_709u0MTF4",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/k_709u0MTF4/hq720.jpg"
+            },
+            {
+                "title": "wal udala ,වල් උඩල,උඩල,අල,අල වර්ග",
+                "url": "https://youtube.com/watch?v=sNKJ9nfTfto",
+                "duration": "2:44",
+                "thumbnail": "https://i.ytimg.com/vi/sNKJ9nfTfto/hqdefault.jpg"
+            },
+            {
+                "title": "උඩල වැල",
+                "url": "https://youtube.com/watch?v=Z6cF0EA_IKU",
+                "duration": "0:51",
+                "thumbnail": "https://i.ytimg.com/vi/Z6cF0EA_IKU/hq720.jpg"
+            },
+            {
+                "title": "වැල ගිය තරමට අල එරෙන  වැල්  අල ගැන . ගුණරත්න මාම කල විග්‍රහා",
+                "url": "https://youtube.com/watch?v=lBfzSiGXsdA",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/lBfzSiGXsdA/hq720.jpg"
+            },
+            {
+                "title": "බුත්සරණ අල | Buthsarana ala | කොච්චර කෑවත් ආස හිතෙන අල | One of the tastiest potatoes in the village",
+                "url": "https://youtube.com/watch?v=EBK7nNLEzXA",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/EBK7nNLEzXA/hq720.jpg"
+            },
+            {
+                "title": "වැල් අල සිටුවිමේදි මේ ගැනත් හිතන්න | Krushi Tv",
+                "url": "https://youtube.com/watch?v=KOZ2_3Bdclc",
+                "duration": "2:05",
+                "thumbnail": "https://i.ytimg.com/vi/KOZ2_3Bdclc/hq720.jpg"
+            },
+            {
+                "title": "දේශීය අල වර්ග",
+                "url": "https://youtube.com/watch?v=AjY8pNDfxk0",
+                "duration": "3:25",
+                "thumbnail": "https://i.ytimg.com/vi/AjY8pNDfxk0/hq720.jpg"
+            },
+            {
+                "title": "#රාජ අල/දන්දින අල/දන්දිල අල/ලේ දන්ත/ලේන පහුරු අල/ Raaja Ala / #Village Power",
+                "url": "https://youtube.com/watch?v=LCcX-7klOvc",
+                "duration": "9:23",
+                "thumbnail": "https://i.ytimg.com/vi/LCcX-7klOvc/hq720.jpg"
+            },
+            {
+                "title": "දේශීය අල වගාව",
+                "url": "https://youtube.com/watch?v=SoTxk_xTQDk",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/SoTxk_xTQDk/hq720.jpg"
+            },
+            {
+                "title": "රාජඅල වාගාව /දන්දින අල / දන්දිල අල  / Raja ala wagawa / Rajaala Wagawa / දේශීය අල වගා කරමු",
+                "url": "https://youtube.com/watch?v=zPv4nh_sdlM",
+                "duration": "34:47",
+                "thumbnail": "https://i.ytimg.com/vi/zPv4nh_sdlM/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ දෙන දේශීය අල වර්ග | Traditional Tuber Crops",
+                "url": "https://youtube.com/watch?v=KuwNdEi1UkM",
+                "duration": "5:55",
+                "thumbnail": "https://i.ytimg.com/vi/KuwNdEi1UkM/hq720.jpg"
+            },
+            {
+                "title": "#higurala yam.. #හිගුරල #අල",
+                "url": "https://youtube.com/watch?v=B3ObSX7QC4w",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/B3ObSX7QC4w/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Hematemesis",
-      "sinhala": "ලේ වමනය (රුධිර වමනය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemoptysis",
-      "sinhala": "කැස්ස සමඟ ලේ පිටවීම (ලේ කැස්ස)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Uterine Bleeding",
-      "sinhala": "ගර්භාෂයෙන් ලේ වහනය වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Toxicity",
-      "sinhala": "විෂ සහිත බව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Abdominal Pain",
-      "sinhala": "බඩේ කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Muscle Cramps",
-      "sinhala": "මස්පිඬු පෙරළීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Erectile Dysfunction",
-      "sinhala": "ලිංගික අප්‍රාණිකත්වය / ධ්වජභංගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Endocrine Disorders",
-      "sinhala": "හෝමෝන පද්ධතිය ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hysteria",
-      "sinhala": "හිස්ටීරියාව (යෝෂාපස්මාරය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Infertility",
-      "sinhala": "මඳසරුභාවය / වඳභාවය (වන්ධ්‍යා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Nervous Hyperexcitability",
-      "sinhala": "ස්නායු පද්ධතියේ අධි-සංවේදීතාවය හෝ නොසන්සුන් බව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Syphilis",
-      "sinhala": "උපදංශය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Tuber"
-  ],
-  "images": [
-    {
-      "image_id": "1605",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/hRBKdc6s/plant00415-01605.jpg"
-    },
-    {
-      "image_id": "1606",
-      "caption": "Bulbils",
-      "url": "https://i.ibb.co/G4V1QR4L/plant00415-01606.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

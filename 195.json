@@ -1,106 +1,471 @@
 {
-  "scientificName": "Asparagus falcatus L.",
-  "synonyms": [
-    "Asparagus aethiopicus var. ternifolius Baker",
-    "Asparagus falcatus var. ternifolius (Baker) Jessop",
-    "Protasparagus falcatus (L.) Oberm."
-  ],
-  "familyName": "ASPARAGACEAE",
-  "englishNames": [
-    "Large Forest Asparagus",
-    "Thorny Creeper",
-    "Sicklethorn",
-    "Yellowwood Asparagus"
-  ],
-  "sinhalaName": "Maha hathavariya (මහ හාතාවාරිය)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Asparagus falcatus L.",
+    "synonyms": [
+        "Asparagus aethiopicus var. ternifolius Baker",
+        "Asparagus falcatus var. ternifolius (Baker) Jessop",
+        "Protasparagus falcatus (L.) Oberm."
+    ],
+    "familyName": "ASPARAGACEAE",
+    "englishNames": [
+        "Large Forest Asparagus",
+        "Thorny Creeper",
+        "Sicklethorn",
+        "Yellowwood Asparagus"
+    ],
+    "sinhalaName": "Maha hathavariya (මහ හාතාවාරිය)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Malnutrition",
+            "sinhala": "මන්දපෝෂණ තත්ත්වයන් (පෝෂණ ඌනතා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Debility",
+            "sinhala": "ශාරීරික දුර්වලතාවය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Kidney Diseases",
+            "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Venereal Disease",
+            "sinhala": "ලිංගික රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "1940",
+            "caption": "Flower 1 (PMR)",
+            "url": "https://i.ibb.co/vvqgwNkK/plant00195-01940.jpg"
+        },
+        {
+            "image_id": "1941",
+            "caption": "Flower 2 (PMR)",
+            "url": "https://i.ibb.co/nMf4Rp0t/plant00195-01941.jpg"
+        },
+        {
+            "image_id": "1942",
+            "caption": "Fruit (PMR)",
+            "url": "https://i.ibb.co/jPPq7y7F/plant00195-01942.jpg"
+        },
+        {
+            "image_id": "1943",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/FqsJgzL4/plant00195-01943.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Hathawariya |ගර්භාෂය සිසිල් කරන  | ශරීර උෂ්ණය නිවන ඔසු | හාතාවාරිය",
+                "url": "https://youtube.com/watch?v=Jft8Bz9h2vc",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/Jft8Bz9h2vc/hq720.jpg"
+            },
+            {
+                "title": "හාතාවාරිය Asparagus Racemousus",
+                "url": "https://youtube.com/watch?v=n9e5lyTzmUo",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/n9e5lyTzmUo/hq720.jpg"
+            },
+            {
+                "title": "beheth pela | HATHAWARIYA ( හාතාවාරිය ) | The properties of the asparagus plant in Sinhala |",
+                "url": "https://youtube.com/watch?v=oGdmniE2Kt4",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/oGdmniE2Kt4/hqdefault.jpg"
+            },
+            {
+                "title": "හාතාවාරිය වල ඖෂධීය ගුණ (2025) || Benifits of Asparagus",
+                "url": "https://youtube.com/watch?v=tvqnr6rXVaA",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/tvqnr6rXVaA/hqdefault.jpg"
+            },
+            {
+                "title": "හිතාගන්නවත් බැරි තරම් විශාල යෝධ හාතාවාරිය වැල...#Asparagus racemosus #wild #Shathawari#herbalplant",
+                "url": "https://youtube.com/watch?v=f0xfTcGVnDw",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/f0xfTcGVnDw/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේදයේ ප්‍රධාන ඖෂධීය ශාකය තරුණ පෙනුම රැක දෙන ඖෂධය hathawariya recipe",
+                "url": "https://youtube.com/watch?v=C6NzNucCrv8",
+                "duration": "5:23",
+                "thumbnail": "https://i.ytimg.com/vi/C6NzNucCrv8/hq720.jpg"
+            },
+            {
+                "title": "හාතාවාරිය | හාතාවාරිය වල ගුන | Asparagus sinhala | ඉඩ තියන විදියට ඖශධීය හාතාවාරිය | 2021",
+                "url": "https://youtube.com/watch?v=ZXXSrxFHs28",
+                "duration": "6:22",
+                "thumbnail": "https://i.ytimg.com/vi/ZXXSrxFHs28/hq720.jpg"
+            },
+            {
+                "title": "හාතාවාරිය ශාකයේ ඔබ නොදත් ඖෂධීය ගුණ | Hathawariya | Asparagus benefits🌿",
+                "url": "https://youtube.com/watch?v=lJUZva0jNgw",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/lJUZva0jNgw/hqdefault.jpg"
+            },
+            {
+                "title": "🚨මහ මඟ හරස් කර ගිනි බින්ඳ 'මැහිමුල්ලේ බෝංචියාට' රැඳවුම් නියෝග.-රටම භීතියට පත් කළ කළුතර වෙඩිල්ල",
+                "url": "https://youtube.com/watch?v=CGD4w8e5fqA",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/CGD4w8e5fqA/hq720.jpg"
+            },
+            {
+                "title": "Asparagus racemosus | හාතාවාරිය",
+                "url": "https://youtube.com/watch?v=d-yQ5xbQXE8",
+                "duration": "10:37",
+                "thumbnail": "https://i.ytimg.com/vi/d-yQ5xbQXE8/hq720.jpg"
+            },
+            {
+                "title": "Awesome Asparagus | Benefits of Asparagus | Mihi Thalaya | හාතාවාරිය | කඹුරාපොල ඩී.එම්.විජේදාස මහතා",
+                "url": "https://youtube.com/watch?v=HhRbyjBe8hk",
+                "duration": "6:08",
+                "thumbnail": "https://i.ytimg.com/vi/HhRbyjBe8hk/hqdefault.jpg"
+            },
+            {
+                "title": "හාතවාරිය ශාකයේ ඇති ගුනාත්මක භාවය. Asparagus plant of the quality # Ak garden # published  4 may 2020",
+                "url": "https://youtube.com/watch?v=byqBq3Tz2KY",
+                "duration": "7:26",
+                "thumbnail": "https://i.ytimg.com/vi/byqBq3Tz2KY/hq720.jpg"
+            },
+            {
+                "title": "ඇස්පැරගස් (හාතාවාරිය) කාන්තාවන්ට කරන දේ : Health benefits of Asparagus",
+                "url": "https://youtube.com/watch?v=6e-eOoS8gH4",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/6e-eOoS8gH4/hq720.jpg"
+            },
+            {
+                "title": "හාතාවාරිය | Health benefits of Asparagus | ඖෂධීය ගුණ ඇති අපේ දේ  EP 01",
+                "url": "https://youtube.com/watch?v=K_gVVvPxyP8",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/K_gVVvPxyP8/hq720.jpg"
+            },
+            {
+                "title": "ලේ පිරිසිදු කරන නියම හාතාවාරිය කැද | Asparagus is a blood purifier",
+                "url": "https://youtube.com/watch?v=kSciIULVqIc",
+                "duration": "7:54",
+                "thumbnail": "https://i.ytimg.com/vi/kSciIULVqIc/hq720.jpg"
+            },
+            {
+                "title": "Haathawariya - Medicinal plants |හාතවාරිය ඔසු ගුණ",
+                "url": "https://youtube.com/watch?v=jcEX06gVbBs",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/jcEX06gVbBs/hqdefault.jpg"
+            },
+            {
+                "title": "Hathawariya Plants (SLBC) Dr. H.D.P Dharshani",
+                "url": "https://youtube.com/watch?v=FPfMXvKqk6w",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/FPfMXvKqk6w/hqdefault.jpg"
+            },
+            {
+                "title": "Hathawariya |ගර්භාෂය සිසිල් කරන  | ශරීර උෂ්ණය නිවන ඔසු | හාතාවාරිය",
+                "url": "https://youtube.com/watch?v=xjX9YPmZJy0",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/xjX9YPmZJy0/frame0.jpg"
+            },
+            {
+                "title": "හාතවාරිය ( Asparagus Racemosus)",
+                "url": "https://youtube.com/watch?v=rpxWKT13gCY",
+                "duration": "15:18",
+                "thumbnail": "https://i.ytimg.com/vi/rpxWKT13gCY/hq720.jpg"
+            },
+            {
+                "title": "හිගුරල|හාතාවාරිය|Hathawariyaguna|higuralaguna|suwahasclinic",
+                "url": "https://youtube.com/watch?v=nKSpQzGrwyc",
+                "duration": "16:17",
+                "thumbnail": "https://i.ytimg.com/vi/nKSpQzGrwyc/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "2026.03.29 දින නාවල වෛද්‍ය හන්සනි ජයවර්ධන සහ ඉංජිනියර් ලසන්ත මහතාගේ නිවසේ පැවැති සිරිසද්ධම්ම දේශනාව",
+                "url": "https://youtube.com/watch?v=lRsYbvIbVYk",
+                "duration": "2:30:37",
+                "thumbnail": "https://i.ytimg.com/vi/lRsYbvIbVYk/hqdefault.jpg"
+            },
+            {
+                "title": "හාතාවාරිය  ඔබ නොදත් පුදුම හිතෙන ගුණ සහ අගුණ මෙන්න 🌿",
+                "url": "https://youtube.com/watch?v=zp_ljHTE53c",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/zp_ljHTE53c/hq720.jpg"
+            },
+            {
+                "title": "හාතාවාරිය වල ඇති ගුණ",
+                "url": "https://youtube.com/watch?v=usddc7qCTpk",
+                "duration": "7:01",
+                "thumbnail": "https://i.ytimg.com/vi/usddc7qCTpk/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග සියගණනක් සුව කලහැකි අනර්ඝ ඖෂධීය ශාකය Shatawari - ශතාවරී හෙවත් හාතවාරිය #shatavari #hathawariya",
+                "url": "https://youtube.com/watch?v=CD-te5VJa5I",
+                "duration": "15:51",
+                "thumbnail": "https://i.ytimg.com/vi/CD-te5VJa5I/hq720.jpg"
+            },
+            {
+                "title": "දරු පල අපේක්ෂාවෙනද.දරු පල පමා වෙනවද? දිව ඔසුව #හාතාවාරිය අල කැඳ #hathawariya ala kanda",
+                "url": "https://youtube.com/watch?v=C2zEgp40trI",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/C2zEgp40trI/hqdefault.jpg"
+            },
+            {
+                "title": "හාතවාරිය වැලේ බලේ | What is the asparagus",
+                "url": "https://youtube.com/watch?v=Ax0wA6lPcZs",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/Ax0wA6lPcZs/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ශාකයේ ඔසු ගුණ | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=29JyQOFg1WI",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/29JyQOFg1WI/hq720.jpg"
+            },
+            {
+                "title": "හාතාවාරිය  ඔබ නොදත් පුදුම හිතෙන ගුණ සහ අගුණ මෙන්න 🌿",
+                "url": "https://youtube.com/watch?v=zoSIsQJa2-o",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/zoSIsQJa2-o/frame0.jpg"
+            },
+            {
+                "title": "අතීසාරය, උදරාබාධ, වණ ඇතුළු රෝග රැසකට ගුණ දෙන මහ උඳුපියලිය",
+                "url": "https://youtube.com/watch?v=A__PFhklz1c",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/A__PFhklz1c/hq720.jpg"
+            },
+            {
+                "title": "හාතවාරිය මල් asparagus flowers Hathawariya mal Valuable Ayurwedic Medicine",
+                "url": "https://youtube.com/watch?v=YMHP-Ji4aiM",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/YMHP-Ji4aiM/hq720.jpg"
+            },
+            {
+                "title": "asparagus herbal drink",
+                "url": "https://youtube.com/watch?v=vEl05dfoheg",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/vEl05dfoheg/hq720.jpg"
+            },
+            {
+                "title": "ඔසු ලොව අගරැජිනිය “හාතවාරිය“   Queen of the Herbal World \"Hathawariya\"",
+                "url": "https://youtube.com/watch?v=q7oJElc8Xao",
+                "duration": "6:37",
+                "thumbnail": "https://i.ytimg.com/vi/q7oJElc8Xao/hqdefault.jpg"
+            },
+            {
+                "title": "හාතාවාරිය කැඳ මෙන්න මේ විදියට දිනපතා ලබාගන්න..",
+                "url": "https://youtube.com/watch?v=nbBqeMzHND4",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/nbBqeMzHND4/hq720.jpg"
+            },
+            {
+                "title": "මහා සංඝරත්නයේ ගුණ | ශාස්ත්‍රපති පූජ්‍ය වටගොඩ මග්ගවිහාරී ස්වාමින්වහන්සේ | #watagodamaggaviharithero",
+                "url": "https://youtube.com/watch?v=NIV8P6mnNn8",
+                "duration": "14:09",
+                "thumbnail": "https://i.ytimg.com/vi/NIV8P6mnNn8/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග හැමදාටම ඉවරයි! මහසෙන් අරණේ රහස් තැම්බුන් හොද්ද මෙන්න.\"",
+                "url": "https://youtube.com/watch?v=WLazXfjrgkQ",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/WLazXfjrgkQ/hqdefault.jpg"
+            },
+            {
+                "title": "hathawariya හාතාවාරිය",
+                "url": "https://youtube.com/watch?v=a_MwfFlk5X8",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/a_MwfFlk5X8/hqdefault.jpg"
+            },
+            {
+                "title": "මහා වනයේ ඇතුන්ගෙන් උපස්ථාන ලබමින් හුදෙකලාවේ වැඩසිටි අඤ්ඤාකොණ්ඩඤ්ඤ මහරහතන් වහන්සේගේ අසිරිමත් මුනි ගුණ",
+                "url": "https://youtube.com/watch?v=Wg8krKq5NHo",
+                "duration": "7:19",
+                "thumbnail": "https://i.ytimg.com/vi/Wg8krKq5NHo/hq720.jpg"
+            },
+            {
+                "title": "විශ්වයේ බලගතුම ගාථාව සහ ස්ථාන සිහි කිරීමේ වැදගත්කම | Ven. Rajagiriye Ariyagnana Thero | Maharahathun",
+                "url": "https://youtube.com/watch?v=W5a_dxjhHps",
+                "duration": "10:26",
+                "thumbnail": "https://i.ytimg.com/vi/W5a_dxjhHps/hq720.jpg"
+            },
+            {
+                "title": "තුන් සුත්‍රය සහ ජය පිරිත  රත්නාවලි ගාථා",
+                "url": "https://youtube.com/watch?v=aVke_xdYv74",
+                "duration": "31:49",
+                "thumbnail": "https://i.ytimg.com/vi/aVke_xdYv74/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha | මහ පිරිත | විචිත්‍රභාණක වත්තල සීලරතන නායක ස්වාමින්ද්‍රයන්වහන්සේ",
+                "url": "https://youtube.com/watch?v=8uWmHJrktDE",
+                "duration": "58:52",
+                "thumbnail": "https://i.ytimg.com/vi/8uWmHJrktDE/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Piritha   මහ පිරිත   තුන් සූත්‍රය   Thun Suthraya",
+                "url": "https://youtube.com/watch?v=cOipHIStseY",
+                "duration": "17:37",
+                "thumbnail": "https://i.ytimg.com/vi/cOipHIStseY/hq720.jpg"
+            },
+            {
+                "title": "මහා ත්‍රිපිටක සජ්ඣායනාව /La grande récitation du Tipitaka / The great recitation of Tipitaka",
+                "url": "https://youtube.com/watch?v=l6nMxwpitK8",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/l6nMxwpitK8/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha - මහ පිරිත (තුන් සූත්‍රය - මහා මංගල සූත්‍රය,රතන සූත්‍රය,කරණීය මෙත්ත සූත්‍රය)",
+                "url": "https://youtube.com/watch?v=ma7Cv_jtn9c",
+                "duration": "36:34",
+                "thumbnail": "https://i.ytimg.com/vi/ma7Cv_jtn9c/hq720.jpg"
+            },
+            {
+                "title": "#MAHAPIRITHA | #මහපිරිත |ධර්ම දානය පිණිසම හේතු වාසනා වේවා",
+                "url": "https://youtube.com/watch?v=BqWZ2sU3YRY",
+                "duration": "1:00:03",
+                "thumbnail": "https://i.ytimg.com/vi/BqWZ2sU3YRY/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha මහ පිරිත | Thun Suthra Deshanawa | තුන් සූත්‍රය Mahamangala | Rathana |Karaneeyameththa",
+                "url": "https://youtube.com/watch?v=FbjB503Oqz0",
+                "duration": "53:52",
+                "thumbnail": "https://i.ytimg.com/vi/FbjB503Oqz0/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha | මහ පිරිත | Thun Suthraya | තුන් සූත්‍රය",
+                "url": "https://youtube.com/watch?v=jnZ_dhR1a-o",
+                "duration": "53:50",
+                "thumbnail": "https://i.ytimg.com/vi/jnZ_dhR1a-o/hq720.jpg"
+            },
+            {
+                "title": "maha piritha | thun suthraya | rathana suthraya | maha mangala suthraya | karaneeyameththa suthraya",
+                "url": "https://youtube.com/watch?v=EWPKPi1R-m4",
+                "duration": "1:03:22",
+                "thumbnail": "https://i.ytimg.com/vi/EWPKPi1R-m4/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha   Pirith   Paritta Recording   Thun Suthraya   Buddhist Pirith Chantings",
+                "url": "https://youtube.com/watch?v=KPBvbFm5U8s",
+                "duration": "8:56:22",
+                "thumbnail": "https://i.ytimg.com/vi/KPBvbFm5U8s/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha මහ පිරිත Thun Suthraya තුන් සූත්‍රය #sethpirith",
+                "url": "https://youtube.com/watch?v=zmxjl4x2sSk",
+                "duration": "55:27",
+                "thumbnail": "https://i.ytimg.com/vi/zmxjl4x2sSk/hq720.jpg"
+            },
+            {
+                "title": "MAHA PIRITHA (sinhala meaning)",
+                "url": "https://youtube.com/watch?v=9tOIJEjVgnQ",
+                "duration": "57:18",
+                "thumbnail": "https://i.ytimg.com/vi/9tOIJEjVgnQ/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Pritha|මහ පිරිත|තුන් සූත්‍රය - Ven.Na Uyane Ariyadhamma Thero| #pirithdeshana #pirithchanting",
+                "url": "https://youtube.com/watch?v=wTGHog42WCc",
+                "duration": "38:45",
+                "thumbnail": "https://i.ytimg.com/vi/wTGHog42WCc/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha / Pirith / Paritta Recording / Thun Suthraya / Buddhist Pirith Chantings",
+                "url": "https://youtube.com/watch?v=FkOTYO8wFmQ",
+                "duration": "8:56:22",
+                "thumbnail": "https://i.ytimg.com/vi/FkOTYO8wFmQ/hq720.jpg"
+            },
+            {
+                "title": "මහ පිරිත් දේශනාව තුළින් ලක්වැසි-ලෝවැසි සියලු දෙනා නිදුක් නීරෝගී  වෙත්වා!",
+                "url": "https://youtube.com/watch?v=sutvPEy0uJ4",
+                "duration": "7:30:49",
+                "thumbnail": "https://i.ytimg.com/vi/sutvPEy0uJ4/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Samaya Suthraya - මහා සමය සූත්‍රය | සිංහල අර්ථය සහිත",
+                "url": "https://youtube.com/watch?v=fyY6pq2MWnk",
+                "duration": "55:42",
+                "thumbnail": "https://i.ytimg.com/vi/fyY6pq2MWnk/hq720.jpg"
+            },
+            {
+                "title": "මහසෙන් අරණ Mahasen Arana සියලුම පාදවල වේදනා වලට ,අත්තික්කා ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=iHO593WN-d8",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/iHO593WN-d8/hq720.jpg"
+            },
+            {
+                "title": "Maha bovitiya/මහ බෝවිටියා/bovitiya  rruit/melastoma malabathricum /malabar malastoma/#medicinal /",
+                "url": "https://youtube.com/watch?v=2sUcrybvH4A",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/2sUcrybvH4A/hq720.jpg"
+            },
+            {
+                "title": "Mha Araththa Ruk",
+                "url": "https://youtube.com/watch?v=QFxPYBEw0dM",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/QFxPYBEw0dM/hq720.jpg"
+            },
+            {
+                "title": "වදුරු මෑ ගැන ඔබ නොදත් කරුණු  පුදුම හිතෙන ඖෂධීය රහස්! 🌿",
+                "url": "https://youtube.com/watch?v=P789fkoerpg",
+                "duration": "5:42",
+                "thumbnail": "https://i.ytimg.com/vi/P789fkoerpg/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Malnutrition",
-      "sinhala": "මන්දපෝෂණ තත්ත්වයන් (පෝෂණ ඌනතා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Debility",
-      "sinhala": "ශාරීරික දුර්වලතාවය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Kidney Diseases",
-      "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Venereal Disease",
-      "sinhala": "ලිංගික රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "1940",
-      "caption": "Flower 1 (PMR)",
-      "url": "https://i.ibb.co/vvqgwNkK/plant00195-01940.jpg"
-    },
-    {
-      "image_id": "1941",
-      "caption": "Flower 2 (PMR)",
-      "url": "https://i.ibb.co/nMf4Rp0t/plant00195-01941.jpg"
-    },
-    {
-      "image_id": "1942",
-      "caption": "Fruit (PMR)",
-      "url": "https://i.ibb.co/jPPq7y7F/plant00195-01942.jpg"
-    },
-    {
-      "image_id": "1943",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/FqsJgzL4/plant00195-01943.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,229 +1,786 @@
 {
-  "scientificName": "Capsicum annuum L.",
-  "synonyms": [
-    "Capsicum abyssinicum A.Rich.",
-    "Capsicum angulosum Mill.",
-    "Capsicum annuum f. chlorocarpum Kuntze",
-    "Capsicum annuum f. erectum Makino",
-    "Capsicum annuum f. leucocarpum Kuntze",
-    "Capsicum annuum f. luteum Kuntze",
-    "Capsicum annuum f. nigrum (Willd.) Makino",
-    "Capsicum annuum f. pendulum Makino",
-    "Capsicum annuum f. violaceum Kuntze",
-    "Capsicum annuum subsp. microcarpon Dierb.",
-    "Capsicum annuum var. abbreviatum Fingerh.",
-    "Capsicum annuum var. acuminatum Fingerh.",
-    "Capsicum annuum var. angulosum (Mill.) Alef.",
-    "Capsicum annuum var. aviculare (Dierb.) D&#96;Arcy & Eschbaugh",
-    "Capsicum annuum var. bicolor (Jacq.) Alef.",
-    "Capsicum annuum var. cerasiforme Alef.",
-    "Capsicum annuum var. ceratocarpum (Fingerh.) Alef.",
-    "Capsicum annuum var. conicum (Lam.) Voss",
-    "Capsicum annuum var. conicum Alef.",
-    "Capsicum annuum var. conoides (Mill.) Irish",
-    "Capsicum annuum var. cordiforme (Mill.) Sendtn.",
-    "Capsicum annuum var. fasciculatum (Sturtev.) Irish",
-    "Capsicum annuum var. fingerhuthii Alef.",
-    "Capsicum annuum var. glabriusculum (Dunal) Heiser & Pickersgill",
-    "Capsicum annuum var. globiferum (G.Mey.) Alef.",
-    "Capsicum annuum var. grossum (Willd.) Sendtn.",
-    "Capsicum annuum var. leptoceras Alef.",
-    "Capsicum annuum var. longum (DC.) Sendtn.",
-    "Capsicum annuum var. luteum (Lam.) Alef.",
-    "Capsicum annuum var. milleri Alef.",
-    "Capsicum annuum var. minimum (Mill.) Heiser",
-    "Capsicum annuum var. nigrum (Willd.) Alef.",
-    "Capsicum annuum var. oblongoconicum (Dunal) Cufod.",
-    "Capsicum annuum var. parvoacuminatum Makino",
-    "Capsicum annuum var. pendulum Alef.",
-    "Capsicum annuum var. purpureum Alef.",
-    "Capsicum annuum var. pyramidale (Mill.) Alef.",
-    "Capsicum annuum var. subconicum Alef.",
-    "Capsicum annuum var. tetragonum (Mill.) Alef.",
-    "Capsicum annuum var. weinmannii Alef.",
-    "Capsicum axi Vell.",
-    "Capsicum baccatum Rodschied",
-    "Capsicum bauhini Dunal",
-    "Capsicum bicolor Jacq.",
-    "Capsicum caerulescens Besser",
-    "Capsicum cerasiforme Mill.",
-    "Capsicum cerasiforme Willd.",
-    "Capsicum ceratocarpum Fingerh.",
-    "Capsicum cereolum Bertol.",
-    "Capsicum chlorocladum Dunal",
-    "Capsicum comarim Vell.",
-    "Capsicum conicum G.Mey.",
-    "Capsicum conicum Lam.",
-    "Capsicum conoideum Mill.",
-    "Capsicum conoideum var. chordale Fingerh.",
-    "Capsicum conoideum var. oblongoconicum Dunal",
-    "Capsicum conoideum var. sulcatum Fingerh.",
-    "Capsicum cordiforme Mill.",
-    "Capsicum crispum Dunal",
-    "Capsicum curvipes Dunal",
-    "Capsicum cydoniforme Roem. & Schult.",
-    "Capsicum dulce Dunal",
-    "Capsicum fasciculatum Sturtev.",
-    "Capsicum frutescens var. abbreviatum (Fingerh.) L.H.Bailey",
-    "Capsicum frutescens var. acuminatum (Fingerh.) L.H.Bailey",
-    "Capsicum frutescens var. cerasiforme (Mill.) L.H.Bailey",
-    "Capsicum frutescens var. conoides (Mill.) L.H.Bailey",
-    "Capsicum frutescens var. fasciculatum (Sturtev.) L.H.Bailey",
-    "Capsicum frutescens var. glabriusculum (Dunal) M.R.Almeida",
-    "Capsicum frutescens var. grossum (L.) L.H.Bailey",
-    "Capsicum frutescens var. longum (DC.) L.H.Bailey",
-    "Capsicum frutescens var. queenslandicum Domin",
-    "Capsicum globiferum G.Mey.",
-    "Capsicum globosum Besser",
-    "Capsicum grossum L.",
-    "Capsicum grossum var. cerasiforme (Mill.) C.B.Clarke",
-    "Capsicum hamiltonii G.Don",
-    "Capsicum hispidum Dunal",
-    "Capsicum hispidum var. glabriusculum Dunal",
-    "Capsicum indicum var. aviculare Dierb.",
-    "Capsicum indicum var. conoideum (Mill.) Dierb.",
-    "Capsicum longum DC.",
-    "Capsicum luteum Lam.",
-    "Capsicum micranthum Link",
-    "Capsicum milleri Roem. & Schult.",
-    "Capsicum minimum Mill.",
-    "Capsicum narunca Dunal",
-    "Capsicum nigrum Willd.",
-    "Capsicum odoratum Steud.",
-    "Capsicum odoriferum Vell.",
-    "Capsicum oliviforme Mill.",
-    "Capsicum ovatum DC.",
-    "Capsicum petenense Standl.",
-    "Capsicum pomiferum Mart. ex Steud.",
-    "Capsicum pubescens Dunal",
-    "Capsicum purpureum Roxb.",
-    "Capsicum purpureum Vahl ex Hornem.",
-    "Capsicum pyramidale Mill.",
-    "Capsicum quitense Willd. ex Roem. & Schult.",
-    "Capsicum silvestre Vell.",
-    "Capsicum sphaerium Willd.",
-    "Capsicum tetragonum Mill.",
-    "Capsicum tomatiforme Fingerh. ex Steud.",
-    "Capsicum torulosum Hornem.",
-    "Capsicum tournefortii Besser",
-    "Capsicum ustulatum Paxton",
-    "Capsicum velutinum De Wild.",
-    "Capsicum violaceum Desf.",
-    "Piper indicum Garsault"
-  ],
-  "familyName": "SOLANACEAE",
-  "englishNames": [
-    "Chilli",
-    "Red Pepper",
-    "Sweet Pepper",
-    "Cayenne Pepper",
-    "Chili Pepper",
-    "Christmas Pepper",
-    "Ornamental Chili Pepper"
-  ],
-  "sinhalaName": "Miris (මිරිස්)",
-  "description": "සෙන්ටිමීටර 60-150ක් උසැති පඳුරු සහිත පැළෑටියකි; කඳ කෝණාකාර (angular) වේ. පත්‍ර තනිව හෝ යුගල වශයෙන් පිහිටයි, සෙන්ටිමීටර 2-10ක් දිග සහ සෙන්ටිමීටර 1-4ක් පළල වේ; පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 0.5-3ක් දිගය. මල් සාමාන්‍යයෙන් තනිව පිහිටන අතර, අවම වශයෙන් ඵල දරන අවස්ථාවේදී පහළට නැඹුරු (pendent) වේ; මල් කිරීටයේ (corolla) පෙති ලාන්සාකාර (lanceolate) වන අතර මිලිමීටර 4ක් දිගය. ඵලය පහළට නැඹුරු (pendent) වන අතර, සෙන්ටිමීටර 5ක් පමණ දිගය, එය කහ පැහැයේ සිට රතු පැහැයට හැරේ. බීජ සිනිඳු (smooth) වන අතර, මිලිමීටර 3-5ක විෂ්කම්භයකින් යුක්තව කහ පැහැයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Capsicum annuum L.",
+    "synonyms": [
+        "Capsicum abyssinicum A.Rich.",
+        "Capsicum angulosum Mill.",
+        "Capsicum annuum f. chlorocarpum Kuntze",
+        "Capsicum annuum f. erectum Makino",
+        "Capsicum annuum f. leucocarpum Kuntze",
+        "Capsicum annuum f. luteum Kuntze",
+        "Capsicum annuum f. nigrum (Willd.) Makino",
+        "Capsicum annuum f. pendulum Makino",
+        "Capsicum annuum f. violaceum Kuntze",
+        "Capsicum annuum subsp. microcarpon Dierb.",
+        "Capsicum annuum var. abbreviatum Fingerh.",
+        "Capsicum annuum var. acuminatum Fingerh.",
+        "Capsicum annuum var. angulosum (Mill.) Alef.",
+        "Capsicum annuum var. aviculare (Dierb.) D&#96;Arcy & Eschbaugh",
+        "Capsicum annuum var. bicolor (Jacq.) Alef.",
+        "Capsicum annuum var. cerasiforme Alef.",
+        "Capsicum annuum var. ceratocarpum (Fingerh.) Alef.",
+        "Capsicum annuum var. conicum (Lam.) Voss",
+        "Capsicum annuum var. conicum Alef.",
+        "Capsicum annuum var. conoides (Mill.) Irish",
+        "Capsicum annuum var. cordiforme (Mill.) Sendtn.",
+        "Capsicum annuum var. fasciculatum (Sturtev.) Irish",
+        "Capsicum annuum var. fingerhuthii Alef.",
+        "Capsicum annuum var. glabriusculum (Dunal) Heiser & Pickersgill",
+        "Capsicum annuum var. globiferum (G.Mey.) Alef.",
+        "Capsicum annuum var. grossum (Willd.) Sendtn.",
+        "Capsicum annuum var. leptoceras Alef.",
+        "Capsicum annuum var. longum (DC.) Sendtn.",
+        "Capsicum annuum var. luteum (Lam.) Alef.",
+        "Capsicum annuum var. milleri Alef.",
+        "Capsicum annuum var. minimum (Mill.) Heiser",
+        "Capsicum annuum var. nigrum (Willd.) Alef.",
+        "Capsicum annuum var. oblongoconicum (Dunal) Cufod.",
+        "Capsicum annuum var. parvoacuminatum Makino",
+        "Capsicum annuum var. pendulum Alef.",
+        "Capsicum annuum var. purpureum Alef.",
+        "Capsicum annuum var. pyramidale (Mill.) Alef.",
+        "Capsicum annuum var. subconicum Alef.",
+        "Capsicum annuum var. tetragonum (Mill.) Alef.",
+        "Capsicum annuum var. weinmannii Alef.",
+        "Capsicum axi Vell.",
+        "Capsicum baccatum Rodschied",
+        "Capsicum bauhini Dunal",
+        "Capsicum bicolor Jacq.",
+        "Capsicum caerulescens Besser",
+        "Capsicum cerasiforme Mill.",
+        "Capsicum cerasiforme Willd.",
+        "Capsicum ceratocarpum Fingerh.",
+        "Capsicum cereolum Bertol.",
+        "Capsicum chlorocladum Dunal",
+        "Capsicum comarim Vell.",
+        "Capsicum conicum G.Mey.",
+        "Capsicum conicum Lam.",
+        "Capsicum conoideum Mill.",
+        "Capsicum conoideum var. chordale Fingerh.",
+        "Capsicum conoideum var. oblongoconicum Dunal",
+        "Capsicum conoideum var. sulcatum Fingerh.",
+        "Capsicum cordiforme Mill.",
+        "Capsicum crispum Dunal",
+        "Capsicum curvipes Dunal",
+        "Capsicum cydoniforme Roem. & Schult.",
+        "Capsicum dulce Dunal",
+        "Capsicum fasciculatum Sturtev.",
+        "Capsicum frutescens var. abbreviatum (Fingerh.) L.H.Bailey",
+        "Capsicum frutescens var. acuminatum (Fingerh.) L.H.Bailey",
+        "Capsicum frutescens var. cerasiforme (Mill.) L.H.Bailey",
+        "Capsicum frutescens var. conoides (Mill.) L.H.Bailey",
+        "Capsicum frutescens var. fasciculatum (Sturtev.) L.H.Bailey",
+        "Capsicum frutescens var. glabriusculum (Dunal) M.R.Almeida",
+        "Capsicum frutescens var. grossum (L.) L.H.Bailey",
+        "Capsicum frutescens var. longum (DC.) L.H.Bailey",
+        "Capsicum frutescens var. queenslandicum Domin",
+        "Capsicum globiferum G.Mey.",
+        "Capsicum globosum Besser",
+        "Capsicum grossum L.",
+        "Capsicum grossum var. cerasiforme (Mill.) C.B.Clarke",
+        "Capsicum hamiltonii G.Don",
+        "Capsicum hispidum Dunal",
+        "Capsicum hispidum var. glabriusculum Dunal",
+        "Capsicum indicum var. aviculare Dierb.",
+        "Capsicum indicum var. conoideum (Mill.) Dierb.",
+        "Capsicum longum DC.",
+        "Capsicum luteum Lam.",
+        "Capsicum micranthum Link",
+        "Capsicum milleri Roem. & Schult.",
+        "Capsicum minimum Mill.",
+        "Capsicum narunca Dunal",
+        "Capsicum nigrum Willd.",
+        "Capsicum odoratum Steud.",
+        "Capsicum odoriferum Vell.",
+        "Capsicum oliviforme Mill.",
+        "Capsicum ovatum DC.",
+        "Capsicum petenense Standl.",
+        "Capsicum pomiferum Mart. ex Steud.",
+        "Capsicum pubescens Dunal",
+        "Capsicum purpureum Roxb.",
+        "Capsicum purpureum Vahl ex Hornem.",
+        "Capsicum pyramidale Mill.",
+        "Capsicum quitense Willd. ex Roem. & Schult.",
+        "Capsicum silvestre Vell.",
+        "Capsicum sphaerium Willd.",
+        "Capsicum tetragonum Mill.",
+        "Capsicum tomatiforme Fingerh. ex Steud.",
+        "Capsicum torulosum Hornem.",
+        "Capsicum tournefortii Besser",
+        "Capsicum ustulatum Paxton",
+        "Capsicum velutinum De Wild.",
+        "Capsicum violaceum Desf.",
+        "Piper indicum Garsault"
+    ],
+    "familyName": "SOLANACEAE",
+    "englishNames": [
+        "Chilli",
+        "Red Pepper",
+        "Sweet Pepper",
+        "Cayenne Pepper",
+        "Chili Pepper",
+        "Christmas Pepper",
+        "Ornamental Chili Pepper"
+    ],
+    "sinhalaName": "Miris (මිරිස්)",
+    "description": "සෙන්ටිමීටර 60-150ක් උසැති පඳුරු සහිත පැළෑටියකි; කඳ කෝණාකාර (angular) වේ. පත්‍ර තනිව හෝ යුගල වශයෙන් පිහිටයි, සෙන්ටිමීටර 2-10ක් දිග සහ සෙන්ටිමීටර 1-4ක් පළල වේ; පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 0.5-3ක් දිගය. මල් සාමාන්‍යයෙන් තනිව පිහිටන අතර, අවම වශයෙන් ඵල දරන අවස්ථාවේදී පහළට නැඹුරු (pendent) වේ; මල් කිරීටයේ (corolla) පෙති ලාන්සාකාර (lanceolate) වන අතර මිලිමීටර 4ක් දිගය. ඵලය පහළට නැඹුරු (pendent) වන අතර, සෙන්ටිමීටර 5ක් පමණ දිගය, එය කහ පැහැයේ සිට රතු පැහැයට හැරේ. බීජ සිනිඳු (smooth) වන අතර, මිලිමීටර 3-5ක විෂ්කම්භයකින් යුක්තව කහ පැහැයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Disorders",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Dried fruit"
+    ],
+    "images": [
+        {
+            "image_id": "2709",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/7dVSqrbN/plant01250-02709.jpg"
+        },
+        {
+            "image_id": "2710",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/5Xyvx6FH/plant01250-02710.jpg"
+        },
+        {
+            "image_id": "2711",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/My0nKBzS/plant01250-02711.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "නයි මිරිස් වගාකර අමතර ලක්ශයක් මාසෙට හොයමු.",
+                "url": "https://youtube.com/watch?v=BwXx7k8VFa0",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/BwXx7k8VFa0/hq720.jpg"
+            },
+            {
+                "title": "How to grow green chillies   අමු මිරිස් වගා කරමුThe best crop to pay off your bank loan",
+                "url": "https://youtube.com/watch?v=mOneXgA3otA",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/mOneXgA3otA/hq720.jpg"
+            },
+            {
+                "title": "සුහුරු තාක්ෂණික මිරිස් වගාව | suhuru miris wagawa | miris wagawa | how to grow Chili | MICH1 miris",
+                "url": "https://youtube.com/watch?v=6o95Xd3WFS0",
+                "duration": "44:55",
+                "thumbnail": "https://i.ytimg.com/vi/6o95Xd3WFS0/hq720.jpg"
+            },
+            {
+                "title": "අමු මිරිස් වගාව මුල සිට (02) | කෘමිනාශක හා දියර පොහොර කාලසටහන ✅️ #viral #farming #agriculture",
+                "url": "https://youtube.com/watch?v=dx0YSf6WINU",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/dx0YSf6WINU/hq720.jpg"
+            },
+            {
+                "title": "මිරිස් වගාව episod 02 #farming #mybackyardgarden #homegardening #agriparadise #backyardgardening",
+                "url": "https://youtube.com/watch?v=LmaaLX0zQXA",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/LmaaLX0zQXA/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාවට පොහොර හා බෙහෙත් කාලසටහන 2 | nai miris wagawata pohora ha beheth",
+                "url": "https://youtube.com/watch?v=ghwkkW2RFqg",
+                "duration": "10:54",
+                "thumbnail": "https://i.ytimg.com/vi/ghwkkW2RFqg/hq720.jpg"
+            },
+            {
+                "title": "මෝරු මිරිස් වේලීම සහ බැදුම. (මුදවපු කිරි වලින් මිරිස් වේලිම) Moru miris Fried chilies by Ape Amma",
+                "url": "https://youtube.com/watch?v=rbusV3kXs5o",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/rbusV3kXs5o/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාකර අමතර ලක්ශයක් මාසෙට හොයමු.",
+                "url": "https://youtube.com/watch?v=bC2n4GP_RGA",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/bC2n4GP_RGA/frame0.jpg"
+            },
+            {
+                "title": "100000 ගනන් සල්ලි ගේන නයි මිරිස් වගාව සරලව A to Z කිලෝ 1ක් 1000 න් උඩ",
+                "url": "https://youtube.com/watch?v=bHtMEoLbCm4",
+                "duration": "10:53",
+                "thumbnail": "https://i.ytimg.com/vi/bHtMEoLbCm4/hq720.jpg"
+            },
+            {
+                "title": "රට මිරිස් වල විශ්මිත ගුණ - Amazing properties of country chilies",
+                "url": "https://youtube.com/watch?v=C5NDSm11Dsk",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/C5NDSm11Dsk/hq720.jpg"
+            },
+            {
+                "title": "අමූ ම්රිස් කෑවට මේ ගැන දැනගෙන හිටියද? | Green Chili By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=AyzwLUDmSXs",
+                "duration": "8:04",
+                "thumbnail": "https://i.ytimg.com/vi/AyzwLUDmSXs/hq720.jpg"
+            },
+            {
+                "title": "කොච්චි මිරිස් කෑවොත් වෙන දේ මෙන්න : Benefits of bird's eye chilli",
+                "url": "https://youtube.com/watch?v=ytGFvlkDgbM",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/ytGFvlkDgbM/hq720.jpg"
+            },
+            {
+                "title": "මාළු මි‍රිස් වල විශ්මිත ගුණ - Amazing properties of fish chilies For a healthy life",
+                "url": "https://youtube.com/watch?v=XKUUcPTT9Go",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/XKUUcPTT9Go/hq720.jpg"
+            },
+            {
+                "title": "මිරිස් ගැන පුදුම හිතෙන කතාවක් -මිරිස් කෑවොත් වෙන දේ දැනගන්න miris wagawa | sinhala |srilanka | food",
+                "url": "https://youtube.com/watch?v=yETZPHHunLI",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/yETZPHHunLI/hq720.jpg"
+            },
+            {
+                "title": "මිරිස්වල ඇති නිරෝගී භාවයේ සහ දීර්ඝායු ලැබීමේ රහස්. | The secrets of health and longevity in chilies.",
+                "url": "https://youtube.com/watch?v=JnImMgbkdQ4",
+                "duration": "10:32",
+                "thumbnail": "https://i.ytimg.com/vi/JnImMgbkdQ4/hq720.jpg"
+            },
+            {
+                "title": "නයිමිරිස් ගැන අල්විස් කියන සැර කතාව  | Krushi Radio",
+                "url": "https://youtube.com/watch?v=TVMBRqs3Lmw",
+                "duration": "12:38",
+                "thumbnail": "https://i.ytimg.com/vi/TVMBRqs3Lmw/hq720.jpg"
+            },
+            {
+                "title": "මාළු මිරිස් කෑවොත් වෙන දේ මෙන්න : Benefits of Banana Peppers (2019)",
+                "url": "https://youtube.com/watch?v=38yqPpIwZUk",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/38yqPpIwZUk/hq720.jpg"
+            },
+            {
+                "title": "කොච්චි වලින් අපට ලැබෙන්නේ මොනවාද ? | Herbal properties of Tabasco Pepper | Healing of diseases",
+                "url": "https://youtube.com/watch?v=c6AF10UxImM",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/c6AF10UxImM/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබේ නයි මිරිස් අමු මිරිස් වගාවෙත් මල් හැලෙනවාද ?අස්වැන්න අඩුයි ද ?මෙන්න විසදුම් Agri Expert",
+                "url": "https://youtube.com/watch?v=r_OK18z2Lc4",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/r_OK18z2Lc4/hqdefault.jpg"
+            },
+            {
+                "title": "අධික මිරිස් කෑමෙන් සිදුවන හොඳ සහ නරක දේවල් | Chili Health Benefits & Side Effects in Sinhala",
+                "url": "https://youtube.com/watch?v=-DndDU9Y2KU",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/-DndDU9Y2KU/hqdefault.jpg"
+            },
+            {
+                "title": "නයි මිරිස් අස්වැන්න දෙගුණ කරන රහස: හාල් වතුරේ පුදුම ගුණ 😲🌱 #sideincome #savemoney",
+                "url": "https://youtube.com/watch?v=ac1HX-VaF0M",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/ac1HX-VaF0M/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ පිරි මිරිස් මෙච්චර සැර වුනේ කොහොමද? Why hot chili gives so much burning sensation",
+                "url": "https://youtube.com/watch?v=1y4s7enW8aU",
+                "duration": "5:35",
+                "thumbnail": "https://i.ytimg.com/vi/1y4s7enW8aU/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් මල් එලදාව වැඩිකරගමු.. Nai miris mal.",
+                "url": "https://youtube.com/watch?v=jzygyZm5qyk",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/jzygyZm5qyk/hq720.jpg"
+            },
+            {
+                "title": "මිරිස් වගාවේ💚හිටුමැරීමේ රෝගයට හේතු සහ පිළියම්🤑 | chilli plant disease🌱",
+                "url": "https://youtube.com/watch?v=V0TGtlKeNAQ",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/V0TGtlKeNAQ/hq720.jpg"
+            },
+            {
+                "title": "මිරිස් වගාවට හැදුන දිලීර රෝගයFungal disease in chili cultivation",
+                "url": "https://youtube.com/watch?v=DMCeyAikND8",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/DMCeyAikND8/hqdefault.jpg"
+            },
+            {
+                "title": "මිරිස් කොළ කොඩවීමට හැමෝම හොයන බෙහෙත ✅",
+                "url": "https://youtube.com/watch?v=Whtght7ZmlA",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/Whtght7ZmlA/hq720.jpg"
+            },
+            {
+                "title": "හෙක්ටයාරයට 35,000kg අස්වැන්න දෙන අමු මිරිස් ප්‍රභේදය මෙන්න සුපිරි බඩු Chili seeds",
+                "url": "https://youtube.com/watch?v=Bgwcnp3fymQ",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/Bgwcnp3fymQ/hq720.jpg"
+            },
+            {
+                "title": "මිරිස් වගාවේ මයිටා හානියට තිත | how to control mites attack on chillie farming",
+                "url": "https://youtube.com/watch?v=hmZLb7daFds",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/hmZLb7daFds/hq720.jpg"
+            },
+            {
+                "title": "Techniques to Control Chilli Diseases in Sri Lanka | මිරිස් වගාවේ රෝග පාලනයට උපදෙස් | Miris Wagawa",
+                "url": "https://youtube.com/watch?v=b7DOia1SsJY",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/b7DOia1SsJY/hq720.jpg"
+            },
+            {
+                "title": "දිලිර රෝග වලට බියවිය යුතු නැත. ප්‍රතිකාර ඇත. #capsicum #fungicides",
+                "url": "https://youtube.com/watch?v=hTyflrBdAqw",
+                "duration": "5:59",
+                "thumbnail": "https://i.ytimg.com/vi/hTyflrBdAqw/hq720.jpg"
+            },
+            {
+                "title": "MICH HY 01 මිරිස් වගාව |  පලවෙනි දෙවෙනි අස්වනු | miris wagawa palaweni saha dewini aswanna | Chilli",
+                "url": "https://youtube.com/watch?v=AzBBYomPfoo",
+                "duration": "6:04",
+                "thumbnail": "https://i.ytimg.com/vi/AzBBYomPfoo/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් වගාවේ මයිටා උවදුර මැඩලමු | අමුමිරිස්, මාළු මිරිස් ඇතුළු සියලුම මිරිස් වර්ග සඳහා",
+                "url": "https://youtube.com/watch?v=0TW18SQSJFE",
+                "duration": "11:39",
+                "thumbnail": "https://i.ytimg.com/vi/0TW18SQSJFE/hq720.jpg"
+            },
+            {
+                "title": "Govibimata Arunalu TV Program | වියළි මිරිස් නිෂ්පාදනය | 2020-11-01 | Krushi Tv",
+                "url": "https://youtube.com/watch?v=Wjyi7BRTu0Q",
+                "duration": "13:44",
+                "thumbnail": "https://i.ytimg.com/vi/Wjyi7BRTu0Q/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් වල ඇති ගුණ සහ විටමින් වර්ග (16) |  peppers benefits",
+                "url": "https://youtube.com/watch?v=j1p7xjaKubY",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/j1p7xjaKubY/hqdefault.jpg"
+            },
+            {
+                "title": "Ayurvedic Value of Pepper , ගම්මිරිස්",
+                "url": "https://youtube.com/watch?v=Q-P1bfRjQuM",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/Q-P1bfRjQuM/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "රක්තහීනතාවයට ගුණ දෙන වටිනා මැල්ලුම් සහ කරි වර්ග | best food for anemia | le wadana ahara | moringa",
+                "url": "https://youtube.com/watch?v=q3A6-LRk2rA",
+                "duration": "18:00",
+                "thumbnail": "https://i.ytimg.com/vi/q3A6-LRk2rA/hq720.jpg"
+            },
+            {
+                "title": "ගම්මිරිස් කෑවොත් වෙන දේ මෙන්න : Black pepper benefits (in 2018)",
+                "url": "https://youtube.com/watch?v=C7SPFBVXjHA",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/C7SPFBVXjHA/hq720.jpg"
+            },
+            {
+                "title": "කලුකැම්මේරිය විශ්මිත ගුණ , රෝග රැසකට එක් ඔසුවක්.",
+                "url": "https://youtube.com/watch?v=CmQImWwL4Hw",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/CmQImWwL4Hw/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල්, තරබාරුව මට්ටු කරන්න පුරාණයේ සිට පැවැත එන විශ්මිත ගුලිය",
+                "url": "https://youtube.com/watch?v=e290CnJkWGs",
+                "duration": "16:31",
+                "thumbnail": "https://i.ytimg.com/vi/e290CnJkWGs/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා වියළි මිදි 5ක් කෑවොත් ඔබේ සිරුරට සිදුවෙන හිතාගන්නවත් බැරි විස්මිත දේ |Raisins",
+                "url": "https://youtube.com/watch?v=L7YCJe4CdSc",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/L7YCJe4CdSc/hq720.jpg"
+            },
+            {
+                "title": "හැදෙන්න තියන පිළිකාවක් උනත් වලකන ලෙඩ 300කට ගුණ පානයක් | දියවැඩියාවට කොලෙස්ටරෝල් වලට බෙහෙත් nira S",
+                "url": "https://youtube.com/watch?v=5TmsOIyY_W8",
+                "duration": "6:33",
+                "thumbnail": "https://i.ytimg.com/vi/5TmsOIyY_W8/hq720.jpg"
+            },
+            {
+                "title": "මේ කොල වල මෙතරම් ගුණයක් | පේර කොල වල ගුණ",
+                "url": "https://youtube.com/watch?v=WCils46rYe8",
+                "duration": "7:18",
+                "thumbnail": "https://i.ytimg.com/vi/WCils46rYe8/hqdefault.jpg"
+            },
+            {
+                "title": "සුදු ලුණු බික් 2කින් කොලෙස්ටරෝල් සදහටම නැති කරන ක්‍රමය! - රුධිරගත මේදය ඉක්මනටම අඩු කරන ආහාර!",
+                "url": "https://youtube.com/watch?v=QjkI2tpjXEE",
+                "duration": "15:18",
+                "thumbnail": "https://i.ytimg.com/vi/QjkI2tpjXEE/hq720.jpg"
+            },
+            {
+                "title": "දවස් 10 න් බඩ බහින්න පටන් ගනිවි | Recipes for Helthy | athal kitchen curry leaves|Karapincha sambole",
+                "url": "https://youtube.com/watch?v=l3e14IDzSLY",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/l3e14IDzSLY/hqdefault.jpg"
+            },
+            {
+                "title": "මේ ගස් 3 ගෙදර තියෙනවා නම් කවදාවත් දියවැඩියාව හැදෙන්නේ නැහැ - මේ ගෙඩියක් කන්න පටගාල සීනි බහිනවා",
+                "url": "https://youtube.com/watch?v=ySXYL6YHSpo",
+                "duration": "26:55",
+                "thumbnail": "https://i.ytimg.com/vi/ySXYL6YHSpo/hq720.jpg"
+            },
+            {
+                "title": "🔴යකෝ මෙචිචර විටමින්😲? මේ පලා වර්ග කාලා නැත්තං ලැජ්ජ වෙන්ඩ",
+                "url": "https://youtube.com/watch?v=AHTl3nMAWZI",
+                "duration": "8:19",
+                "thumbnail": "https://i.ytimg.com/vi/AHTl3nMAWZI/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "මිරිස් අස්වැන්න 5 ගුණයකින් වැඩි කරන විද්‍යාත්මක රහස් 4ක්! 🌶️📈",
+                "url": "https://youtube.com/watch?v=HCiMvDYNMfk",
+                "duration": "7:08",
+                "thumbnail": "https://i.ytimg.com/vi/HCiMvDYNMfk/hq720.jpg"
+            },
+            {
+                "title": "මිරිස් පාත්තියේ ඉතුරු ඉඩේ වගා කරන්න සුදුසු සහ නුසුදුසු භෝග - Companion Planting: Chili Peppers",
+                "url": "https://youtube.com/watch?v=2yZOD2_mBXM",
+                "duration": "10:45",
+                "thumbnail": "https://i.ytimg.com/vi/2yZOD2_mBXM/hqdefault.jpg"
+            },
+            {
+                "title": "මිරිස් ගල ගැන මේ දේවල් දන්නවද? | කර්මාන්ත උපකරණ | Uthsuka Rathnayake",
+                "url": "https://youtube.com/watch?v=d-TmIx1tyUM",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/d-TmIx1tyUM/hq720.jpg"
+            },
+            {
+                "title": "මිරිස් වගාව වනසන සතුන් දැනගෙන වගාවෙන් ලක්ෂ ගනන් උපයමු chile common disease",
+                "url": "https://youtube.com/watch?v=8ui3dEet-0U",
+                "duration": "14:48",
+                "thumbnail": "https://i.ytimg.com/vi/8ui3dEet-0U/hq720.jpg"
+            },
+            {
+                "title": "හොඳ අස්වැන්නක් සඳහා මිරිස් වගාවේ රහස් - Everything You Need to Know About Chili Cultivation - miris🌱",
+                "url": "https://youtube.com/watch?v=QmJzqlucqMQ",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/QmJzqlucqMQ/hqdefault.jpg"
+            },
+            {
+                "title": "සාර්ථක මාළුමිරිස් වගාවකට අවශ්‍ය දැනුම | malu miris wagawa  | How to grow capsicum correctly",
+                "url": "https://youtube.com/watch?v=wcb5xt3xb_0",
+                "duration": "23:26",
+                "thumbnail": "https://i.ytimg.com/vi/wcb5xt3xb_0/hq720.jpg"
+            },
+            {
+                "title": "මිරිස් වගාවේ කරල් බර විශාලත්වය වැඩි කරන පොහොර භාවිතය. Miris pohora .",
+                "url": "https://youtube.com/watch?v=hbKA9rJRkvo",
+                "duration": "5:58",
+                "thumbnail": "https://i.ytimg.com/vi/hbKA9rJRkvo/hq720.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "මිරිස් වගාවට පොහොර සහ බෙහෙත් | miris wagawata pohora saha beheth",
+                "url": "https://youtube.com/watch?v=VdLpF7NK44c",
+                "duration": "15:20",
+                "thumbnail": "https://i.ytimg.com/vi/VdLpF7NK44c/hqdefault.jpg"
+            },
+            {
+                "title": "Chili for life Long Happiness | හැමදාම සතුටින් ඉන්න මිරිස් | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WSvFVRcen7g",
+                "duration": "9:14",
+                "thumbnail": "https://i.ytimg.com/vi/WSvFVRcen7g/hq720.jpg"
+            },
+            {
+                "title": "වගා මලු සඳහා පස් මිශ්‍රණය සකස් කරගන්නා ආකාරය A to Z 🌱☘️",
+                "url": "https://youtube.com/watch?v=R7GMDC_-7vs",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/R7GMDC_-7vs/hq720.jpg"
+            },
+            {
+                "title": "The Health Benefits of Rosemary",
+                "url": "https://youtube.com/watch?v=oEOTayOXzoE",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/oEOTayOXzoE/hq720.jpg"
+            },
+            {
+                "title": "8 Benefits of Rosemary You Should Know! | Rosemary Uses and Benefits",
+                "url": "https://youtube.com/watch?v=IBvUJluIBu0",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/IBvUJluIBu0/hq720.jpg"
+            },
+            {
+                "title": "ලුණු මිරිස් කන අයට වෙන දේ මෙන්න : Lunumirisa benefits",
+                "url": "https://youtube.com/watch?v=lEnvUgrCD-w",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/lEnvUgrCD-w/hq720.jpg"
+            },
+            {
+                "title": "බෙල් පෙපර් කන අය දැනගෙන ඉන්න ඕනෙ දේවල් : Bell Pepper Benefits",
+                "url": "https://youtube.com/watch?v=9pvTP9qTUoA",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/9pvTP9qTUoA/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Hot Chili Peppers – Dr. Berg",
+                "url": "https://youtube.com/watch?v=95xPfoc0wTA",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/95xPfoc0wTA/hq720.jpg"
+            },
+            {
+                "title": "Rosemary Tea Benefits | Top 6 Health Benefits of Rosemary Tea",
+                "url": "https://youtube.com/watch?v=N8pAj4gs4eQ",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/N8pAj4gs4eQ/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits Of Cilantro You Should Know! | Health Benefits Of Cilantro",
+                "url": "https://youtube.com/watch?v=jlaelYqV94o",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/jlaelYqV94o/hq720.jpg"
+            },
+            {
+                "title": "What Is Cilantro Good For?",
+                "url": "https://youtube.com/watch?v=BZLeKhwKOb0",
+                "duration": "1:41",
+                "thumbnail": "https://i.ytimg.com/vi/BZLeKhwKOb0/hq720.jpg"
+            },
+            {
+                "title": "මිංචි පැළ හැදුවා | මිංචි තේ , මිංචි සම්බෝල - Mint Leaves | Health Benefits and Uses | Peppermint",
+                "url": "https://youtube.com/watch?v=hJ-kOylDdX8",
+                "duration": "7:05",
+                "thumbnail": "https://i.ytimg.com/vi/hJ-kOylDdX8/hq720.jpg"
+            },
+            {
+                "title": "කෑමට ගන්නවද? බෙහෙතට ගන්නවද? මොනාද මේ රෝස්මරී ? | Amazing benefits of Rosemary",
+                "url": "https://youtube.com/watch?v=S2f_9XIJ1Vk",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/S2f_9XIJ1Vk/hq720.jpg"
+            },
+            {
+                "title": "10 Reasons to Eat Black Pepper Daily (Activate Its Full Power)",
+                "url": "https://youtube.com/watch?v=T67FPVfeEV4",
+                "duration": "13:56",
+                "thumbnail": "https://i.ytimg.com/vi/T67FPVfeEV4/hq720.jpg"
+            },
+            {
+                "title": "9 HEALTH BENEFITS OF CHILI LEAVES!",
+                "url": "https://youtube.com/watch?v=smc1rDdmSbk",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/smc1rDdmSbk/hq720.jpg"
+            },
+            {
+                "title": "Spicing Up Wellness: The Health Benefits of Green Chilli | Green Chilli Benefits",
+                "url": "https://youtube.com/watch?v=9ySXxPUfw-4",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9ySXxPUfw-4/hq720.jpg"
+            },
+            {
+                "title": "10 Health Benefits of Green Chili",
+                "url": "https://youtube.com/watch?v=b7zXpSvY33c",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/b7zXpSvY33c/hq720.jpg"
+            },
+            {
+                "title": "The Health Benefits of Rosemary",
+                "url": "https://youtube.com/watch?v=O6hzQ6_ZKUI",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/O6hzQ6_ZKUI/frame0.jpg"
+            },
+            {
+                "title": "මිරිස් වගාවෙි සියලුම කෘමි දිලීර හානියට මෙන්න නියම බෙහෙත|thuru tv.",
+                "url": "https://youtube.com/watch?v=DdcuCaZzZT8",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/DdcuCaZzZT8/hqdefault.jpg"
+            },
+            {
+                "title": "වගාවට පහසු අමු මිරිස් ප්‍රභේදය | Haritha Tv | sashrika",
+                "url": "https://youtube.com/watch?v=hS8xiXzOUoU",
+                "duration": "10:35",
+                "thumbnail": "https://i.ytimg.com/vi/hS8xiXzOUoU/hq720.jpg"
+            },
+            {
+                "title": "100%මිරිස් පැළ කරන නිවරදි ක්‍රමය|The best way to plant chilli seedlings|thuru tv",
+                "url": "https://youtube.com/watch?v=BqWncw5a5O8",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/BqWncw5a5O8/hqdefault.jpg"
+            },
+            {
+                "title": "Organic Chilli Cultivation කාබනික මිරිස් වගාව Organic gardening කාබනික ගෙවතු වගාව",
+                "url": "https://youtube.com/watch?v=koqKlbAnmHE",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/koqKlbAnmHE/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "''ඉඟුරු ''ගුණ  අගුණ",
+                "url": "https://youtube.com/watch?v=xeUVyF6wBzQ",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/xeUVyF6wBzQ/hq720.jpg"
+            },
+            {
+                "title": "Kohoba wala oba nodath guna 14 k | කොහොඹ වල ඔබ නොදත් වටිනා ගුණ",
+                "url": "https://youtube.com/watch?v=RH3DqGHQ2e0",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/RH3DqGHQ2e0/hq720.jpg"
+            },
+            {
+                "title": "හෙම්බිරිස්සාවට බෙහෙත් | හෙම්බිරිස්සාව | හෙම්බිරිස්සාවට කෑම | හෙම්බිරිස්සාවක් | hembirissawa beheth",
+                "url": "https://youtube.com/watch?v=PnpR2lujZUY",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/PnpR2lujZUY/hqdefault.jpg"
+            },
+            {
+                "title": "සූදුරු ☕ තේ පානයෙන් ලැබෙන ප්‍රතිලාභ || Cumin Seeds Benifits #goodvibes #cuminseeds #health",
+                "url": "https://youtube.com/watch?v=mMfiky9LPNw",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/mMfiky9LPNw/hqdefault.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "🔴අවුරැද්දක් උනත් ඕන කෑමක් Fridge එකේ නැවුමිව තියාගන්න රහස් 05! මේ විදියට කලොත් ගොඩ",
+                "url": "https://youtube.com/watch?v=qu78HzMMy4Y",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/qu78HzMMy4Y/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "Do You Know Amazing 10 Benefits of Green Chillies - Credihealth #viral #viralvideo #healthbenefits",
+                "url": "https://youtube.com/watch?v=TKWiNoL4iIA",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/TKWiNoL4iIA/hq720.jpg"
+            },
+            {
+                "title": "12 हरी मिर्च खाने के लाभ हिंदी में - Benefits Of Green Chilli In Hindi - Indian Food Made Easy",
+                "url": "https://youtube.com/watch?v=C-pTf-h5B04",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/C-pTf-h5B04/hqdefault.jpg"
+            },
+            {
+                "title": "Black pepper benefits | Black Pepper",
+                "url": "https://youtube.com/watch?v=ji_FPL0suGk",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/ji_FPL0suGk/hq720.jpg"
+            },
+            {
+                "title": "The Health Benefits of Rosemary",
+                "url": "https://youtube.com/watch?v=5MfcaACZ6sU",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/5MfcaACZ6sU/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Tract Disorders",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Dried fruit"
-  ],
-  "images": [
-    {
-      "image_id": "2709",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/7dVSqrbN/plant01250-02709.jpg"
-    },
-    {
-      "image_id": "2710",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/5Xyvx6FH/plant01250-02710.jpg"
-    },
-    {
-      "image_id": "2711",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/My0nKBzS/plant01250-02711.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

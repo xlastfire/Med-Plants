@@ -1,151 +1,300 @@
 {
-  "scientificName": "Phaseolus lunatus L.",
-  "synonyms": [
-    "Dolichos tonkinensis Bui-quang-Chieu",
-    "Phaseolus amazonicus Benth.",
-    "Phaseolus bipunctatus Jacq.",
-    "Phaseolus compressus Zoll. & Moritzi",
-    "Phaseolus derasus Schrank",
-    "Phaseolus falcatus Benth. ex Hemsl.",
-    "Phaseolus foecundus Macfad.",
-    "Phaseolus ilocanus Blanco",
-    "Phaseolus inamoenus L.",
-    "Phaseolus latisiliquus Macfad.",
-    "Phaseolus limensis Macfad.",
-    "Phaseolus limensis Pi.Savi",
-    "Phaseolus lunatus f. limenanus Van Eselt.",
-    "Phaseolus lunatus f. lunonanus Van Eselt.",
-    "Phaseolus lunatus f. macrocarpus (Moench) Hassl.",
-    "Phaseolus lunatus f. salicis Van Eselt.",
-    "Phaseolus lunatus f. solanoides Van Eselt.",
-    "Phaseolus lunatus f. vulgaris Hassl.",
-    "Phaseolus lunatus var. albus Hassk.",
-    "Phaseolus lunatus var. lilacinus Hassk.",
-    "Phaseolus lunatus var. longepedunculatus Hassk.",
-    "Phaseolus lunatus var. macrocarpus (Moench) Benth.",
-    "Phaseolus lunatus var. silvester Baudet",
-    "Phaseolus macrocarpus Moench",
-    "Phaseolus maximus Roxb.",
-    "Phaseolus parviflorus Stokes",
-    "Phaseolus platyspermus Haberle ex Steud.",
-    "Phaseolus portoricensis Bertero ex Spreng.",
-    "Phaseolus puberulus Kunth",
-    "Phaseolus rufus Jacq.",
-    "Phaseolus saccharatus Macfad.",
-    "Phaseolus tenuiflorus Beurl.",
-    "Phaseolus tunkinensis Lour.",
-    "Phaseolus xuarezii Zuccagni"
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Winged Bean",
-    "Burma Bean",
-    "Curry Bean",
-    "Haricot Bean",
-    "Java bean",
-    "Lima Bean",
-    "Butter bean",
-    "Sieva Bean"
-  ],
-  "sinhalaName": "Dambala (දඹල)",
-  "description": "කුඩා වැල් හෝ කෙලින් වැඩෙන පැළෑටි, වාර්ෂික හෝ ද්විවාර්ෂික ශාක වේ; කඳන් රෝම රහිත (glabrous) හෝ රෝම සහිත (pubescent) වේ. පත්‍ර පක්ෂාකාරව පත්‍රිකා තුනකින් යුක්තය (pinnately trifoliate); පත්‍ර අක්ෂය (rachis) සෙ.මී. 1-5 ක් දිගය; උපපත්‍ර (stipules) මි.මී. 2-3.5 ක් දිගය; පත්‍රිකා සෙ.මී. 3-15 x 2-10 ප්‍රමාණයෙන් යුක්තය. පුෂ්ප මංජරි ව්‍යාජ අක්ෂි මංජරි (pseudoracemose) ආකාර වන අතර, මල් කිහිපයක් හෝ කීපයක් දරයි. මල් සෙ.මී. 1 ක් පමණ දිගය, පුෂ්ප දණ්ඩ (peduncles) මි.මී. 5-10 ක් දිගය; පෙති සුදු, කහ පැහැති හෝ රෝස පැහැතිය. පලය සෙ.මී. 5-10 x 1.2-2.2 ප්‍රමාණයෙන් යුක්ත වන අතර, කෙටි උල් වූ තුඩක් (apiculate beak) සහිතය, බීජ 3-4 ක් අඩංගු වේ. බීජ සෙ.මී. 1-1.5 ක් දිග, මි.මී. 8-12 ක් පළල සහ මි.මී. 5-5.5 ක් ඝනකම වේ.",
-  "treatments": [
-    {
-      "treatment": "Ear Diseases",
-      "sinhala": "කන් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Phaseolus lunatus L.",
+    "synonyms": [
+        "Dolichos tonkinensis Bui-quang-Chieu",
+        "Phaseolus amazonicus Benth.",
+        "Phaseolus bipunctatus Jacq.",
+        "Phaseolus compressus Zoll. & Moritzi",
+        "Phaseolus derasus Schrank",
+        "Phaseolus falcatus Benth. ex Hemsl.",
+        "Phaseolus foecundus Macfad.",
+        "Phaseolus ilocanus Blanco",
+        "Phaseolus inamoenus L.",
+        "Phaseolus latisiliquus Macfad.",
+        "Phaseolus limensis Macfad.",
+        "Phaseolus limensis Pi.Savi",
+        "Phaseolus lunatus f. limenanus Van Eselt.",
+        "Phaseolus lunatus f. lunonanus Van Eselt.",
+        "Phaseolus lunatus f. macrocarpus (Moench) Hassl.",
+        "Phaseolus lunatus f. salicis Van Eselt.",
+        "Phaseolus lunatus f. solanoides Van Eselt.",
+        "Phaseolus lunatus f. vulgaris Hassl.",
+        "Phaseolus lunatus var. albus Hassk.",
+        "Phaseolus lunatus var. lilacinus Hassk.",
+        "Phaseolus lunatus var. longepedunculatus Hassk.",
+        "Phaseolus lunatus var. macrocarpus (Moench) Benth.",
+        "Phaseolus lunatus var. silvester Baudet",
+        "Phaseolus macrocarpus Moench",
+        "Phaseolus maximus Roxb.",
+        "Phaseolus parviflorus Stokes",
+        "Phaseolus platyspermus Haberle ex Steud.",
+        "Phaseolus portoricensis Bertero ex Spreng.",
+        "Phaseolus puberulus Kunth",
+        "Phaseolus rufus Jacq.",
+        "Phaseolus saccharatus Macfad.",
+        "Phaseolus tenuiflorus Beurl.",
+        "Phaseolus tunkinensis Lour.",
+        "Phaseolus xuarezii Zuccagni"
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Winged Bean",
+        "Burma Bean",
+        "Curry Bean",
+        "Haricot Bean",
+        "Java bean",
+        "Lima Bean",
+        "Butter bean",
+        "Sieva Bean"
+    ],
+    "sinhalaName": "Dambala (දඹල)",
+    "description": "කුඩා වැල් හෝ කෙලින් වැඩෙන පැළෑටි, වාර්ෂික හෝ ද්විවාර්ෂික ශාක වේ; කඳන් රෝම රහිත (glabrous) හෝ රෝම සහිත (pubescent) වේ. පත්‍ර පක්ෂාකාරව පත්‍රිකා තුනකින් යුක්තය (pinnately trifoliate); පත්‍ර අක්ෂය (rachis) සෙ.මී. 1-5 ක් දිගය; උපපත්‍ර (stipules) මි.මී. 2-3.5 ක් දිගය; පත්‍රිකා සෙ.මී. 3-15 x 2-10 ප්‍රමාණයෙන් යුක්තය. පුෂ්ප මංජරි ව්‍යාජ අක්ෂි මංජරි (pseudoracemose) ආකාර වන අතර, මල් කිහිපයක් හෝ කීපයක් දරයි. මල් සෙ.මී. 1 ක් පමණ දිගය, පුෂ්ප දණ්ඩ (peduncles) මි.මී. 5-10 ක් දිගය; පෙති සුදු, කහ පැහැති හෝ රෝස පැහැතිය. පලය සෙ.මී. 5-10 x 1.2-2.2 ප්‍රමාණයෙන් යුක්ත වන අතර, කෙටි උල් වූ තුඩක් (apiculate beak) සහිතය, බීජ 3-4 ක් අඩංගු වේ. බීජ සෙ.මී. 1-1.5 ක් දිග, මි.මී. 8-12 ක් පළල සහ මි.මී. 5-5.5 ක් ඝනකම වේ.",
+    "treatments": [
+        {
+            "treatment": "Ear Diseases",
+            "sinhala": "කන් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Tumors",
+            "sinhala": "ගෙඩි / අර්බුද",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "2335",
+            "caption": "Inflorescence 1 (PMR)",
+            "url": "https://i.ibb.co/QFtTBp3Y/plant00650-02335.jpg"
+        },
+        {
+            "image_id": "2336",
+            "caption": "Inflorescence 2  (PMR)",
+            "url": "https://i.ibb.co/s9Ss1084/plant00650-02336.jpg"
+        },
+        {
+            "image_id": "2337",
+            "caption": "Pod (PMR)",
+            "url": "https://i.ibb.co/fdX6Ls69/plant00650-02337.jpg"
+        },
+        {
+            "image_id": "2338",
+            "caption": "Compund Leaf (PMR)",
+            "url": "https://i.ibb.co/5WPzMfhg/plant00650-02338.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "දඹල කෑවම වෙන දේ දන්නවා ද : Benefits of Wing Beans",
+                "url": "https://youtube.com/watch?v=axgp4pAxYnE",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/axgp4pAxYnE/hq720.jpg"
+            },
+            {
+                "title": "දඹල | Winged Bean | PODCAST | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=nwEJVYkpnLI",
+                "duration": "7:47",
+                "thumbnail": "https://i.ytimg.com/vi/nwEJVYkpnLI/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තටම දඹල වල ප්‍රෝටීන් තියෙනවද? | Winged Bean By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=SCji-ot3wcM",
+                "duration": "10:06",
+                "thumbnail": "https://i.ytimg.com/vi/SCji-ot3wcM/hq720.jpg"
+            },
+            {
+                "title": "දඹල වගාව බිජ සිටවිමේ සිට අස්වැන්න  How to grow winged bean දබල dabala wagawa சிறகு கொண்ட பீன் வளர",
+                "url": "https://youtube.com/watch?v=74UqaQ_aR1g",
+                "duration": "17:56",
+                "thumbnail": "https://i.ytimg.com/vi/74UqaQ_aR1g/hq720.jpg"
+            },
+            {
+                "title": "winged cultivation දඹල වගාව ගෙවතු වගාව කාබනික වගාව .dabala wagawa Home gardening Organic cultivation",
+                "url": "https://youtube.com/watch?v=P0QCWf9Ipd4",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/P0QCWf9Ipd4/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රෙෂර් එක, දියවැඩියාව මට්ටු කරන දඹල වල ඇති අරුම පුදුම ගුණ...",
+                "url": "https://youtube.com/watch?v=JetUn8uQW-c",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/JetUn8uQW-c/hqdefault.jpg"
+            },
+            {
+                "title": "‍පෙ‍‍ාඩ්ඩන්ට ගුණ දඹල මැල්ලුම.....",
+                "url": "https://youtube.com/watch?v=PAC0By7zV7M",
+                "duration": "7:56",
+                "thumbnail": "https://i.ytimg.com/vi/PAC0By7zV7M/hqdefault.jpg"
+            },
+            {
+                "title": "දඹල ශාකයේ පෝෂණීය ගුණ",
+                "url": "https://youtube.com/watch?v=OoR4Xv8OjSM",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/OoR4Xv8OjSM/hq720.jpg"
+            },
+            {
+                "title": "ඉතා ගුණ දායි ආහාරයක් වන දඹල ....###suwa setha lanka",
+                "url": "https://youtube.com/watch?v=BEqpDoYUTEs",
+                "duration": "7:13",
+                "thumbnail": "https://i.ytimg.com/vi/BEqpDoYUTEs/hq720.jpg"
+            },
+            {
+                "title": "දඹල වල ගුණ | Dambala wala guna | Winged beans | Psophocarpus tetragonolobus | Sakalawaga",
+                "url": "https://youtube.com/watch?v=NsU9VA8rr2I",
+                "duration": "3:57",
+                "thumbnail": "https://i.ytimg.com/vi/NsU9VA8rr2I/hqdefault.jpg"
+            },
+            {
+                "title": "මිග්‍රේන්, දියවැඩියාව සහ පිළිකා නසන ගුණ පිරි දඹල කරිය - Health Benefits of Winged Beans",
+                "url": "https://youtube.com/watch?v=LYaY9o5lRl8",
+                "duration": "16:48",
+                "thumbnail": "https://i.ytimg.com/vi/LYaY9o5lRl8/hq720.jpg"
+            },
+            {
+                "title": "දඹල  ගැන සියලු  විස්තර #දඹල#Wingedbean#srilankancurryleaf",
+                "url": "https://youtube.com/watch?v=4HY3wIw7wcA",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/4HY3wIw7wcA/hq720.jpg"
+            },
+            {
+                "title": "දඹල වගාව | දඹල මල් පිපෙන්නෙ නැද්ද | වගා දැනුම",
+                "url": "https://youtube.com/watch?v=4Gjjavyp5zM",
+                "duration": "11:20",
+                "thumbnail": "https://i.ytimg.com/vi/4Gjjavyp5zM/hq720.jpg"
+            },
+            {
+                "title": "The unimaginable properties of dambala vegetable  - දඹල කන්නේ නැති අය බලන්න එපා",
+                "url": "https://youtube.com/watch?v=eYCjg_0wrC4",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/eYCjg_0wrC4/hq720.jpg"
+            },
+            {
+                "title": "#how to grow winged bean#ඉතා සාර්ථකව දඹල බීජ පැල කරගනිමු.#dabala bija palakirima#dabala wagawa#",
+                "url": "https://youtube.com/watch?v=-ls6hfrpNYM",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/-ls6hfrpNYM/hq720.jpg"
+            },
+            {
+                "title": "#Winged_Bean ( දඹල වගාව )",
+                "url": "https://youtube.com/watch?v=WBnPeHiaBB0",
+                "duration": "16:17",
+                "thumbnail": "https://i.ytimg.com/vi/WBnPeHiaBB0/hq720.jpg"
+            },
+            {
+                "title": "වවන්න ඉඩ නෑ කියන්නෙ කම්මැලිකමට sri lanka winged bean",
+                "url": "https://youtube.com/watch?v=eN8ayRRUOjM",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/eN8ayRRUOjM/hq720.jpg"
+            },
+            {
+                "title": "දඹල, Dabala,winged bean.",
+                "url": "https://youtube.com/watch?v=AACSWcBdYW0",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/AACSWcBdYW0/hq720.jpg"
+            },
+            {
+                "title": "දඹල වගාව,winged bean#shorts",
+                "url": "https://youtube.com/watch?v=Gg6g6TSkhZ4",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/Gg6g6TSkhZ4/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ ගෙවත්තටත් කෙටි කලකින් සාර්ථක දඹල පැලයක්. | How to planting wing-beans in your garden.",
+                "url": "https://youtube.com/watch?v=-YqvDJACb-w",
+                "duration": "12:13",
+                "thumbnail": "https://i.ytimg.com/vi/-YqvDJACb-w/hq720.jpg"
+            },
+            {
+                "title": "කරල් බර උන සරුසාර දඹල වැලක් හදාගන්න සියලු රහස් ඇතුලත් විශේෂ වීඩියෝව",
+                "url": "https://youtube.com/watch?v=AaamuMKA9Hs",
+                "duration": "18:08",
+                "thumbnail": "https://i.ytimg.com/vi/AaamuMKA9Hs/hqdefault.jpg"
+            },
+            {
+                "title": "#how to grow winged bean#ඉතා සාර්ථකව දඹල බීජ පැල කරගනිමු.#dabala bija palakirima#dabala wagawa#",
+                "url": "https://youtube.com/watch?v=HxQ-29PbMNw",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/HxQ-29PbMNw/frame0.jpg"
+            },
+            {
+                "title": "දඹල ශාකය ශරීරයට වගේම තවත් දේවල් රැසකට ඵල ප්‍ර‍යෝජන බොහෝමයක් ලබාගන්න පුලුවන් වටිනා ශාකයක්.",
+                "url": "https://youtube.com/watch?v=rWPe4Ois9tw",
+                "duration": "8:43",
+                "thumbnail": "https://i.ytimg.com/vi/rWPe4Ois9tw/hq720.jpg"
+            },
+            {
+                "title": "#how to grow winged bean#ඉතා සාර්ථකව දඹල බීජ පැල කරගනිමු.#dabala bija palakirima#dabala wagawa#",
+                "url": "https://youtube.com/watch?v=nz4OTHeG2Yg",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/nz4OTHeG2Yg/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Tumors",
-      "sinhala": "ගෙඩි / අර්බුද",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "2335",
-      "caption": "Inflorescence 1 (PMR)",
-      "url": "https://i.ibb.co/QFtTBp3Y/plant00650-02335.jpg"
-    },
-    {
-      "image_id": "2336",
-      "caption": "Inflorescence 2  (PMR)",
-      "url": "https://i.ibb.co/s9Ss1084/plant00650-02336.jpg"
-    },
-    {
-      "image_id": "2337",
-      "caption": "Pod (PMR)",
-      "url": "https://i.ibb.co/fdX6Ls69/plant00650-02337.jpg"
-    },
-    {
-      "image_id": "2338",
-      "caption": "Compund Leaf (PMR)",
-      "url": "https://i.ibb.co/5WPzMfhg/plant00650-02338.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

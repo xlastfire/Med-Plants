@@ -1,118 +1,375 @@
 {
-  "scientificName": "Osbeckia octandra DC.",
-  "synonyms": [
-    "Asterostoma octandra Blume",
-    "Melastoma octandrum L.",
-    "Osbeckia polycephala Naudin",
-    "Osbeckia simsii DC."
-  ],
-  "familyName": "MELASTOMATACEAE",
-  "englishNames": [],
-  "sinhalaName": "Heen bovitiya (හීන් බෝවිටියා)",
-  "description": "මීටර් 2ක් පමණ උසට වැඩෙන, හොඳින් අතු බෙදුණු කුඩා පඳුරු ශාකයකි. පත්‍ර 1.5-6 x 0.5-2 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර පත්‍ර වෘන්තය (petiole) මි.මී. 1-5ක් දිගය. මල් ස්වල්පයක් හෝ 10ක් දක්වා වූ ලිහිල් පොකුරු ලෙස හටගනී; හයිපන්තියම (hypanthium) මි.මී. 3-6ක් පළලය; පෙති මි.මී. 15-19ක් දිග වන අතර රෝස, ලා දම් හෝ තද දම් පැහැයෙන් යුක්ත වේ. ඵලය වියළි කරලක් (capsule) ලෙස පවතින අතර එය නොවැටී පවතින හයිපන්තියම තුළ පිහිටයි; බීජ රාශියක් ඇත.",
-  "treatments": [
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Osbeckia octandra DC.",
+    "synonyms": [
+        "Asterostoma octandra Blume",
+        "Melastoma octandrum L.",
+        "Osbeckia polycephala Naudin",
+        "Osbeckia simsii DC."
+    ],
+    "familyName": "MELASTOMATACEAE",
+    "englishNames": [],
+    "sinhalaName": "Heen bovitiya (හීන් බෝවිටියා)",
+    "description": "මීටර් 2ක් පමණ උසට වැඩෙන, හොඳින් අතු බෙදුණු කුඩා පඳුරු ශාකයකි. පත්‍ර 1.5-6 x 0.5-2 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර පත්‍ර වෘන්තය (petiole) මි.මී. 1-5ක් දිගය. මල් ස්වල්පයක් හෝ 10ක් දක්වා වූ ලිහිල් පොකුරු ලෙස හටගනී; හයිපන්තියම (hypanthium) මි.මී. 3-6ක් පළලය; පෙති මි.මී. 15-19ක් දිග වන අතර රෝස, ලා දම් හෝ තද දම් පැහැයෙන් යුක්ත වේ. ඵලය වියළි කරලක් (capsule) ලෙස පවතින අතර එය නොවැටී පවතින හයිපන්තියම තුළ පිහිටයි; බීජ රාශියක් ඇත.",
+    "treatments": [
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hepatitis",
+            "sinhala": "හෙපටයිටිස් (අක්මා ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ascites",
+            "sinhala": "මහෝදරය (උදරයේ දියර පිරීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hyperlipidemia",
+            "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Root",
+        "Bark"
+    ],
+    "images": [
+        {
+            "image_id": "433",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/pjLt6DG5/plant00814-00433.jpg"
+        },
+        {
+            "image_id": "434",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/dwm3VwPD/plant00814-00434.jpg"
+        },
+        {
+            "image_id": "3740",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/4gZT9tVS/plant00814-03740.jpg"
+        },
+        {
+            "image_id": "3741",
+            "caption": "Young Fruits (PMR)",
+            "url": "https://i.ibb.co/QFbznBV0/plant00814-03741.jpg"
+        },
+        {
+            "image_id": "3742",
+            "caption": "Mature Fruits (PMR)",
+            "url": "https://i.ibb.co/vv1KwNRt/plant00814-03742.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "හීන් බෝවිටියා වල තිත්ත ඇත්ත | Heenbovitiya & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=lBsI67rHBnE",
+                "duration": "11:34",
+                "thumbnail": "https://i.ytimg.com/vi/lBsI67rHBnE/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ශාකයේ ඔසු ගුණ | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=29JyQOFg1WI",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/29JyQOFg1WI/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් මේ මාරාන්තික හීන්බෝවිටියා භාවිතා කරනවාද? අක්මාව ආරක්ෂා කරගන්න මේ ටික කලින් දැනගන්න",
+                "url": "https://youtube.com/watch?v=R7lH10NMWZU",
+                "duration": "14:38",
+                "thumbnail": "https://i.ytimg.com/vi/R7lH10NMWZU/hq720.jpg"
+            },
+            {
+                "title": "අයේ කවදාවත් මේ විදියට හීන් බෝවිටියා කැද බොන්න හිතන්නවත් එපා! - මාරයා ඇත ලගයි! අක්මාව විනාශ වෙනවා",
+                "url": "https://youtube.com/watch?v=fhLOMYDPve8",
+                "duration": "21:41",
+                "thumbnail": "https://i.ytimg.com/vi/fhLOMYDPve8/hq720.jpg"
+            },
+            {
+                "title": "අක්මාවේ තෙල් අඩු කර නරක කොලෙස්ටරෝල් පාලනය කරන  ඖෂධීය කරපිංචා හීන් බෝවිටියා පානය  |😘| Healthy Drink",
+                "url": "https://youtube.com/watch?v=aLGuGCSuOzo",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/aLGuGCSuOzo/hqdefault.jpg"
+            },
+            {
+                "title": "අක්මාව අලුත් කරන කොලෙස්ටරෝල්, ෆැටි ලිවර් නැති කරන දියවැඩියාව පාලනය කරන තේ එක | heen bowitiya tea",
+                "url": "https://youtube.com/watch?v=YhjYcXSQpLE",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/YhjYcXSQpLE/hq720.jpg"
+            },
+            {
+                "title": "cholesterol and fatty liver treatment ,  හීන්⁣ බෝවිටියා",
+                "url": "https://youtube.com/watch?v=Z05Nu4IfsCo",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/Z05Nu4IfsCo/hq720.jpg"
+            },
+            {
+                "title": "කවුරුත් නොදන්න මහ බෝවිටියා ග්‍රැස්ට්‍රයිටීස් අක්මාවේ තෙල් දියවැඩියාව ආමාශ රෝග සෙම් රෝග නසන හෙළ ඔසුව",
+                "url": "https://youtube.com/watch?v=1EoZKHUdcJs",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/1EoZKHUdcJs/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල ගුණ|Osbeckia octandra",
+                "url": "https://youtube.com/watch?v=2LtRzIpW4ag",
+                "duration": "9:57",
+                "thumbnail": "https://i.ytimg.com/vi/2LtRzIpW4ag/hqdefault.jpg"
+            },
+            {
+                "title": "ජීවිතය ජීවත් කරවන අමරස ඖෂධයක් | දියවැඩියාව කොලෙස්ටරෝල් වලට මාස 3 එක දිගට බොන්න  | හීං බෝවිටියා කැඳ",
+                "url": "https://youtube.com/watch?v=o0YbAVei1Pk",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/o0YbAVei1Pk/hq720.jpg"
+            },
+            {
+                "title": "Kola Kenda |  හීන්බෝවිටියා කොළ කැඳ,  ලෙඩ රෝග කිහිපයකට ගුණදායකයි. නොවරදවාම හදලා බලන්න.",
+                "url": "https://youtube.com/watch?v=kaILpxk6pI0",
+                "duration": "8:36",
+                "thumbnail": "https://i.ytimg.com/vi/kaILpxk6pI0/hq720.jpg"
+            },
+            {
+                "title": "මියැදෙන රෝගින්ට පවා නැවත ජීවය ලබා දෙන ඖෂධීය ශාකය /හීන් බෝවිටියා",
+                "url": "https://youtube.com/watch?v=kwAcdPyYMGw",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/kwAcdPyYMGw/hq720.jpg"
+            },
+            {
+                "title": "Nugasewana Iwum Pihum  හීන් බෝවිටියා වලින් පිසිය හැකි ආහාර මොනවද බලමු  | 2021-04-06 |Rupavahini",
+                "url": "https://youtube.com/watch?v=uUoshnUC3kc",
+                "duration": "14:11",
+                "thumbnail": "https://i.ytimg.com/vi/uUoshnUC3kc/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා ශාකයේ ගුණ අගුණ හරියට දැනගමු | Health benefits of Heen Bovitiya | Osbeckia octandra",
+                "url": "https://youtube.com/watch?v=qWhvPW9o2XI",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/qWhvPW9o2XI/hqdefault.jpg"
+            },
+            {
+                "title": "හීන්බෝවිටියා වල ගුණ | හීන්බෝවිටියා ලෙඩ රෝග කිහිපයකට ගුණදායකයි | Health benefits of Heen Bovitiya",
+                "url": "https://youtube.com/watch?v=gPgK8x0YzGc",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/gPgK8x0YzGc/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල ඇති ඖෂධීය ගුණ 😱👍",
+                "url": "https://youtube.com/watch?v=pbyG59djyC0",
+                "duration": "7:37",
+                "thumbnail": "https://i.ytimg.com/vi/pbyG59djyC0/hq720.jpg"
+            },
+            {
+                "title": "හදවතට ගුණ දෙන හීන්බෝවිටියා ඇඹුල හදන හැටි - How to make \"Heen bovitia Ambula\" which heals the heart",
+                "url": "https://youtube.com/watch?v=EiZio4SSC6I",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/EiZio4SSC6I/hq720.jpg"
+            },
+            {
+                "title": "අක්මාවේ  මිත්‍රයා  දකුණු පළාතේ පුෂ්පය මෙච්චර වටිනවද? හීන් බෝවිටියා  ගුණ osbeckia octandra benefits",
+                "url": "https://youtube.com/watch?v=YMWU9zBhDNc",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/YMWU9zBhDNc/hq720.jpg"
+            },
+            {
+                "title": "විස්මිත ගුණ දෙන හීන් බෝවිටියා|The humble Bovitiya who gives amazing qualities",
+                "url": "https://youtube.com/watch?v=cC4GCszFlw8",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/cC4GCszFlw8/hq720.jpg"
+            },
+            {
+                "title": "මේ ඖෂධීය ශාකය තමිබා වීදුරුවක් බොන්න/අවුරුදු නැකතට ලේඩරෝග සුවකරවයි/හීන් බෝවිටියා",
+                "url": "https://youtube.com/watch?v=s9q_kcmymsA",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/s9q_kcmymsA/hq720.jpg"
+            },
+            {
+                "title": "Heen Bovitiya (Osbeckia octandra) හීන් බෝවිටියා Medicinal plants #medicine #helthytips",
+                "url": "https://youtube.com/watch?v=9jqoTIxECW4",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/9jqoTIxECW4/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා තේ ♥️ | Heen Bovitiya tea |🫀සරලව ඉක්මනින් හදමු #healthy #subscribe",
+                "url": "https://youtube.com/watch?v=bDNjiCsJ5Do",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/bDNjiCsJ5Do/hqdefault.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල්, අක්මා රෝග, පිලිකා නසන හීන්බෝවිටියා කැඳ.  Heenbovitiya drink",
+                "url": "https://youtube.com/watch?v=IYGISjHttj0",
+                "duration": "9:01",
+                "thumbnail": "https://i.ytimg.com/vi/IYGISjHttj0/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ඔයාලටත් ඕනෙද|thuru tv",
+                "url": "https://youtube.com/watch?v=gDx2Coa5R60",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/gDx2Coa5R60/hqdefault.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා / Heen Bovitiya (Osbeckia octandra)",
+                "url": "https://youtube.com/watch?v=U22iU3pka60",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/U22iU3pka60/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා /හීන් බෝවිටියා ඇඹුල / bovitiya abula with n kitchen 😋😋",
+                "url": "https://youtube.com/watch?v=K6PyXCtwq7s",
+                "duration": "7:06",
+                "thumbnail": "https://i.ytimg.com/vi/K6PyXCtwq7s/hqdefault.jpg"
+            },
+            {
+                "title": "heen bovitiya ambula | Heenbovitiya curry  for diabetes | how to make hinbowitiya | හීන්බෝවිටියා",
+                "url": "https://youtube.com/watch?v=F_w1UT5nEUQ",
+                "duration": "5:25",
+                "thumbnail": "https://i.ytimg.com/vi/F_w1UT5nEUQ/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ශාකයේ ඔසු ගුණ | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=UR7jnBsoehA",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/UR7jnBsoehA/frame0.jpg"
+            },
+            {
+                "title": "කවුරුත් දන්නා හීන් බෝවිටියා | #ඖෂධයක් | #Food",
+                "url": "https://youtube.com/watch?v=GpK7f7YzHoI",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/GpK7f7YzHoI/hqdefault.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල් වලට ගුණ දෙන ඖෂධීය ගුණයෙන් පිරි හීන් බෝවිටියා කොළ කැඳ එකක් බොමුද?..",
+                "url": "https://youtube.com/watch?v=AZh6jgfwU60",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/AZh6jgfwU60/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය  හීන් බෝවිටියා කැඳ /Aushadeeya Hinbovitiya kada / Nila With Ceylon Foods",
+                "url": "https://youtube.com/watch?v=pPkMLcb1fB4",
+                "duration": "7:29",
+                "thumbnail": "https://i.ytimg.com/vi/pPkMLcb1fB4/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා අක්මාවේ සියලුම රෝග නසන සත්කාරය",
+                "url": "https://youtube.com/watch?v=r-h4qyAo-_k",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/r-h4qyAo-_k/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා ශාකය - අක්මා මිතුරා",
+                "url": "https://youtube.com/watch?v=6dMfO26tgak",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/6dMfO26tgak/hq720.jpg"
+            },
+            {
+                "title": "කැලෑවේ පවා තියෙන මේ පුංචි ගහ බරපතල රෝග රැසක් සුවවෙන ඖශධයක්.හීන් බෝවිටියා ගහේ තියෙන විශ්මිත ගුණය",
+                "url": "https://youtube.com/watch?v=DvVN_d-b3ak",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/DvVN_d-b3ak/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ ගොඩකට ගුණ දෙන හීන් බෝවිටියා🪻|Heen Bovitiya (_Osbeckia octandra_)",
+                "url": "https://youtube.com/watch?v=E9cudUdNH7k",
+                "duration": "5:40",
+                "thumbnail": "https://i.ytimg.com/vi/E9cudUdNH7k/hqdefault.jpg"
+            },
+            {
+                "title": "Boovitiya / හීන්බෝවිටියා / මහ බෝවිටියා / Herbal Plants",
+                "url": "https://youtube.com/watch?v=p-Yr6-1vj6g",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/p-Yr6-1vj6g/hqdefault.jpg"
+            },
+            {
+                "title": "Haritha Rahasa | Episode 1: Heen Bovitiya – The Golden Herb for Liver Health & Natural Detox",
+                "url": "https://youtube.com/watch?v=xSUiRNeQpIU",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/xSUiRNeQpIU/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණදායක හීන් බෝවිටියා කොළ කැඳ heen bovitiya kola kenda",
+                "url": "https://youtube.com/watch?v=8AwLnaEha80",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/8AwLnaEha80/hqdefault.jpg"
+            },
+            {
+                "title": "අක්මාව සුවකරන දිව්‍ය ඖෂධය ගෙවත්තෙන්ම | හීන් බෝවිටියා | Osbeckia Octandra | wijaya tv",
+                "url": "https://youtube.com/watch?v=br5rSsK3Fv4",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/br5rSsK3Fv4/hqdefault.jpg"
+            },
+            {
+                "title": "Ellaya TV :- හීන් බෝවිටියා ශාකයේ ගුණ සහ ඖෂධීය භාවිතයන් ,ප්‍රතිලාභ  දියවැඩියාව පාලනය කිරීම 0718669451",
+                "url": "https://youtube.com/watch?v=G2axtE1DmW4",
+                "duration": "15:31",
+                "thumbnail": "https://i.ytimg.com/vi/G2axtE1DmW4/hq720.jpg"
+            },
+            {
+                "title": "Fatty Liver ද ? අක්මාව රකින හීන් බෝවිටියා ගැන දන්නවද? | Heen Bovitiya Benifits",
+                "url": "https://youtube.com/watch?v=euYmPJs27Tg",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/euYmPJs27Tg/hq720.jpg"
+            },
+            {
+                "title": "Osbeckia octandra  is endemic to Sri Lanka. \"Heen Bovitiya - හීන් බෝවිටියා\"",
+                "url": "https://youtube.com/watch?v=tN33jyoTmRU",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/tN33jyoTmRU/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hepatitis",
-      "sinhala": "හෙපටයිටිස් (අක්මා ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ascites",
-      "sinhala": "මහෝදරය (උදරයේ දියර පිරීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hyperlipidemia",
-      "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Root",
-    "Bark"
-  ],
-  "images": [
-    {
-      "image_id": "433",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/pjLt6DG5/plant00814-00433.jpg"
-    },
-    {
-      "image_id": "434",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/dwm3VwPD/plant00814-00434.jpg"
-    },
-    {
-      "image_id": "3740",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/4gZT9tVS/plant00814-03740.jpg"
-    },
-    {
-      "image_id": "3741",
-      "caption": "Young Fruits (PMR)",
-      "url": "https://i.ibb.co/QFbznBV0/plant00814-03741.jpg"
-    },
-    {
-      "image_id": "3742",
-      "caption": "Mature Fruits (PMR)",
-      "url": "https://i.ibb.co/vv1KwNRt/plant00814-03742.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

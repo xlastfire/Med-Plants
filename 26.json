@@ -1,92 +1,661 @@
 {
-  "scientificName": "Adiantum capillus-veneris L.",
-  "synonyms": [
-    "Adiantum affine Willd.",
-    "Adiantum africanum R.Br.",
-    "Adiantum capillaceum Dulac",
-    "Adiantum capillus Sw.",
-    "Adiantum capillus-veneris f. cristatum Moxley",
-    "Adiantum capillus-veneris f. fissum (Christ) Ching",
-    "Adiantum capillus-veneris f. rimicola (Sloss.) Fernald",
-    "Adiantum capillus-veneris var. daphnites W.Bull",
-    "Adiantum capillus-veneris var. fissum Christ",
-    "Adiantum capillus-veneris var. grande Pynaert",
-    "Adiantum capillus-veneris var. imbricatum Pynaert",
-    "Adiantum capillus-veneris var. kenyense Chiov.",
-    "Adiantum capillus-veneris var. laciniatum Christ ex Tardieu & C.Chr.",
-    "Adiantum capillus-veneris var. magnificum W.Bull",
-    "Adiantum capillus-veneris var. modestum (Underw.) Fernald",
-    "Adiantum capillus-veneris var. polyhymnia Lowe",
-    "Adiantum capillus-veneris var. protrusum Fernald",
-    "Adiantum capillus-veneris var. trifidum (Willd. ex Bolle) Milde",
-    "Adiantum coriandrifolium Lam.",
-    "Adiantum cuneifolium Stokes",
-    "Adiantum emarginatum Bory ex Willd.",
-    "Adiantum fontanum Salisb.",
-    "Adiantum formosum (J.Rémy) Gay",
-    "Adiantum fumarioides Willd.",
-    "Adiantum lingii Ching",
-    "Adiantum maderense Lowe",
-    "Adiantum marginatum Schrad.",
-    "Adiantum michelii Christ",
-    "Adiantum modestum Underw.",
-    "Adiantum moritzianum Link",
-    "Adiantum paradiseae Baker",
-    "Adiantum pseudocapillus Fée",
-    "Adiantum remyanum Espinosa",
-    "Adiantum repandum Tausch",
-    "Adiantum rimicola Sloss.",
-    "Adiantum schaffneri E.Fourn.",
-    "Adiantum subemarginatum Christ",
-    "Adiantum trifidum Willd. ex Bolle",
-    "Adiantum visianii Schloss. & Vuk."
-  ],
-  "familyName": "PTERIDACEAE",
-  "englishNames": [
-    "Southern Maidenhair Fern",
-    "Southern Maidenhair Fern",
-    "Maidenhair Fern",
-    "True Maidenhair",
-    "Venus Hair Fern",
-    "Ladies Hair"
-  ],
-  "sinhalaName": "Walawenna (වලාවැන්න)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Pulmonary Disorders",
-      "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Adiantum capillus-veneris L.",
+    "synonyms": [
+        "Adiantum affine Willd.",
+        "Adiantum africanum R.Br.",
+        "Adiantum capillaceum Dulac",
+        "Adiantum capillus Sw.",
+        "Adiantum capillus-veneris f. cristatum Moxley",
+        "Adiantum capillus-veneris f. fissum (Christ) Ching",
+        "Adiantum capillus-veneris f. rimicola (Sloss.) Fernald",
+        "Adiantum capillus-veneris var. daphnites W.Bull",
+        "Adiantum capillus-veneris var. fissum Christ",
+        "Adiantum capillus-veneris var. grande Pynaert",
+        "Adiantum capillus-veneris var. imbricatum Pynaert",
+        "Adiantum capillus-veneris var. kenyense Chiov.",
+        "Adiantum capillus-veneris var. laciniatum Christ ex Tardieu & C.Chr.",
+        "Adiantum capillus-veneris var. magnificum W.Bull",
+        "Adiantum capillus-veneris var. modestum (Underw.) Fernald",
+        "Adiantum capillus-veneris var. polyhymnia Lowe",
+        "Adiantum capillus-veneris var. protrusum Fernald",
+        "Adiantum capillus-veneris var. trifidum (Willd. ex Bolle) Milde",
+        "Adiantum coriandrifolium Lam.",
+        "Adiantum cuneifolium Stokes",
+        "Adiantum emarginatum Bory ex Willd.",
+        "Adiantum fontanum Salisb.",
+        "Adiantum formosum (J.Rémy) Gay",
+        "Adiantum fumarioides Willd.",
+        "Adiantum lingii Ching",
+        "Adiantum maderense Lowe",
+        "Adiantum marginatum Schrad.",
+        "Adiantum michelii Christ",
+        "Adiantum modestum Underw.",
+        "Adiantum moritzianum Link",
+        "Adiantum paradiseae Baker",
+        "Adiantum pseudocapillus Fée",
+        "Adiantum remyanum Espinosa",
+        "Adiantum repandum Tausch",
+        "Adiantum rimicola Sloss.",
+        "Adiantum schaffneri E.Fourn.",
+        "Adiantum subemarginatum Christ",
+        "Adiantum trifidum Willd. ex Bolle",
+        "Adiantum visianii Schloss. & Vuk."
+    ],
+    "familyName": "PTERIDACEAE",
+    "englishNames": [
+        "Southern Maidenhair Fern",
+        "Southern Maidenhair Fern",
+        "Maidenhair Fern",
+        "True Maidenhair",
+        "Venus Hair Fern",
+        "Ladies Hair"
+    ],
+    "sinhalaName": "Walawenna (වලාවැන්න)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Pulmonary Disorders",
+            "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tumors",
+            "sinhala": "ගෙඩි / අර්බුද",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මෙයත් වලාවැන්න කියලා හදුන්වන තව එකක්",
+                "url": "https://youtube.com/watch?v=EWDv059fwro",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/EWDv059fwro/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙතට ගන්න මීවන වර්ගයක්? විසිතුරු ශාකයක් ලෙසද සෑදීමට හැකියාවක් ඇති අලංකාරවත් මීවන වර්ගයක්",
+                "url": "https://youtube.com/watch?v=TQIFtmhinIY",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/TQIFtmhinIY/hq720.jpg"
+            },
+            {
+                "title": "Ape Miss - ඉන්නන් ඉවත් කර ගැනීමට 100% සාර්ථක ක්‍රම | Shyamalee Pathirage",
+                "url": "https://youtube.com/watch?v=eem73SU00NE",
+                "duration": "9:40",
+                "thumbnail": "https://i.ytimg.com/vi/eem73SU00NE/hq720.jpg"
+            },
+            {
+                "title": "අදින් පස්සේ මේ ලග්න 4ට මල් 7යි උතුරන්න ධන වරුසාවක්!  - හෙට උදේ වෙද්දී කෝටි ගාණක ලොතරැයි දිනුමක්",
+                "url": "https://youtube.com/watch?v=JJjFBAm8oAw",
+                "duration": "27:22",
+                "thumbnail": "https://i.ytimg.com/vi/JJjFBAm8oAw/hq720.jpg"
+            },
+            {
+                "title": "සුපිරිම දන්සල වැල්ලවායෙන් | ඇතිලිවැව වළං හදන මිනිස්සු එකතුවෙලා ලක්ෂ ගාණක් වටිනා වළං තොගයක් පිනට දෙයි",
+                "url": "https://youtube.com/watch?v=Y3u96VgTmyA",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/Y3u96VgTmyA/hq720.jpg"
+            },
+            {
+                "title": "කළුනික 🔴 Litsea saligna (Nees) N.P.Balakr.",
+                "url": "https://youtube.com/watch?v=WOBz2Fao8uI",
+                "duration": "11:11",
+                "thumbnail": "https://i.ytimg.com/vi/WOBz2Fao8uI/hq720.jpg"
+            },
+            {
+                "title": "වසර 12 කට සැරයක් මල් පිපෙන, ශ්‍රී ලංකාවට ආවේණික “නෙළු” විශේෂයක් 🔴 Strobilanthes rhamnifolia",
+                "url": "https://youtube.com/watch?v=r-hOM3xXga4",
+                "duration": "5:33",
+                "thumbnail": "https://i.ytimg.com/vi/r-hOM3xXga4/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවට ආවේණික \"බදුල්ල\" Semecarpus walkeri Hook.f. 🌳🇱🇰",
+                "url": "https://youtube.com/watch?v=wZFWBXP7WR8",
+                "duration": "13:01",
+                "thumbnail": "https://i.ytimg.com/vi/wZFWBXP7WR8/hq720.jpg"
+            },
+            {
+                "title": "වසර 100කට වඩා පැරණි ඓතිහාසික උරුමයක් වන හලාබ පාලම ප්‍රතිසංස්කරණයට පියවර.",
+                "url": "https://youtube.com/watch?v=7unmoIfIAwg",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/7unmoIfIAwg/hq720.jpg"
+            },
+            {
+                "title": "The Secret Tree for Glowing Skin! | ලස්සන වෙන්න කෙල්ලෝ රැල්ලට හොරෙන් හොයන විෂ්මිත ගස",
+                "url": "https://youtube.com/watch?v=m_RZcCCrSsk",
+                "duration": "11:54",
+                "thumbnail": "https://i.ytimg.com/vi/m_RZcCCrSsk/hq720_custom_1.jpg"
+            },
+            {
+                "title": "ආයුර්වේද ගුණ සහිත \"වෙන්ඩෝල් අශ්වබල වර්ධනී\" - Vendol Ashwabala Wardani",
+                "url": "https://youtube.com/watch?v=lCXsKtqiAqc",
+                "duration": "6:29",
+                "thumbnail": "https://i.ytimg.com/vi/lCXsKtqiAqc/hq720.jpg"
+            },
+            {
+                "title": "වැල්මි බිලා රන්වන්😍 පාට සමක් ලබා ගන්න/Licorice tea for brightening skin#RANDI BEAUTY",
+                "url": "https://youtube.com/watch?v=PE8AeRGqu-A",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/PE8AeRGqu-A/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ ඇති වැල වරකා කන්න.",
+                "url": "https://youtube.com/watch?v=obdM6DJgh54",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/obdM6DJgh54/hqdefault.jpg"
+            },
+            {
+                "title": "වැල්මී වල අද්භූත ගුණ",
+                "url": "https://youtube.com/watch?v=KtjLcFq9lcQ",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/KtjLcFq9lcQ/hq720.jpg"
+            },
+            {
+                "title": "අස්වැන්න | උණට, කැස්සට, අතීසාරයට ගුණ දේශීය පැලෑටිය | අස්වැන්න (Aswenna)",
+                "url": "https://youtube.com/watch?v=EN9uMbSxCc4",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/EN9uMbSxCc4/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "විලදවැන්න Viladawenna(leucasbiflora)",
+                "url": "https://youtube.com/watch?v=eCRBRno9pDw",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/eCRBRno9pDw/hqdefault.jpg"
+            },
+            {
+                "title": "වෙනිවැල්ල පලාව ගැන දැනගන්න",
+                "url": "https://youtube.com/watch?v=Gv6XsclUpE0",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/Gv6XsclUpE0/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "''කලාඳුරු අල '' ගුණ අගුණ. රෝග රැසකට ගුණදෙන විශ්මිත ඖෂධ.",
+                "url": "https://youtube.com/watch?v=lKIPz0tGmWc",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/lKIPz0tGmWc/hq720.jpg"
+            },
+            {
+                "title": "බැලතණ ඔයත් කැවද නොදන්නා කමට | thuru tv",
+                "url": "https://youtube.com/watch?v=Xyr3d01byak",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/Xyr3d01byak/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල්ල ශාකයේ සාමාන්‍ය විස්තර, ඖෂධීය ගුණාගුණ හා ආහාරයට ගන්නා ආකාරය | Benefits of Weniwella",
+                "url": "https://youtube.com/watch?v=-kt5T0IVUFw",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/-kt5T0IVUFw/hq720.jpg"
+            },
+            {
+                "title": "ඔබ මවිතයට පත් කරන සිංහල බෙහෙත් පැලෑටි හා ඒවායේ ගුණ - Amazing herbs and their medicinal properties",
+                "url": "https://youtube.com/watch?v=i896z5EG4KU",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/i896z5EG4KU/hq720.jpg"
+            },
+            {
+                "title": "රෝග 109 කට ගුණ දෙන වටිනා ශාකය The Miracle Plant That Heals 109 Diseases / Munnoria pinnata",
+                "url": "https://youtube.com/watch?v=PWtpgond4kA",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/PWtpgond4kA/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්ස වල විශ්මිත ගුණ. Ugurassa fruit.",
+                "url": "https://youtube.com/watch?v=aW2FO176HVU",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/aW2FO176HVU/hq720.jpg"
+            },
+            {
+                "title": "උළු හාල් වතුර මේ විදියට බීලා බලන්න බලාගෙන ඉද්දි ඇග බහිනවා🌱💕👩‍⚕🩺💓",
+                "url": "https://youtube.com/watch?v=2if8XGY-EQQ",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/2if8XGY-EQQ/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටවල ඖෂධීය ගුණ : Health benefits of Venivelgeta",
+                "url": "https://youtube.com/watch?v=B_GgVEA1A7U",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/B_GgVEA1A7U/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල 10ක ගුණ දැනගමුද? | Benifits of 10 Herbal Plants | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=Cpdzcr3fXu0",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Cpdzcr3fXu0/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල 32ක් | වල් පැල කියල ගලවලා විසිකරන වටිනා ඔසු | Osu Pela 32 k Menna | ඖෂධීය ශාක හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=Fy5R3h2W1kw",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/Fy5R3h2W1kw/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "ජනතාවට වස කන්න දීල බලා සිටින සෞඛ්‍ය අමාත්‍යාංශය.......",
+                "url": "https://youtube.com/watch?v=IyoJFo-BOuE",
+                "duration": "13:31",
+                "thumbnail": "https://i.ytimg.com/vi/IyoJFo-BOuE/hq720.jpg"
+            },
+            {
+                "title": "බාල ඖෂධ නඩුවේ සැකකරුවන්ට මොකද වෙන්න යන්නේ? - Aruna.lk",
+                "url": "https://youtube.com/watch?v=E5Bex-062SY",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/E5Bex-062SY/hq720.jpg"
+            },
+            {
+                "title": "\"මොළේ උණ\" රෝග ලක්ෂණ සහ වළක්වා ගන්නා හැටි මෙන්න   - Hiru News",
+                "url": "https://youtube.com/watch?v=KKjLO4-Q7L8",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/KKjLO4-Q7L8/hq720.jpg"
+            },
+            {
+                "title": "කෙණ්ඩා පෙරලීම මෙතරම් භයානකද? The Hidden Danger of Leg Cramps!",
+                "url": "https://youtube.com/watch?v=DKFnTu2dVyI",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/DKFnTu2dVyI/hq720.jpg"
+            },
+            {
+                "title": "Amla for Hair Skin & Immunity | The Ultimate Ayurvedic Remedy",
+                "url": "https://youtube.com/watch?v=_zuXDI4PSVs",
+                "duration": "6:46",
+                "thumbnail": "https://i.ytimg.com/vi/_zuXDI4PSVs/hq720_custom_2.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටවල ඖෂධීය ගුණ - Health benefits of Venivel geta",
+                "url": "https://youtube.com/watch?v=1g7Z4fKvNdg",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/1g7Z4fKvNdg/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රැසක් සහිත වරා ශාකය | Calotropis gigantea / wara | Episode 30",
+                "url": "https://youtube.com/watch?v=3StW_-_5r9U",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/3StW_-_5r9U/hq720.jpg"
+            },
+            {
+                "title": "කැද වලින් හොදම හාතාවාරිය කැද | ඖෂධීය ගුණ කැද වර්ග @helaosuarana",
+                "url": "https://youtube.com/watch?v=-A2BY9kask8",
+                "duration": "1:44",
+                "thumbnail": "https://i.ytimg.com/vi/-A2BY9kask8/hq720.jpg"
+            },
+            {
+                "title": "Haathawariya - Medicinal plants |හාතවාරිය ඔසු ගුණ",
+                "url": "https://youtube.com/watch?v=jcEX06gVbBs",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/jcEX06gVbBs/hqdefault.jpg"
+            },
+            {
+                "title": "ලුණුවිල වල ඇති ගුණ 40ක්",
+                "url": "https://youtube.com/watch?v=mHlY4GomRPA",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/mHlY4GomRPA/hq720.jpg"
+            },
+            {
+                "title": "මේ මල් ටිකක් වෙනිවැල්ගැට කෝප්පයකට දාලා උදේ හවස බොන්න | පුදුමයි! දියවැඩියාව අයේ ජිවිතේට හැදෙන්නේ නැහැ",
+                "url": "https://youtube.com/watch?v=pUE4ckk8h4I",
+                "duration": "22:50",
+                "thumbnail": "https://i.ytimg.com/vi/pUE4ckk8h4I/hq720.jpg"
+            },
+            {
+                "title": "උයනකොට විටමින් වැඩිවෙන එළවලු 10 ක්!",
+                "url": "https://youtube.com/watch?v=L9CaqwUOFHY",
+                "duration": "9:39",
+                "thumbnail": "https://i.ytimg.com/vi/L9CaqwUOFHY/hq720.jpg"
+            },
+            {
+                "title": "හැදුණොත් සීනි ලේසි නෑනි. ඔක්කොටම කළින් වෛද්‍යවරියගේ මේ කතාව බලන්න.",
+                "url": "https://youtube.com/watch?v=Vej58Ed6glI",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/Vej58Ed6glI/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුන ඇති වරා | රෝග රැසකට ගුන දෙන වරා | waraa",
+                "url": "https://youtube.com/watch?v=VRrR4BW8opE",
+                "duration": "6:14",
+                "thumbnail": "https://i.ytimg.com/vi/VRrR4BW8opE/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ඖෂදිය ගුණ ඇති වරා ශාකයෙන් ගත හැකි ප්‍රයෝජන - calotropis gigantea / Wara",
+                "url": "https://youtube.com/watch?v=zZvrg5FXEsE",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/zZvrg5FXEsE/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන 🐕#trending #viral #foryou #education #educational #animals",
+                "url": "https://youtube.com/watch?v=m_QLK68xX50",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/m_QLK68xX50/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "Benefits of rain | වැස්සෙන් ඇති ප්‍රයෝජන | 3,4,5 ශ්‍රේණි සදහා පෙරහුරු රචනා | scholarship exam",
+                "url": "https://youtube.com/watch?v=8eb8UaD2Eb4",
+                "duration": "9:54",
+                "thumbnail": "https://i.ytimg.com/vi/8eb8UaD2Eb4/hqdefault.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන - Benefits of Water",
+                "url": "https://youtube.com/watch?v=kt5Lgg90GcA",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/kt5Lgg90GcA/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් අපට ලැබෙන ප්‍රයෝජන @SmartKidllh",
+                "url": "https://youtube.com/watch?v=1N7t1L3Hwhw",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/1N7t1L3Hwhw/hqdefault.jpg"
+            },
+            {
+                "title": "මේ දේවල් වල ප්‍රයෝජන දැනගෙන කරමු (Sinhala) හැමෝම නොදන්න ගොඩක් දේ",
+                "url": "https://youtube.com/watch?v=6udAxTpJvv0",
+                "duration": "6:27",
+                "thumbnail": "https://i.ytimg.com/vi/6udAxTpJvv0/hq720.jpg"
+            },
+            {
+                "title": "පරාගණය සහ මී මැස්සන්ගේ ජීවිතය 🐝 | අපි එකපාරටම මී වදයක් ඇතුළට ගියොත් මොනවා වෙයිද?",
+                "url": "https://youtube.com/watch?v=0qfuuqBCijU",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/0qfuuqBCijU/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන සහ අපට උදව් කරන සතුන් පාඩම | #usefulanimals #keenkidamigo 4,5 ශ්‍රේණි පරිසරය",
+                "url": "https://youtube.com/watch?v=cY5ccYVn_mQ",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/cY5ccYVn_mQ/hq720.jpg"
+            },
+            {
+                "title": "Grade 4/parisaraya/Other benefits of plants from humans/4 ශ්‍රේණිය/ පරිසරය/\"පැළෑටි හා ගස් වැල්\"",
+                "url": "https://youtube.com/watch?v=34GphhjdC5k",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/34GphhjdC5k/hq720.jpg"
+            },
+            {
+                "title": "Benefits Of Trees | ගස්වලින් ලැබෙන ප්‍රයෝජන 🌳",
+                "url": "https://youtube.com/watch?v=LZeEzBhxUGg",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/LZeEzBhxUGg/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "Traditional Health Benefits of Plantains/Bananas Peels",
+                "url": "https://youtube.com/watch?v=AuJj6ZubDEY",
+                "duration": "11:16",
+                "thumbnail": "https://i.ytimg.com/vi/AuJj6ZubDEY/hq720.jpg"
+            },
+            {
+                "title": "Welpenela Benefits : පිරිමි ගෙදරම තියාගන්න ගහපු වැල් පෙනෙල ගැටේ මෙන්න",
+                "url": "https://youtube.com/watch?v=gjqX33rzqng",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/gjqX33rzqng/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "වද මල් යුෂ මගින් ලැබෙන සෞඛ්‍ය ප්‍රතිලාභ 9ක් - 9 Health Benefits of Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=xRInp9A-z18",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/xRInp9A-z18/hq720.jpg"
+            },
+            {
+                "title": "බැලතණ ශාකයේ ඇති  ඖෂධීය ප්‍රයෝජන | Medicinal Benefits of Balatana Plant | Indian goosegrass benefits🌿",
+                "url": "https://youtube.com/watch?v=WKMPrCnv0iQ",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/WKMPrCnv0iQ/hqdefault.jpg"
+            },
+            {
+                "title": "බෙලි වල විශ්මිත ගුණය.  Value of Bael fruit",
+                "url": "https://youtube.com/watch?v=M3NTXXjHWWE",
+                "duration": "7:29",
+                "thumbnail": "https://i.ytimg.com/vi/M3NTXXjHWWE/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "පේර කොළ තැම්බුවතුරින් ලැබෙන සෞඛ්‍යමය වාසි 10ක් |  Guava Leaves Health Benefits | Pera Kola Wala Guna",
+                "url": "https://youtube.com/watch?v=EPXBhA_Aquk",
+                "duration": "13:17",
+                "thumbnail": "https://i.ytimg.com/vi/EPXBhA_Aquk/hq720.jpg"
+            },
+            {
+                "title": "Purslane: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=AKjcsZRcuQY",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/AKjcsZRcuQY/hq720.jpg"
+            },
+            {
+                "title": "Benefits Of Taking Gotu Kola Leaves Juice | ETV Life",
+                "url": "https://youtube.com/watch?v=B3u6o6Ybce4",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/B3u6o6Ybce4/hqdefault.jpg"
+            },
+            {
+                "title": "Plantain Uses and Benefits",
+                "url": "https://youtube.com/watch?v=-97NXHyxRjA",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/-97NXHyxRjA/hq720.jpg"
+            },
+            {
+                "title": "රණවරාවල පිස්සු හැදෙන ගුණ - Health benefits of Ranawara Tea",
+                "url": "https://youtube.com/watch?v=R3txT9YU00A",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/R3txT9YU00A/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ පිරි ලුණුවිල | Lunuwila - Bacopa Monnieri Plant - Brahmi | Dayawathi - දයාවතී",
+                "url": "https://youtube.com/watch?v=m9SUENHexrg",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/m9SUENHexrg/hq720.jpg"
+            },
+            {
+                "title": "මේ පැළෑටිය මිදුලේ දැක්කොත් වල් පැළයක් කියලා ගලවලා විසි කරන්න එපා - 7 Health Benefits Of Purslane",
+                "url": "https://youtube.com/watch?v=_p0Ohee_ocs",
+                "duration": "10:52",
+                "thumbnail": "https://i.ytimg.com/vi/_p0Ohee_ocs/hq720.jpg"
+            },
+            {
+                "title": "Banaba Leaves: Benefits for Health",
+                "url": "https://youtube.com/watch?v=Fw3wODx7K1s",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/Fw3wODx7K1s/hq720.jpg"
+            },
+            {
+                "title": "වද මල් බොන එකේ ඇත්ත නැත්ත | Hibiscus Tea & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=vj2RlbqQtco",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/vj2RlbqQtco/hq720.jpg"
+            },
+            {
+                "title": "Bitter Leaf: Benefits for Health",
+                "url": "https://youtube.com/watch?v=gMUH7ap8cdE",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/gMUH7ap8cdE/hq720.jpg"
+            },
+            {
+                "title": "Traditional Health Benefits of Plantains/Bananas Peels",
+                "url": "https://youtube.com/watch?v=Cl-zY46js8c",
+                "duration": "11:16",
+                "thumbnail": "https://i.ytimg.com/vi/Cl-zY46js8c/frame0.jpg"
+            },
+            {
+                "title": "Sri Lanka health/වැල්මී සමග බාංවැල් ඔසුව/GAMI SUWADA/සියලුම රෝග වලට සුව දෙන වෙනිවැල්",
+                "url": "https://youtube.com/watch?v=bUKzVaD1GRM",
+                "duration": "5:21",
+                "thumbnail": "https://i.ytimg.com/vi/bUKzVaD1GRM/hqdefault.jpg"
+            },
+            {
+                "title": "හෘදයාබාධයක් එන්න කලින් ශරීරය දෙන සංඥා! කකුල් වලින් හඳුනාගන්න පුළුවන් ලකුණු",
+                "url": "https://youtube.com/watch?v=4PE7cRotKug",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/4PE7cRotKug/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂයින්ගේ ලිංගික ශක්තිය වැඩි කරන, ඉක්මනින් ධාතු පිටවීමට හොදම ප්‍රතිකාරයක් වන බිංතල් වල ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=LHYxIfW9T4M",
+                "duration": "14:36",
+                "thumbnail": "https://i.ytimg.com/vi/LHYxIfW9T4M/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "මොළයේ ක්‍රියාකාරීත්වයට වටිනා සේවයක් කළ හැකි ශාකය වේදනා නාශක ගුණය අඩංගු බැබිල babila sakaya",
+                "url": "https://youtube.com/watch?v=KoJOHvuZl98",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/KoJOHvuZl98/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "🌳🌳 Uses of trees - ශාක වල ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=jQz16aFvu3Q",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/jQz16aFvu3Q/hq720.jpg"
+            },
+            {
+                "title": "ගස් සිටුවීමේ වැදගත්කම/ ගස් වලින් ලැබෙන ප්‍රයෝජන* gas walin lebena prayojana/wadagathkama*primary අපි",
+                "url": "https://youtube.com/watch?v=VN0sy98nyLU",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/VN0sy98nyLU/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Tumors",
-      "sinhala": "ගෙඩි / අර්බුද",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

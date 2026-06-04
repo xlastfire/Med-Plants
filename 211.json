@@ -1,28 +1,633 @@
 {
-  "scientificName": "Gamochaeta purpurea (L.) Cabrera",
-  "synonyms": [
-    "Gamochaeta rosacea (I.M.Johnst.) Anderb.",
-    "Gnaphalium dillenii Schult. ex Steud.",
-    "Gnaphalium hyemale Walter",
-    "Gnaphalium littorale Banks & Sol. ex Hook.f.",
-    "Gnaphalium obtusifolium Willd. ex Spreng.",
-    "Gnaphalium purpureum L.",
-    "Gnaphalium retusum Poepp. ex DC.",
-    "Gnaphalium rosaceum I.M.Johnst.",
-    "Gnaphalium roseo-rufescens Steud.",
-    "Gnaphalium stachidifolium Lam."
-  ],
-  "familyName": "ASTERACEAE",
-  "englishNames": [
-    "Wild Mignonette",
-    "Spoonleaf Purple Everlasting",
-    "Cudweed",
-    "Purple Cudweed"
-  ],
-  "sinhalaName": "Sudana kola (සුදන කොළ)",
-  "description": "",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Gamochaeta purpurea (L.) Cabrera",
+    "synonyms": [
+        "Gamochaeta rosacea (I.M.Johnst.) Anderb.",
+        "Gnaphalium dillenii Schult. ex Steud.",
+        "Gnaphalium hyemale Walter",
+        "Gnaphalium littorale Banks & Sol. ex Hook.f.",
+        "Gnaphalium obtusifolium Willd. ex Spreng.",
+        "Gnaphalium purpureum L.",
+        "Gnaphalium retusum Poepp. ex DC.",
+        "Gnaphalium rosaceum I.M.Johnst.",
+        "Gnaphalium roseo-rufescens Steud.",
+        "Gnaphalium stachidifolium Lam."
+    ],
+    "familyName": "ASTERACEAE",
+    "englishNames": [
+        "Wild Mignonette",
+        "Spoonleaf Purple Everlasting",
+        "Cudweed",
+        "Purple Cudweed"
+    ],
+    "sinhalaName": "Sudana kola (සුදන කොළ)",
+    "description": "",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "★‍ ආතතිය දුරු කරන මතකය වැඩි කරන සුදු හඳුන් කොළ සම්බෝලේ Healthy Sandalwood leaves sambol by Ape amma",
+                "url": "https://youtube.com/watch?v=Lc6xqS58g2Y",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/Lc6xqS58g2Y/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැඳ මේ වගේ බොන්න එපා : 6 Tips to drink leafy porridge",
+                "url": "https://youtube.com/watch?v=ntoqwsVo6Zw",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/ntoqwsVo6Zw/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැඳ සැදිම සදහා ගන්නා කොළ වර්ග 20ක්🌿☘️|kola kenda sadimata ganna kola warga☘️🌿",
+                "url": "https://youtube.com/watch?v=z7GlJwl-ppk",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/z7GlJwl-ppk/hq720.jpg"
+            },
+            {
+                "title": "කර කරගා රසට හැපෙන අක්මාව සනීප කරන දේශීය පපඩම් කොල.(වෙල් බුත්සරණ ) | Mussanda Leafy Green Benefits.",
+                "url": "https://youtube.com/watch?v=9L5PK8QkXAQ",
+                "duration": "9:28",
+                "thumbnail": "https://i.ytimg.com/vi/9L5PK8QkXAQ/hq720.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "කුළුණු ගුණේ සුදන සෙනේ  - Kulunu Gune Sudana Sene - Indrani Wijebandara - Film: Deiyanne Rate (1958)",
+                "url": "https://youtube.com/watch?v=aIheAAPeHvk",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/aIheAAPeHvk/hqdefault.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "දුන්කොල හා කොහොඹ කොල නිස්සාරණය කාබනික වගාව සදහා",
+                "url": "https://youtube.com/watch?v=ZQptDsuYj_c",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/ZQptDsuYj_c/hqdefault.jpg"
+            },
+            {
+                "title": "රජයේ අනුමත කෝප්ප කොළ කෑවොත් වෙන දේ මෙන්න : Benefits of Croton Leaves",
+                "url": "https://youtube.com/watch?v=sXY5rc_CYSA",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/sXY5rc_CYSA/hq720.jpg"
+            },
+            {
+                "title": "සුදු හදුන් කනවා කියන්නේ ඇත්තක්ද / Eat white sandalwood leaves. Why so good?",
+                "url": "https://youtube.com/watch?v=FmD7w5vVpew",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/FmD7w5vVpew/hqdefault.jpg"
+            },
+            {
+                "title": "කොළකැඳ බොන්න කලින් දැන ගන්න| Kola Kenda - 10 Plants for Herbal Porridge | Part 01",
+                "url": "https://youtube.com/watch?v=rU6NDyBgfGU",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/rU6NDyBgfGU/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "පුදුම හිතෙන සිංගප්පූරු කොල singappuru kola,japan batu,mellum,vitamin,food,",
+                "url": "https://youtube.com/watch?v=AiC01cFbgRg",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/AiC01cFbgRg/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ පිරුණු  පලා වර්ග 30 ක් | 30 green leaves in Sri Lanka",
+                "url": "https://youtube.com/watch?v=zZ6bOhie1U0",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/zZ6bOhie1U0/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියා රෝගීන්ගේ සීනි පාලනය කරගැනීමට කොස් කොළ",
+                "url": "https://youtube.com/watch?v=Bd5XHfzGrgY",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/Bd5XHfzGrgY/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව, අර්ශස් ඇතුළු රෝග වලට ගුණ සව්කෙන්ද හදුනාගමු | සව්කෙන්ද [Saukenda] (Kaempferia rotunda)",
+                "url": "https://youtube.com/watch?v=utFx6UNfsn4",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/utFx6UNfsn4/hq720.jpg"
+            },
+            {
+                "title": "ඇසේ සුද නසන ලේ පෙරන දම් පාට තේ. සතයක්වත් යන්නෙ නෑ",
+                "url": "https://youtube.com/watch?v=wDgUg8gUddc",
+                "duration": "9:04",
+                "thumbnail": "https://i.ytimg.com/vi/wDgUg8gUddc/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැඳ මේ වගේ බොන්න එපා : 6 Tips to drink leafy porridge 2019 (NEW)",
+                "url": "https://youtube.com/watch?v=AP7wLPqz4xc",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/AP7wLPqz4xc/hq720.jpg"
+            },
+            {
+                "title": "ඔළිඳ මෙතරම් වටින ඔසුවක් කියලා හිතුවද? Olinda Plant | Ceylon Agri | Episode 248",
+                "url": "https://youtube.com/watch?v=Ucc5Ci5aNZQ",
+                "duration": "7:33",
+                "thumbnail": "https://i.ytimg.com/vi/Ucc5Ci5aNZQ/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැඳවල තිත්ත ඇත්ත? Kola Kanda & Bitter Truth By Nutritionist Hiroshan  Jayaranga",
+                "url": "https://youtube.com/watch?v=l1DagmLR9Zg",
+                "duration": "15:56",
+                "thumbnail": "https://i.ytimg.com/vi/l1DagmLR9Zg/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ වල විශ්මිත ගුණ - Amazing properties of muranga leaves",
+                "url": "https://youtube.com/watch?v=dsRsFh9erP0",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/dsRsFh9erP0/hq720.jpg"
+            },
+            {
+                "title": "සන්ධි වේදනා වලට ගුණ මේ කොළ සතියට තුන් වතාවක් කන්න | කටේ බිබිලි වලටත් සුවය | kathurumurunga kola guna",
+                "url": "https://youtube.com/watch?v=0Hl0U7GSf4M",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/0Hl0U7GSf4M/hq720.jpg"
+            },
+            {
+                "title": "ජවය ශක්තිය සපිරි කොල්ලු පානය - වෛද්‍ය සුසීමා සේනානායක",
+                "url": "https://youtube.com/watch?v=BBlufzuvZvw",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/BBlufzuvZvw/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ වෙලා පෙති කරල් බොන්න කලින් සතියකට සැරයක් උදේට බඩ පිරෙන්න බොන්න Kola Kanda recipe Kusala Simple",
+                "url": "https://youtube.com/watch?v=mnxeKj37qpk",
+                "duration": "7:33",
+                "thumbnail": "https://i.ytimg.com/vi/mnxeKj37qpk/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම මුරුංගා කොළ යුෂ කෝප්පයක් බිව්වොත් ශරීරයට සිදුවන විශ්මිත දේවල් - Health Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=eJvVlXTMwjI",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/eJvVlXTMwjI/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ සපිරි සුදුරු",
+                "url": "https://youtube.com/watch?v=HrrB8n3mkys",
+                "duration": "5:24",
+                "thumbnail": "https://i.ytimg.com/vi/HrrB8n3mkys/hq720.jpg"
+            },
+            {
+                "title": "සුද්දන්වත් පුදුම කල ශරීරයේ විෂ නසන ඇස් පෙනීම දියුණු කරන දියවැඩියාවට ගුණ බලගතු පානය | green drink",
+                "url": "https://youtube.com/watch?v=tOfwB4pGi2U",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/tOfwB4pGi2U/hq720.jpg"
+            },
+            {
+                "title": "🇱🇰 නීරෝගීව ඉන්න දෙවියන් ලබා දුන් මිහිරි රසැති  කොළ මැල්ලුම Miracle of Sauropus Androgynus by Kusala",
+                "url": "https://youtube.com/watch?v=eb_kziGe_y4",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/eb_kziGe_y4/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු රෝගයේ මුල් ලක්ෂණ දහයක්👨‍🦽",
+                "url": "https://youtube.com/watch?v=p5ddY0AbmdI",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/p5ddY0AbmdI/hq720.jpg"
+            },
+            {
+                "title": "මේ කොළ වර්ග වලින් කැද හදලා බොනවා නම් ඇස් පෙනීම වැඩි වෙනවා! - කකුල් දෙකට පෑගුණත් ඇති ඒ තරම් ගුණයි",
+                "url": "https://youtube.com/watch?v=nsCwWSuwfyw",
+                "duration": "19:04",
+                "thumbnail": "https://i.ytimg.com/vi/nsCwWSuwfyw/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "Suwadharani  Herbal immunity boosters for COVID 19 - සුවධරණි කොරෝනාවලට නිර්දේශිත ආයුර්වේද බෙහෙත",
+                "url": "https://youtube.com/watch?v=MaJKBO8XG7A",
+                "duration": "9:46",
+                "thumbnail": "https://i.ytimg.com/vi/MaJKBO8XG7A/hq720.jpg"
+            },
+            {
+                "title": "සන්ධි වේදනා නැති කරන ආයුර්වේදීය ශාකයේ විද්‍යාත්මකව තහවුරු කල පුදුම හිතෙන ගුන",
+                "url": "https://youtube.com/watch?v=e0dzL4QVikQ",
+                "duration": "6:14",
+                "thumbnail": "https://i.ytimg.com/vi/e0dzL4QVikQ/hqdefault.jpg"
+            },
+            {
+                "title": "දනිස් ටකස් ගානවද මෙන්න වයසට යනවිට ගෙවී යන කාටිලේජ වර්ධනයට ඔසු පානයක් | කොලෙස්ටරෝල් වලට බෙහෙත් kollu",
+                "url": "https://youtube.com/watch?v=rUEI0unwM78",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/rUEI0unwM78/hq720.jpg"
+            },
+            {
+                "title": "මේ කොළ මෙහෙම කෑවොත් දනිස් කැක්කුම කවදාවත් නෑ | danis kakkumata beheth | ගෙවී ගිය කාටිලේජ වලට බෙහෙත්",
+                "url": "https://youtube.com/watch?v=wte77oHl4xA",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/wte77oHl4xA/hq720.jpg"
+            },
+            {
+                "title": "සුද යාම සහ යෝනි මාර්ගය ආශ්‍රිත කැසීම්|සමාජ රෝගයක්ද?|හොඳ කරගන්නෙ කොහොමද?|Doctor DR",
+                "url": "https://youtube.com/watch?v=dztusXCRx8U",
+                "duration": "10:11",
+                "thumbnail": "https://i.ytimg.com/vi/dztusXCRx8U/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා සෛල නසන පෝෂක ඖෂධයක් කොළඹ සරසවිය සොයාගනී",
+                "url": "https://youtube.com/watch?v=SQAoOewdb1c",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/SQAoOewdb1c/hq720.jpg"
+            },
+            {
+                "title": "මාසෙන් කොලෙස්ටරෝල් අඩු කරන මැජික් අත් බෙහෙත | home remedy for bad cholesterol | fat burn tea nira s",
+                "url": "https://youtube.com/watch?v=C4Tnxgxh1Lw",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/C4Tnxgxh1Lw/hq720.jpg"
+            },
+            {
+                "title": "දධ කුෂ්ඨ සුව කරන ඇත්තෝර | Eththora | Aththora | Ratathora | Cassia Alata | Candle Bush | Cimaiyakati",
+                "url": "https://youtube.com/watch?v=ordD9ufMQpY",
+                "duration": "3:56",
+                "thumbnail": "https://i.ytimg.com/vi/ordD9ufMQpY/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම සුදුළුණු අනුභව කරන අයගේ ශරීරයට සිදුවන පුදුම හිතෙන දේවල් 9ක් - 9 Health Benefits Of Raw Garlic",
+                "url": "https://youtube.com/watch?v=mtDUfuiqaQU",
+                "duration": "11:08",
+                "thumbnail": "https://i.ytimg.com/vi/mtDUfuiqaQU/hq720.jpg"
+            },
+            {
+                "title": "සුදිලෙනා පුර්ණ චන්ද්‍රා සේ සුදන ගුණ දිලෙන් ආලෝකේ...(Sudilena Purna Chandra Se)",
+                "url": "https://youtube.com/watch?v=hPF9xPG3hzY",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/hPF9xPG3hzY/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූනු දිනපතා ආහාරයට ගැනීමෙන් ඔබට ලැබෙන විද්‍යාත්මකව තහවුරු කල වටිනා වාසි 8 ක්",
+                "url": "https://youtube.com/watch?v=jCVPqJx99Pc",
+                "duration": "6:49",
+                "thumbnail": "https://i.ytimg.com/vi/jCVPqJx99Pc/hqdefault.jpg"
+            },
+            {
+                "title": "Grade 7 සිංහල | 17 පාඩම - සුදන ගුණ - අවබෝධය | Sudana Guna",
+                "url": "https://youtube.com/watch?v=SoAe-AkfF7I",
+                "duration": "30:27",
+                "thumbnail": "https://i.ytimg.com/vi/SoAe-AkfF7I/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "හැදෙන්න තියන පිළිකාවක් උනත් වලකන ලෙඩ 300කට ගුණ පානයක් | දියවැඩියාවට කොලෙස්ටරෝල් වලට බෙහෙත් nira S",
+                "url": "https://youtube.com/watch?v=5TmsOIyY_W8",
+                "duration": "6:33",
+                "thumbnail": "https://i.ytimg.com/vi/5TmsOIyY_W8/hq720.jpg"
+            },
+            {
+                "title": "සූදුරු කන අයට වෙන අමුතු දේවල් : Health benefits of Caraway seeds",
+                "url": "https://youtube.com/watch?v=MMqX2bcpj-s",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/MMqX2bcpj-s/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ නසන  කටු අනෝදා  කොළ | Soursop (Graviola) Tea  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=KdqAxJwIsRE",
+                "duration": "12:38",
+                "thumbnail": "https://i.ytimg.com/vi/KdqAxJwIsRE/hq720.jpg"
+            },
+            {
+                "title": "සූදුරු ☕ තේ පානයෙන් ලැබෙන ප්‍රතිලාභ || Cumin Seeds Benifits #goodvibes #cuminseeds #health",
+                "url": "https://youtube.com/watch?v=mMfiky9LPNw",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/mMfiky9LPNw/hqdefault.jpg"
+            },
+            {
+                "title": "මේක මහ පුදුම බීමක් එක උළුහාල් වතුර වීදුරුවක මෙච්චර ගුන තියෙනවද ?",
+                "url": "https://youtube.com/watch?v=E8e5hg7wZA4",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/E8e5hg7wZA4/hqdefault.jpg"
+            },
+            {
+                "title": "Grade 7 සිංහල | 17 පාඩම - සුදන ගුණ | Sudana Guna",
+                "url": "https://youtube.com/watch?v=v-ZzsLAQthc",
+                "duration": "1:19:02",
+                "thumbnail": "https://i.ytimg.com/vi/v-ZzsLAQthc/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා සුදුළුණු අනුභව කලොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 9ක් | 9 Health Benefits Of Eating Garlic",
+                "url": "https://youtube.com/watch?v=2WDcDb8XECw",
+                "duration": "10:28",
+                "thumbnail": "https://i.ytimg.com/vi/2WDcDb8XECw/hq720.jpg"
+            },
+            {
+                "title": "grade 7 sinhala | සුදන ගුණ | sudana guna",
+                "url": "https://youtube.com/watch?v=clCVQm1jnJw",
+                "duration": "26:49",
+                "thumbnail": "https://i.ytimg.com/vi/clCVQm1jnJw/hq720.jpg"
+            },
+            {
+                "title": "සුදන ගුණ -Sudana Guna -Sakya Education",
+                "url": "https://youtube.com/watch?v=bOhNehffhI8",
+                "duration": "17:45",
+                "thumbnail": "https://i.ytimg.com/vi/bOhNehffhI8/hq720.jpg"
+            },
+            {
+                "title": "🌱 සිංහල භාෂාව හා සාහිත්‍යය 🌱 (සුදන ගුණ)",
+                "url": "https://youtube.com/watch?v=r6Iwm2xrdck",
+                "duration": "38:05",
+                "thumbnail": "https://i.ytimg.com/vi/r6Iwm2xrdck/hqdefault.jpg"
+            },
+            {
+                "title": "සුදන ගුණ - Sudana Guna -Sakya Education",
+                "url": "https://youtube.com/watch?v=i7fUVTpMcfU",
+                "duration": "40:20",
+                "thumbnail": "https://i.ytimg.com/vi/i7fUVTpMcfU/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා සුදුළූණු ආහාරයට ගැනිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක්  | Health Benefits Of Garlic | Sudulunu",
+                "url": "https://youtube.com/watch?v=Hou6gNof0rI",
+                "duration": "11:03",
+                "thumbnail": "https://i.ytimg.com/vi/Hou6gNof0rI/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "ඇගේ උෂ්ණය අඩුකරන ආහාර|සිරුර සිසිල් කරන ආහාර|Foods that reduce bodyheat|DrChaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=1WSsasHlCTw",
+                "duration": "11:35",
+                "thumbnail": "https://i.ytimg.com/vi/1WSsasHlCTw/hq720.jpg"
+            },
+            {
+                "title": "ලමයි මහණ කරලා අම්මලා නිවන් පතනවා ? - Kekirawe Sudassana Himi",
+                "url": "https://youtube.com/watch?v=f-FRCVPak3Q",
+                "duration": "6:34",
+                "thumbnail": "https://i.ytimg.com/vi/f-FRCVPak3Q/hq720.jpg"
+            },
+            {
+                "title": "🔴සම රත්‍රං පාට වෙලා අවු:15 මාව තරුණ කරපු උලුහාල් පොටිටනි කැද සහ පානය! මෙන්න වාසි",
+                "url": "https://youtube.com/watch?v=5sWH0S4yzCI",
+                "duration": "8:22",
+                "thumbnail": "https://i.ytimg.com/vi/5sWH0S4yzCI/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළවල තිත්ත ඇත්ත | Drumstick leaves & Health  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=aj0a9Jt6_GE",
+                "duration": "10:50",
+                "thumbnail": "https://i.ytimg.com/vi/aj0a9Jt6_GE/hq720.jpg"
+            },
+            {
+                "title": "Senna Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=KEbGYSwKVTM",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/KEbGYSwKVTM/hq720.jpg"
+            },
+            {
+                "title": "සාරණ කෑවොත් වෙන දේ මෙන්න : Benefits of Sarana Plant",
+                "url": "https://youtube.com/watch?v=z7AnqI_q2x0",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/z7AnqI_q2x0/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රතිශක්තිය වඩන, ඇසෙ සුද ඉවත් කරන විශ්මිත ශාකය | CM Plants Store Sri Lanka නළල් බටු/මොට්ටු ශාකය",
+                "url": "https://youtube.com/watch?v=aOchjIcmF2k",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/aOchjIcmF2k/hq720.jpg"
+            },
+            {
+                "title": "පිටසුදු සාරන - ඔබේ ගැටලුවට විසඳුම",
+                "url": "https://youtube.com/watch?v=LqW7A6DeCvY",
+                "duration": "7:31",
+                "thumbnail": "https://i.ytimg.com/vi/LqW7A6DeCvY/hq720.jpg"
+            },
+            {
+                "title": "එළවළු සහ පලතුරු කිලෝ ග්‍රෑම් 1000ක පෝශණය සමානයි ස්පිරුලිනා කිලෝ ග්‍රෑම් 1 කට",
+                "url": "https://youtube.com/watch?v=3C7CS6lQ-oE",
+                "duration": "9:00",
+                "thumbnail": "https://i.ytimg.com/vi/3C7CS6lQ-oE/hq720.jpg"
+            },
+            {
+                "title": "බුලත්  විට  හැපීමෙන් විශ්මිත ප්‍රතිපල | Betel Chewing & Health  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=uch_5dcnSHk",
+                "duration": "9:00",
+                "thumbnail": "https://i.ytimg.com/vi/uch_5dcnSHk/hq720.jpg"
+            },
+            {
+                "title": "කොළකැඳ හදන්න මේ ඔසුවර්ග ගන්න බව දැනගෙන හිටියද බලන්න| ඔබේ ගෙවත්තේ තිබිය යුතුම වටිනා ඔසුවර්ග 15ක්",
+                "url": "https://youtube.com/watch?v=B-80q7tSjuw",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/B-80q7tSjuw/hq720.jpg"
+            },
+            {
+                "title": "ඖෂද කොල පූජාව 🌿☘️ පින්ද? පව්ද?#bana #welimada_saddhaseela_thero #budu_bana #dharmadeshana #banakatha",
+                "url": "https://youtube.com/watch?v=c_9snuG1WCs",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/c_9snuG1WCs/hq720.jpg"
+            },
+            {
+                "title": "මේ කොළ තුන, මේ විදියට මිශ්‍ර කලොත් ලෙඩ ගොඩකින් සුවපත් වෙන්න පුළුවන් | Herb plants",
+                "url": "https://youtube.com/watch?v=RcBVt15pYH4",
+                "duration": "36:38",
+                "thumbnail": "https://i.ytimg.com/vi/RcBVt15pYH4/hq720.jpg"
+            },
+            {
+                "title": "ගල් ඉවත් කරන, හැදීම වලක්වන, අද්දුටු දේශීය ඖෂධ!",
+                "url": "https://youtube.com/watch?v=fGJRZg7FwWw",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/fGJRZg7FwWw/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍ර රෝග නසන, කොළ කැද වලට ඕනම ඔසුව | Iramusu | Ceylon Agri | Episode 147",
+                "url": "https://youtube.com/watch?v=jAHJVwmgqu8",
+                "duration": "8:41",
+                "thumbnail": "https://i.ytimg.com/vi/jAHJVwmgqu8/hq720.jpg"
+            },
+            {
+                "title": "මේ ගසේ කොළ ටිකක් කුඩු කරලා කෑවෙත් දියවැඩියාව සදහටම මට්ටුයි! - ඇගේ පටස් ගාලා ක්ෂණිකව සීනි බහිනවා!",
+                "url": "https://youtube.com/watch?v=juTMsxstz7k",
+                "duration": "23:43",
+                "thumbnail": "https://i.ytimg.com/vi/juTMsxstz7k/hq720.jpg"
+            },
+            {
+                "title": "කොළ කැද බොන්න හොදද??  බීවොත් මොකද වෙන්නේ....",
+                "url": "https://youtube.com/watch?v=9sZZ-vPmx30",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/9sZZ-vPmx30/hqdefault.jpg"
+            },
+            {
+                "title": "News Alert  ඇමරිකාවෙන් ලැබුණු නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත් කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=QoxbefYPMS4",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/QoxbefYPMS4/hq720.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "පොල් මැල්ලුමක්ද ඔනි හරියටම හදන සුපිරිම රහස මෙන්න",
+                "url": "https://youtube.com/watch?v=PM07t_biv5Q",
+                "duration": "12:15",
+                "thumbnail": "https://i.ytimg.com/vi/PM07t_biv5Q/hq720.jpg"
+            },
+            {
+                "title": "SCIENCE දෙවන වරම-10-11 SUPER REVISION නියත A සාමාර්ථයේ සුපිරි්ම වැඩසටහන...",
+                "url": "https://youtube.com/watch?v=LfBazqLVXrA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/LfBazqLVXrA/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "සුද යාමට ගුණ කොහොඹ",
+                "url": "https://youtube.com/watch?v=JTHwsE6QQ40",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/JTHwsE6QQ40/hq720_2.jpg"
+            },
+            {
+                "title": "දියවැඩියා රෝගීන් සදහා භාවිතා කරන ඖෂධ - වෛද්‍ය සොනාලි ගුණතිලක",
+                "url": "https://youtube.com/watch?v=5q3AQpcJ_jk",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/5q3AQpcJ_jk/hq720.jpg"
+            },
+            {
+                "title": "ගින්නකදී මිනිස්සු මැරෙන්නේ පිළිස්සිලා විතරක් නෙවෙයි! හොරණ ඛේදවාචකයේ වෛද්‍ය විද්‍යාත්මක ඇත්ත.",
+                "url": "https://youtube.com/watch?v=sqthQ1UYhxU",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/sqthQ1UYhxU/hq720_2.jpg"
+            },
+            {
+                "title": "ලේ තුනී වෙන්න බෙහෙත් බොන ගමන් සුදුළූණු කන එක මාරාන්තිකයි! 🧄⚠️ | Aspirin & Garlic Danger #science",
+                "url": "https://youtube.com/watch?v=f36FuttjYTg",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/f36FuttjYTg/hq720.jpg"
+            },
+            {
+                "title": "සන්ධි වේදනාව මෙල්ල කරන දේශීය ආහාර, lankan foods for arthritis,Handi kakkumata aahara",
+                "url": "https://youtube.com/watch?v=19JnIgNbqaA",
+                "duration": "17:15",
+                "thumbnail": "https://i.ytimg.com/vi/19JnIgNbqaA/hq720.jpg"
+            },
+            {
+                "title": "රුපියල් මිලියන 99ක දැවැන්ත ව්‍යාපෘතිය නිමයි.. ස්නායු රෝග විද්‍යා ආයතනය ජනතා අයිතියට!",
+                "url": "https://youtube.com/watch?v=lO8jSmGDzcs",
+                "duration": "0:47",
+                "thumbnail": "https://i.ytimg.com/vi/lO8jSmGDzcs/hq720_2.jpg"
+            },
+            {
+                "title": "දණහිස් වේදනාව සන්ධි අමාරුව නිට්ටාවට සුව කරගන බෙහෙතක්! - මේ ආහාර නිතර කනවා නම් සන්ධි අමාරු එන්නේ නැහැ",
+                "url": "https://youtube.com/watch?v=4h3b2hPD5GA",
+                "duration": "16:40",
+                "thumbnail": "https://i.ytimg.com/vi/4h3b2hPD5GA/hq720.jpg"
+            },
+            {
+                "title": "සන්ධි වේදනා නැති කරන ආහාර සහ වැඩි කරන ආහාර පිළිබඳ විද්‍යාත්මක පැහැදිලි කිරීම",
+                "url": "https://youtube.com/watch?v=TAa7g1lAd8w",
+                "duration": "15:49",
+                "thumbnail": "https://i.ytimg.com/vi/TAa7g1lAd8w/hqdefault.jpg"
+            },
+            {
+                "title": "රුධිරයේ සීනි මට්ටම පාලනය කරන ඔසු 7ක්! 🩸🌿 | 7 Foods to Control Blood Sugar",
+                "url": "https://youtube.com/watch?v=JKYyaWb4Rzc",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/JKYyaWb4Rzc/hq720.jpg"
+            },
+            {
+                "title": "සුදන ගුණ | සිංහල භාෂාව හා සාහිත්‍යය | 7 ශ්‍රේණිය",
+                "url": "https://youtube.com/watch?v=coNEF03bzTw",
+                "duration": "42:10",
+                "thumbnail": "https://i.ytimg.com/vi/coNEF03bzTw/hq720.jpg"
+            },
+            {
+                "title": "කනබොන දේවල් ගැන දැනගෙන කන්න - Charith Godakumbura (PHI) | Safe Zone Podcast",
+                "url": "https://youtube.com/watch?v=-t8QhkGfbuI",
+                "duration": "1:10:09",
+                "thumbnail": "https://i.ytimg.com/vi/-t8QhkGfbuI/hq720.jpg"
+            },
+            {
+                "title": "නාමල්ට ග#හන්න ප්‍රසන්න, GL, සුගීෂ්වර පෙරට එයි | TALK WITH SUDATHTHA |",
+                "url": "https://youtube.com/watch?v=nKwrrznVI_Q",
+                "duration": "36:25",
+                "thumbnail": "https://i.ytimg.com/vi/nKwrrznVI_Q/hq720.jpg"
+            },
+            {
+                "title": "ඩනකිල් අවපාතය : පෘතුවියේ අද්භූත කලාපය/ගිනි කදු /ලාවා විල් /උණුදිය උල්පත්/ අධික උණුසුම/විෂ වායු",
+                "url": "https://youtube.com/watch?v=hrFHeXKynWM",
+                "duration": "12:35",
+                "thumbnail": "https://i.ytimg.com/vi/hrFHeXKynWM/hq720.jpg"
+            },
+            {
+                "title": "සුදාත්තී මේ බලපිය මැණිකෙ  | Dinesh Muthugala | Episode 159",
+                "url": "https://youtube.com/watch?v=EzFNnb42104",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/EzFNnb42104/hqdefault.jpg"
+            },
+            {
+                "title": "සුදුළූණු ජලය පානය කලොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 10 |Health Benefits of Drinking Garlic Water",
+                "url": "https://youtube.com/watch?v=nQWxgvxVDfg",
+                "duration": "12:05",
+                "thumbnail": "https://i.ytimg.com/vi/nQWxgvxVDfg/hq720.jpg"
+            },
+            {
+                "title": "පැෂන් ෆෘට් කොළ කෑවොත් මොකද වෙන්නෙ : Benefits of passion fruit leaves",
+                "url": "https://youtube.com/watch?v=Xm7zyX3XTdw",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/Xm7zyX3XTdw/hq720.jpg"
+            },
+            {
+                "title": "ගුණද? අගුණද? සවු ගැන හැමදේම  | Healthy  ? or Unhealthy ? All about Sago",
+                "url": "https://youtube.com/watch?v=5r36EKeQK_0",
+                "duration": "8:30",
+                "thumbnail": "https://i.ytimg.com/vi/5r36EKeQK_0/hqdefault.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

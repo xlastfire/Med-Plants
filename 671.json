@@ -1,196 +1,435 @@
 {
-  "scientificName": "Trigonella foenum-graecum L.",
-  "synonyms": [
-    "Buceras foenum-graecum (L.) All.",
-    "Buceras odoratissima Medik.",
-    "Fenugraecum officinale Czechov",
-    "Foenum-graecum officinale Moench",
-    "Foenum-graecum officinale var. cultum Alef.",
-    "Foenum-graecum officinale var. gladiatum Alef.",
-    "Foenum-graecum officinale var. prostratum Alef.",
-    "Foenum-graecum officinale var. rhodanthum Alef.",
-    "Foenum-graecum officinale var. tibetanum Alef.",
-    "Foenum-graecum sativum Medik.",
-    "Folliculigera graveolens Pasq.",
-    "Medicago foenugraeca (L.) E.H.L.Krause",
-    "Telis foenum-graecum (L.) Kuntze",
-    "Trigonella ensifera Trautv.",
-    "Trigonella foenum-graecum subsp. culta Gams",
-    "Trigonella foenum-graecum subsp. indica Sinskaya ex Soskov & Bairamov",
-    "Trigonella foenum-graecum subsp. jemenensis Serp.",
-    "Trigonella foenum-graecum var. haussknechtii irj.",
-    "Trigonella graeca St.-Lag.",
-    "Trigonella haussknechtii (irj.) Vassilcz.",
-    "Trigonella jemenensis (Serp.) Sinskaya",
-    "Trigonella rhodantha (Alef.) Vassilcz.",
-    "Trigonella tibetana (Alef.) Vassilcz.",
-    "Xiphostylis erectus Gasp."
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Eugreok",
-    "Fenugreek",
-    "Greek-clover",
-    "Greek Hay"
-  ],
-  "sinhalaName": "Uluhal (උළුහාල්)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Arthritis",
-      "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Trigonella foenum-graecum L.",
+    "synonyms": [
+        "Buceras foenum-graecum (L.) All.",
+        "Buceras odoratissima Medik.",
+        "Fenugraecum officinale Czechov",
+        "Foenum-graecum officinale Moench",
+        "Foenum-graecum officinale var. cultum Alef.",
+        "Foenum-graecum officinale var. gladiatum Alef.",
+        "Foenum-graecum officinale var. prostratum Alef.",
+        "Foenum-graecum officinale var. rhodanthum Alef.",
+        "Foenum-graecum officinale var. tibetanum Alef.",
+        "Foenum-graecum sativum Medik.",
+        "Folliculigera graveolens Pasq.",
+        "Medicago foenugraeca (L.) E.H.L.Krause",
+        "Telis foenum-graecum (L.) Kuntze",
+        "Trigonella ensifera Trautv.",
+        "Trigonella foenum-graecum subsp. culta Gams",
+        "Trigonella foenum-graecum subsp. indica Sinskaya ex Soskov & Bairamov",
+        "Trigonella foenum-graecum subsp. jemenensis Serp.",
+        "Trigonella foenum-graecum var. haussknechtii irj.",
+        "Trigonella graeca St.-Lag.",
+        "Trigonella haussknechtii (irj.) Vassilcz.",
+        "Trigonella jemenensis (Serp.) Sinskaya",
+        "Trigonella rhodantha (Alef.) Vassilcz.",
+        "Trigonella tibetana (Alef.) Vassilcz.",
+        "Xiphostylis erectus Gasp."
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Eugreok",
+        "Fenugreek",
+        "Greek-clover",
+        "Greek Hay"
+    ],
+    "sinhalaName": "Uluhal (උළුහාල්)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Arthritis",
+            "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Menstrual Disorders",
+            "sinhala": "ඔසප් ආබාධ සහ අක්‍රමිකතා (කෂ්ටාර්තව / ආර්තව දෝෂ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Leprosy",
+            "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Venereal Disease",
+            "sinhala": "ලිංගික රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gastric Disorders",
+            "sinhala": "ආමාශගත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Hyperlipidemia",
+            "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eczema",
+            "sinhala": "දද (එක්සීමා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hydrocele",
+            "sinhala": "වෘෂණ කෝෂවල දියර පිරීම / ඉදිමීම (වෘෂණ වෘද්ධිය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Dandruff",
+            "sinhala": "හිස්හොරි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seed"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "උළුහාල් වතුර විදුරුවක් පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක් | Fenugreek Water | Uluhal Panaya",
+                "url": "https://youtube.com/watch?v=4I9iiMoxzNM",
+                "duration": "10:05",
+                "thumbnail": "https://i.ytimg.com/vi/4I9iiMoxzNM/hq720.jpg"
+            },
+            {
+                "title": "මේකනම් පුදුම බීමක් බර අඩුකර ලෙඩ සියයක් වළකන උළුහාල් පාණය Uluhal Fenugreek Drink / Kusala Simple Life",
+                "url": "https://youtube.com/watch?v=PpuFMZj9e-o",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/PpuFMZj9e-o/hqdefault.jpg"
+            },
+            {
+                "title": "උළුහාල් වතුර බිව්වම වකුගඩු නරක් වෙනවද? වකුගඩු රෝගීන්ට උළුහාල් බොන්න පුලුවන් ද?",
+                "url": "https://youtube.com/watch?v=Od3FueIVsgc",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/Od3FueIVsgc/hqdefault.jpg"
+            },
+            {
+                "title": "මේ විදියට උළුහාල් වතුර පානය කරොත් සම වේගයෙන් තිරිහන් වෙනවා | Your Natural Secret for Glowing Skin",
+                "url": "https://youtube.com/watch?v=aRFwr7oAbrs",
+                "duration": "9:14",
+                "thumbnail": "https://i.ytimg.com/vi/aRFwr7oAbrs/hq720.jpg"
+            },
+            {
+                "title": "මේක මහ පුදුම බීමක් එක උළුහාල් වතුර වීදුරුවක මෙච්චර ගුන තියෙනවද ?",
+                "url": "https://youtube.com/watch?v=E8e5hg7wZA4",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/E8e5hg7wZA4/hqdefault.jpg"
+            },
+            {
+                "title": "ඇත්තටම උළු හාල් වලින් ලෙඩ හොඳ වෙනවද? Fenugreek & Health  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=ZX3klY9gFHw",
+                "duration": "12:25",
+                "thumbnail": "https://i.ytimg.com/vi/ZX3klY9gFHw/hq720.jpg"
+            },
+            {
+                "title": "සෙම එන්නෙ නැතිවෙන්න උළුහාල් බොන්නෙ මෙහෙමයි | හිස් හොරි නැතිකරන උළුහාල් සත්කාරය නිවසෙදිම",
+                "url": "https://youtube.com/watch?v=aVTJ9_ZIL0w",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/aVTJ9_ZIL0w/hqdefault.jpg"
+            },
+            {
+                "title": "උළු හාල් වතුර වීදුරුවක් දිනපතා පානය කිරීමෙන් ඔබේ ශරීරයට සිදු වෙන දේවල් 06ක් | 06 benefits of Uluhal",
+                "url": "https://youtube.com/watch?v=y_-acBKhFTo",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/y_-acBKhFTo/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල් මේ විදියට හිසේ ආලේප කලොත් හිසකෙස් වේගයෙන් වර්ධනය වෙනවා | Fenugreek Water Hair Mask",
+                "url": "https://youtube.com/watch?v=wymUAZoOuvg",
+                "duration": "8:47",
+                "thumbnail": "https://i.ytimg.com/vi/wymUAZoOuvg/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා උදෑසන උළු හාල් වතුර වීදුරුවකින් දවස පටන් ගත්තොත් ඔබට ලැබෙන වටිනා වාසි 10 ක්",
+                "url": "https://youtube.com/watch?v=YghdyV7tigk",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/YghdyV7tigk/hqdefault.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "හැමෝම කතා කරන උළු හාල් පානය ඇත්තටම හොදයිද? - කෙට්ටු වෙනවද? - උළු හාල්",
+                "url": "https://youtube.com/watch?v=IcbaLYq8Uw8",
+                "duration": "3:28",
+                "thumbnail": "https://i.ytimg.com/vi/IcbaLYq8Uw8/hq720.jpg"
+            },
+            {
+                "title": "ලප කැළැල් නැති පැහැපත් සමකට විශ්මිත උළුහාල් සත්කාර Fenugreek SKIN LIGHTENING  Dark Spots",
+                "url": "https://youtube.com/watch?v=3eCol8nQw5k",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/3eCol8nQw5k/hq720.jpg"
+            },
+            {
+                "title": "කෙට්ටු වෙන්න ඕන අයට නියම බෙහෙත | Healthy drink | Fenugreek water for reduce sugar | athal kitchen",
+                "url": "https://youtube.com/watch?v=7_JYE9Ox6iI",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/7_JYE9Ox6iI/hqdefault.jpg"
+            },
+            {
+                "title": "උළුහාල් වල විශ්මිත ගුණ - Amazing properties of fenugreek For a healthy life",
+                "url": "https://youtube.com/watch?v=J_Tddx76e_w",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/J_Tddx76e_w/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල් වල ඉතිහාසය , History of Fenugreek #fenugreek #farming",
+                "url": "https://youtube.com/watch?v=Go3CIE6UR_4",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/Go3CIE6UR_4/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල් වතුර : කාටද බොන්න හොඳ? කාටද බොන්න හොඳ නැත්තේ? Fenugreek water @Knowdiet496",
+                "url": "https://youtube.com/watch?v=DtV9nVNqBY0",
+                "duration": "9:02",
+                "thumbnail": "https://i.ytimg.com/vi/DtV9nVNqBY0/hq720.jpg"
+            },
+            {
+                "title": "how to grow micro green with  fenugreek seeds 🌱🌱🌱උළු හාල් පැල ගෙදර හදාමු #microgreens #methirecipe",
+                "url": "https://youtube.com/watch?v=Vb4HyH5UjsU",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/Vb4HyH5UjsU/hq720.jpg"
+            },
+            {
+                "title": "uluhal guna-දියවැඩියාවට ගුණ දෙන උළුහාල්",
+                "url": "https://youtube.com/watch?v=o-yN-slEvbo",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/o-yN-slEvbo/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසක් වළක්වන උළුහාල් වල විෂ්මිත ගුණ | Fenugreek seed) @Knowdiet496",
+                "url": "https://youtube.com/watch?v=-A6p3h3TE98",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/-A6p3h3TE98/hq720.jpg"
+            },
+            {
+                "title": "උලුහාල් වල ඇති විශ්මිත ගුණ ගැන ඔබ නොදත්දේ",
+                "url": "https://youtube.com/watch?v=9i7g1nKKljY",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/9i7g1nKKljY/hq720.jpg"
+            },
+            {
+                "title": "හිස්බඩ උළුහාල් වතුර බිව්වොත් සති දෙකකින් ඇඟට වෙන දේ! | Benefits of Fenugreek Water (Sinhala)",
+                "url": "https://youtube.com/watch?v=huttMQW9HuY",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/huttMQW9HuY/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල් වල තියණ සුපිරි ගුණ - superior properties of the fenugreek",
+                "url": "https://youtube.com/watch?v=gmjwuurYojI",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/gmjwuurYojI/hq720.jpg"
+            },
+            {
+                "title": "විස්මිත ගුණ දෙන උළුහාල් පානය ..🥰✨️කොලෙස්ට්‍රෝල් නැති කරයි..දියවැඩියාව පාලනය කරයි..✨️|life of simple",
+                "url": "https://youtube.com/watch?v=wcaEu0EqikU",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/wcaEu0EqikU/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=xHBqEl6Pau8",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/xHBqEl6Pau8/frame0.jpg"
+            },
+            {
+                "title": "හැම ලෙඩකටම හොඳ උලුහාල් වල විද්‍යාත්මකව තහවුරු කල ගුන #fenugreekbenefits",
+                "url": "https://youtube.com/watch?v=Pk0W8TjxCzs",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/Pk0W8TjxCzs/hqdefault.jpg"
+            },
+            {
+                "title": "නිරෝගී දිවියට මුළුතැන්ගෙයින් පිළියමක් | උළුහාල් | Fenugreek | wijaya tv",
+                "url": "https://youtube.com/watch?v=h-C-nN6SAxo",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/h-C-nN6SAxo/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත උලුහාල් පානය | Magical Fenugreek Drink | With English Sub",
+                "url": "https://youtube.com/watch?v=XeidRU_N49Y",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/XeidRU_N49Y/hq720.jpg"
+            },
+            {
+                "title": "සීනි , කොල්ස්ට්‍රෝල් පාලනයට පැල උලුහාල් සම්බෝලය |. Fenugreek sprouts sambol",
+                "url": "https://youtube.com/watch?v=CXgfxKdhDJw",
+                "duration": "5:35",
+                "thumbnail": "https://i.ytimg.com/vi/CXgfxKdhDJw/hq720.jpg"
+            },
+            {
+                "title": "හිසකෙස් පෝෂණයට උළුහාල් ස්ප්‍රේ|Fenugreek for Hair Growth#uluhaltreatment",
+                "url": "https://youtube.com/watch?v=IJ5VGvWaCPs",
+                "duration": "5:57",
+                "thumbnail": "https://i.ytimg.com/vi/IJ5VGvWaCPs/hqdefault.jpg"
+            },
+            {
+                "title": "විෂ්මිත උළුහාල් වලින් ඉක්මනින් කෙටිටු වෙන්න|Fast Amazing Benefits Fenugreek Seed|Easy weight loss",
+                "url": "https://youtube.com/watch?v=-uKX80hO3aM",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/-uKX80hO3aM/hq720.jpg"
+            },
+            {
+                "title": "සෙම එන්නෙ නැතිවෙන්න උළුහාල් බොන්නෙ මෙහෙමයි | හිස් හොරි නැතිකරන උළුහාල් සත්කාරය නිවසෙදිම",
+                "url": "https://youtube.com/watch?v=J8-2ixw0XkQ",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/J8-2ixw0XkQ/frame0.jpg"
+            },
+            {
+                "title": "උළුහාල් වලින් මෙච්චර දෙයක්? උළුහාල් පාවිච්චි කරලා මේ තරම් ගුණ රැසක් ලබාගෙන රෝග රැසකින් බේරෙන්න",
+                "url": "https://youtube.com/watch?v=IF7JzzJCbYE",
+                "duration": "11:06",
+                "thumbnail": "https://i.ytimg.com/vi/IF7JzzJCbYE/hq720.jpg"
+            },
+            {
+                "title": "උළු හාල් වල ඇති විශ්මිත ගුණ  /  කොලොස්ටරෝල් ඉවත් කරන බලගතුම ස්වාභාවික ඔසු",
+                "url": "https://youtube.com/watch?v=9IZ3HXTEJM8",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/9IZ3HXTEJM8/hq720.jpg"
+            },
+            {
+                "title": "Uluhal | Amazing benefits that you get from fenugreek | AAYU TV",
+                "url": "https://youtube.com/watch?v=j-PapmILwsA",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/j-PapmILwsA/hq720.jpg"
+            },
+            {
+                "title": "Uluhal | Amazing benefits that you get from fenugreek | AAYU TV",
+                "url": "https://youtube.com/watch?v=4V1xkj2dFDU",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/4V1xkj2dFDU/frame0.jpg"
+            },
+            {
+                "title": "උළු හාල් වතුර මේ විදියට බීලා බලන්න බලාගෙන ඉද්දි ඇග බහිනවා🌱💕👩‍⚕🩺💓",
+                "url": "https://youtube.com/watch?v=2if8XGY-EQQ",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/2if8XGY-EQQ/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල් වලින් ලැබෙන ඔබ නොදත් විශ්මිත ප්‍රයෝජන. | Amazing benefits that you get from fenugreek!",
+                "url": "https://youtube.com/watch?v=cbpvSApAxl0",
+                "duration": "5:21",
+                "thumbnail": "https://i.ytimg.com/vi/cbpvSApAxl0/hq720.jpg"
+            },
+            {
+                "title": "🔴සම රත්‍රං පාට වෙලා අවු:15 මාව තරුණ කරපු උලුහාල් පොටිටනි කැද සහ පානය! මෙන්න වාසි",
+                "url": "https://youtube.com/watch?v=5sWH0S4yzCI",
+                "duration": "8:22",
+                "thumbnail": "https://i.ytimg.com/vi/5sWH0S4yzCI/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Menstrual Disorders",
-      "sinhala": "ඔසප් ආබාධ සහ අක්‍රමිකතා (කෂ්ටාර්තව / ආර්තව දෝෂ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Leprosy",
-      "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Venereal Disease",
-      "sinhala": "ලිංගික රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gastric Disorders",
-      "sinhala": "ආමාශගත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Hyperlipidemia",
-      "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Eczema",
-      "sinhala": "දද (එක්සීමා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hydrocele",
-      "sinhala": "වෘෂණ කෝෂවල දියර පිරීම / ඉදිමීම (වෘෂණ වෘද්ධිය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Dandruff",
-      "sinhala": "හිස්හොරි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seed"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

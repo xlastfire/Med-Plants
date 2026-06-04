@@ -1,175 +1,294 @@
 {
-  "scientificName": "Apium graveolens L.",
-  "synonyms": [
-    "Apium australe var. latisectum H.Wolff",
-    "Apium celleri Gaertn.",
-    "Apium decumbens Eckl. & Zeyh.",
-    "Apium dulce Mill.",
-    "Apium graveolens convar. dulce (Mill.) Alef.",
-    "Apium graveolens convar. rapaceum (Mill.) Alef.",
-    "Apium graveolens f. lusitanicum (Mill.) J.Helm",
-    "Apium graveolens f. rapaceum (Mill.) Gaudin",
-    "Apium graveolens subsp. butronense (D.Gómez & G.Monts.) Aizpuru",
-    "Apium graveolens subsp. rapaceum (Mill.) P.D.Sell",
-    "Apium graveolens var. album Alef.",
-    "Apium graveolens var. aromaticum Alef.",
-    "Apium graveolens var. bashmense Hosni",
-    "Apium graveolens var. butronense D.Gómez & G.Monts.",
-    "Apium graveolens var. crispum Nois.",
-    "Apium graveolens var. dulce (Mill.) Gray",
-    "Apium graveolens var. dulce (Mill.) Pers.",
-    "Apium graveolens var. erfurtense Alef.",
-    "Apium graveolens var. humile Alef.",
-    "Apium graveolens var. juglandinum Alef.",
-    "Apium graveolens var. laeve Alef.",
-    "Apium graveolens var. latifolium Nois.",
-    "Apium graveolens var. lusitanicum (Mill.) DC.",
-    "Apium graveolens var. maritimum Dumort.",
-    "Apium graveolens var. praecox Alef.",
-    "Apium graveolens var. rapaceum (Mill.) Poir.",
-    "Apium graveolens var. rubrum Alef.",
-    "Apium graveolens var. sativum Gaudin",
-    "Apium graveolens var. secalinum Alef.",
-    "Apium graveolens var. silvestre Alef.",
-    "Apium graveolens var. tuberosum Nois.",
-    "Apium graveolens var. variegatum Nois.",
-    "Apium graveolens var. venosum Alef.",
-    "Apium graveolens var. violaceum Alef.",
-    "Apium graveolens var. vulgare Nois.",
-    "Apium integrilobum Hayata",
-    "Apium lobatum Gilib.",
-    "Apium lusitanicum Mill.",
-    "Apium maritimum Salisb.",
-    "Apium palustre Thore",
-    "Apium rapaceum Mill.",
-    "Apium vulgare Bubani",
-    "Carum graveolens (L.) Koso-Pol.",
-    "Celeri graveolens (L.) Britton",
-    "Helosciadium graveolens (L.) Rojas Acosta",
-    "Helosciadium ruta DC.",
-    "Helosciadium rutaceum St.-Lag.",
-    "Selinum graveolens (L.) E.H.L.Krause",
-    "Seseli graveolens (L.) Scop.",
-    "Sison ruta Burm.f.",
-    "Sison trifidum Burm. ex DC.",
-    "Sium apium Roth",
-    "Sium graveolens (L.) Vest",
-    "Smyrnium laterale Thunb."
-  ],
-  "familyName": "APIACEAE",
-  "englishNames": [
-    "Celery",
-    "Wild Celery"
-  ],
-  "sinhalaName": "Saldiri (සැල්දිරි)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Hyperlipidemia",
-      "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Apium graveolens L.",
+    "synonyms": [
+        "Apium australe var. latisectum H.Wolff",
+        "Apium celleri Gaertn.",
+        "Apium decumbens Eckl. & Zeyh.",
+        "Apium dulce Mill.",
+        "Apium graveolens convar. dulce (Mill.) Alef.",
+        "Apium graveolens convar. rapaceum (Mill.) Alef.",
+        "Apium graveolens f. lusitanicum (Mill.) J.Helm",
+        "Apium graveolens f. rapaceum (Mill.) Gaudin",
+        "Apium graveolens subsp. butronense (D.Gómez & G.Monts.) Aizpuru",
+        "Apium graveolens subsp. rapaceum (Mill.) P.D.Sell",
+        "Apium graveolens var. album Alef.",
+        "Apium graveolens var. aromaticum Alef.",
+        "Apium graveolens var. bashmense Hosni",
+        "Apium graveolens var. butronense D.Gómez & G.Monts.",
+        "Apium graveolens var. crispum Nois.",
+        "Apium graveolens var. dulce (Mill.) Gray",
+        "Apium graveolens var. dulce (Mill.) Pers.",
+        "Apium graveolens var. erfurtense Alef.",
+        "Apium graveolens var. humile Alef.",
+        "Apium graveolens var. juglandinum Alef.",
+        "Apium graveolens var. laeve Alef.",
+        "Apium graveolens var. latifolium Nois.",
+        "Apium graveolens var. lusitanicum (Mill.) DC.",
+        "Apium graveolens var. maritimum Dumort.",
+        "Apium graveolens var. praecox Alef.",
+        "Apium graveolens var. rapaceum (Mill.) Poir.",
+        "Apium graveolens var. rubrum Alef.",
+        "Apium graveolens var. sativum Gaudin",
+        "Apium graveolens var. secalinum Alef.",
+        "Apium graveolens var. silvestre Alef.",
+        "Apium graveolens var. tuberosum Nois.",
+        "Apium graveolens var. variegatum Nois.",
+        "Apium graveolens var. venosum Alef.",
+        "Apium graveolens var. violaceum Alef.",
+        "Apium graveolens var. vulgare Nois.",
+        "Apium integrilobum Hayata",
+        "Apium lobatum Gilib.",
+        "Apium lusitanicum Mill.",
+        "Apium maritimum Salisb.",
+        "Apium palustre Thore",
+        "Apium rapaceum Mill.",
+        "Apium vulgare Bubani",
+        "Carum graveolens (L.) Koso-Pol.",
+        "Celeri graveolens (L.) Britton",
+        "Helosciadium graveolens (L.) Rojas Acosta",
+        "Helosciadium ruta DC.",
+        "Helosciadium rutaceum St.-Lag.",
+        "Selinum graveolens (L.) E.H.L.Krause",
+        "Seseli graveolens (L.) Scop.",
+        "Sison ruta Burm.f.",
+        "Sison trifidum Burm. ex DC.",
+        "Sium apium Roth",
+        "Sium graveolens (L.) Vest",
+        "Smyrnium laterale Thunb."
+    ],
+    "familyName": "APIACEAE",
+    "englishNames": [
+        "Celery",
+        "Wild Celery"
+    ],
+    "sinhalaName": "Saldiri (සැල්දිරි)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Hyperlipidemia",
+            "sinhala": "රුධිරයේ මේදය (කොලෙස්ටරෝල්) අධික වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Heart Diseases",
+            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cellulitis",
+            "sinhala": "සෛල ප්‍රදාහය (සම යට පටක ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Kidney Diseases",
+            "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dermatitis",
+            "sinhala": "චර්ම ප්‍රදාහය (සමේ ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Obesity",
+            "sinhala": "ස්ථූලතාවය (අධික තරබාරුව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Inflammatory Conditions",
+            "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Seeds",
+        "Whole plants"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Anoma's Kitchen Tips # 67 - සැල්දිරි, මිංචි, පාර්ස්ලි, කොත්තමල්ලි හදුනාගනිමු",
+                "url": "https://youtube.com/watch?v=nwkB8a-Zy9A",
+                "duration": "11:32",
+                "thumbnail": "https://i.ytimg.com/vi/nwkB8a-Zy9A/hqdefault.jpg"
+            },
+            {
+                "title": "සෑල්දිරි යනු මොනවාද ?",
+                "url": "https://youtube.com/watch?v=bQId9VlbHoM",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/bQId9VlbHoM/hq720.jpg"
+            },
+            {
+                "title": "සෙලරි පානයෙන් ඇගේ විෂ අයින් කරගමු,celery juice benifits",
+                "url": "https://youtube.com/watch?v=lzpZQZfeaCE",
+                "duration": "7:16",
+                "thumbnail": "https://i.ytimg.com/vi/lzpZQZfeaCE/hq720.jpg"
+            },
+            {
+                "title": "සැල්දරි දඩු විසිකරන්න එපා මෙහෙම පැලකරගන්න don't  throw Celery its make a plant",
+                "url": "https://youtube.com/watch?v=59a83HAlWBI",
+                "duration": "5:09",
+                "thumbnail": "https://i.ytimg.com/vi/59a83HAlWBI/hq720.jpg"
+            },
+            {
+                "title": "7 Varieties of Celery in the World.",
+                "url": "https://youtube.com/watch?v=7Bs-4I6rT-4",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/7Bs-4I6rT-4/hq720.jpg"
+            },
+            {
+                "title": "සෑල්දිරි යනු මොනවාද ?",
+                "url": "https://youtube.com/watch?v=pY2n4GlT0Yg",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/pY2n4GlT0Yg/frame0.jpg"
+            },
+            {
+                "title": "Celery Seeds: The Tiny Superfood That Changes Everything!",
+                "url": "https://youtube.com/watch?v=DSe7F2uZR4o",
+                "duration": "6:12",
+                "thumbnail": "https://i.ytimg.com/vi/DSe7F2uZR4o/hq720.jpg"
+            },
+            {
+                "title": "8 Benefits of Celery You Need to Know | Why Should you Eat Celery!",
+                "url": "https://youtube.com/watch?v=EPezyzEuvfo",
+                "duration": "3:46",
+                "thumbnail": "https://i.ytimg.com/vi/EPezyzEuvfo/hq720.jpg"
+            },
+            {
+                "title": "THE INCREDIBLE HEALTH BENEFITS OF CELERY - 10 Healing Properties of Celery for Health",
+                "url": "https://youtube.com/watch?v=jfiyJvJ9ALA",
+                "duration": "9:43",
+                "thumbnail": "https://i.ytimg.com/vi/jfiyJvJ9ALA/hq720.jpg"
+            },
+            {
+                "title": "Top 11 Health Benefits of CELERY – Dr. Berg",
+                "url": "https://youtube.com/watch?v=OqlpjiFmVmg",
+                "duration": "1:34",
+                "thumbnail": "https://i.ytimg.com/vi/OqlpjiFmVmg/hq720.jpg"
+            },
+            {
+                "title": "5 Health Benefits of Celery Seeds",
+                "url": "https://youtube.com/watch?v=gWvOhFBdY1g",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/gWvOhFBdY1g/hq720.jpg"
+            },
+            {
+                "title": "CELERY BENEFITS - 15 Amazing Health Benefits of Celery!",
+                "url": "https://youtube.com/watch?v=gLO_OhfPz58",
+                "duration": "9:27",
+                "thumbnail": "https://i.ytimg.com/vi/gLO_OhfPz58/hq720.jpg"
+            },
+            {
+                "title": "Celery Benefits and Side Effects, Celery Reduces Inflammation and Supports Digestion",
+                "url": "https://youtube.com/watch?v=FSgjMomP3X0",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/FSgjMomP3X0/hq720.jpg"
+            },
+            {
+                "title": "1/2 Teaspoon of These Seeds Can Overcome Many Health Problems!  Dr. Mandell",
+                "url": "https://youtube.com/watch?v=pfSP0gp3DPc",
+                "duration": "5:19",
+                "thumbnail": "https://i.ytimg.com/vi/pfSP0gp3DPc/hq720.jpg"
+            },
+            {
+                "title": "Top 5 Benefits Of Celery Seeds",
+                "url": "https://youtube.com/watch?v=kTxzH5Dc464",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/kTxzH5Dc464/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits Of Celery Seeds",
+                "url": "https://youtube.com/watch?v=lsXrkZ2Nv0Y",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/lsXrkZ2Nv0Y/hq720.jpg"
+            },
+            {
+                "title": "Celery Seeds: The Tiny Superfood That Changes Everything!",
+                "url": "https://youtube.com/watch?v=4V1xkj2dFDU",
+                "duration": "6:12",
+                "thumbnail": "https://i.ytimg.com/vi/4V1xkj2dFDU/frame0.jpg"
+            },
+            {
+                "title": "සෑල්දිරි යනු මොනවාද ?",
+                "url": "https://youtube.com/watch?v=JCROhvuRzsY",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/JCROhvuRzsY/frame0.jpg"
+            },
+            {
+                "title": "How to Use Celery Seeds for Health and Flavor",
+                "url": "https://youtube.com/watch?v=69yPJC0lc80",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/69yPJC0lc80/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Heart Diseases",
-      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cellulitis",
-      "sinhala": "සෛල ප්‍රදාහය (සම යට පටක ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Kidney Diseases",
-      "sinhala": "වකුගඩු ආශ්‍රිත රෝග (වෘක්ක රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dermatitis",
-      "sinhala": "චර්ම ප්‍රදාහය (සමේ ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Obesity",
-      "sinhala": "ස්ථූලතාවය (අධික තරබාරුව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Inflammatory Conditions",
-      "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Seeds",
-    "Whole plants"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

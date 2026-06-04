@@ -1,143 +1,178 @@
 {
-  "scientificName": "Streblus asper Lour.",
-  "synonyms": [
-    "Achymus pallens Sol. ex Blume",
-    "Achymus patens Sol. ex Hook.f.",
-    "Albrandia gaudichaudii D.Dietr.",
-    "Albrandia orientalis D.Dietr.",
-    "Albrandia spinosa D.Dietr.",
-    "Albrandia timorensis D.Dietr.",
-    "Calius lactescens Blanco",
-    "Cudrania crenata C.H.Wright",
-    "Diplothorax tonkinensis Gagnep.",
-    "Epicarpurus asper (Lour.) Steud.",
-    "Epicarpurus gaudichaudii Steud.",
-    "Epicarpurus orientalis Blume",
-    "Morus indica Ser.",
-    "Morus tatarica Mill.",
-    "Streblus lactescens Blume",
-    "Trophis aspera Retz.",
-    "Trophis cochinchinensis Poir.",
-    "Vanieria crenata (C.H.Wright) Chun"
-  ],
-  "familyName": "MORACEAE",
-  "englishNames": [
-    "Sand Paper Tree",
-    "Crooked Rough Bush",
-    "Siamese Rough Bush",
-    "Toothbrush Tree"
-  ],
-  "sinhalaName": "Geta nitul (ගැට නිතුල් )",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Streblus asper Lour.",
+    "synonyms": [
+        "Achymus pallens Sol. ex Blume",
+        "Achymus patens Sol. ex Hook.f.",
+        "Albrandia gaudichaudii D.Dietr.",
+        "Albrandia orientalis D.Dietr.",
+        "Albrandia spinosa D.Dietr.",
+        "Albrandia timorensis D.Dietr.",
+        "Calius lactescens Blanco",
+        "Cudrania crenata C.H.Wright",
+        "Diplothorax tonkinensis Gagnep.",
+        "Epicarpurus asper (Lour.) Steud.",
+        "Epicarpurus gaudichaudii Steud.",
+        "Epicarpurus orientalis Blume",
+        "Morus indica Ser.",
+        "Morus tatarica Mill.",
+        "Streblus lactescens Blume",
+        "Trophis aspera Retz.",
+        "Trophis cochinchinensis Poir.",
+        "Vanieria crenata (C.H.Wright) Chun"
+    ],
+    "familyName": "MORACEAE",
+    "englishNames": [
+        "Sand Paper Tree",
+        "Crooked Rough Bush",
+        "Siamese Rough Bush",
+        "Toothbrush Tree"
+    ],
+    "sinhalaName": "Geta nitul (ගැට නිතුල් )",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wound Care",
+            "sinhala": "තුවාල සත්කාරය සහ විෂබීජහරණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Lymphadenopathy",
+            "sinhala": "ග්‍රන්ථි ඉදිමීම (ගණ්ඩමාලා ආදී රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Vitiligo",
+            "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark",
+        "Root",
+        "Latex",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "2512",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/ynBtpcd2/plant00879-02512.jpg"
+        },
+        {
+            "image_id": "2513",
+            "caption": "Twig  (PMR)",
+            "url": "https://i.ibb.co/4w9t6TsG/plant00879-02513.jpg"
+        },
+        {
+            "image_id": "2514",
+            "caption": "Leaves- lower surface (PMR)",
+            "url": "https://i.ibb.co/SDbdvSbM/plant00879-02514.jpg"
+        },
+        {
+            "image_id": "2515",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/GvF1vbh3/plant00879-02515.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මොනවද මේ ඖශධීය ගුණවලින් සමන්විත \"නිටොල්\"  - තිලක් කන්දේගම / Plumbago Indica - Sri Lanka",
+                "url": "https://youtube.com/watch?v=VzXBTl3a-4U",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/VzXBTl3a-4U/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා, උණ ඇතුළු රෝග රැසකට ගුණදෙන නිතුල්ල/ගැට නෙටුල් වල ඔබ නොදත් ගුණ | නිතුල්ල | Nitulla/Geta Netul",
+                "url": "https://youtube.com/watch?v=ZBTnXX9Ajqg",
+                "duration": "8:07",
+                "thumbnail": "https://i.ytimg.com/vi/ZBTnXX9Ajqg/hq720.jpg"
+            },
+            {
+                "title": "Plumbago indica /Rath nitul/රත් නිතුල්",
+                "url": "https://youtube.com/watch?v=JwbXxLDP2e8",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/JwbXxLDP2e8/hq720.jpg"
+            },
+            {
+                "title": "පණු හොරි හා ඇස්‌ රුදා සමනයට බුද්ධි වර්ධණය පිළිකා පාලනය කරන ‍රත් නිටොල්",
+                "url": "https://youtube.com/watch?v=UHCCtenfeNU",
+                "duration": "8:00",
+                "thumbnail": "https://i.ytimg.com/vi/UHCCtenfeNU/hq720.jpg"
+            },
+            {
+                "title": "රත් නිටුල් සහ එල නිටුල් (Rath Nitul, Ela Nitul)",
+                "url": "https://youtube.com/watch?v=XgVdZg5DXUI",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/XgVdZg5DXUI/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wound Care",
-      "sinhala": "තුවාල සත්කාරය සහ විෂබීජහරණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Lymphadenopathy",
-      "sinhala": "ග්‍රන්ථි ඉදිමීම (ගණ්ඩමාලා ආදී රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Vitiligo",
-      "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark",
-    "Root",
-    "Latex",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "2512",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/ynBtpcd2/plant00879-02512.jpg"
-    },
-    {
-      "image_id": "2513",
-      "caption": "Twig  (PMR)",
-      "url": "https://i.ibb.co/4w9t6TsG/plant00879-02513.jpg"
-    },
-    {
-      "image_id": "2514",
-      "caption": "Leaves- lower surface (PMR)",
-      "url": "https://i.ibb.co/SDbdvSbM/plant00879-02514.jpg"
-    },
-    {
-      "image_id": "2515",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/GvF1vbh3/plant00879-02515.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

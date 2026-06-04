@@ -1,134 +1,313 @@
 {
-  "scientificName": "Coscinium fenestratum (Gaertn.) Colebr.",
-  "synonyms": [
-    "Coscinium maingayi Pierre",
-    "Coscinium miosepalum Diels",
-    "Coscinium peltatum Merr.",
-    "Coscinium usitatum Pierre",
-    "Coscinium wallichianum Miers",
-    "Coscinium wightianum Miers ex Diels",
-    "Menispermum fenestratum Gaertn.",
-    "Pereiria medica Lindl."
-  ],
-  "familyName": "MENISPERMACEAE",
-  "englishNames": [
-    "False Calumba",
-    "Ceylon Calumba Root"
-  ],
-  "sinhalaName": "Weni wel (වෙනිවැල්)",
-  "description": "විශාල දැවමය ආරෝහක ශාකයකි, සිලින්ඩරාකාර (cylindrical) සහ කහ පැහැති කඳකින් යුක්තව වැඩේ. පත්‍ර සරල වේ, දිගටි (oblong) සහ ත්‍රිකෝණාකාර (deltoid) හැඩයක් ගනී, යටි පැත්ත ඉතා සියුම් රෝම සහිත (minutely tomentose) වන අතර උඩ පැත්ත සිනිඳු (smooth) සහ කහ පැහැයට හුරු වේ. මල් කහ පැහැතිය, ඒකලිංගික (unisexual) වේ, පත්‍ර කක්ෂයට ඉහළින් පිහිටි පුෂ්ප මංජරිවල (supra-axillary inflorescence) හටගනී. ඵල ගෝලාකාර (globose) අෂ්ඨිඵල (drupes) වේ, බීජ එකකින් සමන්විතය. බීජ ගෝලාකාර (globose) වේ.",
-  "treatments": [
-    {
-      "treatment": "Tetanus",
-      "sinhala": "පිටගැස්ම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Coscinium fenestratum (Gaertn.) Colebr.",
+    "synonyms": [
+        "Coscinium maingayi Pierre",
+        "Coscinium miosepalum Diels",
+        "Coscinium peltatum Merr.",
+        "Coscinium usitatum Pierre",
+        "Coscinium wallichianum Miers",
+        "Coscinium wightianum Miers ex Diels",
+        "Menispermum fenestratum Gaertn.",
+        "Pereiria medica Lindl."
+    ],
+    "familyName": "MENISPERMACEAE",
+    "englishNames": [
+        "False Calumba",
+        "Ceylon Calumba Root"
+    ],
+    "sinhalaName": "Weni wel (වෙනිවැල්)",
+    "description": "විශාල දැවමය ආරෝහක ශාකයකි, සිලින්ඩරාකාර (cylindrical) සහ කහ පැහැති කඳකින් යුක්තව වැඩේ. පත්‍ර සරල වේ, දිගටි (oblong) සහ ත්‍රිකෝණාකාර (deltoid) හැඩයක් ගනී, යටි පැත්ත ඉතා සියුම් රෝම සහිත (minutely tomentose) වන අතර උඩ පැත්ත සිනිඳු (smooth) සහ කහ පැහැයට හුරු වේ. මල් කහ පැහැතිය, ඒකලිංගික (unisexual) වේ, පත්‍ර කක්ෂයට ඉහළින් පිහිටි පුෂ්ප මංජරිවල (supra-axillary inflorescence) හටගනී. ඵල ගෝලාකාර (globose) අෂ්ඨිඵල (drupes) වේ, බීජ එකකින් සමන්විතය. බීජ ගෝලාකාර (globose) වේ.",
+    "treatments": [
+        {
+            "treatment": "Tetanus",
+            "sinhala": "පිටගැස්ම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ulcers",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Common Cold",
+            "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Root",
+        "Stem of the creeper"
+    ],
+    "images": [
+        {
+            "image_id": "1149",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/hxXWnVHL/plant00833-01149.jpg"
+        },
+        {
+            "image_id": "1150",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/qYc5mKqG/plant00833-01150.jpg"
+        },
+        {
+            "image_id": "1151",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/Tx4bh0F1/plant00833-01151.jpg"
+        },
+        {
+            "image_id": "3751",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/F4s6rBxw/plant00833-03751.jpg"
+        },
+        {
+            "image_id": "3752",
+            "caption": "Leaf - upper surface (PMR)",
+            "url": "https://i.ibb.co/67rWFKJP/plant00833-03752.jpg"
+        },
+        {
+            "image_id": "3753",
+            "caption": "Leaf - lower surface (PMR)",
+            "url": "https://i.ibb.co/dJ1mDHh1/plant00833-03753.jpg"
+        },
+        {
+            "image_id": "3754",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/0pyYG3k0/plant00833-03754.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "වෙනිවැල් ගැටවල ඖෂධීය ගුණ : Health benefits of Venivelgeta",
+                "url": "https://youtube.com/watch?v=B_GgVEA1A7U",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/B_GgVEA1A7U/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටවල ඖෂධීය ගුණ - Health benefits of Venivel geta",
+                "url": "https://youtube.com/watch?v=1g7Z4fKvNdg",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/1g7Z4fKvNdg/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත වෙනිවැල් ගැට වල පැණිරස රහස් රැසක් මෙන්න, අහිතකර මේදය, දියවැඩියාව සහ තවත් රෝග රැසක් සුවකිරීමට",
+                "url": "https://youtube.com/watch?v=fdTafIwAZ58",
+                "duration": "13:28",
+                "thumbnail": "https://i.ytimg.com/vi/fdTafIwAZ58/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැට බිමේන් ඔබට ලැබේන ප්‍රතිලාභ -Benefit of drinking venivel",
+                "url": "https://youtube.com/watch?v=Wl8XxRUoSaE",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/Wl8XxRUoSaE/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් - තිත්ත වැල් \"කොහොමද හොයන්නේ \" / Herbal Plants - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=e37sZqGCbfM",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/e37sZqGCbfM/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ශාකය | weniwel plant | herbal plant | Coscinium fenestratum",
+                "url": "https://youtube.com/watch?v=j-nJjB8d-ZE",
+                "duration": "1:34",
+                "thumbnail": "https://i.ytimg.com/vi/j-nJjB8d-ZE/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් [Veniwel] (Coscinium fenestratum)",
+                "url": "https://youtube.com/watch?v=TWpsnu0uIYI",
+                "duration": "1:03",
+                "thumbnail": "https://i.ytimg.com/vi/TWpsnu0uIYI/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ( Coseinium fenestratum ) - Susantha Jayanal Perera",
+                "url": "https://youtube.com/watch?v=vhdAtJnpnw0",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/vhdAtJnpnw0/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල්ගැට පැක් එක හදන හරිම ක්‍රමය |  Veniwalgata Face Pack for Skin Whitening & Glowing",
+                "url": "https://youtube.com/watch?v=X6droIy7mHQ",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/X6droIy7mHQ/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල්ගැට වලින් ලස්සන වෙන හොදම ක්‍රම 6 | Top 6 Beauty uses of Venivelgata (Calumba wood)",
+                "url": "https://youtube.com/watch?v=Tua0DfxFFP4",
+                "duration": "15:08",
+                "thumbnail": "https://i.ytimg.com/vi/Tua0DfxFFP4/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් කියන්නේ මේ වගේ දෙයක් කියලා දැනගෙන හිටියද | All for Life",
+                "url": "https://youtube.com/watch?v=bSk1nI8_ohc",
+                "duration": "1:29",
+                "thumbnail": "https://i.ytimg.com/vi/bSk1nI8_ohc/hqdefault.jpg"
+            },
+            {
+                "title": "weniwal plant/වෙනිවැල් ශාකය/Dāru Haridrā or Kāleyaka (दारुहरिद्रा, कालेयकः in Sanskrit), Mara Manj",
+                "url": "https://youtube.com/watch?v=6DNMt4uBjvE",
+                "duration": "5:58",
+                "thumbnail": "https://i.ytimg.com/vi/6DNMt4uBjvE/hqdefault.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැට වල ඔබ නොදන්නා වූ ගුණ!!!!!",
+                "url": "https://youtube.com/watch?v=nMRSa6iCjjI",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/nMRSa6iCjjI/hqdefault.jpg"
+            },
+            {
+                "title": "වෙනිවැල් | ප්‍රතිශක්තිය වඩන සුපිරි ශාකය. වෙනිවැල් ගැන කතා කරමු | Wenival Plant Sinhala",
+                "url": "https://youtube.com/watch?v=aWcgTblgqDM",
+                "duration": "10:56",
+                "thumbnail": "https://i.ytimg.com/vi/aWcgTblgqDM/hq720.jpg"
+            },
+            {
+                "title": "Venival drink for Skin Glowing සමේ පැහැය වැඩිකරන වෙනිවැල් පානය Skin whitening Ayurvedic drink 🍸🍸🍸🍸🍸❤",
+                "url": "https://youtube.com/watch?v=AGmBcQEaC1o",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/AGmBcQEaC1o/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල්ගැට බීලා පැහැපත්  වෙන්න පුලුවන්ද?  | Venivalgata Water for Skin Glowing & Good Health",
+                "url": "https://youtube.com/watch?v=-s9kx2qxjD4",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/-s9kx2qxjD4/hq720.jpg"
+            },
+            {
+                "title": "ඇගේ උෂ්ණ ගතියට වෙනිවැල්ගැට පානය / Venivel Geta #health #drink #sinhala",
+                "url": "https://youtube.com/watch?v=0jE2KzyfB6s",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/0jE2KzyfB6s/hqdefault.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ගුණ | Natural Herbal Benefits of Venivel Gata 🌱",
+                "url": "https://youtube.com/watch?v=yI4YH1kNYsk",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/yI4YH1kNYsk/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල්ගැට බීලා පැහැපත් වෙන්න පුලුවන්ද ? Venivalgata water for skin glowing and good health.",
+                "url": "https://youtube.com/watch?v=OfVyaC90tM4",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/OfVyaC90tM4/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල්ගැට වල විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=XTDWQs2UCu0",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/XTDWQs2UCu0/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල්ල ශාකයේ සාමාන්‍ය විස්තර, ඖෂධීය ගුණාගුණ හා ආහාරයට ගන්නා ආකාරය | Benefits of Weniwella",
+                "url": "https://youtube.com/watch?v=-kt5T0IVUFw",
+                "duration": "4:38",
+                "thumbnail": "https://i.ytimg.com/vi/-kt5T0IVUFw/hq720.jpg"
+            },
+            {
+                "title": "Veniwel geta |Tree turmeric| Herbal drink",
+                "url": "https://youtube.com/watch?v=aLcy4xVWbQU",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/aLcy4xVWbQU/hq720.jpg"
+            },
+            {
+                "title": "Veniwel geta |Tree turmeric| Herbal drink",
+                "url": "https://youtube.com/watch?v=2JUWXGvBMxU",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/2JUWXGvBMxU/frame0.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැට වැල් කපන්න යමු Weniwal Gata [Coscinium Fenestratum]",
+                "url": "https://youtube.com/watch?v=ZJEAFUalCfE",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/ZJEAFUalCfE/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල්  බිව්වොත් ඔබට ලැබෙන  විස්මජනක ප්‍රතිඵල#Coscinium fenestratum#weniwel#srilankaaryurvedikplan",
+                "url": "https://youtube.com/watch?v=YDmrDblEXqs",
+                "duration": "4:50",
+                "thumbnail": "https://i.ytimg.com/vi/YDmrDblEXqs/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැට බොන්නලු - venivelgeta",
+                "url": "https://youtube.com/watch?v=5MmDYyBFwr8",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/5MmDYyBFwr8/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල්ගැට හරියටම අදුර ගමු weniwalgata plants False Calumba Ceylon",
+                "url": "https://youtube.com/watch?v=983e1ZErnfM",
+                "duration": "2:08",
+                "thumbnail": "https://i.ytimg.com/vi/983e1ZErnfM/hq720.jpg"
+            },
+            {
+                "title": "Coscinium fenestratum/Weni wel gata/Herbal plants of Sri Lanka",
+                "url": "https://youtube.com/watch?v=XHw61I5NXKk",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/XHw61I5NXKk/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ulcers",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Common Cold",
-      "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Root",
-    "Stem of the creeper"
-  ],
-  "images": [
-    {
-      "image_id": "1149",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/hxXWnVHL/plant00833-01149.jpg"
-    },
-    {
-      "image_id": "1150",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/qYc5mKqG/plant00833-01150.jpg"
-    },
-    {
-      "image_id": "1151",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/Tx4bh0F1/plant00833-01151.jpg"
-    },
-    {
-      "image_id": "3751",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/F4s6rBxw/plant00833-03751.jpg"
-    },
-    {
-      "image_id": "3752",
-      "caption": "Leaf - upper surface (PMR)",
-      "url": "https://i.ibb.co/67rWFKJP/plant00833-03752.jpg"
-    },
-    {
-      "image_id": "3753",
-      "caption": "Leaf - lower surface (PMR)",
-      "url": "https://i.ibb.co/dJ1mDHh1/plant00833-03753.jpg"
-    },
-    {
-      "image_id": "3754",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/0pyYG3k0/plant00833-03754.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

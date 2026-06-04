@@ -1,114 +1,329 @@
 {
-  "scientificName": "Ficus krishnae C.DC.",
-  "synonyms": [
-    "Ficus benghalensis var. krishnae (C.DC.) Corner"
-  ],
-  "familyName": "MORACEAE",
-  "englishNames": [
-    "Krishna Fig",
-    "Krishna Bo",
-    "Krishna's Cup",
-    "Krishna's Butter Cup",
-    "Sacred Fig Tree"
-  ],
-  "sinhalaName": "Gotu nuga (ගොටු නුග)",
-  "description": "විශාල නුග ගසකි, පැතිරී යන අතු වලින් මුල් හටගනී, පත්‍ර හැලෙන (deciduous) හෝ සදාහරිත (evergreen) ස්වභාවයක් ගනී. උප පත්‍ර (stipules) ශක්තිමත්ය; පත්‍ර තලය (lamina) සෙ.මී. 10-30 x 7-20 වේ; පත්‍ර වෘන්තය (petiole) මි.මී. 15-70 x 3-6 වේ; බොහෝ හෝ සියලුම පත්‍රවල පහළ භාගයේ පත්‍ර තලයේ දෙපස පිටුපසට නැමී (reflexed) එකිනෙක සම්බන්ධ වී (connate) කුසලාකාර හැඩයක් සාදයි. අත්තික්කා ගෙඩි (figs) වෘන්ත රහිත (sessile), පත්‍ර අක්ෂවල හටගන්නා, යුගල වශයෙන් පිහිටි, ඉදුණු විට තැඹිලි සිට රතු පැහැයට හැරේ; ගෙඩියේ දේහය මි.මී. 14-17 ක් පළලය (ජීවී අවස්ථාවේ මි.මී. 15-20 x 21-25). පිරිමි මල්වල පුෂ්ප වෘන්ත (pedicels) මි.මී. 1.5-2.3 ක් දිගය. පිත්තාශ මල් (gall-flowers) වල පුෂ්ප වෘන්ත මි.මී. 1.5-2.3 ක් දිගය. ගැහැණු මල් වෘන්ත රහිත (sessile) වේ. පත්‍ර තලයේ ඉහළ පෘෂ්ඨයේ සිස්ටොලිත් (cystoliths) බහුලව දක්නට ලැබේ.",
-  "treatments": [
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Ficus krishnae C.DC.",
+    "synonyms": [
+        "Ficus benghalensis var. krishnae (C.DC.) Corner"
+    ],
+    "familyName": "MORACEAE",
+    "englishNames": [
+        "Krishna Fig",
+        "Krishna Bo",
+        "Krishna's Cup",
+        "Krishna's Butter Cup",
+        "Sacred Fig Tree"
+    ],
+    "sinhalaName": "Gotu nuga (ගොටු නුග)",
+    "description": "විශාල නුග ගසකි, පැතිරී යන අතු වලින් මුල් හටගනී, පත්‍ර හැලෙන (deciduous) හෝ සදාහරිත (evergreen) ස්වභාවයක් ගනී. උප පත්‍ර (stipules) ශක්තිමත්ය; පත්‍ර තලය (lamina) සෙ.මී. 10-30 x 7-20 වේ; පත්‍ර වෘන්තය (petiole) මි.මී. 15-70 x 3-6 වේ; බොහෝ හෝ සියලුම පත්‍රවල පහළ භාගයේ පත්‍ර තලයේ දෙපස පිටුපසට නැමී (reflexed) එකිනෙක සම්බන්ධ වී (connate) කුසලාකාර හැඩයක් සාදයි. අත්තික්කා ගෙඩි (figs) වෘන්ත රහිත (sessile), පත්‍ර අක්ෂවල හටගන්නා, යුගල වශයෙන් පිහිටි, ඉදුණු විට තැඹිලි සිට රතු පැහැයට හැරේ; ගෙඩියේ දේහය මි.මී. 14-17 ක් පළලය (ජීවී අවස්ථාවේ මි.මී. 15-20 x 21-25). පිරිමි මල්වල පුෂ්ප වෘන්ත (pedicels) මි.මී. 1.5-2.3 ක් දිගය. පිත්තාශ මල් (gall-flowers) වල පුෂ්ප වෘන්ත මි.මී. 1.5-2.3 ක් දිගය. ගැහැණු මල් වෘන්ත රහිත (sessile) වේ. පත්‍ර තලයේ ඉහළ පෘෂ්ඨයේ සිස්ටොලිත් (cystoliths) බහුලව දක්නට ලැබේ.",
+    "treatments": [
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bruises",
+            "sinhala": "තැලීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cracked Feet",
+            "sinhala": "පාද සහ යටිපතුල් පැලීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "880",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/qKK9KNm/plant00859-00880.jpg"
+        },
+        {
+            "image_id": "881",
+            "caption": "Twig",
+            "url": "https://i.ibb.co/b46cMQM/plant00859-00881.jpg"
+        },
+        {
+            "image_id": "882",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/spytT5d4/plant00859-00882.jpg"
+        },
+        {
+            "image_id": "3778",
+            "caption": "Young Fruits (PMR)",
+            "url": "https://i.ibb.co/8gpmDyQ0/plant00859-03778.jpg"
+        },
+        {
+            "image_id": "3779",
+            "caption": "Leaf - upper surface (PMR)",
+            "url": "https://i.ibb.co/TxtFhBzX/plant00859-03779.jpg"
+        },
+        {
+            "image_id": "3780",
+            "caption": "Leaf - lower surface (PMR)",
+            "url": "https://i.ibb.co/N6nS4JzV/plant00859-03780.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ගොටුකොල පොඩි ඉඩක පහසුවෙන් වවාගන්නේ මෙහෙමයි | Home Gardening Gotukola Tips l Beginner Gardening Guide",
+                "url": "https://youtube.com/watch?v=XC2ATvAR8R4",
+                "duration": "9:40",
+                "thumbnail": "https://i.ytimg.com/vi/XC2ATvAR8R4/hq720.jpg"
+            },
+            {
+                "title": "ගොටු කොළවල තියෙන සුපිරිම ගුණ ඔයාලා දන්නවද?  ගොඩාක් ලෙඩවලට හොදම බෙහෙතක්. #ගොටුකොළ #gotukola",
+                "url": "https://youtube.com/watch?v=L15P4zMA-gI",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/L15P4zMA-gI/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ වැඩිපුර ආහාරයට ගත්තොත් මොකද වෙන්නේ - health benefits of gotu kola",
+                "url": "https://youtube.com/watch?v=lB6UVx25PCc",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lB6UVx25PCc/hqdefault.jpg"
+            },
+            {
+                "title": "Gotukola and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LcQ_lwSLdIA",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/LcQ_lwSLdIA/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද ඖෂධයක් ලෙස ඉතාමත් ප්‍රයෝජනවත් ගොටුකොළ",
+                "url": "https://youtube.com/watch?v=IJk4Yn-fcUI",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/IJk4Yn-fcUI/hq720.jpg"
+            },
+            {
+                "title": "Rividina Arunella | ගොටුකොල හරියටම හදන්නේ මෙහෙමයි | රිවිදින අරුණැල්ල",
+                "url": "https://youtube.com/watch?v=yZUWc_XpYOs",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/yZUWc_XpYOs/hq720.jpg"
+            },
+            {
+                "title": "සාර්ථක කාබනික ගොටුකොළ වගාව | අස්වැන්න දෙගුණයක් | ගොටුකොළ | Tharaka Jayasinghe| leafy vegetables",
+                "url": "https://youtube.com/watch?v=UAL008k5USs",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/UAL008k5USs/hq720.jpg"
+            },
+            {
+                "title": "හයිඩ්‍රොපොනික් ගොටුකොල වගාව.දින 28න් අස්වනු නෙලන්න. (how to make  hydroponic unit)",
+                "url": "https://youtube.com/watch?v=DDNvhEQQshk",
+                "duration": "30:19",
+                "thumbnail": "https://i.ytimg.com/vi/DDNvhEQQshk/hq720.jpg"
+            },
+            {
+                "title": "මතක ශක්තිය වර්දනය කරන ගොටුකොළ වල විශ්මිත ගුණ - A super food that boosts memory",
+                "url": "https://youtube.com/watch?v=jy8Zp6L_RZk",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/jy8Zp6L_RZk/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොල කැඳවල ඇති විස්මිත ගුණ Amazing properties of gotukola porridge",
+                "url": "https://youtube.com/watch?v=t2A24IOIobY",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/t2A24IOIobY/hqdefault.jpg"
+            },
+            {
+                "title": "Gotukola| ගොටුකොළ සතු විශ්මිත ගුණ ☘️🌿",
+                "url": "https://youtube.com/watch?v=UGow-SiOzqk",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/UGow-SiOzqk/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ කෑවට මේ ගැන දැන සිට්යෙ නෑ නේද | Gotukola | Centrella Asiatica benefits🌿",
+                "url": "https://youtube.com/watch?v=zVp5YK4hHHw",
+                "duration": "3:43",
+                "thumbnail": "https://i.ytimg.com/vi/zVp5YK4hHHw/hq720.jpg"
+            },
+            {
+                "title": "#Aratuwa# Gotukola # ගොටුකොළවල ගුණ ඔබ දන්නවාද #",
+                "url": "https://youtube.com/watch?v=LatcXZZ0Dl4",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/LatcXZZ0Dl4/hq720.jpg"
+            },
+            {
+                "title": "පීනසට ප්‍රත්‍යක්‍ෂ ගොටුකොළ පානය හදාගන්නෙ මෙහෙමයි - වෛද්‍ය දුමින්ද රණවීර - The Leaf Of Life",
+                "url": "https://youtube.com/watch?v=ak-ooAjNQEk",
+                "duration": "4:52",
+                "thumbnail": "https://i.ytimg.com/vi/ak-ooAjNQEk/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ දවස් 14ක් කෑවොත් මොළයට සහ සමට වෙන මැජික් එක! | Science of Gotu Kola (Sinhala)",
+                "url": "https://youtube.com/watch?v=abZ4CG02CBQ",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/abZ4CG02CBQ/hq720.jpg"
+            },
+            {
+                "title": "advantages of eating gotukola centella acitika sinhala",
+                "url": "https://youtube.com/watch?v=tEJJJc2KcIo",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/tEJJJc2KcIo/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම උදේට මේ විදියට ගොටුකොල පානය බී බලන්න - සිදුවන දෙය ඔබටවත් හිතාගත නොහැකියි",
+                "url": "https://youtube.com/watch?v=QtyHyLznVX4",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/QtyHyLznVX4/hq720.jpg"
+            },
+            {
+                "title": "ආයුර්වේද යට අනුව බුද්ධිය වඩවන ප්‍රධානම ශාක දෙක | ලුනිවිල සහ ගොටුකොළ | Dr.Nalaka Lakruwan",
+                "url": "https://youtube.com/watch?v=RwrfzHnFm6M",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/RwrfzHnFm6M/hq720.jpg"
+            },
+            {
+                "title": "63 පිරිසිදුකමට පලමු තැන . කාබනික ගොටුකොල වගාව how to plant gotukola in pot",
+                "url": "https://youtube.com/watch?v=G-n7EU23rPY",
+                "duration": "7:29",
+                "thumbnail": "https://i.ytimg.com/vi/G-n7EU23rPY/hq720.jpg"
+            },
+            {
+                "title": "How to grow GOTU KOLA (Centella asiatica) at Home",
+                "url": "https://youtube.com/watch?v=hr5Ktjyl_AA",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/hr5Ktjyl_AA/hq720.jpg"
+            },
+            {
+                "title": "ලක්ෂ ගණන් වටින Brain Supplement එකට වඩා බලවත් ගොටුකොළ! 😱🌿",
+                "url": "https://youtube.com/watch?v=GB2SkXtyi68",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/GB2SkXtyi68/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළවල ඖෂධීය ගුණයන්|Nutritional values of pennywort|gotukola",
+                "url": "https://youtube.com/watch?v=bbpGVPrufFI",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/bbpGVPrufFI/hqdefault.jpg"
+            },
+            {
+                "title": "ගුණ පිරි ගොටුකොළ",
+                "url": "https://youtube.com/watch?v=YWyADLwogjo",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/YWyADLwogjo/hqdefault.jpg"
+            },
+            {
+                "title": "නිරෝගීව ඉන්න නම් අනිවාර්යයෙන්ම කන්න ඕන පලා වර්ග දෙකක් - ගොටුකොළ සහ කංකුන්.",
+                "url": "https://youtube.com/watch?v=eMtYA7rBdFc",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/eMtYA7rBdFc/hq720.jpg"
+            },
+            {
+                "title": "මූණේ ලප කැළැල් නැති කරවන ගොටුකොළ! ගොටුකොළවල ඇති විශ්මිත ගුණ ගැන වෛද්‍යවරයා සියල්ල හෙළිකරයි!",
+                "url": "https://youtube.com/watch?v=OY19hqyyxX0",
+                "duration": "17:44",
+                "thumbnail": "https://i.ytimg.com/vi/OY19hqyyxX0/hq720.jpg"
+            },
+            {
+                "title": "ගුණය අහකදාන්නේ නැතිව මෙහෙම හදාගන්න  ගොටුකොළ පාණය Gotukola Drink Benefit of Gotukola Kusala's Simple",
+                "url": "https://youtube.com/watch?v=sBClRaqZxzk",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/sBClRaqZxzk/hqdefault.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ වගා කරමු! නිරෝගී දිවියකට ගොටුකොළ වල පුදුම ගුණ | Gotu Kola Benefits 🍃",
+                "url": "https://youtube.com/watch?v=pdDEfEOvljg",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/pdDEfEOvljg/hqdefault.jpg"
+            },
+            {
+                "title": "ගොටුකොළ වැඩිපුර ආහාරයට ගත්තොත් මොකද වෙන්නේ - health benefits of gotu kola",
+                "url": "https://youtube.com/watch?v=ThGPS6Uu55M",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/ThGPS6Uu55M/frame0.jpg"
+            },
+            {
+                "title": "ඕනම රටක ඕනම පලාතක ගොටු කොල වවන්න මේ ක්‍රමයෙන් පුලුවන්  | මේ අමුද්‍රව්‍ය දෙක අත්‍යවශ්‍යයි",
+                "url": "https://youtube.com/watch?v=hHAyG0sQLJw",
+                "duration": "15:24",
+                "thumbnail": "https://i.ytimg.com/vi/hHAyG0sQLJw/hqdefault.jpg"
+            },
+            {
+                "title": "Native Remedies Ingredient Profile - Gotu Kola",
+                "url": "https://youtube.com/watch?v=mmbNsAm2Fk8",
+                "duration": "0:37",
+                "thumbnail": "https://i.ytimg.com/vi/mmbNsAm2Fk8/hq720.jpg"
+            },
+            {
+                "title": "මෙය ඇසුවොත් ඔබ දිනපතාම ගොටුකොල කෝප්පයක් පානය කරයි - You will drink a cup of gotukola every day.",
+                "url": "https://youtube.com/watch?v=fzi1PgXR0Vo",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/fzi1PgXR0Vo/hq720.jpg"
+            },
+            {
+                "title": "Gotu Kola: The Secret Weapon To Fight Cellulite, Varicose Veins and More",
+                "url": "https://youtube.com/watch?v=_3GaUHt9wTA",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/_3GaUHt9wTA/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ ශාකය ගැන හැමදේම  (All things about Gotukola) සංඝටක, ගුණාගුණ, අත් බෙහෙත්, ආහාර පාන, වගා කිරීම",
+                "url": "https://youtube.com/watch?v=GyL-6SCr-W0",
+                "duration": "12:16",
+                "thumbnail": "https://i.ytimg.com/vi/GyL-6SCr-W0/hq720.jpg"
+            },
+            {
+                "title": "ගොටුකොළ මිටක යුෂ සමග මී පැණි හැන්දක් කලවම් කර පානය කලොත් වෙනදේ මෙන්න..!",
+                "url": "https://youtube.com/watch?v=oNhipeZr5y0",
+                "duration": "6:29",
+                "thumbnail": "https://i.ytimg.com/vi/oNhipeZr5y0/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Bruises",
-      "sinhala": "තැලීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cracked Feet",
-      "sinhala": "පාද සහ යටිපතුල් පැලීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "880",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/qKK9KNm/plant00859-00880.jpg"
-    },
-    {
-      "image_id": "881",
-      "caption": "Twig",
-      "url": "https://i.ibb.co/b46cMQM/plant00859-00881.jpg"
-    },
-    {
-      "image_id": "882",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/spytT5d4/plant00859-00882.jpg"
-    },
-    {
-      "image_id": "3778",
-      "caption": "Young Fruits (PMR)",
-      "url": "https://i.ibb.co/8gpmDyQ0/plant00859-03778.jpg"
-    },
-    {
-      "image_id": "3779",
-      "caption": "Leaf - upper surface (PMR)",
-      "url": "https://i.ibb.co/TxtFhBzX/plant00859-03779.jpg"
-    },
-    {
-      "image_id": "3780",
-      "caption": "Leaf - lower surface (PMR)",
-      "url": "https://i.ibb.co/N6nS4JzV/plant00859-03780.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

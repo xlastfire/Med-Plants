@@ -1,196 +1,537 @@
 {
-  "scientificName": "Momordica charantia L.",
-  "synonyms": [
-    "Cucumis argyi H.Lév.",
-    "Cucumis intermedius M.Roem.",
-    "Momordica anthelmintica Schumach. & Thonn.",
-    "Momordica charantia f. abbreviata (Ser.) W.J.de Wilde & Duyfjes",
-    "Momordica charantia f. muricata (Willd.) V.P.Prasad",
-    "Momordica charantia subsp. abbreviata (Ser.) Greb.",
-    "Momordica charantia var. abbreviata Ser.",
-    "Momordica charantia var. longirostrata Cogn.",
-    "Momordica charantia var. muricata (Willd.) Chakrav.",
-    "Momordica charantia var. pseudobalsamina Griseb.",
-    "Momordica charantia var. zeylanica Hitchc.",
-    "Momordica chinensis Anon.",
-    "Momordica cylindrica Blanco",
-    "Momordica elegans Salisb.",
-    "Momordica humilis Wall.",
-    "Momordica indica L.",
-    "Momordica jagorana K.Koch",
-    "Momordica martinicensis Hook.",
-    "Momordica muricata Willd.",
-    "Momordica papillosa Peckolt ex Rosenthal",
-    "Momordica roxburghiana G.Don",
-    "Momordica senegalensis Lam.",
-    "Momordica sinensis Anon.",
-    "Momordica thollonii Cogn.",
-    "Momordica zeylanica Mill.",
-    "Sicyos fauriei H.Lév."
-  ],
-  "familyName": "CUCURBITACEAE",
-  "englishNames": [
-    "Bitter Gourd",
-    "Bitter Melon",
-    "Bitter Cucumber",
-    "Balsam Pear",
-    "Leprosy Gour"
-  ],
-  "sinhalaName": "Karawila (කරවිල)",
-  "description": "වාර්ෂික හෝ බහුවාර්ෂික, ඒකලිංගික (monoecious); කඳ පැළෑටිමය (herbaceous), කෝණ 4-5කින් යුක්තය; ප්‍රරෝහ (tendrils) සරලය. පත්‍ර දිගු වෘන්ත සහිතය (long-petiolate); පත්‍ර තලය (lamina) සෙ.මී. 4-10 x 5-10 වන අතර, අත්ලක හැඩයට ගැඹුරින් ඛණ්ඩනය වූ (palmately lobed) 5-7(-9) පෙති සහිතය, පාදම ගැඹුරින් හෘදයාකාරය (deeply cordate); පත්‍ර වෘන්තය (petiole) සෙ.මී. 3.5-7.5ක් දිගය. මල් ලා පැහැයේ සිට තැඹිලි-කහ පැහැය දක්වා වේ. ඵලය එල්ලෙන සුළුය (pendent), සෙ.මී. 10-25 x 5ක් වන අතර, කේතුකාකාර (conic) හෝ තරමක් ආයත (sub-oblong) හැඩයක් ගනී, ඉදුණු විට තැඹිලි පැහැයට හැරේ, අක්‍රමවත් කපාට (valves) තුනකට පැලී යයි. බීජ දුඹුරු හෝ සුදු පැහැතිය, බීජ රතු පැහැති මදය තුළ වැසී පවතී; බීජ මි.මී. 8-10ක් දිගු වන අතර ආයත (oblong) හැඩයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Momordica charantia L.",
+    "synonyms": [
+        "Cucumis argyi H.Lév.",
+        "Cucumis intermedius M.Roem.",
+        "Momordica anthelmintica Schumach. & Thonn.",
+        "Momordica charantia f. abbreviata (Ser.) W.J.de Wilde & Duyfjes",
+        "Momordica charantia f. muricata (Willd.) V.P.Prasad",
+        "Momordica charantia subsp. abbreviata (Ser.) Greb.",
+        "Momordica charantia var. abbreviata Ser.",
+        "Momordica charantia var. longirostrata Cogn.",
+        "Momordica charantia var. muricata (Willd.) Chakrav.",
+        "Momordica charantia var. pseudobalsamina Griseb.",
+        "Momordica charantia var. zeylanica Hitchc.",
+        "Momordica chinensis Anon.",
+        "Momordica cylindrica Blanco",
+        "Momordica elegans Salisb.",
+        "Momordica humilis Wall.",
+        "Momordica indica L.",
+        "Momordica jagorana K.Koch",
+        "Momordica martinicensis Hook.",
+        "Momordica muricata Willd.",
+        "Momordica papillosa Peckolt ex Rosenthal",
+        "Momordica roxburghiana G.Don",
+        "Momordica senegalensis Lam.",
+        "Momordica sinensis Anon.",
+        "Momordica thollonii Cogn.",
+        "Momordica zeylanica Mill.",
+        "Sicyos fauriei H.Lév."
+    ],
+    "familyName": "CUCURBITACEAE",
+    "englishNames": [
+        "Bitter Gourd",
+        "Bitter Melon",
+        "Bitter Cucumber",
+        "Balsam Pear",
+        "Leprosy Gour"
+    ],
+    "sinhalaName": "Karawila (කරවිල)",
+    "description": "වාර්ෂික හෝ බහුවාර්ෂික, ඒකලිංගික (monoecious); කඳ පැළෑටිමය (herbaceous), කෝණ 4-5කින් යුක්තය; ප්‍රරෝහ (tendrils) සරලය. පත්‍ර දිගු වෘන්ත සහිතය (long-petiolate); පත්‍ර තලය (lamina) සෙ.මී. 4-10 x 5-10 වන අතර, අත්ලක හැඩයට ගැඹුරින් ඛණ්ඩනය වූ (palmately lobed) 5-7(-9) පෙති සහිතය, පාදම ගැඹුරින් හෘදයාකාරය (deeply cordate); පත්‍ර වෘන්තය (petiole) සෙ.මී. 3.5-7.5ක් දිගය. මල් ලා පැහැයේ සිට තැඹිලි-කහ පැහැය දක්වා වේ. ඵලය එල්ලෙන සුළුය (pendent), සෙ.මී. 10-25 x 5ක් වන අතර, කේතුකාකාර (conic) හෝ තරමක් ආයත (sub-oblong) හැඩයක් ගනී, ඉදුණු විට තැඹිලි පැහැයට හැරේ, අක්‍රමවත් කපාට (valves) තුනකට පැලී යයි. බීජ දුඹුරු හෝ සුදු පැහැතිය, බීජ රතු පැහැති මදය තුළ වැසී පවතී; බීජ මි.මී. 8-10ක් දිගු වන අතර ආයත (oblong) හැඩයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Worm diseases",
+            "sinhala": "පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Vaginal Prolapse",
+            "sinhala": "යෝනි මාර්ගය පිටතට පැමිණීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits",
+        "Leaves",
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "910",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/pBbyYFfc/plant00370-00910.jpg"
+        },
+        {
+            "image_id": "911",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/b5grkWXJ/plant00370-00911.jpg"
+        },
+        {
+            "image_id": "1302",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/7tD3ZfdX/plant00370-01302.jpg"
+        },
+        {
+            "image_id": "912",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/FqVLY6dS/plant00370-00912.jpg"
+        },
+        {
+            "image_id": "3539",
+            "caption": "Mature Fruit (PMR)",
+            "url": "https://i.ibb.co/KzG6y763/plant00370-03539.jpg"
+        },
+        {
+            "image_id": "3540",
+            "caption": "Seeds (PMR)",
+            "url": "https://i.ibb.co/zV8F7R2p/plant00370-03540.jpg"
+        },
+        {
+            "image_id": "3541",
+            "caption": "Leaf (PMR)",
+            "url": "https://i.ibb.co/D0kggyJ/plant00370-03541.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මස් වගේ රසට,පාටට කරවිල උයන්නෙ මෙහෙමයි / karawila curry / vegetables recipe 🤤",
+                "url": "https://youtube.com/watch?v=vJEqhTIoG_c",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/vJEqhTIoG_c/hq720.jpg"
+            },
+            {
+                "title": "මේක පුදුම රසක් පාටියකටත් සුදුසු විදියට කරවිල හදන විදිය Karawila  Bitter Gourd Recipe Kusala Simple 😍",
+                "url": "https://youtube.com/watch?v=q1oujPnOFGo",
+                "duration": "6:14",
+                "thumbnail": "https://i.ytimg.com/vi/q1oujPnOFGo/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වගාවක් මෙහෙම කරලා බලමු | karawila wagawa sinhala | Bitter Gourd Cultivation",
+                "url": "https://youtube.com/watch?v=-Vm4NJEFqDU",
+                "duration": "12:11",
+                "thumbnail": "https://i.ytimg.com/vi/-Vm4NJEFqDU/hq720.jpg"
+            },
+            {
+                "title": "මස් වගේ රසට කරවිල කරිය | Bitter Gourd Masala Curry",
+                "url": "https://youtube.com/watch?v=vYzKg9KZTrs",
+                "duration": "7:27",
+                "thumbnail": "https://i.ytimg.com/vi/vYzKg9KZTrs/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත කරවිල රසට උයමු | karawila curry aththammai mamai | Bittergourd curry with English subtitles",
+                "url": "https://youtube.com/watch?v=OyzqeA9spWs",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/OyzqeA9spWs/hq720.jpg"
+            },
+            {
+                "title": "කරවිල මැල්ලුම් | Bitter melon recipe By Grandma & me | karawila malluma",
+                "url": "https://youtube.com/watch?v=Pc1faKGdHA8",
+                "duration": "6:36",
+                "thumbnail": "https://i.ytimg.com/vi/Pc1faKGdHA8/hq720.jpg"
+            },
+            {
+                "title": "කරවිල අනුභව කිරීමෙන් ලැබෙන සෞඛ්‍ය වාසි 7ක් | 07 Health Benefits of Bitter Melon",
+                "url": "https://youtube.com/watch?v=r2TLQPerHIM",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/r2TLQPerHIM/hq720.jpg"
+            },
+            {
+                "title": "කරවිල සම්බෝලයක් රසට හදමුද?, Fried Bitter Gourd/ Bitter Melon Salad.",
+                "url": "https://youtube.com/watch?v=NlAizXf6Lxo",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/NlAizXf6Lxo/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත නැතුව කරවිල කන විදිහ | karavila recipe sinhala | karavila curry | bitter gourd curry",
+                "url": "https://youtube.com/watch?v=_aVf9h6HuFw",
+                "duration": "6:18",
+                "thumbnail": "https://i.ytimg.com/vi/_aVf9h6HuFw/hqdefault.jpg"
+            },
+            {
+                "title": "සුහූරු තාක්ෂණික කරවිල වගාව | karawila wagawa sinhala | Bitter Gourd Cultivation",
+                "url": "https://youtube.com/watch?v=NE_Ty9pt33E",
+                "duration": "53:34",
+                "thumbnail": "https://i.ytimg.com/vi/NE_Ty9pt33E/hq720.jpg"
+            },
+            {
+                "title": "Wild bitter gourd || කැලෑ කරවිල මේ විදිහට හදන්න",
+                "url": "https://youtube.com/watch?v=Qy4Y5n8Zcn0",
+                "duration": "5:06",
+                "thumbnail": "https://i.ytimg.com/vi/Qy4Y5n8Zcn0/hq720.jpg"
+            },
+            {
+                "title": "Small Bitter Gourd බටු කරවිල(Batu Krawila) / Momordica charantia",
+                "url": "https://youtube.com/watch?v=WlizpULeotY",
+                "duration": "10:36",
+                "thumbnail": "https://i.ytimg.com/vi/WlizpULeotY/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත නැතුව රසට හදන කරවිල බැදුම / #bitter recipe",
+                "url": "https://youtube.com/watch?v=OWUjPci-Cy8",
+                "duration": "7:08",
+                "thumbnail": "https://i.ytimg.com/vi/OWUjPci-Cy8/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ කරවිලවල ඇත්ත නැත්ත | Bitter Melon For Blood Sugar By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0SdTXNz-LDE",
+                "duration": "12:53",
+                "thumbnail": "https://i.ytimg.com/vi/0SdTXNz-LDE/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත කතාවේ ඇත්තම ඇත්ත...කරවිල ගුණ 🌳☘️🌱",
+                "url": "https://youtube.com/watch?v=-Zmq3k0EaNY",
+                "duration": "2:05",
+                "thumbnail": "https://i.ytimg.com/vi/-Zmq3k0EaNY/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වල විශ්මිත ගුණ - Health Vedeo",
+                "url": "https://youtube.com/watch?v=HGhcF-itmLI",
+                "duration": "4:37",
+                "thumbnail": "https://i.ytimg.com/vi/HGhcF-itmLI/hq720.jpg"
+            },
+            {
+                "title": "Spiny gourd health benefits : සියලු රෝග නිවාරණයට තුඹ කරවිල වැඩි වැඩියෙන් කමු",
+                "url": "https://youtube.com/watch?v=S8AgL5XK0oI",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/S8AgL5XK0oI/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකටම ගුණ දෙන කරවිල පානය හදන හරිම ක්‍රමය | How to Make a Bitter Melon Bitter Gourd Juice",
+                "url": "https://youtube.com/watch?v=s-eLIM7pMLQ",
+                "duration": "6:51",
+                "thumbnail": "https://i.ytimg.com/vi/s-eLIM7pMLQ/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත උනත් කරවිලවල ඇති ඇත්ත කතාව බලන්න/bitter gourd/world knowledge/sinhala",
+                "url": "https://youtube.com/watch?v=3dJiYeznRyI",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/3dJiYeznRyI/hqdefault.jpg"
+            },
+            {
+                "title": "කරවිල වල පුදුම ගුණ 6ක් 😲 | Sugar Control Natural! | Sinhala Health Tips",
+                "url": "https://youtube.com/watch?v=7IZpICoMrb0",
+                "duration": "19:34",
+                "thumbnail": "https://i.ytimg.com/vi/7IZpICoMrb0/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වල කවුරුත් නොදන්න රහස | Benefits of Bitter Gourd, Bitter melon for diabetes | Karawila guna",
+                "url": "https://youtube.com/watch?v=qD8YpmKE0KM",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/qD8YpmKE0KM/hq720.jpg"
+            },
+            {
+                "title": "පිළිකාවලට ගුණදෙන කරවිල - පේරාදෙණිය විශ්වවිද්‍යාල පරීක්ෂණයකින් තහවුරු වෙයි",
+                "url": "https://youtube.com/watch?v=lo68Y7NkLlc",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/lo68Y7NkLlc/hqdefault.jpg"
+            },
+            {
+                "title": "ලෙඩරෝග සුව කරන කරවිල වල විශ්මිත ගුණ | Bitter Gourd | Bitter Melon",
+                "url": "https://youtube.com/watch?v=yfHB7th4mbY",
+                "duration": "5:21",
+                "thumbnail": "https://i.ytimg.com/vi/yfHB7th4mbY/hqdefault.jpg"
+            },
+            {
+                "title": "කරවිල වල විශ්මිත ගුණ - benefits of Bitter Gourd #subscribe#colombo#srilanka",
+                "url": "https://youtube.com/watch?v=hv3sVEtMSnY",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/hv3sVEtMSnY/hq720.jpg"
+            },
+            {
+                "title": "Bitter Gourd for Blood Sugar | Karavila By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=f45AC3K1NpI",
+                "duration": "15:33",
+                "thumbnail": "https://i.ytimg.com/vi/f45AC3K1NpI/hq720.jpg"
+            },
+            {
+                "title": "Bitter Gourd & Diabetes By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=ZODs3lHJtVo",
+                "duration": "10:56",
+                "thumbnail": "https://i.ytimg.com/vi/ZODs3lHJtVo/hq720.jpg"
+            },
+            {
+                "title": "හැමෝම තිත්තයි කියන කරවිල කෑවොත් | Bitter melon benefits🌿",
+                "url": "https://youtube.com/watch?v=FLyBaMViMGE",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/FLyBaMViMGE/hqdefault.jpg"
+            },
+            {
+                "title": "කරවිල වල ඇති ගුණ 10 ක් | කරවිල වල ඇති ගුණ | කරවිල | Properties of Bitter Gourd | sehas academy |",
+                "url": "https://youtube.com/watch?v=0O9D_h_Wspk",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/0O9D_h_Wspk/hqdefault.jpg"
+            },
+            {
+                "title": "කරවිල කන්න කොහොම හරි හිත හදාගන්න - Health effects of bitter gourd",
+                "url": "https://youtube.com/watch?v=oj8AFJp7QsU",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/oj8AFJp7QsU/hq720.jpg"
+            },
+            {
+                "title": "ආරක්‍ෂිත ගෘහයක් තුල කරවිල වගාව | Bitter Gourd Cultivation | Polytunnel Cultivation | Aswanna",
+                "url": "https://youtube.com/watch?v=cWJ3ewrESg8",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/cWJ3ewrESg8/hq720.jpg"
+            },
+            {
+                "title": "Episode 68  බටු කරවිල වැලක් ගෙවත්තට",
+                "url": "https://youtube.com/watch?v=1_MNrrhZ7Vk",
+                "duration": "6:57",
+                "thumbnail": "https://i.ytimg.com/vi/1_MNrrhZ7Vk/hq720.jpg"
+            },
+            {
+                "title": "Cultivation of sweetened bitter gourd - පැණිරස වුනු කරවිල වගාව",
+                "url": "https://youtube.com/watch?v=VJIoAyWP0uI",
+                "duration": "1:03",
+                "thumbnail": "https://i.ytimg.com/vi/VJIoAyWP0uI/hq720.jpg"
+            },
+            {
+                "title": "අත මිට සරු කරන බටු කරවිල",
+                "url": "https://youtube.com/watch?v=Zsu30XWuo0o",
+                "duration": "2:55",
+                "thumbnail": "https://i.ytimg.com/vi/Zsu30XWuo0o/hqdefault.jpg"
+            },
+            {
+                "title": "කරවිල වගාව karawila wagawa Bitter gourd cultivation Home gardening ගෙවතු වගාව Organic gardening",
+                "url": "https://youtube.com/watch?v=F35b9W2sTSw",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/F35b9W2sTSw/hqdefault.jpg"
+            },
+            {
+                "title": "Bitter gourd harvest in the organic garden කාබනික ගෙවතුවගාවේ කරවිල අස්වැන්න How to grow bitter gourd",
+                "url": "https://youtube.com/watch?v=9TbHbn4N4pM",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/9TbHbn4N4pM/hq720.jpg"
+            },
+            {
+                "title": "කරවිල ගැන දැනගත යුතුම දේවල් - Bitter Gourd",
+                "url": "https://youtube.com/watch?v=COkmymCEfeo",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/COkmymCEfeo/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වැල් වැටක්‍රමයට යවමු Support Bitter Melon plan,ගෙවතු වගාව ,gewathu wagawa ,kabanika wagawa,",
+                "url": "https://youtube.com/watch?v=yFLPZATyqdk",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/yFLPZATyqdk/hq720.jpg"
+            },
+            {
+                "title": "03.කරවිල වගාවේ වෛරස් රෝග හා රෝග ලක්ෂණ හදුනාගමු. Diseases and symptoms of bitter gourd cultivation.",
+                "url": "https://youtube.com/watch?v=C6oGWOVu3RA",
+                "duration": "8:32",
+                "thumbnail": "https://i.ytimg.com/vi/C6oGWOVu3RA/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වගාව / karawila wagawa / karavila wagawa/ Gourd Cultivation srilanka",
+                "url": "https://youtube.com/watch?v=qSHy4kSK520",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/qSHy4kSK520/hqdefault.jpg"
+            },
+            {
+                "title": "කරවිල | වල ගුණ පිළිබද ඔබ දැනගෙන හිටියාද? හෘදයාබාධ හා හදිසි ආබාධ ඇති කිරීම වළකනවා. Bitter Gourd",
+                "url": "https://youtube.com/watch?v=bWMlkrbd1Dc",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/bWMlkrbd1Dc/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට ගුණ දෙන කරවිල තිත්ත යවලා ඔසු ගුණ රැකෙන විදිහට උයාගන්න ක්‍රමයක් | karawila uyana hati",
+                "url": "https://youtube.com/watch?v=qiRlj8ViLS8",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/qiRlj8ViLS8/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වල විෂ්මිත ගුණ/ Karavila wala guna/hethuwa",
+                "url": "https://youtube.com/watch?v=ljrwPJXh1-U",
+                "duration": "4:55",
+                "thumbnail": "https://i.ytimg.com/vi/ljrwPJXh1-U/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වගාවේ ඉල් මැස්සා,ගඩු මැස්සා පාලනය.#bittergourd #pest #agriculture",
+                "url": "https://youtube.com/watch?v=IasCpBhgnHc",
+                "duration": "8:35",
+                "thumbnail": "https://i.ytimg.com/vi/IasCpBhgnHc/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වැලක් ගෙවත්තේ පහසුවෙන් වගා කරල හොඳ ඵලදාවක් ගන්න විදිහ | Karawila gewathu wagawa | කරවිල වගාව",
+                "url": "https://youtube.com/watch?v=XGwmAEUQORY",
+                "duration": "22:01",
+                "thumbnail": "https://i.ytimg.com/vi/XGwmAEUQORY/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල වගාව මුල සිට අග දක්වා සියලු උපදෙස් | thumba karawila wagawa sinhala | Sweet Bitter Gourd",
+                "url": "https://youtube.com/watch?v=I1LSpsgMsfA",
+                "duration": "41:35",
+                "thumbnail": "https://i.ytimg.com/vi/I1LSpsgMsfA/hq720.jpg"
+            },
+            {
+                "title": "කරවිල වල ඇති මෙම අරුම පුදුම ගුණය ගැන ඔබ නොදන්නා රහස්.",
+                "url": "https://youtube.com/watch?v=BBUI9kucY2s",
+                "duration": "5:16",
+                "thumbnail": "https://i.ytimg.com/vi/BBUI9kucY2s/hq720.jpg"
+            },
+            {
+                "title": "කරවිල ආහාරයට ගැනීමෙන් ශරීරයට ලැබෙන විශ්මිත වාසි | Health Benefits of Karawila",
+                "url": "https://youtube.com/watch?v=pwZ1EJl60TE",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/pwZ1EJl60TE/hq720.jpg"
+            },
+            {
+                "title": "Ampalaya (Bitter Melons): Health Benefits & Risks - Dr. Gary Sy",
+                "url": "https://youtube.com/watch?v=ChhT9PQ-0ck",
+                "duration": "28:36",
+                "thumbnail": "https://i.ytimg.com/vi/ChhT9PQ-0ck/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් කරවිල ආහාරයට ගන්නවා නම් මේ ගැන අනිවාරයෙන්ම දැනගන්න.",
+                "url": "https://youtube.com/watch?v=VUJbDhERV-4",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/VUJbDhERV-4/hq720.jpg"
+            },
+            {
+                "title": "කරවිල සහ දියවැඩියාව | කරවිල වලින් සීනි පාලනය කරන්නේ කොහොම ද ? | Benefits of Bitter Gourd/ Karawila",
+                "url": "https://youtube.com/watch?v=j66Gk4BZ-mE",
+                "duration": "23:12",
+                "thumbnail": "https://i.ytimg.com/vi/j66Gk4BZ-mE/hq720.jpg"
+            },
+            {
+                "title": "BITTER MELON / CARAILLI / CERASEE/ KARELA TEA and its health benefits",
+                "url": "https://youtube.com/watch?v=gx2qAZWWvoY",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/gx2qAZWWvoY/hq720.jpg"
+            },
+            {
+                "title": "Bitter Melon's Brilliant Health Benefits (Karela)",
+                "url": "https://youtube.com/watch?v=OHGeay4T85M",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/OHGeay4T85M/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Bitter Leaf Health Benefits ( & SIDE EFFECTS)",
+                "url": "https://youtube.com/watch?v=qtQZNnaVCDQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/qtQZNnaVCDQ/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකින් බේරෙන්න නම් කරවිල අනිවාර්යෙන්ම කෑමට එකතුකරගන්න වෙනවා",
+                "url": "https://youtube.com/watch?v=j2vUycvCAVg",
+                "duration": "12:30",
+                "thumbnail": "https://i.ytimg.com/vi/j2vUycvCAVg/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත නැති තුඹ වල ගුණ අගුණ සමෙහි ඇති වන ආසාදනයන්ට තිත baby bottle gourd benefits",
+                "url": "https://youtube.com/watch?v=WOUOlSpAplM",
+                "duration": "4:07",
+                "thumbnail": "https://i.ytimg.com/vi/WOUOlSpAplM/hq720.jpg"
+            },
+            {
+                "title": "කරවිල මගින් ලැබෙන විශ්මිත ගුණ ■ Amazing Properties Of Bitter Gourd",
+                "url": "https://youtube.com/watch?v=sbQ5f-boX4U",
+                "duration": "5:21",
+                "thumbnail": "https://i.ytimg.com/vi/sbQ5f-boX4U/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Worm diseases",
-      "sinhala": "පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Vaginal Prolapse",
-      "sinhala": "යෝනි මාර්ගය පිටතට පැමිණීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits",
-    "Leaves",
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "910",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/pBbyYFfc/plant00370-00910.jpg"
-    },
-    {
-      "image_id": "911",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/b5grkWXJ/plant00370-00911.jpg"
-    },
-    {
-      "image_id": "1302",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/7tD3ZfdX/plant00370-01302.jpg"
-    },
-    {
-      "image_id": "912",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/FqVLY6dS/plant00370-00912.jpg"
-    },
-    {
-      "image_id": "3539",
-      "caption": "Mature Fruit (PMR)",
-      "url": "https://i.ibb.co/KzG6y763/plant00370-03539.jpg"
-    },
-    {
-      "image_id": "3540",
-      "caption": "Seeds (PMR)",
-      "url": "https://i.ibb.co/zV8F7R2p/plant00370-03540.jpg"
-    },
-    {
-      "image_id": "3541",
-      "caption": "Leaf (PMR)",
-      "url": "https://i.ibb.co/D0kggyJ/plant00370-03541.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

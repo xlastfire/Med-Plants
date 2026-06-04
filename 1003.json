@@ -1,123 +1,494 @@
 {
-  "scientificName": "Bambusa bambos (L.) Voss",
-  "synonyms": [
-    "Arundarbor agrestis (Lour.) Kuntze",
-    "Arundarbor arundinacea (Retz.) Kuntze",
-    "Arundarbor bambos (L.) Kuntze",
-    "Arundarbor maxima (Poir.) Kuntze",
-    "Arundarbor orientalis (Nees) Kuntze",
-    "Arundo agrestis Lour.",
-    "Arundo arborea Mill.",
-    "Arundo bambos L.",
-    "Arundo bambu Lour.",
-    "Arundo excelsa Salisb.",
-    "Arundo indica Noronha",
-    "Arundo maxima Lour.",
-    "Bambos agrestis (Lour.) Poir.",
-    "Bambos arundinacea Retz.",
-    "Bambos arundo J.F.Gmel.",
-    "Bambos bambos (L.) W.F.Wright",
-    "Bambos maxima Poir.",
-    "Bambos quinqueflora Stokes",
-    "Bambusa agrestis (Lour.) Steud.",
-    "Bambusa arundinacea (Retz.) Willd.",
-    "Bambusa arundinacea var. gigantea Bahadur",
-    "Bambusa arundinacea var. orientalis (Nees) Gamble",
-    "Bambusa arundo J.F.Gmel.",
-    "Bambusa bambos f. gigantea (Bahadur) S.S.Jain & S.Biswas",
-    "Bambusa bambos var. gigantea (Bahadur) Benn.& R.C.Gaur",
-    "Bambusa bambusa Huth",
-    "Bambusa indica André",
-    "Bambusa maxima (Poir.) Steud.",
-    "Bambusa neesiana Arn. ex Munro",
-    "Bambusa orientalis Nees",
-    "Gigantochloa maxima (Poir.) Kurz",
-    "Ischurochloa arundinacea var. orientalis (Nees) Buse",
-    "Nastus arundiaceus (Retz.) Coyte",
-    "Nastus arundinaceus (Retz.) Sm."
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Spiny Bamboo",
-    "Giant Thorny Bamboo",
-    "Indian Thorny Bamboo",
-    "Male Bamboo",
-    "Spring Bamboo"
-  ],
-  "sinhalaName": "Katu una (කටු උණ)",
-  "description": "මෙම ශාක sympoidal, pachymorph රයිසෝමයකින් (rhizome) හටගන්නා unicaespitose ස්වභාවයක් ගනී. කඳන් ශක්තිමත්, සිලින්ඩරාකාර, ඇතුළත හිස්, සෘජු වන අතර මීටර් 30ක් දක්වා උසට වැඩේ. විෂ්කම්භය සෙන්ටිමීටර 5-10ක් වන අතර සියලුම ගැටවලින් (nodes) අතු හටගනී. පහළ ගැටවලින් හටගන්නා අතු පහළට නැමුණු ස්වභාවයක් ගන්නා අතර, ඉහළ අතු තිරස්ව හෝ ඉහළට විහිදී මෘදු ලෙස නැමුණු විදුලි පංකාවක හැඩැති පත්‍ර සමූහයක් සාදයි. පහළ ඇති පැටලුණු අතු කටු වැනි වන අතර, ඉහළ පත්‍ර සහිත අතුවල කුඩා කටු දක්නට ලැබේ. කඳන් තද කොළ පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Vitiligo",
-      "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Bambusa bambos (L.) Voss",
+    "synonyms": [
+        "Arundarbor agrestis (Lour.) Kuntze",
+        "Arundarbor arundinacea (Retz.) Kuntze",
+        "Arundarbor bambos (L.) Kuntze",
+        "Arundarbor maxima (Poir.) Kuntze",
+        "Arundarbor orientalis (Nees) Kuntze",
+        "Arundo agrestis Lour.",
+        "Arundo arborea Mill.",
+        "Arundo bambos L.",
+        "Arundo bambu Lour.",
+        "Arundo excelsa Salisb.",
+        "Arundo indica Noronha",
+        "Arundo maxima Lour.",
+        "Bambos agrestis (Lour.) Poir.",
+        "Bambos arundinacea Retz.",
+        "Bambos arundo J.F.Gmel.",
+        "Bambos bambos (L.) W.F.Wright",
+        "Bambos maxima Poir.",
+        "Bambos quinqueflora Stokes",
+        "Bambusa agrestis (Lour.) Steud.",
+        "Bambusa arundinacea (Retz.) Willd.",
+        "Bambusa arundinacea var. gigantea Bahadur",
+        "Bambusa arundinacea var. orientalis (Nees) Gamble",
+        "Bambusa arundo J.F.Gmel.",
+        "Bambusa bambos f. gigantea (Bahadur) S.S.Jain & S.Biswas",
+        "Bambusa bambos var. gigantea (Bahadur) Benn.& R.C.Gaur",
+        "Bambusa bambusa Huth",
+        "Bambusa indica André",
+        "Bambusa maxima (Poir.) Steud.",
+        "Bambusa neesiana Arn. ex Munro",
+        "Bambusa orientalis Nees",
+        "Gigantochloa maxima (Poir.) Kurz",
+        "Ischurochloa arundinacea var. orientalis (Nees) Buse",
+        "Nastus arundiaceus (Retz.) Coyte",
+        "Nastus arundinaceus (Retz.) Sm."
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Spiny Bamboo",
+        "Giant Thorny Bamboo",
+        "Indian Thorny Bamboo",
+        "Male Bamboo",
+        "Spring Bamboo"
+    ],
+    "sinhalaName": "Katu una (කටු උණ)",
+    "description": "මෙම ශාක sympoidal, pachymorph රයිසෝමයකින් (rhizome) හටගන්නා unicaespitose ස්වභාවයක් ගනී. කඳන් ශක්තිමත්, සිලින්ඩරාකාර, ඇතුළත හිස්, සෘජු වන අතර මීටර් 30ක් දක්වා උසට වැඩේ. විෂ්කම්භය සෙන්ටිමීටර 5-10ක් වන අතර සියලුම ගැටවලින් (nodes) අතු හටගනී. පහළ ගැටවලින් හටගන්නා අතු පහළට නැමුණු ස්වභාවයක් ගන්නා අතර, ඉහළ අතු තිරස්ව හෝ ඉහළට විහිදී මෘදු ලෙස නැමුණු විදුලි පංකාවක හැඩැති පත්‍ර සමූහයක් සාදයි. පහළ ඇති පැටලුණු අතු කටු වැනි වන අතර, ඉහළ පත්‍ර සහිත අතුවල කුඩා කටු දක්නට ලැබේ. කඳන් තද කොළ පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Vitiligo",
+            "sinhala": "සුදු කබර රෝගය (ස්විත්‍ර කුෂ්ඨ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Inflammatory Conditions",
+            "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Stem",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "2558",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/hRpFgnsM/plant01003-02558.jpg"
+        },
+        {
+            "image_id": "2559",
+            "caption": "Twig  (PMR)",
+            "url": "https://i.ibb.co/0VR0F3bK/plant01003-02559.jpg"
+        },
+        {
+            "image_id": "2560",
+            "caption": "Leaves - Upper surface(PMR)",
+            "url": "https://i.ibb.co/ccvnP5Sk/plant01003-02560.jpg"
+        },
+        {
+            "image_id": "2561",
+            "caption": "Leaves - Lower surface(PMR)",
+            "url": "https://i.ibb.co/gMDZ7Pm5/plant01003-02561.jpg"
+        },
+        {
+            "image_id": "2562",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/60xnh7F6/plant01003-02562.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "රසගුණ පිරි කටු අනෝදා #viralvideo#motivation#success #soursop #anoda#drink #fruit #healthyfood #fresh",
+                "url": "https://youtube.com/watch?v=WtZYVFRUot4",
+                "duration": "0:19",
+                "thumbnail": "https://i.ytimg.com/vi/WtZYVFRUot4/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා හොඳ නැති අවස්ථා ❌💯👍 #shorts #foodso",
+                "url": "https://youtube.com/watch?v=zXSqhPwWCqg",
+                "duration": "0:20",
+                "thumbnail": "https://i.ytimg.com/vi/zXSqhPwWCqg/hq720.jpg"
+            },
+            {
+                "title": "පළමුවන රාජසිංහ රජු බිලිගත් නපුරු උණකටුව තිබූ ඓතිහාසික  කටු උණ පඳුර - Katu una padura",
+                "url": "https://youtube.com/watch?v=yjQk1Om_qHs",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/yjQk1Om_qHs/hq720.jpg"
+            },
+            {
+                "title": "දැකලා තියෙනවද මෙයාව ඔයාගේ හීන වල?? 😨😰😱💀",
+                "url": "https://youtube.com/watch?v=xW4ukEhAKLA",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/xW4ukEhAKLA/hq720_2.jpg"
+            },
+            {
+                "title": "කනවද කනවද ..??.😳🚀කටු අනෝදා..මෙච්චර ගුණද..?😱?..#viralshort #healthytips",
+                "url": "https://youtube.com/watch?v=3wcjAcrQ6fs",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/3wcjAcrQ6fs/hq720.jpg"
+            },
+            {
+                "title": "කෝටි ගණන් නිවසට කැන්දන ලොව වාසනාවන්තම පැළෑටි 7 #srilanka #asmr  #sinhalasong  #karaoke #slnews",
+                "url": "https://youtube.com/watch?v=WNnzVKEmYzU",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/WNnzVKEmYzU/hq720.jpg"
+            },
+            {
+                "title": "Fever උණ.. normal body temperature.. සාමාන්‍ය ශරීර උෂ්ණත්වය",
+                "url": "https://youtube.com/watch?v=MbMjIrlNJPI",
+                "duration": "0:55",
+                "thumbnail": "https://i.ytimg.com/vi/MbMjIrlNJPI/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා වල  විශ්මිත ගුණ  | Katu anoda",
+                "url": "https://youtube.com/watch?v=CurBJvHadjU",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/CurBJvHadjU/hq720.jpg"
+            },
+            {
+                "title": "කටුවක් ඇනුනොත් මොකද කරන්නෙ? #ayurveda #life #health",
+                "url": "https://youtube.com/watch?v=dqqrfaa_PVE",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/dqqrfaa_PVE/hq720.jpg"
+            },
+            {
+                "title": "ඒකට නම් රැවටුනා සුදු නෝනා 😞😞",
+                "url": "https://youtube.com/watch?v=_G8t9AzsNhc",
+                "duration": "0:17",
+                "thumbnail": "https://i.ytimg.com/vi/_G8t9AzsNhc/hq720_2.jpg"
+            },
+            {
+                "title": "මහන්සි වෙලාවට අමෘතය වගේ මේක😌 ගුණ දැනගෙනම හදාගන්න Soursop benefit and Drink - Kusala's Simple Life🍃",
+                "url": "https://youtube.com/watch?v=0YuQDtSXQf4",
+                "duration": "4:58",
+                "thumbnail": "https://i.ytimg.com/vi/0YuQDtSXQf4/hqdefault.jpg"
+            },
+            {
+                "title": "ලේන් අම්මා කෙකෙන් තමන්ගේ ලමයි ප්‍රසුත කරන ආදරනිය අවස්තාවක් 🥰😍🙏 #animalworldkm #short",
+                "url": "https://youtube.com/watch?v=xCJ9FBwSSuY",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/xCJ9FBwSSuY/hq720_2.jpg"
+            },
+            {
+                "title": "ඔලුවෙ කැක්කුමට අත් බෙහෙතක් 🤧 Home Remedy For Headaches From My Father",
+                "url": "https://youtube.com/watch?v=H18axN_KiKY",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/H18axN_KiKY/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා ගෙඩියක මෙච්චර ගුණ තියෙන්වා කියලා ඔයා දන්නවද ? | ceylon tast stories",
+                "url": "https://youtube.com/watch?v=Rr64KZo3oj4",
+                "duration": "0:31",
+                "thumbnail": "https://i.ytimg.com/vi/Rr64KZo3oj4/hq720_2.jpg"
+            },
+            {
+                "title": "ඒයාල ඔක්කොටම උණ හැදිලනේ  👨‍👩‍👧 #viral #trending",
+                "url": "https://youtube.com/watch?v=pNwGXvK8BwY",
+                "duration": "0:45",
+                "thumbnail": "https://i.ytimg.com/vi/pNwGXvK8BwY/hq720.jpg"
+            },
+            {
+                "title": "බබාලගේ උණ හරියටම අඩුකරගන්නේ කොහොමද ? Fever management",
+                "url": "https://youtube.com/watch?v=pgUI9mHDlzI",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/pgUI9mHDlzI/hq720.jpg"
+            },
+            {
+                "title": "Pethangoda katu una pandura",
+                "url": "https://youtube.com/watch?v=hHHVL5ozK9w",
+                "duration": "1:40",
+                "thumbnail": "https://i.ytimg.com/vi/hHHVL5ozK9w/hq720.jpg"
+            },
+            {
+                "title": "උණ වැළදුණු විට ගත යුතු ආහාර වර්ග",
+                "url": "https://youtube.com/watch?v=muBAOSIK2tA",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/muBAOSIK2tA/hq720.jpg"
+            },
+            {
+                "title": "උගුරැස්සවල ගුණ #Flacourtiaindica #Uguressa #උගුරැස්ස #Katu Lovi #කටු ලොවි #ayurveda Governor's plum",
+                "url": "https://youtube.com/watch?v=fv6TBLX0YOs",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/fv6TBLX0YOs/hq720_2.jpg"
+            },
+            {
+                "title": "10 foods good for fever (උණට හිතකර ආහාර 10)#foodforfever#appetizer #dengue",
+                "url": "https://youtube.com/watch?v=HpLqPnreuXQ",
+                "duration": "0:24",
+                "thumbnail": "https://i.ytimg.com/vi/HpLqPnreuXQ/hq720.jpg"
+            },
+            {
+                "title": "උණ කටුව භාවිතය ගැන හැමදේම.. all about thermometer in sinhala.. check fever",
+                "url": "https://youtube.com/watch?v=HL9xIrPGuMA",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/HL9xIrPGuMA/hqdefault.jpg"
+            },
+            {
+                "title": "#උණ බට වෙඩිල්ල || bamboo gun || #උණ_බට_තුවක්කුව",
+                "url": "https://youtube.com/watch?v=6PAkbv9LPnk",
+                "duration": "0:09",
+                "thumbnail": "https://i.ytimg.com/vi/6PAkbv9LPnk/hq720_2.jpg"
+            },
+            {
+                "title": "මී උණ මාරාන්තිකයි- වෙලට බහින්න කලින් මේ වීඩියෝ එක අනිවාර්යයෙන් බලන්න #leptospirosis #doxycycline",
+                "url": "https://youtube.com/watch?v=f2yMAs3uBgc",
+                "duration": "0:48",
+                "thumbnail": "https://i.ytimg.com/vi/f2yMAs3uBgc/hq720_2.jpg"
+            },
+            {
+                "title": "ඔබට හැදෙන උණ මොකක් වුණත් උණ බැහීම සඳහා පාවිච්චි කරන පැරසිටමෝල් නොවන වර්ගයේ ඖෂධ පාවිච්චි කරන්න එපා",
+                "url": "https://youtube.com/watch?v=tPj0U6sjGIg",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/tPj0U6sjGIg/hq720.jpg"
+            },
+            {
+                "title": "දරුවාට උණද? 🤒 Paracetamol Syrup නිවැරදි Dose! #medicine #medicalscience #science #paracetamol",
+                "url": "https://youtube.com/watch?v=LJV1HSTwd-0",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/LJV1HSTwd-0/hqdefault.jpg"
+            },
+            {
+                "title": "දරුවන්ට උණ හැදුණාම මාරාන්තික වෙන්න පුළුවන් මේ දේ කරන්න එපා!",
+                "url": "https://youtube.com/watch?v=T-MuQMVCee8",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/T-MuQMVCee8/hq720.jpg"
+            },
+            {
+                "title": "DIY Bamboo Creations with Three Balloone Slingshots #Slingshots #Diy #Bambooart #Bamboo",
+                "url": "https://youtube.com/watch?v=i5tez1BO-cs",
+                "duration": "0:20",
+                "thumbnail": "https://i.ytimg.com/vi/i5tez1BO-cs/hq720.jpg"
+            },
+            {
+                "title": "උණ වෙඩිල්ලක් නිසා අපිට උන විපැත්තිය...😢😢😢🫣🫣 #cannon #handmade #tranding",
+                "url": "https://youtube.com/watch?v=rjRP0P3GpBo",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/rjRP0P3GpBo/hq720_2.jpg"
+            },
+            {
+                "title": "රතිඤ්ඤා වෙනුවට උණ වෙඩි❤️🙈Bamboo cannon Sri Lanka🙈👍 #ytshorts#asmr#reach#bamboo#trending#srilanka",
+                "url": "https://youtube.com/watch?v=0ArYgETY4so",
+                "duration": "0:42",
+                "thumbnail": "https://i.ytimg.com/vi/0ArYgETY4so/hq720.jpg"
+            },
+            {
+                "title": "Fever symptoms/Una saha una katuwa/උණ සහ උණ කටුව/පිලිබද හැමදේම",
+                "url": "https://youtube.com/watch?v=VaFONoe6US0",
+                "duration": "9:11",
+                "thumbnail": "https://i.ytimg.com/vi/VaFONoe6US0/hq720.jpg"
+            },
+            {
+                "title": "උණ  කැස්සට,බෙහෙත්  ගන්න  කලින්  මෙහෙම  හදලා  බොන්න ළමයි ,කොත්තමල්ලි පොඩ්ඩක්  බැදලා ගන්න",
+                "url": "https://youtube.com/watch?v=q0JPbwQuaWk",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/q0JPbwQuaWk/hq720_2.jpg"
+            },
+            {
+                "title": "උණ සහ හන්දි කැක්කුම හැදෙන චිකන්ගුන්යා,chikungunya ,chikungunya una  ha Handi kakkumma",
+                "url": "https://youtube.com/watch?v=KF2rmU9THSg",
+                "duration": "20:36",
+                "thumbnail": "https://i.ytimg.com/vi/KF2rmU9THSg/hqdefault.jpg"
+            },
+            {
+                "title": "නිතර උණ වැලඳෙනවාද? උණ රෝග සඳහා ප්‍රතිකාර සහ ඖෂධ",
+                "url": "https://youtube.com/watch?v=ESt3CXTQMaI",
+                "duration": "8:54",
+                "thumbnail": "https://i.ytimg.com/vi/ESt3CXTQMaI/hq720.jpg"
+            },
+            {
+                "title": "උණට බෙහෙත් ගැනීම වැරදියි. උණ අත්‍යවශ්‍ය දෙයක්. මෙන්න කළයුතු දේ!",
+                "url": "https://youtube.com/watch?v=mve03-Ci-M8",
+                "duration": "12:30",
+                "thumbnail": "https://i.ytimg.com/vi/mve03-Ci-M8/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා උයලා කෑවොත් වෙනදේ දන්නවද ??? දන්නවනම් ඔයාලා පුදුම වෙනවා",
+                "url": "https://youtube.com/watch?v=sarq_JclMNQ",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/sarq_JclMNQ/hqdefault.jpg"
+            },
+            {
+                "title": "කටු අනෝදා ආහාරයට ගන්නා අයගේ සිරුරේ සිදුවන විශ්මිත වෙනස මෙන්​න - Super Benifts of soursop Fruits",
+                "url": "https://youtube.com/watch?v=erCo2T3u1O4",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/erCo2T3u1O4/hq720.jpg"
+            },
+            {
+                "title": "Niramulli | නීරමුල්ලි හෙවත් කටු ඉකිරිය ශාකයේ ඔසු ගුණ | stone breaker plant for kidney | ikiriya",
+                "url": "https://youtube.com/watch?v=A4apPZ3fsk4",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/A4apPZ3fsk4/hq720.jpg"
+            },
+            {
+                "title": "කටුවැල් බටු ශාකයේ ඖෂධීය ගුණ | katuwelbatu | solanum virginianum🌿",
+                "url": "https://youtube.com/watch?v=24oT1labluk",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/24oT1labluk/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා වල ඇත්ත නැත්ත!.. | Soursop ( Graviola) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LTJtQuq7P_g",
+                "duration": "10:12",
+                "thumbnail": "https://i.ytimg.com/vi/LTJtQuq7P_g/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල ශාකයේ ගුණ අගුණ නිවැරදිව දැනගමු | Health benefits of katupila | කටුපිල | Katupila",
+                "url": "https://youtube.com/watch?v=LnoPt_czJkM",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/LnoPt_czJkM/hqdefault.jpg"
+            },
+            {
+                "title": "Health Benefits of Soursop: කටු අනෝදා කෑවොත් වෙන දේ (2018)",
+                "url": "https://youtube.com/watch?v=MFXquSiprSw",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/MFXquSiprSw/hq720.jpg"
+            },
+            {
+                "title": "කටු  අල - අතිශය ගුණ ආහාර healthy food",
+                "url": "https://youtube.com/watch?v=wEJpkKO5FG0",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/wEJpkKO5FG0/hq720.jpg"
+            },
+            {
+                "title": "අනෝදා කොළ වල ඇති සුවිශේෂ වූ මේ විශ්මිත ගුණ ගැන ඔබ දැන සිටියාද? - Benefits Of Graviola Leaf",
+                "url": "https://youtube.com/watch?v=Xu0rFc_Th-A",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/Xu0rFc_Th-A/hq720.jpg"
+            },
+            {
+                "title": "අනෝදා වල විශ්මිත ගුණ - Amazing properties of Soursop",
+                "url": "https://youtube.com/watch?v=VNXS7J8e-tQ",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/VNXS7J8e-tQ/hq720.jpg"
+            },
+            {
+                "title": "කටු ඔටුන්න ශාකයේ විවිධ ප්‍රතිලාභ Crown-of-Thorns Plant benefits",
+                "url": "https://youtube.com/watch?v=tl97Js3FUvg",
+                "duration": "4:52",
+                "thumbnail": "https://i.ytimg.com/vi/tl97Js3FUvg/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "Soursop Benefits",
+                "url": "https://youtube.com/watch?v=AxyF8HngqDQ",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/AxyF8HngqDQ/hq720.jpg"
+            },
+            {
+                "title": "මොන සාගතේදිත් අපිත් එක්ක ඉන්න. දියවැඩියාවට, අපේ හදවතට ගුණ දෙන කටු පදුර",
+                "url": "https://youtube.com/watch?v=bGlGlLfOMQw",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/bGlGlLfOMQw/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා|katu atta|healthy food and fruits @knowledge.evolution #katuanodha",
+                "url": "https://youtube.com/watch?v=IoD00VMytsw",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/IoD00VMytsw/hqdefault.jpg"
+            },
+            {
+                "title": "කටු අනෝදා ගැන නොදන්න කතාව",
+                "url": "https://youtube.com/watch?v=m2FQesbFc2Y",
+                "duration": "4:02",
+                "thumbnail": "https://i.ytimg.com/vi/m2FQesbFc2Y/hq720.jpg"
+            },
+            {
+                "title": "කටු අනෝදා ශාකයෙන් අපට ලැබෙන ප්‍රයෝජන හා ප්‍රතිලාභUses and benefits that we get from Katu Anoda plant",
+                "url": "https://youtube.com/watch?v=u6h185yFG8U",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/u6h185yFG8U/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ දෙන කටු පිළ katupila#ak nature tv",
+                "url": "https://youtube.com/watch?v=Gf6JS6EuhtU",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/Gf6JS6EuhtU/hq720.jpg"
+            },
+            {
+                "title": "තරුණ බව රැකදෙන, රුධිර දෝෂ නසන කටු ගහ | කටු ඉඹුල්",
+                "url": "https://youtube.com/watch?v=90D5d3ggePg",
+                "duration": "9:09",
+                "thumbnail": "https://i.ytimg.com/vi/90D5d3ggePg/hq720.jpg"
+            },
+            {
+                "title": "කටු අනොදා sri lankanaryurwedik plant #annona muricata #pricklycusturdapple #wiswaya",
+                "url": "https://youtube.com/watch?v=_sO64JaMUpI",
+                "duration": "6:51",
+                "thumbnail": "https://i.ytimg.com/vi/_sO64JaMUpI/hq720.jpg"
+            },
+            {
+                "title": "Dioscorea Pentaphylla//කටු අල//රස ගුණ පිරි කටු අල",
+                "url": "https://youtube.com/watch?v=pmSnyJtLdFI",
+                "duration": "4:34",
+                "thumbnail": "https://i.ytimg.com/vi/pmSnyJtLdFI/hq720.jpg"
+            },
+            {
+                "title": "ඉත්තෑවා ඇත්තටම කටු විදිනවද? Do Porcupines Really Shoot Their Quills? | Porcupine Facts",
+                "url": "https://youtube.com/watch?v=HJ305_eADUc",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/HJ305_eADUc/hq720.jpg"
+            },
+            {
+                "title": "මේ තමයි කටු ඉඹුල් කියන ගහ | වැඩි විස්තර ඉදිරියේදී අරන් එන්නම් | CM Plants Store Sri Lanka | කටුඉඹුල්",
+                "url": "https://youtube.com/watch?v=9E2c41PiBvg",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/9E2c41PiBvg/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ නසන  කටු අනෝදා  කොළ | Soursop (Graviola) Tea  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=KdqAxJwIsRE",
+                "duration": "12:38",
+                "thumbnail": "https://i.ytimg.com/vi/KdqAxJwIsRE/hq720.jpg"
+            },
+            {
+                "title": "සුවහසක් ලෙඩරෝග සුවකරන අනෝදා පානය | Health Benefits of Soursop Leaves Annona muricata Tea",
+                "url": "https://youtube.com/watch?v=Pc5VTXBmM50",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/Pc5VTXBmM50/hqdefault.jpg"
+            },
+            {
+                "title": "Governor's Plum Benefits : උගුරැස්ස කෑවම වෙන දේ",
+                "url": "https://youtube.com/watch?v=ErlVygF6r58",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/ErlVygF6r58/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Inflammatory Conditions",
-      "sinhala": "ප්‍රදාහක තත්ත්වයන් (ශෝථය / ඇතුළත ඉදිමීම්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Stem",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "2558",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/hRpFgnsM/plant01003-02558.jpg"
-    },
-    {
-      "image_id": "2559",
-      "caption": "Twig  (PMR)",
-      "url": "https://i.ibb.co/0VR0F3bK/plant01003-02559.jpg"
-    },
-    {
-      "image_id": "2560",
-      "caption": "Leaves - Upper surface(PMR)",
-      "url": "https://i.ibb.co/ccvnP5Sk/plant01003-02560.jpg"
-    },
-    {
-      "image_id": "2561",
-      "caption": "Leaves - Lower surface(PMR)",
-      "url": "https://i.ibb.co/gMDZ7Pm5/plant01003-02561.jpg"
-    },
-    {
-      "image_id": "2562",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/60xnh7F6/plant01003-02562.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

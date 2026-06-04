@@ -1,68 +1,205 @@
 {
-  "scientificName": "Theobroma cacao L.",
-  "synonyms": [
-    "Cacao minus Gaertn.",
-    "Cacao sativa Aubl.",
-    "Cacao theobroma Tussac",
-    "Theobroma cacao f. lacandonense Cuatrec.",
-    "Theobroma cacao f. leiocarpum (Bernoulli) Ducke",
-    "Theobroma cacao f. pentagonum (Bernoulli) Cuatrec.",
-    "Theobroma cacao subsp. leiocarpum (Bernoulli) Cuatrec.",
-    "Theobroma cacao subsp. pentagonum (Bernoulli) León",
-    "Theobroma cacao subsp. sativa (Aubl.) León",
-    "Theobroma cacao subsp. sphaerocarpum (A.Chev.) Cuatrec.",
-    "Theobroma cacao var. leiocarpum (Bernoulli) Cif.",
-    "Theobroma caribaeum Sweet",
-    "Theobroma integerrimum Stokes",
-    "Theobroma kalaguum De Wild.",
-    "Theobroma leiocarpum Bernoulli",
-    "Theobroma pentagonum Bernoulli",
-    "Theobroma salzmannianum Bernoulli",
-    "Theobroma sapidum Pittier",
-    "Theobroma sativum (Aubl.) Lign. & Bey",
-    "Theobroma sativum var. leucospermum A.Chev.",
-    "Theobroma sativum var. melanospermum A.Chev.",
-    "Theobroma sphaerocarpum A.Chev."
-  ],
-  "familyName": "MALVACEAE",
-  "englishNames": [
-    "Cocoa",
-    "Cacao",
-    "Chocolate Nut Tree"
-  ],
-  "sinhalaName": "Kokowa (කොකෝවා )",
-  "description": "මෙය සදාහරිත, යටි වගා ශාකයක් වන අතර මීටර් 15ක් දක්වා උසට වැඩිය හැකි වුවද වගා කිරීමේදී සාමාන්‍යයෙන් මීටර් 5-8ක් දක්වා උසට වැඩේ. පත්‍ර කෙටි කාලීන වන අතර දිග සෙන්ටිමීටර 10-20ක් සහ පළල සෙන්ටිමීටර 5-12.5ක් වේ. පත්‍ර රෝම රහිත (glabrous) වන අතර පත්‍ර දාර සම්පූර්ණ (entire) වේ. අලුතින් හටගන්නා පත්‍ර රෝස පැහැයේ සිට රතු පැහැයට හුරු වන අතර ඒවා සිරස් අතට පහළට එල්ලී පවතී. මල් කඳ මත හටගන්නා (cauliflorous) ස්වභාවයක් ගන්නා අතර විෂ්කම්භය සෙන්ටිමීටර 1.25-2ක් පමණ වේ. මල් සුදු සිට රෝස පැහැයක් ගන්නා අතර ඒවා සංයුක්ත ද්විශාඛ පුෂ්ප මංජරි (dichasial cymes) ලෙස හටගනී. ඵලය පෙපෝ (pepo) වැනි බෙරි වර්ගයකි; එය දිගින් සෙන්ටිමීටර 10-30ක් වන අතර පළල දිගින් අඩකටත් වඩා අඩුය. බීජ මධ්‍ය අක්ෂයක් දිගේ කල්පවත්නා පේළි පහක සැකසී ඇත. බීජ මාංසල වන අතර ශ්ලේෂ්මල සහිත (mucilaginous) පැණිරසැති බීජාවරණයක් (arils) ඇත. බීජ පත්‍ර (cotyledons) සුදු (criollo) හෝ දම් (forastero) පැහැයෙන් යුක්ත වේ.",
-  "treatments": [
-    {
-      "treatment": "Genitourinary Disorders",
-      "sinhala": "ප්‍රජනක හා මුත්‍රා පද්ධතියේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "1780",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/Q3zsnZQ3/plant01286-01780.jpg"
+    "scientificName": "Theobroma cacao L.",
+    "synonyms": [
+        "Cacao minus Gaertn.",
+        "Cacao sativa Aubl.",
+        "Cacao theobroma Tussac",
+        "Theobroma cacao f. lacandonense Cuatrec.",
+        "Theobroma cacao f. leiocarpum (Bernoulli) Ducke",
+        "Theobroma cacao f. pentagonum (Bernoulli) Cuatrec.",
+        "Theobroma cacao subsp. leiocarpum (Bernoulli) Cuatrec.",
+        "Theobroma cacao subsp. pentagonum (Bernoulli) León",
+        "Theobroma cacao subsp. sativa (Aubl.) León",
+        "Theobroma cacao subsp. sphaerocarpum (A.Chev.) Cuatrec.",
+        "Theobroma cacao var. leiocarpum (Bernoulli) Cif.",
+        "Theobroma caribaeum Sweet",
+        "Theobroma integerrimum Stokes",
+        "Theobroma kalaguum De Wild.",
+        "Theobroma leiocarpum Bernoulli",
+        "Theobroma pentagonum Bernoulli",
+        "Theobroma salzmannianum Bernoulli",
+        "Theobroma sapidum Pittier",
+        "Theobroma sativum (Aubl.) Lign. & Bey",
+        "Theobroma sativum var. leucospermum A.Chev.",
+        "Theobroma sativum var. melanospermum A.Chev.",
+        "Theobroma sphaerocarpum A.Chev."
+    ],
+    "familyName": "MALVACEAE",
+    "englishNames": [
+        "Cocoa",
+        "Cacao",
+        "Chocolate Nut Tree"
+    ],
+    "sinhalaName": "Kokowa (කොකෝවා )",
+    "description": "මෙය සදාහරිත, යටි වගා ශාකයක් වන අතර මීටර් 15ක් දක්වා උසට වැඩිය හැකි වුවද වගා කිරීමේදී සාමාන්‍යයෙන් මීටර් 5-8ක් දක්වා උසට වැඩේ. පත්‍ර කෙටි කාලීන වන අතර දිග සෙන්ටිමීටර 10-20ක් සහ පළල සෙන්ටිමීටර 5-12.5ක් වේ. පත්‍ර රෝම රහිත (glabrous) වන අතර පත්‍ර දාර සම්පූර්ණ (entire) වේ. අලුතින් හටගන්නා පත්‍ර රෝස පැහැයේ සිට රතු පැහැයට හුරු වන අතර ඒවා සිරස් අතට පහළට එල්ලී පවතී. මල් කඳ මත හටගන්නා (cauliflorous) ස්වභාවයක් ගන්නා අතර විෂ්කම්භය සෙන්ටිමීටර 1.25-2ක් පමණ වේ. මල් සුදු සිට රෝස පැහැයක් ගන්නා අතර ඒවා සංයුක්ත ද්විශාඛ පුෂ්ප මංජරි (dichasial cymes) ලෙස හටගනී. ඵලය පෙපෝ (pepo) වැනි බෙරි වර්ගයකි; එය දිගින් සෙන්ටිමීටර 10-30ක් වන අතර පළල දිගින් අඩකටත් වඩා අඩුය. බීජ මධ්‍ය අක්ෂයක් දිගේ කල්පවත්නා පේළි පහක සැකසී ඇත. බීජ මාංසල වන අතර ශ්ලේෂ්මල සහිත (mucilaginous) පැණිරසැති බීජාවරණයක් (arils) ඇත. බීජ පත්‍ර (cotyledons) සුදු (criollo) හෝ දම් (forastero) පැහැයෙන් යුක්ත වේ.",
+    "treatments": [
+        {
+            "treatment": "Genitourinary Disorders",
+            "sinhala": "ප්‍රජනක හා මුත්‍රා පද්ධතියේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "1780",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/Q3zsnZQ3/plant01286-01780.jpg"
+        },
+        {
+            "image_id": "1782",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/gZ8MLCNs/plant01286-01782.jpg"
+        },
+        {
+            "image_id": "1783",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/8nvLKzW0/plant01286-01783.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කොකෝවා වගා කිරීමේ ආර්ථික වැදගත්කම වගා විභවය වොළඳපොල හා වගා ක්‍රම",
+                "url": "https://youtube.com/watch?v=FZkhNJg3zp0",
+                "duration": "1:29:33",
+                "thumbnail": "https://i.ytimg.com/vi/FZkhNJg3zp0/hqdefault.jpg"
+            },
+            {
+                "title": "කොකෝවා ශාකය| Cocoa tree",
+                "url": "https://youtube.com/watch?v=ylls2ySSka8",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/ylls2ySSka8/hq720.jpg"
+            },
+            {
+                "title": "කෝකෝවා කුඩු නිවසේදීම හදාගමු - how to make a cocoa powder at home",
+                "url": "https://youtube.com/watch?v=VZVRiotMATs",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/VZVRiotMATs/hq720.jpg"
+            },
+            {
+                "title": "[ExpoSpice] - Cocoa - Suitable Environmental Conditions to Cultivate (Sinhala)",
+                "url": "https://youtube.com/watch?v=lFfMpFSMMqA",
+                "duration": "1:39",
+                "thumbnail": "https://i.ytimg.com/vi/lFfMpFSMMqA/hq720.jpg"
+            },
+            {
+                "title": "සිටුවීමට අවශ්‍ය පැල සාදා ගැනීම | පොල් වගාව සමග කොකෝවා වගාව | වැලදෙන රෝග | cocoa cultivation srilanka",
+                "url": "https://youtube.com/watch?v=clL4JEX1lQ8",
+                "duration": "11:02",
+                "thumbnail": "https://i.ytimg.com/vi/clL4JEX1lQ8/hq720.jpg"
+            },
+            {
+                "title": "‍කොකෝවා වගා නඩත්තුව, අස්වනු නෙළීම සහ සැකසීම",
+                "url": "https://youtube.com/watch?v=hS3Ea6amLBM",
+                "duration": "1:11:16",
+                "thumbnail": "https://i.ytimg.com/vi/hS3Ea6amLBM/hqdefault.jpg"
+            },
+            {
+                "title": "කොකෝවා ඇට චොකලට් වෙන හැටි - How to made Chocolate.",
+                "url": "https://youtube.com/watch?v=SzrvsFSmq_U",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/SzrvsFSmq_U/hq720.jpg"
+            },
+            {
+                "title": "කෑවොත් ලේ බඩ යන කොකෝවා | Cocoa | Harvesting Fresh Cocoa | How To Make Chocolate | Cocoa Pulp Juice",
+                "url": "https://youtube.com/watch?v=Q6-hsgslFgc",
+                "duration": "8:45",
+                "thumbnail": "https://i.ytimg.com/vi/Q6-hsgslFgc/hq720.jpg"
+            },
+            {
+                "title": "රබර් අතර කොකෝවා වගාව",
+                "url": "https://youtube.com/watch?v=Zks4E4_5N34",
+                "duration": "14:33",
+                "thumbnail": "https://i.ytimg.com/vi/Zks4E4_5N34/hq720.jpg"
+            },
+            {
+                "title": "කොකෝවා වගා කිරීමේ ආර්ථික වැදගත්කම වගා විභවය වොළඳපොල හා වගා ක්‍රම",
+                "url": "https://youtube.com/watch?v=FLn0UC23XAg",
+                "duration": "1:29:33",
+                "thumbnail": "https://i.ytimg.com/vi/FLn0UC23XAg/frame0.jpg"
+            },
+            {
+                "title": "Cocoa Butter . කොකෝවා බටර්. කොකෝවා ගෙඩි වලින් ගෙදර හදපු කොකෝවා බටර්.",
+                "url": "https://youtube.com/watch?v=22fer0zLRzw",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/22fer0zLRzw/hqdefault.jpg"
+            },
+            {
+                "title": "නිවසේදී කොකෝවා ඇට චොකොලට් කරමු Let's make cocoa powder chocolate at home",
+                "url": "https://youtube.com/watch?v=uqVVj2WKJzc",
+                "duration": "3:46",
+                "thumbnail": "https://i.ytimg.com/vi/uqVVj2WKJzc/hq720.jpg"
+            },
+            {
+                "title": "කොකෝවා වගාවට අවශ්‍ය පාරිසරික සාධක දැනගනිමු.....#cgc #agriculture #agribusiness #spices #cocoa",
+                "url": "https://youtube.com/watch?v=qeIf-FxMpwQ",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/qeIf-FxMpwQ/hqdefault.jpg"
+            },
+            {
+                "title": "චොකලට් | කොකෝවා | චොකලට් ඉතිහාසය | Chocolate | Cocoa | Chocolate History | sehas academy |",
+                "url": "https://youtube.com/watch?v=FBeBQS_eExY",
+                "duration": "5:25",
+                "thumbnail": "https://i.ytimg.com/vi/FBeBQS_eExY/hqdefault.jpg"
+            },
+            {
+                "title": "චොකලට ගැන ඇත්ත කතාව | Dark Chocolate & Milk Chocolate By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=mxjIe-mg4Dw",
+                "duration": "13:55",
+                "thumbnail": "https://i.ytimg.com/vi/mxjIe-mg4Dw/hq720.jpg"
+            },
+            {
+                "title": "සතියකට දින හයක් චොක්ලට් කෑවොත් වෙන දේ - Health Benefits of Dark Chocolate",
+                "url": "https://youtube.com/watch?v=JNNN27wtGm8",
+                "duration": "1:39",
+                "thumbnail": "https://i.ytimg.com/vi/JNNN27wtGm8/hq720.jpg"
+            },
+            {
+                "title": "Department of Export Agriculture- සැගවුණු කහවණු- කොකෝවා වගාව 2016-10-14",
+                "url": "https://youtube.com/watch?v=PoQvhmT5o9c",
+                "duration": "14:05",
+                "thumbnail": "https://i.ytimg.com/vi/PoQvhmT5o9c/hqdefault.jpg"
+            },
+            {
+                "title": "කොකෝවා ශාකය| Cocoa tree",
+                "url": "https://youtube.com/watch?v=Go1cBljKz7M",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/Go1cBljKz7M/frame0.jpg"
+            },
+            {
+                "title": "[ExpoSpice] - Cocoa - Introduction to Cocoa (Sinhala)",
+                "url": "https://youtube.com/watch?v=zdan1KSFTNU",
+                "duration": "1:55",
+                "thumbnail": "https://i.ytimg.com/vi/zdan1KSFTNU/hq720.jpg"
+            },
+            {
+                "title": "[ExpoSpice] - Cocoa - Pruning & Canopy Maintaining (Sinhala)",
+                "url": "https://youtube.com/watch?v=zvLLLMDZBRQ",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/zvLLLMDZBRQ/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of dry and fresh cocoa leaves. Cocoa Leaves home remedy. Cocoa leaves tea Benefits",
+                "url": "https://youtube.com/watch?v=NqdC1iPpHrk",
+                "duration": "8:04",
+                "thumbnail": "https://i.ytimg.com/vi/NqdC1iPpHrk/hq720.jpg"
+            },
+            {
+                "title": "5 Health Benefits of Cacao",
+                "url": "https://youtube.com/watch?v=XNsGEoMnGQ4",
+                "duration": "19:23",
+                "thumbnail": "https://i.ytimg.com/vi/XNsGEoMnGQ4/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "1782",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/gZ8MLCNs/plant01286-01782.jpg"
-    },
-    {
-      "image_id": "1783",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/8nvLKzW0/plant01286-01783.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,108 +1,437 @@
 {
-  "scientificName": "Aloe vera (L.) Burm.f.",
-  "synonyms": [
-    "Aloe barbadensis Mill.",
-    "Aloe barbadensis var. chinensis Haw.",
-    "Aloe chinensis Loudon",
-    "Aloe elongata Murray",
-    "Aloe flava Pers.",
-    "Aloe indica Royle",
-    "Aloe lanzae Tod.",
-    "Aloe littoralis J.Koenig ex Baker",
-    "Aloe maculata Forssk.",
-    "Aloe perfoliata var. barbadensis (Mill.) Aiton",
-    "Aloe perfoliata var. vera L.",
-    "Aloe rubescens DC.",
-    "Aloe variegata Forssk.",
-    "Aloe vera var. chinensis (Loudon) Baker",
-    "Aloe vera var. lanzae Baker",
-    "Aloe vera var. littoralis J.Koenig ex Baker",
-    "Aloe vulgaris Lam."
-  ],
-  "familyName": "ASPHODELACEAE",
-  "englishNames": [
-    "Aloe",
-    "Aloe Vera",
-    "Medicinal Aloe",
-    "Burn Plant"
-  ],
-  "sinhalaName": "Komarika (කෝමාරිකා)",
-  "description": "කෙටි, ඝන, අතු බෙදුණු භූගත කඳන් සහිත පැළෑටි වේ. පත්‍ර මූලික (radical) වන අතර, දිග සෙ.මී. 25-80ක් සහ පාදමේ පළල සෙ.මී. 3-10ක් වේ. පත්‍ර ඉතා මාංසල වන අතර, පටු ලාන්සාකාර (narrowly lanceolate) හැඩයක් ගනී. පත්‍රයේ උඩු පැත්ත (adaxially) තරමක් පැතලි වන අතර යටි පැත්ත උත්තල (convex) වේ. පත්‍ර අග්‍රය දෙසට සිහින් වී කටුවකින් අවසන් වන අතර, දාර දිගේ දුරින් පිහිටි කටු දක්නට ලැබේ. පුෂ්ප මංජරිය සෙ.මී. 110ක් පමණ උසට වැඩේ; පුෂ්ප දණ්ඩ කොළ පැහැති වන අතර දුරින් පිහිටි පත්‍රිකා (bracts) කිහිපයක් දරයි. මල් පොකුරු ලෙස පිහිටා ඇති අතර, පහළට නැමුණු (cernuous) ස්වභාවයක් ගනී; වර්ණය දීප්තිමත් තැඹිලි-රතු පැහැතිය. කරල් (capsule) බිත්තරාකාර (ovoid) වන අතර දිග සෙ.මී. 1.5ක් දක්වා වේ.",
-  "treatments": [
-    {
-      "treatment": "Abdominal Pain",
-      "sinhala": "බඩේ කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Aloe vera (L.) Burm.f.",
+    "synonyms": [
+        "Aloe barbadensis Mill.",
+        "Aloe barbadensis var. chinensis Haw.",
+        "Aloe chinensis Loudon",
+        "Aloe elongata Murray",
+        "Aloe flava Pers.",
+        "Aloe indica Royle",
+        "Aloe lanzae Tod.",
+        "Aloe littoralis J.Koenig ex Baker",
+        "Aloe maculata Forssk.",
+        "Aloe perfoliata var. barbadensis (Mill.) Aiton",
+        "Aloe perfoliata var. vera L.",
+        "Aloe rubescens DC.",
+        "Aloe variegata Forssk.",
+        "Aloe vera var. chinensis (Loudon) Baker",
+        "Aloe vera var. lanzae Baker",
+        "Aloe vera var. littoralis J.Koenig ex Baker",
+        "Aloe vulgaris Lam."
+    ],
+    "familyName": "ASPHODELACEAE",
+    "englishNames": [
+        "Aloe",
+        "Aloe Vera",
+        "Medicinal Aloe",
+        "Burn Plant"
+    ],
+    "sinhalaName": "Komarika (කෝමාරිකා)",
+    "description": "කෙටි, ඝන, අතු බෙදුණු භූගත කඳන් සහිත පැළෑටි වේ. පත්‍ර මූලික (radical) වන අතර, දිග සෙ.මී. 25-80ක් සහ පාදමේ පළල සෙ.මී. 3-10ක් වේ. පත්‍ර ඉතා මාංසල වන අතර, පටු ලාන්සාකාර (narrowly lanceolate) හැඩයක් ගනී. පත්‍රයේ උඩු පැත්ත (adaxially) තරමක් පැතලි වන අතර යටි පැත්ත උත්තල (convex) වේ. පත්‍ර අග්‍රය දෙසට සිහින් වී කටුවකින් අවසන් වන අතර, දාර දිගේ දුරින් පිහිටි කටු දක්නට ලැබේ. පුෂ්ප මංජරිය සෙ.මී. 110ක් පමණ උසට වැඩේ; පුෂ්ප දණ්ඩ කොළ පැහැති වන අතර දුරින් පිහිටි පත්‍රිකා (bracts) කිහිපයක් දරයි. මල් පොකුරු ලෙස පිහිටා ඇති අතර, පහළට නැමුණු (cernuous) ස්වභාවයක් ගනී; වර්ණය දීප්තිමත් තැඹිලි-රතු පැහැතිය. කරල් (capsule) බිත්තරාකාර (ovoid) වන අතර දිග සෙ.මී. 1.5ක් දක්වා වේ.",
+    "treatments": [
+        {
+            "treatment": "Abdominal Pain",
+            "sinhala": "බඩේ කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Burns and Scalds",
+            "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin diseases",
+            "sinhala": "",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Disorders",
+            "sinhala": "මුත්‍රා පද්ධතියේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Gastritis",
+            "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කෝමාරිකා පැලේ ලොකුකරගන්නෙ කොහොමද how to grow up aloevera",
+                "url": "https://youtube.com/watch?v=3lI1AwX1Wp8",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/3lI1AwX1Wp8/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ගුණ. Aloe Vera.",
+                "url": "https://youtube.com/watch?v=Ad2OmCX59-c",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/Ad2OmCX59-c/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත නැතිව රසට කෝමාරිකා බීම හදන්නේ මෙහෙමයි | ගැස්ට්‍රයිටිස් වලට කියාපු බෙහෙත| Aloe vera drink",
+                "url": "https://youtube.com/watch?v=0CrT4A0GEYc",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/0CrT4A0GEYc/hqdefault.jpg"
+            },
+            {
+                "title": "කෝමාරිකා සහ පිලිකා අතර සම්බන්දය ගැන පරීක්ෂණ. | Studies On The Link Between Aloe Vera and Cancer.",
+                "url": "https://youtube.com/watch?v=3m4UTuTOk14",
+                "duration": "7:03",
+                "thumbnail": "https://i.ytimg.com/vi/3m4UTuTOk14/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා වගාව කරන්න හිතන අයට දැනගත යුතුම කරුණු 5ක්. 5 Tips You Must Know Before Cultivate Aloevera",
+                "url": "https://youtube.com/watch?v=wu666EGS4UQ",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/wu666EGS4UQ/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා පානය ඔබේ ජීවිතයට දෙන අමුතු දේවල් මෙන්න : Aloe vera juice benefits (2019)",
+                "url": "https://youtube.com/watch?v=EGo1R0QtKnA",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/EGo1R0QtKnA/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා වලින් මුහුණ සුදු කරගන්න පුළුවන් ක්‍රම 07ක් - 07 Benefits of Aloe Vera for Skin",
+                "url": "https://youtube.com/watch?v=3tBVhUSzIhM",
+                "duration": "11:01",
+                "thumbnail": "https://i.ytimg.com/vi/3tBVhUSzIhM/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ගාලා සුදු වෙන්න පුළුවන් රහසක් මේක ~ Skin whitening with natural aloe vera in Sinhala",
+                "url": "https://youtube.com/watch?v=IypBdpmlRVE",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/IypBdpmlRVE/hq720.jpg"
+            },
+            {
+                "title": "මේ වගේ රස්නෙ කාලෙට ගැලපෙන ඖෂධිය ගුණෙන් සපිරි කෝමාරිකා බීම  - Episode 808 - Aloe Vera Derink",
+                "url": "https://youtube.com/watch?v=k1CGSulVKFU",
+                "duration": "6:52",
+                "thumbnail": "https://i.ytimg.com/vi/k1CGSulVKFU/hqdefault.jpg"
+            },
+            {
+                "title": "කෝමාරිකා වලින් සුදු වෙන ක්‍රමය |  How to Use Aloe Vera For Skin Whitening | SLviki Media",
+                "url": "https://youtube.com/watch?v=SS2U4vvmI5M",
+                "duration": "10:43",
+                "thumbnail": "https://i.ytimg.com/vi/SS2U4vvmI5M/hq720.jpg"
+            },
+            {
+                "title": "තිත්ත නැතුව රසට හදන කෝමාරිකා පානය/ Aloe Vera Juic",
+                "url": "https://youtube.com/watch?v=IqijGb51cIA",
+                "duration": "1:39",
+                "thumbnail": "https://i.ytimg.com/vi/IqijGb51cIA/hqdefault.jpg"
+            },
+            {
+                "title": "නිදා ගන්න කලින් කෝමාරිකා ඉත්තක් මේ විදියට මුහුණේ ගාලා බලන්න - සතියක් යනකොට සම සුදුම සුදු වෙනවා!",
+                "url": "https://youtube.com/watch?v=K6gVRTs67WM",
+                "duration": "14:47",
+                "thumbnail": "https://i.ytimg.com/vi/K6gVRTs67WM/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා පැලේ ලොකුකරගන්නෙ කොහොමද how to grow up aloevera",
+                "url": "https://youtube.com/watch?v=pvEZmpEoVV0",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/pvEZmpEoVV0/frame0.jpg"
+            },
+            {
+                "title": "කෝමාරිකා වලින් ලැබේන විශ්මිත වාසි 18ක් - 18 amazing benefits of aloe vera",
+                "url": "https://youtube.com/watch?v=4d8qVswXT1o",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/4d8qVswXT1o/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ගැන මේ ටික දැන්ගෙන හිටියද ඇතමෙකු පොල් කිරි යොදා ආහාරයක් ලෙසත් සිසිල් බීමක් ලෙසත් පානය කරයි",
+                "url": "https://youtube.com/watch?v=oTaJ-HXxQrA",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/oTaJ-HXxQrA/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ගැන මේ දේවල් දැනගෙන හිටියද? | Aloe vera  By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=OErWbbDljg0",
+                "duration": "9:23",
+                "thumbnail": "https://i.ytimg.com/vi/OErWbbDljg0/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා පානයෙන් ලැබෙන විශ්මිත ගුණ මෙන්න | Benefits of drinking aloe vera",
+                "url": "https://youtube.com/watch?v=6iVE0tViKro",
+                "duration": "5:33",
+                "thumbnail": "https://i.ytimg.com/vi/6iVE0tViKro/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ශාකයේ විශ්මිත ගුණ ගැන ඔබත් දන්නවාද?Benefits of Aloe vera plant..",
+                "url": "https://youtube.com/watch?v=VQCp-DsvG8E",
+                "duration": "1:07",
+                "thumbnail": "https://i.ytimg.com/vi/VQCp-DsvG8E/hqdefault.jpg"
+            },
+            {
+                "title": "සමට රෝග වලට ගුණ කෝමාරිකා ගැන දන්නවද|Aloevera 4 fairskin&health#beauty#skincare#aloevera#beautymight",
+                "url": "https://youtube.com/watch?v=7P5JguKgs3U",
+                "duration": "5:13",
+                "thumbnail": "https://i.ytimg.com/vi/7P5JguKgs3U/hqdefault.jpg"
+            },
+            {
+                "title": "අපූරු ගුණ සහිත විශ්මිත කෝමාරිකා | Aloe Vera Health & Beauty Secrets 🌿#කෝමාරිකා #alovera #health",
+                "url": "https://youtube.com/watch?v=nBrALZCaTUY",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/nBrALZCaTUY/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා වල ඇති පුදුමාකාර ගුණ",
+                "url": "https://youtube.com/watch?v=NA45HWYw444",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/NA45HWYw444/hqdefault.jpg"
+            },
+            {
+                "title": "කෝමාරිකා  ශාකයෙන් අපේ සමට ලැබෙන ප්‍රතිලාභ/ Aloe vera benefits for skin",
+                "url": "https://youtube.com/watch?v=Xv-ssAVPEnw",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/Xv-ssAVPEnw/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා බිව්වොත් මොකද වෙන්නේ? හැමෝම දැනගත යුතු ඇත්ත! | Aloe Vera Juice Benefits Sinhala",
+                "url": "https://youtube.com/watch?v=f-xJc0eXynk",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/f-xJc0eXynk/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා වල විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=r-xx_fdNXts",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/r-xx_fdNXts/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ගැන ඔබ මෙතෙක් නොඇසූ කතාවක් | aloe vera benefits♻✅",
+                "url": "https://youtube.com/watch?v=i8V89749Ido",
+                "duration": "7:03",
+                "thumbnail": "https://i.ytimg.com/vi/i8V89749Ido/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා - Komarika - Aloe vera",
+                "url": "https://youtube.com/watch?v=RSgIycXL9kY",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/RSgIycXL9kY/hqdefault.jpg"
+            },
+            {
+                "title": "කෝමාරිකා කැඳ | හමේ වර්ණවත් භාවය ඇති කරයි | Beauty Cream | Aloe Vera #sinhala #AsuraRavanaVanshaya",
+                "url": "https://youtube.com/watch?v=O3XAvQjtZDg",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/O3XAvQjtZDg/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා මේ විදියට ගෑවොත්, ඔබේ සම පැහැපත් වෙන එක නම් අනිවාර්යයි.| Aloe vera for guaranteed glow.",
+                "url": "https://youtube.com/watch?v=OpIEXqv2w0g",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/OpIEXqv2w0g/hq720.jpg"
+            },
+            {
+                "title": "✔️ලේඩ රෝග රැසකටම ගුණදායි  කෝමාරිකා පානය හදන හරි ක්‍රමය|aloe vera juice|aloe vera",
+                "url": "https://youtube.com/watch?v=xoNS60V8iDQ",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/xoNS60V8iDQ/hqdefault.jpg"
+            },
+            {
+                "title": "ඊජිප්තු වැසියන් සදාකල් ජීවත් වීමට කෝමාරිකා භාවිතා කළා හැටි - Aloe vera and ancient egypt",
+                "url": "https://youtube.com/watch?v=h3rlyuFvBdo",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/h3rlyuFvBdo/hq720.jpg"
+            },
+            {
+                "title": "ඉක්මන් හිසකෙස් වර්ධනයට කෝමාරිකා සත්කාරය : Aloe Vera for hair growth",
+                "url": "https://youtube.com/watch?v=_At2y17v13M",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/_At2y17v13M/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා පානය තිත්ත නැතුව  හරියටම සාදාගන්න විදිය | කෝමාරිකා පානය | Komarika Panaya | Aloe Vera",
+                "url": "https://youtube.com/watch?v=qYDFTY8O4nU",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/qYDFTY8O4nU/hq720.jpg"
+            },
+            {
+                "title": "බඩේ දැවිල්ලට සුපිරිම කෝමාරිකා පානය තිත්ත නැතුව හරියටම හදමු👌 | easy aloe vera drink #healthydrink",
+                "url": "https://youtube.com/watch?v=kzLwbL65oEM",
+                "duration": "1:49",
+                "thumbnail": "https://i.ytimg.com/vi/kzLwbL65oEM/hq720.jpg"
+            },
+            {
+                "title": "Aloe Vera gel drink - Komarika wagawa Episode - 03-ශරීරයේ විස ඉවත් කරන කෝමාරිකා පානය සහ ජෙල්",
+                "url": "https://youtube.com/watch?v=RXzITW5_9y4",
+                "duration": "9:21",
+                "thumbnail": "https://i.ytimg.com/vi/RXzITW5_9y4/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා සහ පිලිකා අතර සම්බන්දය ගැන පරීක්ෂණ. | Studies On The Link Between Aloe Vera and Cancer.",
+                "url": "https://youtube.com/watch?v=Vgx6K6_ubKE",
+                "duration": "7:03",
+                "thumbnail": "https://i.ytimg.com/vi/Vgx6K6_ubKE/frame0.jpg"
+            },
+            {
+                "title": "කෝමාරිකා වල ඖෂධීය ගුණ (2025) || Benifits of Aloe vera",
+                "url": "https://youtube.com/watch?v=ncAgd2jxI-M",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/ncAgd2jxI-M/hqdefault.jpg"
+            },
+            {
+                "title": "කෝමාරිකා වල ඇති විශ්මිත ගුණ  කෝමාරිකා 2021|aloe vera 2021| hela osu samaga ama 2021",
+                "url": "https://youtube.com/watch?v=4JfdRkaUHCE",
+                "duration": "10:51",
+                "thumbnail": "https://i.ytimg.com/vi/4JfdRkaUHCE/hqdefault.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ශාකයේ ගුණ අගුණ  | Advantages And Disadvantages Of Aloe Vera Plant",
+                "url": "https://youtube.com/watch?v=XOKfG5Gp89o",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/XOKfG5Gp89o/hqdefault.jpg"
+            },
+            {
+                "title": "Aruma puduma guna athi komarika...අරුම පුදුම ගුණ දෙන කෝමාරිකා",
+                "url": "https://youtube.com/watch?v=eKS63aVCtdY",
+                "duration": "6:18",
+                "thumbnail": "https://i.ytimg.com/vi/eKS63aVCtdY/hqdefault.jpg"
+            },
+            {
+                "title": "02.ඖෂධීය පැළෑටි  - කෝමාරිකා | Ayurveda medicinal plant 02- Komarika (Aloe  vera)",
+                "url": "https://youtube.com/watch?v=M59SjO8eDc8",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/M59SjO8eDc8/hqdefault.jpg"
+            },
+            {
+                "title": "කෝමාරිකා-Aloe Vera  🌿# Aloe vera #කෝමාරිකා #ඖෂධගුණ",
+                "url": "https://youtube.com/watch?v=ph-x8EyJYzM",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/ph-x8EyJYzM/hq720.jpg"
+            },
+            {
+                "title": "Komarika wagawa - කෝමාරිකා වාගාව /  Komarika wala guna - කෝමාරිකා ශාකයේ ගුණ  aloe vera  plantation",
+                "url": "https://youtube.com/watch?v=wkVFfrJHsCA",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/wkVFfrJHsCA/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ගැන මේ ටික දැන්ගෙන හිටියද ඇතමෙකු පොල් කිරි යොදා ආහාරයක් ලෙසත් සිසිල් බීමක් ලෙසත් පානය කරයි",
+                "url": "https://youtube.com/watch?v=-jvHTpfLjCA",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/-jvHTpfLjCA/frame0.jpg"
+            },
+            {
+                "title": "කෝමාරිකා පැලයෙන් ගත හැකි ප්‍රයෝජන (Amazing Uses Of Aloe Vera)",
+                "url": "https://youtube.com/watch?v=1bBt8_FuHsQ",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/1bBt8_FuHsQ/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා ශාකයේ ඇති වැදගත් කම | Importance of Aloe vera Plant | #Lakpura #Lakpura",
+                "url": "https://youtube.com/watch?v=gsPJ2m7yzjE",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/gsPJ2m7yzjE/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා වල ඔබ මෙතෙක් නොදැනසිටි රහසක් මෙන්න",
+                "url": "https://youtube.com/watch?v=0vITij83iHU",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/0vITij83iHU/hq720.jpg"
+            },
+            {
+                "title": "කහ - කෝමාරිකා  ජූස් එක කාටද? | Alovera & Turmaric Juice By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Hv-Q2lIY3ZE",
+                "duration": "11:57",
+                "thumbnail": "https://i.ytimg.com/vi/Hv-Q2lIY3ZE/hq720.jpg"
+            },
+            {
+                "title": "Komarika wala guna - කෝමාරිකා ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=qliRbaN41yQ",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/qliRbaN41yQ/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබත් කෝමාරිකා ගැන මේ දේවල් දැනගෙන සිටියද?",
+                "url": "https://youtube.com/watch?v=O0QcLDtCyB0",
+                "duration": "4:48",
+                "thumbnail": "https://i.ytimg.com/vi/O0QcLDtCyB0/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ ඇති කෝමාරිකා.",
+                "url": "https://youtube.com/watch?v=f75_9-AtAaE",
+                "duration": "8:40",
+                "thumbnail": "https://i.ytimg.com/vi/f75_9-AtAaE/hqdefault.jpg"
+            },
+            {
+                "title": "හැමදාම කෝමාරිකා කෑවොත් හිතාගන්න බැරි වෙනසක් - Health Benefits Of Aloe Vera Juice",
+                "url": "https://youtube.com/watch?v=gjtC1yuVDVg",
+                "duration": "4:52",
+                "thumbnail": "https://i.ytimg.com/vi/gjtC1yuVDVg/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා පත්‍ර පැළකරන හැටි / කෝමාරිකා වගාව / How to grow Elovera  / elovera / komarika wagawa /",
+                "url": "https://youtube.com/watch?v=7W7rMGqdCdQ",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/7W7rMGqdCdQ/hqdefault.jpg"
+            },
+            {
+                "title": "අතුරු ආබාධ වලින් තොරව කෝමාරිකා බොමු | Aloe Vera @Knowdiet496",
+                "url": "https://youtube.com/watch?v=nXDRhJzk6Es",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/nXDRhJzk6Es/hq720.jpg"
+            },
+            {
+                "title": "Alovera Drink for Health |කෝමරිකා පානය | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=zl_alC-AdjY",
+                "duration": "11:29",
+                "thumbnail": "https://i.ytimg.com/vi/zl_alC-AdjY/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Burns and Scalds",
-      "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin diseases",
-      "sinhala": "",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Disorders",
-      "sinhala": "මුත්‍රා පද්ධතියේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Gastritis",
-      "sinhala": "ගැස්ට්‍රයිටිස් (ආමාශ ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

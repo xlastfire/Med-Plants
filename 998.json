@@ -1,64 +1,93 @@
 {
-  "scientificName": "Apluda mutica L.",
-  "synonyms": [
-    "Andropogon aristatus (L.) Raspail",
-    "Andropogon glaucus Retz.",
-    "Andropogon involucratus J.Koenig ex Steud.",
-    "Apluda aristata L.",
-    "Apluda aristata var. ciliata (Andersson) S.K.Jain",
-    "Apluda aristata var. jainii S.K.Jain",
-    "Apluda blatteri Sur",
-    "Apluda ciliata Andersson",
-    "Apluda communis Arn. & Nees",
-    "Apluda cumingii Buse",
-    "Apluda geniculata Roxb.",
-    "Apluda gigantea (P.Beauv.) Spreng.",
-    "Apluda glauca (Retz.) Schreb.",
-    "Apluda humilis (J.Presl) Kunth",
-    "Apluda inermis Regel",
-    "Apluda kobila Buch.-Ham. ex Nees",
-    "Apluda microstachya Nees",
-    "Apluda mucronata Steud.",
-    "Apluda mutica subsp. aristata (L.) Babu",
-    "Apluda mutica var. aristata (L.) Hack. ex K.Bakker",
-    "Apluda mutica var. major (Hack.) S.K.Jain",
-    "Apluda pedicellata Buse",
-    "Apluda rostrata Arn. & Nees",
-    "Apluda scabra Andersson",
-    "Apluda varia Hack.",
-    "Apluda varia subsp. aristata (L.) Hack.",
-    "Apluda varia subsp. mutica (L.) Hack.",
-    "Apluda varia var. aristata (L.) Rendle",
-    "Apluda varia var. intermedia Hack.",
-    "Apluda varia var. major Hack.",
-    "Apluda villosa Schreb.",
-    "Calamina gigantea P.Beauv.",
-    "Calamina humilis J.Presl",
-    "Calamina mutica (L.) P.Beauv.",
-    "Tripsacum giganteum (P.Beauv.) Raspail",
-    "Xerochloa latifolia Hassk."
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Mauritian Grass"
-  ],
-  "sinhalaName": "Kuru kuda tana (කූරු කුඩා තණ)",
-  "description": "පැතිරී යන බහුවාර්ෂික ශාකයකි. කඳන් මීටර් 3ක් පමණ දිගු වන අතර පහළ ගැටවලින් මුල් හටගනී. පත්‍ර තලය පැතලි වන අතර දිග සෙ.මී. 5-25ක් සහ පළල මි.මී. 2-10ක් වේ; අග්‍රය ක්‍රමයෙන් සිහින් වී යයි (attenuate). පුෂ්ප මංජරිය අසත්‍ය පැනිකල් (false panicle) ආකාරයක් ගන්නා අතර රේඛීය සහ අතරින් කැඩුණු ස්වභාවයක් ගනී; ස්පැතියෝලය (spatheole) පැත්තෙන් බලන විට පටු ඕවලාකාර (narrowly ovate) හැඩයක් ගන්නා අතර අග්‍රය උල් වේ (acuminate); වෘන්ත රහිත කරල් ඇටය (sessile spikelet) මි.මී. 2-6ක් දිගු වේ; පහළ ග්ලූමය (lower glume) පටු ඉලිප්සාකාර-ලන්සාකාර (narrowly elliptic-lanceolate) වේ.",
-  "treatments": [
-    {
-      "treatment": "Wounds with bleeding",
-      "sinhala": "ලේ ගලන තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves"
-  ],
-  "images": [],
-  "special": []
+    "scientificName": "Apluda mutica L.",
+    "synonyms": [
+        "Andropogon aristatus (L.) Raspail",
+        "Andropogon glaucus Retz.",
+        "Andropogon involucratus J.Koenig ex Steud.",
+        "Apluda aristata L.",
+        "Apluda aristata var. ciliata (Andersson) S.K.Jain",
+        "Apluda aristata var. jainii S.K.Jain",
+        "Apluda blatteri Sur",
+        "Apluda ciliata Andersson",
+        "Apluda communis Arn. & Nees",
+        "Apluda cumingii Buse",
+        "Apluda geniculata Roxb.",
+        "Apluda gigantea (P.Beauv.) Spreng.",
+        "Apluda glauca (Retz.) Schreb.",
+        "Apluda humilis (J.Presl) Kunth",
+        "Apluda inermis Regel",
+        "Apluda kobila Buch.-Ham. ex Nees",
+        "Apluda microstachya Nees",
+        "Apluda mucronata Steud.",
+        "Apluda mutica subsp. aristata (L.) Babu",
+        "Apluda mutica var. aristata (L.) Hack. ex K.Bakker",
+        "Apluda mutica var. major (Hack.) S.K.Jain",
+        "Apluda pedicellata Buse",
+        "Apluda rostrata Arn. & Nees",
+        "Apluda scabra Andersson",
+        "Apluda varia Hack.",
+        "Apluda varia subsp. aristata (L.) Hack.",
+        "Apluda varia subsp. mutica (L.) Hack.",
+        "Apluda varia var. aristata (L.) Rendle",
+        "Apluda varia var. intermedia Hack.",
+        "Apluda varia var. major Hack.",
+        "Apluda villosa Schreb.",
+        "Calamina gigantea P.Beauv.",
+        "Calamina humilis J.Presl",
+        "Calamina mutica (L.) P.Beauv.",
+        "Tripsacum giganteum (P.Beauv.) Raspail",
+        "Xerochloa latifolia Hassk."
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Mauritian Grass"
+    ],
+    "sinhalaName": "Kuru kuda tana (කූරු කුඩා තණ)",
+    "description": "පැතිරී යන බහුවාර්ෂික ශාකයකි. කඳන් මීටර් 3ක් පමණ දිගු වන අතර පහළ ගැටවලින් මුල් හටගනී. පත්‍ර තලය පැතලි වන අතර දිග සෙ.මී. 5-25ක් සහ පළල මි.මී. 2-10ක් වේ; අග්‍රය ක්‍රමයෙන් සිහින් වී යයි (attenuate). පුෂ්ප මංජරිය අසත්‍ය පැනිකල් (false panicle) ආකාරයක් ගන්නා අතර රේඛීය සහ අතරින් කැඩුණු ස්වභාවයක් ගනී; ස්පැතියෝලය (spatheole) පැත්තෙන් බලන විට පටු ඕවලාකාර (narrowly ovate) හැඩයක් ගන්නා අතර අග්‍රය උල් වේ (acuminate); වෘන්ත රහිත කරල් ඇටය (sessile spikelet) මි.මී. 2-6ක් දිගු වේ; පහළ ග්ලූමය (lower glume) පටු ඉලිප්සාකාර-ලන්සාකාර (narrowly elliptic-lanceolate) වේ.",
+    "treatments": [
+        {
+            "treatment": "Wounds with bleeding",
+            "sinhala": "ලේ ගලන තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Kusathana | කුසතණ | Asian Broom Grass",
+                "url": "https://youtube.com/watch?v=5blVjA_jiKw",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/5blVjA_jiKw/hq720.jpg"
+            },
+            {
+                "title": "කූර තම්පලා වල ගුණ | Kuura thampala wala guna | Sakalawaga",
+                "url": "https://youtube.com/watch?v=GqvP2KOEdOc",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/GqvP2KOEdOc/hqdefault.jpg"
+            },
+            {
+                "title": "කූර තම්පලා වල ඇති ඖෂධීය ගුණ 😱😱😱",
+                "url": "https://youtube.com/watch?v=fWp8QMzPtq8",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/fWp8QMzPtq8/hq720.jpg"
+            },
+            {
+                "title": "මේ ශාකය ආහාරයට ගත්තට වැඩක් නෑ මේකේ ගූණය දන්නැතූව /කූරතම්පලා",
+                "url": "https://youtube.com/watch?v=U2wO9k_5x60",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/U2wO9k_5x60/hq720.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

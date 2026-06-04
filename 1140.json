@@ -1,128 +1,241 @@
 {
-  "scientificName": "Morinda citrifolia L.",
-  "synonyms": [
-    "Morinda angustifolia Roth",
-    "Morinda aspera Wight & Arn.",
-    "Morinda chachuca Buch.-Ham.",
-    "Morinda citrifolia f. potteri (O.Deg.) H.St.John",
-    "Morinda citrifolia var. potteri O.Deg.",
-    "Morinda coreia var. stenophylla (Spreng.) Chandrab.",
-    "Morinda ligulata Blanco",
-    "Morinda littoralis Blanco",
-    "Morinda macrophylla Desf.",
-    "Morinda mudia Buch.-Ham.",
-    "Morinda multiflora Roxb.",
-    "Morinda nodosa Buch.-Ham.",
-    "Morinda pubescens var. aspera (Wight & Arn.) M.Gangop.",
-    "Morinda quadrangularis G.Don",
-    "Morinda stenophylla Spreng.",
-    "Morinda teysmanniana Miq.",
-    "Morinda tinctoria Noronha",
-    "Morinda tinctoria var. aspera (Wight & Arn.) Hook.f.",
-    "Morinda tinctoria var. multiflora (Roxb.) Hook.f.",
-    "Morinda tomentosa B.Heyne ex Roth",
-    "Morinda zollingeriana Miq.",
-    "Platanocephalus orientalis Crantz",
-    "Samama citrifolia (L.) Kuntze",
-    "Sarcocephalus leichhardtii F.Muell."
-  ],
-  "familyName": "RUBIACEAE",
-  "englishNames": [
-    "Indian Mulberry",
-    "Great Morinda",
-    "Cheese Fruit",
-    "Mengkudu",
-    "Awl Tree",
-    "Brimstone Tree",
-    "Canary Wood"
-  ],
-  "sinhalaName": "Ahu (අහු)",
-  "description": "පත්‍ර කැළැල් සහිත ශක්තිමත් අතු සහිත පඳුරක් හෝ කුඩා ගසකි. පත්‍ර සරල වන අතර ඉලිප්සාකාර (elliptic) සිට පුළුල් ඉලිප්සාකාර හැඩයක් ගනී, දිග සෙ.මී. 15-20 දක්වා වේ. පත්‍ර වෘන්තය (petiole) සෙ.මී. 3 දක්වා වේ. පුෂ්ප මංජරිය තනි, බිත්තරයක හැඩැති (ovoid), පත්‍ර කක්ෂීය (axillary) ශීර්ෂ පුෂ්ප මංජරියකි (capitulum). මල් නිත්‍ය (regular), ද්විලිංගික (bisexual), සුදු පැහැති සහ පංචාංගික (5-merous) වේ. කොරොල්ලා නලය මි.මී. 8-12 ක් දිග වන අතර කොරොල්ලා ඛණ්ඩ (corolla lobes) ආයත (oblong) හැඩැති සහ මි.මී. 3-6 ක් දිග වේ. ඩිම්බකෝෂය අධෝස්ථ (inferior) වේ. ඵලය සංයුක්ත ඵලයකි (syncarp), විශාල සහ මාංසල වන අතර විෂ්කම්භය සෙ.මී. 3-10 කි.",
-  "treatments": [
-    {
-      "treatment": "Gout",
-      "sinhala": "ගවුට් වාතය (වාතරක්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Morinda citrifolia L.",
+    "synonyms": [
+        "Morinda angustifolia Roth",
+        "Morinda aspera Wight & Arn.",
+        "Morinda chachuca Buch.-Ham.",
+        "Morinda citrifolia f. potteri (O.Deg.) H.St.John",
+        "Morinda citrifolia var. potteri O.Deg.",
+        "Morinda coreia var. stenophylla (Spreng.) Chandrab.",
+        "Morinda ligulata Blanco",
+        "Morinda littoralis Blanco",
+        "Morinda macrophylla Desf.",
+        "Morinda mudia Buch.-Ham.",
+        "Morinda multiflora Roxb.",
+        "Morinda nodosa Buch.-Ham.",
+        "Morinda pubescens var. aspera (Wight & Arn.) M.Gangop.",
+        "Morinda quadrangularis G.Don",
+        "Morinda stenophylla Spreng.",
+        "Morinda teysmanniana Miq.",
+        "Morinda tinctoria Noronha",
+        "Morinda tinctoria var. aspera (Wight & Arn.) Hook.f.",
+        "Morinda tinctoria var. multiflora (Roxb.) Hook.f.",
+        "Morinda tomentosa B.Heyne ex Roth",
+        "Morinda zollingeriana Miq.",
+        "Platanocephalus orientalis Crantz",
+        "Samama citrifolia (L.) Kuntze",
+        "Sarcocephalus leichhardtii F.Muell."
+    ],
+    "familyName": "RUBIACEAE",
+    "englishNames": [
+        "Indian Mulberry",
+        "Great Morinda",
+        "Cheese Fruit",
+        "Mengkudu",
+        "Awl Tree",
+        "Brimstone Tree",
+        "Canary Wood"
+    ],
+    "sinhalaName": "Ahu (අහු)",
+    "description": "පත්‍ර කැළැල් සහිත ශක්තිමත් අතු සහිත පඳුරක් හෝ කුඩා ගසකි. පත්‍ර සරල වන අතර ඉලිප්සාකාර (elliptic) සිට පුළුල් ඉලිප්සාකාර හැඩයක් ගනී, දිග සෙ.මී. 15-20 දක්වා වේ. පත්‍ර වෘන්තය (petiole) සෙ.මී. 3 දක්වා වේ. පුෂ්ප මංජරිය තනි, බිත්තරයක හැඩැති (ovoid), පත්‍ර කක්ෂීය (axillary) ශීර්ෂ පුෂ්ප මංජරියකි (capitulum). මල් නිත්‍ය (regular), ද්විලිංගික (bisexual), සුදු පැහැති සහ පංචාංගික (5-merous) වේ. කොරොල්ලා නලය මි.මී. 8-12 ක් දිග වන අතර කොරොල්ලා ඛණ්ඩ (corolla lobes) ආයත (oblong) හැඩැති සහ මි.මී. 3-6 ක් දිග වේ. ඩිම්බකෝෂය අධෝස්ථ (inferior) වේ. ඵලය සංයුක්ත ඵලයකි (syncarp), විශාල සහ මාංසල වන අතර විෂ්කම්භය සෙ.මී. 3-10 කි.",
+    "treatments": [
+        {
+            "treatment": "Gout",
+            "sinhala": "ගවුට් වාතය (වාතරක්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cysts",
+            "sinhala": "කෝෂ්ඨ (ගෙඩි වර්ග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Amenorrhea",
+            "sinhala": "ඔසප් වීම නතර වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Leaves",
+        "Tender leaves",
+        "Bark",
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "93",
+            "caption": "Habit of the species (Shrub)",
+            "url": "https://i.ibb.co/sJ5MTxp8/plant01140-00093.jpg"
+        },
+        {
+            "image_id": "94",
+            "caption": "Inflorescence & young fruit",
+            "url": "https://i.ibb.co/pvRpNpn5/plant01140-00094.jpg"
+        },
+        {
+            "image_id": "95",
+            "caption": "Mature fruit",
+            "url": "https://i.ibb.co/1tMpyxyX/plant01140-00095.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "අහු ගසේ ඖෂධීය ගුණ ගැන ඔබත් දැනගන්න noni tree 🌿",
+                "url": "https://youtube.com/watch?v=JO-3_VofJM4",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/JO-3_VofJM4/hqdefault.jpg"
+            },
+            {
+                "title": "සතියකට එක අහු ගෙඩියක් කෑවොත් ලෙඩ ඔක්කොම සුවයි",
+                "url": "https://youtube.com/watch?v=NdQf4s6r99A",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/NdQf4s6r99A/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට අමිල ගුණදෙන අහු - Noni Fruit",
+                "url": "https://youtube.com/watch?v=sds8JyS73LQ",
+                "duration": "4:33",
+                "thumbnail": "https://i.ytimg.com/vi/sds8JyS73LQ/hq720.jpg"
+            },
+            {
+                "title": "අහු  || Ahu || Morinda citrifolia || Noni Fruit (22)",
+                "url": "https://youtube.com/watch?v=yOpRnNx4kE4",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/yOpRnNx4kE4/hqdefault.jpg"
+            },
+            {
+                "title": "Ahu | පිළිකා නසන දියවැඩියාවට ගුණ දෙන අහු ශාකය ගැන ඔබ දැනගත යුතුම තොරතුරු |Ahu |cancer treatment",
+                "url": "https://youtube.com/watch?v=tQKVWZJzaKY",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/tQKVWZJzaKY/hq720.jpg"
+            },
+            {
+                "title": "අහු  ඖෂදීය ශාකය /ahu/Morinda citrifolia/",
+                "url": "https://youtube.com/watch?v=zi_7Du3jr8k",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/zi_7Du3jr8k/hq720.jpg"
+            },
+            {
+                "title": "පිළිකාව මට්ටු කරන අහු ගෙඩි l Noni Fruits",
+                "url": "https://youtube.com/watch?v=tHO_exVfFXU",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/tHO_exVfFXU/hq720.jpg"
+            },
+            {
+                "title": "ගොඩක් දෙනෙක් විෂ සහිතයි කියලා හිතන \"අහු\" සතු විශ්මිත ගුණ මෙන්න 😲",
+                "url": "https://youtube.com/watch?v=5A2rjZd9hnw",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/5A2rjZd9hnw/hqdefault.jpg"
+            },
+            {
+                "title": "අහු | පිළිකා නසන, දියවැඩියාව ඇතුළු රෝග රැසකට ගුණ අහු | Ahu Plant",
+                "url": "https://youtube.com/watch?v=0Hyh_IwpUVk",
+                "duration": "11:28",
+                "thumbnail": "https://i.ytimg.com/vi/0Hyh_IwpUVk/hq720.jpg"
+            },
+            {
+                "title": "Ahu - අහු - Morinda citrifolia",
+                "url": "https://youtube.com/watch?v=uf9RWmg_fKs",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/uf9RWmg_fKs/hq720.jpg"
+            },
+            {
+                "title": "ශරීර ශක්තිය ලබා දෙන අහු වල තියෙන පුදුම හිතෙන ගුණය",
+                "url": "https://youtube.com/watch?v=vklF7w0g_2g",
+                "duration": "1:42",
+                "thumbnail": "https://i.ytimg.com/vi/vklF7w0g_2g/hq720.jpg"
+            },
+            {
+                "title": "අහු ගසේ ඖෂධීය ගුණ ගැන ඔබත් දැනගන්න noni tree 🌿",
+                "url": "https://youtube.com/watch?v=y6o9XQtMnSg",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/y6o9XQtMnSg/frame0.jpg"
+            },
+            {
+                "title": "පිලිකා නසන වටිනා ඔසුව අහු|අහු ගෙඩි|අහු ශාඛය|අහු|ahu|sinhala|2022",
+                "url": "https://youtube.com/watch?v=tqrwgF6GBt0",
+                "duration": "7:43",
+                "thumbnail": "https://i.ytimg.com/vi/tqrwgF6GBt0/hq720.jpg"
+            },
+            {
+                "title": "සතියකට එක අහු ගෙඩියක් කෑවොත් පිස්සු හැදෙයි! ඒ තරම් මේක ගුණයි! - තරුණ වෙලා කිසිම ලෙඩක් හැදෙන්නේ නැහැ!",
+                "url": "https://youtube.com/watch?v=xAZwGwbTb0g",
+                "duration": "18:20",
+                "thumbnail": "https://i.ytimg.com/vi/xAZwGwbTb0g/hq720.jpg"
+            },
+            {
+                "title": "අහු/Noni fruit/ahu tree/tropical/noni juice/#Noni#/ishan /",
+                "url": "https://youtube.com/watch?v=5hifbKMmjPA",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/5hifbKMmjPA/hq720.jpg"
+            },
+            {
+                "title": "අහු උනොත් තියාගන්න ඉතා වටිනා ගසක්  A very valuable tree to keep if caught",
+                "url": "https://youtube.com/watch?v=g6ni9T65RmU",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/g6ni9T65RmU/hqdefault.jpg"
+            },
+            {
+                "title": "ahu tree | අහු ශාඛය | Noni fruit | Indian Mulberry | Nuna | Morinda citrifolia",
+                "url": "https://youtube.com/watch?v=gEtWMkSslO0",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/gEtWMkSslO0/hq720.jpg"
+            },
+            {
+                "title": "සියලු රෝග නසන ගුප්ත රහස් ගෙඩි| නොදන්නා දේ අදම දැනගන්න | අහු ශාකය| Noni Fruits | Noni Tree",
+                "url": "https://youtube.com/watch?v=ZIRm6tIrz6Q",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/ZIRm6tIrz6Q/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Cysts",
-      "sinhala": "කෝෂ්ඨ (ගෙඩි වර්ග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Amenorrhea",
-      "sinhala": "ඔසප් වීම නතර වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Leaves",
-    "Tender leaves",
-    "Bark",
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "93",
-      "caption": "Habit of the species (Shrub)",
-      "url": "https://i.ibb.co/sJ5MTxp8/plant01140-00093.jpg"
-    },
-    {
-      "image_id": "94",
-      "caption": "Inflorescence & young fruit",
-      "url": "https://i.ibb.co/pvRpNpn5/plant01140-00094.jpg"
-    },
-    {
-      "image_id": "95",
-      "caption": "Mature fruit",
-      "url": "https://i.ibb.co/1tMpyxyX/plant01140-00095.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

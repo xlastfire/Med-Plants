@@ -1,141 +1,344 @@
 {
-  "scientificName": "Hygrophila auriculata (Schumach.) Heine",
-  "synonyms": [
-    "Asteracantha auriculata Nees",
-    "Asteracantha lindaviana De Wild. & T.Durand",
-    "Asteracantha longifolia (L.) Nees",
-    "Asteracantha macracantha Hochst. ex A.Rich.",
-    "Bahel schulli Buch.-Ham.",
-    "Barleria auriculata Schumach.",
-    "Barleria cornigera Very ex Nees",
-    "Barleria glabrata Vahl ex Nees",
-    "Barleria hexacantha Bertol.",
-    "Barleria hexacantha Moris",
-    "Barleria longifolia L.",
-    "Barleria macracantha R.Br.",
-    "Barleria spinosa Hook. ex Nees",
-    "Hygrophila lindaviana (De Wild. & T.Durand) Burkill",
-    "Hygrophila longifolia (L.) Kurz",
-    "Hygrophila schulli M.R.Almeida & S.M.Almeida",
-    "Hygrophila schulli var. alba Parmar",
-    "Hygrophila spinosa T.Anderson",
-    "Ruellia longifolia (L.) Roxb.",
-    "Tenoria undulata Dehnh."
-  ],
-  "familyName": "ACANTHACEAE",
-  "englishNames": [
-    "Marsh Barbel"
-  ],
-  "sinhalaName": "Neeramulliya  (නීරමුල්ලිය )",
-  "description": "තෙත් හෝ ජලජ ස්ථානවල වැඩෙන බහුවාර්ෂික පැළෑටියකි. කඳ කෙළින් පිහිටා ඇති අතර මීටර් 1.25ක් දක්වා උසට වැඩේ. පත්‍රවල කිහිලිවල සෙන්ටිමීටර 2-4ක් දිග කටු (axillary spines) පිහිටා ඇත. පත්‍ර 6 බැගින් වටයකට (whorls) පිහිටන අතර, ඒවා ඉලිප්සාකාර ලේන්සාකාර (elliptic lanceolate) හැඩයක් ගනී. පත්‍ර සෙන්ටිමීටර 4-14.5 x 1-1.2 ප්‍රමාණයෙන් යුක්ත වන අතර, අග්‍රය උල්ව (acute) සහ දාරය සිනිඳුව (entire) පවතී. පත්‍රයේ උඩ කොටස රළු රෝමවලින් වැසී ඇත (hispid). මල් 6-8ක් වටයකට පිහිටන අතර, උපපත්‍ර (bracts) ලේන්සාකාර වේ. මල් කිරීටය (corolla) දම් පැහැයට හුරු නිල් පැහැයක් ගනී. මල් නලය සෙන්ටිමීටර 1.7ක් දිග වන අතර රේණු පිටතට නෙරා ඇත (exerted). කරල් (capsule) දිගටි ලේන්සාකාර (oblong-lanceolate) හැඩයක් ගන්නා අතර සෙන්ටිමීටර 1ක් දක්වා දිග වේ. බීජ වටකුරු (orbicular) හැඩැති වන අතර මිලිමීටර 0.75ක් දක්වා පළල වේ.",
-  "treatments": [
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Hygrophila auriculata (Schumach.) Heine",
+    "synonyms": [
+        "Asteracantha auriculata Nees",
+        "Asteracantha lindaviana De Wild. & T.Durand",
+        "Asteracantha longifolia (L.) Nees",
+        "Asteracantha macracantha Hochst. ex A.Rich.",
+        "Bahel schulli Buch.-Ham.",
+        "Barleria auriculata Schumach.",
+        "Barleria cornigera Very ex Nees",
+        "Barleria glabrata Vahl ex Nees",
+        "Barleria hexacantha Bertol.",
+        "Barleria hexacantha Moris",
+        "Barleria longifolia L.",
+        "Barleria macracantha R.Br.",
+        "Barleria spinosa Hook. ex Nees",
+        "Hygrophila lindaviana (De Wild. & T.Durand) Burkill",
+        "Hygrophila longifolia (L.) Kurz",
+        "Hygrophila schulli M.R.Almeida & S.M.Almeida",
+        "Hygrophila schulli var. alba Parmar",
+        "Hygrophila spinosa T.Anderson",
+        "Ruellia longifolia (L.) Roxb.",
+        "Tenoria undulata Dehnh."
+    ],
+    "familyName": "ACANTHACEAE",
+    "englishNames": [
+        "Marsh Barbel"
+    ],
+    "sinhalaName": "Neeramulliya  (නීරමුල්ලිය )",
+    "description": "තෙත් හෝ ජලජ ස්ථානවල වැඩෙන බහුවාර්ෂික පැළෑටියකි. කඳ කෙළින් පිහිටා ඇති අතර මීටර් 1.25ක් දක්වා උසට වැඩේ. පත්‍රවල කිහිලිවල සෙන්ටිමීටර 2-4ක් දිග කටු (axillary spines) පිහිටා ඇත. පත්‍ර 6 බැගින් වටයකට (whorls) පිහිටන අතර, ඒවා ඉලිප්සාකාර ලේන්සාකාර (elliptic lanceolate) හැඩයක් ගනී. පත්‍ර සෙන්ටිමීටර 4-14.5 x 1-1.2 ප්‍රමාණයෙන් යුක්ත වන අතර, අග්‍රය උල්ව (acute) සහ දාරය සිනිඳුව (entire) පවතී. පත්‍රයේ උඩ කොටස රළු රෝමවලින් වැසී ඇත (hispid). මල් 6-8ක් වටයකට පිහිටන අතර, උපපත්‍ර (bracts) ලේන්සාකාර වේ. මල් කිරීටය (corolla) දම් පැහැයට හුරු නිල් පැහැයක් ගනී. මල් නලය සෙන්ටිමීටර 1.7ක් දිග වන අතර රේණු පිටතට නෙරා ඇත (exerted). කරල් (capsule) දිගටි ලේන්සාකාර (oblong-lanceolate) හැඩයක් ගන්නා අතර සෙන්ටිමීටර 1ක් දක්වා දිග වේ. බීජ වටකුරු (orbicular) හැඩැති වන අතර මිලිමීටර 0.75ක් දක්වා පළල වේ.",
+    "treatments": [
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Nephrolithiasis",
+            "sinhala": "වකුගඩුවේ ගල් හටගැනීම (වෘක්ක අශ්මරී)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Anasarca",
+            "sinhala": "සර්වාංග ශෝථය (මුළු ශරීරයම ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "seeds",
+        "Whole plant"
+    ],
+    "images": [
+        {
+            "image_id": "67",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/W4cb9Vms/plant00015-00067.jpg"
+        },
+        {
+            "image_id": "68",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/Ps3bzWfs/plant00015-00068.jpg"
+        },
+        {
+            "image_id": "3340",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/bgRkyhwz/plant00015-03340.jpg"
+        },
+        {
+            "image_id": "3341",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/9k12qSF9/plant00015-03341.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "නීරමුල්ලිය ප්‍රතිකාරය | Neeramulliya (Ayurveda Marsh Barbel ) Treatments",
+                "url": "https://youtube.com/watch?v=m-UkUW52RD8",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/m-UkUW52RD8/hqdefault.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය ශාකයේ ඖෂධීය ගුණ ඇතුලු අනෙකුත් තොරතුරු | Neerulliya",
+                "url": "https://youtube.com/watch?v=H5r0lHCygWQ",
+                "duration": "12:46",
+                "thumbnail": "https://i.ytimg.com/vi/H5r0lHCygWQ/hq720.jpg"
+            },
+            {
+                "title": "Neeramulliya Curry | නීරමුල්ලිය ව්යංජනය | sinhala | Neeramulliya Curry Recipe 🍛 | Rasa Musuwa!",
+                "url": "https://youtube.com/watch?v=ApNVsV2Q968",
+                "duration": "7:47",
+                "thumbnail": "https://i.ytimg.com/vi/ApNVsV2Q968/hqdefault.jpg"
+            },
+            {
+                "title": "මුත්‍රා රෝග රැසකට හොදම බෙහෙතක් - නීරමුල්ලිය ඩෙවල්",
+                "url": "https://youtube.com/watch?v=szOzX_wdJkY",
+                "duration": "6:11",
+                "thumbnail": "https://i.ytimg.com/vi/szOzX_wdJkY/hq720.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය ශාකය මුත්‍රා රෝග වලට ගුණද? නැත්නම් අගුණද? නීරමුල්ලිය ගැන සියල්ල කෙටියෙන් සරලව",
+                "url": "https://youtube.com/watch?v=QgNOu1HPpUg",
+                "duration": "16:30",
+                "thumbnail": "https://i.ytimg.com/vi/QgNOu1HPpUg/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා රෝග නසන #නීරමුල්ලිය #නීරමුල්ලිය කිරට#neeramulliya",
+                "url": "https://youtube.com/watch?v=_WwqgvB-Lc0",
+                "duration": "8:00",
+                "thumbnail": "https://i.ytimg.com/vi/_WwqgvB-Lc0/hqdefault.jpg"
+            },
+            {
+                "title": "මුත්‍රා ආසාදන , සන්ධි ඉඳිමුම් හා වකුගඩු ආශ්‍රිත රෝග සඳහා නීරමුල්ලිය | Neeramulliya - Sobadam Piyasa",
+                "url": "https://youtube.com/watch?v=fz673LGhGMw",
+                "duration": "9:09",
+                "thumbnail": "https://i.ytimg.com/vi/fz673LGhGMw/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා රෝග නසන - නීරමුල්ලිය (කටු ඉකිරිය)",
+                "url": "https://youtube.com/watch?v=2GtCSRrUz0o",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/2GtCSRrUz0o/hq720.jpg"
+            },
+            {
+                "title": "වෙනස්ම රසයක් තියෙන නීරමුල්ලිය කොළ සම්බෝලය හරියට රසට හදමු/Neeramulliya sambol/Cook With sudu 🥗🥗",
+                "url": "https://youtube.com/watch?v=pUBJvVwjDVE",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/pUBJvVwjDVE/hqdefault.jpg"
+            },
+            {
+                "title": "මු‍ත්‍රා දැවිල්ලට නීරමුල්ලිය ‍ව්‍යංජනය​ | Neeramulliya for Urine Infections",
+                "url": "https://youtube.com/watch?v=sJWqkN9NGPQ",
+                "duration": "7:38",
+                "thumbnail": "https://i.ytimg.com/vi/sJWqkN9NGPQ/hq720.jpg"
+            },
+            {
+                "title": "\"Flavorful Niramulliya Curry: A Delicious Blend of Spices and Fresh Ingredients |Cuisine of srilanka",
+                "url": "https://youtube.com/watch?v=gNOmZYskVf4",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/gNOmZYskVf4/hq720.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය/කටු ඉකිරිය කාල නැතිනම් මේක බලන්න : Neeramulliya – Marsh Barbel benefits",
+                "url": "https://youtube.com/watch?v=vA4eB7rdDFg",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/vA4eB7rdDFg/hq720.jpg"
+            },
+            {
+                "title": "Niramulli | නීරමුල්ලි හෙවත් කටු ඉකිරිය ශාකයේ ඔසු ගුණ | stone breaker plant for kidney | ikiriya",
+                "url": "https://youtube.com/watch?v=A4apPZ3fsk4",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/A4apPZ3fsk4/hq720.jpg"
+            },
+            {
+                "title": "neera mulliya melluma,short video",
+                "url": "https://youtube.com/watch?v=qGuz-mfnGiI",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/qGuz-mfnGiI/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුද? වකුගඩු සුද්ද කරන්න ඕනද? හිමොග්ලොබින් වැඩි කරලා ඇඟට පණ දෙන නීරමුල්ලිය ඔසුව..",
+                "url": "https://youtube.com/watch?v=O7OtGQwBE98",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/O7OtGQwBE98/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා දැවිල්ලට නීරමුල්ලිය වයංජනයl😋👌 Neeramulliya for urine Infections#youtube#cooking#village",
+                "url": "https://youtube.com/watch?v=FV2es99nfiA",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/FV2es99nfiA/hq720.jpg"
+            },
+            {
+                "title": "48 ලෙඩ ගොඩකට උත්තරේ -  කොච්චර කෑවත් එපා වෙන්නැති  නීරමුල්ලිය MARSH BARBEL",
+                "url": "https://youtube.com/watch?v=e94nlDuk89c",
+                "duration": "5:42",
+                "thumbnail": "https://i.ytimg.com/vi/e94nlDuk89c/hq720.jpg"
+            },
+            {
+                "title": "ඉදලා හිටලා හරි කන්න ඕනා ගුණ පිරුණු පලාව #නීරමුල්ලිය ව්‍යාංජනය / Hygrophila Auriculata Curry ..",
+                "url": "https://youtube.com/watch?v=cnjr5jVLlwo",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/cnjr5jVLlwo/hq720.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය කොළ සම්බෝලයක් හදාගන්න විදිහ/neeramulliya sambola/niramulliya",
+                "url": "https://youtube.com/watch?v=TNKkXAHLts8",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/TNKkXAHLts8/hq720.jpg"
+            },
+            {
+                "title": "රෝග නසන  නීරමුල්ලිය මැල්ලුම",
+                "url": "https://youtube.com/watch?v=FnHU2-QKr5E",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/FnHU2-QKr5E/hqdefault.jpg"
+            },
+            {
+                "title": "මුත්‍රා ගල් වලට හොදම විසඳුමක් / නීරමුල්ලිය ශාකය",
+                "url": "https://youtube.com/watch?v=9nfXqiMPwRs",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/9nfXqiMPwRs/hqdefault.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණැති නීරමුල්ලිය මැල්ලුම - කන්නම ඕන කෑමක් | Neeramulliya Mallum (Marsh Barbel)",
+                "url": "https://youtube.com/watch?v=Wdve_poZxIo",
+                "duration": "8:50",
+                "thumbnail": "https://i.ytimg.com/vi/Wdve_poZxIo/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුද? වකුගඩු සුද්ද කරන්න ඕනද? හිමොග්ලොබින් වැඩි කරලා ඇඟට පණ දෙන නීරමුල්ලිය ඔසුව..",
+                "url": "https://youtube.com/watch?v=zYk6f-SZvzc",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/zYk6f-SZvzc/frame0.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය, පොල්පලා තියනවා නම් මූත්‍රා රෝගවලට තිත | ඖශධීය පාන වර්ග| ශ්‍රී ලංකාවේ ඖශධීය ශාක",
+                "url": "https://youtube.com/watch?v=WA-Rrbl4X4Y",
+                "duration": "2:01",
+                "thumbnail": "https://i.ytimg.com/vi/WA-Rrbl4X4Y/hq720.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය සමග පරිප්පු කරියක් හදමු|Parippu with Neeramulliya | Dhal Recipe - Ep 18 - Rasata Rasak",
+                "url": "https://youtube.com/watch?v=6Oxs2bgNUZo",
+                "duration": "5:26",
+                "thumbnail": "https://i.ytimg.com/vi/6Oxs2bgNUZo/hq720.jpg"
+            },
+            {
+                "title": "මූත්‍රා රෝග නිට්ටාවට සුවකරන නීරමුල්ලිය නොහොත් ඉකිරිය|    Neeramulliya plant | Hela Osu",
+                "url": "https://youtube.com/watch?v=yk-QyasfJXg",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/yk-QyasfJXg/hqdefault.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය ව්‍යංජනය, ( කටු ඉකිරිය ) neeramulliya recipe / niramulliya. Marsh barbel.",
+                "url": "https://youtube.com/watch?v=YwVmwJvlXiQ",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/YwVmwJvlXiQ/hqdefault.jpg"
+            },
+            {
+                "title": "අපල දුරුකර නිරෝගී සම්පත් බෙදන වාසනාවන්ත ශාකය නීරමුල්ලිය / Hygrophila schulli",
+                "url": "https://youtube.com/watch?v=ZMF5PjNzG6g",
+                "duration": "9:56",
+                "thumbnail": "https://i.ytimg.com/vi/ZMF5PjNzG6g/hqdefault.jpg"
+            },
+            {
+                "title": "නීරමුල්ලිය | කටු ඉකිරිය, Neeramulliya (Marsh Barbe)",
+                "url": "https://youtube.com/watch?v=JhXXq6YFzyw",
+                "duration": "6:57",
+                "thumbnail": "https://i.ytimg.com/vi/JhXXq6YFzyw/hq720.jpg"
+            },
+            {
+                "title": "#නීරමුල්ලිය (ඉකිරිය)ශාකය වැදගත්කම අපි දැන ගමු# neeramulliya #cook with manomi #",
+                "url": "https://youtube.com/watch?v=o4taAtv7M1g",
+                "duration": "30:36",
+                "thumbnail": "https://i.ytimg.com/vi/o4taAtv7M1g/hq720.jpg"
+            },
+            {
+                "title": "☘️ Neermulli Plant Benefits for Kidney & Urine Problems | சிறுநீரக கற்களை கரைக்குமா நீர்முள்ளி?",
+                "url": "https://youtube.com/watch?v=aPSpothvqpk",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/aPSpothvqpk/hq720.jpg"
+            },
+            {
+                "title": "Niramulliya Sambol |නීරමුල්ලිය සම්බෝලය | neeramulliya recipe l marsh barbel |Cuisine of sri lanka",
+                "url": "https://youtube.com/watch?v=kX83m1U3sDE",
+                "duration": "6:53",
+                "thumbnail": "https://i.ytimg.com/vi/kX83m1U3sDE/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණැති නීරමුල්ලිය සම්බෝලය- කන්නම ඕන කෑමක් - Niramulliya Sambol නීරමුල්ලිය සම්බෝලයක් ගැමි රසට",
+                "url": "https://youtube.com/watch?v=SbBfvZaoxNg",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/SbBfvZaoxNg/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Nephrolithiasis",
-      "sinhala": "වකුගඩුවේ ගල් හටගැනීම (වෘක්ක අශ්මරී)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Anasarca",
-      "sinhala": "සර්වාංග ශෝථය (මුළු ශරීරයම ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "seeds",
-    "Whole plant"
-  ],
-  "images": [
-    {
-      "image_id": "67",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/W4cb9Vms/plant00015-00067.jpg"
-    },
-    {
-      "image_id": "68",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/Ps3bzWfs/plant00015-00068.jpg"
-    },
-    {
-      "image_id": "3340",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/bgRkyhwz/plant00015-03340.jpg"
-    },
-    {
-      "image_id": "3341",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/9k12qSF9/plant00015-03341.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

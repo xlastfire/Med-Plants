@@ -1,174 +1,323 @@
 {
-  "scientificName": "Terminalia arjuna (Roxb. ex DC.) Wight & Arn.",
-  "synonyms": [
-    "Myrobalanus cuneata (Roth) Kuntze",
-    "Pentaptera angustifolia Roxb.",
-    "Pentaptera arjuna Roxb. ex DC.",
-    "Pentaptera glabra Roxb.",
-    "Pentaptera obovata DC.",
-    "Terminalia berryi Wight & Arn.",
-    "Terminalia cuneata Roth",
-    "Terminalia glabra Wight & Arn.",
-    "Terminalia ovalifolia Rottler ex C.B.Clarke",
-    "Terminalia psidiifolia Delile",
-    "Terminalia urjan Royle"
-  ],
-  "familyName": "COMBRETACEAE",
-  "englishNames": [
-    "Arjun Tree"
-  ],
-  "sinhalaName": "Kumbuk (කුඹුක්)",
-  "description": "පදනමෙහි පුවරු මුල් (buttressed) සහිත, පැතිරෙන සහ තිරස් අතට විහිදෙන අතු සහිත ඉතා විශාල ගසකි. පත්‍ර සරල වන අතර උපපත්‍ර (stipules) රහිතය; දිග සෙ.මී. 7.5-15 ක් සහ පළල සෙ.මී. 4-7 ක් වේ; පත්‍ර වෘන්ත (petioles) ඉතා කෙටිය. මල් අග්‍රස්ථ පුෂ්ප මංජරි (terminal panicles) ලෙස පිහිටයි; පෙති රහිත වන අතර මී පැණි සුවඳකින් යුක්තය. ඵලය නොපැළෙන ඇට සහිත ඵලයකි (indehiscent drupe), දිග සෙ.මී. 3.5-5 ක් වන අතර ප්‍රතිලෝම බිත්තරාකාර-ඩිම්බාකාර (obovate-ovoid) හැඩයක් ගනී; අන්තඃඵලාවරණය (endocarp) තන්තුමය සහ දැවමය ස්වභාවයක් ගන්නා අතර තද දුඹුරු පැහැතිය; බීජය තනි එකකි.",
-  "treatments": [
-    {
-      "treatment": "Heart Diseases",
-      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
+    "scientificName": "Terminalia arjuna (Roxb. ex DC.) Wight & Arn.",
+    "synonyms": [
+        "Myrobalanus cuneata (Roth) Kuntze",
+        "Pentaptera angustifolia Roxb.",
+        "Pentaptera arjuna Roxb. ex DC.",
+        "Pentaptera glabra Roxb.",
+        "Pentaptera obovata DC.",
+        "Terminalia berryi Wight & Arn.",
+        "Terminalia cuneata Roth",
+        "Terminalia glabra Wight & Arn.",
+        "Terminalia ovalifolia Rottler ex C.B.Clarke",
+        "Terminalia psidiifolia Delile",
+        "Terminalia urjan Royle"
+    ],
+    "familyName": "COMBRETACEAE",
+    "englishNames": [
+        "Arjun Tree"
+    ],
+    "sinhalaName": "Kumbuk (කුඹුක්)",
+    "description": "පදනමෙහි පුවරු මුල් (buttressed) සහිත, පැතිරෙන සහ තිරස් අතට විහිදෙන අතු සහිත ඉතා විශාල ගසකි. පත්‍ර සරල වන අතර උපපත්‍ර (stipules) රහිතය; දිග සෙ.මී. 7.5-15 ක් සහ පළල සෙ.මී. 4-7 ක් වේ; පත්‍ර වෘන්ත (petioles) ඉතා කෙටිය. මල් අග්‍රස්ථ පුෂ්ප මංජරි (terminal panicles) ලෙස පිහිටයි; පෙති රහිත වන අතර මී පැණි සුවඳකින් යුක්තය. ඵලය නොපැළෙන ඇට සහිත ඵලයකි (indehiscent drupe), දිග සෙ.මී. 3.5-5 ක් වන අතර ප්‍රතිලෝම බිත්තරාකාර-ඩිම්බාකාර (obovate-ovoid) හැඩයක් ගනී; අන්තඃඵලාවරණය (endocarp) තන්තුමය සහ දැවමය ස්වභාවයක් ගන්නා අතර තද දුඹුරු පැහැතිය; බීජය තනි එකකි.",
+    "treatments": [
+        {
+            "treatment": "Heart Diseases",
+            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Obesity",
+            "sinhala": "ස්ථූලතාවය (අධික තරබාරුව)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bone Fractures",
+            "sinhala": "අස්ථි බිඳීම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Candidiasis",
+            "sinhala": "කැන්ඩිඩියාසිස් (දිලීර ආසාදන)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Bark",
+        "Leaves",
+        "Roots",
+        "Flowers",
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "195",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/h0ZL4Zm/plant00314-00195.jpg"
+        },
+        {
+            "image_id": "196",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/JwhJK6Fd/plant00314-00196.jpg"
+        },
+        {
+            "image_id": "3512",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/gMfCXkpd/plant00314-03512.jpg"
+        },
+        {
+            "image_id": "3513",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/Mk0VSvbm/plant00314-03513.jpg"
+        },
+        {
+            "image_id": "3514",
+            "caption": "Leaf lower surface (PMR)",
+            "url": "https://i.ibb.co/CfgR6Zy/plant00314-03514.jpg"
+        },
+        {
+            "image_id": "3515",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/fGpr54pz/plant00314-03515.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කුඹුක්. Kumbuk Tree. Ayurvedic value of Kumbuk.",
+                "url": "https://youtube.com/watch?v=KjUTxwGyQ78",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/KjUTxwGyQ78/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක් පොතු පානය,කොලෙස්ටරෝල් වලට ස්තිර විසඳුම සතියට දෙවරක් හතර එකට හිඳ සතියට දෙවරක් පානය කරන්න.🙏🙏.",
+                "url": "https://youtube.com/watch?v=dvw0xUx9Jik",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/dvw0xUx9Jik/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක් බොන්සායි ගසක් සාදා ගන්නේ කෙසේද? How to make a kumbuk bonsai tree #srilanka #shinhala #bonsai",
+                "url": "https://youtube.com/watch?v=5KzM2pP8YwI",
+                "duration": "10:06",
+                "thumbnail": "https://i.ytimg.com/vi/5KzM2pP8YwI/hqdefault.jpg"
+            },
+            {
+                "title": "arjun tree 2022 | kumbuk gasa 2022 |  කුඹුක් ගස 2022 | Hela Osu Samaga Ama 2022",
+                "url": "https://youtube.com/watch?v=wXDAvy0cLrU",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/wXDAvy0cLrU/hqdefault.jpg"
+            },
+            {
+                "title": "කුඹුක් ගසේ ඇති ඖෂධීය ප්‍රයෝජන | kumbuk plant benefits | Terminalia Arjuna ✅🌿",
+                "url": "https://youtube.com/watch?v=mewJ4ysNBNc",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/mewJ4ysNBNc/hqdefault.jpg"
+            },
+            {
+                "title": "හෘද රෝග රැසකට පිලියමක් වූ ආයුර්වේදීය ගුණ රාශියක් සපිරි සුවිශේෂී ශාකය | කුඹුක් ශාකය",
+                "url": "https://youtube.com/watch?v=X1NIdFPOlEE",
+                "duration": "18:44",
+                "thumbnail": "https://i.ytimg.com/vi/X1NIdFPOlEE/hq720.jpg"
+            },
+            {
+                "title": "හෘද රෝග වලකන කුඹුක් | Kubuk | Arjuna | Kubuk kiri Kasaya | Ranpatha Suwapatha Medical Service",
+                "url": "https://youtube.com/watch?v=yKVnfKmgHkM",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/yKVnfKmgHkM/hqdefault.jpg"
+            },
+            {
+                "title": "කුඹුක් ගස/Discovering the Majestic Kumbuk Tree of Sri Lanka\"/kubuk tree",
+                "url": "https://youtube.com/watch?v=fJRUPRjdYy4",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/fJRUPRjdYy4/hqdefault.jpg"
+            },
+            {
+                "title": "කුඹුක් බොන්සායි ගසක් සාදා ගන්නේ කෙසේද? how to make a kumbuk bonsai tree EPISODE 26",
+                "url": "https://youtube.com/watch?v=FmqPtKloCCo",
+                "duration": "15:22",
+                "thumbnail": "https://i.ytimg.com/vi/FmqPtKloCCo/hq720.jpg"
+            },
+            {
+                "title": "how to make kumbuk bonsai/ කුඹුක් බොන්සායි සරලව",
+                "url": "https://youtube.com/watch?v=sctyu5FL7yI",
+                "duration": "6:20",
+                "thumbnail": "https://i.ytimg.com/vi/sctyu5FL7yI/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ සහිත කුඹුක් ශාකය  | benifits of Arjuna tree | Episode 28",
+                "url": "https://youtube.com/watch?v=-tsp3fBSu5U",
+                "duration": "3:46",
+                "thumbnail": "https://i.ytimg.com/vi/-tsp3fBSu5U/hq720.jpg"
+            },
+            {
+                "title": "kumbuk bonsai.. කුඹුක් බොන්සයි...",
+                "url": "https://youtube.com/watch?v=XH_uOwUNBso",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/XH_uOwUNBso/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක් පොතු ටිකකින් ඇගේ තියෙන සියලුම විෂ කකුල් දෙකෙන් පිට කරවන විශ්මිත ක්‍රමය |  Foot Detoxes",
+                "url": "https://youtube.com/watch?v=eHfvHpLlWZ4",
+                "duration": "12:20",
+                "thumbnail": "https://i.ytimg.com/vi/eHfvHpLlWZ4/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ පිරි කුඹුක් ගස​ | vishmitha guna sahitha kubuk gasa |kubuk tree sri lanka | medicine| sl",
+                "url": "https://youtube.com/watch?v=6EUTqDWQ4Rw",
+                "duration": "4:05",
+                "thumbnail": "https://i.ytimg.com/vi/6EUTqDWQ4Rw/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක් ගහේ පොතුවල තියෙන විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=Ig0tf2R9f_s",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/Ig0tf2R9f_s/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක් ගහේ ගුණ බිදක්.dirghayusa",
+                "url": "https://youtube.com/watch?v=ij1YuJjYC3k",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/ij1YuJjYC3k/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක් ගස ගැන ඔබ මෙතෙක් නොඇසූ විශ්මිත කරුනු kubuk gasa | wakugadu rooga | clear water | jala perana",
+                "url": "https://youtube.com/watch?v=wKGc8qbdD84",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/wKGc8qbdD84/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක් ශාකයේ විශ්මිත ඖෂධීය ගුණ 😱😱😱",
+                "url": "https://youtube.com/watch?v=hw_IkbEiLiU",
+                "duration": "7:50",
+                "thumbnail": "https://i.ytimg.com/vi/hw_IkbEiLiU/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක් - Kumbuk - Terminalia arjuna",
+                "url": "https://youtube.com/watch?v=gGnhX-r9AJ4",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/gGnhX-r9AJ4/hq720.jpg"
+            },
+            {
+                "title": "Value Of Arjuna | කුඹුක් ශාකයේ වටිනාකම | Kumbuk shakaye watinakama",
+                "url": "https://youtube.com/watch?v=O9Z7I-uuPWI",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/O9Z7I-uuPWI/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක්. Kumbuk Tree. Ayurvedic value of Kumbuk.",
+                "url": "https://youtube.com/watch?v=94sabk3mhIU",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/94sabk3mhIU/frame0.jpg"
+            },
+            {
+                "title": "කුඹුක් ගසෙන් වටිනා උපදෙස්.",
+                "url": "https://youtube.com/watch?v=HXcMFcRQtQ0",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/HXcMFcRQtQ0/hq720.jpg"
+            },
+            {
+                "title": "කුඹුක් ගසේ ඇති ඖෂධීය ප්‍රයෝජන | kumbuk plant benefits | Terminalia Arjuna ✅🌿",
+                "url": "https://youtube.com/watch?v=3UdPwCT-Ces",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/3UdPwCT-Ces/frame0.jpg"
+            },
+            {
+                "title": "කුඹුක් පොතු පානය,කොලෙස්ටරෝල් වලට ස්තිර විසඳුම සතියට දෙවරක් හතර එකට හිඳ සතියට දෙවරක් පානය කරන්න.🙏🙏.",
+                "url": "https://youtube.com/watch?v=zmC0VwQzsKE",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/zmC0VwQzsKE/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Obesity",
-      "sinhala": "ස්ථූලතාවය (අධික තරබාරුව)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Bone Fractures",
-      "sinhala": "අස්ථි බිඳීම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Candidiasis",
-      "sinhala": "කැන්ඩිඩියාසිස් (දිලීර ආසාදන)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Bark",
-    "Leaves",
-    "Roots",
-    "Flowers",
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "195",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/h0ZL4Zm/plant00314-00195.jpg"
-    },
-    {
-      "image_id": "196",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/JwhJK6Fd/plant00314-00196.jpg"
-    },
-    {
-      "image_id": "3512",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/gMfCXkpd/plant00314-03512.jpg"
-    },
-    {
-      "image_id": "3513",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/Mk0VSvbm/plant00314-03513.jpg"
-    },
-    {
-      "image_id": "3514",
-      "caption": "Leaf lower surface (PMR)",
-      "url": "https://i.ibb.co/CfgR6Zy/plant00314-03514.jpg"
-    },
-    {
-      "image_id": "3515",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/fGpr54pz/plant00314-03515.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

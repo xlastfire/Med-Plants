@@ -1,243 +1,554 @@
 {
-  "scientificName": "Zingiber officinale Roscoe",
-  "synonyms": [
-    "Amomum angustifolium Salisb.",
-    "Amomum zingiber L.",
-    "Amomum zinziba Hill",
-    "Zingiber aromaticum Noronha",
-    "Zingiber cholmondeleyi (F.M.Bailey) K.Schum.",
-    "Zingiber missionis Wall.",
-    "Zingiber officinale f. macrorhizonum (Makino) M.Hiroe",
-    "Zingiber officinale f. rubens (Makino) M.Hiroe",
-    "Zingiber officinale var. cholmondeleyi F.M.Bailey",
-    "Zingiber officinale var. macrorhizonum Makino",
-    "Zingiber officinale var. rubens Makino",
-    "Zingiber officinale var. rubrum Theilade",
-    "Zingiber officinale var. sichuanense (Z.Y.Zhu, S.L.Zhang & S.X.Chen) Z.Y.Zhu, S.L.Zhang & S.X.Chen",
-    "Zingiber sichuanense Z.Y.Zhu, S.L.Zhang & S.X.Chen",
-    "Zingiber zingiber (L.) H.Karst."
-  ],
-  "familyName": "ZINGIBERACEAE",
-  "englishNames": [
-    "Ginger",
-    "Halia",
-    "Common Ginger",
-    "Canton Ginger",
-    "Stem Ginger"
-  ],
-  "sinhalaName": "Inguru (ඉඟුරු)",
-  "description": "රයිසෝම සහිත (rhizomatous) පැළෑටි වේ. පත්‍ර සහිත කඳන් මීටර් 2ක් දක්වා උස වේ. පත්‍ර කොපු එක් පැත්තකින් විවෘතව පවතී; පත්‍ර තල ද්විපේළිව (distichously) පිහිටා ඇති අතර, වෘන්ත රහිත (sessile) වේ, 15 x 1.5 සෙ.මී. දක්වා විශාල වේ, පත්‍ර දිව (ligule) මි.මී. 2-4ක් දිගු වන අතර පටලමය (membranous) වේ. පුෂ්ප දණ්ඩ (peduncle) සෙ.මී. 25ක් දක්වා දිගු වේ. පුෂ්ප මංජරිය (inflorescence) 4-5 x 2 සෙ.මී. පමණ වේ. උප පත්‍ර (bracts) 2.5 x 2 සෙ.මී. පමණ වන අතර කොළ පැහැතිය. කොරොල්ලා නාලය (corolla-tube) සෙ.මී. 2.5ක් පමණ දිගු වේ; පෙති (lobes) අඳුරු කහ පැහැති වන අතර 2 x 1 සෙ.මී. දක්වා විශාල වේ; තොල් පෙත්ත (labellum) අඳුරු දම් පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Zingiber officinale Roscoe",
+    "synonyms": [
+        "Amomum angustifolium Salisb.",
+        "Amomum zingiber L.",
+        "Amomum zinziba Hill",
+        "Zingiber aromaticum Noronha",
+        "Zingiber cholmondeleyi (F.M.Bailey) K.Schum.",
+        "Zingiber missionis Wall.",
+        "Zingiber officinale f. macrorhizonum (Makino) M.Hiroe",
+        "Zingiber officinale f. rubens (Makino) M.Hiroe",
+        "Zingiber officinale var. cholmondeleyi F.M.Bailey",
+        "Zingiber officinale var. macrorhizonum Makino",
+        "Zingiber officinale var. rubens Makino",
+        "Zingiber officinale var. rubrum Theilade",
+        "Zingiber officinale var. sichuanense (Z.Y.Zhu, S.L.Zhang & S.X.Chen) Z.Y.Zhu, S.L.Zhang & S.X.Chen",
+        "Zingiber sichuanense Z.Y.Zhu, S.L.Zhang & S.X.Chen",
+        "Zingiber zingiber (L.) H.Karst."
+    ],
+    "familyName": "ZINGIBERACEAE",
+    "englishNames": [
+        "Ginger",
+        "Halia",
+        "Common Ginger",
+        "Canton Ginger",
+        "Stem Ginger"
+    ],
+    "sinhalaName": "Inguru (ඉඟුරු)",
+    "description": "රයිසෝම සහිත (rhizomatous) පැළෑටි වේ. පත්‍ර සහිත කඳන් මීටර් 2ක් දක්වා උස වේ. පත්‍ර කොපු එක් පැත්තකින් විවෘතව පවතී; පත්‍ර තල ද්විපේළිව (distichously) පිහිටා ඇති අතර, වෘන්ත රහිත (sessile) වේ, 15 x 1.5 සෙ.මී. දක්වා විශාල වේ, පත්‍ර දිව (ligule) මි.මී. 2-4ක් දිගු වන අතර පටලමය (membranous) වේ. පුෂ්ප දණ්ඩ (peduncle) සෙ.මී. 25ක් දක්වා දිගු වේ. පුෂ්ප මංජරිය (inflorescence) 4-5 x 2 සෙ.මී. පමණ වේ. උප පත්‍ර (bracts) 2.5 x 2 සෙ.මී. පමණ වන අතර කොළ පැහැතිය. කොරොල්ලා නාලය (corolla-tube) සෙ.මී. 2.5ක් පමණ දිගු වේ; පෙති (lobes) අඳුරු කහ පැහැති වන අතර 2 x 1 සෙ.මී. දක්වා විශාල වේ; තොල් පෙත්ත (labellum) අඳුරු දම් පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Flatulence",
+            "sinhala": "බඩ පිපුම (වාතය පිරීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Vomiting",
+            "sinhala": "වමනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Abdominal Pain",
+            "sinhala": "බඩේ කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Common Cold",
+            "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hiccups",
+            "sinhala": "හිකිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Heart Diseases",
+            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Anemia",
+            "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysuria",
+            "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hypothermia",
+            "sinhala": "ශරීර උෂ්ණත්වය අසාමාන්‍ය ලෙස අඩුවීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Rhizomes"
+    ],
+    "images": [
+        {
+            "image_id": "455",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/23yzyYq5/plant01352-00455.jpg"
+        },
+        {
+            "image_id": "456",
+            "caption": "Uprooted plant",
+            "url": "https://i.ibb.co/tMV3g8RK/plant01352-00456.jpg"
+        },
+        {
+            "image_id": "457",
+            "caption": "Rhizome",
+            "url": "https://i.ibb.co/qLf020cd/plant01352-00457.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඉගුරු වගාව | වගා මලු වල ඉගුරු | ඉක්මන් වගා | ginger plants | wagawa #ginger #ඉගුරු #dilonagri",
+                "url": "https://youtube.com/watch?v=NXDizOPtZ98",
+                "duration": "7:29",
+                "thumbnail": "https://i.ytimg.com/vi/NXDizOPtZ98/hq720.jpg"
+            },
+            {
+                "title": "''ඉඟුරු ''ගුණ  අගුණ",
+                "url": "https://youtube.com/watch?v=xeUVyF6wBzQ",
+                "duration": "5:32",
+                "thumbnail": "https://i.ytimg.com/vi/xeUVyF6wBzQ/hq720.jpg"
+            },
+            {
+                "title": "මේව දන්නෙ නැතිවද ඔබත්  Ginger  බොන්නෙ? | Ginger for Health  Issues | Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=98vuUH62esI",
+                "duration": "8:14",
+                "thumbnail": "https://i.ytimg.com/vi/98vuUH62esI/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු වගා කිරිමේ සිට අස්වැන්න නෙලිම දක්වා මුලික දැනුම සරලව prt 1 / #iguru #ඉගුරු #ginger #ඉගුරුවගාව",
+                "url": "https://youtube.com/watch?v=BUkbOqa6ZWE",
+                "duration": "10:40",
+                "thumbnail": "https://i.ytimg.com/vi/BUkbOqa6ZWE/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු වගාකරන අලුත්ම ක්‍රමය  The latest method of growing ginger iguru wagawa ඉගුරු වගාව sinhala",
+                "url": "https://youtube.com/watch?v=y0L9VeG0BBQ",
+                "duration": "8:32",
+                "thumbnail": "https://i.ytimg.com/vi/y0L9VeG0BBQ/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු වගාවට බූමිය සකස් කිරිම😱ඉගුරු වගාවට අවස්සිය කරුනු රැසක්🤫🙄#ginger #වගාව #ඉගුරු #plants #natural",
+                "url": "https://youtube.com/watch?v=OBFQykv2X9o",
+                "duration": "7:20",
+                "thumbnail": "https://i.ytimg.com/vi/OBFQykv2X9o/hq720.jpg"
+            },
+            {
+                "title": "සාර්ථක ඉඟුරු වගාවක සැඟවුන වගා ක්‍රම / iguru wagawa /  iguru wagawa  sinhala / how to grow Ginger",
+                "url": "https://youtube.com/watch?v=gZlv4qvkwFk",
+                "duration": "27:17",
+                "thumbnail": "https://i.ytimg.com/vi/gZlv4qvkwFk/hq720.jpg"
+            },
+            {
+                "title": "ඉඟුරු වවන්න බිජ ඉඟුරැම ඔනිද?|How to plant #ginger  without special #ginger #seeds #gingerfarming",
+                "url": "https://youtube.com/watch?v=9NvMTnnTPc4",
+                "duration": "5:37",
+                "thumbnail": "https://i.ytimg.com/vi/9NvMTnnTPc4/hq720.jpg"
+            },
+            {
+                "title": "ඉඟුරු වගාවක් මෙහෙම කරොත් ගොඩම තමයි | Ginger Planting | iguru wagawa | Beeja iguri wagawa",
+                "url": "https://youtube.com/watch?v=FuKhrlCmv10",
+                "duration": "1:19:54",
+                "thumbnail": "https://i.ytimg.com/vi/FuKhrlCmv10/hq720.jpg"
+            },
+            {
+                "title": "එන කන්නයේ සාර්ථක ඉඟුරු වගාවක්",
+                "url": "https://youtube.com/watch?v=D5aFEZdIHnA",
+                "duration": "1:17:51",
+                "thumbnail": "https://i.ytimg.com/vi/D5aFEZdIHnA/hq720.jpg"
+            },
+            {
+                "title": "මෙන්න මේ අය ඉඟුරු කන්න එපා - Benefits of Ginger and Side Effects (2018)",
+                "url": "https://youtube.com/watch?v=Fxb4t6N0FFs",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/Fxb4t6N0FFs/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු බීජ  ඉගුරු වගාව චීන ඉගුරු   ginger cultivation Chinese ginger  ginger seeds ඉගුරු වගාවට උපදෙස්",
+                "url": "https://youtube.com/watch?v=sKIvWfzYia8",
+                "duration": "16:18",
+                "thumbnail": "https://i.ytimg.com/vi/sKIvWfzYia8/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු වගාවේ කවුරුත් හෙළි නොකල රහස් ගොවිසදා හෙළිකරයි !",
+                "url": "https://youtube.com/watch?v=T2NyFEyZPec",
+                "duration": "17:16",
+                "thumbnail": "https://i.ytimg.com/vi/T2NyFEyZPec/hq720.jpg"
+            },
+            {
+                "title": "ඉඟුරු වල අරුම පුදුම ගුණ 7ක් මෙන්න | 7 Amazing Benefits Of Ginger",
+                "url": "https://youtube.com/watch?v=FPmSMqgXkcQ",
+                "duration": "4:47",
+                "thumbnail": "https://i.ytimg.com/vi/FPmSMqgXkcQ/hq720.jpg"
+            },
+            {
+                "title": "ඉඟුරු දාල තේ බිව්වොත් වෙන දේ මෙන්න : Health benefits of ginger tea",
+                "url": "https://youtube.com/watch?v=HTNPvXGPSIY",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/HTNPvXGPSIY/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු වල ඔබ නොදත් දිව්‍යමය ගුණ [Characteristics about ginger you wonder]",
+                "url": "https://youtube.com/watch?v=qwWWczTGdZE",
+                "duration": "5:26",
+                "thumbnail": "https://i.ytimg.com/vi/qwWWczTGdZE/hq720.jpg"
+            },
+            {
+                "title": "නිතර ඉඟුරු කන අයට වෙන දේ මෙන්න : Benefits of Ginger",
+                "url": "https://youtube.com/watch?v=ZOtoZcdLodY",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/ZOtoZcdLodY/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු වල ඇති විශ්මිත ගුණ - Amazing properties of ginger / Health Vedeo",
+                "url": "https://youtube.com/watch?v=Y63wbiZsyM8",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/Y63wbiZsyM8/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු පානයෙන් ලැබෙන දේවල් මෙන්න /Here's what comes with ginger",
+                "url": "https://youtube.com/watch?v=27ZmSxG6cKI",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/27ZmSxG6cKI/hqdefault.jpg"
+            },
+            {
+                "title": "ඉඟුරු තේ වල විශේෂ ගුණ ..",
+                "url": "https://youtube.com/watch?v=iwPKiV5ujfY",
+                "duration": "1:39",
+                "thumbnail": "https://i.ytimg.com/vi/iwPKiV5ujfY/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු වලින් ඇති ප්‍රයෝජන | Benefits of Ginger",
+                "url": "https://youtube.com/watch?v=zBhBuC3pKWE",
+                "duration": "7:07",
+                "thumbnail": "https://i.ytimg.com/vi/zBhBuC3pKWE/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරුවල ඇති කවුරුත් නොදන්නා විශ්මිත ගුණ - Amazing properties of ginger",
+                "url": "https://youtube.com/watch?v=1GAI_FK_uUE",
+                "duration": "5:23",
+                "thumbnail": "https://i.ytimg.com/vi/1GAI_FK_uUE/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු මේ  තරම් ගුණ බව ඔබ දැන සිටියාද? #ginger",
+                "url": "https://youtube.com/watch?v=XPRrk9qgDsw",
+                "duration": "4:59",
+                "thumbnail": "https://i.ytimg.com/vi/XPRrk9qgDsw/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් ඉඟුරු කන බොන කෙනෙක් ද? | Ginger By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=BEy-7hJpV1g",
+                "duration": "10:19",
+                "thumbnail": "https://i.ytimg.com/vi/BEy-7hJpV1g/hq720.jpg"
+            },
+            {
+                "title": "උදේට කරදර කරන ගොඩක් ලෙඩ වලට විසඳුම. | The Solution To Many Ailments That Bother You In The Morning.",
+                "url": "https://youtube.com/watch?v=86EfuQ8GjL0",
+                "duration": "9:42",
+                "thumbnail": "https://i.ytimg.com/vi/86EfuQ8GjL0/hq720.jpg"
+            },
+            {
+                "title": "රෑට නිදාගන්න කලින් \"ඉඟුරු තේ\" බිව්වොත් වෙන දේ දන්නවද? | Ginger Tea Benefits",
+                "url": "https://youtube.com/watch?v=k5k4RAEAJ7Y",
+                "duration": "9:40",
+                "thumbnail": "https://i.ytimg.com/vi/k5k4RAEAJ7Y/hq720.jpg"
+            },
+            {
+                "title": "Iguru shakaya-ඉගුරු ශාකයේ ඖෂධීය ගුණ Ginger#osu#sinhala#ayurweda",
+                "url": "https://youtube.com/watch?v=mIsGMMSMtB4",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/mIsGMMSMtB4/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා නසන කෑමට ගන්න ඉඟුරු විශේෂයක් දන්නවද? | Thai Ginger | Galangal | Ceylon Agri| Episode  322",
+                "url": "https://youtube.com/watch?v=_Nlz3vcySB0",
+                "duration": "11:06",
+                "thumbnail": "https://i.ytimg.com/vi/_Nlz3vcySB0/hq720.jpg"
+            },
+            {
+                "title": "මෙන්න මේ අය ඉඟුරු කෑවොත් විස වෙයි - These 4 Type Of People Should Never Consume Ginger",
+                "url": "https://youtube.com/watch?v=xhEwsOvFWcY",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/xhEwsOvFWcY/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු වගාකරන අලුත්ම ක්‍රමය, බදුන් ගතකර ඉගුරු සිටුවීම  The latest method of growing ginger",
+                "url": "https://youtube.com/watch?v=byvPPXlDjcE",
+                "duration": "9:53",
+                "thumbnail": "https://i.ytimg.com/vi/byvPPXlDjcE/hq720.jpg"
+            },
+            {
+                "title": "හිස්බඩ ඉඟුරු වතුර බිව්වොත් දවස් 14කින් බඩේ තෙල් දියවෙන හැටි!  Ginger Water for Weight Loss (Sinhala)",
+                "url": "https://youtube.com/watch?v=FyeIvuvTGnI",
+                "duration": "3:55",
+                "thumbnail": "https://i.ytimg.com/vi/FyeIvuvTGnI/hq720.jpg"
+            },
+            {
+                "title": "දින 30ක් ඉඟුරු ආහාරයට ගැනීමෙන් සිරුරට ලැබෙන විශ්මිත ප්‍රතිඵල 9ක් | Health Benefits of Ginger",
+                "url": "https://youtube.com/watch?v=7CXdsSB3Hp0",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/7CXdsSB3Hp0/hq720.jpg"
+            },
+            {
+                "title": "13) බෙහෙත් පැළෑටි වල් ඉඟුරු Wild Ginger  Zingiber zerumbet",
+                "url": "https://youtube.com/watch?v=3pQ05KSaytc",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/3pQ05KSaytc/hq720.jpg"
+            },
+            {
+                "title": "ඉඟුරු වලින් අගය එකතුකළ නිෂ්පාදන",
+                "url": "https://youtube.com/watch?v=EnSi50yRYoU",
+                "duration": "13:58",
+                "thumbnail": "https://i.ytimg.com/vi/EnSi50yRYoU/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ඉඟුරු කෑවොත් ඔබේ සිරුරට වෙන විශ්මිත දේ 9ක්!😳| Health benefits of Eating Ginger Sinhala",
+                "url": "https://youtube.com/watch?v=TJtGwT68QV0",
+                "duration": "3:25",
+                "thumbnail": "https://i.ytimg.com/vi/TJtGwT68QV0/hq720.jpg"
+            },
+            {
+                "title": "ආහාර සැදීමේදී අපි ඉගුරු යොදාගන්න ඕනේ ඇයි කියලා ඔයා දන්නවද |  Lanka Ayurveda |",
+                "url": "https://youtube.com/watch?v=w6BZ3gQb4RQ",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/w6BZ3gQb4RQ/hq720.jpg"
+            },
+            {
+                "title": "About Ginger Cultivation - ඉගුරු වගාවේ කදවිදින පණුවට ප්‍රතිකාරය",
+                "url": "https://youtube.com/watch?v=Pk_CtsDymqM",
+                "duration": "6:48",
+                "thumbnail": "https://i.ytimg.com/vi/Pk_CtsDymqM/hq720.jpg"
+            },
+            {
+                "title": "ඉඟුරු කුඩු ගෙදරම හදා ගන්න හැටි | how to make ginger powder at home | iguru kudu hadana hati | nira s",
+                "url": "https://youtube.com/watch?v=NZZTUfDAAWk",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/NZZTUfDAAWk/hq720.jpg"
+            },
+            {
+                "title": "මේ විදියට ඉඟුරු බිව්වොත් වාසි ගොඩක් ☕️🍋",
+                "url": "https://youtube.com/watch?v=ZYXQNmd-URA",
+                "duration": "5:51",
+                "thumbnail": "https://i.ytimg.com/vi/ZYXQNmd-URA/hq720.jpg"
+            },
+            {
+                "title": "ඉඟුරු ගුණ මහරු Ginger properties",
+                "url": "https://youtube.com/watch?v=Le-V1zje8j8",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/Le-V1zje8j8/hq720.jpg"
+            },
+            {
+                "title": "ඉඟුරු වල ඇති ගුණ වගේම අගුණ ගැනත් ඔබ දන්නවද ? 🫚🌿",
+                "url": "https://youtube.com/watch?v=ina8ZHYGZK4",
+                "duration": "5:18",
+                "thumbnail": "https://i.ytimg.com/vi/ina8ZHYGZK4/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග පළවා හරින ඉඟුරු කොත්තමල්ලිවල ඔබ නොදත් විශ්මිත ගුණ !",
+                "url": "https://youtube.com/watch?v=gjt2XNTtY-E",
+                "duration": "11:19",
+                "thumbnail": "https://i.ytimg.com/vi/gjt2XNTtY-E/hq720.jpg"
+            },
+            {
+                "title": "2)ඉඟුරු තනි පැලයක් සිටුවීම අසාර්ථක වෙයිද?",
+                "url": "https://youtube.com/watch?v=1xycW8PmitA",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/1xycW8PmitA/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "5) ඉඟුරු වගාවට පස් දැමීම හා වැදගත් කරුණු",
+                "url": "https://youtube.com/watch?v=gm60YnA3Cjo",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/gm60YnA3Cjo/hq720.jpg"
+            },
+            {
+                "title": "මෙන්න මේ අය ඉඟුරු පාවිච්චි කරන්න එපා - These Types of People Should Never USe Ginger",
+                "url": "https://youtube.com/watch?v=DcG9WziuYfQ",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/DcG9WziuYfQ/hqdefault.jpg"
+            },
+            {
+                "title": "ඉඟුරු භාවිතයෙන් සිරුරට ලැබෙන විශ්මිත දේවල් | Amazing Health Benefits of Ginger | sl beauty show",
+                "url": "https://youtube.com/watch?v=diNNWL6eQro",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/diNNWL6eQro/hq720.jpg"
+            },
+            {
+                "title": "මිල අධික ඉඟුරු වර්ගයක් දන්නවද? | Amazing health benefits of Mango Ginger | Ceylon Agri | Episode 452",
+                "url": "https://youtube.com/watch?v=ROkxKsE9Qts",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/ROkxKsE9Qts/hq720.jpg"
+            },
+            {
+                "title": "ඉඟුරු  වල ගුණ",
+                "url": "https://youtube.com/watch?v=Ot4Yxc5JxO0",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/Ot4Yxc5JxO0/hqdefault.jpg"
+            },
+            {
+                "title": "ඉඟුරු පානය- ginger drink best for cold and cough",
+                "url": "https://youtube.com/watch?v=6D9l3oA2RSM",
+                "duration": "1:41",
+                "thumbnail": "https://i.ytimg.com/vi/6D9l3oA2RSM/hq720.jpg"
+            },
+            {
+                "title": "ඉගුරු | Ginger",
+                "url": "https://youtube.com/watch?v=7bNFYXc8TBM",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/7bNFYXc8TBM/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Flatulence",
-      "sinhala": "බඩ පිපුම (වාතය පිරීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Vomiting",
-      "sinhala": "වමනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Abdominal Pain",
-      "sinhala": "බඩේ කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Common Cold",
-      "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hiccups",
-      "sinhala": "හිකිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Heart Diseases",
-      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Anemia",
-      "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysuria",
-      "sinhala": "මුත්‍රා පිටකිරීමේ අපහසුව (ද්‍රවකෘච්ඡය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hypothermia",
-      "sinhala": "ශරීර උෂ්ණත්වය අසාමාන්‍ය ලෙස අඩුවීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Rhizomes"
-  ],
-  "images": [
-    {
-      "image_id": "455",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/23yzyYq5/plant01352-00455.jpg"
-    },
-    {
-      "image_id": "456",
-      "caption": "Uprooted plant",
-      "url": "https://i.ibb.co/tMV3g8RK/plant01352-00456.jpg"
-    },
-    {
-      "image_id": "457",
-      "caption": "Rhizome",
-      "url": "https://i.ibb.co/qLf020cd/plant01352-00457.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

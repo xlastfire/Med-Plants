@@ -1,101 +1,190 @@
 {
-  "scientificName": "",
-  "synonyms": [
-    "Anguina anguina (L.) Huth",
-    "Anguina anguina (L.) Huth",
-    "Anguina cucumerina (L.) Kuntze",
-    "Anguina cucumerina (L.) Kuntze",
-    "Cucumis anguinus (L.) L.",
-    "Cucumis anguinus (L.) L.",
-    "Involucraria anguina (L.) M.Roem.",
-    "Involucraria anguina (L.) M.Roem.",
-    "Involucraria cordata M.Roem.",
-    "Involucraria cordata M.Roem.",
-    "Trichosanthes ambrozii Domin",
-    "Trichosanthes ambrozii Domin",
-    "Trichosanthes anguina L.",
-    "Trichosanthes anguina L.",
-    "Trichosanthes brevibracteata Kundu",
-    "Trichosanthes brevibracteata Kundu",
-    "Trichosanthes brevibracteata var. longirostrata Kundu",
-    "Trichosanthes brevibracteata var. longirostrata Kundu",
-    "Trichosanthes cochinchinensis M.Roem.",
-    "Trichosanthes cochinchinensis M.Roem.",
-    "Trichosanthes colubrina J.Jacq.",
-    "Trichosanthes colubrina J.Jacq.",
-    "Trichosanthes cucumerina subsp. anguina (L.) Greb.",
-    "Trichosanthes cucumerina subsp. anguina (L.) Greb.",
-    "Trichosanthes cucumerina var. anguina (L.) Haines",
-    "Trichosanthes cucumerina var. anguina (L.) Haines",
-    "Trichosanthes cucumerina var. laciniosa Thwaites",
-    "Trichosanthes cucumerina var. laciniosa Thwaites",
-    "Trichosanthes cucumerina var. lobata (Roxb.) S.N.Biswas",
-    "Trichosanthes cucumerina var. lobata (Roxb.) S.N.Biswas",
-    "Trichosanthes laciniosa J.G.Klein ex Willd.",
-    "Trichosanthes laciniosa J.G.Klein ex Willd.",
-    "Trichosanthes lobata Roxb.",
-    "Trichosanthes lobata Roxb.",
-    "Trichosanthes olida F.Muell.",
-    "Trichosanthes olida F.Muell.",
-    "Trichosanthes pachyrrhachis Kundu",
-    "Trichosanthes pachyrrhachis Kundu",
-    "Trichosanthes pedatifolia Miq.",
-    "Trichosanthes pedatifolia Miq.",
-    "Trichosanthes petala Buch.-Ham. ex Wall.",
-    "Trichosanthes petala Buch.-Ham. ex Wall.",
-    "Trichosanthes reniformis Miq.",
-    "Trichosanthes reniformis Miq.",
-    "Trichosanthes wightiana M.Roem.",
-    "Trichosanthes wightiana M.Roem."
-  ],
-  "familyName": "",
-  "englishNames": [
-    "Wild Snake Gourd",
-    "Snake Gourd"
-  ],
-  "sinhalaName": "Pathola (පතෝල)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Worm infestation",
-      "sinhala": "පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "",
+    "synonyms": [
+        "Anguina anguina (L.) Huth",
+        "Anguina anguina (L.) Huth",
+        "Anguina cucumerina (L.) Kuntze",
+        "Anguina cucumerina (L.) Kuntze",
+        "Cucumis anguinus (L.) L.",
+        "Cucumis anguinus (L.) L.",
+        "Involucraria anguina (L.) M.Roem.",
+        "Involucraria anguina (L.) M.Roem.",
+        "Involucraria cordata M.Roem.",
+        "Involucraria cordata M.Roem.",
+        "Trichosanthes ambrozii Domin",
+        "Trichosanthes ambrozii Domin",
+        "Trichosanthes anguina L.",
+        "Trichosanthes anguina L.",
+        "Trichosanthes brevibracteata Kundu",
+        "Trichosanthes brevibracteata Kundu",
+        "Trichosanthes brevibracteata var. longirostrata Kundu",
+        "Trichosanthes brevibracteata var. longirostrata Kundu",
+        "Trichosanthes cochinchinensis M.Roem.",
+        "Trichosanthes cochinchinensis M.Roem.",
+        "Trichosanthes colubrina J.Jacq.",
+        "Trichosanthes colubrina J.Jacq.",
+        "Trichosanthes cucumerina subsp. anguina (L.) Greb.",
+        "Trichosanthes cucumerina subsp. anguina (L.) Greb.",
+        "Trichosanthes cucumerina var. anguina (L.) Haines",
+        "Trichosanthes cucumerina var. anguina (L.) Haines",
+        "Trichosanthes cucumerina var. laciniosa Thwaites",
+        "Trichosanthes cucumerina var. laciniosa Thwaites",
+        "Trichosanthes cucumerina var. lobata (Roxb.) S.N.Biswas",
+        "Trichosanthes cucumerina var. lobata (Roxb.) S.N.Biswas",
+        "Trichosanthes laciniosa J.G.Klein ex Willd.",
+        "Trichosanthes laciniosa J.G.Klein ex Willd.",
+        "Trichosanthes lobata Roxb.",
+        "Trichosanthes lobata Roxb.",
+        "Trichosanthes olida F.Muell.",
+        "Trichosanthes olida F.Muell.",
+        "Trichosanthes pachyrrhachis Kundu",
+        "Trichosanthes pachyrrhachis Kundu",
+        "Trichosanthes pedatifolia Miq.",
+        "Trichosanthes pedatifolia Miq.",
+        "Trichosanthes petala Buch.-Ham. ex Wall.",
+        "Trichosanthes petala Buch.-Ham. ex Wall.",
+        "Trichosanthes reniformis Miq.",
+        "Trichosanthes reniformis Miq.",
+        "Trichosanthes wightiana M.Roem.",
+        "Trichosanthes wightiana M.Roem."
+    ],
+    "familyName": "",
+    "englishNames": [
+        "Wild Snake Gourd",
+        "Snake Gourd"
+    ],
+    "sinhalaName": "Pathola (පතෝල)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Worm infestation",
+            "sinhala": "පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "155",
+            "caption": "Habit of the species(Cultivated)",
+            "url": "https://i.ibb.co/mV3Q840Z/plant00375-00155.jpg"
+        },
+        {
+            "image_id": "156",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/67NQ4Qqv/plant00375-00156.jpg"
+        },
+        {
+            "image_id": "157",
+            "caption": "Fruit",
+            "url": "https://i.ibb.co/Lz6jmYnT/plant00375-00157.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "★ ශරිරයේ විෂ නසන පතෝල සලාදේ Snake Gourd salad for detoxing the body by Apé Amma (Pathola salad)",
+                "url": "https://youtube.com/watch?v=Wwuna7WY-TY",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/Wwuna7WY-TY/hq720.jpg"
+            },
+            {
+                "title": "පතෝල වගාවක් සර්ථකව පවත්වාගෙන යමු/ patola wagawa / Pathola Wagawa Sinhala",
+                "url": "https://youtube.com/watch?v=_iWRHooPsok",
+                "duration": "17:20",
+                "thumbnail": "https://i.ytimg.com/vi/_iWRHooPsok/hq720.jpg"
+            },
+            {
+                "title": "පතෝල වල විශ්මිත ගුණ - Amazing properties of Snake Gourd",
+                "url": "https://youtube.com/watch?v=85BHfGtsTL4",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/85BHfGtsTL4/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ඕනෑම ලෙඩකට ගුණ දෙන පතෝල වල විශ්මිත ගුණ | snake gourd benefits",
+                "url": "https://youtube.com/watch?v=G6zyJvXKjEA",
+                "duration": "4:20",
+                "thumbnail": "https://i.ytimg.com/vi/G6zyJvXKjEA/hq720.jpg"
+            },
+            {
+                "title": "පතෝල වල ඔබ මෙතෙක් නොදැන සිටි විස්මිත ගුණ සහ ළපටි පතෝල මීකිරි සලාදය හදන ක්‍රමය | Facts about Gourd",
+                "url": "https://youtube.com/watch?v=kHfG6YkJ0As",
+                "duration": "6:34",
+                "thumbnail": "https://i.ytimg.com/vi/kHfG6YkJ0As/hq720.jpg"
+            },
+            {
+                "title": "Snake Gourd Benefits : පතෝලා කෑවම මොකද වෙන්නෙ",
+                "url": "https://youtube.com/watch?v=MB6bz9dXZKg",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/MB6bz9dXZKg/hq720.jpg"
+            },
+            {
+                "title": "පතෝල වගාවෙන් ඉහළම අස්වැන්නක් ගන්න නිවැරදි ක්‍රමය | How to Grow Snake Gourd",
+                "url": "https://youtube.com/watch?v=Y-0WjGd0zxw",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/Y-0WjGd0zxw/hqdefault.jpg"
+            },
+            {
+                "title": "පතෝල වල විශ්මිත ගුණ - Amazing properties of Snake Gourd",
+                "url": "https://youtube.com/watch?v=3dGL_q7gHMA",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/3dGL_q7gHMA/frame0.jpg"
+            },
+            {
+                "title": "pathola wagawa පතෝල වගාව sank groud cultivation srilanka Home gardening ගෙවතු වගාව gewathu wagawa",
+                "url": "https://youtube.com/watch?v=uDB_oaqPiMw",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/uDB_oaqPiMw/hq720.jpg"
+            },
+            {
+                "title": "පතෝල වගාවට මැස්සක් ගෙවතු වගාවට pathola wagawa snake gourd cultivation How to cultivate snake gourd",
+                "url": "https://youtube.com/watch?v=3DDxCbGyOq0",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/3DDxCbGyOq0/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ඕනෑම ලෙඩකට ගුණ දෙන පතෝල වල විශ්මිත ගුණ | snake gourd benefits",
+                "url": "https://youtube.com/watch?v=PR2RKNQzFoA",
+                "duration": "4:20",
+                "thumbnail": "https://i.ytimg.com/vi/PR2RKNQzFoA/frame0.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට හෘද රෝග වලට ගුණ පතෝල කන්නේ නැති අයත් කන ක්‍රමයට හදමු | pathola curry | pathoila kirata",
+                "url": "https://youtube.com/watch?v=2lHPEWSwRiA",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/2lHPEWSwRiA/hq720.jpg"
+            },
+            {
+                "title": "සරුසාර පතෝල වගාවක් මෙහෙම පටන් ගමු Snakegourd Cultivation",
+                "url": "https://youtube.com/watch?v=hlzWk4kALDQ",
+                "duration": "11:57",
+                "thumbnail": "https://i.ytimg.com/vi/hlzWk4kALDQ/hqdefault.jpg"
+            },
+            {
+                "title": "පතෝල වල විශ්මිත ගුණ - Amazing properties of Snake Gourd",
+                "url": "https://youtube.com/watch?v=NjSV5SAVSKI",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/NjSV5SAVSKI/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "155",
-      "caption": "Habit of the species(Cultivated)",
-      "url": "https://i.ibb.co/mV3Q840Z/plant00375-00155.jpg"
-    },
-    {
-      "image_id": "156",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/67NQ4Qqv/plant00375-00156.jpg"
-    },
-    {
-      "image_id": "157",
-      "caption": "Fruit",
-      "url": "https://i.ibb.co/Lz6jmYnT/plant00375-00157.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

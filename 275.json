@@ -1,40 +1,537 @@
 {
-  "scientificName": "Canarium zeylanicum (Retz.) Blume",
-  "synonyms": [
-    "Amyris elemifera J.Koenig ex Blume",
-    "Amyris zeylanica Retz.",
-    "Balsamodendrum zeylanicum (Retz.) Kunth ex DC.",
-    "Canarium auriculatum H.J.P.Winkl.",
-    "Canarium balsamiferum Moon",
-    "Canarium commune Wight & Arn."
-  ],
-  "familyName": "BURSERACEAE",
-  "englishNames": [],
-  "sinhalaName": "Dik kekuna (දික් කැකුණ)",
-  "description": "",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "1984",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/PZ6wWhQX/plant00275-01984.jpg"
+    "scientificName": "Canarium zeylanicum (Retz.) Blume",
+    "synonyms": [
+        "Amyris elemifera J.Koenig ex Blume",
+        "Amyris zeylanica Retz.",
+        "Balsamodendrum zeylanicum (Retz.) Kunth ex DC.",
+        "Canarium auriculatum H.J.P.Winkl.",
+        "Canarium balsamiferum Moon",
+        "Canarium commune Wight & Arn."
+    ],
+    "familyName": "BURSERACEAE",
+    "englishNames": [],
+    "sinhalaName": "Dik kekuna (දික් කැකුණ)",
+    "description": "",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "1984",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/PZ6wWhQX/plant00275-01984.jpg"
+        },
+        {
+            "image_id": "1985",
+            "caption": "Compound Leaf (PMR)",
+            "url": "https://i.ibb.co/7cSfB4J/plant00275-01985.jpg"
+        },
+        {
+            "image_id": "1986",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/r2NdGP5R/plant00275-01986.jpg"
+        },
+        {
+            "image_id": "1987",
+            "caption": "Resin (PMR)",
+            "url": "https://i.ibb.co/TxqqR9Ht/plant00275-01987.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ප්‍රාග් ඓතිහාසික මානවයා ආහාරයට ගත් \"දික් කැකුණ\" ගහේ වත ගොත",
+                "url": "https://youtube.com/watch?v=jEl8jcRvjHM",
+                "duration": "12:19",
+                "thumbnail": "https://i.ytimg.com/vi/jEl8jcRvjHM/hq720.jpg"
+            },
+            {
+                "title": "කැකුණ ගෙඩි පත්තු කරලා තමයි අපේ ගමේ ළමයි ජිවත් වෙන්නේ...",
+                "url": "https://youtube.com/watch?v=r9Zl1sYfeUo",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/r9Zl1sYfeUo/hq720.jpg"
+            },
+            {
+                "title": "ඌරෝ කැකුණ ඇට තලනකොට හබන් කුකුලොන්ට රජ මගුල්ලු  Mendis Wickramasinghe",
+                "url": "https://youtube.com/watch?v=AqiVgvrgyO0",
+                "duration": "5:21",
+                "thumbnail": "https://i.ytimg.com/vi/AqiVgvrgyO0/hq720.jpg"
+            },
+            {
+                "title": "ඌරන් කැකුණ තලන විට හබන් කුකුලන්ට රජ මගුල් කීවේ ඇයි| Nature channel of sri lanka",
+                "url": "https://youtube.com/watch?v=b64B8Xup39w",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/b64B8Xup39w/hq720.jpg"
+            },
+            {
+                "title": "Finding amazing kekuna wax use as a nightlight in forest |MY RuralLifestyle-Amazing story|Rural Life",
+                "url": "https://youtube.com/watch?v=oqDTxqkN4Is",
+                "duration": "11:20",
+                "thumbnail": "https://i.ytimg.com/vi/oqDTxqkN4Is/hq720.jpg"
+            },
+            {
+                "title": "ලස්සනට කැකුණ කැලේ මල",
+                "url": "https://youtube.com/watch?v=cnucEeCHPTM",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/cnucEeCHPTM/hq720.jpg"
+            },
+            {
+                "title": "\"මේවා නං කන්ඩ හිතන්ඩවත් එපා\" - මකුලු ගෙඩි / තිලක් කන්දේගම - Thilak Kandegama",
+                "url": "https://youtube.com/watch?v=h4zy1iAScfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/h4zy1iAScfM/hq720.jpg"
+            },
+            {
+                "title": "දීඝ දන්තු 1 හස්තියාගේ දළ සහිත අස්ථි කොටස් ගොඩගනී   | Ada Derana",
+                "url": "https://youtube.com/watch?v=rraYmRxTiMQ",
+                "duration": "1:48",
+                "thumbnail": "https://i.ytimg.com/vi/rraYmRxTiMQ/hq720.jpg"
+            },
+            {
+                "title": "ගෙඩිය ඇතුලේ සතෙක් ඉන්න පළතුරක් \" මේක බෙහෙතක් \"  / Ayurvedic medicines @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=QKv-W4Wo-cY",
+                "duration": "6:52",
+                "thumbnail": "https://i.ytimg.com/vi/QKv-W4Wo-cY/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවේ කැලෑ පලතුරු වර්ග - Wild Fruits In Srilanka",
+                "url": "https://youtube.com/watch?v=R1EQ_ejcK_4",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/R1EQ_ejcK_4/hq720.jpg"
+            },
+            {
+                "title": "Wild Life | හැඩවක මල්",
+                "url": "https://youtube.com/watch?v=3rAd02y-q4M",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/3rAd02y-q4M/hqdefault.jpg"
+            },
+            {
+                "title": "කුඹුක්. Kumbuk Tree. Ayurvedic value of Kumbuk.",
+                "url": "https://youtube.com/watch?v=KjUTxwGyQ78",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/KjUTxwGyQ78/hq720.jpg"
+            },
+            {
+                "title": "කිකිරිදිය ගුණ",
+                "url": "https://youtube.com/watch?v=QYAFvFHZmm0",
+                "duration": "3:52",
+                "thumbnail": "https://i.ytimg.com/vi/QYAFvFHZmm0/hqdefault.jpg"
+            },
+            {
+                "title": "දත් කැක්කුමට \"රන් මානිස්ස\" - තිලක් කන්දේගම / Herbal Plant for Toothache @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=m2dVCqj-WRU",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/m2dVCqj-WRU/hq720.jpg"
+            },
+            {
+                "title": "අපට අමතකව ගිය විශ්මිත ගුණ සහිත මොණරකුඩුම්බිය : Monarakudumbiya – Vernonia cinerea benefits",
+                "url": "https://youtube.com/watch?v=AVsoI8ga8rE",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/AVsoI8ga8rE/hq720.jpg"
+            },
+            {
+                "title": "දත් කැක්කුමද | දත් කැක්කුම් ඇතුළු රෝග රැසකට ගුණ අපේ රටේ වටිනා ශාකය අක්මැල්ල | Akmalla Plant",
+                "url": "https://youtube.com/watch?v=emJ-Q4Fwl_s",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/emJ-Q4Fwl_s/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු වල විෂ සෝදලා හරින්න බොන්නම ඕන බීම වර්ග 6ක් | 6 drinks Cleanse Your Kidneys Naturally",
+                "url": "https://youtube.com/watch?v=jVdnQz2lrBc",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/jVdnQz2lrBc/hq720.jpg"
+            },
+            {
+                "title": "කංකුන් වල ගුණ | Water spinach | Kankun",
+                "url": "https://youtube.com/watch?v=G41zv5x18Yo",
+                "duration": "2:33",
+                "thumbnail": "https://i.ytimg.com/vi/G41zv5x18Yo/hq720.jpg"
+            },
+            {
+                "title": "Coccinia grandis කෙන්ගෙඩි කෑවොත් වෙන දේ දන්නවද?",
+                "url": "https://youtube.com/watch?v=kKa5frPP1bY",
+                "duration": "5:04",
+                "thumbnail": "https://i.ytimg.com/vi/kKa5frPP1bY/hq720.jpg"
+            },
+            {
+                "title": "කුරක්කන් කෑවොත් ලැබෙන දේවල් මෙන්න : Benefits of Ragi Kurakkan (NEW) 2019",
+                "url": "https://youtube.com/watch?v=oKoud-XKUeA",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/oKoud-XKUeA/hq720.jpg"
+            },
+            {
+                "title": "උණ සහ හන්දි කැක්කුම හැදෙන චිකන්ගුන්යා,chikungunya ,chikungunya una  ha Handi kakkumma",
+                "url": "https://youtube.com/watch?v=KF2rmU9THSg",
+                "duration": "20:36",
+                "thumbnail": "https://i.ytimg.com/vi/KF2rmU9THSg/hqdefault.jpg"
+            },
+            {
+                "title": "දනිස් කැක්කුමට බෙහෙතක් - Trailer Video",
+                "url": "https://youtube.com/watch?v=dKdjWZ2Quts",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/dKdjWZ2Quts/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "කළු ගල් දෙපලු කරන ශාඛය | Akkapana | CRASSULACEAE | Cathedral Bells | Kattu Pirandai | Akkapana plant",
+                "url": "https://youtube.com/watch?v=xlEbYSreY-8",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/xlEbYSreY-8/hq720.jpg"
+            },
+            {
+                "title": "දණිස් කැක්කුමට මෙන්න බෙහෙත|thuru tv.",
+                "url": "https://youtube.com/watch?v=1wJIuKmi-hE",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/1wJIuKmi-hE/hqdefault.jpg"
+            },
+            {
+                "title": "ඩෙංගු රෝගයෙයි චිකන්ගුන්යා රෝගයෙයි ලක්ෂණ සමානයිද",
+                "url": "https://youtube.com/watch?v=Vgnc9Uiy0XQ",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/Vgnc9Uiy0XQ/hq720.jpg"
+            },
+            {
+                "title": "\"මොනවද මේ ඉර හඳ නොදුටු දළු\" - තිලක් කන්දේගම / Medicinal Plants in Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=6jRKrkf6IaQ",
+                "duration": "2:28",
+                "thumbnail": "https://i.ytimg.com/vi/6jRKrkf6IaQ/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙතට ගන්න හදා ගත්තට පාඩු නෑ / \" Endaru \" Medicinal plant in Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=ft45xN1OLAI",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/ft45xN1OLAI/hq720.jpg"
+            },
+            {
+                "title": "Diltiazem in sinhala  | Diltiazem | Nicardia | Zem | Dilzem | Herbesser | ඩිල්ටියසම් ගැන දැනගමු",
+                "url": "https://youtube.com/watch?v=IJBvbhRB82w",
+                "duration": "12:31",
+                "thumbnail": "https://i.ytimg.com/vi/IJBvbhRB82w/hq720.jpg"
+            },
+            {
+                "title": "විනාඩියෙන් දත් කැක්කුම් අතුරුදහන් කරන ස්වාභාවික ක්‍රම 07ක් | 07 Home Remedies for Toothache",
+                "url": "https://youtube.com/watch?v=3Zi6yGnQK-s",
+                "duration": "10:12",
+                "thumbnail": "https://i.ytimg.com/vi/3Zi6yGnQK-s/hq720.jpg"
+            },
+            {
+                "title": "වේදනාකාරි විලුඹ කැක්කුම පහසුවෙන්ම සුව කරගත හැකි ක්‍රම 05ක් | 05 Home Remedies to Relieve Sore Feet",
+                "url": "https://youtube.com/watch?v=VyiHRcRWEvQ",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/VyiHRcRWEvQ/hq720.jpg"
+            },
+            {
+                "title": "කෙන්ඩ පෙරලෙනවට මෙන්න බෙහෙත | Treatment for muscle contusion #ayurvedatips #ayurvedicmedicine #health",
+                "url": "https://youtube.com/watch?v=rq6KynMV2Qw",
+                "duration": "7:01",
+                "thumbnail": "https://i.ytimg.com/vi/rq6KynMV2Qw/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසක් සුවකරන ශාකයක් / A plant that cures many diseases @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=LHs-pi74XZw",
+                "duration": "5:40",
+                "thumbnail": "https://i.ytimg.com/vi/LHs-pi74XZw/hq720.jpg"
+            },
+            {
+                "title": "දැනට සොයාගෙන ඇති ලොව හොදම පිළිකා ඖෂධය. The best cancer drug in the world. \"Keytruda\"",
+                "url": "https://youtube.com/watch?v=9-877WOnIj0",
+                "duration": "9:23",
+                "thumbnail": "https://i.ytimg.com/vi/9-877WOnIj0/hq720.jpg"
+            },
+            {
+                "title": "Praanajeewa | ප්‍රාණ ජීව | ප්‍රාණය ලබා දෙන ඔසු පැළය | @osu-1380",
+                "url": "https://youtube.com/watch?v=tphqFHtniaI",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/tphqFHtniaI/hq720.jpg"
+            },
+            {
+                "title": "197 දියවැඩියාවට ඉන්සියුලීන් ඉන්ජෙක්ෂන් ගහනවා වෙනුවටඉන්සියුලීන් පැලයක්පෝච්චියක වවමු longevity spinach",
+                "url": "https://youtube.com/watch?v=jRfksvjHUGY",
+                "duration": "7:49",
+                "thumbnail": "https://i.ytimg.com/vi/jRfksvjHUGY/hq720.jpg"
+            },
+            {
+                "title": "පිටවක්ක බොහෝ රෝග වලට දිව්‍ය ඖෂධයකි| pitawakka| phyllanthus debbillis |A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=4hBzPEcwwOA",
+                "duration": "6:23",
+                "thumbnail": "https://i.ytimg.com/vi/4hBzPEcwwOA/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයට ගුණ දෙන කෙකටිය....           Episode 17",
+                "url": "https://youtube.com/watch?v=N-1DaMmE8AM",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/N-1DaMmE8AM/hq720.jpg"
+            },
+            {
+                "title": "The Powerful Healer Hiding In Your Backyard",
+                "url": "https://youtube.com/watch?v=Sxzqg_BclSE",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/Sxzqg_BclSE/hq720.jpg"
+            },
+            {
+                "title": "DANDELION BENEFITS - 12 Impressive Health Benefits of Dandelion",
+                "url": "https://youtube.com/watch?v=MTfk4DEs9y4",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/MTfk4DEs9y4/hq720.jpg"
+            },
+            {
+                "title": "Dandelion Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=L62VWWsdzIo",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/L62VWWsdzIo/hq720.jpg"
+            },
+            {
+                "title": "තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ.  Health benefits of Thulasi.",
+                "url": "https://youtube.com/watch?v=kKukenrdq0k",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/kKukenrdq0k/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රාණජීව | ප්‍රාණ ජීව  | Dancing plant | Telegraph Plant | Codariocalyx motorius | Pranajeewa Tree",
+                "url": "https://youtube.com/watch?v=oaxD7eIUDvA",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/oaxD7eIUDvA/hq720.jpg"
+            },
+            {
+                "title": "Dandelion and Burdock - What a Team!",
+                "url": "https://youtube.com/watch?v=OBDVx4WGGUU",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/OBDVx4WGGUU/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව, අර්ශස් ඇතුළු රෝග වලට ගුණ සව්කෙන්ද හදුනාගමු | සව්කෙන්ද [Saukenda] (Kaempferia rotunda)",
+                "url": "https://youtube.com/watch?v=utFx6UNfsn4",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/utFx6UNfsn4/hq720.jpg"
+            },
+            {
+                "title": "විෂ්ණුක්‍රාන්ති vishnukranthi ( Little Glory / Dwarf Morning Glory )",
+                "url": "https://youtube.com/watch?v=fvkhGEqlcd0",
+                "duration": "5:30",
+                "thumbnail": "https://i.ytimg.com/vi/fvkhGEqlcd0/hq720.jpg"
+            },
+            {
+                "title": "දේශීය වෙදදුරන්ට අනුව corona වලට එරෙහිව ප්‍රතිශක්තිය නගාසිටුවන හීන් බින් කොහොඹ",
+                "url": "https://youtube.com/watch?v=WKw3IhMmfmw",
+                "duration": "5:10",
+                "thumbnail": "https://i.ytimg.com/vi/WKw3IhMmfmw/hq720.jpg"
+            },
+            {
+                "title": "8 Health Benefits of Dill You Need to Know | Dill Benefits and Uses",
+                "url": "https://youtube.com/watch?v=eETQPc9qThY",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/eETQPc9qThY/hq720.jpg"
+            },
+            {
+                "title": "දැනගෙනම හිටවන්න | Pranajeewa Plant | Ceylon Agri| Episode 359",
+                "url": "https://youtube.com/watch?v=7VR4o-3yMxY",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/7VR4o-3yMxY/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රාග් ඓතිහාසික මානවයා ආහාරයට ගත් \"දික් කැකුණ\" ගහේ වත ගොත",
+                "url": "https://youtube.com/watch?v=3-6yXcg72Qk",
+                "duration": "12:19",
+                "thumbnail": "https://i.ytimg.com/vi/3-6yXcg72Qk/frame0.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "පාරම්පරික අපේ සහල් - කඵ හීනටි|කඵ හීනටි වල තියෙන පෝෂණ ගුණය ඔබ දන්නවාද?",
+                "url": "https://youtube.com/watch?v=-UCZwJ99Ghg",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/-UCZwJ99Ghg/hqdefault.jpg"
+            },
+            {
+                "title": "කීකිරිඳිය ගුණ. වටිනා ආයුර්වේදීය ඖෂධ. Eclipta Prostrata (False Daisy)",
+                "url": "https://youtube.com/watch?v=s4_u05IOmm8",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/s4_u05IOmm8/hq720.jpg"
+            },
+            {
+                "title": "ගූ  ද ද  කීරිය/goo dadakeeriya",
+                "url": "https://youtube.com/watch?v=gApLuJ-R25M",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/gApLuJ-R25M/hq2.jpg"
+            },
+            {
+                "title": "කුප්පි ලාම්පුවට දින කියු වෙද මහතා",
+                "url": "https://youtube.com/watch?v=8Z8oZc2N_mE",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/8Z8oZc2N_mE/hq720.jpg"
+            },
+            {
+                "title": "මේ කොළ වර්ග වලින් කැද හදලා බොනවා නම් ඇස් පෙනීම වැඩි වෙනවා! - කකුල් දෙකට පෑගුණත් ඇති ඒ තරම් ගුණයි",
+                "url": "https://youtube.com/watch?v=nsCwWSuwfyw",
+                "duration": "19:04",
+                "thumbnail": "https://i.ytimg.com/vi/nsCwWSuwfyw/hq720.jpg"
+            },
+            {
+                "title": "කාටිලේජ දින 14න් වර්ධනය වෙලා, දණහිස් අමාරුව නිට්ටාවට සුව වෙනවා| Cartilage Regeneration Home Remedies",
+                "url": "https://youtube.com/watch?v=7MHwJBm375o",
+                "duration": "35:08",
+                "thumbnail": "https://i.ytimg.com/vi/7MHwJBm375o/hq720.jpg"
+            },
+            {
+                "title": "Black Seed Tea | kaluduru Tea |සියලුරෝග නසන දිව්‍යමය ඔසුවෙන් ( අශිර්වාදයලද් අැට) කළුදුරු පානය",
+                "url": "https://youtube.com/watch?v=_xRbrWrXPJE",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/_xRbrWrXPJE/hq720.jpg"
+            },
+            {
+                "title": "Caster oil treatment / ඔබ නොදන්නා එඩරු තෙල් වල ගුණ.. Caster oil.",
+                "url": "https://youtube.com/watch?v=_yAmkJ9aLiM",
+                "duration": "4:49",
+                "thumbnail": "https://i.ytimg.com/vi/_yAmkJ9aLiM/hqdefault.jpg"
+            },
+            {
+                "title": "වකුගඩු වලට ගුණ කෑම මෙන්න/Best food for kidney health/#kidneyhealth @Mediupdater #healthykidneys",
+                "url": "https://youtube.com/watch?v=0HRfKGKP0ug",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/0HRfKGKP0ug/hq720.jpg"
+            },
+            {
+                "title": "ඇවිදිනකොට දනිස් ටකස් ගානවද? මෙන්න විනාඩි දෙකෙන් බොන්න තේ එකක් | danis kakkumata beheth |diyawadiyawa",
+                "url": "https://youtube.com/watch?v=S1nfFwRAJ-A",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/S1nfFwRAJ-A/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු රෝගයේ මුල් ලක්ෂණ දහයක්👨‍🦽",
+                "url": "https://youtube.com/watch?v=p5ddY0AbmdI",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/p5ddY0AbmdI/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "මේ ගසේ කොළ ටිකක් කුඩු කරලා කෑවෙත් දියවැඩියාව සදහටම මට්ටුයි! - ඇගේ පටස් ගාලා ක්ෂණිකව සීනි බහිනවා!",
+                "url": "https://youtube.com/watch?v=juTMsxstz7k",
+                "duration": "23:43",
+                "thumbnail": "https://i.ytimg.com/vi/juTMsxstz7k/hq720.jpg"
+            },
+            {
+                "title": "Pillam - dik ispilla - දික් ඉස්පිල්ල සමග වචන කියමු - පිල්ලම් පාඩම 5-1",
+                "url": "https://youtube.com/watch?v=VcvYkI6Zejw",
+                "duration": "8:10",
+                "thumbnail": "https://i.ytimg.com/vi/VcvYkI6Zejw/hq720.jpg"
+            },
+            {
+                "title": "Pillam - dik papilla - දික් පාපිල්ල සමග වචන කියමු - පිල්ලම් පාඩම 7 -1",
+                "url": "https://youtube.com/watch?v=YjAQbJTODzo",
+                "duration": "8:25",
+                "thumbnail": "https://i.ytimg.com/vi/YjAQbJTODzo/hq720.jpg"
+            },
+            {
+                "title": "දික් ඇදපිල්ල ගැන ඉගෙන ගනිමු | පුංචි ඉස්කෝලේ | සඳුප දෙව්සර | sandupa dewsara youtube channel",
+                "url": "https://youtube.com/watch?v=iV_bm-sF-TY",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/iV_bm-sF-TY/hq720.jpg"
+            },
+            {
+                "title": "දික් ඉස්පිල්ල  යෙදෙන වැකි |1 ශ්‍රේණිය | 2 ශ්‍රේණිය | මව්බස | වැකි කියවීම සහ ලිවීම",
+                "url": "https://youtube.com/watch?v=Sjq1xyB8fw8",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/Sjq1xyB8fw8/hqdefault.jpg"
+            },
+            {
+                "title": "දික් ඇදපිල්ල හදුනා ගැනීම .",
+                "url": "https://youtube.com/watch?v=iYV8G_82JRY",
+                "duration": "11:55",
+                "thumbnail": "https://i.ytimg.com/vi/iYV8G_82JRY/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු රෝගීන්ට කෑම දෙන හරිම ක්‍රමය | CKD Stage 1 to 5  Diet By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=NIsQx_YtGLI",
+                "duration": "20:00",
+                "thumbnail": "https://i.ytimg.com/vi/NIsQx_YtGLI/hq720.jpg"
+            },
+            {
+                "title": "දන්නවා වගේ රගපාන බක පන්ඩිත​යෝ හදුන ගන්නේ කොහොම​ද? | Dunning Kruger Effect in Sinhala",
+                "url": "https://youtube.com/watch?v=EtszDiEjXlg",
+                "duration": "8:39",
+                "thumbnail": "https://i.ytimg.com/vi/EtszDiEjXlg/hq720.jpg"
+            },
+            {
+                "title": "දික් වක් පාපිල්ලෙන් වචන | දික් වක් පාපිල්ල | සිංහල අකුරු #සිංහල #sinhala #education",
+                "url": "https://youtube.com/watch?v=kYSt8hvuKPY",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/kYSt8hvuKPY/hqdefault.jpg"
+            },
+            {
+                "title": "දික්කසාද වුණාම දරුවාගේ අයිතියට මොකද වෙන්නේ 😲🤔🥺",
+                "url": "https://youtube.com/watch?v=Hzo5kN40DZw",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/Hzo5kN40DZw/hq720.jpg"
+            },
+            {
+                "title": "දික් ඇදය සහිත වාක්‍ය",
+                "url": "https://youtube.com/watch?v=FU11P9ZIQVQ",
+                "duration": "0:51",
+                "thumbnail": "https://i.ytimg.com/vi/FU11P9ZIQVQ/hqdefault.jpg"
+            },
+            {
+                "title": "දික් ඇදපිල්ල | Blosoom pre school",
+                "url": "https://youtube.com/watch?v=5t88Cdxxu4M",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/5t88Cdxxu4M/hq720.jpg"
+            },
+            {
+                "title": "12 වැනි ඒකකය - 03 වන පාඩම | දික් ඇදපිල්ල හදුන්වා දීම | 1 වන ශ්‍රේණිය සිංහල පාඩම් මාලාව",
+                "url": "https://youtube.com/watch?v=bSMYw2Vae7U",
+                "duration": "22:51",
+                "thumbnail": "https://i.ytimg.com/vi/bSMYw2Vae7U/hq720.jpg"
+            },
+            {
+                "title": "මතක හිටින්න දික් ඇදපිල්ල ඉගෙන ගනිමු",
+                "url": "https://youtube.com/watch?v=nX6g7AZdw6Q",
+                "duration": "16:05",
+                "thumbnail": "https://i.ytimg.com/vi/nX6g7AZdw6Q/hqdefault.jpg"
+            },
+            {
+                "title": "කෝන් ශාකයේ අරුම පුදුම සත්කාර | Ceylon oak medical plants benefits✅🌿",
+                "url": "https://youtube.com/watch?v=y81M1NuwYXI",
+                "duration": "5:03",
+                "thumbnail": "https://i.ytimg.com/vi/y81M1NuwYXI/hqdefault.jpg"
+            },
+            {
+                "title": "The Hidden Power of This Leaf – 108 Secrets Inside | Ancient Remedy Proven to Kill Cancer Cells",
+                "url": "https://youtube.com/watch?v=6Wjf2xQGWI8",
+                "duration": "22:55",
+                "thumbnail": "https://i.ytimg.com/vi/6Wjf2xQGWI8/hq720.jpg"
+            },
+            {
+                "title": "Sri Lankan Herbs - Binkohomba |නිතරම ලෙඩ වෙන අයට හොදම බෙහෙත “බිං කොහොඹ” | Ceylon Agri | Episode 34",
+                "url": "https://youtube.com/watch?v=lnJONJ6ou-U",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/lnJONJ6ou-U/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 මේ කොලයක් දෙකට කපලා තේ වලට දාන්ඩ! ලෙඩ පිචිචෙනවා! සුද්දෝ වදිනවා මේකට",
+                "url": "https://youtube.com/watch?v=g2f9OkQenmU",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/g2f9OkQenmU/hq720.jpg"
+            },
+            {
+                "title": "Nidikumba/නිදිකුම්බා ශාකයේ විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=Rcg4VWgOhh8",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/Rcg4VWgOhh8/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "1985",
-      "caption": "Compound Leaf (PMR)",
-      "url": "https://i.ibb.co/7cSfB4J/plant00275-01985.jpg"
-    },
-    {
-      "image_id": "1986",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/r2NdGP5R/plant00275-01986.jpg"
-    },
-    {
-      "image_id": "1987",
-      "caption": "Resin (PMR)",
-      "url": "https://i.ibb.co/TxqqR9Ht/plant00275-01987.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

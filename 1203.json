@@ -1,101 +1,352 @@
 {
-  "scientificName": "Cardiospermum halicacabum L.",
-  "synonyms": [
-    "Cardiospermum acuminatum Miq.",
-    "Cardiospermum corycodes Kunze",
-    "Cardiospermum corycodes Kunze",
-    "Cardiospermum glabrum Schumach. & Thonn.",
-    "Cardiospermum halicacabum var. grandiflorum A.Chev.",
-    "Cardiospermum inflatum Salisb.",
-    "Cardiospermum luridum Blume",
-    "Cardiospermum moniliferum Sw. ex Steud.",
-    "Corindum halicacabum (L.) Medik.",
-    "Physalis corymbosa Noronha",
-    "Physalis halicacabum Noronha",
-    "Rhodiola biternata Lour."
-  ],
-  "familyName": "SAPINDACEAE",
-  "englishNames": [
-    "Winter Cherry",
-    "Balloon Vine",
-    "Black Winter Cherry",
-    "Heart Pea",
-    "Heart Seed",
-    "Heart Seed Vine",
-    "Love-In-A-Puff",
-    "Puffball",
-    "Smooth-Leaved Heart Seed"
-  ],
-  "sinhalaName": "Wel penela (වැල් පෙනෙල)",
-  "description": "සිහින්, තදින් රැලි වැටුණු, රෝම රහිත (glabrous) කඳක් සහිත වැල් හෝ අර්ධ වැල් ශාකයකි. පත්‍ර ද්වි-ත්‍රීකාරක (biternate) වන අතර සෙන්ටිමීටර 6-12ක් දිගය; පත්‍ර වෘන්ත සෙන්ටිමීටර 1.4-4.0ක් දිගය. පත්‍රිකා ඩිම්බාකාර-ආයත (ovate oblong) හෝ ඩිම්බාකාර-ලන්සාකාර (ovate lanceolate) වන අතර සෙන්ටිමීටර 1.5-3.0 x 0.6-1.8 ප්‍රමාණයෙන් යුක්තය; පත්‍ර දාර අක්‍රමවත් ලෙස දන්තමය (dentate) හෝ පක්ෂාකාරව බෙදුණු (pinnatifid) වේ. පුෂ්ප මංජරිය කක්ෂීය වන අතර දිගු පුෂ්ප දණ්ඩකින් සමන්විතය; ප්‍රාථමික පුෂ්ප දණ්ඩේ අග්‍රයේ දඟර ගැසුණු (circinnate) අල්ලා ගැනීමේ වැල් (tendrils) යුගලක් පිහිටයි. මල් සුදු පැහැතිය, විෂ්කම්භය මිලිමීටර 4ක් පමණ වේ; පුෂ්ප වෘන්ත මිලිමීටර 1.5-3.0ක් දිගය. බාහිර දල (sepals) නිදහස් වන අතර මිලිමීටර 3-4ක් දිගය; පෙති ප්‍රතිඩිම්බාකාර (obovate) වන අතර මිලිමීටර 3 x 1.5 ප්‍රමාණයෙන් යුක්තය. රේණු 8ක් ඇති අතර ඒවා නිදහස්ය; ඩිම්බකෝෂය ප්‍රතිඩිම්බාකාර (obovoid) වන අතර මිලිමීටර 2-3ක් දිගය. කරල් ගෝලාකාර (subglobose), කේතුකාකාර (turbinate) හෝ පුළුල් පෙයාර්ස් ගෙඩියක හැඩැති (pyriform) වන අතර සෙන්ටිමීටර 1.2-1.8ක් පළලය; කොන් වල පියාපත් වැනි ව්‍යුහයන් පිහිටයි. බීජ 3ක් පවතින අතර එක් කුටීරයකට එක බැගින් පිහිටයි.",
-  "treatments": [
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Cardiospermum halicacabum L.",
+    "synonyms": [
+        "Cardiospermum acuminatum Miq.",
+        "Cardiospermum corycodes Kunze",
+        "Cardiospermum corycodes Kunze",
+        "Cardiospermum glabrum Schumach. & Thonn.",
+        "Cardiospermum halicacabum var. grandiflorum A.Chev.",
+        "Cardiospermum inflatum Salisb.",
+        "Cardiospermum luridum Blume",
+        "Cardiospermum moniliferum Sw. ex Steud.",
+        "Corindum halicacabum (L.) Medik.",
+        "Physalis corymbosa Noronha",
+        "Physalis halicacabum Noronha",
+        "Rhodiola biternata Lour."
+    ],
+    "familyName": "SAPINDACEAE",
+    "englishNames": [
+        "Winter Cherry",
+        "Balloon Vine",
+        "Black Winter Cherry",
+        "Heart Pea",
+        "Heart Seed",
+        "Heart Seed Vine",
+        "Love-In-A-Puff",
+        "Puffball",
+        "Smooth-Leaved Heart Seed"
+    ],
+    "sinhalaName": "Wel penela (වැල් පෙනෙල)",
+    "description": "සිහින්, තදින් රැලි වැටුණු, රෝම රහිත (glabrous) කඳක් සහිත වැල් හෝ අර්ධ වැල් ශාකයකි. පත්‍ර ද්වි-ත්‍රීකාරක (biternate) වන අතර සෙන්ටිමීටර 6-12ක් දිගය; පත්‍ර වෘන්ත සෙන්ටිමීටර 1.4-4.0ක් දිගය. පත්‍රිකා ඩිම්බාකාර-ආයත (ovate oblong) හෝ ඩිම්බාකාර-ලන්සාකාර (ovate lanceolate) වන අතර සෙන්ටිමීටර 1.5-3.0 x 0.6-1.8 ප්‍රමාණයෙන් යුක්තය; පත්‍ර දාර අක්‍රමවත් ලෙස දන්තමය (dentate) හෝ පක්ෂාකාරව බෙදුණු (pinnatifid) වේ. පුෂ්ප මංජරිය කක්ෂීය වන අතර දිගු පුෂ්ප දණ්ඩකින් සමන්විතය; ප්‍රාථමික පුෂ්ප දණ්ඩේ අග්‍රයේ දඟර ගැසුණු (circinnate) අල්ලා ගැනීමේ වැල් (tendrils) යුගලක් පිහිටයි. මල් සුදු පැහැතිය, විෂ්කම්භය මිලිමීටර 4ක් පමණ වේ; පුෂ්ප වෘන්ත මිලිමීටර 1.5-3.0ක් දිගය. බාහිර දල (sepals) නිදහස් වන අතර මිලිමීටර 3-4ක් දිගය; පෙති ප්‍රතිඩිම්බාකාර (obovate) වන අතර මිලිමීටර 3 x 1.5 ප්‍රමාණයෙන් යුක්තය. රේණු 8ක් ඇති අතර ඒවා නිදහස්ය; ඩිම්බකෝෂය ප්‍රතිඩිම්බාකාර (obovoid) වන අතර මිලිමීටර 2-3ක් දිගය. කරල් ගෝලාකාර (subglobose), කේතුකාකාර (turbinate) හෝ පුළුල් පෙයාර්ස් ගෙඩියක හැඩැති (pyriform) වන අතර සෙන්ටිමීටර 1.2-1.8ක් පළලය; කොන් වල පියාපත් වැනි ව්‍යුහයන් පිහිටයි. බීජ 3ක් පවතින අතර එක් කුටීරයකට එක බැගින් පිහිටයි.",
+    "treatments": [
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatoid Arthritis",
+            "sinhala": "ආමවාතය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Back Pain",
+            "sinhala": "කොන්දේ කැක්කුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hernia",
+            "sinhala": "හර්නියා (අන්ත්‍ර වෘද්ධිය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole plant",
+        "Leaves",
+        "Flowers"
+    ],
+    "images": [
+        {
+            "image_id": "300",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/ccvCjBFC/plant01203-00300.jpg"
+        },
+        {
+            "image_id": "301",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/tTqFW9nK/plant01203-00301.jpg"
+        },
+        {
+            "image_id": "3950",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/ZRPbL7TV/plant01203-03950.jpg"
+        },
+        {
+            "image_id": "3951",
+            "caption": "Compound Leaf (PMR)",
+            "url": "https://i.ibb.co/qYqnpYSQ/plant01203-03951.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල",
+                "url": "https://youtube.com/watch?v=N2vLDuYV7jU",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/N2vLDuYV7jU/hq720.jpg"
+            },
+            {
+                "title": "පාරම්පරික ඖෂධීය වැල්පෙනල ශාකයේ වට්ටෝරුව /walpelena",
+                "url": "https://youtube.com/watch?v=nbPLny0yI_s",
+                "duration": "12:37",
+                "thumbnail": "https://i.ytimg.com/vi/nbPLny0yI_s/hq720.jpg"
+            },
+            {
+                "title": "පිරිමින්ට විශේෂ වැල් පෙනෙල සලාද .,baloon wine salad",
+                "url": "https://youtube.com/watch?v=mYA_42AQX4I",
+                "duration": "9:21",
+                "thumbnail": "https://i.ytimg.com/vi/mYA_42AQX4I/hq720.jpg"
+            },
+            {
+                "title": "Welpenela Benefits : පිරිමි ගෙදරම තියාගන්න ගහපු වැල් පෙනෙල ගැටේ මෙන්න",
+                "url": "https://youtube.com/watch?v=gjqX33rzqng",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/gjqX33rzqng/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල (Balloon Vine) Wel Penela (Cardiospermum halicacabum)",
+                "url": "https://youtube.com/watch?v=Pnd58R2zxR0",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/Pnd58R2zxR0/hq720.jpg"
+            },
+            {
+                "title": "Wel penela -  වැල් පෙනෙල",
+                "url": "https://youtube.com/watch?v=3zvTKZp0sxc",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/3zvTKZp0sxc/hqdefault.jpg"
+            },
+            {
+                "title": "Cardiospermum halicacabum , Balloon Vine , වැල් පෙනෙල",
+                "url": "https://youtube.com/watch?v=1VRSlMt-1aM",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/1VRSlMt-1aM/hq720.jpg"
+            },
+            {
+                "title": "How to make a vine pineal gland /වැල් පෙනෙල කැද වෙනුවට සම්‍බෝලයක රස විදිමු",
+                "url": "https://youtube.com/watch?v=OtRcnSEs30g",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/OtRcnSEs30g/hq720.jpg"
+            },
+            {
+                "title": "වැල්පෙනෙල ( Walpenela) - Cardiospermum Halicacabum",
+                "url": "https://youtube.com/watch?v=2j2oDoN5i8M",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/2j2oDoN5i8M/hq720.jpg"
+            },
+            {
+                "title": "Temperd Baloon vine leaves - පුරුෂ පාර්ශවයට වැදගත් වැල් පෙනෙල",
+                "url": "https://youtube.com/watch?v=_DGoalpcs7M",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/_DGoalpcs7M/hq720.jpg"
+            },
+            {
+                "title": "ලිංගික ශක්තිය වඩවන වැල් පෙනෙල#Balloon Vine",
+                "url": "https://youtube.com/watch?v=9-UnTPUyE4E",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/9-UnTPUyE4E/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂ ශක්තිය වඩවන වැල් පෙණල කොළ කැඳ - Herbal Plants Of Sri Lanka Wel Penela Juice",
+                "url": "https://youtube.com/watch?v=sRWYctWfRjE",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/sRWYctWfRjE/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනල සම්‍බෝලය/පෙනල කොළ /පෙනල දලු/Cardiospermum halicacabum/penala koa sambolaya",
+                "url": "https://youtube.com/watch?v=YOvsF_C9MUY",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/YOvsF_C9MUY/hq720.jpg"
+            },
+            {
+                "title": "✔ සන්ධි රෝග සුවයට නොමිලේ ලැබෙන එකම කොළ වර්ගය පෙනෙල කොළ . Wal penala Kola tempered by by Apé Amma",
+                "url": "https://youtube.com/watch?v=E50BYdUTt8w",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/E50BYdUTt8w/hq720.jpg"
+            },
+            {
+                "title": "දුර්වල වූ ශක්තිය නැවත ලබාගන්න වැල් පෙනෙල මේ විදිහට කන්න",
+                "url": "https://youtube.com/watch?v=qtpJhM-RtBw",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/qtpJhM-RtBw/hq720.jpg"
+            },
+            {
+                "title": "ලිංගික ශක්තිය වැඩි කරන්න වැල්  පෙනෙල | Wel Penela (Balloon Vine) | Sinhala Medical Channel",
+                "url": "https://youtube.com/watch?v=wtN61G8h1Uk",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/wtN61G8h1Uk/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල වල ඇති ඖෂධීය ගුණ 😱😱😱",
+                "url": "https://youtube.com/watch?v=nkZ5RSOxBYc",
+                "duration": "7:36",
+                "thumbnail": "https://i.ytimg.com/vi/nkZ5RSOxBYc/hq720.jpg"
+            },
+            {
+                "title": "ධාතු ශක්තිය වැඩි කරන වැල් පෙනෙල..",
+                "url": "https://youtube.com/watch?v=vtJT06-YK48",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/vtJT06-YK48/hq720.jpg"
+            },
+            {
+                "title": "😱😱වැල් පෙනෙල ශාකයේ ගුණ😱😱",
+                "url": "https://youtube.com/watch?v=-dCfb6_fwA0",
+                "duration": "1:24",
+                "thumbnail": "https://i.ytimg.com/vi/-dCfb6_fwA0/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙණෙල තෙල් දාලා | ඔසු ගුණ පිරි පෙනෙල| nisha vlogs | easy recipe | limited life",
+                "url": "https://youtube.com/watch?v=66v9VtsoAuM",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/66v9VtsoAuM/hq720.jpg"
+            },
+            {
+                "title": "වැල්පෙනේෙල ශාකයේ ඇති විස්මිත ගුණය - Health Vedeo",
+                "url": "https://youtube.com/watch?v=HCPacBPJQPE",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/HCPacBPJQPE/hq720.jpg"
+            },
+            {
+                "title": "එක පාරක් බිව්වොත් ආයේ ආයේ බොනවා වැල් පෙනෙල කැඳ |  wel penala keda A lot of secrets you don't know",
+                "url": "https://youtube.com/watch?v=k5bQEjT1iGE",
+                "duration": "8:13",
+                "thumbnail": "https://i.ytimg.com/vi/k5bQEjT1iGE/hq720.jpg"
+            },
+            {
+                "title": "වැල්පෙනෙල කැඳ / kolakenda / herbalporridge / වැල්පෙනෙල වල ඖෂධීය ගුණය / ඔසු කැඳ  / SriLankanFlavors",
+                "url": "https://youtube.com/watch?v=B_jPYne2e88",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/B_jPYne2e88/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රාශියක් තියෙන වැල් පෙනෙල තෙම්පරාදුව | #valpenela themparaduwa",
+                "url": "https://youtube.com/watch?v=Qggk_7WpNNQ",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/Qggk_7WpNNQ/hqdefault.jpg"
+            },
+            {
+                "title": "ගුණ දහසක් ලැබෙන වැල් පෙනෙර",
+                "url": "https://youtube.com/watch?v=W-IaK-XTVpI",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/W-IaK-XTVpI/hq720.jpg"
+            },
+            {
+                "title": "වැල්පෙනෙල  ගැන තොරතුරු |wiswaya |baloon vine |srilanka ayurveda medicine riwiw",
+                "url": "https://youtube.com/watch?v=6u-UDrAfG9o",
+                "duration": "7:24",
+                "thumbnail": "https://i.ytimg.com/vi/6u-UDrAfG9o/hq720.jpg"
+            },
+            {
+                "title": "සතියකට වතාවක්වත් ආහාරයට ගත යුතු අපිට ලැබුණු සොබා දමේ තෑග්ග Wal Penela Kola Kanda From Kusala  ✔",
+                "url": "https://youtube.com/watch?v=tDxvWCNk7IA",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/tDxvWCNk7IA/hq720.jpg"
+            },
+            {
+                "title": "වැල්පෙනෙල තෙලෙන් මලවමු  | Welpenela Saadamu",
+                "url": "https://youtube.com/watch?v=CGv0ZNbYszI",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/CGv0ZNbYszI/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=yN2X8khcnsI",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/yN2X8khcnsI/frame0.jpg"
+            },
+            {
+                "title": "ආහාර හිගයට විසදුම් | වැල් පෙනල | Episode 14",
+                "url": "https://youtube.com/watch?v=yruyA_5F_40",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/yruyA_5F_40/hq720.jpg"
+            },
+            {
+                "title": "ශරීර ශක්තිය වඩවන වැල් පෙනෙල | මුත්‍ර රෝග, චර්ම රෝග ඇතුළු රෝග රැසකට ගුණයි",
+                "url": "https://youtube.com/watch?v=2hCXFM7H_Mw",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/2hCXFM7H_Mw/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙර ශාකයේ සැගවුන රහස|thuru tv",
+                "url": "https://youtube.com/watch?v=jPsvbCK1W-o",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/jPsvbCK1W-o/hqdefault.jpg"
+            },
+            {
+                "title": "[Sri Lanka Wildflowers]#Wel penela (වැල් පෙනෙල)#Balloon Vine#Heart Seed#풍선덩굴#열대식물#Ayurveda Plants",
+                "url": "https://youtube.com/watch?v=HqIBhJZCHo0",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/HqIBhJZCHo0/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල |  Wel Penela | Balloon Vine | Sri lankan Aurvedic plant",
+                "url": "https://youtube.com/watch?v=AJQlGzSzy7c",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/AJQlGzSzy7c/hq720.jpg"
+            },
+            {
+                "title": "DO YOU KNOW THE MEDICINAL BENEFITS OF BALLOON VINE? @donabellahardeneravlogs790",
+                "url": "https://youtube.com/watch?v=sNVhPe2Jxl0",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/sNVhPe2Jxl0/hqdefault.jpg"
+            },
+            {
+                "title": "රස වගේම ඖෂධීය ගුණයක් ඇති වැල් පෙනෙල කොළ කැඳ| Kola Kenda| Kola Kenda Recipes|  Welpenela Kola Kenda",
+                "url": "https://youtube.com/watch?v=uh4EGKiTdWo",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/uh4EGKiTdWo/hq720.jpg"
+            },
+            {
+                "title": "✔ වැල්පෙනෙල කොළ සම්බෝලේ | Welpenela Kola Sambola Recipe Sri Lanka | Welpenela Recipe Sinhala",
+                "url": "https://youtube.com/watch?v=eg_txIKyaGc",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/eg_txIKyaGc/hq720.jpg"
+            },
+            {
+                "title": "Waal penela",
+                "url": "https://youtube.com/watch?v=TOIs2S1Whvk",
+                "duration": "0:39",
+                "thumbnail": "https://i.ytimg.com/vi/TOIs2S1Whvk/hqdefault.jpg"
+            },
+            {
+                "title": "මුත්‍රා රෝග නැති කරන වීස් එකට ගුණ පුදුම රස පෝට වැල් කාල තියනවද",
+                "url": "https://youtube.com/watch?v=9-7fjL5Etu0",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/9-7fjL5Etu0/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂ ශක්තිය  වැඩිකරන පිරිමින්ට  කියාපු දිවඔසුව ,benefit of walpenala ,benefit of cardiospermum .",
+                "url": "https://youtube.com/watch?v=eLZ1wctHY5g",
+                "duration": "6:27",
+                "thumbnail": "https://i.ytimg.com/vi/eLZ1wctHY5g/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Rheumatoid Arthritis",
-      "sinhala": "ආමවාතය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Back Pain",
-      "sinhala": "කොන්දේ කැක්කුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hernia",
-      "sinhala": "හර්නියා (අන්ත්‍ර වෘද්ධිය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole plant",
-    "Leaves",
-    "Flowers"
-  ],
-  "images": [
-    {
-      "image_id": "300",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/ccvCjBFC/plant01203-00300.jpg"
-    },
-    {
-      "image_id": "301",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/tTqFW9nK/plant01203-00301.jpg"
-    },
-    {
-      "image_id": "3950",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/ZRPbL7TV/plant01203-03950.jpg"
-    },
-    {
-      "image_id": "3951",
-      "caption": "Compound Leaf (PMR)",
-      "url": "https://i.ibb.co/qYqnpYSQ/plant01203-03951.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,142 +1,303 @@
 {
-  "scientificName": "Limonia acidissima L.",
-  "synonyms": [
-    "Anisifolium curvispina (Miq.) Kuntze",
-    "Anisifolium limonia Kuntze",
-    "Anisifolium spectabile (Miq.) Kuntze",
-    "Crateva balangas K.D.Koenig",
-    "Crateva vallanga J.Koenig ex Wight & Arn.",
-    "Feronia balanghas (K.D.Koenig) Steud.",
-    "Feronia elephantum Corrêa",
-    "Feronia limonia (L.) Swingle",
-    "Hesperethusa acidissima (L.) M.Roem.",
-    "Hesperethusa ambigua M.Roem.",
-    "Limonia ambigua DC.",
-    "Limonia curvispina Miq.",
-    "Limonia dulcis J.F.Gmel.",
-    "Limonia elephantum (Corrêa) Panigrahi",
-    "Limonia engleriana Perkins",
-    "Limonia pinnatifolia Houtt.",
-    "Limonia spectabilis Miq.",
-    "Murraya odorata Blanco",
-    "Schinus limonia L."
-  ],
-  "familyName": "RUTACEAE",
-  "englishNames": [
-    "Wood Apple",
-    "Elephant Apple",
-    "Thanakha Tree"
-  ],
-  "sinhalaName": "Divul (දිවුල්)",
-  "description": "මීටර් 7ක් දක්වා උසැති කුඩා ගසකි, කටු සෙන්ටිමීටර 4ක් දක්වා දිගු වේ. පත්‍ර සෙන්ටිමීටර 10ක් දිගු වන අතර පත්‍රිකා ප්‍රතිවිරුද්ධව පිහිටයි, සාමාන්‍යයෙන් යුගල 2ක් හෝ 3ක් ඇත. පුෂ්ප මංජරි පත්‍ර කක්ෂීය (axillary) වේ. මල් කුඩාය, බහුලය, සුදු, කොළ හෝ රතු-දම් පැහැතිය. පල දැවමය, ගෝලාකාර (globose), ලා පැහැති වන අතර ඇලෙන සුළු මදයකි; බීජ බහුලය.",
-  "treatments": [
-    {
-      "treatment": "Chronic Diarrhea",
-      "sinhala": "නිදන්ගත අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Limonia acidissima L.",
+    "synonyms": [
+        "Anisifolium curvispina (Miq.) Kuntze",
+        "Anisifolium limonia Kuntze",
+        "Anisifolium spectabile (Miq.) Kuntze",
+        "Crateva balangas K.D.Koenig",
+        "Crateva vallanga J.Koenig ex Wight & Arn.",
+        "Feronia balanghas (K.D.Koenig) Steud.",
+        "Feronia elephantum Corrêa",
+        "Feronia limonia (L.) Swingle",
+        "Hesperethusa acidissima (L.) M.Roem.",
+        "Hesperethusa ambigua M.Roem.",
+        "Limonia ambigua DC.",
+        "Limonia curvispina Miq.",
+        "Limonia dulcis J.F.Gmel.",
+        "Limonia elephantum (Corrêa) Panigrahi",
+        "Limonia engleriana Perkins",
+        "Limonia pinnatifolia Houtt.",
+        "Limonia spectabilis Miq.",
+        "Murraya odorata Blanco",
+        "Schinus limonia L."
+    ],
+    "familyName": "RUTACEAE",
+    "englishNames": [
+        "Wood Apple",
+        "Elephant Apple",
+        "Thanakha Tree"
+    ],
+    "sinhalaName": "Divul (දිවුල්)",
+    "description": "මීටර් 7ක් දක්වා උසැති කුඩා ගසකි, කටු සෙන්ටිමීටර 4ක් දක්වා දිගු වේ. පත්‍ර සෙන්ටිමීටර 10ක් දිගු වන අතර පත්‍රිකා ප්‍රතිවිරුද්ධව පිහිටයි, සාමාන්‍යයෙන් යුගල 2ක් හෝ 3ක් ඇත. පුෂ්ප මංජරි පත්‍ර කක්ෂීය (axillary) වේ. මල් කුඩාය, බහුලය, සුදු, කොළ හෝ රතු-දම් පැහැතිය. පල දැවමය, ගෝලාකාර (globose), ලා පැහැති වන අතර ඇලෙන සුළු මදයකි; බීජ බහුලය.",
+    "treatments": [
+        {
+            "treatment": "Chronic Diarrhea",
+            "sinhala": "නිදන්ගත අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hiccups",
+            "sinhala": "හිකිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gum and Throat Disorders",
+            "sinhala": "විදුරුමස් සහ උගුරේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dental & Oral Cavity Diseases",
+                "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Insect Bites and Stings",
+            "sinhala": "කෘමි දෂ්ටන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Biliary Disorders",
+            "sinhala": "පිත් ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits",
+        "Bark",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "264",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/W4YDjBpc/plant01183-00264.jpg"
+        },
+        {
+            "image_id": "265",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/CKHwg1gp/plant01183-00265.jpg"
+        },
+        {
+            "image_id": "3935",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/qMyyNy65/plant01183-03935.jpg"
+        },
+        {
+            "image_id": "3936",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/CpyhsSSc/plant01183-03936.jpg"
+        },
+        {
+            "image_id": "3937",
+            "caption": "Compound leaves - lower surface (PMR)",
+            "url": "https://i.ibb.co/fzf9RrwV/plant01183-03937.jpg"
+        },
+        {
+            "image_id": "3938",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/JjKG5LBz/plant01183-03938.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "දිවුල් වල විශ්මිත ගුණය - Amazing quality of this fruit",
+                "url": "https://youtube.com/watch?v=I4dea-7lm4A",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/I4dea-7lm4A/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රබල රෝග රැසක් බලාගෙන ඉද්දීම සුවවෙන දිවුල් වල ඇති අසීමිත ගුණය |Wood Apple",
+                "url": "https://youtube.com/watch?v=f6GnMFJCuig",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/f6GnMFJCuig/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ දෙන දිවුල් | Wood apple | diwul | Sakala waga",
+                "url": "https://youtube.com/watch?v=7jCeMbcHnvs",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/7jCeMbcHnvs/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "දිවුල් ගසේ පංචාංගයම ඖෂධීය ගුණයෙන් ඉහල | Wood apple benefits",
+                "url": "https://youtube.com/watch?v=_FJyVMmDIrc",
+                "duration": "5:57",
+                "thumbnail": "https://i.ytimg.com/vi/_FJyVMmDIrc/hq720.jpg"
+            },
+            {
+                "title": "දිවුල් ඇත්තටම මේ කියන තරම් ගුණද? | Haritha Tv | Palathuru Ware | Wood Apple",
+                "url": "https://youtube.com/watch?v=wGAQYrLqC0U",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/wGAQYrLqC0U/hq720.jpg"
+            },
+            {
+                "title": "යකඩ බහුල රස ගුණ පිරි දිවුල් ශාකය | Wood Apple | Sobdam Piyasa",
+                "url": "https://youtube.com/watch?v=9j6rQYEUIwU",
+                "duration": "7:17",
+                "thumbnail": "https://i.ytimg.com/vi/9j6rQYEUIwU/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple And Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=yohNiUutzUc",
+                "duration": "24:38",
+                "thumbnail": "https://i.ytimg.com/vi/yohNiUutzUc/hq720.jpg"
+            },
+            {
+                "title": "දිවුල් වල වටිනාකම | ඔබේ දරුවන්ට දිනපතා දෙන්න",
+                "url": "https://youtube.com/watch?v=e62uGkRQlIc",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/e62uGkRQlIc/hq720.jpg"
+            },
+            {
+                "title": "සම පැහැපත් කරවන දිවුල් පානය කිරීමෙන් ඔබගේ ශරීරයට වෙනදේ මෙන්න..!",
+                "url": "https://youtube.com/watch?v=lNIe-cN62I8",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/lNIe-cN62I8/hq720.jpg"
+            },
+            {
+                "title": "දිවුල් කොළ පානය | Soopa Yathra - (2023-03-22) | ITN",
+                "url": "https://youtube.com/watch?v=OMVlhVkhEXo",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/OMVlhVkhEXo/hq720.jpg"
+            },
+            {
+                "title": "මේ පළතුරේ මෙතරම් ගුණයක් | කැල්සියම් වැඩිම පළතුර | දිවුල් වල ගුණ මොනවද",
+                "url": "https://youtube.com/watch?v=8rvLtEYDqhc",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/8rvLtEYDqhc/hqdefault.jpg"
+            },
+            {
+                "title": "★‍ ශරීරයේ විෂ නසන ප්‍රතිශක්තිය වැඩි කරන දිවුල් කිරි Healthy and Natural Detox drink/Diul Apé Amma",
+                "url": "https://youtube.com/watch?v=H-3RDdNBq1g",
+                "duration": "5:35",
+                "thumbnail": "https://i.ytimg.com/vi/H-3RDdNBq1g/hq720.jpg"
+            },
+            {
+                "title": "රසවත් දිවුල් පානයක් හදමු | wood apple juice 😋",
+                "url": "https://youtube.com/watch?v=GTgmLjH2srQ",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/GTgmLjH2srQ/hqdefault.jpg"
+            },
+            {
+                "title": "දිවුල්වලින් අත්බෙහෙත් 13ක් 🌰 වඳ බව නසන දිවුල් ඛෙහෙතක්👁️# Wood apple #diwul#Hela Arana හෙලඅරණ",
+                "url": "https://youtube.com/watch?v=Iqdwvc_rnIM",
+                "duration": "12:48",
+                "thumbnail": "https://i.ytimg.com/vi/Iqdwvc_rnIM/hq720.jpg"
+            },
+            {
+                "title": "ක්ෂණික දිවුල් පානය | Wood Apples Made Simple",
+                "url": "https://youtube.com/watch?v=PdyHV37yl-M",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/PdyHV37yl-M/hq720.jpg"
+            },
+            {
+                "title": "අරුම පුදුම ඇටම දිවුල් දිවුල් කිරි එකේ තිබෙන ඔබ නොදන්නා ඖෂධ ගූනය",
+                "url": "https://youtube.com/watch?v=VyBZ1QF7KOU",
+                "duration": "18:09",
+                "thumbnail": "https://i.ytimg.com/vi/VyBZ1QF7KOU/hq720.jpg"
+            },
+            {
+                "title": "කිරි වෙනුවට දිවුල් වීදුරුවක් බිව්වොත් ? | Wood-apple | Ceylon Agri | Gasaka Waruna",
+                "url": "https://youtube.com/watch?v=StyuD8Ur0UU",
+                "duration": "9:37",
+                "thumbnail": "https://i.ytimg.com/vi/StyuD8Ur0UU/hq720.jpg"
+            },
+            {
+                "title": "හෙළ ආයුරේදයේ ප්‍රබල ඔසුවක් වන දිවුල් | Wood Apple | Gossip Lanka",
+                "url": "https://youtube.com/watch?v=8_D37SWsUOo",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/8_D37SWsUOo/hqdefault.jpg"
+            },
+            {
+                "title": "ගැස්ට්‍රයිටිස් නම් දිවුල් කෑම අවදානම් | NO WOODAPPLE FOR GASTRITIS",
+                "url": "https://youtube.com/watch?v=yoa97WIIR2U",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/yoa97WIIR2U/hq720.jpg"
+            },
+            {
+                "title": "✔ හොඳ දිවුල් තෝරන හැටි How to choose ripe woodapple Apé Amma (Diwul thoramu)",
+                "url": "https://youtube.com/watch?v=6zUkqqlJaKM",
+                "duration": "7:21",
+                "thumbnail": "https://i.ytimg.com/vi/6zUkqqlJaKM/hq720.jpg"
+            },
+            {
+                "title": "රට ඉදි මිශ්‍ර කරපු රසම රස දිවුල් පානයක් හදාගන්නා ආකාරය | Wood Apple Juice with Dates | healthy drink",
+                "url": "https://youtube.com/watch?v=V75mwV2dQ_c",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/V75mwV2dQ_c/hq720.jpg"
+            },
+            {
+                "title": "පොඩි ඉඩක දිවුල් ගහක් වවා ගන්නෙ මෙහෙමයි. | woodapple | Ceylon | Episode - 77",
+                "url": "https://youtube.com/watch?v=qy8Te8qVvdI",
+                "duration": "11:38",
+                "thumbnail": "https://i.ytimg.com/vi/qy8Te8qVvdI/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා වළකන අපේ රටේ හෙළ ශාකය..  The Anti-cancer Fruit: Wood Apple",
+                "url": "https://youtube.com/watch?v=S6rRfwBdRgY",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/S6rRfwBdRgY/hq720.jpg"
+            },
+            {
+                "title": "Golden Apple; Wood Apple Smoothy/ සුද්දොත් ආස දිවුල්  කිරි😀😳",
+                "url": "https://youtube.com/watch?v=xNCcCw-4ZhM",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/xNCcCw-4ZhM/hq720.jpg"
+            },
+            {
+                "title": "දිවුල්වල ගුණ අගුණ දැන ගමුද.Let's know the merits and demerits of wood apple.",
+                "url": "https://youtube.com/watch?v=bZMRc7nor7c",
+                "duration": "8:08",
+                "thumbnail": "https://i.ytimg.com/vi/bZMRc7nor7c/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hiccups",
-      "sinhala": "හිකිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gum and Throat Disorders",
-      "sinhala": "විදුරුමස් සහ උගුරේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dental & Oral Cavity Diseases",
-        "sinhala": "දන්ත සහ මුඛ කුහරය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Insect Bites and Stings",
-      "sinhala": "කෘමි දෂ්ටන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Biliary Disorders",
-      "sinhala": "පිත් ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits",
-    "Bark",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "264",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/W4YDjBpc/plant01183-00264.jpg"
-    },
-    {
-      "image_id": "265",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/CKHwg1gp/plant01183-00265.jpg"
-    },
-    {
-      "image_id": "3935",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/qMyyNy65/plant01183-03935.jpg"
-    },
-    {
-      "image_id": "3936",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/CpyhsSSc/plant01183-03936.jpg"
-    },
-    {
-      "image_id": "3937",
-      "caption": "Compound leaves - lower surface (PMR)",
-      "url": "https://i.ibb.co/fzf9RrwV/plant01183-03937.jpg"
-    },
-    {
-      "image_id": "3938",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/JjKG5LBz/plant01183-03938.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

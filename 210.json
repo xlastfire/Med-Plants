@@ -1,68 +1,601 @@
 {
-  "scientificName": "Chromolaena odorata (L.) R.M.King & H.Rob.",
-  "synonyms": [
-    "Chromolaena barranquillensis (Hieron.) R.M.King & H.Rob.",
-    "Chromolaena clematitis (DC.) Pruski",
-    "Chromolaena odorata f. squarrosa (Koster f.) Sunita Garg",
-    "Chrysocoma volubilis Vell.",
-    "Eupatorium atriplicifolium Vahl",
-    "Eupatorium barranquillense Hieron.",
-    "Eupatorium brachiatum Sw. ex Wikstr.",
-    "Eupatorium clematitis DC.",
-    "Eupatorium conyzoides f. angustiflorum Cuatrec.",
-    "Eupatorium conyzoides f. glabratum Hassl.",
-    "Eupatorium conyzoides Vahl",
-    "Eupatorium conyzoides var. extensum Hieron.",
-    "Eupatorium conyzoides var. floribundum (Kunth) Hieron.",
-    "Eupatorium conyzoides var. glabrescens Steetz",
-    "Eupatorium conyzoides var. heterolepis Griseb.",
-    "Eupatorium conyzoides var. incanum Baker",
-    "Eupatorium conyzoides var. maximiliani Baker",
-    "Eupatorium conyzoides var. pauciflorum Baker",
-    "Eupatorium conyzoides var. phyllocephalum Sch.Bip. ex Baker",
-    "Eupatorium conyzoides var. scaberulum Hassl.",
-    "Eupatorium conyzoides var. tambillense Hieron.",
-    "Eupatorium divergens Less.",
-    "Eupatorium floribundum Kunth",
-    "Eupatorium graciliflorum DC.",
-    "Eupatorium incisum A.Rich.",
-    "Eupatorium klattii Millsp.",
-    "Eupatorium odoratum f. scandens Kuntze",
-    "Eupatorium odoratum L.",
-    "Eupatorium odoratum var. brachiatum (Sw. ex Wikstr.) DC.",
-    "Eupatorium odoratum var. cubense DC.",
-    "Eupatorium odoratum var. mallotophyllum B.L.Rob.",
-    "Eupatorium odoratum var. pauciflorum (Baker) Hieron.",
-    "Eupatorium sabeanum Buckley",
-    "Eupatorium stigmatosum Meyen & Walp.",
-    "Osmia atriplicifolia Sch.Bip.",
-    "Osmia clematitis (DC.) Sch.Bip.",
-    "Osmia conyzoides Small",
-    "Osmia divergens (Less.) Sch.Bip.",
-    "Osmia floribunda (Kunth) Sch.Bip.",
-    "Osmia graciliflora (DC.) Sch.Bip.",
-    "Osmia odorata (L.) Sch.Bip."
-  ],
-  "familyName": "ASTERACEAE",
-  "englishNames": [
-    "Christmas Bush",
-    "Jack in the Bush"
-  ],
-  "sinhalaName": "Podisingnomaran (පොඩිසිංඤොමරං )",
-  "description": "සෘජු හෝ පැතිරී යන පඳුරු ශාකයකි; කඳන් මීටර් 1-1.25 ක් උස, සිලින්ඩරාකාර (terete), රෝම සහිත (pubescent) වේ. පත්‍ර තලය සෙන්ටිමීටර 5-10 x 3-6 ක් වන අතර පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 6 ක් දක්වා දිගු වේ. පුෂ්ප මංජරිය (capitula) සිලින්ඩරාකාර-ඝණ්ඨාකාර (cylindrical-campanulate) හැඩැති, මිලිමීටර 3 ක විෂ්කම්භයකින් යුක්ත වන අතර, සෙන්ටිමීටර 10 ක් පමණ පළල ඝන අග්‍රස්ථ කෝරිම්බ (corymbose) ලෙස පිහිටයි. ආවෘත පත්‍ර (involucre) පේළි 4-5 කින් සමන්විත, මිලිමීටර 1 ක් පමණ දිගු, සුදු පැහැති පත්‍රිකා (phyllaries) වලින් යුක්ත වේ. එක් පුෂ්ප මංජරියකට මල් 20-35 ක් පවතින අතර, ඒවා සුදුමැලි නිල්-මව් (pale bluish-mauve) පැහැයෙන් යුක්ත වේ, කලාතුරකින් සුදු පැහැති විය හැකි අතර සුවඳවත් වේ. අචීන (achenes) මිලිමීටර 4 ක් දිගු, කළු පැහැයට හුරු වන අතර සුදුමැලි රළු (scabrid) ඉළ ඇට 4-5 ක් ඇත. පැපස් (pappus) සුදු හෝ සුදුමැලි දුඹුරු පැහැති වන අතර මිලිමීටර 5 ක් දිගු වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "975",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/qL3RVBhj/plant00210-00975.jpg"
+    "scientificName": "Chromolaena odorata (L.) R.M.King & H.Rob.",
+    "synonyms": [
+        "Chromolaena barranquillensis (Hieron.) R.M.King & H.Rob.",
+        "Chromolaena clematitis (DC.) Pruski",
+        "Chromolaena odorata f. squarrosa (Koster f.) Sunita Garg",
+        "Chrysocoma volubilis Vell.",
+        "Eupatorium atriplicifolium Vahl",
+        "Eupatorium barranquillense Hieron.",
+        "Eupatorium brachiatum Sw. ex Wikstr.",
+        "Eupatorium clematitis DC.",
+        "Eupatorium conyzoides f. angustiflorum Cuatrec.",
+        "Eupatorium conyzoides f. glabratum Hassl.",
+        "Eupatorium conyzoides Vahl",
+        "Eupatorium conyzoides var. extensum Hieron.",
+        "Eupatorium conyzoides var. floribundum (Kunth) Hieron.",
+        "Eupatorium conyzoides var. glabrescens Steetz",
+        "Eupatorium conyzoides var. heterolepis Griseb.",
+        "Eupatorium conyzoides var. incanum Baker",
+        "Eupatorium conyzoides var. maximiliani Baker",
+        "Eupatorium conyzoides var. pauciflorum Baker",
+        "Eupatorium conyzoides var. phyllocephalum Sch.Bip. ex Baker",
+        "Eupatorium conyzoides var. scaberulum Hassl.",
+        "Eupatorium conyzoides var. tambillense Hieron.",
+        "Eupatorium divergens Less.",
+        "Eupatorium floribundum Kunth",
+        "Eupatorium graciliflorum DC.",
+        "Eupatorium incisum A.Rich.",
+        "Eupatorium klattii Millsp.",
+        "Eupatorium odoratum f. scandens Kuntze",
+        "Eupatorium odoratum L.",
+        "Eupatorium odoratum var. brachiatum (Sw. ex Wikstr.) DC.",
+        "Eupatorium odoratum var. cubense DC.",
+        "Eupatorium odoratum var. mallotophyllum B.L.Rob.",
+        "Eupatorium odoratum var. pauciflorum (Baker) Hieron.",
+        "Eupatorium sabeanum Buckley",
+        "Eupatorium stigmatosum Meyen & Walp.",
+        "Osmia atriplicifolia Sch.Bip.",
+        "Osmia clematitis (DC.) Sch.Bip.",
+        "Osmia conyzoides Small",
+        "Osmia divergens (Less.) Sch.Bip.",
+        "Osmia floribunda (Kunth) Sch.Bip.",
+        "Osmia graciliflora (DC.) Sch.Bip.",
+        "Osmia odorata (L.) Sch.Bip."
+    ],
+    "familyName": "ASTERACEAE",
+    "englishNames": [
+        "Christmas Bush",
+        "Jack in the Bush"
+    ],
+    "sinhalaName": "Podisingnomaran (පොඩිසිංඤොමරං )",
+    "description": "සෘජු හෝ පැතිරී යන පඳුරු ශාකයකි; කඳන් මීටර් 1-1.25 ක් උස, සිලින්ඩරාකාර (terete), රෝම සහිත (pubescent) වේ. පත්‍ර තලය සෙන්ටිමීටර 5-10 x 3-6 ක් වන අතර පත්‍ර වෘන්ත (petioles) සෙන්ටිමීටර 6 ක් දක්වා දිගු වේ. පුෂ්ප මංජරිය (capitula) සිලින්ඩරාකාර-ඝණ්ඨාකාර (cylindrical-campanulate) හැඩැති, මිලිමීටර 3 ක විෂ්කම්භයකින් යුක්ත වන අතර, සෙන්ටිමීටර 10 ක් පමණ පළල ඝන අග්‍රස්ථ කෝරිම්බ (corymbose) ලෙස පිහිටයි. ආවෘත පත්‍ර (involucre) පේළි 4-5 කින් සමන්විත, මිලිමීටර 1 ක් පමණ දිගු, සුදු පැහැති පත්‍රිකා (phyllaries) වලින් යුක්ත වේ. එක් පුෂ්ප මංජරියකට මල් 20-35 ක් පවතින අතර, ඒවා සුදුමැලි නිල්-මව් (pale bluish-mauve) පැහැයෙන් යුක්ත වේ, කලාතුරකින් සුදු පැහැති විය හැකි අතර සුවඳවත් වේ. අචීන (achenes) මිලිමීටර 4 ක් දිගු, කළු පැහැයට හුරු වන අතර සුදුමැලි රළු (scabrid) ඉළ ඇට 4-5 ක් ඇත. පැපස් (pappus) සුදු හෝ සුදුමැලි දුඹුරු පැහැති වන අතර මිලිමීටර 5 ක් දිගු වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "975",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/qL3RVBhj/plant00210-00975.jpg"
+        },
+        {
+            "image_id": "976",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/cczYMMc9/plant00210-00976.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "How to create a coco coir poles.use for Ornamental pots.#cococoir #Lassanalife#indoorplants#ideas",
+                "url": "https://youtube.com/watch?v=LGJfVR_8O2w",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/LGJfVR_8O2w/hqdefault.jpg"
+            },
+            {
+                "title": "පොල් මැල්ලුමක්ද ඔනි හරියටම හදන සුපිරිම රහස මෙන්න",
+                "url": "https://youtube.com/watch?v=PM07t_biv5Q",
+                "duration": "12:15",
+                "thumbnail": "https://i.ytimg.com/vi/PM07t_biv5Q/hq720.jpg"
+            },
+            {
+                "title": "🌿 කුඩු මිරිස්ස 🔴 Zanthoxylum asiaticum (L.) Appelhans, Groppo & J.Wen",
+                "url": "https://youtube.com/watch?v=HOtexPcLzFs",
+                "duration": "14:12",
+                "thumbnail": "https://i.ytimg.com/vi/HOtexPcLzFs/hq720.jpg"
+            },
+            {
+                "title": "මේ තරම් වටින වර්ග අඩු මිලකට ගන්න පුලුවන් හොදම විදිය#,anthuriumwagawasinhala#fypvira#plants0765647812",
+                "url": "https://youtube.com/watch?v=4VzoLGrf7Gg",
+                "duration": "10:05",
+                "thumbnail": "https://i.ytimg.com/vi/4VzoLGrf7Gg/hqdefault.jpg"
+            },
+            {
+                "title": "06.02/#078 6094585 # COD❌ අඩුම මිලට ඇන්තූරියම් ගන්න එන්න # plant # gardening # flowers ###",
+                "url": "https://youtube.com/watch?v=itVjV5aPl9E",
+                "duration": "6:01",
+                "thumbnail": "https://i.ytimg.com/vi/itVjV5aPl9E/hqdefault.jpg"
+            },
+            {
+                "title": "moragollaa pawulata udaw ගෙදරම වාට්ටුවක් , ඔක්කොමලා ලෙඩ්ඩු   මෙත් සිතින් අතදෙන මිනිස්සු",
+                "url": "https://youtube.com/watch?v=u6T9yKbhHU0",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/u6T9yKbhHU0/hq720.jpg"
+            },
+            {
+                "title": "අටමස්ථානාධිපතිට තියෙන්නේ ෆිඩොෆීලියා මානසික රෝගයද?\" එදා යටගැසූ බරපතළ CID රහස් අද මාධ්‍ය සාකච්ඡාවෙන්",
+                "url": "https://youtube.com/watch?v=m1UMiznDL3U",
+                "duration": "7:19",
+                "thumbnail": "https://i.ytimg.com/vi/m1UMiznDL3U/hq720.jpg"
+            },
+            {
+                "title": "එක් අයකුට දිවි අහිමිකළ වොෂින්ටනයේ රසායනික ටැංකි පිපිරුම | Monara",
+                "url": "https://youtube.com/watch?v=SLjIndB8Tl8",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/SLjIndB8Tl8/hq720.jpg"
+            },
+            {
+                "title": "දන්නෙ නැතුවද කුරුදු බිවුවෙ? | Cinnamon for Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WlVF9YZgJQ8",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/WlVF9YZgJQ8/hq720.jpg"
+            },
+            {
+                "title": "ගංසුරිය(Gansuriya) ශාකයේ විශ්මිත ගුණ😱😱😱",
+                "url": "https://youtube.com/watch?v=5tNmjd694pg",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/5tNmjd694pg/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා  මාරාන්තිකයි [Hari Tv ][Lahiru mudalige]",
+                "url": "https://youtube.com/watch?v=FObeIYHmROY",
+                "duration": "7:01",
+                "thumbnail": "https://i.ytimg.com/vi/FObeIYHmROY/hq720.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "හදවත රකින සූදුරු .  සූදුරු  වල ඇති ආයුර්වේදීය ගුණ .",
+                "url": "https://youtube.com/watch?v=Ty2rR_aZVDY",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ty2rR_aZVDY/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "ශරීරයේ ප්‍රතිශක්තිය වැඩි කරන බිං කොහොඹ - Mumronia pinnata",
+                "url": "https://youtube.com/watch?v=J1CJ5jgcAYE",
+                "duration": "11:07",
+                "thumbnail": "https://i.ytimg.com/vi/J1CJ5jgcAYE/hq720.jpg"
+            },
+            {
+                "title": "හැමෝම දන්නා ගම්මිරිස් වල ඔබ නොදත් ගුණ | ස්නායු දුර්වලතා, කැස්ස ඇතුළු රෝග රැසකට ගුණයි | ගම්මිරිස්",
+                "url": "https://youtube.com/watch?v=5a-VrHtdUt8",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/5a-VrHtdUt8/hq720.jpg"
+            },
+            {
+                "title": "විනාඩි පහෙන් අර්ශස් රෝගීන්ට ගුණ දායක පානයක්.✅ A  drink that is beneficial for hemorrhoid patients",
+                "url": "https://youtube.com/watch?v=Od0Nfe86pEE",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/Od0Nfe86pEE/hqdefault.jpg"
+            },
+            {
+                "title": "⛔ලංකාව ලෝකය හොල්ලයි! ලේ වල ඝනකම අඩුකරන සුපිරි පලා වර්ගයක්",
+                "url": "https://youtube.com/watch?v=R03vVDIhLWs",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/R03vVDIhLWs/hq720.jpg"
+            },
+            {
+                "title": "කුරුඳු වල විශ්මිත ගුණ . Ayurvedic value of cinnamon.",
+                "url": "https://youtube.com/watch?v=HYqpafpiFWE",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/HYqpafpiFWE/hq720.jpg"
+            },
+            {
+                "title": "කුප්පි ලාම්පුවට දින කියු වෙද මහතා",
+                "url": "https://youtube.com/watch?v=8Z8oZc2N_mE",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/8Z8oZc2N_mE/hq720.jpg"
+            },
+            {
+                "title": "ලුණුවරණ   Crateva adansonii ලෙඩ රෝග රැසකට අවශය වටිනා ශාකයක් මෙහෙම දකින්න ලැබෙන්නෙ කලාතුරකින් 🙏🙏🙏",
+                "url": "https://youtube.com/watch?v=RiNshNWi-Ac",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/RiNshNWi-Ac/hq720.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ.  Health benefits of Thulasi.",
+                "url": "https://youtube.com/watch?v=kKukenrdq0k",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/kKukenrdq0k/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය ගුණ සහිත කුප්පමේනියා ගැන දැනගනිමු |kuppameniya| Acalypha Indica",
+                "url": "https://youtube.com/watch?v=fgliz181Bvg",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/fgliz181Bvg/hqdefault.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "අතිවිශිෂ්ඨ ගුණ වලින් හෙබි අපේ ඔසුව | Ithana | Ceylon Agri | Episode 142",
+                "url": "https://youtube.com/watch?v=SOCAHEP3yTA",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/SOCAHEP3yTA/hq720.jpg"
+            },
+            {
+                "title": "දැනගෙනම හිටවන්න | Pranajeewa Plant | Ceylon Agri| Episode 359",
+                "url": "https://youtube.com/watch?v=7VR4o-3yMxY",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/7VR4o-3yMxY/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ කුඩු දවස් 14ක් බිව්වොත් වෙන විස්මිත දේ! | Benefits of Moringa Powder (Sinhala)",
+                "url": "https://youtube.com/watch?v=n2bpVCsvkfM",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/n2bpVCsvkfM/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සමඟ සටන් කරන හොඳම ආහාර 15ක් | 15 Best Foods to Control Diabetes",
+                "url": "https://youtube.com/watch?v=Xj9d2oUp5eA",
+                "duration": "11:59",
+                "thumbnail": "https://i.ytimg.com/vi/Xj9d2oUp5eA/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "සුදුලූනු මෙච්චර ගුණ ද මේක නම් දිව්‍ය ඔෂධයක්ම තමයි ❤️😊",
+                "url": "https://youtube.com/watch?v=1JiS6FRTEpw",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/1JiS6FRTEpw/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ නොවී ඉන්න මේ 2ක  හදන් බොන්න | Immune Modulator Drinks By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=kwzKqrQZSv0",
+                "duration": "9:18",
+                "thumbnail": "https://i.ytimg.com/vi/kwzKqrQZSv0/hq720.jpg"
+            },
+            {
+                "title": "110. පෝෂණ පූරක",
+                "url": "https://youtube.com/watch?v=030LD9wi6zw",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/030LD9wi6zw/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණ-දද,අළුහම්,හිස්සොරි සහ තවත් දේවල් - උපුටගත්තකි.",
+                "url": "https://youtube.com/watch?v=RBB5_oyLdOc",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/RBB5_oyLdOc/hqdefault.jpg"
+            },
+            {
+                "title": "සින්ක් වැඩිපුර අඩංගු කෑම වර්ග 10 ක් - 15 foods rich in zinc you must have every day",
+                "url": "https://youtube.com/watch?v=AZFX24ljPJA",
+                "duration": "8:26",
+                "thumbnail": "https://i.ytimg.com/vi/AZFX24ljPJA/hq720.jpg"
+            },
+            {
+                "title": "මෙච්චර කාලෙකට නොකියපු බෙහෙතෙන් සිරුරේ විෂ ඉවත් කරමු | Let's Detoxify Our Body With a Secret Medicine",
+                "url": "https://youtube.com/watch?v=S70La00Qsto",
+                "duration": "10:14",
+                "thumbnail": "https://i.ytimg.com/vi/S70La00Qsto/hq720.jpg"
+            },
+            {
+                "title": "🔴සම රත්‍රං පාට වෙලා අවු:15 මාව තරුණ කරපු උලුහාල් පොටිටනි කැද සහ පානය! මෙන්න වාසි",
+                "url": "https://youtube.com/watch?v=5sWH0S4yzCI",
+                "duration": "8:22",
+                "thumbnail": "https://i.ytimg.com/vi/5sWH0S4yzCI/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ | Munronia pinnata - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=aLVxN65TEgg",
+                "duration": "7:42",
+                "thumbnail": "https://i.ytimg.com/vi/aLVxN65TEgg/hq720.jpg"
+            },
+            {
+                "title": "🔥 වකුගඩු වලට දැනගත යුතු හොඳ සහ නරක අතිරේක⚠️ වකුගඩු වලට හානි කරයිද?! kidney health Vitamins",
+                "url": "https://youtube.com/watch?v=9OrQHJynr4I",
+                "duration": "20:03",
+                "thumbnail": "https://i.ytimg.com/vi/9OrQHJynr4I/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන, ලෙඩවීම වලක්වන, පිටි වර්ග 7 ක්!",
+                "url": "https://youtube.com/watch?v=S_RsfSLzUw8",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/S_RsfSLzUw8/hq720.jpg"
+            },
+            {
+                "title": "කුරුදු වලින් ලෙඩෙත් ජීවිතෙත් 2කම ගොඩගන්න | Cinnomen By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=6i55_2NGRI8",
+                "duration": "12:51",
+                "thumbnail": "https://i.ytimg.com/vi/6i55_2NGRI8/hq720.jpg"
+            },
+            {
+                "title": "පහසුවෙන්, අඩු වියදමෙන්,  දිව්‍ය ඖෂධය ගෙදරදී ම හදාගන්නා හැටි!",
+                "url": "https://youtube.com/watch?v=kXhWrN5RjUo",
+                "duration": "9:29",
+                "thumbnail": "https://i.ytimg.com/vi/kXhWrN5RjUo/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "පෝෂ්‍ය පදාර්ථ අවශ්‍ය ප්‍රමාණයට නොලැබුණු විට ඇති විය හැකි තත්වයන් | පරිසරය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=i_AxCr1Y9-o",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/i_AxCr1Y9-o/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "හානිදායක කෘමිනාශකයකි ☠️ පරිහරණය ප්‍රවේශමින්.#garden #agriculture #farming",
+                "url": "https://youtube.com/watch?v=VgHZPRf60W4",
+                "duration": "7:02",
+                "thumbnail": "https://i.ytimg.com/vi/VgHZPRf60W4/hq720.jpg"
+            },
+            {
+                "title": "දඬු මඟින් සිටුවන ශාක වර්ග/#education#educational#trees#video#foryou#primaryTV @IshaniMS96",
+                "url": "https://youtube.com/watch?v=KwhNia8Z6II",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/KwhNia8Z6II/hq720.jpg"
+            },
+            {
+                "title": "සිඟිති වාද වල නොපැටලීම සඳහා: පුළුල් චින්තනය (Science With Ruchira)",
+                "url": "https://youtube.com/watch?v=I2EBipoMtos",
+                "duration": "19:18",
+                "thumbnail": "https://i.ytimg.com/vi/I2EBipoMtos/hq720.jpg"
+            },
+            {
+                "title": "supportive structures of plants | science sinhala medium #passionfruit #plants",
+                "url": "https://youtube.com/watch?v=eeIqoTkE7i0",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/eeIqoTkE7i0/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන 🐕#trending #viral #foryou #education #educational #animals",
+                "url": "https://youtube.com/watch?v=m_QLK68xX50",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/m_QLK68xX50/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "පාඩම් මාලාව අංක 1 පොගොනාටුම් ජීවන චක්‍රය | Dinesh Muthugala | Biology",
+                "url": "https://youtube.com/watch?v=SXHkswL7b0w",
+                "duration": "24:30",
+                "thumbnail": "https://i.ytimg.com/vi/SXHkswL7b0w/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන සහ අපට උදව් කරන සතුන් පාඩම | #usefulanimals #keenkidamigo 4,5 ශ්‍රේණි පරිසරය",
+                "url": "https://youtube.com/watch?v=cY5ccYVn_mQ",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/cY5ccYVn_mQ/hq720.jpg"
+            },
+            {
+                "title": "03 වන තේමාව - 03 වන පාඩම | සතුන්ගේ චර්යා වලින් ඇති ප්‍රයෝජන | 02 ශ්‍රේණිය පරිසරය",
+                "url": "https://youtube.com/watch?v=N-4RR2AJ2ZY",
+                "duration": "15:11",
+                "thumbnail": "https://i.ytimg.com/vi/N-4RR2AJ2ZY/hq720.jpg"
+            },
+            {
+                "title": "බීජයක් පැළවෙන පියවර 4 | ලමා අධ්‍යාපන #shorts",
+                "url": "https://youtube.com/watch?v=7lbiK4Z640c",
+                "duration": "1:03",
+                "thumbnail": "https://i.ytimg.com/vi/7lbiK4Z640c/hq720.jpg"
+            },
+            {
+                "title": "රැපුන්සල්ගේ රහස: ආහාර වල පෝෂක සහ තුලිත ආහාර වේලක්‍ ‍_@හර්ෂණි සුලෝචනා#NutrientsIn#Science #Rapunzel",
+                "url": "https://youtube.com/watch?v=jS05erSxHrE",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/jS05erSxHrE/hq720.jpg"
+            },
+            {
+                "title": "0779607293 ලස්සන සීඩ්ස් වර්ග ගොඩාරියක් ගෙනාවා අඩුවට පෝච්චි එක්ක ඕනිද",
+                "url": "https://youtube.com/watch?v=DYaKYiJJZ7w",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/DYaKYiJJZ7w/hq720.jpg"
+            },
+            {
+                "title": "PERSIMMON BENEFITS  - 13 Impressive Health Benefits of Persimmon",
+                "url": "https://youtube.com/watch?v=ZUDv7LN3ilw",
+                "duration": "10:31",
+                "thumbnail": "https://i.ytimg.com/vi/ZUDv7LN3ilw/hq720.jpg"
+            },
+            {
+                "title": "Purslane: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=AKjcsZRcuQY",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/AKjcsZRcuQY/hq720.jpg"
+            },
+            {
+                "title": "Commonly Seen Purslane Benefits As A Medicine",
+                "url": "https://youtube.com/watch?v=JyX9FiYXQik",
+                "duration": "2:58",
+                "thumbnail": "https://i.ytimg.com/vi/JyX9FiYXQik/hqdefault.jpg"
+            },
+            {
+                "title": "11 Benefits of Parsley You Should Know! | Health Benefits of Parsley",
+                "url": "https://youtube.com/watch?v=Cp5LIVk8k0s",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/Cp5LIVk8k0s/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=OhD9C89hrqk",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/OhD9C89hrqk/hq720.jpg"
+            },
+            {
+                "title": "TRY PURSLANE NOW - Don't miss out on the powerful health benefits of this underrated superfood",
+                "url": "https://youtube.com/watch?v=8xyj9Kp1WIg",
+                "duration": "2:41",
+                "thumbnail": "https://i.ytimg.com/vi/8xyj9Kp1WIg/hq720.jpg"
+            },
+            {
+                "title": "Top Ten Health Benefits of Prunes",
+                "url": "https://youtube.com/watch?v=KnTsXLVNm2E",
+                "duration": "1:06",
+                "thumbnail": "https://i.ytimg.com/vi/KnTsXLVNm2E/hqdefault.jpg"
+            },
+            {
+                "title": "9 Benefits Of Cilantro You Should Know! | Health Benefits Of Cilantro",
+                "url": "https://youtube.com/watch?v=jlaelYqV94o",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/jlaelYqV94o/hq720.jpg"
+            },
+            {
+                "title": "Discover the Surprising Health Benefits of Eating Purslane!",
+                "url": "https://youtube.com/watch?v=U0Jq_22mTxE",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/U0Jq_22mTxE/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම මුරුංගා කොළ යුෂ කෝප්පයක් බිව්වොත් ශරීරයට සිදුවන විශ්මිත දේවල් - Health Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=eJvVlXTMwjI",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/eJvVlXTMwjI/hq720.jpg"
+            },
+            {
+                "title": "PURSLANE BENEFITS : The Superfood You Didn't Know About!",
+                "url": "https://youtube.com/watch?v=UgQ-mmsGvA8",
+                "duration": "5:04",
+                "thumbnail": "https://i.ytimg.com/vi/UgQ-mmsGvA8/hq720.jpg"
+            },
+            {
+                "title": "6 Benefits Of Amaranthus Spinosus The Healthiest Vegetables - Amaranthus Spinosus Health Benefits",
+                "url": "https://youtube.com/watch?v=JfWLARhGTYk",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/JfWLARhGTYk/hq720.jpg"
+            },
+            {
+                "title": "Edible Wild Plants | Many Nutrition and Health Benefits of Purslane | Gardening Tips",
+                "url": "https://youtube.com/watch?v=oPFca9FPQE0",
+                "duration": "3:55",
+                "thumbnail": "https://i.ytimg.com/vi/oPFca9FPQE0/hqdefault.jpg"
+            },
+            {
+                "title": "The Health Benefits of Purslane: Nature's Superfood! #Purslane#Superfood#HolisticHealth#HealingFoods",
+                "url": "https://youtube.com/watch?v=ojbErbta7fU",
+                "duration": "17:03",
+                "thumbnail": "https://i.ytimg.com/vi/ojbErbta7fU/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits of Sunflower Seeds",
+                "url": "https://youtube.com/watch?v=TpZhXPth5J8",
+                "duration": "8:14",
+                "thumbnail": "https://i.ytimg.com/vi/TpZhXPth5J8/hq720.jpg"
+            },
+            {
+                "title": "Periwinkle herbal tea health benefits with Dr  Debs - Oct 20th, 2020",
+                "url": "https://youtube.com/watch?v=LM5geh7_1Jw",
+                "duration": "22:16",
+                "thumbnail": "https://i.ytimg.com/vi/LM5geh7_1Jw/hq720.jpg"
+            },
+            {
+                "title": "DANDELION BENEFITS - 12 Impressive Health Benefits of Dandelion",
+                "url": "https://youtube.com/watch?v=MTfk4DEs9y4",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/MTfk4DEs9y4/hq720.jpg"
+            },
+            {
+                "title": "Benefits Of Purslane",
+                "url": "https://youtube.com/watch?v=NdWvleVWxQk",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/NdWvleVWxQk/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits of Chamomile To Know! | Health Benefits Of Chamomile Tea",
+                "url": "https://youtube.com/watch?v=gzpwzEGtvq8",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/gzpwzEGtvq8/hq720.jpg"
+            },
+            {
+                "title": "PERSIMMON BENEFITS  - 13 Impressive Health Benefits of Persimmon",
+                "url": "https://youtube.com/watch?v=KSoRDq-_kTs",
+                "duration": "10:31",
+                "thumbnail": "https://i.ytimg.com/vi/KSoRDq-_kTs/frame0.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "හැදුණොත් සීනි ලේසි නෑනි. ඔක්කොටම කළින් වෛද්‍යවරියගේ මේ කතාව බලන්න.",
+                "url": "https://youtube.com/watch?v=Vej58Ed6glI",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/Vej58Ed6glI/hq720.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය වලින් මේ තරම් ගුණ රැසක්? නිතර දකින මේ ප්‍රබල ඔසුව දිව්‍යමය ඖෂධයක් බව දැනසිටියාද?",
+                "url": "https://youtube.com/watch?v=As_UacGA3Kc",
+                "duration": "11:54",
+                "thumbnail": "https://i.ytimg.com/vi/As_UacGA3Kc/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "SANHINDA PAMULA - කොඳු ඇට පෙළ ආශ්‍රිත රෝග - ආයුර්වේද වෛද්‍ය අනුර විජේසේකර",
+                "url": "https://youtube.com/watch?v=NmerN3f1NCg",
+                "duration": "1:05:55",
+                "thumbnail": "https://i.ytimg.com/vi/NmerN3f1NCg/hq720.jpg"
+            },
+            {
+                "title": "පරාගනය කියන්නේ... | පරිසරය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=6ku28DQnc8Q",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/6ku28DQnc8Q/hq720.jpg"
+            },
+            {
+                "title": "සමුදුර විජය යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය | Rupavahini LIVE",
+                "url": "https://youtube.com/watch?v=8g4EP31GOpY",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/8g4EP31GOpY/hq720.jpg"
+            },
+            {
+                "title": "ශාකවලට උදව් කරන සත්තු",
+                "url": "https://youtube.com/watch?v=lco1MuIFsW4",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lco1MuIFsW4/hq720.jpg"
+            },
+            {
+                "title": "Ten Hidden Benefits of PURSLANE!",
+                "url": "https://youtube.com/watch?v=76rH5A4soko",
+                "duration": "15:07",
+                "thumbnail": "https://i.ytimg.com/vi/76rH5A4soko/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "976",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/cczYMMc9/plant00210-00976.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

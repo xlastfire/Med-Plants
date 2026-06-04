@@ -1,198 +1,425 @@
 {
-  "scientificName": "Phyllanthus emblica L.",
-  "synonyms": [
-    "Cicca emblica (L.) Kurz",
-    "Cicca macrocarpa Kurz",
-    "Diasperus emblica (L.) Kuntze",
-    "Diasperus pomifer (Hook.f.) Kuntze",
-    "Dichelactina nodicaulis Hance",
-    "Emblica arborea Raf.",
-    "Emblica officinalis Gaertn.",
-    "Phyllanthus glomeratus Roxb. ex Benth.",
-    "Phyllanthus mairei H.Lév.",
-    "Phyllanthus mimosifolius Salisb.",
-    "Phyllanthus pomifer Hook.f.",
-    "Phyllanthus taxifolius D.Don"
-  ],
-  "familyName": "PHYLLANTHACEAE",
-  "englishNames": [
-    "Amla"
-  ],
-  "sinhalaName": "Nelli (නෙල්ලි)",
-  "description": "මීටර් 15ක් දක්වා උසැති පතනශීලී (deciduous) ඒකලිංගික (monoecious) ශාකයකි; ප්‍රධාන අතු වල පත්‍ර කොරපොතු (scales) බවට පත්ව ඇත. පතනශීලී අතු කොටස් සාමාන්‍යයෙන් සෙ.මී. 10-25ක් දිග වන අතර පත්‍ර 30-100කින් සමන්විත වේ. උපපත්‍ර (stipules) ත්‍රිකෝණාකාර වන අතර මි.මී. 0.8-1.5ක් දිගය. පත්‍ර තලය මි.මී. 12-20 x (1-)2-5ක් වේ; පත්‍ර වෘන්තය (petiole) මි.මී. 0.3-0.7ක් දිගය. පුෂ්ප මංජරි පතනශීලී අතු කොටස්වල මැද කොටසේ පිහිටි සයිමියුල (cymules) වන අතර, ඒ සෑම එකකම පිරිමි පුෂ්ප කිහිපයක් සහ සමහර විට ගැහැණු පුෂ්ප 1ක් හෝ 2ක් අඩංගු වේ. ඵලය මදය සහිත (drupaceous) ප්‍රමාද වී විවෘත වන කරලක් (capsule) වන අතර, විෂ්කම්භය සෙ.මී. 2.5-3කි; බාහිර පලාවරණය (epicarp) සුදු පැහැති වන අතර අභ්‍යන්තර පලාවරණය (endocarp) විෂ්කම්භය මි.මී. 1ක් පමණ වේ; මධ්‍යස්ථ කුළුණ (columella) ත්‍රිකෝණාකාර (trigonous) වන අතර මි.මී. 7-8ක් උසය. බීජ අසමාන යුගල වශයෙන් පවතින අතර මි.මී. 3.9-4.5ක් දිගය.",
-  "treatments": [
-    {
-      "treatment": "Burning Sensation",
-      "sinhala": "ශරීරයේ දැවිල්ල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Phyllanthus emblica L.",
+    "synonyms": [
+        "Cicca emblica (L.) Kurz",
+        "Cicca macrocarpa Kurz",
+        "Diasperus emblica (L.) Kuntze",
+        "Diasperus pomifer (Hook.f.) Kuntze",
+        "Dichelactina nodicaulis Hance",
+        "Emblica arborea Raf.",
+        "Emblica officinalis Gaertn.",
+        "Phyllanthus glomeratus Roxb. ex Benth.",
+        "Phyllanthus mairei H.Lév.",
+        "Phyllanthus mimosifolius Salisb.",
+        "Phyllanthus pomifer Hook.f.",
+        "Phyllanthus taxifolius D.Don"
+    ],
+    "familyName": "PHYLLANTHACEAE",
+    "englishNames": [
+        "Amla"
+    ],
+    "sinhalaName": "Nelli (නෙල්ලි)",
+    "description": "මීටර් 15ක් දක්වා උසැති පතනශීලී (deciduous) ඒකලිංගික (monoecious) ශාකයකි; ප්‍රධාන අතු වල පත්‍ර කොරපොතු (scales) බවට පත්ව ඇත. පතනශීලී අතු කොටස් සාමාන්‍යයෙන් සෙ.මී. 10-25ක් දිග වන අතර පත්‍ර 30-100කින් සමන්විත වේ. උපපත්‍ර (stipules) ත්‍රිකෝණාකාර වන අතර මි.මී. 0.8-1.5ක් දිගය. පත්‍ර තලය මි.මී. 12-20 x (1-)2-5ක් වේ; පත්‍ර වෘන්තය (petiole) මි.මී. 0.3-0.7ක් දිගය. පුෂ්ප මංජරි පතනශීලී අතු කොටස්වල මැද කොටසේ පිහිටි සයිමියුල (cymules) වන අතර, ඒ සෑම එකකම පිරිමි පුෂ්ප කිහිපයක් සහ සමහර විට ගැහැණු පුෂ්ප 1ක් හෝ 2ක් අඩංගු වේ. ඵලය මදය සහිත (drupaceous) ප්‍රමාද වී විවෘත වන කරලක් (capsule) වන අතර, විෂ්කම්භය සෙ.මී. 2.5-3කි; බාහිර පලාවරණය (epicarp) සුදු පැහැති වන අතර අභ්‍යන්තර පලාවරණය (endocarp) විෂ්කම්භය මි.මී. 1ක් පමණ වේ; මධ්‍යස්ථ කුළුණ (columella) ත්‍රිකෝණාකාර (trigonous) වන අතර මි.මී. 7-8ක් උසය. බීජ අසමාන යුගල වශයෙන් පවතින අතර මි.මී. 3.9-4.5ක් දිගය.",
+    "treatments": [
+        {
+            "treatment": "Burning Sensation",
+            "sinhala": "ශරීරයේ දැවිල්ල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Mental Disorders",
+            "sinhala": "මානසics ආබාධ සහ රෝගී තත්ත්වයන් (උන්මාද / මානසික රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tuberculosis",
+            "sinhala": "ක්ෂය රෝගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Polydipsia",
+            "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Menorrhagia",
+            "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Abdominal Disorders",
+            "sinhala": "උදර ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Fruits",
+        "Roots",
+        "Bark"
+    ],
+    "images": [
+        {
+            "image_id": "539",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/4wVQzKXm/plant00533-00539.jpg"
+        },
+        {
+            "image_id": "540",
+            "caption": "Part of the crown",
+            "url": "https://i.ibb.co/1GRhNqD8/plant00533-00540.jpg"
+        },
+        {
+            "image_id": "541",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/Y7Vftwxk/plant00533-00541.jpg"
+        },
+        {
+            "image_id": "3613",
+            "caption": "Inflorescences (PMR)",
+            "url": "https://i.ibb.co/3YpP4nBr/plant00533-03613.jpg"
+        },
+        {
+            "image_id": "3614",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/MxnWXfsy/plant00533-03614.jpg"
+        },
+        {
+            "image_id": "3615",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/HD331bBC/plant00533-03615.jpg"
+        },
+        {
+            "image_id": "3616",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/xttmdTgg/plant00533-03616.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "කෑමට කලින්  බෙහෙත් නෙල්ලි ගෙඩියක් කෑවොත් | Ammasing Goosberry By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Lya6xbtDphs",
+                "duration": "14:05",
+                "thumbnail": "https://i.ytimg.com/vi/Lya6xbtDphs/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා මීපැණි වල පොඟවන ලද නෙල්ලි අනුභව කරොත් ඔබේ ශරීරයට වෙන විශ්මිත දේ මෙන්න..!",
+                "url": "https://youtube.com/watch?v=ra1bGqjYfck",
+                "duration": "3:23",
+                "thumbnail": "https://i.ytimg.com/vi/ra1bGqjYfck/hq720.jpg"
+            },
+            {
+                "title": "ඔබව ලස්සන කරන සුවපත් කරන නෙල්ලි පානය හදන්නේ මෙහෙමයි! How to make Nelli Juice in Sinhala(Amla juice)",
+                "url": "https://youtube.com/watch?v=jKIq029XQUY",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/jKIq029XQUY/hq720.jpg"
+            },
+            {
+                "title": "මේ දවස් වල ගොඩාක් ප්‍රසිද්ධ පැණි දාපු රටනෙල්ලි දෝසි හදන ලේසිම විදිහ - දැක්කත් ආසයි 😍 | Pani Nelli",
+                "url": "https://youtube.com/watch?v=6H2B3nRY4IY",
+                "duration": "3:55",
+                "thumbnail": "https://i.ytimg.com/vi/6H2B3nRY4IY/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම නෙල්ලි ගෙඩියක් කෑවොත් හිතාගන්න බැරි වෙනසක් - Health Benefits Of Amla Fruit",
+                "url": "https://youtube.com/watch?v=Q9yhdioKm1E",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/Q9yhdioKm1E/hq720.jpg"
+            },
+            {
+                "title": "ලෝකයම පුදුමයට පත් කළ නෙල්ලි ගෙඩියේ විශ්මිත හැකියාව - Health benefits of Amla",
+                "url": "https://youtube.com/watch?v=QyKLTvd1MZY",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/QyKLTvd1MZY/hq720.jpg"
+            },
+            {
+                "title": "සිනි වලට ගුනදායක සහ විටමින් C අඩංගු රට නෙල්ලි හෙවත් මල් නෙල්ලි ජුස් බොමු.Phyllanthus acidus,",
+                "url": "https://youtube.com/watch?v=cxbDaBit2Yc",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/cxbDaBit2Yc/hq720.jpg"
+            },
+            {
+                "title": "මේ රෝග තියෙනවනම් ආයෙමත් නෙල්ලි කන්නෙ බලාගෙන.- විශ්මිත ගුණ  දෙන නෙල්ලි",
+                "url": "https://youtube.com/watch?v=S2uvKPksTQk",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/S2uvKPksTQk/hq720.jpg"
+            },
+            {
+                "title": "''නෙල්ලි'' වල ගුණ අගුණ  Health benefits of Nelli",
+                "url": "https://youtube.com/watch?v=RQ0CmZaO_3I",
+                "duration": "5:40",
+                "thumbnail": "https://i.ytimg.com/vi/RQ0CmZaO_3I/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලි වලට රුධිරයේ සීනි අඩු කළ හැකිද? දියවැඩියා පාලනයට උපකාරී වේ! Can Amla Reduce Blood sugar   Ic5",
+                "url": "https://youtube.com/watch?v=JGay0C5Vbks",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/JGay0C5Vbks/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට සුවය දෙන නෙල්ලි | Nelli Wala Guna | Health benefits of Amla",
+                "url": "https://youtube.com/watch?v=ESmHMHBhp2Y",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/ESmHMHBhp2Y/hq720.jpg"
+            },
+            {
+                "title": "බෙහෙත් නෙල්ලි ගහක් ලේසියෙන් හදාගන්න රහස! | අතු බැඳ මුල් අද්දවන නිවැරදිම ක්‍රමය (Air Layering)",
+                "url": "https://youtube.com/watch?v=X4mrTFe954U",
+                "duration": "8:27",
+                "thumbnail": "https://i.ytimg.com/vi/X4mrTFe954U/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලි දෝසි හදමු / Gooseberry dosi / Nelli dosi by c.s.c kitchen #gooseberryrecipe #nellirecipe",
+                "url": "https://youtube.com/watch?v=B9CTCPv1k4A",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/B9CTCPv1k4A/hqdefault.jpg"
+            },
+            {
+                "title": "නෙල්ලි වල ගුණ | Nelli wala guna",
+                "url": "https://youtube.com/watch?v=-8XeJb8O9O8",
+                "duration": "3:08",
+                "thumbnail": "https://i.ytimg.com/vi/-8XeJb8O9O8/hqdefault.jpg"
+            },
+            {
+                "title": "නෙල්ලිකෑවම ලැබෙන විස්මිත ගුණ  |Amla",
+                "url": "https://youtube.com/watch?v=2QYgT4vV1s8",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/2QYgT4vV1s8/hqdefault.jpg"
+            },
+            {
+                "title": "නෙල්ලි ගෙඩියේ ගුණ | Benefits Of Amla 💫🌿",
+                "url": "https://youtube.com/watch?v=SuePSNswmvg",
+                "duration": "0:54",
+                "thumbnail": "https://i.ytimg.com/vi/SuePSNswmvg/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලි රසකිඳ පානයවෛද්‍ය නිමල් ජිනදාස මහතා +94755005227",
+                "url": "https://youtube.com/watch?v=3h3tu-MAHHo",
+                "duration": "6:25",
+                "thumbnail": "https://i.ytimg.com/vi/3h3tu-MAHHo/hq720.jpg"
+            },
+            {
+                "title": "නිරෝගි වෙන්නයි සමේ පැහැය රැකගන්නයි තේ වෙනුවට නෙල්ලි රසකිඳ | Nelli Rasakinda Herbal Drink Benifits",
+                "url": "https://youtube.com/watch?v=xULUwyIXMhc",
+                "duration": "5:51",
+                "thumbnail": "https://i.ytimg.com/vi/xULUwyIXMhc/hq720.jpg"
+            },
+            {
+                "title": "විටමින් වර්ග 20න් විටමින් 17ක්ම අඩංගු නෙල්ලි | Health benefits of eating Amla daily",
+                "url": "https://youtube.com/watch?v=ZEw08Qa-uz0",
+                "duration": "2:23",
+                "thumbnail": "https://i.ytimg.com/vi/ZEw08Qa-uz0/hqdefault.jpg"
+            },
+            {
+                "title": "Nelli Crush drink",
+                "url": "https://youtube.com/watch?v=lVapyPW0iBw",
+                "duration": "0:26",
+                "thumbnail": "https://i.ytimg.com/vi/lVapyPW0iBw/hq720_2.jpg"
+            },
+            {
+                "title": "Nelli  |  නෙල්ලි | Phyllanthus embilica | ZINGBERACEAE Wild Herbal Medicine | Humpty Production",
+                "url": "https://youtube.com/watch?v=X2cp1_LZhfc",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/X2cp1_LZhfc/hq720.jpg"
+            },
+            {
+                "title": "Gooseberry |  බෙහෙත්නෙල්ලි වවන රහස (50g Indian Beheth Nelli ) | Ceylon Agri | Episode 21",
+                "url": "https://youtube.com/watch?v=2p5OMqBjwos",
+                "duration": "10:47",
+                "thumbnail": "https://i.ytimg.com/vi/2p5OMqBjwos/hq720.jpg"
+            },
+            {
+                "title": "ඔබව ලස්සන කරන සුවපත් කරන නෙල්ලි පානය හදන්නේ How to make Nelli Juice in Sinhala...#srilanka #cooking",
+                "url": "https://youtube.com/watch?v=yut_5NFKswo",
+                "duration": "4:34",
+                "thumbnail": "https://i.ytimg.com/vi/yut_5NFKswo/hqdefault.jpg"
+            },
+            {
+                "title": "හදවත් අපහසුතා සුව කරන නෙල්ලි පානය | Nelli Drink | Cook Poddi",
+                "url": "https://youtube.com/watch?v=lB7470Ku6Nw",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/lB7470Ku6Nw/hq720.jpg"
+            },
+            {
+                "title": "රුව වඩන ලෙඩ නසන හෙළ ඔසුව නෙල්ලි (Nelli) - Health Benefits of Amla Fruit/Indian Gooseberry",
+                "url": "https://youtube.com/watch?v=x7VfO9hT7bk",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/x7VfO9hT7bk/hq720.jpg"
+            },
+            {
+                "title": "දේශීය බෙහෙත් නෙල්ලි බදුනක වවන්න පුළුවන්ද?? |",
+                "url": "https://youtube.com/watch?v=vuBBgjpPBfk",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/vuBBgjpPBfk/hqdefault.jpg"
+            },
+            {
+                "title": "නෙල්ලි - Nelli - Phyllanthus emblica",
+                "url": "https://youtube.com/watch?v=C2ieB3STRdo",
+                "duration": "1:10",
+                "thumbnail": "https://i.ytimg.com/vi/C2ieB3STRdo/hqdefault.jpg"
+            },
+            {
+                "title": "Nelli Crush drink",
+                "url": "https://youtube.com/watch?v=RO0Sv02QErY",
+                "duration": "0:26",
+                "thumbnail": "https://i.ytimg.com/vi/RO0Sv02QErY/frame0.jpg"
+            },
+            {
+                "title": "Nelli | නෙල්ලි වල ඇති ගුණ | හෙළවෙදකම #ඇඹුනෙල්ලි #ඇමලකී #නෙල්ලිගුණ #නෙල්ලිඖෂධ",
+                "url": "https://youtube.com/watch?v=oygcHpFff9g",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/oygcHpFff9g/hqdefault.jpg"
+            },
+            {
+                "title": "ආයුෂ වඩවන රෝග රැසකට ගුණ දෙන නෙල්ලි | IT'S MY TASTE",
+                "url": "https://youtube.com/watch?v=Iwnv16CM6iQ",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/Iwnv16CM6iQ/hqdefault.jpg"
+            },
+            {
+                "title": "නෙල්ලි වල ඔබ නොදන්නා ගුණ",
+                "url": "https://youtube.com/watch?v=NuTs6kQ57Ww",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/NuTs6kQ57Ww/hq720.jpg"
+            },
+            {
+                "title": "නෙල්ලි වල මෙච්චර ගුණයක්? 🍏 විශ්මිත සෞඛ්‍ය ප්‍රතිලාභ මෙන්න! |",
+                "url": "https://youtube.com/watch?v=rZyWK4LRjHE",
+                "duration": "1:08",
+                "thumbnail": "https://i.ytimg.com/vi/rZyWK4LRjHE/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා නෙල්ලි කන්න එකෙන් වෙනස් වෙන ශරීරය 😱 | Amazing Amla Benefits\" Ai Video | Nano Banana",
+                "url": "https://youtube.com/watch?v=qk1K9WC0mGw",
+                "duration": "6:26",
+                "thumbnail": "https://i.ytimg.com/vi/qk1K9WC0mGw/hq720.jpg"
+            },
+            {
+                "title": "Nelli: Your Natural Shield for Blood Sugar and Glowing Skin",
+                "url": "https://youtube.com/watch?v=Lcj0PJb0uX0",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/Lcj0PJb0uX0/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා මීපැණි වල පොඟවන ලද නෙල්ලි ආහාරයට ගත්තොත් ඔබේ ශරීරයට වෙන විශ්මිත දේ මෙන්න",
+                "url": "https://youtube.com/watch?v=fNMKGQHV7QE",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/fNMKGQHV7QE/hq720.jpg"
+            },
+            {
+                "title": "කෑමට කලින්  බෙහෙත් නෙල්ලි ගෙඩියක් කෑවොත් | Ammasing Goosberry By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=apBQ3wgu7Wo",
+                "duration": "14:05",
+                "thumbnail": "https://i.ytimg.com/vi/apBQ3wgu7Wo/frame0.jpg"
+            },
+            {
+                "title": "බෙහෙත් නෙල්ලී වල විශ්මිත ගුණය - Amazing quality of Nellie",
+                "url": "https://youtube.com/watch?v=RNnVQwOwkWQ",
+                "duration": "3:13",
+                "thumbnail": "https://i.ytimg.com/vi/RNnVQwOwkWQ/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Mental Disorders",
-      "sinhala": "මානසics ආබාධ සහ රෝගී තත්ත්වයන් (උන්මාද / මානසික රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tuberculosis",
-      "sinhala": "ක්ෂය රෝගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Polydipsia",
-      "sinhala": "අධික පිපාසය (තෘෂ්ණා රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Menorrhagia",
-      "sinhala": "අධික ලෙස ඔසප් ලේ පිටවීම (රක්ත ප්‍රදරය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Abdominal Disorders",
-      "sinhala": "උදර ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Fruits",
-    "Roots",
-    "Bark"
-  ],
-  "images": [
-    {
-      "image_id": "539",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/4wVQzKXm/plant00533-00539.jpg"
-    },
-    {
-      "image_id": "540",
-      "caption": "Part of the crown",
-      "url": "https://i.ibb.co/1GRhNqD8/plant00533-00540.jpg"
-    },
-    {
-      "image_id": "541",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/Y7Vftwxk/plant00533-00541.jpg"
-    },
-    {
-      "image_id": "3613",
-      "caption": "Inflorescences (PMR)",
-      "url": "https://i.ibb.co/3YpP4nBr/plant00533-03613.jpg"
-    },
-    {
-      "image_id": "3614",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/MxnWXfsy/plant00533-03614.jpg"
-    },
-    {
-      "image_id": "3615",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/HD331bBC/plant00533-03615.jpg"
-    },
-    {
-      "image_id": "3616",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/xttmdTgg/plant00533-03616.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

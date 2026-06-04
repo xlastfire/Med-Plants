@@ -1,156 +1,545 @@
 {
-  "scientificName": "Alysicarpus vaginalis (L.) DC.",
-  "synonyms": [
-    "Alysicarpus cylindricus (Poir.) Desv.",
-    "Alysicarpus diversifolius Wall.",
-    "Alysicarpus nummulariifolius DC.",
-    "Alysicarpus nummulariifolius var. angustatus Ohwi",
-    "Alysicarpus nummulariifolius var. surinamensis Meisn.",
-    "Alysicarpus nummularioides Zipp. ex Span.",
-    "Alysicarpus nummularius Baill.",
-    "Alysicarpus rubibarna Buch.-Ham. ex Wall.",
-    "Alysicarpus scaber Span.",
-    "Alysicarpus trifoliatus Stocks ex Baker",
-    "Alysicarpus vaginalis var. diversifolius Chun",
-    "Alysicarpus vaginalis var. nummulariifolius (L.) Miq.",
-    "Alysicarpus vaginalis var. parvifolius Verdc.",
-    "Alysicarpus vaginalis var. stocksii Baker",
-    "Alysicarpus vaginalis var. villosus Verdc.",
-    "Alysicarpus varius Wall.",
-    "Fabricia cylindrica (Poir.) Kuntze",
-    "Fabricia nummulariifolia (DC.) Kuntze",
-    "Hallia vaginalis J.St.-Hil.",
-    "Hedysarum cylindricum Poir.",
-    "Hedysarum moniliferum Russell ex Wall.",
-    "Hedysarum ovalifolium Vahl ex DC.",
-    "Hedysarum rosmarinifolium Noronha",
-    "Hedysarum vaginale L.",
-    "Hedysarum varium Roth",
-    "Hegetschweilera pulchella Heer & Regel",
-    "Lotus monophyllus Houtt."
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Alyce Clover"
-  ],
-  "sinhalaName": "Aswenna (අස්වැන්න)",
-  "description": "සෙන්ටිමීටර 50-100ක් දිගැති, සිහින් (wiry), රෝම රහිත (glabrous) සහ බොහෝ විට පාදස්ථයෙන් මුල් අදින දිගු කඳන් සහිත වාර්ෂික පැළෑටියකි. පත්‍ර ඒකාන්තර (alternate) වන අතර, පත්‍රිකා එකකින් සමන්විත (1-foliate) වේ. පත්‍ර 1-1.5 x 1.5-2 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, රේඛීය ලාන්සාකාර (linear lanceolate) සිට පුළුල් ඕවලාකාර (broadly oval) හැඩයක් ගනී; පත්‍ර පාදය හෘදයාකාර (cordate) වේ. උප පත්‍ර (stipules) පත්‍ර වෘන්තය තරම්ම දිගු වන අතර පටලමය (scarious) ස්වභාවයක් ගනී. මල් අක්‍රමවත් (irregular) සහ ද්විලිංගික (bisexual) වන අතර, රෝස පැහැයට හුරු දම් පැහැයක් ගනී. පෙති 5ක් සහ රේණු 10ක් පවතින අතර, රේණු ද්විසංඝ (diadelphous) වේ; ඩිම්බකෝෂය උත්තරස්ථ (superior) වේ. ඵලය 1-2 සෙ.මී. දිගැති කරල් (legume) වර්ගයේ ඵලයකි.",
-  "treatments": [
-    {
-      "treatment": "Urinary Calculi",
-      "sinhala": "මුත්‍රා ගල්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Alysicarpus vaginalis (L.) DC.",
+    "synonyms": [
+        "Alysicarpus cylindricus (Poir.) Desv.",
+        "Alysicarpus diversifolius Wall.",
+        "Alysicarpus nummulariifolius DC.",
+        "Alysicarpus nummulariifolius var. angustatus Ohwi",
+        "Alysicarpus nummulariifolius var. surinamensis Meisn.",
+        "Alysicarpus nummularioides Zipp. ex Span.",
+        "Alysicarpus nummularius Baill.",
+        "Alysicarpus rubibarna Buch.-Ham. ex Wall.",
+        "Alysicarpus scaber Span.",
+        "Alysicarpus trifoliatus Stocks ex Baker",
+        "Alysicarpus vaginalis var. diversifolius Chun",
+        "Alysicarpus vaginalis var. nummulariifolius (L.) Miq.",
+        "Alysicarpus vaginalis var. parvifolius Verdc.",
+        "Alysicarpus vaginalis var. stocksii Baker",
+        "Alysicarpus vaginalis var. villosus Verdc.",
+        "Alysicarpus varius Wall.",
+        "Fabricia cylindrica (Poir.) Kuntze",
+        "Fabricia nummulariifolia (DC.) Kuntze",
+        "Hallia vaginalis J.St.-Hil.",
+        "Hedysarum cylindricum Poir.",
+        "Hedysarum moniliferum Russell ex Wall.",
+        "Hedysarum ovalifolium Vahl ex DC.",
+        "Hedysarum rosmarinifolium Noronha",
+        "Hedysarum vaginale L.",
+        "Hedysarum varium Roth",
+        "Hegetschweilera pulchella Heer & Regel",
+        "Lotus monophyllus Houtt."
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Alyce Clover"
+    ],
+    "sinhalaName": "Aswenna (අස්වැන්න)",
+    "description": "සෙන්ටිමීටර 50-100ක් දිගැති, සිහින් (wiry), රෝම රහිත (glabrous) සහ බොහෝ විට පාදස්ථයෙන් මුල් අදින දිගු කඳන් සහිත වාර්ෂික පැළෑටියකි. පත්‍ර ඒකාන්තර (alternate) වන අතර, පත්‍රිකා එකකින් සමන්විත (1-foliate) වේ. පත්‍ර 1-1.5 x 1.5-2 සෙ.මී. ප්‍රමාණයෙන් යුක්ත වන අතර, රේඛීය ලාන්සාකාර (linear lanceolate) සිට පුළුල් ඕවලාකාර (broadly oval) හැඩයක් ගනී; පත්‍ර පාදය හෘදයාකාර (cordate) වේ. උප පත්‍ර (stipules) පත්‍ර වෘන්තය තරම්ම දිගු වන අතර පටලමය (scarious) ස්වභාවයක් ගනී. මල් අක්‍රමවත් (irregular) සහ ද්විලිංගික (bisexual) වන අතර, රෝස පැහැයට හුරු දම් පැහැයක් ගනී. පෙති 5ක් සහ රේණු 10ක් පවතින අතර, රේණු ද්විසංඝ (diadelphous) වේ; ඩිම්බකෝෂය උත්තරස්ථ (superior) වේ. ඵලය 1-2 සෙ.මී. දිගැති කරල් (legume) වර්ගයේ ඵලයකි.",
+    "treatments": [
+        {
+            "treatment": "Urinary Calculi",
+            "sinhala": "මුත්‍රා ගල්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Malaria",
+            "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Bruises",
+            "sinhala": "තැලීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Worms",
+            "sinhala": "පණුවන්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Cystitis",
+            "sinhala": "මුත්‍රාශ ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant"
+    ],
+    "images": [
+        {
+            "image_id": "283",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/cKm3FKDN/plant00567-00283.jpg"
+        },
+        {
+            "image_id": "284",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/zTLjFv5D/plant00567-00284.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මාළුමිරිස් පළමු අස්වැන්න දවස් 70 යි | Smart Agri | Capsicum Farming | 0769808008",
+                "url": "https://youtube.com/watch?v=puPHJx1AL4U",
+                "duration": "18:25",
+                "thumbnail": "https://i.ytimg.com/vi/puPHJx1AL4U/hq720.jpg"
+            },
+            {
+                "title": "අඹ පැළයක පළමු කැපුම 🪴✂️🌳🥭 #farming #agriculture",
+                "url": "https://youtube.com/watch?v=_atAqX9nMAI",
+                "duration": "3:59",
+                "thumbnail": "https://i.ytimg.com/vi/_atAqX9nMAI/hq720.jpg"
+            },
+            {
+                "title": "(Alysicarpus vaginalis) අස්වැන්න බෙහෙත් ශාකයේ වටිනාකම හා හඳුනා ගන්නට..",
+                "url": "https://youtube.com/watch?v=pwRLpt9Z66o",
+                "duration": "2:48",
+                "thumbnail": "https://i.ytimg.com/vi/pwRLpt9Z66o/hqdefault.jpg"
+            },
+            {
+                "title": "බටු වගාවේ අස්වැන්න වැඩි කරගැන්ම සහ වගාව නඩත්තු කිරීම. Increasing the yield of brinjal cultivation.",
+                "url": "https://youtube.com/watch?v=cxwkxlao50M",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/cxwkxlao50M/hqdefault.jpg"
+            },
+            {
+                "title": "මඤ්ඤෝක්කා වල ඇති මෙම වටිනා ගුණය ගැන ඔබ දන්නවාද.?",
+                "url": "https://youtube.com/watch?v=n6VxVVJjgJQ",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/n6VxVVJjgJQ/hq720.jpg"
+            },
+            {
+                "title": "නුවරඑළිය ලික්ස් වගා බිමකට යමුද ?බලන්න හැදිලා තියෙන අපුරුව  අස්වැන්න ගන්න සුදානමි මහන්සියේ ප්‍රතිඵල",
+                "url": "https://youtube.com/watch?v=RPTZc8YK3ss",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/RPTZc8YK3ss/hqdefault.jpg"
+            },
+            {
+                "title": "වස විස නැතිව පැහෙන පනාවලේ දේශීය වී අස්වැන්න",
+                "url": "https://youtube.com/watch?v=N_wqd8aEmwM",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/N_wqd8aEmwM/hq720.jpg"
+            },
+            {
+                "title": "නයි මිරිස් අස්වැන්න දෙගුණ කරන රහස: හාල් වතුරේ පුදුම ගුණ 😲🌱 #sideincome #savemoney",
+                "url": "https://youtube.com/watch?v=ac1HX-VaF0M",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/ac1HX-VaF0M/hq720.jpg"
+            },
+            {
+                "title": "දේශීය අල භෝග වර්ග අස්වනු නෙලීම බීජ අල කල් තිබා ගැනීම හා ඊලඟ කන්නයේ සිටුවන හැටි",
+                "url": "https://youtube.com/watch?v=70YU8mUc3nA",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/70YU8mUc3nA/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "බඩේ දෝෂ, අර්ශස් සහ කාන්තාවන්ගේ ඔසප් ගැටළු ඇතුළු රෝග රැසකට හොදම බෙහෙතක් වන සුකුමාර ආයුර්වේදීය ඖශධ",
+                "url": "https://youtube.com/watch?v=2jJI-lcTh2k",
+                "duration": "13:24",
+                "thumbnail": "https://i.ytimg.com/vi/2jJI-lcTh2k/hq720.jpg"
+            },
+            {
+                "title": "සම පැහැපත් කරන රණවරා රහස",
+                "url": "https://youtube.com/watch?v=SA_ahAyfyxE",
+                "duration": "4:53",
+                "thumbnail": "https://i.ytimg.com/vi/SA_ahAyfyxE/hq720.jpg"
+            },
+            {
+                "title": "බුලත් අස්වැන්න වැඩි කරන සාර්ථක උපක්‍රම | Bulath Wagawa Aswanna Wedi Kirima",
+                "url": "https://youtube.com/watch?v=ndyc64YLmq4",
+                "duration": "8:54",
+                "thumbnail": "https://i.ytimg.com/vi/ndyc64YLmq4/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිය වඩවන දිව්‍යමය ඖෂධය ||The divine potion that increases strength #Amukkara",
+                "url": "https://youtube.com/watch?v=JNtQ2Yhl1iM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/JNtQ2Yhl1iM/hqdefault.jpg"
+            },
+            {
+                "title": "මුත්‍රා රෝග නසන - නීරමුල්ලිය (කටු ඉකිරිය)",
+                "url": "https://youtube.com/watch?v=2GtCSRrUz0o",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/2GtCSRrUz0o/hq720.jpg"
+            },
+            {
+                "title": "scotch bonnet වගේ 3න් ගුණයක් අස්වැන්න දෙන අලුත්ම මිරිස් වගාව Green house 0716028824",
+                "url": "https://youtube.com/watch?v=kKtr1g0BBLg",
+                "duration": "15:07",
+                "thumbnail": "https://i.ytimg.com/vi/kKtr1g0BBLg/hq720.jpg"
+            },
+            {
+                "title": "සිරුරට ගුණ දෙන ඖෂධීය ශාක - Medicinal plants - Sanda Asapuwa",
+                "url": "https://youtube.com/watch?v=PsWgSyO64zM",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/PsWgSyO64zM/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව, අර්ශස් ඇතුළු රෝග වලට ගුණ සව්කෙන්ද හදුනාගමු | සව්කෙන්ද [Saukenda] (Kaempferia rotunda)",
+                "url": "https://youtube.com/watch?v=utFx6UNfsn4",
+                "duration": "1:12",
+                "thumbnail": "https://i.ytimg.com/vi/utFx6UNfsn4/hq720.jpg"
+            },
+            {
+                "title": "ඇස්පැරගස් (හාතාවාරිය) කාන්තාවන්ට කරන දේ : Health benefits of Asparagus",
+                "url": "https://youtube.com/watch?v=6e-eOoS8gH4",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/6e-eOoS8gH4/hq720.jpg"
+            },
+            {
+                "title": "දවස් 5න් ඇස් පෙනීම වැඩි කරන බලගතු දේශීය ඔසු 11 |Herbs that help your Health and Eye sight in Sinhala",
+                "url": "https://youtube.com/watch?v=fVNutwFTXNY",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/fVNutwFTXNY/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා හණ ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 8ක් | 8 Health Benefits Of Eating Flaxseeds",
+                "url": "https://youtube.com/watch?v=Qb26INPmYAY",
+                "duration": "10:10",
+                "thumbnail": "https://i.ytimg.com/vi/Qb26INPmYAY/hq720.jpg"
+            },
+            {
+                "title": "විනාඩි පහෙන් අර්ශස් රෝගීන්ට ගුණ දායක පානයක්.✅ A  drink that is beneficial for hemorrhoid patients",
+                "url": "https://youtube.com/watch?v=Od0Nfe86pEE",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/Od0Nfe86pEE/hqdefault.jpg"
+            },
+            {
+                "title": "ඇස්වල පෙනීම වැඩිදියුණු කරන ආහාර 10 ක් | 10 Best Foods For Eye Health",
+                "url": "https://youtube.com/watch?v=dB6S_ND9eYA",
+                "duration": "10:29",
+                "thumbnail": "https://i.ytimg.com/vi/dB6S_ND9eYA/hq720.jpg"
+            },
+            {
+                "title": "ඇස් පෙනීම අඩු අය මේ පලාව කන්න | හිමොග් ලොභින් අඩු වෙනවට | මව් කිරි වර්ධනයට",
+                "url": "https://youtube.com/watch?v=GIiHVEfgLZQ",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/GIiHVEfgLZQ/hqdefault.jpg"
+            },
+            {
+                "title": "අඹ ආහාරයට ගැනීමෙන් ලැබෙන ගුණ I Dr. Swarna Hapuarachchi I Ayurweda Prathikara I 2021.06.28",
+                "url": "https://youtube.com/watch?v=uDBazfHv8TE",
+                "duration": "51:26",
+                "thumbnail": "https://i.ytimg.com/vi/uDBazfHv8TE/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ සෞඛ්‍යයට ආශ්චර්යමත් ගුණ දෙන ශාකය - Amazing herble health for you",
+                "url": "https://youtube.com/watch?v=enTm_UWEUo0",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/enTm_UWEUo0/hq720.jpg"
+            },
+            {
+                "title": "අතිවිශිෂ්ඨ ගුණ වලින් හෙබි අපේ ඔසුව | Ithana | Ceylon Agri | Episode 142",
+                "url": "https://youtube.com/watch?v=SOCAHEP3yTA",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/SOCAHEP3yTA/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටීස් ඉක්මනින්ම අදුරගන්න පුළුවන් සරල රෝග ලක්ෂණ - ආතරයිටීස් සුවකරන හොඳම ආහාර මෙන්න",
+                "url": "https://youtube.com/watch?v=ffFttVwNHfA",
+                "duration": "18:27",
+                "thumbnail": "https://i.ytimg.com/vi/ffFttVwNHfA/hq720.jpg"
+            },
+            {
+                "title": "වාජීකරණ ගුණ සපිරි සුවිශේෂී  ඖෂධීය ශාකය අමුක්කරා - Ashwagandha Medicinal Herb #ashvagandha #herbs",
+                "url": "https://youtube.com/watch?v=l_v8BnWhLXg",
+                "duration": "20:58",
+                "thumbnail": "https://i.ytimg.com/vi/l_v8BnWhLXg/hq720.jpg"
+            },
+            {
+                "title": "බඩේ බොහෝ රෝග වලට භාවිත කරන අසමෝදගම් ආහාරයට එක් කිරීමෙන් මේ තරම් ගුණ ලැබෙන බව දැනසිටියාද?",
+                "url": "https://youtube.com/watch?v=OvvvTPjTbzQ",
+                "duration": "15:03",
+                "thumbnail": "https://i.ytimg.com/vi/OvvvTPjTbzQ/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටිස් රෝගයෙන් බේරී ඉන්න නම් මේ ආහාර 10 අනුභව කරන්න | 10 Best Foods to Eat If You Have Arthritis",
+                "url": "https://youtube.com/watch?v=tqZN5DyE6Jc",
+                "duration": "11:14",
+                "thumbnail": "https://i.ytimg.com/vi/tqZN5DyE6Jc/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ධ – ඔබ නොදත් පුදුමාකාර ගුණ 10ක්",
+                "url": "https://youtube.com/watch?v=pCvBzAe48ak",
+                "duration": "7:54",
+                "thumbnail": "https://i.ytimg.com/vi/pCvBzAe48ak/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "Interesting Health Benefits of Asparagus – Dr. Berg",
+                "url": "https://youtube.com/watch?v=cisajlgtrkA",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/cisajlgtrkA/hq720.jpg"
+            },
+            {
+                "title": "ASHITABA , Health Benefits of Ashitaba,Health Forum,Heathy Lifestyle",
+                "url": "https://youtube.com/watch?v=gAcxQrqKipQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/gAcxQrqKipQ/hqdefault.jpg"
+            },
+            {
+                "title": "Ashitaba Plant: Health Benefits (Tomorrow Leaf)",
+                "url": "https://youtube.com/watch?v=pxJLhqXJS3Q",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/pxJLhqXJS3Q/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "12 Major Benefits of Asparagus | Health And Nutrition",
+                "url": "https://youtube.com/watch?v=mw7MUthKdCQ",
+                "duration": "7:15",
+                "thumbnail": "https://i.ytimg.com/vi/mw7MUthKdCQ/hqdefault.jpg"
+            },
+            {
+                "title": "අන්නාසි කෑවම ඔබේ ශරීරයට සිදුවන පුදුම සහගත දේවල් 07ක් | 7 Impressive Health Benefits of Pineapple",
+                "url": "https://youtube.com/watch?v=q8DlvIXoX3c",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/q8DlvIXoX3c/hq720.jpg"
+            },
+            {
+                "title": "Ashitaba Plant (Tomorrow Leaf) Uses and Benefits: How This Japanese Herb Can Transform Your Health",
+                "url": "https://youtube.com/watch?v=swC0qs2eze8",
+                "duration": "8:12",
+                "thumbnail": "https://i.ytimg.com/vi/swC0qs2eze8/hq720.jpg"
+            },
+            {
+                "title": "The AMAZING Health Benefits of SEED UNDER LEAF.",
+                "url": "https://youtube.com/watch?v=cAJp-NJSYXA",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/cAJp-NJSYXA/hqdefault.jpg"
+            },
+            {
+                "title": "12 Incredible Health Benefits of Ashitaba",
+                "url": "https://youtube.com/watch?v=cAZ9cMw1qKg",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/cAZ9cMw1qKg/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම මේකෙන් හැන්දක් කෑවොත් ඔබේ සිරුරේ සිදුවන විශ්මිත වෙනස | The Secrets of Using Flax seeds",
+                "url": "https://youtube.com/watch?v=UJOk_VyYO2I",
+                "duration": "8:37",
+                "thumbnail": "https://i.ytimg.com/vi/UJOk_VyYO2I/hq720.jpg"
+            },
+            {
+                "title": "Exploring the Surprising Health Benefits of Castor Leaves! 🌿🌟",
+                "url": "https://youtube.com/watch?v=LKcqFdkDITE",
+                "duration": "4:25",
+                "thumbnail": "https://i.ytimg.com/vi/LKcqFdkDITE/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Cassia Alata/Senna Alata #theshangtareal",
+                "url": "https://youtube.com/watch?v=NIpOnJw7C3g",
+                "duration": "4:59",
+                "thumbnail": "https://i.ytimg.com/vi/NIpOnJw7C3g/hq720.jpg"
+            },
+            {
+                "title": "Senna Leaves: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=KEbGYSwKVTM",
+                "duration": "5:07",
+                "thumbnail": "https://i.ytimg.com/vi/KEbGYSwKVTM/hq720.jpg"
+            },
+            {
+                "title": "8 Health Benefits of Basil",
+                "url": "https://youtube.com/watch?v=2D_ioNE4X9E",
+                "duration": "1:22",
+                "thumbnail": "https://i.ytimg.com/vi/2D_ioNE4X9E/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits of Sage You Should Know | Health Benefits of Sage Leaves",
+                "url": "https://youtube.com/watch?v=8sI6y2FmYBU",
+                "duration": "8:34",
+                "thumbnail": "https://i.ytimg.com/vi/8sI6y2FmYBU/hq720.jpg"
+            },
+            {
+                "title": "Teak Plant Benefits: Spiritual Uses & Powerful Health Secrets of Teak Leaves",
+                "url": "https://youtube.com/watch?v=w5g_pqslV6g",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/w5g_pqslV6g/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ද|ashwagandha|අමුක්කරා|Amukkara|Dr.Chaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=vZt8nsZnG-8",
+                "duration": "18:32",
+                "thumbnail": "https://i.ytimg.com/vi/vZt8nsZnG-8/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ධ භාවිතයෙන් ඔබට ලැබෙන ගුන | ගන්න හොඳම විදිය | හොඳම නිෂ්පාදන අතුලු බොහෝ දේ දැනගන්න",
+                "url": "https://youtube.com/watch?v=1kls_3B6a24",
+                "duration": "10:03",
+                "thumbnail": "https://i.ytimg.com/vi/1kls_3B6a24/hqdefault.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ආමන්ඩ් ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදු වෙන විශ්මිත දේවල් 12ක් | 12 Health Benefits of Almonds",
+                "url": "https://youtube.com/watch?v=Fd8_EKAo9QU",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/Fd8_EKAo9QU/hq720.jpg"
+            },
+            {
+                "title": "සිරුර පෘෂ්ටිමත් වීමට පමණක් නොව ශ්වසන ආබාධ සදහා ද ගුණ දෙන කුෂ්මාණ්ඩ ‍රසායන බෙහෙත | Kushmaand Rasayan",
+                "url": "https://youtube.com/watch?v=LDl93JcFs1o",
+                "duration": "19:08",
+                "thumbnail": "https://i.ytimg.com/vi/LDl93JcFs1o/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල 10ක ගුණ දැනගමුද? | Benifits of 10 Herbal Plants | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=Cpdzcr3fXu0",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Cpdzcr3fXu0/hq720.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "Benefits to us from the coconut tree#jana agri#srilanka",
+                "url": "https://youtube.com/watch?v=O3S0onsKMRo",
+                "duration": "12:46",
+                "thumbnail": "https://i.ytimg.com/vi/O3S0onsKMRo/hq720.jpg"
+            },
+            {
+                "title": "15 Benefits Of Alatiris ( KERSON FRUIT )",
+                "url": "https://youtube.com/watch?v=8MErtv1IDVU",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/8MErtv1IDVU/hq720.jpg"
+            },
+            {
+                "title": "Top 9 BENEFITS of ASHWAGANDHA - What the Research Says",
+                "url": "https://youtube.com/watch?v=rTdD4ebsaMY",
+                "duration": "11:00",
+                "thumbnail": "https://i.ytimg.com/vi/rTdD4ebsaMY/hq720.jpg"
+            },
+            {
+                "title": "Guyabano (Soursop): Health Benefits and Uses",
+                "url": "https://youtube.com/watch?v=Ri1G6dxmHng",
+                "duration": "33:10",
+                "thumbnail": "https://i.ytimg.com/vi/Ri1G6dxmHng/hq720.jpg"
+            },
+            {
+                "title": "Interesting Health Benefits of Asparagus – Dr. Berg",
+                "url": "https://youtube.com/watch?v=kHsq17O7dTo",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/kHsq17O7dTo/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Malaria",
-      "sinhala": "මැලේරියා රෝගය (විෂම ජ්වර)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Bruises",
-      "sinhala": "තැලීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Worms",
-      "sinhala": "පණුවන්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Cystitis",
-      "sinhala": "මුත්‍රාශ ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant"
-  ],
-  "images": [
-    {
-      "image_id": "283",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/cKm3FKDN/plant00567-00283.jpg"
-    },
-    {
-      "image_id": "284",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/zTLjFv5D/plant00567-00284.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

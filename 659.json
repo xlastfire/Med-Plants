@@ -1,126 +1,263 @@
 {
-  "scientificName": "Pterocarpus marsupium Roxb.",
-  "synonyms": [
-    "Lingoum marsupium (Roxb.) Kuntze",
-    "Pterocarpos marsupius (Roxb.) St.-Lag."
-  ],
-  "familyName": "FABACEAE",
-  "englishNames": [
-    "Indian Kino Tree",
-    "Vijayasar",
-    "Malabar Kino Tree"
-  ],
-  "sinhalaName": "Gammalu (ගම්මාළු)",
-  "description": "මීටර් 30ක් පමණ උසැති ගසකි; කඳ රෝම රහිතය (glabrous). පත්‍ර පත්‍රිකා 4-8කින් සමන්විතය; පත්‍රිකා දිගින් සෙ.මී. 5.5-12(-15)ක් සහ පළලින් සෙ.මී. 2.5-7ක් වන අතර රෝම රහිතය (glabrous). පුෂ්ප මංජරියන් රේඛීයව අතු බෙදී පවතී (paniculate). මල් 12-19ක් ඇත; පෙති දීප්තිමත් කහ පැහැති වන අතර රෝම රහිතය (glabrous). පලයේ බීජ 1ක් හෝ 2ක් අඩංගු වන අතර විෂ්කම්භය සෙ.මී. 4-5.5ක් පමණ වේ, පලයේ දාරයේ ඇති පියාපත් වැනි කොටස සෙ.මී. 1-2ක් පළලය; බීජ දුඹුරු පැහැති වන අතර දිග මි.මී. 10-12ක් සහ පළල මි.මී. 5-6ක් වේ.",
-  "treatments": [
-    {
-      "treatment": "Epistaxis",
-      "sinhala": "නාසයෙන් ලේ ගැලීම (රක්තපිත්ත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Pterocarpus marsupium Roxb.",
+    "synonyms": [
+        "Lingoum marsupium (Roxb.) Kuntze",
+        "Pterocarpos marsupius (Roxb.) St.-Lag."
+    ],
+    "familyName": "FABACEAE",
+    "englishNames": [
+        "Indian Kino Tree",
+        "Vijayasar",
+        "Malabar Kino Tree"
+    ],
+    "sinhalaName": "Gammalu (ගම්මාළු)",
+    "description": "මීටර් 30ක් පමණ උසැති ගසකි; කඳ රෝම රහිතය (glabrous). පත්‍ර පත්‍රිකා 4-8කින් සමන්විතය; පත්‍රිකා දිගින් සෙ.මී. 5.5-12(-15)ක් සහ පළලින් සෙ.මී. 2.5-7ක් වන අතර රෝම රහිතය (glabrous). පුෂ්ප මංජරියන් රේඛීයව අතු බෙදී පවතී (paniculate). මල් 12-19ක් ඇත; පෙති දීප්තිමත් කහ පැහැති වන අතර රෝම රහිතය (glabrous). පලයේ බීජ 1ක් හෝ 2ක් අඩංගු වන අතර විෂ්කම්භය සෙ.මී. 4-5.5ක් පමණ වේ, පලයේ දාරයේ ඇති පියාපත් වැනි කොටස සෙ.මී. 1-2ක් පළලය; බීජ දුඹුරු පැහැති වන අතර දිග මි.මී. 10-12ක් සහ පළල මි.මී. 5-6ක් වේ.",
+    "treatments": [
+        {
+            "treatment": "Epistaxis",
+            "sinhala": "නාසයෙන් ලේ ගැලීම (රක්තපිත්ත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhage",
+            "sinhala": "අධික රුධිර වහනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Indigestion",
+            "sinhala": "අජීර්ණය සහ මන්දාග්නිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cholera",
+            "sinhala": "කොලරාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Polyuria",
+            "sinhala": "බහුමුත්‍රතාව (අධික ලෙස මුත්‍රා පිටවීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Latex",
+        "Stem bark and its dust",
+        "Glue substance"
+    ],
+    "images": [
+        {
+            "image_id": "1375",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/5XQ30Rzz/plant00659-01375.jpg"
+        },
+        {
+            "image_id": "1376",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/mVRwbz7P/plant00659-01376.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ගම්මාලු Pterocarpus marsupium #Pterocarpusmarsupium #harithauyana #plants #srilanka",
+                "url": "https://youtube.com/watch?v=eYnZHxVzpYo",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/eYnZHxVzpYo/hq720.jpg"
+            },
+            {
+                "title": "ගම්මාළු වල නොදත් කරුණු සහ මස්මොර/මස්මෝරු ගැන දැනගමු | දියවැඩියාවට ගුණ දෙන ගම්මාළු | Gammalu/Masmoru",
+                "url": "https://youtube.com/watch?v=ZXgp_iTfGrw",
+                "duration": "11:23",
+                "thumbnail": "https://i.ytimg.com/vi/ZXgp_iTfGrw/hq720.jpg"
+            },
+            {
+                "title": "මස්මොර/මස්මෝරු/රත්මදටිය සහ අපි දන්නා ගම්මාළු | මේ දෙක ගැන කෙටි විස්තරයක් බලමු",
+                "url": "https://youtube.com/watch?v=GF3IjmBbE7I",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/GF3IjmBbE7I/hq720.jpg"
+            },
+            {
+                "title": "Gammalu flower ගම්මාලු ශාකයේ මල් Pterocarpus marsupium buzzy bee's",
+                "url": "https://youtube.com/watch?v=PaGr8KqMas4",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/PaGr8KqMas4/hq720.jpg"
+            },
+            {
+                "title": "Vijaysar Wood Glass Benefits for Diabetes | Natural Ayurvedic Remedy |Artisans Impex",
+                "url": "https://youtube.com/watch?v=v-v51FvwlLw",
+                "duration": "0:07",
+                "thumbnail": "https://i.ytimg.com/vi/v-v51FvwlLw/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට ගුණදෙන ගම්මාලු ( Pterocarpus Marsupium )",
+                "url": "https://youtube.com/watch?v=WBlNDG-H-qI",
+                "duration": "6:52",
+                "thumbnail": "https://i.ytimg.com/vi/WBlNDG-H-qI/hq720.jpg"
+            },
+            {
+                "title": "Gammalu | Ape Hela Osu | story eka",
+                "url": "https://youtube.com/watch?v=dIq4SHQYbjw",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/dIq4SHQYbjw/hq720.jpg"
+            },
+            {
+                "title": "Gammalu gum powder,(Indian Kino tree)      ගම්මාලු කිරි කැට හදමු ?",
+                "url": "https://youtube.com/watch?v=6OVrrU6OJdk",
+                "duration": "6:49",
+                "thumbnail": "https://i.ytimg.com/vi/6OVrrU6OJdk/hqdefault.jpg"
+            },
+            {
+                "title": "Pterocarpus angolensis is a teak tree found in Southern Africa.",
+                "url": "https://youtube.com/watch?v=QvRdqy0YFvM",
+                "duration": "0:12",
+                "thumbnail": "https://i.ytimg.com/vi/QvRdqy0YFvM/hq720_2.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට ගම්මාලු කිරි, අතිපූජ්‍ය බලංගොඩ ආනන්ද මෛත්‍රෙය මහා නා හිමි",
+                "url": "https://youtube.com/watch?v=TxBQNV6YkhI",
+                "duration": "1:40",
+                "thumbnail": "https://i.ytimg.com/vi/TxBQNV6YkhI/hq720.jpg"
+            },
+            {
+                "title": "ගහෙන් හදපු බදුනක වතුර බිව්වත් සුව වෙන ඔසුව | Gammalu | Ceylon Agri | Episode 177",
+                "url": "https://youtube.com/watch?v=t5I_T3IxD9k",
+                "duration": "7:07",
+                "thumbnail": "https://i.ytimg.com/vi/t5I_T3IxD9k/hqdefault.jpg"
+            },
+            {
+                "title": "gammalu/ගම්මාලු/Gammalu tree",
+                "url": "https://youtube.com/watch?v=MYvl-jrLKeU",
+                "duration": "5:16",
+                "thumbnail": "https://i.ytimg.com/vi/MYvl-jrLKeU/hqdefault.jpg"
+            },
+            {
+                "title": "ගම්මාලු ගස් කපනවා",
+                "url": "https://youtube.com/watch?v=NhlE-B5-eNo",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/NhlE-B5-eNo/hqdefault.jpg"
+            },
+            {
+                "title": "ගම්මාලු වෙනුවට මේකත් ගන්න පුලුවන්ද🤔? වල් ඇහැල?🤔",
+                "url": "https://youtube.com/watch?v=zWQp-PpQBCI",
+                "duration": "8:01",
+                "thumbnail": "https://i.ytimg.com/vi/zWQp-PpQBCI/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සුවකරන ගම්මාලු කෝප්පය​ | diyawediyawa suwakarana gammaalu kooppaya | diabetes | ayurwedic",
+                "url": "https://youtube.com/watch?v=7ZdR7i73MOU",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/7ZdR7i73MOU/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් දියවැඩියා රෝගියෙක් ද මෙන්න විසඳුම #diabetes #nature #gammalu #herbal #health #osu #ayurvedic",
+                "url": "https://youtube.com/watch?v=N1dzebOMMVI",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/N1dzebOMMVI/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොමද නිවැරදිව රත් හදුන් සහ ගම්මාලු ශාක හදුනගන්නේ?Haldummulla Herbal Garden part ¡¡",
+                "url": "https://youtube.com/watch?v=0c8Tp2F6pF8",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/0c8Tp2F6pF8/hqdefault.jpg"
+            },
+            {
+                "title": "ಬೆಂಗೆ/ ಸುರ ಹೊನ್ನೆ, Indian Kino Tree, Malabar kino Tree",
+                "url": "https://youtube.com/watch?v=pYBgMZys4kU",
+                "duration": "5:42",
+                "thumbnail": "https://i.ytimg.com/vi/pYBgMZys4kU/hq720.jpg"
+            },
+            {
+                "title": "🌿Grow Indian Kino വേങ്ങ Saplings: Pterocarpus marsupium for Diabetes & Healing! Vijayasar Benefits!🌳",
+                "url": "https://youtube.com/watch?v=QdChPhYmbDE",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/QdChPhYmbDE/hq720.jpg"
+            },
+            {
+                "title": "Vijaysar / Indian Kino - Health Benefits, Uses & Medicinal Properties of Pterocarpus marsupium",
+                "url": "https://youtube.com/watch?v=paU5emMCENM",
+                "duration": "4:23",
+                "thumbnail": "https://i.ytimg.com/vi/paU5emMCENM/hq720.jpg"
+            },
+            {
+                "title": "BIJAKA- PTEROCARPUS MARSUPIUM - DRAVYAGUNA - AYURVEDA - BAMS",
+                "url": "https://youtube.com/watch?v=NlgQRBAyfig",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/NlgQRBAyfig/hqdefault.jpg"
+            },
+            {
+                "title": "Vijaysar plant and benefits",
+                "url": "https://youtube.com/watch?v=dbS4Tn0doH8",
+                "duration": "5:18",
+                "thumbnail": "https://i.ytimg.com/vi/dbS4Tn0doH8/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Hemorrhage",
-      "sinhala": "අධික රුධිර වහනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Indigestion",
-      "sinhala": "අජීර්ණය සහ මන්දාග්නිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cholera",
-      "sinhala": "කොලරාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Polyuria",
-      "sinhala": "බහුමුත්‍රතාව (අධික ලෙස මුත්‍රා පිටවීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Latex",
-    "Stem bark and its dust",
-    "Glue substance"
-  ],
-  "images": [
-    {
-      "image_id": "1375",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/5XQ30Rzz/plant00659-01375.jpg"
-    },
-    {
-      "image_id": "1376",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/mVRwbz7P/plant00659-01376.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

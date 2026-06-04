@@ -1,45 +1,428 @@
 {
-  "scientificName": "Diospyros melanoxylon Roxb.",
-  "synonyms": [],
-  "familyName": "EBENACEAE",
-  "englishNames": [
-    "Coromandel Ebony",
-    "Black Ebony",
-    "Ebony Persimmon",
-    "Kendu Leaves",
-    "Tendu Leaves",
-    "Ebony",
-    "East Indian Ebony"
-  ],
-  "sinhalaName": "Kalu thimbiri (කළු තිඹිරි)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Leprosy",
-      "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "Diospyros melanoxylon Roxb.",
+    "synonyms": [],
+    "familyName": "EBENACEAE",
+    "englishNames": [
+        "Coromandel Ebony",
+        "Black Ebony",
+        "Ebony Persimmon",
+        "Kendu Leaves",
+        "Tendu Leaves",
+        "Ebony",
+        "East Indian Ebony"
+    ],
+    "sinhalaName": "Kalu thimbiri (කළු තිඹිරි)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Leprosy",
+            "sinhala": "ලාදුරු රෝගය (කුෂ්ඨ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Pulmonary Disorders",
+            "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Exudations – gum",
+        "Resins",
+        "Fruits"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Thimbiri (තිඹිරි )- Diospyros malabarica (desr.)kostel.",
+                "url": "https://youtube.com/watch?v=XBTyt8wfHMY",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/XBTyt8wfHMY/hq720.jpg"
+            },
+            {
+                "title": "ඔස්ට්‍රේලියාවේ හැදෙන කළු කම්බේරිය (තැම්බේරිය )  හරිම රසකෑමක්",
+                "url": "https://youtube.com/watch?v=2NMpaDBMAmc",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/2NMpaDBMAmc/hq720.jpg"
+            },
+            {
+                "title": "Sobadam piyasa - තිඹිරි ශාකය",
+                "url": "https://youtube.com/watch?v=nmZ4jwrBY8k",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/nmZ4jwrBY8k/hq720.jpg"
+            },
+            {
+                "title": "මරණය හැර අනෙකුත් ඕනෑම ලෙඩක් සුව කරන විශ්මිත ඇට වර්ගය | මේ දේ ඇහුවොත් ඔබ පුදුම වේවි!! | Black Seeds",
+                "url": "https://youtube.com/watch?v=vcSCCbjR0VE",
+                "duration": "4:59",
+                "thumbnail": "https://i.ytimg.com/vi/vcSCCbjR0VE/hq720.jpg"
+            },
+            {
+                "title": "විශ්ව බල කේන්ද්‍රස්ථානයක් වූ මිහින්තලා කලුදිය පොකුණ",
+                "url": "https://youtube.com/watch?v=KEopdUnQ3r4",
+                "duration": "8:00",
+                "thumbnail": "https://i.ytimg.com/vi/KEopdUnQ3r4/hq720.jpg"
+            },
+            {
+                "title": "Kaluwara Gasa|කළුවර ගස |The Black Wood |kaluwara tree|Ceylon ebonyebony |Diospyros ebenum|Sri Lanka",
+                "url": "https://youtube.com/watch?v=UMJaHCDeKKM",
+                "duration": "7:31",
+                "thumbnail": "https://i.ytimg.com/vi/UMJaHCDeKKM/hq720.jpg"
+            },
+            {
+                "title": "සයිටම් කියන්නේ ළඳරු දරුවෙක් නම්, කොතලාවල පනත කියන්නේ තිඹිරි ගෙයක්",
+                "url": "https://youtube.com/watch?v=xfyZaTF4WEw",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/xfyZaTF4WEw/hqdefault.jpg"
+            },
+            {
+                "title": "කවුද කලා තියෙන්නෙ වියලි කලාපයේ ඇති රසවත් පලතුරුක් කටද කියන්න පුළුවන් #තිඹිරි #Thibire",
+                "url": "https://youtube.com/watch?v=qQjNKQcLPYQ",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/qQjNKQcLPYQ/hq720.jpg"
+            },
+            {
+                "title": "Wild Fruit ❤ Wild Dates (කැළෑ ඉඳි) in Village | Ceylon Rural Foods (Ayurvedic Quality)",
+                "url": "https://youtube.com/watch?v=V8t5h8iQIzU",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/V8t5h8iQIzU/hq720.jpg"
+            },
+            {
+                "title": "කලුකම්බේරිය ☘️|| Blackberry Nightshade 🫐 #blackberry #blackberrynightshade #herb #goodsleep #forgood",
+                "url": "https://youtube.com/watch?v=wO1Ln8zWhKs",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/wO1Ln8zWhKs/hq720.jpg"
+            },
+            {
+                "title": "Kaludiya Pond",
+                "url": "https://youtube.com/watch?v=3TlW4dN3Svo",
+                "duration": "19:58",
+                "thumbnail": "https://i.ytimg.com/vi/3TlW4dN3Svo/hq720.jpg"
+            },
+            {
+                "title": "ඔබ දැනගතම යුතු,තුන් දොස් නසන අරුම පුදුම පැළෑටිය,තැම්බේරියා|කලු කම්බේරියා, blacknightshade|sunberry",
+                "url": "https://youtube.com/watch?v=mHxW89az4Vw",
+                "duration": "5:34",
+                "thumbnail": "https://i.ytimg.com/vi/mHxW89az4Vw/hq720.jpg"
+            },
+            {
+                "title": "ඔබේ නිවසටත් නිතරම මේ වගේ  කලු කූබී එනවාද ? | එහෙනම් ඔබේ මුදල් නැති වෙලා දුප්පත් වෙනවා | Vasthu Dosha",
+                "url": "https://youtube.com/watch?v=VuRiRzzEa3g",
+                "duration": "17:13",
+                "thumbnail": "https://i.ytimg.com/vi/VuRiRzzEa3g/hq720.jpg"
+            },
+            {
+                "title": "Black Seed Tea | kaluduru Tea |සියලුරෝග නසන දිව්‍යමය ඔසුවෙන් ( අශිර්වාදයලද් අැට) කළුදුරු පානය",
+                "url": "https://youtube.com/watch?v=_xRbrWrXPJE",
+                "duration": "4:29",
+                "thumbnail": "https://i.ytimg.com/vi/_xRbrWrXPJE/hq720.jpg"
+            },
+            {
+                "title": "මොනවද මේ කලු බුලත් | What is called \"Black Betel\"?",
+                "url": "https://youtube.com/watch?v=Lep1HzsUiX4",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/Lep1HzsUiX4/hq720.jpg"
+            },
+            {
+                "title": "කළුතර ඝාතනයේ 'බෝංචියා' මාළිගාවත්තෙන් කොටු",
+                "url": "https://youtube.com/watch?v=z1ar2P65ah8",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/z1ar2P65ah8/hq720.jpg"
+            },
+            {
+                "title": "Kalakarama Suthraya  - අනන්ත බුදුගුණයට උපමා රාශියක් ඇතුලත් කාලකාරාම සූත්‍ර දේශණය",
+                "url": "https://youtube.com/watch?v=aUDxovnl8tA",
+                "duration": "53:47",
+                "thumbnail": "https://i.ytimg.com/vi/aUDxovnl8tA/hq720.jpg"
+            },
+            {
+                "title": "තැම්බේරියා.... ඔබ නොදත් විශ්මිත ගුණ සහිත පැලෑටිය",
+                "url": "https://youtube.com/watch?v=j2nWjkHBvHw",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/j2nWjkHBvHw/hq720.jpg"
+            },
+            {
+                "title": "Kalu Kubi Mardanaya | Kubinta Beheth, Black Ants in House, Kubi Nathi Karana, කලු කූඹී ප්‍රශ්නේ",
+                "url": "https://youtube.com/watch?v=k-CZDA6rs_4",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/k-CZDA6rs_4/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රීමත් අනගාරික ධර්මපාල තුමා | Anagarika Darmapala Documentary",
+                "url": "https://youtube.com/watch?v=INF4LrF2MW0",
+                "duration": "26:53",
+                "thumbnail": "https://i.ytimg.com/vi/INF4LrF2MW0/hq720.jpg"
+            },
+            {
+                "title": "ඇටි කෙහෙල් කාපු රිලව්",
+                "url": "https://youtube.com/watch?v=5mYOZyZqPf4",
+                "duration": "0:55",
+                "thumbnail": "https://i.ytimg.com/vi/5mYOZyZqPf4/hqdefault.jpg"
+            },
+            {
+                "title": "කලුකැම්මේරිය විශ්මිත ගුණ , රෝග රැසකට එක් ඔසුවක්.",
+                "url": "https://youtube.com/watch?v=CmQImWwL4Hw",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/CmQImWwL4Hw/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු කෑවට එකේ ගුණ ගැන ඔබ දැනගෙන හිටියේ නැහැ නේද? මේක දිව්‍ය ඖෂධයක්",
+                "url": "https://youtube.com/watch?v=U0eg_h7T6i8",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/U0eg_h7T6i8/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු වල තිත්ත ඇත්ත | Turkey Berry & Bitter Truth By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Yxcn99C76YM",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Yxcn99C76YM/hq720.jpg"
+            },
+            {
+                "title": "#මරණය හැර සියලු රෝග නසන කලුදුරු වල විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=KhtNIppzkJ8",
+                "duration": "10:14",
+                "thumbnail": "https://i.ytimg.com/vi/KhtNIppzkJ8/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටුවල ඇති විශේෂිත ගුණ.  Turkey Berry.",
+                "url": "https://youtube.com/watch?v=KAsZe_2Z-F0",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/KAsZe_2Z-F0/hq720.jpg"
+            },
+            {
+                "title": "තෙබු කන්න කලින් මේ වීඩියෝව අනිවාර්යයෙන් බලන්න!🌿(ගුණ වගේම අගුණත් මෙන්න)",
+                "url": "https://youtube.com/watch?v=Kr5M5B3V-bU",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/Kr5M5B3V-bU/hq720.jpg"
+            },
+            {
+                "title": "මේ සියළු රෝග සුවකර ඔබව පැහැපත් කර තරුණ කරන ලොව හොදම පානය.. Turmeric Tea Benefits & Recipe.",
+                "url": "https://youtube.com/watch?v=XnH1pCjnbNo",
+                "duration": "12:08",
+                "thumbnail": "https://i.ytimg.com/vi/XnH1pCjnbNo/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග ‍රැසකට සුවය දෙන විශ්මිත ගුණ සහිත තැබිලි - thabili",
+                "url": "https://youtube.com/watch?v=tODEAv17USc",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/tODEAv17USc/hq720.jpg"
+            },
+            {
+                "title": "සුදු කොන්ඩෙ කලු වෙනවා සතියෙන් _ඔයාලටත් ඕනෙද | thuru TV",
+                "url": "https://youtube.com/watch?v=a7YFHsWbVlk",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/a7YFHsWbVlk/hqdefault.jpg"
+            },
+            {
+                "title": "තිබිබටු ගෙඩියක් කරපු දෙයක්😥ඇත්තටම මෙහෙමද තිබිබටු? තිබිබටු වල ගුණ අගුණ",
+                "url": "https://youtube.com/watch?v=j2F_imzpej4",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/j2F_imzpej4/hq720.jpg"
+            },
+            {
+                "title": "කලුදුරු ගැන ඔබ නොදත් කරුණු | Black Seed වල පුදුම ප්‍රයෝජන | Ayurveda Sinhala",
+                "url": "https://youtube.com/watch?v=SRzolPwAxA8",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/SRzolPwAxA8/hq720.jpg"
+            },
+            {
+                "title": "කළුදුරු උලුහල් තේ මිශ්‍රණය  |දියවදියවද? තෙල් තැම්පත් වෙලාද ? chef silva හදන තේ එක පානය කරලා බලන්න",
+                "url": "https://youtube.com/watch?v=Q05ziNTUkIM",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/Q05ziNTUkIM/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ හොඳ කරන  රන් තැඹිලි  | Golden King Coconut By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=gOjCyfZr0PA",
+                "duration": "9:53",
+                "thumbnail": "https://i.ytimg.com/vi/gOjCyfZr0PA/hq720.jpg"
+            },
+            {
+                "title": "කළු කිරින්චි එළිය කරන රහස ඇත්තක්ද? 🤔 බොහෝ දෙනා නොදන්න සත්‍යය!",
+                "url": "https://youtube.com/watch?v=FcDSssZKaIQ",
+                "duration": "5:57",
+                "thumbnail": "https://i.ytimg.com/vi/FcDSssZKaIQ/hq720.jpg"
+            },
+            {
+                "title": "කාලිගේ අනාවැකිය.. | මුතුගල මහ ඇමති පුටුවට..?  |Dinesh Muthugala | Episode 455",
+                "url": "https://youtube.com/watch?v=2GNiuSoLLl8",
+                "duration": "12:24",
+                "thumbnail": "https://i.ytimg.com/vi/2GNiuSoLLl8/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවේ ජනප්‍රියතම කළු තේ වල ගුණ පිළිබඳව වැඩි අවධානයක්‍ | Ru News",
+                "url": "https://youtube.com/watch?v=5vNsBKO8070",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/5vNsBKO8070/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග රැසකට සුවය ගෙනෙන කළුදුරු ගැන දැනගන හිටියද? - #Health #Skin #Hair - Black Seed Benefits",
+                "url": "https://youtube.com/watch?v=gubESj8JCSY",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/gubESj8JCSY/hq720.jpg"
+            },
+            {
+                "title": "හදවත රකින සූදුරු .  සූදුරු  වල ඇති ආයුර්වේදීය ගුණ .",
+                "url": "https://youtube.com/watch?v=Ty2rR_aZVDY",
+                "duration": "4:56",
+                "thumbnail": "https://i.ytimg.com/vi/Ty2rR_aZVDY/hq720.jpg"
+            },
+            {
+                "title": "කළු දිලීරය උග්‍ර කරපු ඖෂධ අධි භාවිතය. | Overuse of Drugs is Fatal for Black Fungus.",
+                "url": "https://youtube.com/watch?v=gUEKX0kdsvg",
+                "duration": "8:20",
+                "thumbnail": "https://i.ytimg.com/vi/gUEKX0kdsvg/hq720.jpg"
+            },
+            {
+                "title": "තල ඇට මෙච්චර ගුණ දායකද? | Danuwath",
+                "url": "https://youtube.com/watch?v=Kenl3c4w0Uo",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/Kenl3c4w0Uo/hq720.jpg"
+            },
+            {
+                "title": "ම|රණය හැර සියළු රෝග වලට සාර්ථක ප්‍රතිඵල දෙන කළු දුරු.පර්යේෂණ වලින් හෙළිවූ වටිනා ඖෂධයේ රහස්",
+                "url": "https://youtube.com/watch?v=h7XQIm_UA0M",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/h7XQIm_UA0M/hq720.jpg"
+            },
+            {
+                "title": "Kadukamberiya |කඩුකම්බේරියා | ලේ වඩන ඔසු | osu-ඔසු",
+                "url": "https://youtube.com/watch?v=FxjYd4HaAik",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/FxjYd4HaAik/hqdefault.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Kale - 7 Reasons to Eat It | When to Avoid",
+                "url": "https://youtube.com/watch?v=8_hFjbmNsBs",
+                "duration": "7:35",
+                "thumbnail": "https://i.ytimg.com/vi/8_hFjbmNsBs/hq720.jpg"
+            },
+            {
+                "title": "තැබිලි වතුරේගුණ සැබවින්ම අරුමයක් | Health benefits of king coconut | Thabili Wathura | NADE GURA",
+                "url": "https://youtube.com/watch?v=-kx9TZnuGnE",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/-kx9TZnuGnE/hq720.jpg"
+            },
+            {
+                "title": "කළුදුරු ඇට කිහිපයක් දින 14ක් කෑවොත් වෙන විස්මිත දේ! | Benefits of Black Seeds (Sinhala)",
+                "url": "https://youtube.com/watch?v=Ya1OnzSjcdA",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/Ya1OnzSjcdA/hq720.jpg"
+            },
+            {
+                "title": "තලවල අතිවිශිෂ්ට සෞඛ්‍ය ප්‍රතිලාභ | Superfood For Strong Bones and Heart @Knowdiet496",
+                "url": "https://youtube.com/watch?v=ouCp3BpFNEI",
+                "duration": "8:38",
+                "thumbnail": "https://i.ytimg.com/vi/ouCp3BpFNEI/hq720.jpg"
+            },
+            {
+                "title": "kaluduru/ම.ර.ණ.ය හැර අනිකුත් ලෙඩ සුව කරන විශ්මිත කලුදුරු/Black seeds",
+                "url": "https://youtube.com/watch?v=a0FdfYQgJ8A",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/a0FdfYQgJ8A/hqdefault.jpg"
+            },
+            {
+                "title": "The Amazing Benefits of Black Elderberry",
+                "url": "https://youtube.com/watch?v=po4p9LWGHG4",
+                "duration": "2:40",
+                "thumbnail": "https://i.ytimg.com/vi/po4p9LWGHG4/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 6ක් | Health Benefits Of Butterfly Pea Tea",
+                "url": "https://youtube.com/watch?v=lwZGAN8NJaM",
+                "duration": "9:22",
+                "thumbnail": "https://i.ytimg.com/vi/lwZGAN8NJaM/hq720.jpg"
+            },
+            {
+                "title": "මේ කළුදුරු තෙල් එක ගෙදර හදලා ගාන්න | බලන් ඉදිදි කොණ්ඩේ වැවෙනවා | දින කිහිපයකින් ඔබටම පුදුම හිතේවි",
+                "url": "https://youtube.com/watch?v=fR2OuEy0tCE",
+                "duration": "19:23",
+                "thumbnail": "https://i.ytimg.com/vi/fR2OuEy0tCE/hq720.jpg"
+            },
+            {
+                "title": "කලු තැන් බෙල්ල කිහිලි ඔක්කොම සුදු කරමු මේක නම් පිස්සුවක් 🥹❤️",
+                "url": "https://youtube.com/watch?v=uMPXDxeaup8",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/uMPXDxeaup8/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "කුෂ්ඨ රෝග, උන්මාද රෝග, ස්වසන රෝග ඇතුළු රෝග රැසකට ගුණ කලුකම්බේරිය",
+                "url": "https://youtube.com/watch?v=WWpQhhoWD1g",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/WWpQhhoWD1g/hq720.jpg"
+            },
+            {
+                "title": "කලුකම්බේරිය , තැම්බේරිය , කෙම්බේරිය , kalukamberiya , #herbs #nature #medicinalherbs #education",
+                "url": "https://youtube.com/watch?v=LcZ2C8zdbpk",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/LcZ2C8zdbpk/hq720.jpg"
+            },
+            {
+                "title": "කළුබෝවිල තත්ත්වය - බෙහෙත් හොයන් ආව මිනිස්සු හිත පත්ලෙම වේදනාව පිටදායි.",
+                "url": "https://youtube.com/watch?v=zw-3z4C_e3Y",
+                "duration": "6:08",
+                "thumbnail": "https://i.ytimg.com/vi/zw-3z4C_e3Y/hq720.jpg"
+            },
+            {
+                "title": "හැදුණොත් සීනි ලේසි නෑනි. ඔක්කොටම කළින් වෛද්‍යවරියගේ මේ කතාව බලන්න.",
+                "url": "https://youtube.com/watch?v=Vej58Ed6glI",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/Vej58Ed6glI/hq720.jpg"
+            },
+            {
+                "title": "කලු කමිබේරිය වෑජනය |හෙලරස |ආයුර්වේද කෑමක්",
+                "url": "https://youtube.com/watch?v=mXYHF0l5TFI",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/mXYHF0l5TFI/hq720.jpg"
+            },
+            {
+                "title": "සුදු කෙස් කළු කරන , පනු රෝග නසන විශිෂ්ඨ ඔසුව | Nil Awariya | Ceylon Agri | Episode 163",
+                "url": "https://youtube.com/watch?v=-DhDGVr-ixg",
+                "duration": "11:15",
+                "thumbnail": "https://i.ytimg.com/vi/-DhDGVr-ixg/hq720.jpg"
+            },
+            {
+                "title": "එළ බිම් තඹරු බෙහෙත් පැලය හඳුනා ගන්න..Goat's foot Ipomoea",
+                "url": "https://youtube.com/watch?v=GfYglZJA9QY",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/GfYglZJA9QY/hqdefault.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ පිරුණ Black Rice|කලුබත් කාලා තියෙනවද|😮",
+                "url": "https://youtube.com/watch?v=GnZZqQEnL2U",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/GnZZqQEnL2U/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Pulmonary Disorders",
-      "sinhala": "පෙනහළු ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Exudations – gum",
-    "Resins",
-    "Fruits"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

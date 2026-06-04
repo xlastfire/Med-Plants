@@ -1,145 +1,348 @@
 {
-  "scientificName": "Curculigo orchioides Gaertn.",
-  "synonyms": [
-    "Curculigo brevifolia Dryand. ex W.T.Aiton",
-    "Curculigo densa W.Bull",
-    "Curculigo firma Kotschy & Peyr.",
-    "Curculigo malabarica Wight",
-    "Curculigo orchioides var. minor Benth.",
-    "Curculigo pauciflora Zipp. ex Span.",
-    "Curculigo petiolata Royle",
-    "Curculigo stans Labill.",
-    "Franquevillea major Zoll. ex Kurz",
-    "Gethyllis acaulis Blanco",
-    "Hypoxis dulcis Steud. ex Baker",
-    "Hypoxis minor Seem.",
-    "Hypoxis orchioides (Gaertn.) Kurz"
-  ],
-  "familyName": "HYPOXIDACEAE",
-  "englishNames": [
-    "Golden Eye Grass",
-    "Orchid palm Grass",
-    "Star Grass"
-  ],
-  "sinhalaName": "Heen binthal (හීන් බින්තල්)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Curculigo orchioides Gaertn.",
+    "synonyms": [
+        "Curculigo brevifolia Dryand. ex W.T.Aiton",
+        "Curculigo densa W.Bull",
+        "Curculigo firma Kotschy & Peyr.",
+        "Curculigo malabarica Wight",
+        "Curculigo orchioides var. minor Benth.",
+        "Curculigo pauciflora Zipp. ex Span.",
+        "Curculigo petiolata Royle",
+        "Curculigo stans Labill.",
+        "Franquevillea major Zoll. ex Kurz",
+        "Gethyllis acaulis Blanco",
+        "Hypoxis dulcis Steud. ex Baker",
+        "Hypoxis minor Seem.",
+        "Hypoxis orchioides (Gaertn.) Kurz"
+    ],
+    "familyName": "HYPOXIDACEAE",
+    "englishNames": [
+        "Golden Eye Grass",
+        "Orchid palm Grass",
+        "Star Grass"
+    ],
+    "sinhalaName": "Heen binthal (හීන් බින්තල්)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cataract",
+            "sinhala": "ඇසේ සුද",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Gonorrhea",
+            "sinhala": "ගොනෝරියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Erectile Dysfunction",
+            "sinhala": "ලිංගික අප්‍රාණිකත්වය / ධ්වජභංගය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Leukorrhea",
+            "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Grains",
+        "Rhizome"
+    ],
+    "images": [
+        {
+            "image_id": "1398",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/Gvn1r1tX/plant00708-01398.jpg"
+        },
+        {
+            "image_id": "1399",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/XrZMmf83/plant00708-01399.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ප්‍රබල වාජීකරණ ගුණයක් සහ ශක්තිජනක ආහාරයක් වන බිංතල් ගැන දැනන් හිටියද? | බිංතල් (Bintal)",
+                "url": "https://youtube.com/watch?v=R9rUznWawCY",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/R9rUznWawCY/hq720.jpg"
+            },
+            {
+                "title": "කැලෑවේ පවා තියෙන මේ පුංචි ගහ බරපතල රෝග රැසක් සුවවෙන ඖශධයක්.හීන් බෝවිටියා ගහේ තියෙන විශ්මිත ගුණය",
+                "url": "https://youtube.com/watch?v=DvVN_d-b3ak",
+                "duration": "4:03",
+                "thumbnail": "https://i.ytimg.com/vi/DvVN_d-b3ak/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා ගැන මේ දේවල් අහලා තියෙනවද? | Nature Studies | Nalaka S Athukorala",
+                "url": "https://youtube.com/watch?v=D2HnfYSbfIU",
+                "duration": "1:27",
+                "thumbnail": "https://i.ytimg.com/vi/D2HnfYSbfIU/hq720.jpg"
+            },
+            {
+                "title": "Heen Bovitiya (Osbeckia octandra) හීන් බෝවිටියා Medicinal plants #medicine #helthytips",
+                "url": "https://youtube.com/watch?v=9jqoTIxECW4",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/9jqoTIxECW4/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ශාකයේ ඔසු ගුණ | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=29JyQOFg1WI",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/29JyQOFg1WI/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල ගුණ|Osbeckia octandra",
+                "url": "https://youtube.com/watch?v=2LtRzIpW4ag",
+                "duration": "9:57",
+                "thumbnail": "https://i.ytimg.com/vi/2LtRzIpW4ag/hqdefault.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වල ඇති ඖෂධීය ගුණ 😱👍",
+                "url": "https://youtube.com/watch?v=pbyG59djyC0",
+                "duration": "7:37",
+                "thumbnail": "https://i.ytimg.com/vi/pbyG59djyC0/hq720.jpg"
+            },
+            {
+                "title": "ඔබත් මේ මාරාන්තික හීන්බෝවිටියා භාවිතා කරනවාද? අක්මාව ආරක්ෂා කරගන්න මේ ටික කලින් දැනගන්න",
+                "url": "https://youtube.com/watch?v=R7lH10NMWZU",
+                "duration": "14:38",
+                "thumbnail": "https://i.ytimg.com/vi/R7lH10NMWZU/hq720.jpg"
+            },
+            {
+                "title": "බිං තල්, Bin thal, #education #garden #herbs #nature #herbalremedies #plants #gardening",
+                "url": "https://youtube.com/watch?v=_SMOtDk-IEk",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/_SMOtDk-IEk/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා ශාකයේ ගුණ අගුණ හරියට දැනගමු | Health benefits of Heen Bovitiya | Osbeckia octandra",
+                "url": "https://youtube.com/watch?v=qWhvPW9o2XI",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/qWhvPW9o2XI/hqdefault.jpg"
+            },
+            {
+                "title": "හීන්බෝවිටියා වල ගුණ | හීන්බෝවිටියා ලෙඩ රෝග කිහිපයකට ගුණදායකයි | Health benefits of Heen Bovitiya",
+                "url": "https://youtube.com/watch?v=gPgK8x0YzGc",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/gPgK8x0YzGc/hq720.jpg"
+            },
+            {
+                "title": "විස්මිත ගුණ දෙන හීන් බෝවිටියා|The humble Bovitiya who gives amazing qualities",
+                "url": "https://youtube.com/watch?v=cC4GCszFlw8",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/cC4GCszFlw8/hq720.jpg"
+            },
+            {
+                "title": "අයේ කවදාවත් මේ විදියට හීන් බෝවිටියා කැද බොන්න හිතන්නවත් එපා! - මාරයා ඇත ලගයි! අක්මාව විනාශ වෙනවා",
+                "url": "https://youtube.com/watch?v=fhLOMYDPve8",
+                "duration": "21:41",
+                "thumbnail": "https://i.ytimg.com/vi/fhLOMYDPve8/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා! A Natural Remedy for Fatty Liver | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=UR7jnBsoehA",
+                "duration": "0:13",
+                "thumbnail": "https://i.ytimg.com/vi/UR7jnBsoehA/hq720.jpg"
+            },
+            {
+                "title": "Heen Bovitiya | හීන් බෝවිටියා | Osbeckia octandra. Endemic Ayurvedic Plant in Sri Lanka #plants #sl",
+                "url": "https://youtube.com/watch?v=aGu69dIMX6E",
+                "duration": "0:07",
+                "thumbnail": "https://i.ytimg.com/vi/aGu69dIMX6E/hq720_2.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වලින් කොලොස්ටරෝල් හොද වෙන්නේ නැත්තේ ඇයි",
+                "url": "https://youtube.com/watch?v=xI17zwR3Ykw",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/xI17zwR3Ykw/hq720_2.jpg"
+            },
+            {
+                "title": "🌱 හීන් බෝවිටියා: අක්මාවේ සහ කොලෙස්ටරෝල් ගැටළුවලට ස්වභාවික විසඳුමක්! ❤️",
+                "url": "https://youtube.com/watch?v=8yIZoBYkQaI",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/8yIZoBYkQaI/hq720_2.jpg"
+            },
+            {
+                "title": "හීන් බෝව්ටියා තේ පානය #srilankanfood #food #srilanka",
+                "url": "https://youtube.com/watch?v=nLgszxMtUVM",
+                "duration": "0:20",
+                "thumbnail": "https://i.ytimg.com/vi/nLgszxMtUVM/hq720_2.jpg"
+            },
+            {
+                "title": "සිංහල අත් බෙහෙත්-හීන් බෝවිටියා (ශරීරයේ  කොලෙස්ටරෝල්  හා සීනි අඩු කිරීමට උපකාරීවේ. )",
+                "url": "https://youtube.com/watch?v=jjZZDqmgbbU",
+                "duration": "0:24",
+                "thumbnail": "https://i.ytimg.com/vi/jjZZDqmgbbU/hq720.jpg"
+            },
+            {
+                "title": "Heen bovitiya - හීන් බෝවිටියා    Osbeckia octandra",
+                "url": "https://youtube.com/watch?v=YGSMr3DwXgE",
+                "duration": "0:07",
+                "thumbnail": "https://i.ytimg.com/vi/YGSMr3DwXgE/hq720_2.jpg"
+            },
+            {
+                "title": "ශරීරය සුවපත් කරන හීන්බූටිය ආහරයට ගමු🥰🥰",
+                "url": "https://youtube.com/watch?v=BrpX6X7LZjU",
+                "duration": "0:19",
+                "thumbnail": "https://i.ytimg.com/vi/BrpX6X7LZjU/hq720_2.jpg"
+            },
+            {
+                "title": "Ellaya TV :- හීන් බෝවිටියා ශාකයේ ගුණ සහ ඖෂධීය භාවිතයන් ,ප්‍රතිලාභ  දියවැඩියාව පාලනය කිරීම 0718669451",
+                "url": "https://youtube.com/watch?v=G2axtE1DmW4",
+                "duration": "15:31",
+                "thumbnail": "https://i.ytimg.com/vi/G2axtE1DmW4/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂයින්ගේ ලිංගික ශක්තිය වැඩි කරන, ඉක්මනින් ධාතු පිටවීමට හොදම ප්‍රතිකාරයක් වන බිංතල් වල ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=LHYxIfW9T4M",
+                "duration": "14:36",
+                "thumbnail": "https://i.ytimg.com/vi/LHYxIfW9T4M/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා ශාකය - අක්මා මිතුරා",
+                "url": "https://youtube.com/watch?v=6dMfO26tgak",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/6dMfO26tgak/hq720.jpg"
+            },
+            {
+                "title": "මේ ඖෂධීය ශාකය තමිබා වීදුරුවක් බොන්න/අවුරුදු නැකතට ලේඩරෝග සුවකරවයි/හීන් බෝවිටියා",
+                "url": "https://youtube.com/watch?v=s9q_kcmymsA",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/s9q_kcmymsA/hq720.jpg"
+            },
+            {
+                "title": "හීන් බෝවිටියා වලින් මේ වගේ දේවල් ලැබෙයි කියලා හිතුවද? | Simple Life | #trending #nature #education",
+                "url": "https://youtube.com/watch?v=0RbKggXpy90",
+                "duration": "5:13",
+                "thumbnail": "https://i.ytimg.com/vi/0RbKggXpy90/hq720.jpg"
+            },
+            {
+                "title": "කවුරුත් දන්නා හීන් බෝවිටියා | #ඖෂධයක් | #Food",
+                "url": "https://youtube.com/watch?v=GpK7f7YzHoI",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/GpK7f7YzHoI/hqdefault.jpg"
+            },
+            {
+                "title": "Boovitiya / හීන්බෝවිටියා / මහ බෝවිටියා / Herbal Plants",
+                "url": "https://youtube.com/watch?v=p-Yr6-1vj6g",
+                "duration": "2:06",
+                "thumbnail": "https://i.ytimg.com/vi/p-Yr6-1vj6g/hqdefault.jpg"
+            },
+            {
+                "title": "මියැදෙන රෝගින්ට පවා නැවත ජීවය ලබා දෙන ඖෂධීය ශාකය /හීන් බෝවිටියා",
+                "url": "https://youtube.com/watch?v=kwAcdPyYMGw",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/kwAcdPyYMGw/hq720.jpg"
+            },
+            {
+                "title": "212 වස විස ආහාර නිසා වැනසෙන අපේ අක්මාව අලුත්වැඩියා කරන හීන් බෝවිටියා",
+                "url": "https://youtube.com/watch?v=uthvJ1umRCo",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/uthvJ1umRCo/hq720.jpg"
+            },
+            {
+                "title": "Curculigo orchioides / Ground palm / Herbal plant / බිම් තල් / බිං තල්",
+                "url": "https://youtube.com/watch?v=pNs0ZP_dBCo",
+                "duration": "0:48",
+                "thumbnail": "https://i.ytimg.com/vi/pNs0ZP_dBCo/hq720.jpg"
+            },
+            {
+                "title": "Fatty Liver ද ? අක්මාව රකින හීන් බෝවිටියා ගැන දන්නවද? | Heen Bovitiya Benifits",
+                "url": "https://youtube.com/watch?v=euYmPJs27Tg",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/euYmPJs27Tg/hq720.jpg"
+            },
+            {
+                "title": "🌿 හීං බෝවිටියා (Osbeckia octandra)",
+                "url": "https://youtube.com/watch?v=C_59Ym7ADwM",
+                "duration": "14:27",
+                "thumbnail": "https://i.ytimg.com/vi/C_59Ym7ADwM/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Cataract",
-      "sinhala": "ඇසේ සුද",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Gonorrhea",
-      "sinhala": "ගොනෝරියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Erectile Dysfunction",
-      "sinhala": "ලිංගික අප්‍රාණිකත්වය / ධ්වජභංගය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Leukorrhea",
-      "sinhala": "ශ්වේත ප්‍රදරය (සුදයාම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Grains",
-    "Rhizome"
-  ],
-  "images": [
-    {
-      "image_id": "1398",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/Gvn1r1tX/plant00708-01398.jpg"
-    },
-    {
-      "image_id": "1399",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/XrZMmf83/plant00708-01399.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

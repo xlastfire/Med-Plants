@@ -1,113 +1,166 @@
 {
-  "scientificName": "Euphorbia thymifolia L.",
-  "synonyms": [
-    "Anisophyllum thymifolium (L.) Haw.",
-    "Aplarina microphylla (Lam.) Raf.",
-    "Chamaesyce mauritiana Comm. ex Denis",
-    "Chamaesyce microphylla (Lam.) Soják",
-    "Chamaesyce rubrosperma (Lotsy) Millsp.",
-    "Chamaesyce thymifolia (L.) Millsp.",
-    "Chamaesyce thymifolia f. suffrutescens (Boiss.) Hurus.",
-    "Euphorbia aegyptiaca var. annobonensis Mildbr.",
-    "Euphorbia afzelii N.E.Br.",
-    "Euphorbia botryoides Noronha",
-    "Euphorbia foliata Buch.-Ham. ex Dillwyn",
-    "Euphorbia microphylla Lam.",
-    "Euphorbia philippina J.Gay ex Boiss.",
-    "Euphorbia rubicunda Blume",
-    "Euphorbia rubrosperma Lotsy",
-    "Euphorbia thymifolia f. laxifoliata Chodat & Hassl.",
-    "Euphorbia thymifolia var. disticha Nutt.",
-    "Euphorbia thymifolia var. suffrutescens Boiss."
-  ],
-  "familyName": "EUPHORBIACEAE",
-  "englishNames": [
-    "Gulf Sandmat",
-    "Thyme Leaves Spurge",
-    "Chickenweed",
-    "Dwarf Spurge",
-    "Gulf Sandmat",
-    "Red Caustic Creeper"
-  ],
-  "sinhalaName": "Bin dadakeeriya (බින් දදකීරිය)",
-  "description": "වාර්ෂික පැළෑටියකි. පත්‍ර අභිමුඛව පිහිටයි, 2 - 5 (-9) X 1 - 2.5 (-3.5) මි.මී. ප්‍රමාණයෙන් යුක්ත වේ, ඉලිප්සාකාර (elliptic) හෝ ආයත (oblong) සිට ආයත-ඉලිප්සාකාර (oblong-elliptic) හෝ ප්‍රතිලෝම අණ්ඩාකාර-ආයත (obovate-oblong) හැඩයක් ගනී, පාදම වටකුරු සිට අර්ධ හෘදයාකාර (subcordate) වේ, පාදම අසමාන වේ, අග්‍රය මොටව උල් වූ (bluntly pointed) සිට වටකුරු, හෝ කැපූ (truncate) හෝ මොට (obtuse) වේ, අග්‍රය දෙසට දළ දාර සහිත (crenate) සිට කියත් දාර සහිත (serrate) වේ, රෝම රහිත (glabrous) වේ, හෝ යටි පැත්තේ විටින් විට කෙටි රෝම දක්නට ලැබේ. පුෂ්ප මංජරිය ඉහළ පත්‍ර අක්ෂවල පිහිටයි. කරල් (capsule) කෙළින් පිහිටයි, කෙටි වෘන්තයක් සහිතයි, අර්ධ ගෝලාකාර (subglobular) වේ, තදින් හෝ මොටව සහ අපැහැදිලි ලෙස කීල සහිත (keeled) වේ. බීජ දළ වශයෙන් 1 X 0.4 මි.මී. වේ, සිනිඳුයි, ත්‍රිකෝණාකාර (trigonous) සිට අර්ධ සිලින්ඩරාකාර (subcylindric) වේ, රෝස සිට ලා දුඹුරු පැහැයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
+    "scientificName": "Euphorbia thymifolia L.",
+    "synonyms": [
+        "Anisophyllum thymifolium (L.) Haw.",
+        "Aplarina microphylla (Lam.) Raf.",
+        "Chamaesyce mauritiana Comm. ex Denis",
+        "Chamaesyce microphylla (Lam.) Soják",
+        "Chamaesyce rubrosperma (Lotsy) Millsp.",
+        "Chamaesyce thymifolia (L.) Millsp.",
+        "Chamaesyce thymifolia f. suffrutescens (Boiss.) Hurus.",
+        "Euphorbia aegyptiaca var. annobonensis Mildbr.",
+        "Euphorbia afzelii N.E.Br.",
+        "Euphorbia botryoides Noronha",
+        "Euphorbia foliata Buch.-Ham. ex Dillwyn",
+        "Euphorbia microphylla Lam.",
+        "Euphorbia philippina J.Gay ex Boiss.",
+        "Euphorbia rubicunda Blume",
+        "Euphorbia rubrosperma Lotsy",
+        "Euphorbia thymifolia f. laxifoliata Chodat & Hassl.",
+        "Euphorbia thymifolia var. disticha Nutt.",
+        "Euphorbia thymifolia var. suffrutescens Boiss."
+    ],
+    "familyName": "EUPHORBIACEAE",
+    "englishNames": [
+        "Gulf Sandmat",
+        "Thyme Leaves Spurge",
+        "Chickenweed",
+        "Dwarf Spurge",
+        "Gulf Sandmat",
+        "Red Caustic Creeper"
+    ],
+    "sinhalaName": "Bin dadakeeriya (බින් දදකීරිය)",
+    "description": "වාර්ෂික පැළෑටියකි. පත්‍ර අභිමුඛව පිහිටයි, 2 - 5 (-9) X 1 - 2.5 (-3.5) මි.මී. ප්‍රමාණයෙන් යුක්ත වේ, ඉලිප්සාකාර (elliptic) හෝ ආයත (oblong) සිට ආයත-ඉලිප්සාකාර (oblong-elliptic) හෝ ප්‍රතිලෝම අණ්ඩාකාර-ආයත (obovate-oblong) හැඩයක් ගනී, පාදම වටකුරු සිට අර්ධ හෘදයාකාර (subcordate) වේ, පාදම අසමාන වේ, අග්‍රය මොටව උල් වූ (bluntly pointed) සිට වටකුරු, හෝ කැපූ (truncate) හෝ මොට (obtuse) වේ, අග්‍රය දෙසට දළ දාර සහිත (crenate) සිට කියත් දාර සහිත (serrate) වේ, රෝම රහිත (glabrous) වේ, හෝ යටි පැත්තේ විටින් විට කෙටි රෝම දක්නට ලැබේ. පුෂ්ප මංජරිය ඉහළ පත්‍ර අක්ෂවල පිහිටයි. කරල් (capsule) කෙළින් පිහිටයි, කෙටි වෘන්තයක් සහිතයි, අර්ධ ගෝලාකාර (subglobular) වේ, තදින් හෝ මොටව සහ අපැහැදිලි ලෙස කීල සහිත (keeled) වේ. බීජ දළ වශයෙන් 1 X 0.4 මි.මී. වේ, සිනිඳුයි, ත්‍රිකෝණාකාර (trigonous) සිට අර්ධ සිලින්ඩරාකාර (subcylindric) වේ, රෝස සිට ලා දුඹුරු පැහැයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Amenorrhea",
+            "sinhala": "ඔසප් වීම නතර වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Worm infestation",
+            "sinhala": "පණු රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dislocation of  Joint",
+            "sinhala": "",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Seeds",
+        "Latex"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Euphorbia hirta/Bu dadakeriya/Herbal plants of Sri Lanka",
+                "url": "https://youtube.com/watch?v=gHbtcDm6X7A",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/gHbtcDm6X7A/hq720.jpg"
+            },
+            {
+                "title": "Euphorbia hirta plant/health tips bu dadakeriya new top #newtop (@newtopSL)",
+                "url": "https://youtube.com/watch?v=16Jh8uWysxE",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/16Jh8uWysxE/hqdefault.jpg"
+            },
+            {
+                "title": "[Sri Lanka Wildflowers]#열대식물#Asthma Plant#euphorbia hirta#Bu dadakeeriya#열대식물",
+                "url": "https://youtube.com/watch?v=96qK5g6Mp-Q",
+                "duration": "1:04",
+                "thumbnail": "https://i.ytimg.com/vi/96qK5g6Mp-Q/hq720.jpg"
+            },
+            {
+                "title": "Boo dada keeriya බූ දද කීරිය -Asthma plant - Euphorbia  hirta",
+                "url": "https://youtube.com/watch?v=tkD4e5Wja6o",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/tkD4e5Wja6o/hq720.jpg"
+            },
+            {
+                "title": "පිටත ලේ වහන නැවතීමට කැපුම් කීරීය | බිං දද කීරීය",
+                "url": "https://youtube.com/watch?v=FVEuSIjtII0",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/FVEuSIjtII0/hq720_2.jpg"
+            },
+            {
+                "title": "ඖෂධීය කැපුම්කීරියා වල ගුණ ( Tawa tawa plant) #shorts 🌿",
+                "url": "https://youtube.com/watch?v=EMrNbflFWIM",
+                "duration": "0:29",
+                "thumbnail": "https://i.ytimg.com/vi/EMrNbflFWIM/hq720_2.jpg"
+            },
+            {
+                "title": "#trending #viral #plants #herbal  කැපුම් කීරිය 🐍 Snake Weed",
+                "url": "https://youtube.com/watch?v=pfUeFmt0GLg",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/pfUeFmt0GLg/hq720.jpg"
+            },
+            {
+                "title": "කැපුම් කීරිය ( Euphorbia Hirta )",
+                "url": "https://youtube.com/watch?v=AfDa8hnU8rQ",
+                "duration": "13:53",
+                "thumbnail": "https://i.ytimg.com/vi/AfDa8hnU8rQ/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Amenorrhea",
-      "sinhala": "ඔසප් වීම නතර වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Worm infestation",
-      "sinhala": "පණු රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dislocation of  Joint",
-      "sinhala": "",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Seeds",
-    "Latex"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

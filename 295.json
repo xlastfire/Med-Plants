@@ -1,251 +1,520 @@
 {
-  "scientificName": "Beta vulgaris ssp. vulgaris",
-  "synonyms": [
-    "Beta alba DC.",
-    "Beta altissima Steud.",
-    "Beta atriplicifolia Rouy",
-    "Beta bengalensis Roxb.",
-    "Beta brasiliensis Scheidw.",
-    "Beta braziliensis J.McNab",
-    "Beta carnulosa Gren.",
-    "Beta cicla (L.) L.",
-    "Beta cicla var. argentea Krassochkin & Burenin",
-    "Beta cicla var. viridis Krassochkin & Burenin",
-    "Beta cicla variegata Rob.",
-    "Beta crispa Tratt.",
-    "Beta decumbens Moench",
-    "Beta esculenta Salisb.",
-    "Beta foliosa Ehrenb. ex Steud.",
-    "Beta hortensis Mill.",
-    "Beta hybrida Andrz.",
-    "Beta incarnata Steud.",
-    "Beta lutea Steud.",
-    "Beta marina Crantz",
-    "Beta maritima L.",
-    "Beta maritima subsp. atriplicifolia (Rouy) Burenin",
-    "Beta maritima subsp. danica Krassochkin",
-    "Beta maritima subsp. marcosii (O.Bolòs & Vigo) Juan & M.B.Crespo",
-    "Beta maritima subsp. orientalis (Roth) Burenin",
-    "Beta maritima var. atriplicifolia Krassochkin",
-    "Beta maritima var. erecta Krassochkin",
-    "Beta maritima var. glabra Delile",
-    "Beta maritima var. pilosa Delile",
-    "Beta maritima var. prostrata Krassochkin",
-    "Beta noeana Bunge ex Boiss.",
-    "Beta orientalis Roth",
-    "Beta perennis (L.) Halácsy",
-    "Beta purpurea Steud.",
-    "Beta rapa Dumort.",
-    "Beta rapacea Hegetschw.",
-    "Beta rosea Steud.",
-    "Beta sativa Bernh.",
-    "Beta stricta K.Koch",
-    "Beta sulcata Gasp.",
-    "Beta triflora Salisb.",
-    "Beta vulgaris convar. cicla (L.) Alef.",
-    "Beta vulgaris convar. crassa Alef.",
-    "Beta vulgaris convar. cruenta Alef.",
-    "Beta vulgaris f. cicla (L.) Backer",
-    "Beta vulgaris f. rapa (Dumort.) Backer",
-    "Beta vulgaris subsp. asiatica Krassochkin ex Burenin",
-    "Beta vulgaris subsp. cicla (L.) Schübl. & G.Martens",
-    "Beta vulgaris subsp. foliosa Asch. & Schweinf.",
-    "Beta vulgaris subsp. lomatogonoides Aellen",
-    "Beta vulgaris subsp. maritima (L.) Arcang.",
-    "Beta vulgaris subsp. orientalis (Roth) Aellen",
-    "Beta vulgaris var. alborubens Gray",
-    "Beta vulgaris var. altissima Döll",
-    "Beta vulgaris var. annua Graebn.",
-    "Beta vulgaris var. asiatica Burenin",
-    "Beta vulgaris var. atra Alef.",
-    "Beta vulgaris var. atriplicifolia (Rouy) Krassochkin",
-    "Beta vulgaris var. aurantia Burenin",
-    "Beta vulgaris var. bassana Alef.",
-    "Beta vulgaris var. cicla L.",
-    "Beta vulgaris var. conditiva Alef.",
-    "Beta vulgaris var. coniciformis Burenin",
-    "Beta vulgaris var. crispa Alef.",
-    "Beta vulgaris var. debeauxii Clary",
-    "Beta vulgaris var. depressalba Alef.",
-    "Beta vulgaris var. depressiflava Alef.",
-    "Beta vulgaris var. depressirubra Alef.",
-    "Beta vulgaris var. foliosa (Asch. & Schweinf.) Aellen",
-    "Beta vulgaris var. glabra (Delile) Aellen",
-    "Beta vulgaris var. globosalba Alef.",
-    "Beta vulgaris var. globosiflava Alef.",
-    "Beta vulgaris var. globosirubra Alef.",
-    "Beta vulgaris var. grisea Aellen",
-    "Beta vulgaris var. grisea Burenin",
-    "Beta vulgaris var. hortensis (Mill.) Alef.",
-    "Beta vulgaris var. leucopleura Alef.",
-    "Beta vulgaris var. longalba Alef.",
-    "Beta vulgaris var. longiflava Alef.",
-    "Beta vulgaris var. longirubra Alef.",
-    "Beta vulgaris var. lutea DC.",
-    "Beta vulgaris var. macropleura Alef.",
-    "Beta vulgaris var. marcosii O.Bolòs & Vigo",
-    "Beta vulgaris var. maritima (L.) Moq.",
-    "Beta vulgaris var. mediasiatica Burenin",
-    "Beta vulgaris var. morina Alef.",
-    "Beta vulgaris var. naudariana Alef.",
-    "Beta vulgaris var. orientalis (Roth) Moq.",
-    "Beta vulgaris var. ovaliformis Burenin",
-    "Beta vulgaris var. perennis L.",
-    "Beta vulgaris var. phoenicopleura Alef.",
-    "Beta vulgaris var. pilosa Moq.",
-    "Beta vulgaris var. praecox Alef.",
-    "Beta vulgaris var. purpurea André",
-    "Beta vulgaris var. pusilla Alef.",
-    "Beta vulgaris var. rapacea W.D.J.Koch",
-    "Beta vulgaris var. raposa Gray",
-    "Beta vulgaris var. rhodopleura Alef.",
-    "Beta vulgaris var. rubidus Burenin",
-    "Beta vulgaris var. rubra Burenin",
-    "Beta vulgaris var. rubra L.",
-    "Beta vulgaris var. rubricaulis Gray",
-    "Beta vulgaris var. rubrifolia Krassochkin ex Burenin",
-    "Beta vulgaris var. ruficeps Alef.",
-    "Beta vulgaris var. saccharifera Alef.",
-    "Beta vulgaris var. scotica Alef.",
-    "Beta vulgaris var. sicula Klett & Richt.",
-    "Beta vulgaris var. subrosea Krassochkin ex Burenin",
-    "Beta vulgaris var. subrosea Krassochkin ex Burenin",
-    "Beta vulgaris var. variocicla Alef.",
-    "Beta vulgaris var. virescens Burenin",
-    "Beta vulgaris var. viridifolia Krassochkin ex Burenin",
-    "Beta vulgaris var. xantha Alef.",
-    "Beta vulgaris var. xanthopleura Alef."
-  ],
-  "familyName": "AMARANTHACEAE",
-  "englishNames": [
-    "Beet",
-    "Beet Root"
-  ],
-  "sinhalaName": "Beet (බීට් )",
-  "description": "වාර්ෂික හෝ ද්විවාර්ෂික පැළෑටියකි. මුල් කඳ සමඟ සම්බන්ධ වන ස්ථානයේ කැපී පෙනෙන ලෙස ඉදිමී පවතී. ඒවා සාමාන්‍යයෙන් තද රතු පැහැයක් ගන්නා අතර ගෝලාකාර (globular) හෝ සිලින්ඩරාකාර (cylindrical) විය හැක. අලයේ මුදුනේ සිට මීටර් 1.2-1.8ක් දක්වා උසැති පුෂ්ප මංජරිය දරන කඳක් හටගනී. පත්‍ර රෝම රහිත (glabrous) වන අතර, බිත්තරයක හැඩැති (ovate) සිට හෘදයාකාර (cordate) හැඩයක් ගනී. ඒවා තද කොළ හෝ රතු පැහැයට හුරු වන අතර බොහෝ විට භූගත කඳෙන් රොසෙටා (rosette) හැඩයක් සාදයි. පුෂ්ප මංජරිය පැණිකල් (panicle) ආකාර වේ. මල් කුඩා වන අතර බහුලව පිහිටයි. ඵලය අක්‍රමවත් වියළි දේහයක් සාදන පලතුරු 2ක් හෝ වැඩි ගණනක එකතුවකි (aggregate).",
-  "treatments": [
-    {
-      "treatment": "Anemia",
-      "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Beta vulgaris ssp. vulgaris",
+    "synonyms": [
+        "Beta alba DC.",
+        "Beta altissima Steud.",
+        "Beta atriplicifolia Rouy",
+        "Beta bengalensis Roxb.",
+        "Beta brasiliensis Scheidw.",
+        "Beta braziliensis J.McNab",
+        "Beta carnulosa Gren.",
+        "Beta cicla (L.) L.",
+        "Beta cicla var. argentea Krassochkin & Burenin",
+        "Beta cicla var. viridis Krassochkin & Burenin",
+        "Beta cicla variegata Rob.",
+        "Beta crispa Tratt.",
+        "Beta decumbens Moench",
+        "Beta esculenta Salisb.",
+        "Beta foliosa Ehrenb. ex Steud.",
+        "Beta hortensis Mill.",
+        "Beta hybrida Andrz.",
+        "Beta incarnata Steud.",
+        "Beta lutea Steud.",
+        "Beta marina Crantz",
+        "Beta maritima L.",
+        "Beta maritima subsp. atriplicifolia (Rouy) Burenin",
+        "Beta maritima subsp. danica Krassochkin",
+        "Beta maritima subsp. marcosii (O.Bolòs & Vigo) Juan & M.B.Crespo",
+        "Beta maritima subsp. orientalis (Roth) Burenin",
+        "Beta maritima var. atriplicifolia Krassochkin",
+        "Beta maritima var. erecta Krassochkin",
+        "Beta maritima var. glabra Delile",
+        "Beta maritima var. pilosa Delile",
+        "Beta maritima var. prostrata Krassochkin",
+        "Beta noeana Bunge ex Boiss.",
+        "Beta orientalis Roth",
+        "Beta perennis (L.) Halácsy",
+        "Beta purpurea Steud.",
+        "Beta rapa Dumort.",
+        "Beta rapacea Hegetschw.",
+        "Beta rosea Steud.",
+        "Beta sativa Bernh.",
+        "Beta stricta K.Koch",
+        "Beta sulcata Gasp.",
+        "Beta triflora Salisb.",
+        "Beta vulgaris convar. cicla (L.) Alef.",
+        "Beta vulgaris convar. crassa Alef.",
+        "Beta vulgaris convar. cruenta Alef.",
+        "Beta vulgaris f. cicla (L.) Backer",
+        "Beta vulgaris f. rapa (Dumort.) Backer",
+        "Beta vulgaris subsp. asiatica Krassochkin ex Burenin",
+        "Beta vulgaris subsp. cicla (L.) Schübl. & G.Martens",
+        "Beta vulgaris subsp. foliosa Asch. & Schweinf.",
+        "Beta vulgaris subsp. lomatogonoides Aellen",
+        "Beta vulgaris subsp. maritima (L.) Arcang.",
+        "Beta vulgaris subsp. orientalis (Roth) Aellen",
+        "Beta vulgaris var. alborubens Gray",
+        "Beta vulgaris var. altissima Döll",
+        "Beta vulgaris var. annua Graebn.",
+        "Beta vulgaris var. asiatica Burenin",
+        "Beta vulgaris var. atra Alef.",
+        "Beta vulgaris var. atriplicifolia (Rouy) Krassochkin",
+        "Beta vulgaris var. aurantia Burenin",
+        "Beta vulgaris var. bassana Alef.",
+        "Beta vulgaris var. cicla L.",
+        "Beta vulgaris var. conditiva Alef.",
+        "Beta vulgaris var. coniciformis Burenin",
+        "Beta vulgaris var. crispa Alef.",
+        "Beta vulgaris var. debeauxii Clary",
+        "Beta vulgaris var. depressalba Alef.",
+        "Beta vulgaris var. depressiflava Alef.",
+        "Beta vulgaris var. depressirubra Alef.",
+        "Beta vulgaris var. foliosa (Asch. & Schweinf.) Aellen",
+        "Beta vulgaris var. glabra (Delile) Aellen",
+        "Beta vulgaris var. globosalba Alef.",
+        "Beta vulgaris var. globosiflava Alef.",
+        "Beta vulgaris var. globosirubra Alef.",
+        "Beta vulgaris var. grisea Aellen",
+        "Beta vulgaris var. grisea Burenin",
+        "Beta vulgaris var. hortensis (Mill.) Alef.",
+        "Beta vulgaris var. leucopleura Alef.",
+        "Beta vulgaris var. longalba Alef.",
+        "Beta vulgaris var. longiflava Alef.",
+        "Beta vulgaris var. longirubra Alef.",
+        "Beta vulgaris var. lutea DC.",
+        "Beta vulgaris var. macropleura Alef.",
+        "Beta vulgaris var. marcosii O.Bolòs & Vigo",
+        "Beta vulgaris var. maritima (L.) Moq.",
+        "Beta vulgaris var. mediasiatica Burenin",
+        "Beta vulgaris var. morina Alef.",
+        "Beta vulgaris var. naudariana Alef.",
+        "Beta vulgaris var. orientalis (Roth) Moq.",
+        "Beta vulgaris var. ovaliformis Burenin",
+        "Beta vulgaris var. perennis L.",
+        "Beta vulgaris var. phoenicopleura Alef.",
+        "Beta vulgaris var. pilosa Moq.",
+        "Beta vulgaris var. praecox Alef.",
+        "Beta vulgaris var. purpurea André",
+        "Beta vulgaris var. pusilla Alef.",
+        "Beta vulgaris var. rapacea W.D.J.Koch",
+        "Beta vulgaris var. raposa Gray",
+        "Beta vulgaris var. rhodopleura Alef.",
+        "Beta vulgaris var. rubidus Burenin",
+        "Beta vulgaris var. rubra Burenin",
+        "Beta vulgaris var. rubra L.",
+        "Beta vulgaris var. rubricaulis Gray",
+        "Beta vulgaris var. rubrifolia Krassochkin ex Burenin",
+        "Beta vulgaris var. ruficeps Alef.",
+        "Beta vulgaris var. saccharifera Alef.",
+        "Beta vulgaris var. scotica Alef.",
+        "Beta vulgaris var. sicula Klett & Richt.",
+        "Beta vulgaris var. subrosea Krassochkin ex Burenin",
+        "Beta vulgaris var. subrosea Krassochkin ex Burenin",
+        "Beta vulgaris var. variocicla Alef.",
+        "Beta vulgaris var. virescens Burenin",
+        "Beta vulgaris var. viridifolia Krassochkin ex Burenin",
+        "Beta vulgaris var. xantha Alef.",
+        "Beta vulgaris var. xanthopleura Alef."
+    ],
+    "familyName": "AMARANTHACEAE",
+    "englishNames": [
+        "Beet",
+        "Beet Root"
+    ],
+    "sinhalaName": "Beet (බීට් )",
+    "description": "වාර්ෂික හෝ ද්විවාර්ෂික පැළෑටියකි. මුල් කඳ සමඟ සම්බන්ධ වන ස්ථානයේ කැපී පෙනෙන ලෙස ඉදිමී පවතී. ඒවා සාමාන්‍යයෙන් තද රතු පැහැයක් ගන්නා අතර ගෝලාකාර (globular) හෝ සිලින්ඩරාකාර (cylindrical) විය හැක. අලයේ මුදුනේ සිට මීටර් 1.2-1.8ක් දක්වා උසැති පුෂ්ප මංජරිය දරන කඳක් හටගනී. පත්‍ර රෝම රහිත (glabrous) වන අතර, බිත්තරයක හැඩැති (ovate) සිට හෘදයාකාර (cordate) හැඩයක් ගනී. ඒවා තද කොළ හෝ රතු පැහැයට හුරු වන අතර බොහෝ විට භූගත කඳෙන් රොසෙටා (rosette) හැඩයක් සාදයි. පුෂ්ප මංජරිය පැණිකල් (panicle) ආකාර වේ. මල් කුඩා වන අතර බහුලව පිහිටයි. ඵලය අක්‍රමවත් වියළි දේහයක් සාදන පලතුරු 2ක් හෝ වැඩි ගණනක එකතුවකි (aggregate).",
+    "treatments": [
+        {
+            "treatment": "Anemia",
+            "sinhala": "පාණ්ඩුව (ලේ අඩුකම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Retention",
+            "sinhala": "මුත්‍රා රඳා පැවතීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Wound Dressing",
+            "sinhala": "තුවාල සත්කාරය (වෙලීම සඳහා)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Digestive Disorders",
+            "sinhala": "පූරක/ජීරණ පද්ධතියේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysmenorrhea",
+            "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Amenorrhea",
+            "sinhala": "ඔසප් වීම නතර වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Hepatosplenomegaly",
+            "sinhala": "අක්මාව සහ ප්ලීහාව එකවර විශාල වීම (යකෘත්-ප්ලීහෝදරය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Debility",
+            "sinhala": "ශාරීරික දුර්වලතාවය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Leaves",
+        "Seeds"
+    ],
+    "images": [
+        {
+            "image_id": "1993",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/cc146TzF/plant00295-01993.jpg"
+        },
+        {
+            "image_id": "1994",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/6RZ3dsRd/plant00295-01994.jpg"
+        },
+        {
+            "image_id": "1995",
+            "caption": "Tap root=Beatroot (PMR)",
+            "url": "https://i.ibb.co/j92CzVJX/plant00295-01995.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "වෙනසකටත් එක්ක රතු අල තෙල් දාමු | Beetroot Recipe Sinhala | Rathu Ala Thel Dala",
+                "url": "https://youtube.com/watch?v=R-kjiYIs388",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/R-kjiYIs388/hq720.jpg"
+            },
+            {
+                "title": "රතු අල වෑංජනය | බීට්රූට් වෑංජනය | Beetroot curry With English subtitles | rathuala curry Aththammai",
+                "url": "https://youtube.com/watch?v=D4lW-g3-YRw",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/D4lW-g3-YRw/hq720.jpg"
+            },
+            {
+                "title": "බීට් බීජ වලින් පැල හදාගමු. How to grow Beet plants from seeds.",
+                "url": "https://youtube.com/watch?v=Hn7gWSs_yFo",
+                "duration": "7:25",
+                "thumbnail": "https://i.ytimg.com/vi/Hn7gWSs_yFo/hqdefault.jpg"
+            },
+            {
+                "title": "දවස් 3 න් මෙච්චර results එකක් 🤫බීට් රූට් වලින් මොනවාද තියෙන ප්‍රතිඵල 🤔",
+                "url": "https://youtube.com/watch?v=u33E2JqEqQo",
+                "duration": "11:03",
+                "thumbnail": "https://i.ytimg.com/vi/u33E2JqEqQo/hqdefault.jpg"
+            },
+            {
+                "title": "විනාඩි 10 න් බීට්රූට් තෙම්පරාදුව/Beetroot tempered",
+                "url": "https://youtube.com/watch?v=BI88oh2zqbg",
+                "duration": "4:53",
+                "thumbnail": "https://i.ytimg.com/vi/BI88oh2zqbg/hq720.jpg"
+            },
+            {
+                "title": "මම ගෙදර බීට් රූට් හදන විදිහ| Beetroot curry sinhala|💓M.R KITCHEN💓",
+                "url": "https://youtube.com/watch?v=ZJCnvmUcLqM",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/ZJCnvmUcLqM/hq720.jpg"
+            },
+            {
+                "title": "බීට්රූට් යුෂ බොන අයගේ ශරීරයට සිදුවන පුදුම හිතෙන දේවල් 7ක් - 7 Health Benefits of Drinking Beet Juice",
+                "url": "https://youtube.com/watch?v=02rCtdWXXTI",
+                "duration": "10:07",
+                "thumbnail": "https://i.ytimg.com/vi/02rCtdWXXTI/hq720.jpg"
+            },
+            {
+                "title": "✔ Ape Amma බිට්රූට් කිරට රසට උයමු (Eng Sub) Beetroot curry with coconut milk by Apé Amma",
+                "url": "https://youtube.com/watch?v=PQ7y-McWAiQ",
+                "duration": "5:48",
+                "thumbnail": "https://i.ytimg.com/vi/PQ7y-McWAiQ/hq720.jpg"
+            },
+            {
+                "title": "රතු අල මේ විදිහට හදල කාලා තියෙනවද | Beetroot Fry Recipe",
+                "url": "https://youtube.com/watch?v=mbseAmV52q8",
+                "duration": "5:31",
+                "thumbnail": "https://i.ytimg.com/vi/mbseAmV52q8/hq720.jpg"
+            },
+            {
+                "title": "බීට් රූට් කිරට හදලා / beetroot curry / rathu ala kirata / beetroot recipes",
+                "url": "https://youtube.com/watch?v=O7oz99crqZg",
+                "duration": "2:34",
+                "thumbnail": "https://i.ytimg.com/vi/O7oz99crqZg/hq720.jpg"
+            },
+            {
+                "title": "දන්නෙ නැතිව කන,බොන බීට් වල ඇත්ත කතාව | Beet Root By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=hQtDEMI1YoI",
+                "duration": "10:23",
+                "thumbnail": "https://i.ytimg.com/vi/hQtDEMI1YoI/hq720.jpg"
+            },
+            {
+                "title": "බඩ අඩු කරගෙන සුදු වෙන්න මේක බොමු | Helthy drinks recipe | Fat burning | Athal kitchen beetroot drnik",
+                "url": "https://youtube.com/watch?v=nF9aE6CFz_4",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/nF9aE6CFz_4/hqdefault.jpg"
+            },
+            {
+                "title": "බීට් අල කෑල්ලකින් බීට්රූට් වවමු. පහසු සාර්ථක ක්‍රමයක් *With Eng Sub* How to Grow Beet From Cuttings",
+                "url": "https://youtube.com/watch?v=wRk2gvqtioc",
+                "duration": "12:43",
+                "thumbnail": "https://i.ytimg.com/vi/wRk2gvqtioc/hq720.jpg"
+            },
+            {
+                "title": "වෙනසකටත් එක්ක රතු අල තෙල් දාමු | Beetroot Recipe Sinhala | Rathu Ala Thel Dala",
+                "url": "https://youtube.com/watch?v=kk_TetkBEKU",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/kk_TetkBEKU/frame0.jpg"
+            },
+            {
+                "title": "| Beetroot Curry | බීට් රූට් කරිය | Recipe | Chef Nadee |",
+                "url": "https://youtube.com/watch?v=nAq-ddkGezQ",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/nAq-ddkGezQ/hq720.jpg"
+            },
+            {
+                "title": "වෙනසකටත් එක්ක රතු අල තෙල් දාමු | Beetroot Recipe Sinhala | Rathu Ala Thel Dala",
+                "url": "https://youtube.com/watch?v=Jy3XcE2tsKs",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/Jy3XcE2tsKs/frame0.jpg"
+            },
+            {
+                "title": "මේ ලෙඩ තියෙනවනම් බීට්රූට් කන්න එපා | මාරාන්තිකයි | Facts About Beetroot | Gagana Featured",
+                "url": "https://youtube.com/watch?v=J-rTWP9-a2w",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/J-rTWP9-a2w/hq720.jpg"
+            },
+            {
+                "title": "කෙට්ටු වෙන Diet Plan එකට කැරට් බීට් හොඳ නැද්ද ? | Unknown Benefits of Carrot & Beetroot",
+                "url": "https://youtube.com/watch?v=konJic_YONM",
+                "duration": "12:09",
+                "thumbnail": "https://i.ytimg.com/vi/konJic_YONM/hqdefault.jpg"
+            },
+            {
+                "title": "බීට්රූට් කන අයට වෙන දේ මෙන්න : Health benefits of beetroot (2018)",
+                "url": "https://youtube.com/watch?v=IvLis9I3dVU",
+                "duration": "1:55",
+                "thumbnail": "https://i.ytimg.com/vi/IvLis9I3dVU/hq720.jpg"
+            },
+            {
+                "title": "මුළු ඇගම එකම විදියට පැහැපත් කරන රහසක් - Beetroot juice for skin glowing | Glutathaione (Sinhala)",
+                "url": "https://youtube.com/watch?v=44hHrBgg_pk",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/44hHrBgg_pk/hq720.jpg"
+            },
+            {
+                "title": "amazing health benefits of carrot and beet juice sinhala | කැරට් හා බීට් පානයේ විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=2y99IH11ifE",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/2y99IH11ifE/hq720.jpg"
+            },
+            {
+                "title": "📌 Beetroot 100g බීට්රූට් රුධිරයේ සීනි වලට බලපාන්නේද? දියවැඩියාවට හොඳ හෝ නරක. Effect on blood sugar?",
+                "url": "https://youtube.com/watch?v=wy-gz59A6zQ",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/wy-gz59A6zQ/hq720.jpg"
+            },
+            {
+                "title": "බීට්රූට් ජූස් පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 5ක් | Health Benefits of Beetroot Juice",
+                "url": "https://youtube.com/watch?v=QwyBEY_85UI",
+                "duration": "9:45",
+                "thumbnail": "https://i.ytimg.com/vi/QwyBEY_85UI/hq720.jpg"
+            },
+            {
+                "title": "බීට්රූට් සමඟ රුධිරයේ සීනි පරීක්ෂණය/Is Beetroot Good For Diabetes?.!benefits of beets!",
+                "url": "https://youtube.com/watch?v=CSUpnLO-IfA",
+                "duration": "9:51",
+                "thumbnail": "https://i.ytimg.com/vi/CSUpnLO-IfA/hqdefault.jpg"
+            },
+            {
+                "title": "Beetroot Benefits /Beetroot curry sinhala/Beetroot cake/beetroot juice/බීට් රූට් වලින් ලස්සන වෙන්න",
+                "url": "https://youtube.com/watch?v=04uSLGZuqwk",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/04uSLGZuqwk/hqdefault.jpg"
+            },
+            {
+                "title": "🇱🇰 Healthy and tasty Beet Root recipe Beets recipe   by Kusala's Simple Life",
+                "url": "https://youtube.com/watch?v=pTAeAyC7svw",
+                "duration": "5:05",
+                "thumbnail": "https://i.ytimg.com/vi/pTAeAyC7svw/hq720.jpg"
+            },
+            {
+                "title": "how to make delicious healthy beet root drink..බීට් වලින් රසවත් බීමක්.",
+                "url": "https://youtube.com/watch?v=2LkGqnsFZW0",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/2LkGqnsFZW0/hq720.jpg"
+            },
+            {
+                "title": "මේ ලෙඩ තියෙනවනම් බීට්රූට් කන්න එපා | මාරාන්තිකයි | Facts About Beetroot | Gagana Featured",
+                "url": "https://youtube.com/watch?v=OVY7_L5DglA",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/OVY7_L5DglA/frame0.jpg"
+            },
+            {
+                "title": "බීට් සයිඩ් - BEET CIDER  | Anyone Can Cook",
+                "url": "https://youtube.com/watch?v=xWn8duwtYvg",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/xWn8duwtYvg/hq720.jpg"
+            },
+            {
+                "title": "\" වස විස නැතුව \" ලේසියෙන්ම වවන්න පුළුවන් - රතු අල / Organic Beetroot - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=g8peBO08vt0",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/g8peBO08vt0/hq720.jpg"
+            },
+            {
+                "title": "බීට්රූට් පානය | Beetroot Juice ep 131",
+                "url": "https://youtube.com/watch?v=L_dRXZsTSno",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/L_dRXZsTSno/hq720.jpg"
+            },
+            {
+                "title": "උදේට හිස්බඩ බීට්රූට් ජූස් බිව්වොත් ඇඟ ඇතුළේ වෙන විස්මිත දේ! | Benefits of Beetroot Juice (Sinhala)",
+                "url": "https://youtube.com/watch?v=WDlCbaPwi4U",
+                "duration": "5:16",
+                "thumbnail": "https://i.ytimg.com/vi/WDlCbaPwi4U/hq720.jpg"
+            },
+            {
+                "title": "නිරෝගී, ශක්තිමත් අක්මාවක් සඳහා \"බීට්රූට්\" / Beetroot For A Healthy, Strong Liver - සුව පෝෂණය",
+                "url": "https://youtube.com/watch?v=fXnKH9mjgPA",
+                "duration": "2:46",
+                "thumbnail": "https://i.ytimg.com/vi/fXnKH9mjgPA/hq720.jpg"
+            },
+            {
+                "title": "මේ ලෙඩ තියෙනවනම් බීට්රූට් කන්න එපා | මාරාන්තිකයි | Facts About Beetroot | Gagana Featured",
+                "url": "https://youtube.com/watch?v=V8f5Et39eqo",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/V8f5Et39eqo/frame0.jpg"
+            },
+            {
+                "title": "The Benefits of Eating Beets – Dr. Berg",
+                "url": "https://youtube.com/watch?v=k3qvdnpSY5I",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/k3qvdnpSY5I/hq720.jpg"
+            },
+            {
+                "title": "Beet Juice: Health Benefits & Risks",
+                "url": "https://youtube.com/watch?v=yLzDB8r_g8M",
+                "duration": "25:18",
+                "thumbnail": "https://i.ytimg.com/vi/yLzDB8r_g8M/hq720.jpg"
+            },
+            {
+                "title": "7 Amazing Health Benefits of Beetroot",
+                "url": "https://youtube.com/watch?v=2RqYSiQMfuE",
+                "duration": "9:42",
+                "thumbnail": "https://i.ytimg.com/vi/2RqYSiQMfuE/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Beetroots | Why Is Beetroot Beneficial For Us? | The Foodie",
+                "url": "https://youtube.com/watch?v=gXG2kVdgrtI",
+                "duration": "3:48",
+                "thumbnail": "https://i.ytimg.com/vi/gXG2kVdgrtI/hq720.jpg"
+            },
+            {
+                "title": "BEET HEALTH BENEFITS AND PROPERTIES - 8 Incredible Changes for Health, Beauty, Longevity and More",
+                "url": "https://youtube.com/watch?v=vLwOBpDsvvU",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/vLwOBpDsvvU/hq720.jpg"
+            },
+            {
+                "title": "9 POWERFUL Things That Happen To Your Body When You Drink Beet Juice",
+                "url": "https://youtube.com/watch?v=5cDWfLeCS5s",
+                "duration": "8:23",
+                "thumbnail": "https://i.ytimg.com/vi/5cDWfLeCS5s/hq720.jpg"
+            },
+            {
+                "title": "What Happens To Your Body When Start Eating Beetroot",
+                "url": "https://youtube.com/watch?v=_to4asI0wvI",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/_to4asI0wvI/hq720.jpg"
+            },
+            {
+                "title": "Beet Leaves Uses: Unveiling the Hidden Health Benefits Backed by Science and Real Life Stories!",
+                "url": "https://youtube.com/watch?v=67pLr0fz9Ko",
+                "duration": "15:30",
+                "thumbnail": "https://i.ytimg.com/vi/67pLr0fz9Ko/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits of Beets | Benefits of Eating Beets for your Health",
+                "url": "https://youtube.com/watch?v=kXLppBhRCDo",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/kXLppBhRCDo/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Eating Beets – Dr. Berg",
+                "url": "https://youtube.com/watch?v=-bfLKy7M-Pc",
+                "duration": "2:45",
+                "thumbnail": "https://i.ytimg.com/vi/-bfLKy7M-Pc/frame0.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Retention",
-      "sinhala": "මුත්‍රා රඳා පැවතීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Wound Dressing",
-      "sinhala": "තුවාල සත්කාරය (වෙලීම සඳහා)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Digestive Disorders",
-      "sinhala": "පූරක/ජීරණ පද්ධතියේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysmenorrhea",
-      "sinhala": "වේදනාකාරී ඔසප් වීම (කෂ්ටාර්තවය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Amenorrhea",
-      "sinhala": "ඔසප් වීම නතර වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Hepatosplenomegaly",
-      "sinhala": "අක්මාව සහ ප්ලීහාව එකවර විශාල වීම (යකෘත්-ප්ලීහෝදරය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Debility",
-      "sinhala": "ශාරීරික දුර්වලතාවය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Leaves",
-    "Seeds"
-  ],
-  "images": [
-    {
-      "image_id": "1993",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/cc146TzF/plant00295-01993.jpg"
-    },
-    {
-      "image_id": "1994",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/6RZ3dsRd/plant00295-01994.jpg"
-    },
-    {
-      "image_id": "1995",
-      "caption": "Tap root=Beatroot (PMR)",
-      "url": "https://i.ibb.co/j92CzVJX/plant00295-01995.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

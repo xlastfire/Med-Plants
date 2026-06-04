@@ -1,25 +1,666 @@
 {
-  "scientificName": "Limnophila repens (Benth.) Benth.",
-  "synonyms": [
-    "Achimenes repens Benth.",
-    "Ambulia conferta (Benth.) Baill. ex Wettst.",
-    "Bonnaya punctata G.Don",
-    "Diceros stolonifer Blanco",
-    "Gratiola lucida B.Heyne ex Wall.",
-    "Limnophila conferta Benth.",
-    "Limnophila dubia Bonati",
-    "Limnophila sessilis (Benth.) C.E.C.Fisch.",
-    "Stemodia repens Benth.",
-    "Stemodia sessilis Benth.",
-    "Stemodia tenuiflora Benth.",
-    "Terebinthina punctata Kuntze"
-  ],
-  "familyName": "PLANTAGINACEAE",
-  "englishNames": [],
-  "sinhalaName": "Amba wila (අඹවිල)",
-  "description": "",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Limnophila repens (Benth.) Benth.",
+    "synonyms": [
+        "Achimenes repens Benth.",
+        "Ambulia conferta (Benth.) Baill. ex Wettst.",
+        "Bonnaya punctata G.Don",
+        "Diceros stolonifer Blanco",
+        "Gratiola lucida B.Heyne ex Wall.",
+        "Limnophila conferta Benth.",
+        "Limnophila dubia Bonati",
+        "Limnophila sessilis (Benth.) C.E.C.Fisch.",
+        "Stemodia repens Benth.",
+        "Stemodia sessilis Benth.",
+        "Stemodia tenuiflora Benth.",
+        "Terebinthina punctata Kuntze"
+    ],
+    "familyName": "PLANTAGINACEAE",
+    "englishNames": [],
+    "sinhalaName": "Amba wila (අඹවිල)",
+    "description": "",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "",
+            "caption": "",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQFtvhglEVxjnqRyb1MKfsyLYFPhS1_Z6tA&s"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඇඹිලිපිටිය ඇඟලුම් කම්හල් ගින්නේ නවතම දර්ශන| Ada Derana",
+                "url": "https://youtube.com/watch?v=Wxl1I4O5m9w",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/Wxl1I4O5m9w/hq720_2.jpg"
+            },
+            {
+                "title": "ඇඹිලිපිටියේ ඇඟලුම් කම්හලක හදිසියේම ඇතිවූ මහ ගින්න",
+                "url": "https://youtube.com/watch?v=lEu7bcBBNLg",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/lEu7bcBBNLg/hq720_2.jpg"
+            },
+            {
+                "title": "ඇඹිලිපිටිය ඇඟලුම් කම්හලක ගින්නකින් 22ක් රෝහලේ... කම්හලේ පැත්තක්ම අළු | Ada Derana",
+                "url": "https://youtube.com/watch?v=hug-v0FjShk",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/hug-v0FjShk/hq720.jpg"
+            },
+            {
+                "title": "ඇඹිලිපිටිය රත් කළ ඇඟලුම් කම්හලේ ගින්න - 22ක් රෝහලට | Ada Derana",
+                "url": "https://youtube.com/watch?v=sgK79oTDHYw",
+                "duration": "1:56",
+                "thumbnail": "https://i.ytimg.com/vi/sgK79oTDHYw/hq720.jpg"
+            },
+            {
+                "title": "ඇඹිලිපිටිය නගරයේ ඇඟලුම් කම්හලක ගින්නක්සේවකයන් කඩිනමින් මුදාගෙන - Hiru News",
+                "url": "https://youtube.com/watch?v=9wnwTzTT2aY",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/9wnwTzTT2aY/hq720.jpg"
+            },
+            {
+                "title": "ඇඹිලිපිටියේ ඇඟලුම් කම්හල් ගින්නෙන් 22 ක් රෝහලේ",
+                "url": "https://youtube.com/watch?v=_hCOGDy_R4A",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/_hCOGDy_R4A/hq720.jpg"
+            },
+            {
+                "title": "ඇඹිලිපිටිය ඇඟලුම් කම්හල් ගින්නේ නවතම දර්ශන | Ada Derana",
+                "url": "https://youtube.com/watch?v=Wp_i_ax28Qk",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Wp_i_ax28Qk/hq720.jpg"
+            },
+            {
+                "title": "කාලය මැවූ වෙනසක අරුමේ.. balapokune wimaladhamma බලපොකුණේ විමලධම්ම, අමාසුව අරණ  🌻💚🌻#youtubeshorts",
+                "url": "https://youtube.com/watch?v=O8HLfgoTkhc",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/O8HLfgoTkhc/hq720.jpg"
+            },
+            {
+                "title": "ඇඹිලිපිටියේ ඇඟලුම් කම්හලක හදිසියේම ඇතිවූ මහ ගින්න - ප්‍රදේශයම කළු දුමෙන් වැසී ගිහින්",
+                "url": "https://youtube.com/watch?v=zopT8A0wuV0",
+                "duration": "1:32",
+                "thumbnail": "https://i.ytimg.com/vi/zopT8A0wuV0/hq720.jpg"
+            },
+            {
+                "title": "නැට්ට නැති අලියෙක් බලමු #srilanka #elephant #animals",
+                "url": "https://youtube.com/watch?v=6aidxh1pI5o",
+                "duration": "0:13",
+                "thumbnail": "https://i.ytimg.com/vi/6aidxh1pI5o/hq720_2.jpg"
+            },
+            {
+                "title": "අඹ මල් කළුවීම වළක්වා ගනිමු #farming #agriculture #fruit",
+                "url": "https://youtube.com/watch?v=pbzq4qbpPsM",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/pbzq4qbpPsM/hq720_2.jpg"
+            },
+            {
+                "title": "ලෙබනන ප්‍රහාර නතර නොකලොත් ඉරානය සාකච්ජාවෙන් ඉවතට",
+                "url": "https://youtube.com/watch?v=vaD236qV1YU",
+                "duration": "3:27",
+                "thumbnail": "https://i.ytimg.com/vi/vaD236qV1YU/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවේ බියුටි පැජන්ට් ක්ෂේත්‍රය නව මාවතකට ඇවිල්ලා",
+                "url": "https://youtube.com/watch?v=_Zr-cpwBCVE",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/_Zr-cpwBCVE/hq720_2.jpg"
+            },
+            {
+                "title": "Thambalagama Doovili Ella 🌿💦 🇱🇰 | තඹලගම දූවිලි ඇල්ල...",
+                "url": "https://youtube.com/watch?v=rXXhO1BkOnY",
+                "duration": "0:17",
+                "thumbnail": "https://i.ytimg.com/vi/rXXhO1BkOnY/hq720_2.jpg"
+            },
+            {
+                "title": "බදුල්ලේ මන්ත්‍රී අම්බිකා පාසලක වැසිකිලියකට මුල්ගල තියයි - දරුවෝ බෑන්ඩ් ගහලා පිළිගනියි !",
+                "url": "https://youtube.com/watch?v=tag840mzt3U",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/tag840mzt3U/hq720.jpg"
+            },
+            {
+                "title": "Reverb with Agith Perera | රිවබ් කොල්ලෝ ටික අජිත් පෙරේරාගේ  මෙඩ්ලි එකට දුන්න පට්ටම බැකින් එක",
+                "url": "https://youtube.com/watch?v=eUvJpysJu_c",
+                "duration": "7:34",
+                "thumbnail": "https://i.ytimg.com/vi/eUvJpysJu_c/hq720.jpg"
+            },
+            {
+                "title": "කොහොමද අම්බිකා ගේ රංගනය! - මේකි දැං වැසිකිළියේ බාස්!",
+                "url": "https://youtube.com/watch?v=2JGqHY4Hs5A",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/2JGqHY4Hs5A/hq720.jpg"
+            },
+            {
+                "title": "අසිරිමත් අම්බුළුවාවේ සම්බුධාලෝක වෙසක් කලාපය #2026 #motivation #meditation #quotes",
+                "url": "https://youtube.com/watch?v=Q0vbhQktqB4",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/Q0vbhQktqB4/hq720.jpg"
+            },
+            {
+                "title": "‛‛අපි ආවේ මේවා අහන්න නෙවෙයි’’මෙල්බන් ලාංකිකයන්ගෙන් විජිත හේරත්ට චෝදනා #auslankatv #australia #news",
+                "url": "https://youtube.com/watch?v=dgPExFl6JG4",
+                "duration": "22:27",
+                "thumbnail": "https://i.ytimg.com/vi/dgPExFl6JG4/hq720.jpg"
+            },
+            {
+                "title": "ලක්ෂ 45 ට කුරුණෑගලින් ඉඩමක්😱#kurunegala #landforsale #aduwataidam #බැංකුණයපහසුකම්",
+                "url": "https://youtube.com/watch?v=BzLzQ4L9um4",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/BzLzQ4L9um4/hq720.jpg"
+            },
+            {
+                "title": "මට ගැහුවොත් 1 vs 4 | ROAD TO 20k",
+                "url": "https://youtube.com/watch?v=jsZJIsub6CA",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/jsZJIsub6CA/hq720.jpg"
+            },
+            {
+                "title": "බීලා ඉන්නේ හාමුදුරුවනේ හොදටම බීලා ඉන්නේබලන්න මේ යක්කු බීලා එලවලා පාර කොච්චර බ්ලොක් වුනාද කියලා",
+                "url": "https://youtube.com/watch?v=ssuoKVWcbjs",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/ssuoKVWcbjs/hq720.jpg"
+            },
+            {
+                "title": "අප්පටසිරි 😲 බැලුම්ගල පුවක් ගොඩ බලන්නකූ #ditway #shortsfeed #trending #viralvideo #shortvideo #ditwah",
+                "url": "https://youtube.com/watch?v=LiEiRdcIG5Q",
+                "duration": "0:11",
+                "thumbnail": "https://i.ytimg.com/vi/LiEiRdcIG5Q/hq720_2.jpg"
+            },
+            {
+                "title": "ඇඹරැල්ලා වල ගුණ|Embarella",
+                "url": "https://youtube.com/watch?v=CDjfNHbikHA",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/CDjfNHbikHA/hqdefault.jpg"
+            },
+            {
+                "title": "ඇඹරැල්ලාවල විශ්මිත ගුණ මෙන්න : Organic Foods: 5 benefits of Ebarella",
+                "url": "https://youtube.com/watch?v=toiqEdy9GGE",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/toiqEdy9GGE/hq720.jpg"
+            },
+            {
+                "title": "ඇඹරැල්ලාවල විශ්මිත ගුණ මෙන්න : Organic Foods: 5 benefits of Ebarella",
+                "url": "https://youtube.com/watch?v=MJFDb0F-OTU",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/MJFDb0F-OTU/hq720.jpg"
+            },
+            {
+                "title": "ඇඹරැල්ලාවල විශ්මිත ගුණ මෙන්න : Organic Foods: 5 benefits of Ebarella 2019",
+                "url": "https://youtube.com/watch?v=WeZRzSmQisE",
+                "duration": "1:41",
+                "thumbnail": "https://i.ytimg.com/vi/WeZRzSmQisE/hq720.jpg"
+            },
+            {
+                "title": "ඇඹරැල්ල ගෙඩියක ඇති විශ්මිත ගුණ  /Amazing Properties Of Ambarella Fruit",
+                "url": "https://youtube.com/watch?v=_3OU1zKoz4k",
+                "duration": "7:15",
+                "thumbnail": "https://i.ytimg.com/vi/_3OU1zKoz4k/hq720.jpg"
+            },
+            {
+                "title": "අඹ වල විශ්මිත ගුණ - Amazing properties of mangoes",
+                "url": "https://youtube.com/watch?v=NI175lZx2M0",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/NI175lZx2M0/hq720.jpg"
+            },
+            {
+                "title": "ඇඹරැල්ලා | ඇඹරැල්ලා ශාකයේ ගුණ අගුණ | Ambarella | Health Benifits of Ambarella Fruit and Leaves",
+                "url": "https://youtube.com/watch?v=9Q6wUM4tajc",
+                "duration": "5:27",
+                "thumbnail": "https://i.ytimg.com/vi/9Q6wUM4tajc/hqdefault.jpg"
+            },
+            {
+                "title": "ගුණ දැනගෙන ඇඹරැල්ලා කමු benifits of ebarella #fruitbenefits #amazing #srilanka #youtubevideo",
+                "url": "https://youtube.com/watch?v=l1Qr9L7OQ7w",
+                "duration": "1:18",
+                "thumbnail": "https://i.ytimg.com/vi/l1Qr9L7OQ7w/hqdefault.jpg"
+            },
+            {
+                "title": "අඹ වල තියෙන හිතාගන්න බැරි ගුණ #ceylongreenmarket",
+                "url": "https://youtube.com/watch?v=CvJHtjAVPQU",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/CvJHtjAVPQU/hq720.jpg"
+            },
+            {
+                "title": "අබ වල ඇති විශ්මිත ගුණ - Amazing properties of mustard spices / Health Vedeo",
+                "url": "https://youtube.com/watch?v=Vakszg_Hzjg",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/Vakszg_Hzjg/hq720.jpg"
+            },
+            {
+                "title": "ඇඹුල් ඇඹිලිය | මේකේ ගුණ දන්නවනම් හොයාගෙන හරි කනවා | Ambul Ambiliya Plant",
+                "url": "https://youtube.com/watch?v=C5iqUDUFyLQ",
+                "duration": "4:18",
+                "thumbnail": "https://i.ytimg.com/vi/C5iqUDUFyLQ/hq720.jpg"
+            },
+            {
+                "title": "ලුණු කැඳ වල විස්මිත ගුණ | ඇලුමිනියම් භාජන වල ආහාර පිසීමෙන් වලකින්න​#sinhala #srilanka #sinhalanews",
+                "url": "https://youtube.com/watch?v=EtnZCq_0B9g",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/EtnZCq_0B9g/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම ආමන්ඩ් 4ක් කෑවොත් ශරීරයට සිදුවන දෙවල් 8  | What Happens If You Eat 4 Almonds A Day",
+                "url": "https://youtube.com/watch?v=3O8KqSJUuKA",
+                "duration": "10:26",
+                "thumbnail": "https://i.ytimg.com/vi/3O8KqSJUuKA/hq720.jpg"
+            },
+            {
+                "title": "කජු කනවා නම් මේ දේවල් අනිවාර්යයෙන්ම දැනගන්න | Why You Should Eat Cashews - @behethbydrnamal",
+                "url": "https://youtube.com/watch?v=EXVHczl5JKc",
+                "duration": "6:04",
+                "thumbnail": "https://i.ytimg.com/vi/EXVHczl5JKc/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ආමන්ඩ් ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදු වෙන විශ්මිත දේවල් 12ක් | 12 Health Benefits of Almonds",
+                "url": "https://youtube.com/watch?v=Fd8_EKAo9QU",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/Fd8_EKAo9QU/hq720.jpg"
+            },
+            {
+                "title": "🔴 Every Morning | ආයුර්වේද වෛද්‍ය රංජිත් අබේවර්ධන  | 2026.06.02",
+                "url": "https://youtube.com/watch?v=l2UiYeknTTo",
+                "duration": "26:46",
+                "thumbnail": "https://i.ytimg.com/vi/l2UiYeknTTo/hq720.jpg"
+            },
+            {
+                "title": "👅ස්වභාවික වර්ණක භාවිතයේදී හැමෝම වරද්දන තැන් 4ක්! | 4 Mistakes to Avoid with Natural Food Coloring 🎨🌱",
+                "url": "https://youtube.com/watch?v=IOpwvzQWIP8",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/IOpwvzQWIP8/hq720_2.jpg"
+            },
+            {
+                "title": "ඇඟපතේ වේදනාවට ආයුර්වේදයෙන් පිළියම්, අභ්‍යංග ප්‍රතිකාරයේ රහස්!",
+                "url": "https://youtube.com/watch?v=qWC6Zn40Sl8",
+                "duration": "21:55",
+                "thumbnail": "https://i.ytimg.com/vi/qWC6Zn40Sl8/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ වරම අරගෙන රෝගීන් සුවපත් කරන්න/asvidha astrology",
+                "url": "https://youtube.com/watch?v=-C3faGUEAgI",
+                "duration": "20:44",
+                "thumbnail": "https://i.ytimg.com/vi/-C3faGUEAgI/hq720.jpg"
+            },
+            {
+                "title": "srilankan healthy foods අපිට අගේ නැති වුණාට විදේශිකයෝ හොයන Careya arborea 🌿",
+                "url": "https://youtube.com/watch?v=fxYyVouLgHk",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/fxYyVouLgHk/hq720.jpg"
+            },
+            {
+                "title": "ජනතාවට වස කන්න දීල බලා සිටින සෞඛ්‍ය අමාත්‍යාංශය.......",
+                "url": "https://youtube.com/watch?v=IyoJFo-BOuE",
+                "duration": "13:31",
+                "thumbnail": "https://i.ytimg.com/vi/IyoJFo-BOuE/hq720.jpg"
+            },
+            {
+                "title": "ඇට්ටමුරා (ඇටඹුරු) දේශීය හෙළ වෙදකමේ මහාර්ඝ ඔසුව - #Ettamura #Medicinal #Plant",
+                "url": "https://youtube.com/watch?v=R-O8lYlimRQ",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/R-O8lYlimRQ/hq720_2.jpg"
+            },
+            {
+                "title": "අයුර්වේද කංසා ගෙනත් බෙහෙත් හදන්නේ බල්ලන්ටද?",
+                "url": "https://youtube.com/watch?v=z5tQyzX1Bvs",
+                "duration": "1:28",
+                "thumbnail": "https://i.ytimg.com/vi/z5tQyzX1Bvs/hq720_2.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත - part 2🙏",
+                "url": "https://youtube.com/watch?v=IdQIkJpM5Ns",
+                "duration": "25:31",
+                "thumbnail": "https://i.ytimg.com/vi/IdQIkJpM5Ns/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "වයසට යාම ප්‍රමාද කරන, ඇගේ සරුබව මෙන්ම බලය ජවය වඩන ඇගේ විෂ නසන අග්‍රගන්‍ය ඖෂධය ශිලාජතු",
+                "url": "https://youtube.com/watch?v=r49tjtt3ztQ",
+                "duration": "13:28",
+                "thumbnail": "https://i.ytimg.com/vi/r49tjtt3ztQ/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිය වඩවන දිව්‍යමය ඖෂධය ||The divine potion that increases strength #Amukkara",
+                "url": "https://youtube.com/watch?v=JNtQ2Yhl1iM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/JNtQ2Yhl1iM/hqdefault.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "​සොබාදහමේ අසිරිමත් ඔසුව: \"ඉරමුසු\" (Indian Sarsaparilla) ඖෂධීය ගුණ | Raveendra Osu Sewana #Iramusu",
+                "url": "https://youtube.com/watch?v=KolAsz0mNZU",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/KolAsz0mNZU/hq720.jpg"
+            },
+            {
+                "title": "ඇඳුම (Eczema) රෝගයට ආයුර්වේද ප්‍රතිකාර | ස්වභාවිකව සුවය ලබා ගන්නේ කෙසේද?",
+                "url": "https://youtube.com/watch?v=exBebVlCuzs",
+                "duration": "10:34",
+                "thumbnail": "https://i.ytimg.com/vi/exBebVlCuzs/hq720.jpg"
+            },
+            {
+                "title": "මේ කෑම හීනෙකින්වත් එකට කන්න එපා | පොතු කබර සහ පිළිකා සුව කරන හෙළ වෙදකමේ රහස්",
+                "url": "https://youtube.com/watch?v=Bb0gEY7pN-U",
+                "duration": "24:16",
+                "thumbnail": "https://i.ytimg.com/vi/Bb0gEY7pN-U/hq720.jpg"
+            },
+            {
+                "title": "ගැස්ට්‍රයිටිස් කියන්නේ මානසික ලෙඩක්. ඒකට හොදම බෙහෙත මෙන්න | Isiwara_Adawiya | Hela_herbals",
+                "url": "https://youtube.com/watch?v=tPZ3TzrGmGA",
+                "duration": "15:52",
+                "thumbnail": "https://i.ytimg.com/vi/tPZ3TzrGmGA/hq720.jpg"
+            },
+            {
+                "title": "ස්වසන රෝග රැසකට ගුණ දෙන එළබටු #nature #health #tips #healthylifestyle #viral #shortvideo",
+                "url": "https://youtube.com/watch?v=bgdiOKU6Wkw",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/bgdiOKU6Wkw/hq720_2.jpg"
+            },
+            {
+                "title": "අඹ ආහාරයට ගැනීමෙන් ලැබෙන ගුණ I Dr. Swarna Hapuarachchi I Ayurweda Prathikara I 2021.06.28",
+                "url": "https://youtube.com/watch?v=uDBazfHv8TE",
+                "duration": "51:26",
+                "thumbnail": "https://i.ytimg.com/vi/uDBazfHv8TE/hq720.jpg"
+            },
+            {
+                "title": "අඹ දියවැඩියාවට හොදයි කියල දන්නවද? | අඹ ගැන මේ දේවල් ඔයත් දැනගෙන හිටියද බලන්න | #biokuppiya | #health",
+                "url": "https://youtube.com/watch?v=SPRkf3K0j7Y",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/SPRkf3K0j7Y/hq720.jpg"
+            },
+            {
+                "title": "අඹ කන වැරදි ක්‍රම සහ හරි ක්‍රම  | Best Way to eat Mango By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=FZGZQVPOCVA",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/FZGZQVPOCVA/hq720.jpg"
+            },
+            {
+                "title": "රස අඹ වල ඔබ නොදත් ගුණ",
+                "url": "https://youtube.com/watch?v=gkIZo3CMwMM",
+                "duration": "1:29",
+                "thumbnail": "https://i.ytimg.com/vi/gkIZo3CMwMM/hq720.jpg"
+            },
+            {
+                "title": "අබ ගැන ඇත්ත කතාව මෙන්න : Amazing story of mustard benefits",
+                "url": "https://youtube.com/watch?v=p8_iDUBy3Wo",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/p8_iDUBy3Wo/hq720.jpg"
+            },
+            {
+                "title": "අඹ සමඟ රුධිර සීනි පරීක්ෂණය | Blood Sugar Test with Mango | Are Mangoes Good For Diabetes",
+                "url": "https://youtube.com/watch?v=XDg0AI__ijA",
+                "duration": "11:50",
+                "thumbnail": "https://i.ytimg.com/vi/XDg0AI__ijA/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව ඇතුලු රෝග රැසකට සුව ගෙනෙන අඹ කොළ සත්කාරය | Treated with  Mango Leaves | Mango Liaves",
+                "url": "https://youtube.com/watch?v=7RhHAKtjSyU",
+                "duration": "4:42",
+                "thumbnail": "https://i.ytimg.com/vi/7RhHAKtjSyU/hqdefault.jpg"
+            },
+            {
+                "title": "අඹ ගහේ මල් කළු වෙලා හැලෙනවද ? මෙන්න විසඳුම",
+                "url": "https://youtube.com/watch?v=AQAMgaNjHro",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/AQAMgaNjHro/hqdefault.jpg"
+            },
+            {
+                "title": "ඇඹරැල්ලා/ambarella වල ඇති විස්මිත ඖෂධීය ගුණ😱😱👍",
+                "url": "https://youtube.com/watch?v=eaKrcAZPwyg",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/eaKrcAZPwyg/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සුව කරන අඹමල් පානය ඇතුළු අඹ ගසේ සම්පුර්ණ විස්තරේ | Medical plant of mango tree🌿",
+                "url": "https://youtube.com/watch?v=a6jGTw5HVNw",
+                "duration": "8:05",
+                "thumbnail": "https://i.ytimg.com/vi/a6jGTw5HVNw/hqdefault.jpg"
+            },
+            {
+                "title": "අඹ පත්‍රයේ ඖෂධ ගුණය හා ශක්තිය ගැන දැනගනිමු 🫒🪴🫒🪴🫒",
+                "url": "https://youtube.com/watch?v=Nhg7Lbw-3MU",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/Nhg7Lbw-3MU/hq720.jpg"
+            },
+            {
+                "title": "සම ලස්සන කරන විටමින් C බහුල ස්වාභාවික අඹ පානය#AMAZING MANGO JUICE,අඹ බීම",
+                "url": "https://youtube.com/watch?v=PtD74_GEiLU",
+                "duration": "7:03",
+                "thumbnail": "https://i.ytimg.com/vi/PtD74_GEiLU/hqdefault.jpg"
+            },
+            {
+                "title": "අඹ පැලයක් හිටවන්න කලින් අනිවාරයෙන් බලන්න | Mango Varieties | Ceylon Agri | Episode 173",
+                "url": "https://youtube.com/watch?v=tpNEnZ2v6tQ",
+                "duration": "14:42",
+                "thumbnail": "https://i.ytimg.com/vi/tpNEnZ2v6tQ/hqdefault.jpg"
+            },
+            {
+                "title": "අඹ - mango",
+                "url": "https://youtube.com/watch?v=HI7rkHeDx5c",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/HI7rkHeDx5c/hq720.jpg"
+            },
+            {
+                "title": "අබ වල ඇති විශ්මිත ගුණ - Amazing properties of mustard spices / Health Vedeo",
+                "url": "https://youtube.com/watch?v=a326NzqYcfA",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/a326NzqYcfA/frame0.jpg"
+            },
+            {
+                "title": "ගෙවත්තකින් ලැබෙන ප්‍රයෝජන(@ALAgriculturalScience)",
+                "url": "https://youtube.com/watch?v=aQjeyZXBDPs",
+                "duration": "23:56",
+                "thumbnail": "https://i.ytimg.com/vi/aQjeyZXBDPs/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "Uses of acids (අම්ල කීපයක ප්‍රයෝජන )",
+                "url": "https://youtube.com/watch?v=QWVrbjH9hJc",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/QWVrbjH9hJc/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "ඇඹරැල්ල වල තියෙන ගුණ - æm̆barælla valatiyena guṇa Anamanmamna tv 2025",
+                "url": "https://youtube.com/watch?v=MtU7aZ-pJx4",
+                "duration": "1:55",
+                "thumbnail": "https://i.ytimg.com/vi/MtU7aZ-pJx4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ඇඹරැල්ලා | ඇඹරැල්ලා වල ඖෂධීය ගුණ | Health Benefits Of June Plum",
+                "url": "https://youtube.com/watch?v=vmO5IqvJySY",
+                "duration": "8:12",
+                "thumbnail": "https://i.ytimg.com/vi/vmO5IqvJySY/hq720.jpg"
+            },
+            {
+                "title": "ADDICTION | ඇබ්බැහි වීම් පාලනය කරන හැටි සරල ක්‍රම 2ක්...| අහස් ගව්ව Ahas Gawwa",
+                "url": "https://youtube.com/watch?v=iEuM-MuUCgY",
+                "duration": "9:16",
+                "thumbnail": "https://i.ytimg.com/vi/iEuM-MuUCgY/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "වී වගාවේ අනුපිළිවෙළ හඳුනාගනිමු | 2 ශ්‍රේණිය | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=C7WfhHD80Dw",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/C7WfhHD80Dw/hq720.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "අලිගැට පේර මගින් ලැබෙන සෞඛ්‍යමය වාසි 10ක් | Health Benefits of Avocado | Aligata Pera Wala Guna",
+                "url": "https://youtube.com/watch?v=HyAZRpjAUsU",
+                "duration": "14:41",
+                "thumbnail": "https://i.ytimg.com/vi/HyAZRpjAUsU/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "FIVE HEALTH BENEFITS OF BAOBAB",
+                "url": "https://youtube.com/watch?v=aVPeWOodSlw",
+                "duration": "4:51",
+                "thumbnail": "https://i.ytimg.com/vi/aVPeWOodSlw/hq720.jpg"
+            },
+            {
+                "title": "6 Amazing Benefits of Bay Leaf! | What Do Bay Leaves do to Your Body?",
+                "url": "https://youtube.com/watch?v=hIZjQv8OCCs",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/hIZjQv8OCCs/hq720.jpg"
+            },
+            {
+                "title": "Amazing Health Benefits of Basella or Alugbati, Malabar Spinach, Indian Spinach & Vine Spinach",
+                "url": "https://youtube.com/watch?v=Xmbfs8T20_o",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/Xmbfs8T20_o/hq720.jpg"
+            },
+            {
+                "title": "Top Benefits of Bael fruit tree leaf - Indigenous Medicinal Recipes",
+                "url": "https://youtube.com/watch?v=PbTO7MO-LBE",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/PbTO7MO-LBE/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Amaranth Leaves",
+                "url": "https://youtube.com/watch?v=eCx07RJAjY0",
+                "duration": "12:11",
+                "thumbnail": "https://i.ytimg.com/vi/eCx07RJAjY0/hqdefault.jpg"
+            },
+            {
+                "title": "අඹ වල විශ්මිත ගුණ - Amazing properties of mangoes",
+                "url": "https://youtube.com/watch?v=ZWqRN_FHxYk",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/ZWqRN_FHxYk/frame0.jpg"
+            },
+            {
+                "title": "වැල්මී වල අද්භූත ගුණ",
+                "url": "https://youtube.com/watch?v=KtjLcFq9lcQ",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/KtjLcFq9lcQ/hq720.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "විශේෂ හාස්කම් දේවමෙහෙය / SPECIAL HEALING SERVICE 2026.06.04",
+                "url": "https://youtube.com/watch?v=AAAMrPYx1VI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/AAAMrPYx1VI/hq720.jpg"
+            },
+            {
+                "title": "Amla for Hair Skin & Immunity | The Ultimate Ayurvedic Remedy",
+                "url": "https://youtube.com/watch?v=_zuXDI4PSVs",
+                "duration": "6:46",
+                "thumbnail": "https://i.ytimg.com/vi/_zuXDI4PSVs/hq720_custom_1.jpg"
+            },
+            {
+                "title": "ඔබේ ගෙවත්තේ අඹ කීඩෑ හානිය වලක්වා ගනිමු",
+                "url": "https://youtube.com/watch?v=RSSFEy2bk24",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/RSSFEy2bk24/hqdefault.jpg"
+            },
+            {
+                "title": "අබ වල ඇති විශ්මිත ගුණ - Amazing properties of mustard spices / Health Vedeo",
+                "url": "https://youtube.com/watch?v=K_AYpZFyWWY",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/K_AYpZFyWWY/frame0.jpg"
+            },
+            {
+                "title": "ඉදුණු ඇඹරැල්ලා ගෙඩ් වල ලිංගික ශක්තිය වැඩ් කරලීමේ ගුණයක් ඇත | Ambarella",
+                "url": "https://youtube.com/watch?v=aYS8zFq4XiM",
+                "duration": "3:46",
+                "thumbnail": "https://i.ytimg.com/vi/aYS8zFq4XiM/hqdefault.jpg"
+            },
+            {
+                "title": "ඇත්තටම අඹ කියන තරම් ගුණයිද? මෙන්න ඇත්ත. : Is mango good to eat? (2018)",
+                "url": "https://youtube.com/watch?v=9kqJp-r5CSY",
+                "duration": "1:52",
+                "thumbnail": "https://i.ytimg.com/vi/9kqJp-r5CSY/hq720.jpg"
+            },
+            {
+                "title": "හිතා ගන්න බැරි ලෙඩ ගොඩකට ගුණදෙන ඇඹරැල්ලා ගැන දැන ගන්න",
+                "url": "https://youtube.com/watch?v=CYdQmutAzrk",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/CYdQmutAzrk/hqdefault.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "හැමෝටම වරදින TEJC අඹ | TEJC Mango | Ceylon Agri | Episode 365",
+                "url": "https://youtube.com/watch?v=4v0aablhhcE",
+                "duration": "7:14",
+                "thumbnail": "https://i.ytimg.com/vi/4v0aablhhcE/hq720.jpg"
+            },
+            {
+                "title": "AMARANTHUS: Surprising Health Benefits You Should Know / Medicinal Plants / The Rural Life",
+                "url": "https://youtube.com/watch?v=K8xZ-kjEU2w",
+                "duration": "2:35",
+                "thumbnail": "https://i.ytimg.com/vi/K8xZ-kjEU2w/hq720.jpg"
+            },
+            {
+                "title": "Plantain Uses and Benefits",
+                "url": "https://youtube.com/watch?v=-97NXHyxRjA",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/-97NXHyxRjA/hq720.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

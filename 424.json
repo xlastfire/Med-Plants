@@ -1,137 +1,184 @@
 {
-  "scientificName": "Dipterocarpus zeylanicus Thwaites",
-  "synonyms": [],
-  "familyName": "DIPTEROCARPACEAE",
-  "englishNames": [],
-  "sinhalaName": "Hora (හොර)",
-  "description": "මීටර් 40ක් පමණ උසැති විශාල සදාහරිත ශාකයකි; අතු ශක්තිමත් වන අතර කැපී පෙනෙන උපපත්‍ර කැළැල් (stipule scars) දක්නට ලැබේ. පත්‍ර අංකුරය මි.මී. 15 x 6 පමණ වේ. උපපත්‍ර (stipules) සෙ.මී. 13 x 3 පමණ වේ. පත්‍ර අතු අග්‍රයන් වටා පොකුරු ලෙස පිහිටයි; පත්‍ර තලය (lamina) සෙ.මී. 10-25 x 7.5-14 වන අතර ඝනකම් සහ සම් වැනි (thickly coriaceous) ස්වභාවයක් ගනී; නාරටි යුගල 15-18ක් ඇත; පත්‍ර වෘන්තය (petiole) සෙ.මී. 2-5ක් දිග වන අතර විෂ්කම්භය මීටර් 2-3ක් පමණ වේ. පුෂ්ප මංජරිය (raceme) සෙ.මී. 14ක් පමණ දිගය; මල් අංකුරය මි.මී. 25 x 8 පමණ වේ. පලය සමාරා වැනි (samaroid) වේ, බාහිර දල නාලය (calyx tube) සෙ.මී. 2.5ක විෂ්කම්භයකින් යුක්ත වන අතර, අර්ධ ගෝලාකාර (subglobose) හැඩයක් ගනී, එහි තරමක් කැපී පෙනෙන ඉළ ඇට 5ක් ඇත; දිගු පත්‍රිකා දෙකක් සෙ.මී. 13 x 3 පමණ වේ.",
-  "treatments": [
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
+    "scientificName": "Dipterocarpus zeylanicus Thwaites",
+    "synonyms": [],
+    "familyName": "DIPTEROCARPACEAE",
+    "englishNames": [],
+    "sinhalaName": "Hora (හොර)",
+    "description": "මීටර් 40ක් පමණ උසැති විශාල සදාහරිත ශාකයකි; අතු ශක්තිමත් වන අතර කැපී පෙනෙන උපපත්‍ර කැළැල් (stipule scars) දක්නට ලැබේ. පත්‍ර අංකුරය මි.මී. 15 x 6 පමණ වේ. උපපත්‍ර (stipules) සෙ.මී. 13 x 3 පමණ වේ. පත්‍ර අතු අග්‍රයන් වටා පොකුරු ලෙස පිහිටයි; පත්‍ර තලය (lamina) සෙ.මී. 10-25 x 7.5-14 වන අතර ඝනකම් සහ සම් වැනි (thickly coriaceous) ස්වභාවයක් ගනී; නාරටි යුගල 15-18ක් ඇත; පත්‍ර වෘන්තය (petiole) සෙ.මී. 2-5ක් දිග වන අතර විෂ්කම්භය මීටර් 2-3ක් පමණ වේ. පුෂ්ප මංජරිය (raceme) සෙ.මී. 14ක් පමණ දිගය; මල් අංකුරය මි.මී. 25 x 8 පමණ වේ. පලය සමාරා වැනි (samaroid) වේ, බාහිර දල නාලය (calyx tube) සෙ.මී. 2.5ක විෂ්කම්භයකින් යුක්ත වන අතර, අර්ධ ගෝලාකාර (subglobose) හැඩයක් ගනී, එහි තරමක් කැපී පෙනෙන ඉළ ඇට 5ක් ඇත; දිගු පත්‍රිකා දෙකක් සෙ.මී. 13 x 3 පමණ වේ.",
+    "treatments": [
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Chronic Ulcers",
+            "sinhala": "නිදන්ගත වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Sinusitis",
+            "sinhala": "සයිනස් ප්‍රදාහය (පීනස)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fistula-in-ano",
+            "sinhala": "භගන්දරය (ගුද මාර්ගයේ හටගන්නා වණ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Pharyngitis",
+            "sinhala": "ග්‍රසනිකා ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Tonsillitis",
+            "sinhala": "ටොන්සිල් ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Bronchitis",
+            "sinhala": "ශ්වාසනාල ප්‍රදාහය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Pneumonia",
+            "sinhala": "නියුමෝනියාව (පෙනහළු ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Heartwood",
+        "Gum Resin"
+    ],
+    "images": [
+        {
+            "image_id": "236",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/1GDmdnXZ/plant00424-00236.jpg"
+        },
+        {
+            "image_id": "237",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/JR5CMxGm/plant00424-00237.jpg"
+        },
+        {
+            "image_id": "238",
+            "caption": "Young leaves",
+            "url": "https://i.ibb.co/Rp5XS2zF/plant00424-00238.jpg"
+        },
+        {
+            "image_id": "3556",
+            "caption": "Flowers (PMR)",
+            "url": "https://i.ibb.co/bgZpHwYg/plant00424-03556.jpg"
+        },
+        {
+            "image_id": "3557",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/4ZcwMN0H/plant00424-03557.jpg"
+        },
+        {
+            "image_id": "3558",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/V09JhKCd/plant00424-03558.jpg"
+        },
+        {
+            "image_id": "3559",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/KzxfxdND/plant00424-03559.jpg"
+        },
+        {
+            "image_id": "3560",
+            "caption": "Resin (PMR)",
+            "url": "https://i.ibb.co/p6WWwh6Q/plant00424-03560.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Dipterocarpus/Family: Dipterocarpaceae (හොර)",
+                "url": "https://youtube.com/watch?v=pcE47bwx2Zs",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/pcE47bwx2Zs/hqdefault.jpg"
+            },
+            {
+                "title": "ආසියාවේ ලොකුම හොර කැලේ    (Hora kele) #beautifulnature #forest #hora #හොර",
+                "url": "https://youtube.com/watch?v=PJiPt1Fv0dc",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/PJiPt1Fv0dc/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවට ආවේණික හොර ශාකය - hora tree",
+                "url": "https://youtube.com/watch?v=3ATp-1G2iLE",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/3ATp-1G2iLE/hq720.jpg"
+            },
+            {
+                "title": "හොර ගසක් දැකලා නැති අය බලාගන්නකෝ. Dipterocarpus zeylanicus",
+                "url": "https://youtube.com/watch?v=0Q96dNWvmNc",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/0Q96dNWvmNc/hq720.jpg"
+            },
+            {
+                "title": "ආසියාවේ විශාලතම හොර වනාන්තරය- #රයිගම රාජධානිය",
+                "url": "https://youtube.com/watch?v=xMJ2ZArnLNM",
+                "duration": "2:28",
+                "thumbnail": "https://i.ytimg.com/vi/xMJ2ZArnLNM/hqdefault.jpg"
+            },
+            {
+                "title": "Hora Gasa(Dipterocarpus zeylanicus)",
+                "url": "https://youtube.com/watch?v=Qr7Ro7HMAas",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/Qr7Ro7HMAas/hq720.jpg"
+            },
+            {
+                "title": "හොර ශාකය /හොර කුරුල්ලා /Dipterocarpus zeylanicus",
+                "url": "https://youtube.com/watch?v=7wwD0BnOfjQ",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/7wwD0BnOfjQ/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Chronic Ulcers",
-      "sinhala": "නිදන්ගත වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Sinusitis",
-      "sinhala": "සයිනස් ප්‍රදාහය (පීනස)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fistula-in-ano",
-      "sinhala": "භගන්දරය (ගුද මාර්ගයේ හටගන්නා වණ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Pharyngitis",
-      "sinhala": "ග්‍රසනිකා ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Tonsillitis",
-      "sinhala": "ටොන්සිල් ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Bronchitis",
-      "sinhala": "ශ්වාසනාල ප්‍රදාහය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Pneumonia",
-      "sinhala": "නියුමෝනියාව (පෙනහළු ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Heartwood",
-    "Gum Resin"
-  ],
-  "images": [
-    {
-      "image_id": "236",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/1GDmdnXZ/plant00424-00236.jpg"
-    },
-    {
-      "image_id": "237",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/JR5CMxGm/plant00424-00237.jpg"
-    },
-    {
-      "image_id": "238",
-      "caption": "Young leaves",
-      "url": "https://i.ibb.co/Rp5XS2zF/plant00424-00238.jpg"
-    },
-    {
-      "image_id": "3556",
-      "caption": "Flowers (PMR)",
-      "url": "https://i.ibb.co/bgZpHwYg/plant00424-03556.jpg"
-    },
-    {
-      "image_id": "3557",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/4ZcwMN0H/plant00424-03557.jpg"
-    },
-    {
-      "image_id": "3558",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/V09JhKCd/plant00424-03558.jpg"
-    },
-    {
-      "image_id": "3559",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/KzxfxdND/plant00424-03559.jpg"
-    },
-    {
-      "image_id": "3560",
-      "caption": "Resin (PMR)",
-      "url": "https://i.ibb.co/p6WWwh6Q/plant00424-03560.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,43 +1,720 @@
 {
-  "scientificName": "Strobocalyx arborea (Buch.-Ham.) Sch.Bip.",
-  "synonyms": [
-    "Cacalia arborea (Buch.-Ham.) Kuntze",
-    "Conyza acuminata Wall.",
-    "Conyza arborea Wall.",
-    "Conyza wightiana Wall.",
-    "Decaneurum javanicum (Blume) Miq.",
-    "Eupatorium acuminatum Wall. ex DC.",
-    "Eupatorium celebicum Blume",
-    "Eupatorium javanicum Blume",
-    "Flustula tomentosa Raf.",
-    "Gymnanthemum acuminatum Steetz",
-    "Gymnanthemum arboreum (Buch.-Ham.) H.Rob.",
-    "Leucomeris celebica Blume ex DC.",
-    "Leucomeris glabra Blume ex DC.",
-    "Leucomeris javanica Blume ex DC.",
-    "Strobocalyx blumeana Sch.Bip.",
-    "Strobocalyx celebica Sch.Bip.",
-    "Strobocalyx javanica Sch.Bip.",
-    "Vernonia arborea Buch.-Ham.",
-    "Vernonia arborea var. javanica (Blume) C.B.Clarke",
-    "Vernonia blumeana DC.",
-    "Vernonia celebica (Blume) DC.",
-    "Vernonia cuspidata Steud.",
-    "Vernonia florescens Elmer",
-    "Vernonia javanica (Blume) DC.",
-    "Vernonia monosis Benth. ex C.B.Clarke",
-    "Vernonia urdanetensis Elmer",
-    "Vernonia vaniotii H.Lév.",
-    "Vernonia vivekanathanii Uniyal"
-  ],
-  "familyName": "ASTERACEAE",
-  "englishNames": [
-    "Tree Vernonia"
-  ],
-  "sinhalaName": "Kobomella (කොබෝමැල්ල)",
-  "description": "මීටර් 12ක් හෝ ඊට වැඩි උසැති ගසකි. පත්‍ර ඩිම්බාකාර (ovate) හෝ ආයත-ඉලිප්සාකාර (oblong-elliptic) වේ, 110 - 15 x 3 - 5 සෙ.මී. ප්‍රමාණයෙන් යුක්තය, පාදම වටකුරු හෝ කුඤ්ඤාකාර (cuneate) වී සෙ.මී. 1 - 2ක් දිගැති පත්‍ර වෘන්තයකට සම්බන්ධ වේ, අග්‍රය උල්වූ (acuminate) වේ, පත්‍ර දාරය සම්පූර්ණ (entire) වේ, පත්‍රයේ උඩු පැත්ත රෝම රහිත (glabrous) වන අතර යටි පැත්ත ඒකාකාරව ඝනව රෝම සහිත (pubescent) හෝ නාරටි මත පමණක් රෝම සහිත වේ. පුෂ්ප මංජරිය (capitula) බොහෝ සංඛ්‍යාවක් අග්‍රස්ථ ලිහිල් පැනිකල් (panicles) ලෙස පිහිටයි. එක් පුෂ්ප මංජරියක මල් 5 - 6ක් ඇත. පැපස් (pappus) අපිරිසිදු සුදු පැහැතිය, මි.මී. 5 - 7ක් දිගය, මි.මී. 0.5ක් පමණ දිගැති කෙටි බාහිර රෝම කිහිපයකින් සමන්විත වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Strobocalyx arborea (Buch.-Ham.) Sch.Bip.",
+    "synonyms": [
+        "Cacalia arborea (Buch.-Ham.) Kuntze",
+        "Conyza acuminata Wall.",
+        "Conyza arborea Wall.",
+        "Conyza wightiana Wall.",
+        "Decaneurum javanicum (Blume) Miq.",
+        "Eupatorium acuminatum Wall. ex DC.",
+        "Eupatorium celebicum Blume",
+        "Eupatorium javanicum Blume",
+        "Flustula tomentosa Raf.",
+        "Gymnanthemum acuminatum Steetz",
+        "Gymnanthemum arboreum (Buch.-Ham.) H.Rob.",
+        "Leucomeris celebica Blume ex DC.",
+        "Leucomeris glabra Blume ex DC.",
+        "Leucomeris javanica Blume ex DC.",
+        "Strobocalyx blumeana Sch.Bip.",
+        "Strobocalyx celebica Sch.Bip.",
+        "Strobocalyx javanica Sch.Bip.",
+        "Vernonia arborea Buch.-Ham.",
+        "Vernonia arborea var. javanica (Blume) C.B.Clarke",
+        "Vernonia blumeana DC.",
+        "Vernonia celebica (Blume) DC.",
+        "Vernonia cuspidata Steud.",
+        "Vernonia florescens Elmer",
+        "Vernonia javanica (Blume) DC.",
+        "Vernonia monosis Benth. ex C.B.Clarke",
+        "Vernonia urdanetensis Elmer",
+        "Vernonia vaniotii H.Lév.",
+        "Vernonia vivekanathanii Uniyal"
+    ],
+    "familyName": "ASTERACEAE",
+    "englishNames": [
+        "Tree Vernonia"
+    ],
+    "sinhalaName": "Kobomella (කොබෝමැල්ල)",
+    "description": "මීටර් 12ක් හෝ ඊට වැඩි උසැති ගසකි. පත්‍ර ඩිම්බාකාර (ovate) හෝ ආයත-ඉලිප්සාකාර (oblong-elliptic) වේ, 110 - 15 x 3 - 5 සෙ.මී. ප්‍රමාණයෙන් යුක්තය, පාදම වටකුරු හෝ කුඤ්ඤාකාර (cuneate) වී සෙ.මී. 1 - 2ක් දිගැති පත්‍ර වෘන්තයකට සම්බන්ධ වේ, අග්‍රය උල්වූ (acuminate) වේ, පත්‍ර දාරය සම්පූර්ණ (entire) වේ, පත්‍රයේ උඩු පැත්ත රෝම රහිත (glabrous) වන අතර යටි පැත්ත ඒකාකාරව ඝනව රෝම සහිත (pubescent) හෝ නාරටි මත පමණක් රෝම සහිත වේ. පුෂ්ප මංජරිය (capitula) බොහෝ සංඛ්‍යාවක් අග්‍රස්ථ ලිහිල් පැනිකල් (panicles) ලෙස පිහිටයි. එක් පුෂ්ප මංජරියක මල් 5 - 6ක් ඇත. පැපස් (pappus) අපිරිසිදු සුදු පැහැතිය, මි.මී. 5 - 7ක් දිගය, මි.මී. 0.5ක් පමණ දිගැති කෙටි බාහිර රෝම කිහිපයකින් සමන්විත වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "ගමේ දිව්‍ය ඔසුව - කොහිල 🍲 #shorts #HealthTipsSinhala  #SriLankanFood",
+                "url": "https://youtube.com/watch?v=0__C0VVLvQY",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/0__C0VVLvQY/hq720.jpg"
+            },
+            {
+                "title": "Coconut Leaf Masterpiece | Traditional Handcrafted Dharma Seat & Decor",
+                "url": "https://youtube.com/watch?v=Fx-S8vIL_jE",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/Fx-S8vIL_jE/hq720.jpg"
+            },
+            {
+                "title": "කොන්දේ අමාරුවට බොරුවට බෙහෙත් බොන්න එපා - අදම මේක මාරු කරලා බලන්න |How Your Mattress Causes Back Pain",
+                "url": "https://youtube.com/watch?v=2fmfdDayx50",
+                "duration": "8:25",
+                "thumbnail": "https://i.ytimg.com/vi/2fmfdDayx50/hq720.jpg"
+            },
+            {
+                "title": "තරුණ වයසේම කොන්ද කැක්කුමද?",
+                "url": "https://youtube.com/watch?v=Ul0flMiqFQY",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/Ul0flMiqFQY/hq720_2.jpg"
+            },
+            {
+                "title": "Colocasias send out ‘runners’ that send up new plants.  They create their own colony of plants. ❤️",
+                "url": "https://youtube.com/watch?v=k5VTx2en3TU",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/k5VTx2en3TU/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම තරුණව ඉන්න රෑට මේවා බොන්න | Top 10 Night Anti-Aging Drinks #health #shorts",
+                "url": "https://youtube.com/watch?v=gIerJkG5OD8",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/gIerJkG5OD8/hq720.jpg"
+            },
+            {
+                "title": "තෙත් කලාපීය කැලේ සැඟවුණු, අපූරු ඔසුව \"කුකුරුමාන්\"! 🌿🔴#Kukuruman #SLRavee #Ayurveda",
+                "url": "https://youtube.com/watch?v=3OSrLSyi3ng",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/3OSrLSyi3ng/hq720.jpg"
+            },
+            {
+                "title": "Click Here බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය| Repair & Clean Gut Naturally",
+                "url": "https://youtube.com/watch?v=3ZmQx32-Hu4",
+                "duration": "0:28",
+                "thumbnail": "https://i.ytimg.com/vi/3ZmQx32-Hu4/hq720_2.jpg"
+            },
+            {
+                "title": "බෝල බෝල මැටි ගෙනත් ගෙවල් හදන කුඹලා | Kumbala - Phimenes Flavopictus (Potter Wasp / Mason Wasp)...",
+                "url": "https://youtube.com/watch?v=UR1db0PAQB0",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/UR1db0PAQB0/hq720_2.jpg"
+            },
+            {
+                "title": "මනා සහ වල් පැළෑටිවලින් පොහොර හදන රහස! 🌿🦠 | Bimsara Liquid Compost#shorts",
+                "url": "https://youtube.com/watch?v=2tBFHcRsf3w",
+                "duration": "0:51",
+                "thumbnail": "https://i.ytimg.com/vi/2tBFHcRsf3w/hq720_2.jpg"
+            },
+            {
+                "title": "බලන්න ලංකාවේ මෙහෙම හැදෙනවද කියලා...❤️",
+                "url": "https://youtube.com/watch?v=XpSyTWylijA",
+                "duration": "0:37",
+                "thumbnail": "https://i.ytimg.com/vi/XpSyTWylijA/hq720.jpg"
+            },
+            {
+                "title": "srilankan healthy foods අපිට අගේ නැති වුණාට විදේශිකයෝ හොයන Careya arborea 🌿",
+                "url": "https://youtube.com/watch?v=fxYyVouLgHk",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/fxYyVouLgHk/hq720.jpg"
+            },
+            {
+                "title": "Srilanakan පැෂන් කොල මැල්ලුම 🌿😋 #shortvideo #shortsfeed #shorts #srilankan #food #cooking #viral",
+                "url": "https://youtube.com/watch?v=QuRaJDRW6qY",
+                "duration": "0:39",
+                "thumbnail": "https://i.ytimg.com/vi/QuRaJDRW6qY/hq720.jpg"
+            },
+            {
+                "title": "ලංකාවෙන් ලෝකෙටම යන සුපිරි කෑමක් - Polos Mite | Young Jackfruit Savory Spread*)`",
+                "url": "https://youtube.com/watch?v=Ms25OI-yIPk",
+                "duration": "0:47",
+                "thumbnail": "https://i.ytimg.com/vi/Ms25OI-yIPk/hq720_2.jpg"
+            },
+            {
+                "title": "moragollaa pawulata udaw ගෙදරම වාට්ටුවක් , ඔක්කොමලා ලෙඩ්ඩු   මෙත් සිතින් අතදෙන මිනිස්සු",
+                "url": "https://youtube.com/watch?v=u6T9yKbhHU0",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/u6T9yKbhHU0/hq720.jpg"
+            },
+            {
+                "title": "පිළිකා රෝගීන් සුවකරවන විශ්වකර්ම බෙහෙත - part 2🙏",
+                "url": "https://youtube.com/watch?v=IdQIkJpM5Ns",
+                "duration": "25:31",
+                "thumbnail": "https://i.ytimg.com/vi/IdQIkJpM5Ns/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "​කොතල හිඹුටු: දියවැඩියාවට සොබාදහමෙන් දායාද වූ ඔසුව! 🌿🔴#KothalaHimbutu #RaveendraOsuSewana",
+                "url": "https://youtube.com/watch?v=xLABprKUs7g",
+                "duration": "0:48",
+                "thumbnail": "https://i.ytimg.com/vi/xLABprKUs7g/hq720_2.jpg"
+            },
+            {
+                "title": "කොතෙක් සෙව්වත් කෙසෙල් ගස්වල තිබිය හැකිදෝ අරටුවක්..🙏💚🙏#youtubeshorts #motivation #happy",
+                "url": "https://youtube.com/watch?v=LizJ9j6jh2s",
+                "duration": "0:07",
+                "thumbnail": "https://i.ytimg.com/vi/LizJ9j6jh2s/hq720_2.jpg"
+            },
+            {
+                "title": "🏕️Butterfly Pea 🌸💙 #Antioxidants නිසා වයසට යෑම පවා පාලනය කරන විශ්මිත පානය.සොබා දහමේ සැබෑ හෙළ ඔසු 🌿",
+                "url": "https://youtube.com/watch?v=rK0suJhuO3c",
+                "duration": "1:15",
+                "thumbnail": "https://i.ytimg.com/vi/rK0suJhuO3c/hq720_2.jpg"
+            },
+            {
+                "title": "කොට කිඹුල( Kotakibula)",
+                "url": "https://youtube.com/watch?v=jwW400Dnijs",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/jwW400Dnijs/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ඔබ නොදත් විශ්මිත ඖෂධීය ගුණ (Qualities of Kohomba leaf)",
+                "url": "https://youtube.com/watch?v=ke07ZTrzk0o",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/ke07ZTrzk0o/hqdefault.jpg"
+            },
+            {
+                "title": "දීර්ඝායුෂ ගෙනෙන කොට්ටම්බා වල ගුණ | Properties of almonds that bring longevity | Kottamba",
+                "url": "https://youtube.com/watch?v=ylx163Vldd0",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/ylx163Vldd0/hq720.jpg"
+            },
+            {
+                "title": "අපට අමතකව ගිය විශ්මිත ගුණ සහිත මොණරකුඩුම්බිය : Monarakudumbiya – Vernonia cinerea benefits",
+                "url": "https://youtube.com/watch?v=AVsoI8ga8rE",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/AVsoI8ga8rE/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ කොල වල විශ්මිත ගුණ - Amazing properties of kohomba leaves",
+                "url": "https://youtube.com/watch?v=EB7o-9SbXL8",
+                "duration": "0:39",
+                "thumbnail": "https://i.ytimg.com/vi/EB7o-9SbXL8/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොඹ ශාකයේ ගුණ 🌿| kohomba plant amazing benefits of the Neem tree (kohomba)",
+                "url": "https://youtube.com/watch?v=8Bg3jaj2cs0",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/8Bg3jaj2cs0/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොඹ ශාකයේ ඔසු ගුණ | Neem Tree | kohomba",
+                "url": "https://youtube.com/watch?v=B-iZPT8JzD4",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/B-iZPT8JzD4/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=sF_BrjVGH9Y",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/sF_BrjVGH9Y/hqdefault.jpg"
+            },
+            {
+                "title": "තරබාරුව අඩු කරගන්න, දියවැඩියාව පාලනය ඇතුළු කොහිල වල ඇති විස්මිත ගුණ /Amazing Benefits of Kohila",
+                "url": "https://youtube.com/watch?v=SESSsCwUkCk",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/SESSsCwUkCk/hqdefault.jpg"
+            },
+            {
+                "title": "කෝප්ප කොළ වල ගුණ | Wild shield Aralia | Sakalawaga",
+                "url": "https://youtube.com/watch?v=akWI5fTWIZs",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/akWI5fTWIZs/hqdefault.jpg"
+            },
+            {
+                "title": "කුඹුක්. Kumbuk Tree. Ayurvedic value of Kumbuk.",
+                "url": "https://youtube.com/watch?v=KjUTxwGyQ78",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/KjUTxwGyQ78/hq720.jpg"
+            },
+            {
+                "title": "හෙළ ඔසුවක රහස: කොබ්බෑ ශාකයේ අසිරිය සහ ඖෂධීය ගුණ | Kobbe Plant (Allophylus cobbe)",
+                "url": "https://youtube.com/watch?v=_g6SGjYzZNs",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/_g6SGjYzZNs/hqdefault.jpg"
+            },
+            {
+                "title": "කොහොඹ කොළ ගැන ඔබ නොදත් රහස් | Secrets About Neem | Gagana Featured",
+                "url": "https://youtube.com/watch?v=M0OVNawUJrQ",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/M0OVNawUJrQ/hq720.jpg"
+            },
+            {
+                "title": "කිලෝ 5 අඩු කරන දියවැඩියාවට කොලෙස්ටරෝල් ගැස්ට්‍රයිටිස් වලට ගුණ  බඩ අඩු කරන පානය  | beli kola panaya",
+                "url": "https://youtube.com/watch?v=b4AgatQ08Qo",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/b4AgatQ08Qo/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ගසේ ඇති ඖෂධීය ප්‍රයෝජන | medical plant of kohomba✅",
+                "url": "https://youtube.com/watch?v=O_U8G6d4cGo",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/O_U8G6d4cGo/hqdefault.jpg"
+            },
+            {
+                "title": "කෝප්ප කොළ වල විශ්මිත ගුණ ගැන ඇහුවොත් ඔබ පුදුම වේවි -  benifits of sri lankan koppa kola",
+                "url": "https://youtube.com/watch?v=xDj14TXdEKw",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/xDj14TXdEKw/hq720.jpg"
+            },
+            {
+                "title": "Kohoba wala oba nodath guna 14 k | කොහොඹ වල ඔබ නොදත් වටිනා ගුණ",
+                "url": "https://youtube.com/watch?v=RH3DqGHQ2e0",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/RH3DqGHQ2e0/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ ගහේ ගුණ | Properties of the neem (kohomba) tree",
+                "url": "https://youtube.com/watch?v=1nGDL_-YMxc",
+                "duration": "4:44",
+                "thumbnail": "https://i.ytimg.com/vi/1nGDL_-YMxc/hqdefault.jpg"
+            },
+            {
+                "title": "ලෙඩ සුව කරන කොහොඹ  | Kohomba | ඖෂධීය කොහොඹ | @osu-1380",
+                "url": "https://youtube.com/watch?v=NR86jp7sWGE",
+                "duration": "2:56",
+                "thumbnail": "https://i.ytimg.com/vi/NR86jp7sWGE/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ශාකයේ විශ්මිත ගුණ ගැන ඔබ මීට කලින් දැන සිටියාද?  |  වගා දැනුම   #agriculture #ලංකාවෙ",
+                "url": "https://youtube.com/watch?v=lHHfnKkF3DY",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/lHHfnKkF3DY/hq720.jpg"
+            },
+            {
+                "title": "Click Here බඩවැල් වල බැක්ටීරියා වෙනස් කරලාලෙඩ රෝග 100ක් සුව කරන ක්‍රමය| Repair & Clean Gut Naturally",
+                "url": "https://youtube.com/watch?v=7spkXvR6ad8",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/7spkXvR6ad8/hq720_2.jpg"
+            },
+            {
+                "title": "👅ස්වභාවික වර්ණක භාවිතයේදී හැමෝම වරද්දන තැන් 4ක්! | 4 Mistakes to Avoid with Natural Food Coloring 🎨🌱",
+                "url": "https://youtube.com/watch?v=IOpwvzQWIP8",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/IOpwvzQWIP8/hq720_2.jpg"
+            },
+            {
+                "title": "ඔලුවේ උදුගොව්වා කෑම දින 7න් නවත්වන සුපිරිම ක්‍රම 10 | Udugovva Kema Treatment Sri Lanka",
+                "url": "https://youtube.com/watch?v=kw0UJcr0bLA",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/kw0UJcr0bLA/hq720.jpg"
+            },
+            {
+                "title": "6 Free Weeds That Are Stronger Than Antibiotics",
+                "url": "https://youtube.com/watch?v=VXBU7B4mqwU",
+                "duration": "14:46",
+                "thumbnail": "https://i.ytimg.com/vi/VXBU7B4mqwU/hq720.jpg"
+            },
+            {
+                "title": "ස්වසන රෝග රැසකට ගුණ දෙන එළබටු #nature #health #tips #healthylifestyle #viral #shortvideo",
+                "url": "https://youtube.com/watch?v=bgdiOKU6Wkw",
+                "duration": "0:18",
+                "thumbnail": "https://i.ytimg.com/vi/bgdiOKU6Wkw/hq720_2.jpg"
+            },
+            {
+                "title": "ලක්ෂ ගණන් වියදම් කරන්න කලින් මේක බලන්න - හදවත් රෝග නිට්ටාවටම සුවයි!",
+                "url": "https://youtube.com/watch?v=bSvbQ9Ndnz4",
+                "duration": "11:44",
+                "thumbnail": "https://i.ytimg.com/vi/bSvbQ9Ndnz4/hq720.jpg"
+            },
+            {
+                "title": "කෙණ්ඩා පෙරලීම මෙතරම් භයානකද? The Hidden Danger of Leg Cramps!",
+                "url": "https://youtube.com/watch?v=DKFnTu2dVyI",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/DKFnTu2dVyI/hq720.jpg"
+            },
+            {
+                "title": "බඩ ඇතුලේ තුවාල,දැවිල්ල,ගැස්ට්‍රයිටිස් සුව කරගන්න කෝමාරිකා පානය මේ විදිහට හරියටම හදාගෙන බොන්න",
+                "url": "https://youtube.com/watch?v=RCttADedz70",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/RCttADedz70/hq720.jpg"
+            },
+            {
+                "title": "The Secret Tree for Glowing Skin! | ලස්සන වෙන්න කෙල්ලෝ රැල්ලට හොරෙන් හොයන විෂ්මිත ගස",
+                "url": "https://youtube.com/watch?v=m_RZcCCrSsk",
+                "duration": "11:54",
+                "thumbnail": "https://i.ytimg.com/vi/m_RZcCCrSsk/hq720_custom_3.jpg"
+            },
+            {
+                "title": "කුප්පමේනියා වල ඖෂධීය ගුණ 😱😱😱",
+                "url": "https://youtube.com/watch?v=XjY77x8JWqA",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/XjY77x8JWqA/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල ගුණ. චර්ම රෝග ඇතුලු රෝගාබාධ රැසකට ගුණදෙන ආයුර්වේදීය ඔසු.",
+                "url": "https://youtube.com/watch?v=Uvb_M2tX2Ts",
+                "duration": "7:32",
+                "thumbnail": "https://i.ytimg.com/vi/Uvb_M2tX2Ts/hq720.jpg"
+            },
+            {
+                "title": "Health benefits of Koththamalli (Coriander). Ayurvedic and medicinal value of Coriander.",
+                "url": "https://youtube.com/watch?v=RBZc65_lO5U",
+                "duration": "4:26",
+                "thumbnail": "https://i.ytimg.com/vi/RBZc65_lO5U/hq720.jpg"
+            },
+            {
+                "title": "ඉරිවේරිය ගුණ. උදරාබාධ,අජීර්ණය ඇතුළු ආන්ත්‍රික රෝග රැසකට.",
+                "url": "https://youtube.com/watch?v=0b6KJv_lsRE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/0b6KJv_lsRE/hq720.jpg"
+            },
+            {
+                "title": "✔koppa kola කෝප්ප කොළ වල විශ්මිත ගුණ දැන ගත්තොත් ඔබ පුදුම වෙයි 💓 Vindy's Journey 💓",
+                "url": "https://youtube.com/watch?v=Wlf1jl7dUkM",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/Wlf1jl7dUkM/hqdefault.jpg"
+            },
+            {
+                "title": "කොමඩු ඇට වල තියෙන ගුණ ඇසුවොත් ඔබ පුදුම වේවි - Health Benefits Of Watermelon Seeds",
+                "url": "https://youtube.com/watch?v=ogDcD-OsY64",
+                "duration": "10:41",
+                "thumbnail": "https://i.ytimg.com/vi/ogDcD-OsY64/hq720.jpg"
+            },
+            {
+                "title": "මතක ශක්තිය වර්දනය කරන ගොටුකොළ වල විශ්මිත ගුණ - A super food that boosts memory",
+                "url": "https://youtube.com/watch?v=jy8Zp6L_RZk",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/jy8Zp6L_RZk/hq720.jpg"
+            },
+            {
+                "title": "kobonila | කොබෝනීල |කොබෝලීල  Bauhinia purpurea | Butterfly tree | @osu-1380",
+                "url": "https://youtube.com/watch?v=fn7UT0wDqas",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/fn7UT0wDqas/hq720.jpg"
+            },
+            {
+                "title": "alligator weed good and bad | මුකුණුවැන්න සහ කිබුල්වැන්න | mukunuwanna | kibulwanna | pettagama",
+                "url": "https://youtube.com/watch?v=Fy7M5_Z7hck",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/Fy7M5_Z7hck/hq720.jpg"
+            },
+            {
+                "title": "බිං කොහොඹ ගැන හැමෝම අහන ප්‍රශ්න | Bin Kohomba | Ceylon Agri | Episode 370",
+                "url": "https://youtube.com/watch?v=bsDV6DgOPZQ",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/bsDV6DgOPZQ/hq720.jpg"
+            },
+            {
+                "title": "දවස් 10 න් බඩ බහින්න පටන් ගනිවි | Recipes for Helthy | athal kitchen curry leaves|Karapincha sambole",
+                "url": "https://youtube.com/watch?v=l3e14IDzSLY",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/l3e14IDzSLY/hqdefault.jpg"
+            },
+            {
+                "title": "කුඹුක් ගසේ ඇති ඖෂධීය ප්‍රයෝජන | kumbuk plant benefits | Terminalia Arjuna ✅🌿",
+                "url": "https://youtube.com/watch?v=mewJ4ysNBNc",
+                "duration": "4:57",
+                "thumbnail": "https://i.ytimg.com/vi/mewJ4ysNBNc/hqdefault.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග රැසකට ගුණදෙන පනාමල් සත්කාරය | Jackfruit Flower",
+                "url": "https://youtube.com/watch?v=VsTST6CFAK0",
+                "duration": "3:12",
+                "thumbnail": "https://i.ytimg.com/vi/VsTST6CFAK0/hq720.jpg"
+            },
+            {
+                "title": "සතියකට වතාවක්වත් ආහාරයට ගත යුතු අපිට ලැබුණු සොබා දමේ තෑග්ග Wal Penela Kola Kanda From Kusala  ✔",
+                "url": "https://youtube.com/watch?v=tDxvWCNk7IA",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/tDxvWCNk7IA/hq720.jpg"
+            },
+            {
+                "title": "සෙම නසන කප්පරවල්ලිය ශාකය ගැන විස්තර | Coleus amboinicus | Kapparawalliya",
+                "url": "https://youtube.com/watch?v=iE_I-vlPAc8",
+                "duration": "10:02",
+                "thumbnail": "https://i.ytimg.com/vi/iE_I-vlPAc8/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල මෙච්චර ගුණයක් තියෙනව කියල කලින් දැනන් හිටියද",
+                "url": "https://youtube.com/watch?v=M73h612F-Gk",
+                "duration": "7:46",
+                "thumbnail": "https://i.ytimg.com/vi/M73h612F-Gk/hq720.jpg"
+            },
+            {
+                "title": "කෝටියක් වටින උණ නසන බිං කොහොඹ ශාකය",
+                "url": "https://youtube.com/watch?v=0rx4RcGiHpk",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/0rx4RcGiHpk/hq720.jpg"
+            },
+            {
+                "title": "දනිස් ටකස් ගානවද මෙන්න වයසට යනවිට ගෙවී යන කාටිලේජ වර්ධනයට ඔසු පානයක් | කොලෙස්ටරෝල් වලට බෙහෙත් kollu",
+                "url": "https://youtube.com/watch?v=rUEI0unwM78",
+                "duration": "5:45",
+                "thumbnail": "https://i.ytimg.com/vi/rUEI0unwM78/hq720.jpg"
+            },
+            {
+                "title": "මේ කූඹූක් පොත්තක් තමිබලා තූන් පාරක් බොන්න කොලෙස්ටරෝල් සති තූනෙන් සූවයි",
+                "url": "https://youtube.com/watch?v=VlzDLUYGAW0",
+                "duration": "8:57",
+                "thumbnail": "https://i.ytimg.com/vi/VlzDLUYGAW0/hq720.jpg"
+            },
+            {
+                "title": "Carnivorous Plants | මාංශ භක්ෂක ශාක",
+                "url": "https://youtube.com/watch?v=34xd_4chseI",
+                "duration": "3:22",
+                "thumbnail": "https://i.ytimg.com/vi/34xd_4chseI/hq720.jpg"
+            },
+            {
+                "title": "කෝමාරිකා පැලේ ලොකුකරගන්නෙ කොහොමද how to grow up aloevera",
+                "url": "https://youtube.com/watch?v=3lI1AwX1Wp8",
+                "duration": "3:01",
+                "thumbnail": "https://i.ytimg.com/vi/3lI1AwX1Wp8/hq720.jpg"
+            },
+            {
+                "title": "කොහොඹ වල අපට නොපෙනෙන ගුණය - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හැරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=hRpzilgWq5o",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/hRpzilgWq5o/hq720.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය වලින් මේ තරම් ගුණ රැසක්? නිතර දකින මේ ප්‍රබල ඔසුව දිව්‍යමය ඖෂධයක් බව දැනසිටියාද?",
+                "url": "https://youtube.com/watch?v=As_UacGA3Kc",
+                "duration": "11:54",
+                "thumbnail": "https://i.ytimg.com/vi/As_UacGA3Kc/hq720.jpg"
+            },
+            {
+                "title": "Bitter Kola: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=a4m82Pg3ma0",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/a4m82Pg3ma0/hq720.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "Uncover the Secrets of Cocolmeca's Health Benefits",
+                "url": "https://youtube.com/watch?v=cOCo1ze7zo4",
+                "duration": "2:30",
+                "thumbnail": "https://i.ytimg.com/vi/cOCo1ze7zo4/hq720.jpg"
+            },
+            {
+                "title": "The Benefits of Gotu Kola",
+                "url": "https://youtube.com/watch?v=LUbh5fA2Lyg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/LUbh5fA2Lyg/hq720.jpg"
+            },
+            {
+                "title": "9 Benefits Of Cilantro You Should Know! | Health Benefits Of Cilantro",
+                "url": "https://youtube.com/watch?v=jlaelYqV94o",
+                "duration": "4:15",
+                "thumbnail": "https://i.ytimg.com/vi/jlaelYqV94o/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Bitter Leaf Health Benefits ( & SIDE EFFECTS)",
+                "url": "https://youtube.com/watch?v=qtQZNnaVCDQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/qtQZNnaVCDQ/hq720.jpg"
+            },
+            {
+                "title": "කංකුං  කනවද? | Kangkung (Water Spinach) By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=WDR_OvMpd44",
+                "duration": "14:18",
+                "thumbnail": "https://i.ytimg.com/vi/WDR_OvMpd44/hq720.jpg"
+            },
+            {
+                "title": "DISCOVER THE TOP 10 BENEFITS OF COMFREY FOR NATURAL HEALING AND WELLNESS",
+                "url": "https://youtube.com/watch?v=Mq6B6LwrQU0",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/Mq6B6LwrQU0/hq720.jpg"
+            },
+            {
+                "title": "The Health Benefits Of Bitter Melon",
+                "url": "https://youtube.com/watch?v=ptKHB_RPBRk",
+                "duration": "4:40",
+                "thumbnail": "https://i.ytimg.com/vi/ptKHB_RPBRk/hq720.jpg"
+            },
+            {
+                "title": "කොමඩු වල ඔබ නොදන්න පැත්ත මෙන්න | Health Benefits Of Watermelon Seeds",
+                "url": "https://youtube.com/watch?v=9klEjBssFFo",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/9klEjBssFFo/hq720.jpg"
+            },
+            {
+                "title": "Comfrey Benefits and Uses",
+                "url": "https://youtube.com/watch?v=zeT4hs3sSrM",
+                "duration": "16:05",
+                "thumbnail": "https://i.ytimg.com/vi/zeT4hs3sSrM/hq720.jpg"
+            },
+            {
+                "title": "නෝකොල් කනවා නම් මේවාත් දැනගන්න : Benefits of Kohlrabi (Knol Khol)",
+                "url": "https://youtube.com/watch?v=W_1aOfBlnqQ",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/W_1aOfBlnqQ/hq720.jpg"
+            },
+            {
+                "title": "7 Amazing Benefits Of Bitter Melon | Organic Facts",
+                "url": "https://youtube.com/watch?v=prMzD64fYgM",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/prMzD64fYgM/hqdefault.jpg"
+            },
+            {
+                "title": "9 Benefits of Chamomile To Know! | Health Benefits Of Chamomile Tea",
+                "url": "https://youtube.com/watch?v=gzpwzEGtvq8",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/gzpwzEGtvq8/hq720.jpg"
+            },
+            {
+                "title": "Herb Notes: The Benefits of Comfrey",
+                "url": "https://youtube.com/watch?v=H5V_5d36p5A",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/H5V_5d36p5A/hq720.jpg"
+            },
+            {
+                "title": "BITTER KOLA Home USES and Health Benefits | Home Remedies Using Bitter Kola",
+                "url": "https://youtube.com/watch?v=23Dyt-ZLh8I",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/23Dyt-ZLh8I/hq720.jpg"
+            },
+            {
+                "title": "5 HEALTH Benefits of Cocoyam 🍠🥔 THAT YOU NEED TO KNOW!",
+                "url": "https://youtube.com/watch?v=TeejsLzTG3Q",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/TeejsLzTG3Q/hq720.jpg"
+            },
+            {
+                "title": "The plant that cures everything❗️ Liver, vision, kidneys, intestines, heart, bones.",
+                "url": "https://youtube.com/watch?v=qi-i00Jo9gY",
+                "duration": "2:16",
+                "thumbnail": "https://i.ytimg.com/vi/qi-i00Jo9gY/hq720.jpg"
+            },
+            {
+                "title": "Bitter Kola: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=HWX0nozEzHQ",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/HWX0nozEzHQ/frame0.jpg"
+            },
+            {
+                "title": "නිල් කටරොලු ගුණ මහිම. Health benefits of Nilkatarolu plant.",
+                "url": "https://youtube.com/watch?v=MBR3AVmcWqw",
+                "duration": "7:22",
+                "thumbnail": "https://i.ytimg.com/vi/MBR3AVmcWqw/hq720.jpg"
+            },
+            {
+                "title": "කවුරුත් දන්නා නිදිකුම්බා ශාකයේ විශ්මිත ගුණ ගැන ඔබත් දැනගන්න | nidikumba | Mimosa Pudica🌿",
+                "url": "https://youtube.com/watch?v=9lK3nnxvhWI",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/9lK3nnxvhWI/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "ආහාරයට කුළුබඩුවක් ලෙසත් ආයුර්වේදයේ ඖෂධයක් ලෙසත් ගන්න පෙරුම්කායම් වල මේ විශ්මිත ගුණ ගැන හරියට දැනගන්න",
+                "url": "https://youtube.com/watch?v=DAfKElu1fzo",
+                "duration": "23:17",
+                "thumbnail": "https://i.ytimg.com/vi/DAfKElu1fzo/hq720.jpg"
+            },
+            {
+                "title": "ඔසු ගුණ ඇති කබරොස්ස",
+                "url": "https://youtube.com/watch?v=gbm70ljDwxc",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/gbm70ljDwxc/hqdefault.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ කුඩු දවස් 14ක් බිව්වොත් වෙන විස්මිත දේ! | Benefits of Moringa Powder (Sinhala)",
+                "url": "https://youtube.com/watch?v=n2bpVCsvkfM",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/n2bpVCsvkfM/hq720.jpg"
+            },
+            {
+                "title": "කොමඩු වල විශ්මිත ගුණය - Amazing quality of watermelon",
+                "url": "https://youtube.com/watch?v=In7BjObpFbU",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/In7BjObpFbU/hq720.jpg"
+            },
+            {
+                "title": "පොලොස් හෙවත් කොස් ගැට කෑවොත් වෙන දේ මෙන්න : Raw Green Jackfruit Benefits",
+                "url": "https://youtube.com/watch?v=AUvFTMX56_4",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/AUvFTMX56_4/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සහ කරවිලවල ඇත්ත නැත්ත | Bitter Melon For Blood Sugar By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=0SdTXNz-LDE",
+                "duration": "12:53",
+                "thumbnail": "https://i.ytimg.com/vi/0SdTXNz-LDE/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ඔසු පැල 10ක ගුණ දැනගමුද? | Benifits of 10 Herbal Plants | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=Cpdzcr3fXu0",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Cpdzcr3fXu0/hq720.jpg"
+            },
+            {
+                "title": "kohoba/kohoba benefits/kohoba plant/විෂ නසන කොහොඹ",
+                "url": "https://youtube.com/watch?v=bJEKDA69Yks",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/bJEKDA69Yks/hqdefault.jpg"
+            },
+            {
+                "title": "මඤ්ඤොක්කා කොළවල තියෙන විශ්මිත ගුණ|manioc leaves|benefits|nutrition",
+                "url": "https://youtube.com/watch?v=ctM08V5v0U8",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/ctM08V5v0U8/hq720.jpg"
+            },
+            {
+                "title": "රජයේ අනුමත කෝප්ප කොළ කෑවොත් වෙන දේ මෙන්න : Benefits of Croton Leaves",
+                "url": "https://youtube.com/watch?v=sXY5rc_CYSA",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/sXY5rc_CYSA/hq720.jpg"
+            },
+            {
+                "title": "Top 10 Health Benefits of Bitter Kola - Healthy Wealthy Tips",
+                "url": "https://youtube.com/watch?v=4HFqaN9J_cA",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/4HFqaN9J_cA/hq720.jpg"
+            },
+            {
+                "title": "Benefits of Margosa : Neem benefits (2018) කොහොඹ ගැන පුදුම දේවල් ටිකක්",
+                "url": "https://youtube.com/watch?v=Qy8SGV6Xm70",
+                "duration": "5:03",
+                "thumbnail": "https://i.ytimg.com/vi/Qy8SGV6Xm70/hq720.jpg"
+            },
+            {
+                "title": "Comfrey: Benefits and Uses",
+                "url": "https://youtube.com/watch?v=FVkMHCHaQd0",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/FVkMHCHaQd0/hq720.jpg"
+            },
+            {
+                "title": "12 Amazing Health Benefits of Bitter Kola You Need to Know",
+                "url": "https://youtube.com/watch?v=CIX5OeewU54",
+                "duration": "9:42",
+                "thumbnail": "https://i.ytimg.com/vi/CIX5OeewU54/hq720.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

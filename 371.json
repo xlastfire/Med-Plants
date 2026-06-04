@@ -1,173 +1,298 @@
 {
-  "scientificName": "Momordica dioica Roxb. ex Willd.",
-  "synonyms": [
-    "Momordica dioeca Roxb.",
-    "Momordica hamiltoniana Wall. ex G.Don",
-    "Momordica heyneana Wall. ex G.Don",
-    "Momordica hispida Dennst.",
-    "Momordica missionis Wall.",
-    "Momordica sicyoides Ser.",
-    "Momordica trilobata Wight ex Steud.",
-    "Momordica tuberosa Dennst.",
-    "Momordica wallichii M.Roem.",
-    "Trichosanthes russeliana Wall. ex G.Don"
-  ],
-  "familyName": "CUCURBITACEAE",
-  "englishNames": [
-    "Ban Karela",
-    "Spiny Gourd",
-    "Bristly Balsam Pear"
-  ],
-  "sinhalaName": "Thumba karawila (තුඹ කරවිල)",
-  "description": "බහුවාර්ෂික (perennial), ද්විගෘහීය (dioecious); කඳ සිහින්, බොහෝ අතු බෙදුණු, දාර දෙකක් සහිත (2-edged) වේ. පත්‍ර මධ්‍යස්ථ දිගැති වෘන්ත සහිත (petiolate) වේ; පත්‍ර තලය (lamina) සෙ.මී. 2.5-7.5(-12) x 2-6(-11.5) වන අතර, ගැඹුරින් 3-5 ක් ලෙස ඛණ්ඩනය වී ඇත (lobed), පාදම ගැඹුරින් හෘදයාකාර (cordate) වේ; පත්‍ර වෘන්තය (petiole) සෙ.මී. 1.5-5 ක් දිගය. මල් කහ පැහැතිය. පලතුරු එල්ලෙන සුළුය, සෙ.මී. 3.5 x 2 (නොමේරූ), ආයත-ඩිම්බාකාර (oblong-ovoid) වේ, හොටක් වැනි කොටසක් සහිතය (beaked). බීජ දක්නට නොලැබේ.",
-  "treatments": [
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Momordica dioica Roxb. ex Willd.",
+    "synonyms": [
+        "Momordica dioeca Roxb.",
+        "Momordica hamiltoniana Wall. ex G.Don",
+        "Momordica heyneana Wall. ex G.Don",
+        "Momordica hispida Dennst.",
+        "Momordica missionis Wall.",
+        "Momordica sicyoides Ser.",
+        "Momordica trilobata Wight ex Steud.",
+        "Momordica tuberosa Dennst.",
+        "Momordica wallichii M.Roem.",
+        "Trichosanthes russeliana Wall. ex G.Don"
+    ],
+    "familyName": "CUCURBITACEAE",
+    "englishNames": [
+        "Ban Karela",
+        "Spiny Gourd",
+        "Bristly Balsam Pear"
+    ],
+    "sinhalaName": "Thumba karawila (තුඹ කරවිල)",
+    "description": "බහුවාර්ෂික (perennial), ද්විගෘහීය (dioecious); කඳ සිහින්, බොහෝ අතු බෙදුණු, දාර දෙකක් සහිත (2-edged) වේ. පත්‍ර මධ්‍යස්ථ දිගැති වෘන්ත සහිත (petiolate) වේ; පත්‍ර තලය (lamina) සෙ.මී. 2.5-7.5(-12) x 2-6(-11.5) වන අතර, ගැඹුරින් 3-5 ක් ලෙස ඛණ්ඩනය වී ඇත (lobed), පාදම ගැඹුරින් හෘදයාකාර (cordate) වේ; පත්‍ර වෘන්තය (petiole) සෙ.මී. 1.5-5 ක් දිගය. මල් කහ පැහැතිය. පලතුරු එල්ලෙන සුළුය, සෙ.මී. 3.5 x 2 (නොමේරූ), ආයත-ඩිම්බාකාර (oblong-ovoid) වේ, හොටක් වැනි කොටසක් සහිතය (beaked). බීජ දක්නට නොලැබේ.",
+    "treatments": [
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Rashes",
+            "sinhala": "සමේ පළු දැමීම / කුෂ්ඨ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Urinary Calculi",
+            "sinhala": "මුත්‍රා ගල්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Edema/Swelling",
+            "sinhala": "ඉදිමීම/ශෝථය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Constipation",
+            "sinhala": "මලබද්ධය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Roots",
+        "Fruits"
+    ],
+    "images": [
+        {
+            "image_id": "2922",
+            "caption": "Flower Buds (PMR)",
+            "url": "https://i.ibb.co/zH5cvs5f/plant00371-02922.jpg"
+        },
+        {
+            "image_id": "2923",
+            "caption": "Male Flower (PMR)",
+            "url": "https://i.ibb.co/qMMxRsg8/plant00371-02923.jpg"
+        },
+        {
+            "image_id": "2924",
+            "caption": "Fruit (PMR)",
+            "url": "https://i.ibb.co/jvHtkGMV/plant00371-02924.jpg"
+        },
+        {
+            "image_id": "2925",
+            "caption": "Stem (PMR)",
+            "url": "https://i.ibb.co/Pvr6T513/plant00371-02925.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "තුඹ කරවිල වගාව මුල සිට අග දක්වා සියලු උපදෙස් | thumba karawila wagawa sinhala | Sweet Bitter Gourd",
+                "url": "https://youtube.com/watch?v=I1LSpsgMsfA",
+                "duration": "41:35",
+                "thumbnail": "https://i.ytimg.com/vi/I1LSpsgMsfA/hq720.jpg"
+            },
+            {
+                "title": "Spiny gourd health benefits : සියලු රෝග නිවාරණයට තුඹ කරවිල වැඩි වැඩියෙන් කමු",
+                "url": "https://youtube.com/watch?v=S8AgL5XK0oI",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/S8AgL5XK0oI/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල වගාව 6 වෙනි මාසය",
+                "url": "https://youtube.com/watch?v=j2fmHmZqg9s",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/j2fmHmZqg9s/hq720.jpg"
+            },
+            {
+                "title": "Let's plant a tomb bitter gourd vine at home|නිවසේදීම තුඹ කරවිල වැලක් පැළ කර ගනිමු| sinhala",
+                "url": "https://youtube.com/watch?v=cLPF_2o4cnM",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/cLPF_2o4cnM/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල වැලක් හිටවන්න කලින් අනිවාරයෙන්ම බලන්න  | Thumba Karawila | Ceylon Agri | Episode 75",
+                "url": "https://youtube.com/watch?v=oFhUe2lDpCg",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/oFhUe2lDpCg/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල වගාවේ රෝග අංක 01",
+                "url": "https://youtube.com/watch?v=yw_SwIbgqrU",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/yw_SwIbgqrU/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල සදහා බ්ම් සකසන්නේ මේසේය",
+                "url": "https://youtube.com/watch?v=J2_Sy7YbqIw",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/J2_Sy7YbqIw/hqdefault.jpg"
+            },
+            {
+                "title": "තුඹ කරවිලවල ඇති විස්මිත ගුණ.The amazing properties of spiny gourd.",
+                "url": "https://youtube.com/watch?v=1IscoFck7TM",
+                "duration": "7:56",
+                "thumbnail": "https://i.ytimg.com/vi/1IscoFck7TM/hqdefault.jpg"
+            },
+            {
+                "title": "තුබ කරවිල stiny gourd thuba karawila තුබ කරවිල කොළ සම්බෝලය thubakarawila kola saladaya තුබ වගාව",
+                "url": "https://youtube.com/watch?v=eebbHbk8SnM",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/eebbHbk8SnM/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල සදහා දෙශගුණික අවශ්‍යතා මෙන්න",
+                "url": "https://youtube.com/watch?v=nJHWskMJlFQ",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/nJHWskMJlFQ/hqdefault.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල  අතු පහසුවේන් පැළ කරමු | Krushi Tv",
+                "url": "https://youtube.com/watch?v=1PFHWcEtQ0U",
+                "duration": "1:58",
+                "thumbnail": "https://i.ytimg.com/vi/1PFHWcEtQ0U/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල මල් අතින් පරාගනය කරන්න ඕනමද - Krushi Podcast | Episode 03 | Thumba Karawila Wagawa",
+                "url": "https://youtube.com/watch?v=kZj_MVjVpvo",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/kZj_MVjVpvo/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල වගාව  | Haritha Tv | Waga Perahuru | Thuba Karavila",
+                "url": "https://youtube.com/watch?v=21gM1zkYWn4",
+                "duration": "10:01",
+                "thumbnail": "https://i.ytimg.com/vi/21gM1zkYWn4/hq720.jpg"
+            },
+            {
+                "title": "තුඹ වගාවට දමන පොහොර මොනවාද?",
+                "url": "https://youtube.com/watch?v=oAG3AjfR_6E",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/oAG3AjfR_6E/hqdefault.jpg"
+            },
+            {
+                "title": "තුඹ වගාවේ පලිබෝධ පාලනය p2.පණු හානිය මර්ධනය,sl farmers,(spine gourd cultivation )",
+                "url": "https://youtube.com/watch?v=gH_Ne5Fyyfs",
+                "duration": "14:18",
+                "thumbnail": "https://i.ytimg.com/vi/gH_Ne5Fyyfs/hq720.jpg"
+            },
+            {
+                "title": "144 ගෙවත්තේ තුඹ කරවිල වගාව සහ පරාගනය how to  thumba karawila sri lanka",
+                "url": "https://youtube.com/watch?v=dBpFAWvHkpI",
+                "duration": "5:11",
+                "thumbnail": "https://i.ytimg.com/vi/dBpFAWvHkpI/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල වගාව සියලු තොරතුරු | Thuba Wagawa | Thumba Karawila Cultivation Sri Lanka",
+                "url": "https://youtube.com/watch?v=ssR_D1sIbxk",
+                "duration": "13:29",
+                "thumbnail": "https://i.ytimg.com/vi/ssR_D1sIbxk/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල වගාව සියල්ල | karawila wagawa  |  How to get Yield thumba ?",
+                "url": "https://youtube.com/watch?v=6eLgbchn5oY",
+                "duration": "17:20",
+                "thumbnail": "https://i.ytimg.com/vi/6eLgbchn5oY/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල මල් අතින් පරාගනය කරන්න ඕනමද - Krushi Podcast | Episode 03 | Thumba Karawila Wagawa",
+                "url": "https://youtube.com/watch?v=A1K_dWgieF8",
+                "duration": "3:16",
+                "thumbnail": "https://i.ytimg.com/vi/A1K_dWgieF8/frame0.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල හිටවන්න කලින් බලන්න ප්‍රතිඵල අපිට කියන්න | තුඹ කරවිල වගාව  | Thumba Karawila | Spiny Gourd",
+                "url": "https://youtube.com/watch?v=JxUaXcKFQSs",
+                "duration": "15:34",
+                "thumbnail": "https://i.ytimg.com/vi/JxUaXcKFQSs/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Skin Rashes",
-      "sinhala": "සමේ පළු දැමීම / කුෂ්ඨ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Urinary Calculi",
-      "sinhala": "මුත්‍රා ගල්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Edema/Swelling",
-      "sinhala": "ඉදිමීම/ශෝථය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Constipation",
-      "sinhala": "මලබද්ධය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Roots",
-    "Fruits"
-  ],
-  "images": [
-    {
-      "image_id": "2922",
-      "caption": "Flower Buds (PMR)",
-      "url": "https://i.ibb.co/zH5cvs5f/plant00371-02922.jpg"
-    },
-    {
-      "image_id": "2923",
-      "caption": "Male Flower (PMR)",
-      "url": "https://i.ibb.co/qMMxRsg8/plant00371-02923.jpg"
-    },
-    {
-      "image_id": "2924",
-      "caption": "Fruit (PMR)",
-      "url": "https://i.ibb.co/jvHtkGMV/plant00371-02924.jpg"
-    },
-    {
-      "image_id": "2925",
-      "caption": "Stem (PMR)",
-      "url": "https://i.ibb.co/Pvr6T513/plant00371-02925.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

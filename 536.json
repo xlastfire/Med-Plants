@@ -1,147 +1,188 @@
 {
-  "scientificName": "Phyllanthus reticulatus Poir.",
-  "synonyms": [
-    "Anisonema dubium Blume",
-    "Anisonema intermedium Decne.",
-    "Anisonema jamaicense (Griseb.) Griseb.",
-    "Anisonema multiflorum (Baill.) Wight",
-    "Anisonema puberulum Baill.",
-    "Anisonema reticulatum (Poir.) A.Juss.",
-    "Anisonema wrightianum Baill.",
-    "Anisonema zollingeri Miq.",
-    "Cicca decandra Blanco",
-    "Cicca reticulata (Poir.) Kurz",
-    "Diasperus multiflorus (Baill.) Kuntze",
-    "Diasperus reticulatus (Poir.) Kuntze",
-    "Kirganelia dubia (Blume) Baill.",
-    "Kirganelia intermedia (Decne.) Baill.",
-    "Kirganelia lineata Alston",
-    "Kirganelia multiflora Baill.",
-    "Kirganelia multiflora var. glabra Thwaites",
-    "Kirganelia prieuriana Baill.",
-    "Kirganelia prieuriana var. glabra (Thwaites) Baill.",
-    "Kirganelia puberula Baill.",
-    "Kirganelia reticulata (Poir.) Baill.",
-    "Kirganelia sinensis Baill.",
-    "Kirganelia wightiana Baill.",
-    "Melanthesa oblongifolia Oken",
-    "Phyllanthus alaternoides Rchb. ex Baill.",
-    "Phyllanthus chamissonis Klotzsch",
-    "Phyllanthus dalbergioides (Müll.Arg.) Wall. ex J.J.Sm.",
-    "Phyllanthus depressus Buch.-Ham. ex Dillwyn",
-    "Phyllanthus griseus Benth.",
-    "Phyllanthus jamaicensis Griseb.",
-    "Phyllanthus microcarpus var. dalbergioides Müll.Arg.",
-    "Phyllanthus microcarpus var. pallidus Müll.Arg.",
-    "Phyllanthus multiflorus Willd.",
-    "Phyllanthus oblongifolius Pax",
-    "Phyllanthus pentandrus Roxb. ex Thwaites",
-    "Phyllanthus prieurianus (Baill.) Müll.Arg.",
-    "Phyllanthus prieurianus var. glaber (Baill.) Müll.Arg.",
-    "Phyllanthus puberulus Miq. ex Baill.",
-    "Phyllanthus reticulatus var. glaber (Thwaites) Müll.Arg.",
-    "Phyllanthus scandens Roxb. ex Dillwyn",
-    "Phyllanthus sinensis Müll.Arg.",
-    "Phyllanthus sinensis var. dalbergioides Müll.Arg.",
-    "Phyllanthus spinescens Benth.",
-    "Phyllanthus takaoensis Hayata"
-  ],
-  "familyName": "PHYLLANTHACEAE",
-  "englishNames": [],
-  "sinhalaName": "Wel kaila (වැල් කයිල)",
-  "description": "මීටර් 4ක් දක්වා උසැති පඳුරු සහිත පඳුරක් හෝ කුඩා ගසක්, ඒකලිංගික (monoecious); ප්‍රධාන කඳේ පත්‍ර කොරපොතු (scales) බවට පත්ව ඇත; පතනශීලී අතු (deciduous branchlets) සෙන්ටිමීටර 10-25ක් දිග වන අතර, බොහෝ විට පත්‍ර 13-20කින් සමන්විත වේ. අතු මත ඇති අනුපත්‍ර (stipules) මිලිමීටර 0.8-1.5ක් දිගය. පත්‍ර තලය (leaf lamina) මිලිමීටර 15-25(-32)ක් දිග සහ මිලිමීටර 9-15ක් පළලය; පත්‍ර වෘන්ත (petioles) මිලිමීටර 1.5-2.5ක් දිගය. මල් ද්වීලිංගික සයිමූල (bisexual cymules) ලෙස පිහිටන අතර, ඒ සෑම එකකම එක් (හෝ දෙකක්) ගැහැණු මලක් සහ පිරිමි මල් කිහිපයක් බැගින් ඇත. ඵලය බෙරි වැනි (baccate) වන අතර, විෂ්කම්භය මිලිමීටර 4-6ක් වන අතර කළු පැහැයට හෝ දම් පැහැයට හුරුය. බීජ ත්‍රිකෝණාකාර (trigonous) වන අතර මිලිමීටර 1.6-2ක් දිගය.",
-  "treatments": [
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Phyllanthus reticulatus Poir.",
+    "synonyms": [
+        "Anisonema dubium Blume",
+        "Anisonema intermedium Decne.",
+        "Anisonema jamaicense (Griseb.) Griseb.",
+        "Anisonema multiflorum (Baill.) Wight",
+        "Anisonema puberulum Baill.",
+        "Anisonema reticulatum (Poir.) A.Juss.",
+        "Anisonema wrightianum Baill.",
+        "Anisonema zollingeri Miq.",
+        "Cicca decandra Blanco",
+        "Cicca reticulata (Poir.) Kurz",
+        "Diasperus multiflorus (Baill.) Kuntze",
+        "Diasperus reticulatus (Poir.) Kuntze",
+        "Kirganelia dubia (Blume) Baill.",
+        "Kirganelia intermedia (Decne.) Baill.",
+        "Kirganelia lineata Alston",
+        "Kirganelia multiflora Baill.",
+        "Kirganelia multiflora var. glabra Thwaites",
+        "Kirganelia prieuriana Baill.",
+        "Kirganelia prieuriana var. glabra (Thwaites) Baill.",
+        "Kirganelia puberula Baill.",
+        "Kirganelia reticulata (Poir.) Baill.",
+        "Kirganelia sinensis Baill.",
+        "Kirganelia wightiana Baill.",
+        "Melanthesa oblongifolia Oken",
+        "Phyllanthus alaternoides Rchb. ex Baill.",
+        "Phyllanthus chamissonis Klotzsch",
+        "Phyllanthus dalbergioides (Müll.Arg.) Wall. ex J.J.Sm.",
+        "Phyllanthus depressus Buch.-Ham. ex Dillwyn",
+        "Phyllanthus griseus Benth.",
+        "Phyllanthus jamaicensis Griseb.",
+        "Phyllanthus microcarpus var. dalbergioides Müll.Arg.",
+        "Phyllanthus microcarpus var. pallidus Müll.Arg.",
+        "Phyllanthus multiflorus Willd.",
+        "Phyllanthus oblongifolius Pax",
+        "Phyllanthus pentandrus Roxb. ex Thwaites",
+        "Phyllanthus prieurianus (Baill.) Müll.Arg.",
+        "Phyllanthus prieurianus var. glaber (Baill.) Müll.Arg.",
+        "Phyllanthus puberulus Miq. ex Baill.",
+        "Phyllanthus reticulatus var. glaber (Thwaites) Müll.Arg.",
+        "Phyllanthus scandens Roxb. ex Dillwyn",
+        "Phyllanthus sinensis Müll.Arg.",
+        "Phyllanthus sinensis var. dalbergioides Müll.Arg.",
+        "Phyllanthus spinescens Benth.",
+        "Phyllanthus takaoensis Hayata"
+    ],
+    "familyName": "PHYLLANTHACEAE",
+    "englishNames": [],
+    "sinhalaName": "Wel kaila (වැල් කයිල)",
+    "description": "මීටර් 4ක් දක්වා උසැති පඳුරු සහිත පඳුරක් හෝ කුඩා ගසක්, ඒකලිංගික (monoecious); ප්‍රධාන කඳේ පත්‍ර කොරපොතු (scales) බවට පත්ව ඇත; පතනශීලී අතු (deciduous branchlets) සෙන්ටිමීටර 10-25ක් දිග වන අතර, බොහෝ විට පත්‍ර 13-20කින් සමන්විත වේ. අතු මත ඇති අනුපත්‍ර (stipules) මිලිමීටර 0.8-1.5ක් දිගය. පත්‍ර තලය (leaf lamina) මිලිමීටර 15-25(-32)ක් දිග සහ මිලිමීටර 9-15ක් පළලය; පත්‍ර වෘන්ත (petioles) මිලිමීටර 1.5-2.5ක් දිගය. මල් ද්වීලිංගික සයිමූල (bisexual cymules) ලෙස පිහිටන අතර, ඒ සෑම එකකම එක් (හෝ දෙකක්) ගැහැණු මලක් සහ පිරිමි මල් කිහිපයක් බැගින් ඇත. ඵලය බෙරි වැනි (baccate) වන අතර, විෂ්කම්භය මිලිමීටර 4-6ක් වන අතර කළු පැහැයට හෝ දම් පැහැයට හුරුය. බීජ ත්‍රිකෝණාකාර (trigonous) වන අතර මිලිමීටර 1.6-2ක් දිගය.",
+    "treatments": [
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Conjunctivitis",
+            "sinhala": "ඇස් ලෙඩ (අක්ෂි පටල ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Ulcers/Sores",
+            "sinhala": "වණ / තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Burns and Scalds",
+            "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Blood Disorders",
+            "sinhala": "රුධිරය ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Inflammatory Bowel Disease",
+            "sinhala": "ග්‍රහණිය සහ බඩවැල් ආශ්‍රිත ප්‍රදාහක රෝග (IBD)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Stem",
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "1690",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/jdmKQ92/plant00536-01690.jpg"
+        },
+        {
+            "image_id": "1691",
+            "caption": "Flowers",
+            "url": "https://i.ibb.co/wZ3QmhtW/plant00536-01691.jpg"
+        },
+        {
+            "image_id": "1692",
+            "caption": "Fruitsv- Riped",
+            "url": "https://i.ibb.co/nJmVRMz/plant00536-01692.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "රුධිරයේ උෂ්ණත්වය අඩු කිරීමේ ගුණ සහිත විශ්මිත ඔසුව | රෝග රැසකට ගුණ කයිල/වැල් කයිල",
+                "url": "https://youtube.com/watch?v=M6D0716T30I",
+                "duration": "4:08",
+                "thumbnail": "https://i.ytimg.com/vi/M6D0716T30I/hq720.jpg"
+            },
+            {
+                "title": "වාත, ඉදිමුම් නසන වටිනා ශාකයක් | රුධිරයේ උෂ්ණත්වයද අඩු කිරීමේ ගුණ සහිතයි | කයිල Kayila",
+                "url": "https://youtube.com/watch?v=S314DbuToOg",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/S314DbuToOg/hq720.jpg"
+            },
+            {
+                "title": "අද කාලේ ළමයි දැකලවත් නැති, ඔසු පිනිසද යොදාගන්න වන පලතුර | වැල් කෑලිය",
+                "url": "https://youtube.com/watch?v=T5fcgR3y3PQ",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/T5fcgR3y3PQ/hq720.jpg"
+            },
+            {
+                "title": "\" කැලේ හැදෙන ලස්සන වැලක් \" / A medicinal plant that grows in the forest @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=rME6x2nqyQw",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/rME6x2nqyQw/hq720.jpg"
+            },
+            {
+                "title": "උෂ්ණය අවම කර දරු පල ලගා කර දෙන කැලේ හැදෙන වැල් . උදර,අක්මා වකුගඩු රෝග  ඔසුව",
+                "url": "https://youtube.com/watch?v=cIJk9SkEygA",
+                "duration": "6:25",
+                "thumbnail": "https://i.ytimg.com/vi/cIJk9SkEygA/hqdefault.jpg"
+            },
+            {
+                "title": "Village... Wild fruits (වැල් කෑලියා )&herbs wal kaliya...",
+                "url": "https://youtube.com/watch?v=vmsTg0zGYWE",
+                "duration": "3:02",
+                "thumbnail": "https://i.ytimg.com/vi/vmsTg0zGYWE/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Conjunctivitis",
-      "sinhala": "ඇස් ලෙඩ (අක්ෂි පටල ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Ulcers/Sores",
-      "sinhala": "වණ / තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Burns and Scalds",
-      "sinhala": "පිළිස්සුම් සහ තැම්බීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Blood Disorders",
-      "sinhala": "රුධිරය ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Inflammatory Bowel Disease",
-      "sinhala": "ග්‍රහණිය සහ බඩවැල් ආශ්‍රිත ප්‍රදාහක රෝග (IBD)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Stem",
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "1690",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/jdmKQ92/plant00536-01690.jpg"
-    },
-    {
-      "image_id": "1691",
-      "caption": "Flowers",
-      "url": "https://i.ibb.co/wZ3QmhtW/plant00536-01691.jpg"
-    },
-    {
-      "image_id": "1692",
-      "caption": "Fruitsv- Riped",
-      "url": "https://i.ibb.co/nJmVRMz/plant00536-01692.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

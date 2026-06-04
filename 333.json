@@ -1,70 +1,141 @@
 {
-  "scientificName": "Evolvulus nummularius (L.) L.",
-  "synonyms": [
-    "Convolvulus nummularius L.",
-    "Evolvulus capreolatus Mart. ex Choisy",
-    "Evolvulus dichondroides Oliv.",
-    "Evolvulus domingensis Spreng. ex Choisy",
-    "Evolvulus nummularius f. pedunculatus Ooststr.",
-    "Evolvulus nummularius var. grandifolia Hoehne",
-    "Evolvulus reniformis Salzm. ex Choisy",
-    "Evolvulus repens Parodi",
-    "Evolvulus veronicifolius Kunth",
-    "Evolvulus yunnanensis S.H.Huang",
-    "Volvulopsis nummularius (L.) Roberty"
-  ],
-  "familyName": "CONVOLVULACEAE",
-  "englishNames": [
-    "Roundleaf Bindweed",
-    "Dwarf Morning-glory"
-  ],
-  "sinhalaName": "Sudu vishnukranthi (සුදු විෂ්ණුකාන්ති)",
-  "description": "බහුවාර්ෂික පැළෑටි; කඳන් ශාකමය (herbaceous), බිම දිගේ විහිදෙන (prostrate), ගැටවලින් මුල් අදින, කෙටි රෝම සහිත (pilose) හෝ රෝම රහිත (glabrate) වේ. පත්‍ර මි.මී. 4-15ක් දිගු වේ, කෙටි පත්‍ර වෘන්ත සහිත (short-petiolate) වේ, අග්‍රස්ථය වටකුරු හෝ මඳක් ඇතුලට නෙරා ගිය (emarginated) හැඩයක් ගනී, පාදස්ථය වටකුරු හෝ හෘදයාකාර (subcordate) වේ, පත්‍ර යට පැත්ත රෝම රහිත (glabrous) හෝ මඳක් රෝම සහිත (pubescent) වේ. පුෂ්ප මංජරිය පත්‍ර අක්ෂවල තනිව හෝ යුගල වශයෙන් පිහිටයි. මල් මි.මී. 2-6ක් දිගු පුෂ්ප වෘන්ත (pedicels) මත පිහිටයි; මල් කිරීටය (corolla) සුදු පැහැතිය, පුළුල් සීනුවක හැඩැති (campanulate) වේ, මි.මී. 5-7ක් පළලය. ඵල කරල් (capsular) වේ, ගෝලාකාර (globose) වේ, විෂ්කම්භය මි.මී. 3-4ක් වේ, පහළට නැමුණු (reflexed) ස්වභාවයක් ගනී; බීජ දුඹුරු සිට කළු පැහැතිය, ගෝලාකාර (subglobose) වේ.",
-  "treatments": [
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Evolvulus nummularius (L.) L.",
+    "synonyms": [
+        "Convolvulus nummularius L.",
+        "Evolvulus capreolatus Mart. ex Choisy",
+        "Evolvulus dichondroides Oliv.",
+        "Evolvulus domingensis Spreng. ex Choisy",
+        "Evolvulus nummularius f. pedunculatus Ooststr.",
+        "Evolvulus nummularius var. grandifolia Hoehne",
+        "Evolvulus reniformis Salzm. ex Choisy",
+        "Evolvulus repens Parodi",
+        "Evolvulus veronicifolius Kunth",
+        "Evolvulus yunnanensis S.H.Huang",
+        "Volvulopsis nummularius (L.) Roberty"
+    ],
+    "familyName": "CONVOLVULACEAE",
+    "englishNames": [
+        "Roundleaf Bindweed",
+        "Dwarf Morning-glory"
+    ],
+    "sinhalaName": "Sudu vishnukranthi (සුදු විෂ්ණුකාන්ති)",
+    "description": "බහුවාර්ෂික පැළෑටි; කඳන් ශාකමය (herbaceous), බිම දිගේ විහිදෙන (prostrate), ගැටවලින් මුල් අදින, කෙටි රෝම සහිත (pilose) හෝ රෝම රහිත (glabrate) වේ. පත්‍ර මි.මී. 4-15ක් දිගු වේ, කෙටි පත්‍ර වෘන්ත සහිත (short-petiolate) වේ, අග්‍රස්ථය වටකුරු හෝ මඳක් ඇතුලට නෙරා ගිය (emarginated) හැඩයක් ගනී, පාදස්ථය වටකුරු හෝ හෘදයාකාර (subcordate) වේ, පත්‍ර යට පැත්ත රෝම රහිත (glabrous) හෝ මඳක් රෝම සහිත (pubescent) වේ. පුෂ්ප මංජරිය පත්‍ර අක්ෂවල තනිව හෝ යුගල වශයෙන් පිහිටයි. මල් මි.මී. 2-6ක් දිගු පුෂ්ප වෘන්ත (pedicels) මත පිහිටයි; මල් කිරීටය (corolla) සුදු පැහැතිය, පුළුල් සීනුවක හැඩැති (campanulate) වේ, මි.මී. 5-7ක් පළලය. ඵල කරල් (capsular) වේ, ගෝලාකාර (globose) වේ, විෂ්කම්භය මි.මී. 3-4ක් වේ, පහළට නැමුණු (reflexed) ස්වභාවයක් ගනී; බීජ දුඹුරු සිට කළු පැහැතිය, ගෝලාකාර (subglobose) වේ.",
+    "treatments": [
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Convulsions",
+            "sinhala": "වලිප්පුව / වෙවුලීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Spasm",
+            "sinhala": "මස්පිඬු පෙරළීම / ගැස්ම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Paralysis",
+            "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole Plant"
+    ],
+    "images": [],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "විෂ්ණුකාන්ති ගහ/Exploring the Mysteries of Vishnukranti: A Rare and Enigmatic Flower\"/VISHNUKANTHI P",
+                "url": "https://youtube.com/watch?v=Ea_6FmHHjAQ",
+                "duration": "8:57",
+                "thumbnail": "https://i.ytimg.com/vi/Ea_6FmHHjAQ/hqdefault.jpg"
+            },
+            {
+                "title": "උණ, රුධිරදෝෂ ඇතුළු රෝග රැසකට ගුණදෙන විස්මිත පැලෑටිය | විෂ්ණුකාන්ති/විශ්නුකාන්ති (Wishnukaanthi)",
+                "url": "https://youtube.com/watch?v=Ld1ax_TEvSQ",
+                "duration": "8:35",
+                "thumbnail": "https://i.ytimg.com/vi/Ld1ax_TEvSQ/hq720.jpg"
+            },
+            {
+                "title": "විෂ්ණුක්‍රාන්ති vishnukranthi ( Little Glory / Dwarf Morning Glory )",
+                "url": "https://youtube.com/watch?v=fvkhGEqlcd0",
+                "duration": "5:30",
+                "thumbnail": "https://i.ytimg.com/vi/fvkhGEqlcd0/hq720.jpg"
+            },
+            {
+                "title": "104 විෂ මුද්‍රාවෙන් ගලවන​ විෂ්ණුක්‍රාන්ති මල​ ඔබත් පටලවගෙනද​ ?",
+                "url": "https://youtube.com/watch?v=CWQAd0cFKwM",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/CWQAd0cFKwM/hq720.jpg"
+            },
+            {
+                "title": "මෙම ශාකය ඔබේ ගෙවත්තේ අනිවාර්යයෙන්ම වගා කරන්න. / නිල් විෂ්ණුක්‍රාන්ති / Vishnukranthi plant",
+                "url": "https://youtube.com/watch?v=DWLxN0IkdvA",
+                "duration": "6:59",
+                "thumbnail": "https://i.ytimg.com/vi/DWLxN0IkdvA/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල හදුනාගමු | විෂ්ණුක්‍රාන්ති/විශ්නුකාන්ති | Wishnukaanthi Plant",
+                "url": "https://youtube.com/watch?v=YOjQ7JLytrY",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/YOjQ7JLytrY/hq720.jpg"
+            },
+            {
+                "title": "Nil awariya.vishnu kranthi.nabiriththa..නිල් අවරිය, විෂ්ණු ක්‍රන්ති, නාබිරිත්ත දැකපු නැති අයට....",
+                "url": "https://youtube.com/watch?v=ifdFevkLjIg",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/ifdFevkLjIg/hqdefault.jpg"
+            },
+            {
+                "title": "විෂ්ණු ක්‍රාන්ති ශාකය | හෙළ ඔසුවල රහස් දැනගන්න | වෛද්‍යාචාර්ය හේමලාල් සේපාල මහතා #aruveda #sinhala",
+                "url": "https://youtube.com/watch?v=dWuJ7KIH_9U",
+                "duration": "46:19",
+                "thumbnail": "https://i.ytimg.com/vi/dWuJ7KIH_9U/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "maha vishnu - purpel range.flv",
+                "url": "https://youtube.com/watch?v=hzv9EnmnwX0",
+                "duration": "4:04",
+                "thumbnail": "https://i.ytimg.com/vi/hzv9EnmnwX0/hqdefault.jpg"
+            },
+            {
+                "title": "මරණය පවා වළකන රහස් පැලේ | විශ්ණුක්‍රාන්ති ශාකය",
+                "url": "https://youtube.com/watch?v=mpK-rSFMydo",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/mpK-rSFMydo/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Convulsions",
-      "sinhala": "වලිප්පුව / වෙවුලීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Spasm",
-      "sinhala": "මස්පිඬු පෙරළීම / ගැස්ම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Paralysis",
-      "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole Plant"
-  ],
-  "images": [],
-  "special": []
+    "status": "already_filtered"
 }

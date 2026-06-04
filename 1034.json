@@ -1,59 +1,340 @@
 {
-  "scientificName": "Isachne globosa (Thunb.) Kuntze",
-  "synonyms": [
-    "Agrostis globosa (Thunb.) Poir.",
-    "Aira ischoemoides J.Koenig ex Kunth",
-    "Aira violacea Willd. ex Steud.",
-    "Eriochloa globosa (Thunb.) Kunth",
-    "Eriochloa japonica Steud.",
-    "Helopus globosus (Thunb.) Steud.",
-    "Isachne adstans (Steud.) Miq.",
-    "Isachne altissima Debeaux",
-    "Isachne atrovirens (Trin.) Trin.",
-    "Isachne australis R.Br.",
-    "Isachne australis var. effusa Trin. ex Hook.f.",
-    "Isachne dispar Trin.",
-    "Isachne dispar var. villosa C.E.C.Fisch.",
-    "Isachne globosa var. brevispicula Ohwi",
-    "Isachne globosa var. compacta W.Z.Fang ex S.L.Chen",
-    "Isachne globosa var. daviumbuensis Jansen",
-    "Isachne globosa var. effusa (Trin. ex Hook.f.) Senaratna",
-    "Isachne globosa var. obscura (Buse) Henrard",
-    "Isachne heterantha Hayata",
-    "Isachne javana Nees ex Miq.",
-    "Isachne lepidota (Steud.) Walp.",
-    "Isachne lutaria Santos",
-    "Isachne miliacea Roth",
-    "Isachne miliacea var. obscura Buse",
-    "Isachne miliacea var. stricta Ridl.",
-    "Isachne muricata Nees ex Steud.",
-    "Isachne nodibarbata (Hochst. ex Steud.) Henrard",
-    "Isachne ponapensis Hosok.",
-    "Isachne subglobosa Hatus. & T.Koyama",
-    "Isachne virgata Nees ex Steud.",
-    "Milium globosum Thunb.",
-    "Panicum adstans Steud.",
-    "Panicum antipodum Spreng.",
-    "Panicum atrovirens Trin.",
-    "Panicum australe (R.Br.) Raspail",
-    "Panicum batavicum Steud.",
-    "Panicum benjamini Steud.",
-    "Panicum dispar (Trin.) Steud.",
-    "Panicum lepidotum Steud.",
-    "Panicum nodibarbatum Hochst. ex Steud.",
-    "Panicum violaceum Klein ex Thiele"
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Globose Zo-Sasa",
-    "Swamp Millet",
-    "Globose Twinball Grass",
-    "Marsh Millet"
-  ],
-  "sinhalaName": "Bata della (බටදැල්ල)",
-  "description": "වාර්ෂික හෝ කෙටි කාලීන බහුවාර්ෂික ශාකයකි. කඳන් සිහින් හෝ මධ්‍යස්ථ ශක්තිමත්, කෙළින් හෝ බිම දිගේ වැටී පහළ ගැටවලින් මුල් අදින සුළුය, උස සෙ.මී. 80ක් දක්වා වේ, ගැට රෝම රහිත (glabrous) වේ, ග්‍රන්ථි රහිත හෝ ග්‍රන්ථිමය වළල්ලකින් යුක්ත වේ. පත්‍ර කොපු අන්තර් ගැටවලට වඩා කෙටි වේ, පිටත දාරයේ ඇති පක්ෂ්ම (ciliate) හැර රෝම රහිත (glabrous) වේ; පත්‍ර තල පටු ලේන්සාකාර (lanceolate) වේ, රෝම රහිත (glabrous) වේ, රළු (scabrid) වේ, පාදය වටකුරු වේ, අග්‍රය තියුණු (acute) වේ; පත්‍ර දිව (ligule) මි.මී. 1-2ක් වේ. පුෂ්ප මංජරිය විවෘතය, දළ සටහනින් බිත්තරාකාර (ovate) වේ, සෙ.මී. 4-11ක් වේ, ග්‍රන්ථිමය වේ, බොහෝ කරල් සහිත වේ; කරල් ඉලිප්සාකාර-ගෝලාකාර (elliptic-globose) වේ, මි.මී. 1.5-2(-2.2)ක් වේ, කොළ පැහැති හෝ දම් පැහැති දුඹුරු පැහැයක් ගනී; පහළ පුෂ්පිකාව පිරිමි වේ, ඉහළ පුෂ්පිකාව ගැහැණු වේ; තුහින (glumes) සමාන වේ, පුෂ්පිකාවලට සමාන හෝ කෙටි වේ, අග්‍රය පුළුල් ලෙස වටකුරු වේ; පහළ තුහින පත්‍රිකාව (lemma) ආයතකාර (oblong) වේ, කාටිලේජමය (cartilaginous) සිට උප-කබොල (subcrustaceous) දක්වා වේ, මතුපිට මඳක් උත්තල වේ, පිටුපස සමහර විට වලවල් සහිත (sulcate) වේ, සිනිඳු වේ, රෝම රහිත (glabrous) වේ.",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [],
-  "special": []
+    "scientificName": "Isachne globosa (Thunb.) Kuntze",
+    "synonyms": [
+        "Agrostis globosa (Thunb.) Poir.",
+        "Aira ischoemoides J.Koenig ex Kunth",
+        "Aira violacea Willd. ex Steud.",
+        "Eriochloa globosa (Thunb.) Kunth",
+        "Eriochloa japonica Steud.",
+        "Helopus globosus (Thunb.) Steud.",
+        "Isachne adstans (Steud.) Miq.",
+        "Isachne altissima Debeaux",
+        "Isachne atrovirens (Trin.) Trin.",
+        "Isachne australis R.Br.",
+        "Isachne australis var. effusa Trin. ex Hook.f.",
+        "Isachne dispar Trin.",
+        "Isachne dispar var. villosa C.E.C.Fisch.",
+        "Isachne globosa var. brevispicula Ohwi",
+        "Isachne globosa var. compacta W.Z.Fang ex S.L.Chen",
+        "Isachne globosa var. daviumbuensis Jansen",
+        "Isachne globosa var. effusa (Trin. ex Hook.f.) Senaratna",
+        "Isachne globosa var. obscura (Buse) Henrard",
+        "Isachne heterantha Hayata",
+        "Isachne javana Nees ex Miq.",
+        "Isachne lepidota (Steud.) Walp.",
+        "Isachne lutaria Santos",
+        "Isachne miliacea Roth",
+        "Isachne miliacea var. obscura Buse",
+        "Isachne miliacea var. stricta Ridl.",
+        "Isachne muricata Nees ex Steud.",
+        "Isachne nodibarbata (Hochst. ex Steud.) Henrard",
+        "Isachne ponapensis Hosok.",
+        "Isachne subglobosa Hatus. & T.Koyama",
+        "Isachne virgata Nees ex Steud.",
+        "Milium globosum Thunb.",
+        "Panicum adstans Steud.",
+        "Panicum antipodum Spreng.",
+        "Panicum atrovirens Trin.",
+        "Panicum australe (R.Br.) Raspail",
+        "Panicum batavicum Steud.",
+        "Panicum benjamini Steud.",
+        "Panicum dispar (Trin.) Steud.",
+        "Panicum lepidotum Steud.",
+        "Panicum nodibarbatum Hochst. ex Steud.",
+        "Panicum violaceum Klein ex Thiele"
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Globose Zo-Sasa",
+        "Swamp Millet",
+        "Globose Twinball Grass",
+        "Marsh Millet"
+    ],
+    "sinhalaName": "Bata della (බටදැල්ල)",
+    "description": "වාර්ෂික හෝ කෙටි කාලීන බහුවාර්ෂික ශාකයකි. කඳන් සිහින් හෝ මධ්‍යස්ථ ශක්තිමත්, කෙළින් හෝ බිම දිගේ වැටී පහළ ගැටවලින් මුල් අදින සුළුය, උස සෙ.මී. 80ක් දක්වා වේ, ගැට රෝම රහිත (glabrous) වේ, ග්‍රන්ථි රහිත හෝ ග්‍රන්ථිමය වළල්ලකින් යුක්ත වේ. පත්‍ර කොපු අන්තර් ගැටවලට වඩා කෙටි වේ, පිටත දාරයේ ඇති පක්ෂ්ම (ciliate) හැර රෝම රහිත (glabrous) වේ; පත්‍ර තල පටු ලේන්සාකාර (lanceolate) වේ, රෝම රහිත (glabrous) වේ, රළු (scabrid) වේ, පාදය වටකුරු වේ, අග්‍රය තියුණු (acute) වේ; පත්‍ර දිව (ligule) මි.මී. 1-2ක් වේ. පුෂ්ප මංජරිය විවෘතය, දළ සටහනින් බිත්තරාකාර (ovate) වේ, සෙ.මී. 4-11ක් වේ, ග්‍රන්ථිමය වේ, බොහෝ කරල් සහිත වේ; කරල් ඉලිප්සාකාර-ගෝලාකාර (elliptic-globose) වේ, මි.මී. 1.5-2(-2.2)ක් වේ, කොළ පැහැති හෝ දම් පැහැති දුඹුරු පැහැයක් ගනී; පහළ පුෂ්පිකාව පිරිමි වේ, ඉහළ පුෂ්පිකාව ගැහැණු වේ; තුහින (glumes) සමාන වේ, පුෂ්පිකාවලට සමාන හෝ කෙටි වේ, අග්‍රය පුළුල් ලෙස වටකුරු වේ; පහළ තුහින පත්‍රිකාව (lemma) ආයතකාර (oblong) වේ, කාටිලේජමය (cartilaginous) සිට උප-කබොල (subcrustaceous) දක්වා වේ, මතුපිට මඳක් උත්තල වේ, පිටුපස සමහර විට වලවල් සහිත (sulcate) වේ, සිනිඳු වේ, රෝම රහිත (glabrous) වේ.",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "",
+            "caption": "",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwBML5SrpSh5Dt6YyWnJSRKXVOkeshhf2eaA&s"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "බට (Ochlandra stridula Thwaites) 🎋",
+                "url": "https://youtube.com/watch?v=P5ZkSFX5ceQ",
+                "duration": "17:30",
+                "thumbnail": "https://i.ytimg.com/vi/P5ZkSFX5ceQ/hq720.jpg"
+            },
+            {
+                "title": "කටුවැල් බටු ශාකයේ ඖෂධීය ගුණ | katuwelbatu | solanum virginianum🌿",
+                "url": "https://youtube.com/watch?v=24oT1labluk",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/24oT1labluk/hq720.jpg"
+            },
+            {
+                "title": "ප්‍රබල වාජීකරණ ගුණයක් සහ ශක්තිජනක ආහාරයක් වන බිංතල් ගැන දැනන් හිටියද? | බිංතල් (Bintal)",
+                "url": "https://youtube.com/watch?v=R9rUznWawCY",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/R9rUznWawCY/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ එළබටු වල විශ්මිත ගුණ - Amazing properties of Batu Vegetable",
+                "url": "https://youtube.com/watch?v=krcNHcPh3Zk",
+                "duration": "3:20",
+                "thumbnail": "https://i.ytimg.com/vi/krcNHcPh3Zk/hq720.jpg"
+            },
+            {
+                "title": "බතල වල ඇති ඖෂධීය ගුණ 😱😱👍",
+                "url": "https://youtube.com/watch?v=_Y3s9J7mMPQ",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/_Y3s9J7mMPQ/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "බැල තණ (Gooes Grass) වල තියන විශ්මිත ගුනය දන්නවද?",
+                "url": "https://youtube.com/watch?v=VbVpVf5sw3Y",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/VbVpVf5sw3Y/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටුවල ඇති විශේෂිත ගුණ.  Turkey Berry.",
+                "url": "https://youtube.com/watch?v=KAsZe_2Z-F0",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/KAsZe_2Z-F0/hq720.jpg"
+            },
+            {
+                "title": "පඩ කමු | pada kamu | del batu | udahalu | දැල් බටු | උඩහලු",
+                "url": "https://youtube.com/watch?v=IhVGc7bro3I",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/IhVGc7bro3I/hq720.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "බිලිං වල මෙවැනි ගුණයක් තියෙනවා කියල ඔබ දැන සිටියාද? #nature #helth #health #healthy #healthylife",
+                "url": "https://youtube.com/watch?v=YEd7qvUtwSg",
+                "duration": "3:26",
+                "thumbnail": "https://i.ytimg.com/vi/YEd7qvUtwSg/hqdefault.jpg"
+            },
+            {
+                "title": "පයට පෑගෙන බෙහෙත් ගබඩාව \"බැලතණ\".....          Episode 19",
+                "url": "https://youtube.com/watch?v=FF-cJGwxTlY",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/FF-cJGwxTlY/hq720.jpg"
+            },
+            {
+                "title": "කහ බතල ද?| සුදු බතල ද? |හොදද?| නරකද?| තව බොහෝ දේ |Good or Bad? |Yellow or White ?| & more",
+                "url": "https://youtube.com/watch?v=DLvrcL8oXtQ",
+                "duration": "13:02",
+                "thumbnail": "https://i.ytimg.com/vi/DLvrcL8oXtQ/hq720.jpg"
+            },
+            {
+                "title": "තල ඇට මෙච්චර ගුණ දායකද? | Danuwath",
+                "url": "https://youtube.com/watch?v=Kenl3c4w0Uo",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/Kenl3c4w0Uo/hq720.jpg"
+            },
+            {
+                "title": "බැලතණ, ප්‍රධාන රෝග කීපයකට පිලියමක්ද? | Factcrescendo Srilanka",
+                "url": "https://youtube.com/watch?v=-HSJEEEQktA",
+                "duration": "2:22",
+                "thumbnail": "https://i.ytimg.com/vi/-HSJEEEQktA/hq720.jpg"
+            },
+            {
+                "title": "එලබටු වල ගුණ |බටු කොළ බීඩි වල ගුණ.",
+                "url": "https://youtube.com/watch?v=yQ-6jO6HNCw",
+                "duration": "6:55",
+                "thumbnail": "https://i.ytimg.com/vi/yQ-6jO6HNCw/hqdefault.jpg"
+            },
+            {
+                "title": "හැමදාම ඔයා විට කෑවට බුලත් විටෙ උපත දැනන්හිටියද ? 🌿",
+                "url": "https://youtube.com/watch?v=J49Yannf698",
+                "duration": "7:14",
+                "thumbnail": "https://i.ytimg.com/vi/J49Yannf698/hq720.jpg"
+            },
+            {
+                "title": "ඉක්මණින් ශුක්‍රානු පිටවීම ආදී රෝග රැසකට ගුණදෙන බුලත් ගැන කවදාවත් නොවැසූ ආයුර්වේද රහස්",
+                "url": "https://youtube.com/watch?v=Rnu9zjTvxv0",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/Rnu9zjTvxv0/hq720.jpg"
+            },
+            {
+                "title": "බටදැල්ල කරදරයෙන් නිදහස් වීමට නොවරදින වැඩපිළිවෙල | සරු අස්වැන්නක් සඳහා",
+                "url": "https://youtube.com/watch?v=C4h_cNrAc5A",
+                "duration": "10:58",
+                "thumbnail": "https://i.ytimg.com/vi/C4h_cNrAc5A/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "Butachlor | වල් ඇට මෙන්ම පැලවූ වල් පැලෑටිත් නසන වල් නාශකයක් දැන් වෙළෙදපොලේ",
+                "url": "https://youtube.com/watch?v=pp_ZqfNCw7U",
+                "duration": "5:23",
+                "thumbnail": "https://i.ytimg.com/vi/pp_ZqfNCw7U/hq720.jpg"
+            },
+            {
+                "title": "Weeds  Album/ පැළෑටි  වර්ග හදුනා ගනිමු / වල් පැළෑටි  වර්ග 100 ක් දැන ගන්න /plants /අප අවට ඇති පැළෑටි",
+                "url": "https://youtube.com/watch?v=nWSYJFuRP28",
+                "duration": "8:49",
+                "thumbnail": "https://i.ytimg.com/vi/nWSYJFuRP28/hqdefault.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "Mullein: Harvesting, Medicine, and Dangerous Lookalikes",
+                "url": "https://youtube.com/watch?v=vJLsFGUYfJY",
+                "duration": "10:26",
+                "thumbnail": "https://i.ytimg.com/vi/vJLsFGUYfJY/hq720_custom_1.jpg"
+            },
+            {
+                "title": "ශාක මත ඉහල නඟින හෝ බිම වැතිරී වැඩෙන වැල් ශාකයක් | බිංනුග",
+                "url": "https://youtube.com/watch?v=2oMb-hhY-Oo",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/2oMb-hhY-Oo/hq720.jpg"
+            },
+            {
+                "title": "අපි කොහොමද නීරෝගී වෙන්නේ? | Vedagedara Episode 06",
+                "url": "https://youtube.com/watch?v=DtWus_r63m4",
+                "duration": "10:39",
+                "thumbnail": "https://i.ytimg.com/vi/DtWus_r63m4/hq720.jpg"
+            },
+            {
+                "title": "බඹරු ප්‍ර#රයකට ලක් වී පුද්ගලයෙකුට ජීවිතය අහිමි වෙයි",
+                "url": "https://youtube.com/watch?v=7_Z7FhB6uZI",
+                "duration": "1:56",
+                "thumbnail": "https://i.ytimg.com/vi/7_Z7FhB6uZI/hq720.jpg"
+            },
+            {
+                "title": "අනුෂා ඩොක්ට මගේ දුවගේ වකුගඩුවල ගල් ඉවත් කර සුව කලේ එක මාසෙන්",
+                "url": "https://youtube.com/watch?v=tRUzDxKI24k",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/tRUzDxKI24k/hq720.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "කළුනික 🔴 Litsea saligna (Nees) N.P.Balakr.",
+                "url": "https://youtube.com/watch?v=WOBz2Fao8uI",
+                "duration": "11:11",
+                "thumbnail": "https://i.ytimg.com/vi/WOBz2Fao8uI/hq720.jpg"
+            },
+            {
+                "title": "ඇඟපතේ වේදනාවට ආයුර්වේදයෙන් පිළියම්, අභ්‍යංග ප්‍රතිකාරයේ රහස්!",
+                "url": "https://youtube.com/watch?v=qWC6Zn40Sl8",
+                "duration": "21:55",
+                "thumbnail": "https://i.ytimg.com/vi/qWC6Zn40Sl8/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු කෑවට එකේ ගුණ ගැන ඔබ දැනගෙන හිටියේ නැහැ නේද? මේක දිව්‍ය ඖෂධයක්",
+                "url": "https://youtube.com/watch?v=U0eg_h7T6i8",
+                "duration": "1:01",
+                "thumbnail": "https://i.ytimg.com/vi/U0eg_h7T6i8/hq720.jpg"
+            },
+            {
+                "title": "හීං බෝවිටියා ශාකයේ ඔසු ගුණ | Heen Bovitiya | Osbeckia Octandra",
+                "url": "https://youtube.com/watch?v=29JyQOFg1WI",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/29JyQOFg1WI/hq720.jpg"
+            },
+            {
+                "title": "ඔයත් ලංකාවෙ හැදෙන බතල කනවද? | Sweet Potatoes By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=gwY2k_myp34",
+                "duration": "8:30",
+                "thumbnail": "https://i.ytimg.com/vi/gwY2k_myp34/hq720.jpg"
+            },
+            {
+                "title": "බුලත් කන්නට පෙර මේ පිළිබද දැනුවත් වෙන්න| බුලතේ ගුණ  | Herbal plant  | Betel",
+                "url": "https://youtube.com/watch?v=M0d20neZ5CE",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/M0d20neZ5CE/hqdefault.jpg"
+            },
+            {
+                "title": "බතල කොළ ආහාරයට ගැනීම සුදුසු ද? | Sweet potato libs benefits🌿",
+                "url": "https://youtube.com/watch?v=nqJBbYE9zjM",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/nqJBbYE9zjM/hqdefault.jpg"
+            },
+            {
+                "title": "අර්ථාපල් බතල සහ බත් මේ විදියට සංසන්දනය කරලා බැලුවද?  Sweet Potatoes By Nutritionist Hiroshan",
+                "url": "https://youtube.com/watch?v=aHLc3YDBIIY",
+                "duration": "10:27",
+                "thumbnail": "https://i.ytimg.com/vi/aHLc3YDBIIY/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට ගුණ මේවා තම්බලා බිවොත්වෙනදේ  | සීනී පාලනය කිරීමට නියම දේශීය ඖෂධය",
+                "url": "https://youtube.com/watch?v=y1EXJntQjjU",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/y1EXJntQjjU/hq720.jpg"
+            },
+            {
+                "title": "බතල දලු මැල්ලුම කෑවම වෙන දේ මෙන්න : Benefits of Sweet Potato Leaves",
+                "url": "https://youtube.com/watch?v=XU_DUN6sH58",
+                "duration": "2:11",
+                "thumbnail": "https://i.ytimg.com/vi/XU_DUN6sH58/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු කෑවොත් මෙන්න මේ රෝග වලට ගුණයි | Thibbutu | Solanum torvum",
+                "url": "https://youtube.com/watch?v=Vs1ZvRhKNlA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/Vs1ZvRhKNlA/hqdefault.jpg"
+            },
+            {
+                "title": "Sweet potato leaves | සියළුම අක්මා රෝග සුව කරන බතල දළු වල ඇති විශ්මිත ගුණ ගැන ඔබ දැන සිටියාද........",
+                "url": "https://youtube.com/watch?v=lSzVh0qJamc",
+                "duration": "6:52",
+                "thumbnail": "https://i.ytimg.com/vi/lSzVh0qJamc/hq720.jpg"
+            },
+            {
+                "title": "බතල කොල වල ගුණ දන්නවද/batala kola walaguna dannawada/sweet  potatoes /#ishanhritage#",
+                "url": "https://youtube.com/watch?v=CCUKy0Bc8cc",
+                "duration": "3:42",
+                "thumbnail": "https://i.ytimg.com/vi/CCUKy0Bc8cc/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු වල තිත්ත ඇත්ත | Turkey Berry & Bitter Truth By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Yxcn99C76YM",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Yxcn99C76YM/hq720.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

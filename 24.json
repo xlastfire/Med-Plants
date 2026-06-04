@@ -1,90 +1,593 @@
 {
-  "scientificName": "Acorus calamus L.",
-  "synonyms": [
-    "Calamus aromaticus Garsault"
-  ],
-  "familyName": "ACORACEAE",
-  "englishNames": [
-    "Variegated Sweet Flag",
-    "Sweet Flag",
-    "Calamus",
-    "Variegated Sweet Flag",
-    "Sweet Flag",
-    "Calamus"
-  ],
-  "sinhalaName": "Wadakaha (වදකහ)",
-  "description": "මීටර් 2ක් දක්වා උසැති, පත්‍ර සහ රයිසෝම (rhizome) සුවඳවත් වන බහුවාර්ෂික තෙත්බිම් ඒකබීජපත්‍රී ශාකයකි. පත්‍ර සිම්පෝඩියල් (sympodial) ආකාර වන අතර පළල සෙ.මී. 0.7-1.7ක් වේ; පත්‍ර දාර තරංගිත (undulate) වේ. ස්පැඩික්ස් (spadix) පුෂ්ප මංජරිය සෙ.මී. 4.9-8.9ක් දිගය; මල් මි.මී. 3-4ක් පළල වන අතර සාමාන්‍යයෙන් වඳ (infertile) වේ. පලතුරු හටගන්නා විට ඒවා බෙරි (berry-like) ආකාර වන අතර බීජ කිහිපයක් අඩංගු වේ.",
-  "treatments": [
-    {
-      "treatment": "Hepatitis",
-      "sinhala": "හෙපටයිටිස් (අක්මා ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Acorus calamus L.",
+    "synonyms": [
+        "Calamus aromaticus Garsault"
+    ],
+    "familyName": "ACORACEAE",
+    "englishNames": [
+        "Variegated Sweet Flag",
+        "Sweet Flag",
+        "Calamus",
+        "Variegated Sweet Flag",
+        "Sweet Flag",
+        "Calamus"
+    ],
+    "sinhalaName": "Wadakaha (වදකහ)",
+    "description": "මීටර් 2ක් දක්වා උසැති, පත්‍ර සහ රයිසෝම (rhizome) සුවඳවත් වන බහුවාර්ෂික තෙත්බිම් ඒකබීජපත්‍රී ශාකයකි. පත්‍ර සිම්පෝඩියල් (sympodial) ආකාර වන අතර පළල සෙ.මී. 0.7-1.7ක් වේ; පත්‍ර දාර තරංගිත (undulate) වේ. ස්පැඩික්ස් (spadix) පුෂ්ප මංජරිය සෙ.මී. 4.9-8.9ක් දිගය; මල් මි.මී. 3-4ක් පළල වන අතර සාමාන්‍යයෙන් වඳ (infertile) වේ. පලතුරු හටගන්නා විට ඒවා බෙරි (berry-like) ආකාර වන අතර බීජ කිහිපයක් අඩංගු වේ.",
+    "treatments": [
+        {
+            "treatment": "Hepatitis",
+            "sinhala": "හෙපටයිටිස් (අක්මා ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Digestive Disorders",
+            "sinhala": "පූරක/ජීරණ පද්ධතියේ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Phlegm Issues",
+            "sinhala": "සෙම ආශ්‍රිත තත්ත්ව (කඵ දෝෂ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Paralysis",
+            "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Epilepsy",
+            "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots"
+    ],
+    "images": [
+        {
+            "image_id": "2830",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/hRL5FZ0t/plant00024-02830.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "විශබීජ නසන්නට කුඩා දරුවන්ගේ අතේ බදින වදකහ වලල්ල",
+                "url": "https://youtube.com/watch?v=EceEVy0mAiA",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/EceEVy0mAiA/hq720.jpg"
+            },
+            {
+                "title": "වදකහ -  Acorus calamus (Sweet Flag) - Wild Herbal - Humpty Production #Episode_1",
+                "url": "https://youtube.com/watch?v=qHeYT2NvKe0",
+                "duration": "2:10",
+                "thumbnail": "https://i.ytimg.com/vi/qHeYT2NvKe0/hq720.jpg"
+            },
+            {
+                "title": "Babata Wadakaha Walallak damu || බබාට වදකහ වලල්ලක් දාමු @Hanthana-",
+                "url": "https://youtube.com/watch?v=zBCXRPsQuok",
+                "duration": "1:02",
+                "thumbnail": "https://i.ytimg.com/vi/zBCXRPsQuok/hqdefault.jpg"
+            },
+            {
+                "title": "නිවෙස අසල තියෙන්නම ඕන වදකහ | Variegated Sweet Flag| Ceylon Agri | Episode 74",
+                "url": "https://youtube.com/watch?v=_3WxCo1na3M",
+                "duration": "5:26",
+                "thumbnail": "https://i.ytimg.com/vi/_3WxCo1na3M/hqdefault.jpg"
+            },
+            {
+                "title": "වදකහ | Acorus calamus | Sweet Flag | Variegated Sweet Flag | Wadakaha",
+                "url": "https://youtube.com/watch?v=4bAo3LlLkQI",
+                "duration": "4:10",
+                "thumbnail": "https://i.ytimg.com/vi/4bAo3LlLkQI/hq720.jpg"
+            },
+            {
+                "title": "වදකහ සුදියේ කථාව - Wadakaha Sudiya - The 1955 Solar Eclipse Hoax",
+                "url": "https://youtube.com/watch?v=hazJbWsEhww",
+                "duration": "8:56",
+                "thumbnail": "https://i.ytimg.com/vi/hazJbWsEhww/hqdefault.jpg"
+            },
+            {
+                "title": "වදකහ සුදියේ ඇත්ත කතාව",
+                "url": "https://youtube.com/watch?v=pJ8UT9XonbY",
+                "duration": "3:40",
+                "thumbnail": "https://i.ytimg.com/vi/pJ8UT9XonbY/hq720.jpg"
+            },
+            {
+                "title": "සුලගල වෙදමහතාගේ වදකහ සුලිය හා එල්ලංගාව 01",
+                "url": "https://youtube.com/watch?v=akSrBAumuy4",
+                "duration": "10:14",
+                "thumbnail": "https://i.ytimg.com/vi/akSrBAumuy4/hq720.jpg"
+            },
+            {
+                "title": "Corona ඇතුළු වෛරසවලින් ඔබ සුරකින `වදකහ´ Acorus calamus L.",
+                "url": "https://youtube.com/watch?v=ub6NX1lx328",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/ub6NX1lx328/hqdefault.jpg"
+            },
+            {
+                "title": "වද කහ | Wada Kaha | Ath Beheth Sinhala | Story Eka",
+                "url": "https://youtube.com/watch?v=sbf9YuHe2rg",
+                "duration": "2:20",
+                "thumbnail": "https://i.ytimg.com/vi/sbf9YuHe2rg/hq720.jpg"
+            },
+            {
+                "title": "සූර්යග්‍රහණයක් දා ලස්සන වෙන්න වදකහ බිව් ඇත්ත කතාව - 1955 Eclipse Sri Lanka",
+                "url": "https://youtube.com/watch?v=RNqZwXkDLZs",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/RNqZwXkDLZs/hqdefault.jpg"
+            },
+            {
+                "title": "වදකහ ගැන ඔබ නොදත් පුදුම රහස්! 😱 | Ancient Herbal Secret",
+                "url": "https://youtube.com/watch?v=-geArfB63XQ",
+                "duration": "4:30",
+                "thumbnail": "https://i.ytimg.com/vi/-geArfB63XQ/hq720.jpg"
+            },
+            {
+                "title": "වදකහ ශාකය .",
+                "url": "https://youtube.com/watch?v=LNTOH_0hlAY",
+                "duration": "1:32",
+                "thumbnail": "https://i.ytimg.com/vi/LNTOH_0hlAY/hq720.jpg"
+            },
+            {
+                "title": "Wadakaha (වදකහ)l l  acorus calamus [ surya grahana l how to drink juice of wadakaha acorus calamus",
+                "url": "https://youtube.com/watch?v=ja_34fjubmM",
+                "duration": "8:59",
+                "thumbnail": "https://i.ytimg.com/vi/ja_34fjubmM/hq720.jpg"
+            },
+            {
+                "title": "වදකහ මල#BeutifullFlowerInSrilanka#හෙලඔසු #TV9",
+                "url": "https://youtube.com/watch?v=1BM2ufHEqS4",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/1BM2ufHEqS4/hqdefault.jpg"
+            },
+            {
+                "title": "#වදකහ සුදිය#මුල් ගීතය#Wadakaha Sudiya# Original # C D Fonseka",
+                "url": "https://youtube.com/watch?v=rvGpqW-VPSo",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/rvGpqW-VPSo/hq720.jpg"
+            },
+            {
+                "title": "#මතක ශක්තිය වර්ධනය කරන 😏 #කටහඩ මිහිරි කරන ❤  #💚වදකහ💚#",
+                "url": "https://youtube.com/watch?v=xg25VAOTn0A",
+                "duration": "10:33",
+                "thumbnail": "https://i.ytimg.com/vi/xg25VAOTn0A/hq720.jpg"
+            },
+            {
+                "title": "SARA OSU VARUNA - සාර ඔසු වරුණ | වදකහ | 2024 - 10 - 11 | Erundeniya Ayurveda Hospital",
+                "url": "https://youtube.com/watch?v=5aAPZgtc8N0",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/5aAPZgtc8N0/hqdefault.jpg"
+            },
+            {
+                "title": "Wadakaha Sudiya-වදකහ සුදිය පානය කළ ආනන්ද මෛත්රය නා හිමි ට සිදු වූ දේ",
+                "url": "https://youtube.com/watch?v=tSiPIXuaR4U",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/tSiPIXuaR4U/hq720.jpg"
+            },
+            {
+                "title": "විශබීජ නසන්නට කුඩා දරුවන්ගේ අතේ බදින වදකහ වලල්ල",
+                "url": "https://youtube.com/watch?v=RiAy_ZzLniI",
+                "duration": "1:38",
+                "thumbnail": "https://i.ytimg.com/vi/RiAy_ZzLniI/frame0.jpg"
+            },
+            {
+                "title": "කහ වල ඇති ඔෳෂධිය ගුණ 15ක්|Turmeric15 medicinal properties of",
+                "url": "https://youtube.com/watch?v=_eRkyprVr4o",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/_eRkyprVr4o/hqdefault.jpg"
+            },
+            {
+                "title": "👉👉😱😱වාතය පිරිසිදු කරන වද කහ😱😱",
+                "url": "https://youtube.com/watch?v=Kvwcjv48e7c",
+                "duration": "2:04",
+                "thumbnail": "https://i.ytimg.com/vi/Kvwcjv48e7c/hq720.jpg"
+            },
+            {
+                "title": "වද කහ බීලා වෙද හාමිනේට වෙච්ච සන්තෑසිය",
+                "url": "https://youtube.com/watch?v=7xdimGBxXNc",
+                "duration": "7:11",
+                "thumbnail": "https://i.ytimg.com/vi/7xdimGBxXNc/hq720.jpg"
+            },
+            {
+                "title": "මතක ශක්තිය වර්දනය කරන ගොටුකොළ වල විශ්මිත ගුණ - A super food that boosts memory",
+                "url": "https://youtube.com/watch?v=jy8Zp6L_RZk",
+                "duration": "3:00",
+                "thumbnail": "https://i.ytimg.com/vi/jy8Zp6L_RZk/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා කහ බෙහෙතක් ලෙස ලබාගැනීමෙන් අපිට ලැබෙන විද්‍යාත්මකව තහවුරු කල වාසි රැසක්",
+                "url": "https://youtube.com/watch?v=HdwxhKFl_QU",
+                "duration": "12:12",
+                "thumbnail": "https://i.ytimg.com/vi/HdwxhKFl_QU/hqdefault.jpg"
+            },
+            {
+                "title": "කෑමට එකතු කරන කහ ඔබට කරන දේ මෙන්න : Turmeric benefits",
+                "url": "https://youtube.com/watch?v=_yNZhJSTe2o",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/_yNZhJSTe2o/hq720.jpg"
+            },
+            {
+                "title": "kaha shakaya -කහ ශාකයේ ඖෂධීය ගුණ/Tamaric plants",
+                "url": "https://youtube.com/watch?v=5JZD8bHWTLc",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/5JZD8bHWTLc/hq720.jpg"
+            },
+            {
+                "title": "සාදික්කා හා වසාවාසි වල ගුණ අගුණ හරියට දැනගමු | සාදික්කා | වසාවාසි | Sadikka | Nutmeg",
+                "url": "https://youtube.com/watch?v=Mttq7F2oyWQ",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/Mttq7F2oyWQ/hqdefault.jpg"
+            },
+            {
+                "title": "ස්වභාවික ඖශධ මගින්  අකලට කෙස් ඉදීම වළකා, නිරෝගිමත් කෙස්කළබක් ලබාදෙන ප්‍රත්‍යක්‍ෂ ආයුර්වේද ආලේපය.",
+                "url": "https://youtube.com/watch?v=RM3wUY_jE5I",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/RM3wUY_jE5I/hqdefault.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "මීට වඩා හොඳ බෙහෙතක් තියෙයිද ?  Jawa Food Corner",
+                "url": "https://youtube.com/watch?v=K-fAPEcaUXY",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/K-fAPEcaUXY/hq720.jpg"
+            },
+            {
+                "title": "ශරීරය ලෙඩ කරන බලවේග මෙන්න හරි විදිහට ශරීරය සුද්ද කර කදබාර දුන්නොත් වරමට එන ආකාරය මෙන්න ,,",
+                "url": "https://youtube.com/watch?v=d3NWmZJa4B4",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/d3NWmZJa4B4/hq720.jpg"
+            },
+            {
+                "title": "🔥 වකුගඩු වලට දැනගත යුතු හොඳ සහ නරක අතිරේක⚠️ වකුගඩු වලට හානි කරයිද?! kidney health Vitamins",
+                "url": "https://youtube.com/watch?v=9OrQHJynr4I",
+                "duration": "20:03",
+                "thumbnail": "https://i.ytimg.com/vi/9OrQHJynr4I/hq720.jpg"
+            },
+            {
+                "title": "කැකිරි වරා 🔴 Schumacheria castaneifolia Vahl",
+                "url": "https://youtube.com/watch?v=zDLfLTeX0yU",
+                "duration": "16:35",
+                "thumbnail": "https://i.ytimg.com/vi/zDLfLTeX0yU/hq720.jpg"
+            },
+            {
+                "title": "කෙණ්ඩා පෙරලීම මෙතරම් භයානකද? The Hidden Danger of Leg Cramps!",
+                "url": "https://youtube.com/watch?v=DKFnTu2dVyI",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/DKFnTu2dVyI/hq720.jpg"
+            },
+            {
+                "title": "Kottakkal Vasakadyarishtam Benefits | Natural Relief for Cough, Cold & Breathing Problems | Ayurveda",
+                "url": "https://youtube.com/watch?v=fpDoY0NS6Ko",
+                "duration": "1:22",
+                "thumbnail": "https://i.ytimg.com/vi/fpDoY0NS6Ko/hq720.jpg"
+            },
+            {
+                "title": "Haathawariya - Medicinal plants |හාතවාරිය ඔසු ගුණ",
+                "url": "https://youtube.com/watch?v=jcEX06gVbBs",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/jcEX06gVbBs/hqdefault.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "වකුගඩු වල විෂ සෝදලා හරින්න බොන්නම ඕන බීම වර්ග 6ක් | 6 drinks Cleanse Your Kidneys Naturally",
+                "url": "https://youtube.com/watch?v=jVdnQz2lrBc",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/jVdnQz2lrBc/hq720.jpg"
+            },
+            {
+                "title": "වදමල් පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක් | Health Benefits Of Hibiscus Tea | Wadamal Bima",
+                "url": "https://youtube.com/watch?v=fxdjqg4xd4k",
+                "duration": "11:16",
+                "thumbnail": "https://i.ytimg.com/vi/fxdjqg4xd4k/hq720.jpg"
+            },
+            {
+                "title": "මේ ශාකය භාවිතයට නොගන්නා ඔබ බත් කාලා වැඩක් නෑ /ausadiya kikiridiya",
+                "url": "https://youtube.com/watch?v=scqO5Np5pcU",
+                "duration": "6:03",
+                "thumbnail": "https://i.ytimg.com/vi/scqO5Np5pcU/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "පාවට්ටා /ආඩතෝඩා/අගල්ආධාර. Medicinal value of Pavatta",
+                "url": "https://youtube.com/watch?v=lcyrrINSThE",
+                "duration": "6:17",
+                "thumbnail": "https://i.ytimg.com/vi/lcyrrINSThE/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රැසක් සහිත වරා ශාකය | Calotropis gigantea / wara | Episode 30",
+                "url": "https://youtube.com/watch?v=3StW_-_5r9U",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/3StW_-_5r9U/hq720.jpg"
+            },
+            {
+                "title": "වද මල් බොන එකේ ඇත්ත නැත්ත | Hibiscus Tea & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=vj2RlbqQtco",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/vj2RlbqQtco/hq720.jpg"
+            },
+            {
+                "title": "උළු හාල් වතුර වීදුරුවක් දිනපතා පානය කිරීමෙන් ඔබේ ශරීරයට සිදු වෙන දේවල් 06ක් | 06 benefits of Uluhal",
+                "url": "https://youtube.com/watch?v=y_-acBKhFTo",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/y_-acBKhFTo/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "වද මල් යුෂ මගින් ලැබෙන සෞඛ්‍ය ප්‍රතිලාභ 9ක් - 9 Health Benefits of Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=xRInp9A-z18",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/xRInp9A-z18/hq720.jpg"
+            },
+            {
+                "title": "ඖෂදිය ගුණ ඇති වරා ශාකයෙන් ගත හැකි ප්‍රයෝජන - calotropis gigantea / Wara",
+                "url": "https://youtube.com/watch?v=zZvrg5FXEsE",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/zZvrg5FXEsE/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රැසක් නසන ස්වභාවික ආහාර රසකාරකය. | Food Flavoring That Kills Many Diseases.",
+                "url": "https://youtube.com/watch?v=eJxbvrJGGWQ",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/eJxbvrJGGWQ/hq720.jpg"
+            },
+            {
+                "title": "මේ විදියට උළුහාල් වතුර පානය කරොත් සම වේගයෙන් තිරිහන් වෙනවා | Your Natural Secret for Glowing Skin",
+                "url": "https://youtube.com/watch?v=aRFwr7oAbrs",
+                "duration": "9:14",
+                "thumbnail": "https://i.ytimg.com/vi/aRFwr7oAbrs/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "Grade4 ජල වාෂ්ප වලින් ගන්නා ප්රයෝජන",
+                "url": "https://youtube.com/watch?v=sAqozMVL_rQ",
+                "duration": "4:24",
+                "thumbnail": "https://i.ytimg.com/vi/sAqozMVL_rQ/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=OXkxr_imRfQ",
+                "duration": "4:14",
+                "thumbnail": "https://i.ytimg.com/vi/OXkxr_imRfQ/hq720.jpg"
+            },
+            {
+                "title": "Parampara Sinhala | X Generation, Y Generation, Z & Alpha, මොනවද මේ පරම්පරා, Sinhala Education",
+                "url": "https://youtube.com/watch?v=YPHcCIp_DVg",
+                "duration": "14:35",
+                "thumbnail": "https://i.ytimg.com/vi/YPHcCIp_DVg/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of rain | වැස්සෙන් ඇති ප්‍රයෝජන | 3,4,5 ශ්‍රේණි සදහා පෙරහුරු රචනා | scholarship exam",
+                "url": "https://youtube.com/watch?v=8eb8UaD2Eb4",
+                "duration": "9:54",
+                "thumbnail": "https://i.ytimg.com/vi/8eb8UaD2Eb4/hqdefault.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් ඇති ප්‍රයෝජන සහ අපට උදව් කරන සතුන් පාඩම | #usefulanimals #keenkidamigo 4,5 ශ්‍රේණි පරිසරය",
+                "url": "https://youtube.com/watch?v=cY5ccYVn_mQ",
+                "duration": "2:17",
+                "thumbnail": "https://i.ytimg.com/vi/cY5ccYVn_mQ/hq720.jpg"
+            },
+            {
+                "title": "වාචාලයෝ එක්ක වාද නොකර වාද දිනන්නෙ කොහොමද?  | 48 Laws of Power in Sinhala | 9th Rule",
+                "url": "https://youtube.com/watch?v=ftHhiKwlurs",
+                "duration": "10:21",
+                "thumbnail": "https://i.ytimg.com/vi/ftHhiKwlurs/hq720.jpg"
+            },
+            {
+                "title": "පුංචි අපේ පරිසර පාඩම | ගස්වල ලීයෙන් ඇති ප්‍රයෝජන | Gaswala prayojana",
+                "url": "https://youtube.com/watch?v=7RWJt7G3FcQ",
+                "duration": "25:54",
+                "thumbnail": "https://i.ytimg.com/vi/7RWJt7G3FcQ/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "අව්වේ සහ හෙවනේ වැවෙන බෝග නිවැරැදිව හදුනාගනිමු",
+                "url": "https://youtube.com/watch?v=jcmFdi5iJ0o",
+                "duration": "0:44",
+                "thumbnail": "https://i.ytimg.com/vi/jcmFdi5iJ0o/hqdefault.jpg"
+            },
+            {
+                "title": "Key Medicinal Plant: Calamus: The Sweet Flag of Digestive and Neurological Harmony",
+                "url": "https://youtube.com/watch?v=WZtYsMAMvss",
+                "duration": "15:49",
+                "thumbnail": "https://i.ytimg.com/vi/WZtYsMAMvss/hq720.jpg"
+            },
+            {
+                "title": "Bach Plant : Medicinal Uses and Botany",
+                "url": "https://youtube.com/watch?v=LySoE1dyy8U",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/LySoE1dyy8U/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Bojho (Acorus calamus): बोझोको चमत्कारी फाईदाहरु । Medicinal Plants / herbs",
+                "url": "https://youtube.com/watch?v=OL_dDIosi3Q",
+                "duration": "14:00",
+                "thumbnail": "https://i.ytimg.com/vi/OL_dDIosi3Q/hqdefault.jpg"
+            },
+            {
+                "title": "The Powerful Healer Hiding In Your Backyard",
+                "url": "https://youtube.com/watch?v=Sxzqg_BclSE",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/Sxzqg_BclSE/hq720.jpg"
+            },
+            {
+                "title": "VACHH A HERBAL PLANT- BENEFITS AND MORE",
+                "url": "https://youtube.com/watch?v=boN4U2ctucw",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/boN4U2ctucw/hq720.jpg"
+            },
+            {
+                "title": "What part of calamus is used for medicine?",
+                "url": "https://youtube.com/watch?v=bdyf43M02js",
+                "duration": "1:36",
+                "thumbnail": "https://i.ytimg.com/vi/bdyf43M02js/hq720.jpg"
+            },
+            {
+                "title": "බිව්වානේද වදකහ සුදිය | Wadakaha Sudiya - Sinhala | Aruna Namal",
+                "url": "https://youtube.com/watch?v=kGbDp7AS0yY",
+                "duration": "3:56",
+                "thumbnail": "https://i.ytimg.com/vi/kGbDp7AS0yY/hqdefault.jpg"
+            },
+            {
+                "title": "ඖෂධීය වද කහ පැලෑටිය",
+                "url": "https://youtube.com/watch?v=PlmUl7jR-OA",
+                "duration": "1:01:57",
+                "thumbnail": "https://i.ytimg.com/vi/PlmUl7jR-OA/hqdefault.jpg"
+            },
+            {
+                "title": "වකුගඩු වලට ගුණ කෑම මෙන්න/Best food for kidney health/#kidneyhealth @Mediupdater #healthykidneys",
+                "url": "https://youtube.com/watch?v=0HRfKGKP0ug",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/0HRfKGKP0ug/hq720.jpg"
+            },
+            {
+                "title": "වට්ටක්කා වල ඇති කවුරුත් නොදන්නා විශ්මිත ගුණ - Amazing properties of pumpkin For a healthy life",
+                "url": "https://youtube.com/watch?v=vrvnJ7vDeCY",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/vrvnJ7vDeCY/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබේ නිවසේ මේ දැන්ම වගාකරගත යුතු ලොව බලගතුම ඖෂධීය ශාකය -පවුලේ අයට ආදරෙයි නම් වත්තේ මෙයින් ගහක් වවන්න.",
+                "url": "https://youtube.com/watch?v=hTywTHm1AzU",
+                "duration": "8:59",
+                "thumbnail": "https://i.ytimg.com/vi/hTywTHm1AzU/hq720.jpg"
+            },
+            {
+                "title": "11 Medical Uses and Health Benefits of Sweet Flag (Acorus calamus)",
+                "url": "https://youtube.com/watch?v=6LSECY4FrWQ",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/6LSECY4FrWQ/hq720.jpg"
+            },
+            {
+                "title": "Acorus calamus: Uses, Cautions & a Beautiful Story | KP Khalsa",
+                "url": "https://youtube.com/watch?v=BO0s9CI02xE",
+                "duration": "8:43",
+                "thumbnail": "https://i.ytimg.com/vi/BO0s9CI02xE/hq720.jpg"
+            },
+            {
+                "title": "Ancient Egyptians Use This Plant To Memorize Entire Libraries. Why FDA Banned It?",
+                "url": "https://youtube.com/watch?v=O4ooccbziL4",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/O4ooccbziL4/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Digestive Disorders",
-      "sinhala": "පූරක/ජීරණ පද්ධතියේ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Phlegm Issues",
-      "sinhala": "සෙම ආශ්‍රිත තත්ත්ව (කඵ දෝෂ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Paralysis",
-      "sinhala": "අංශභාගය (පක්ෂාඝාතය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Epilepsy",
-      "sinhala": "අපස්මාරය (මිරිස්වැටුම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots"
-  ],
-  "images": [
-    {
-      "image_id": "2830",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/hRL5FZ0t/plant00024-02830.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

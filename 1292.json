@@ -1,110 +1,361 @@
 {
-  "scientificName": "Camellia sinensis (L.) Kuntze",
-  "synonyms": [
-    "Camellia arborescens Hung T.Chang, F.L.Yu & P.S.Wang",
-    "Camellia bohea (L.) Sweet",
-    "Camellia chinensis (Sims) Kuntze",
-    "Camellia formosensis (Masam. & Suzuki) M.H.Su, C.F.Hsieh & C.H.Tsou",
-    "Camellia longlingensis F.C.Zhang, G.B.Chen & M.D.Tang",
-    "Camellia oleosa (Lour.) Rehder",
-    "Camellia sinensis f. formosensis (Masam. & Suzuki) Kitam.",
-    "Camellia sinensis f. macrophylla (Siebold ex Miq.) Kitam.",
-    "Camellia sinensis f. parvifolia (Miq.) Sealy",
-    "Camellia sinensis f. rosea (Makino) Kitam.",
-    "Camellia sinensis var. waldenae (S.Y.Hu) Hung T.Chang",
-    "Camellia thea Link",
-    "Camellia thea var. bohea (L.) G.Watt",
-    "Camellia thea var. stricta (Hayne) G.Watt",
-    "Camellia thea var. viridis (L.) G.Watt",
-    "Camellia theifera var. macrophylla (Siebold ex Miq.) Matsum.",
-    "Camellia viridis Sweet",
-    "Camellia waldenae S.Y.Hu",
-    "Thea bohea L.",
-    "Thea bohea var. laxa Aiton",
-    "Thea bohea var. stricta Aiton",
-    "Thea cantoniensis Lour.",
-    "Thea chinensis Sims",
-    "Thea formosensis Masam. & Suzuki",
-    "Thea grandifolia Salisb.",
-    "Thea latifolia Lodd. ex Sweet",
-    "Thea longifolia Nois. ex Steud.",
-    "Thea olearia Lour. ex Gomes Mach.",
-    "Thea oleosa Lour.",
-    "Thea parvifolia Salisb.",
-    "Thea sasanqua var. oleosa (Lour.) Pierre",
-    "Thea sinensis L.",
-    "Thea sinensis var. bohea (L.) K.Koch",
-    "Thea sinensis var. cantoniensis (Lour.) Pierre",
-    "Thea sinensis var. diffusa C.Morren",
-    "Thea sinensis var. macrophylla C.Morren",
-    "Thea sinensis var. pubescens Pierre",
-    "Thea sinensis var. rugosa C.Morren",
-    "Thea sinensis var. stricta C.Morren",
-    "Thea sinensis var. viridis Pierre",
-    "Thea stricta Hayne",
-    "Thea viridis L.",
-    "Thea viridis var. bohea (L.) Vent.",
-    "Theaphylla anamensis Raf.",
-    "Theaphylla cantoniensis (Lour.) Raf.",
-    "Theaphylla laxa (Aiton) Raf.",
-    "Theaphylla viridis (Sweet) Raf."
-  ],
-  "familyName": "THEACEAE",
-  "englishNames": [
-    "Tea",
-    "Assam Tea",
-    "Tea Camellia",
-    "Tea Plant",
-    "Tea Tree Camellia"
-  ],
-  "sinhalaName": "Thae (තේ)",
-  "description": "සදාහරිත ගස් හෝ පඳුරු වන අතර, කොළ සඳහා වගා කරන විට සාමාන්‍යයෙන් මීටර් 2කට වඩා අඩුවෙන් කප්පාදු කරනු ලැබේ. පත්‍ර සෙන්ටිමීටර 5-9 x 2-3ක් පමණ පළල වේ. මල් කහ පැහැයට හුරු සුදු පැහැයක් ගන්නා අතර, විෂ්කම්භය සෙන්ටිමීටර 2.5-4ක් වන අතර පෙති 7-8කින් සමන්විත වේ.",
-  "treatments": [
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Camellia sinensis (L.) Kuntze",
+    "synonyms": [
+        "Camellia arborescens Hung T.Chang, F.L.Yu & P.S.Wang",
+        "Camellia bohea (L.) Sweet",
+        "Camellia chinensis (Sims) Kuntze",
+        "Camellia formosensis (Masam. & Suzuki) M.H.Su, C.F.Hsieh & C.H.Tsou",
+        "Camellia longlingensis F.C.Zhang, G.B.Chen & M.D.Tang",
+        "Camellia oleosa (Lour.) Rehder",
+        "Camellia sinensis f. formosensis (Masam. & Suzuki) Kitam.",
+        "Camellia sinensis f. macrophylla (Siebold ex Miq.) Kitam.",
+        "Camellia sinensis f. parvifolia (Miq.) Sealy",
+        "Camellia sinensis f. rosea (Makino) Kitam.",
+        "Camellia sinensis var. waldenae (S.Y.Hu) Hung T.Chang",
+        "Camellia thea Link",
+        "Camellia thea var. bohea (L.) G.Watt",
+        "Camellia thea var. stricta (Hayne) G.Watt",
+        "Camellia thea var. viridis (L.) G.Watt",
+        "Camellia theifera var. macrophylla (Siebold ex Miq.) Matsum.",
+        "Camellia viridis Sweet",
+        "Camellia waldenae S.Y.Hu",
+        "Thea bohea L.",
+        "Thea bohea var. laxa Aiton",
+        "Thea bohea var. stricta Aiton",
+        "Thea cantoniensis Lour.",
+        "Thea chinensis Sims",
+        "Thea formosensis Masam. & Suzuki",
+        "Thea grandifolia Salisb.",
+        "Thea latifolia Lodd. ex Sweet",
+        "Thea longifolia Nois. ex Steud.",
+        "Thea olearia Lour. ex Gomes Mach.",
+        "Thea oleosa Lour.",
+        "Thea parvifolia Salisb.",
+        "Thea sasanqua var. oleosa (Lour.) Pierre",
+        "Thea sinensis L.",
+        "Thea sinensis var. bohea (L.) K.Koch",
+        "Thea sinensis var. cantoniensis (Lour.) Pierre",
+        "Thea sinensis var. diffusa C.Morren",
+        "Thea sinensis var. macrophylla C.Morren",
+        "Thea sinensis var. pubescens Pierre",
+        "Thea sinensis var. rugosa C.Morren",
+        "Thea sinensis var. stricta C.Morren",
+        "Thea sinensis var. viridis Pierre",
+        "Thea stricta Hayne",
+        "Thea viridis L.",
+        "Thea viridis var. bohea (L.) Vent.",
+        "Theaphylla anamensis Raf.",
+        "Theaphylla cantoniensis (Lour.) Raf.",
+        "Theaphylla laxa (Aiton) Raf.",
+        "Theaphylla viridis (Sweet) Raf."
+    ],
+    "familyName": "THEACEAE",
+    "englishNames": [
+        "Tea",
+        "Assam Tea",
+        "Tea Camellia",
+        "Tea Plant",
+        "Tea Tree Camellia"
+    ],
+    "sinhalaName": "Thae (තේ)",
+    "description": "සදාහරිත ගස් හෝ පඳුරු වන අතර, කොළ සඳහා වගා කරන විට සාමාන්‍යයෙන් මීටර් 2කට වඩා අඩුවෙන් කප්පාදු කරනු ලැබේ. පත්‍ර සෙන්ටිමීටර 5-9 x 2-3ක් පමණ පළල වේ. මල් කහ පැහැයට හුරු සුදු පැහැයක් ගන්නා අතර, විෂ්කම්භය සෙන්ටිමීටර 2.5-4ක් වන අතර පෙති 7-8කින් සමන්විත වේ.",
+    "treatments": [
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Urinary Tract Infection",
+            "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Urinary & Renal System Diseases",
+                "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves"
+    ],
+    "images": [
+        {
+            "image_id": "1648",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/MyghyJtx/plant01292-01648.jpg"
+        },
+        {
+            "image_id": "1649",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/jPy8GjzW/plant01292-01649.jpg"
+        },
+        {
+            "image_id": "4003",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/5W9BVVDR/plant01292-04003.jpg"
+        },
+        {
+            "image_id": "4004",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/CKnb1Fgc/plant01292-04004.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඝණත්ව තේ වගාව | Density Planting of TEA",
+                "url": "https://youtube.com/watch?v=NG7FenOWlGc",
+                "duration": "10:35",
+                "thumbnail": "https://i.ytimg.com/vi/NG7FenOWlGc/hq720.jpg"
+            },
+            {
+                "title": "TRI 2023 තේ ප්‍රබේදය නිවැරදිව හදුනා ගනිමු | Identify Tea Clone - 2023 |#tea #identifyclone",
+                "url": "https://youtube.com/watch?v=Q0XmkhGlc38",
+                "duration": "9:28",
+                "thumbnail": "https://i.ytimg.com/vi/Q0XmkhGlc38/hq720.jpg"
+            },
+            {
+                "title": "හරිම තේ එක හොයාගන්නෙ කොහොමද? | What is the best tea for you | By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=RAj_9GuK2_g",
+                "duration": "10:13",
+                "thumbnail": "https://i.ytimg.com/vi/RAj_9GuK2_g/hq720.jpg"
+            },
+            {
+                "title": "තේ වගාවේ ඉතිහාස කතාව -01 |Tea History Episode -01 | #tea #histroy",
+                "url": "https://youtube.com/watch?v=jB2brsdVKJQ",
+                "duration": "7:50",
+                "thumbnail": "https://i.ytimg.com/vi/jB2brsdVKJQ/hq720.jpg"
+            },
+            {
+                "title": "තේ වර්ග හදුනා ගනිමු  - Episode 376 - Learn about the Types of Tea",
+                "url": "https://youtube.com/watch?v=OQTGp1DStZc",
+                "duration": "14:08",
+                "thumbnail": "https://i.ytimg.com/vi/OQTGp1DStZc/hqdefault.jpg"
+            },
+            {
+                "title": "ගෙදරම වවපු තේ බොමුද? තේ පැලයක් බඳුනක වවන්නෙ මෙහෙමයි | How to Grow Tea at Home | Epi.325| Ceylon Agri",
+                "url": "https://youtube.com/watch?v=NH9F9lpOJTU",
+                "duration": "13:34",
+                "thumbnail": "https://i.ytimg.com/vi/NH9F9lpOJTU/hq720.jpg"
+            },
+            {
+                "title": "මෙන්න පැවිල්ලට සහ නියගයට ඔරොත්තු දෙන තේ ප්‍රබේද ? Best Tea Clone for Drought | #tea #drought",
+                "url": "https://youtube.com/watch?v=lC-k1V_rWLU",
+                "duration": "8:22",
+                "thumbnail": "https://i.ytimg.com/vi/lC-k1V_rWLU/hq720.jpg"
+            },
+            {
+                "title": "තේ වගාවට නිවැරදිව ඩොලමයිට් යෙදීම | How to Apply dolomite for tea cultivation #Tea #Dolomite #NPK",
+                "url": "https://youtube.com/watch?v=NSgRIGkq-BM",
+                "duration": "3:17",
+                "thumbnail": "https://i.ytimg.com/vi/NSgRIGkq-BM/hq720.jpg"
+            },
+            {
+                "title": "නිතර තේ බොන අයට වෙන පුදුම දේවල් : Benefits of Black Tea",
+                "url": "https://youtube.com/watch?v=eYWWRCcX3_Q",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/eYWWRCcX3_Q/hq720.jpg"
+            },
+            {
+                "title": "Learn about the benefits of drinking tea|තේ පානය කිරීමෙන් ලැබෙන ප්‍රතිලාබ ගැන දැනගන්න",
+                "url": "https://youtube.com/watch?v=wSuQdRKVgcM",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/wSuQdRKVgcM/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම බොන තේවල විස්මිත ගුණ Benifits of Tea #tea #beautytips #healthtips #healthylifestyle #srilanka",
+                "url": "https://youtube.com/watch?v=IX3l9suJO10",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/IX3l9suJO10/hq720.jpg"
+            },
+            {
+                "title": "මෙන්න මේ අය තේ බොන්න එපා : Who should not drink tea (2019)",
+                "url": "https://youtube.com/watch?v=QSptEvL8MwE",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/QSptEvL8MwE/hq720.jpg"
+            },
+            {
+                "title": "මචා තේ මගින් අපට ලැබෙන විද්‍යාත්මකව තහවුරු කල වටිනා ගුන 5 ක්",
+                "url": "https://youtube.com/watch?v=ONCNdoQW3HY",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/ONCNdoQW3HY/hqdefault.jpg"
+            },
+            {
+                "title": "සෞඛ්‍යයට අහිතකර ලෙස තේ බොන නරකම ආකාරය  The worst way to drink tea",
+                "url": "https://youtube.com/watch?v=nE2DYPFLmYE",
+                "duration": "4:06",
+                "thumbnail": "https://i.ytimg.com/vi/nE2DYPFLmYE/hq720.jpg"
+            },
+            {
+                "title": "ශ්‍රී ලංකාවේ ජනප්‍රියතම කළු තේ වල ගුණ පිළිබඳව වැඩි අවධානයක්‍ | Ru News",
+                "url": "https://youtube.com/watch?v=5vNsBKO8070",
+                "duration": "2:37",
+                "thumbnail": "https://i.ytimg.com/vi/5vNsBKO8070/hqdefault.jpg"
+            },
+            {
+                "title": "තේ බීම වැඩි වුනාම ඇගේ ලේ අඩුවෙන්නෙ කොහොමද ?",
+                "url": "https://youtube.com/watch?v=gX2L4wII4bA",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/gX2L4wII4bA/hq720.jpg"
+            },
+            {
+                "title": "Green Tea දන්නෙ නැතිව බීලා ලෙඩ වෙන්න එපා|Nutritionist Hiroshan jayaranga",
+                "url": "https://youtube.com/watch?v=TDIMq20XoVM",
+                "duration": "10:06",
+                "thumbnail": "https://i.ytimg.com/vi/TDIMq20XoVM/hq720.jpg"
+            },
+            {
+                "title": "නිතර තේ බොන අයට වෙන පුදුම දේවල් : Benefits of Black Tea",
+                "url": "https://youtube.com/watch?v=-TC8eJNF0dI",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/-TC8eJNF0dI/frame0.jpg"
+            },
+            {
+                "title": "Tea Cultivation in Sri Lanka/Part 40/An analysis of Tea Clones",
+                "url": "https://youtube.com/watch?v=_cv3mX4hxWM",
+                "duration": "47:54",
+                "thumbnail": "https://i.ytimg.com/vi/_cv3mX4hxWM/hq720.jpg"
+            },
+            {
+                "title": "Tea Cultivation in Sri Lanka/Part 65/වැඩිපුර ආදායම් ගතහැකි රතු තේ සිටුවන්න",
+                "url": "https://youtube.com/watch?v=DsGjtJDGYl8",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/DsGjtJDGYl8/hqdefault.jpg"
+            },
+            {
+                "title": "තේ වගාව තුළ උස්සෙවණ කළමණාකරණය",
+                "url": "https://youtube.com/watch?v=p3sKcA0Z78k",
+                "duration": "1:19",
+                "thumbnail": "https://i.ytimg.com/vi/p3sKcA0Z78k/hqdefault.jpg"
+            },
+            {
+                "title": "නිවැරදි ආකාරයෙන් තේ දළු නෙළන හැටි | How to pluck tea leaves the right way!",
+                "url": "https://youtube.com/watch?v=VE3-S6YItIE",
+                "duration": "12:01",
+                "thumbnail": "https://i.ytimg.com/vi/VE3-S6YItIE/hq720.jpg"
+            },
+            {
+                "title": "තේ ඉඩමක තනි කොළ සැදෙන්නේ ඇයි ? | ආහාර සංචිත වැඩි කරන්න ද ?| Role of dormant leaf for Tea Plant|#tea",
+                "url": "https://youtube.com/watch?v=Xka3bOQFZuI",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/Xka3bOQFZuI/hq720.jpg"
+            },
+            {
+                "title": "Tea plantation in Sri Lanka / සාර්ථක තේ වගාවකට අත් වැල",
+                "url": "https://youtube.com/watch?v=PbujJH2fM7s",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/PbujJH2fM7s/hqdefault.jpg"
+            },
+            {
+                "title": "තේ වගාවේ වල් පාලනය ප්‍රශ්නයක් ද ? easy way of weed control of Tea |Farmer experience | Episode-01",
+                "url": "https://youtube.com/watch?v=0ID4ntF0UVs",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/0ID4ntF0UVs/hq720.jpg"
+            },
+            {
+                "title": "තේ ගස් වලට දියර පොහොර යෙදීම/Tea Cultivation in Sri Lanka",
+                "url": "https://youtube.com/watch?v=6YRnNnd5BmU",
+                "duration": "7:15",
+                "thumbnail": "https://i.ytimg.com/vi/6YRnNnd5BmU/hq720.jpg"
+            },
+            {
+                "title": "සිටුවීමට හොදම තේ ප්‍රභේදය මොකක්ද? මෙහෙමයි තෝරා ගන්නේWhat is the best tea variety to plant?",
+                "url": "https://youtube.com/watch?v=VS2W9Cc27Xs",
+                "duration": "12:22",
+                "thumbnail": "https://i.ytimg.com/vi/VS2W9Cc27Xs/hq720.jpg"
+            },
+            {
+                "title": "තේ වලින් වැඩිම අස්වැන්නක් ගන්නේ කොහොමද? How to increase tea yeild #agriculture #tea #srilanka",
+                "url": "https://youtube.com/watch?v=8re68xBQneE",
+                "duration": "13:26",
+                "thumbnail": "https://i.ytimg.com/vi/8re68xBQneE/hq720.jpg"
+            },
+            {
+                "title": "තේ වගාවේ ලෙඩ රෝග Tea Pest & Diseases",
+                "url": "https://youtube.com/watch?v=JvZ8fp2GrOo",
+                "duration": "19:49",
+                "thumbnail": "https://i.ytimg.com/vi/JvZ8fp2GrOo/hqdefault.jpg"
+            },
+            {
+                "title": "තේ වගාවේ වල් මර්ධනය|Tea wagawe wal mardanaya",
+                "url": "https://youtube.com/watch?v=UmLUbK70CZY",
+                "duration": "9:32",
+                "thumbnail": "https://i.ytimg.com/vi/UmLUbK70CZY/hq720.jpg"
+            },
+            {
+                "title": "ග්‍රීන් ටී වැඩිපුර බිව්වොත් වෙන දේ මෙන්න : Side effects of green tea caffeine",
+                "url": "https://youtube.com/watch?v=IKP1H-FPykc",
+                "duration": "1:51",
+                "thumbnail": "https://i.ytimg.com/vi/IKP1H-FPykc/hq720.jpg"
+            },
+            {
+                "title": "Green Tea හරියට වැඩ කරන්න මෙහෙම ගන්න - @behethbydrnamal",
+                "url": "https://youtube.com/watch?v=WkDZ-dx016g",
+                "duration": "12:58",
+                "thumbnail": "https://i.ytimg.com/vi/WkDZ-dx016g/hq720.jpg"
+            },
+            {
+                "title": "Top 8 Health Benefits of Green Tea – Dr. Berg",
+                "url": "https://youtube.com/watch?v=W1Bj7sKWxi8",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/W1Bj7sKWxi8/hq720.jpg"
+            },
+            {
+                "title": "12 AMAZING Benefits of Green Tea (How To Use It)",
+                "url": "https://youtube.com/watch?v=9fC9XX1lIBE",
+                "duration": "8:22",
+                "thumbnail": "https://i.ytimg.com/vi/9fC9XX1lIBE/hq720.jpg"
+            },
+            {
+                "title": "7 Health Benefits of Green Tea & How to Drink it | Doctor Mike",
+                "url": "https://youtube.com/watch?v=t4Gcrc9lMog",
+                "duration": "6:45",
+                "thumbnail": "https://i.ytimg.com/vi/t4Gcrc9lMog/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Tea Drinking",
+                "url": "https://youtube.com/watch?v=um-5sHti0kg",
+                "duration": "4:59",
+                "thumbnail": "https://i.ytimg.com/vi/um-5sHti0kg/hq720.jpg"
+            },
+            {
+                "title": "තේ පානයේ ගුණ Ceylon Tea Divine # Sinhala. # Ceylon Tea Divine #Aroma #Aroma Sri Lanka",
+                "url": "https://youtube.com/watch?v=BinaAXiYY7g",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/BinaAXiYY7g/hqdefault.jpg"
+            },
+            {
+                "title": "නිතර තේ බොන අයට වෙන පුදුම දේවල් : Benefits of Black Tea",
+                "url": "https://youtube.com/watch?v=8L_SSr-reDE",
+                "duration": "2:51",
+                "thumbnail": "https://i.ytimg.com/vi/8L_SSr-reDE/frame0.jpg"
+            },
+            {
+                "title": "තේ අස්වැන්න වැඩි කර ගන්න ඕනද...එහෙනම් මේ දේවල් කරන්න..For higher Tea crop , do this...",
+                "url": "https://youtube.com/watch?v=FVxB1kBytjc",
+                "duration": "24:43",
+                "thumbnail": "https://i.ytimg.com/vi/FVxB1kBytjc/hq720.jpg"
+            },
+            {
+                "title": "තේ පොහොර වල සංයුතිය සහ සංඝටක | Compositions of different Tea Fertilizer Blends #Teafertilizer #NPK",
+                "url": "https://youtube.com/watch?v=7ElCegtxwTs",
+                "duration": "5:02",
+                "thumbnail": "https://i.ytimg.com/vi/7ElCegtxwTs/hq720.jpg"
+            },
+            {
+                "title": "Did You Know These Benefits Of green Tea? |Amazing Health Benefits Of Green Tea",
+                "url": "https://youtube.com/watch?v=PgNn3Ggu44w",
+                "duration": "2:43",
+                "thumbnail": "https://i.ytimg.com/vi/PgNn3Ggu44w/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Urinary Tract Infection",
-      "sinhala": "මුත්‍රා මාර්ගයේ ආසාදන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Urinary & Renal System Diseases",
-        "sinhala": "මුත්‍රා සහ වකුගඩු පද්ධති ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves"
-  ],
-  "images": [
-    {
-      "image_id": "1648",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/MyghyJtx/plant01292-01648.jpg"
-    },
-    {
-      "image_id": "1649",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/jPy8GjzW/plant01292-01649.jpg"
-    },
-    {
-      "image_id": "4003",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/5W9BVVDR/plant01292-04003.jpg"
-    },
-    {
-      "image_id": "4004",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/CKnb1Fgc/plant01292-04004.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

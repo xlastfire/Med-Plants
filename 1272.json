@@ -1,56 +1,637 @@
 {
-  "scientificName": "Sphenoclea zeylanica Gaertn.",
-  "synonyms": [
-    "Pongatium indicum Lam.",
-    "Pongatium spongiosum Blanco",
-    "Pongatium zeylanicum Kuntze",
-    "Rapinia herbacea Lour.",
-    "Reichelia palustris Blanco",
-    "Schrebera pongati DC.",
-    "Sphenoclea pongatium A.DC."
-  ],
-  "familyName": "SPHENOCLEACEAE",
-  "englishNames": [
-    "Wedgewort"
-  ],
-  "sinhalaName": "Maha mudumahana (මහ මුඩමහණ)",
-  "description": "සෘජු පැළෑටියකි. පත්‍ර ඕවලාකාර (oval) සිට ආයත-ඉලිප්සාකාර (oblong-elliptic) හැඩයක් ගනී, ප්‍රමාණය 8.6 - 11.5 X 2.2 - 4.7 සෙ.මී. වේ, පාදම කුඤ්ඤාකාර (cuneate) හෝ හදිසියේ උල් වූ (abruptly acute) ස්වභාවයක් ගනී, අග්‍රය අර්ධ-උල් (subacute) සිට මොට (obtuse) වේ, පත්‍ර දාරය සම්පූර්ණයි (entire), පටලමය (membranous) වන අතර නිල්-කොළ පැහැති (glaucous) වේ. මල් රාශියක් ඇත. කරල් ගෙඩිය (capsule) තැළී ගිය ගෝලාකාර (depressed-globose) හැඩයක් ගනී, විෂ්කම්භය 3 - 3.5 මි.මී. වේ, කඩදාසි වැනි (chartaceous) ස්වභාවයක් ගනී; බීජ ආයත-කුඤ්ඤාකාර (oblong-cuneate) වේ, ප්‍රමාණය 0.5 - 0.8 X 0.2 මි.මී. වේ, දිග අතට ඉතා සියුම් රේඛා (minutely ridged longitudinally) සහිත වන අතර කහ-දුඹුරු පැහැයක් ගනී.",
-  "treatments": [
-    {
-      "treatment": "Bruises",
-      "sinhala": "තැලීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Sphenoclea zeylanica Gaertn.",
+    "synonyms": [
+        "Pongatium indicum Lam.",
+        "Pongatium spongiosum Blanco",
+        "Pongatium zeylanicum Kuntze",
+        "Rapinia herbacea Lour.",
+        "Reichelia palustris Blanco",
+        "Schrebera pongati DC.",
+        "Sphenoclea pongatium A.DC."
+    ],
+    "familyName": "SPHENOCLEACEAE",
+    "englishNames": [
+        "Wedgewort"
+    ],
+    "sinhalaName": "Maha mudumahana (මහ මුඩමහණ)",
+    "description": "සෘජු පැළෑටියකි. පත්‍ර ඕවලාකාර (oval) සිට ආයත-ඉලිප්සාකාර (oblong-elliptic) හැඩයක් ගනී, ප්‍රමාණය 8.6 - 11.5 X 2.2 - 4.7 සෙ.මී. වේ, පාදම කුඤ්ඤාකාර (cuneate) හෝ හදිසියේ උල් වූ (abruptly acute) ස්වභාවයක් ගනී, අග්‍රය අර්ධ-උල් (subacute) සිට මොට (obtuse) වේ, පත්‍ර දාරය සම්පූර්ණයි (entire), පටලමය (membranous) වන අතර නිල්-කොළ පැහැති (glaucous) වේ. මල් රාශියක් ඇත. කරල් ගෙඩිය (capsule) තැළී ගිය ගෝලාකාර (depressed-globose) හැඩයක් ගනී, විෂ්කම්භය 3 - 3.5 මි.මී. වේ, කඩදාසි වැනි (chartaceous) ස්වභාවයක් ගනී; බීජ ආයත-කුඤ්ඤාකාර (oblong-cuneate) වේ, ප්‍රමාණය 0.5 - 0.8 X 0.2 මි.මී. වේ, දිග අතට ඉතා සියුම් රේඛා (minutely ridged longitudinally) සහිත වන අතර කහ-දුඹුරු පැහැයක් ගනී.",
+    "treatments": [
+        {
+            "treatment": "Bruises",
+            "sinhala": "තැලීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Boils and Abscesses",
+            "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Plant ashes"
+    ],
+    "images": [
+        {
+            "image_id": "2732",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/LjTMJhC/plant01272-02732.jpg"
+        },
+        {
+            "image_id": "2733",
+            "caption": "Inflorescence (PMR)",
+            "url": "https://i.ibb.co/Wvs16Zzm/plant01272-02733.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "මුඩුමහණ  ශාකය / වෙල්මුඩ / Mudamahana / Welmuda/ Sphaeranthus indicus",
+                "url": "https://youtube.com/watch?v=Z-ZZ4NlnL7k",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/Z-ZZ4NlnL7k/hqdefault.jpg"
+            },
+            {
+                "title": "මහා මුද්‍රා ගීතය - (සිංහල) මහා මුද්‍රා භාවනා සජ්ඣායනාව | Most powerful Great Seal Meditation.",
+                "url": "https://youtube.com/watch?v=VlXD9y5rjzU",
+                "duration": "24:29",
+                "thumbnail": "https://i.ytimg.com/vi/VlXD9y5rjzU/hq720.jpg"
+            },
+            {
+                "title": "මුඩමහණ/වෙල්මුඩ",
+                "url": "https://youtube.com/watch?v=Pxse35LQ2mY",
+                "duration": "0:36",
+                "thumbnail": "https://i.ytimg.com/vi/Pxse35LQ2mY/hq720.jpg"
+            },
+            {
+                "title": "හැඩයා වර්ග 3ක් | මහා හැඩයා වර්ග දෙකක් සහ කුඩා හැඩයා | Maha Hadaya, Kuda Hadaya",
+                "url": "https://youtube.com/watch?v=id1gl4V_Pyo",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/id1gl4V_Pyo/hq720.jpg"
+            },
+            {
+                "title": "මහා මේරුව ඉන්දියාවේ නෑ | Mahameru | Mount Meru | Sumeru",
+                "url": "https://youtube.com/watch?v=_seU0QDhgXo",
+                "duration": "6:51",
+                "thumbnail": "https://i.ytimg.com/vi/_seU0QDhgXo/hq720.jpg"
+            },
+            {
+                "title": "391. මහෝෂධ කුමාරයා | මහා උම්මග්ග ජාතකය 1 | 2024.07.05",
+                "url": "https://youtube.com/watch?v=ymGE1d4OV3g",
+                "duration": "53:48",
+                "thumbnail": "https://i.ytimg.com/vi/ymGE1d4OV3g/hq720.jpg"
+            },
+            {
+                "title": "Naropa\"s Eternal Song  :Maha Mudra",
+                "url": "https://youtube.com/watch?v=eBuZd0tCG4k",
+                "duration": "24:29",
+                "thumbnail": "https://i.ytimg.com/vi/eBuZd0tCG4k/hq720.jpg"
+            },
+            {
+                "title": "ඇසෙ සුද ඉවත් කරන්න වගේම තව රෝග රැසකට ගන්න වටිනා පැලය | සුළුනයි, මහනයි (Sulunai, Mahanai)",
+                "url": "https://youtube.com/watch?v=XSssXVpZxJs",
+                "duration": "8:29",
+                "thumbnail": "https://i.ytimg.com/vi/XSssXVpZxJs/hq720.jpg"
+            },
+            {
+                "title": "✨ මහදැනමුත්ත සහ ඔහුගේ මෝඩ ශිෂ්‍යයෝ – A Hilarious Sri Lankan Folk Tale | AI Animated Short Film",
+                "url": "https://youtube.com/watch?v=iR8ZknaPD4A",
+                "duration": "1:33",
+                "thumbnail": "https://i.ytimg.com/vi/iR8ZknaPD4A/hq720.jpg"
+            },
+            {
+                "title": "Ath Beheth Sinhala | වෙල් මුඩ හෙවත් මුඩ මහණ | story eka",
+                "url": "https://youtube.com/watch?v=4EaF6fSaJdw",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/4EaF6fSaJdw/hq720.jpg"
+            },
+            {
+                "title": "මොකක්ද මේ අමුතු ප්ලාන්ට් එක? #hishi #srilanka #anthurium #plants #lucopodium",
+                "url": "https://youtube.com/watch?v=Jw3p_HUovik",
+                "duration": "4:33",
+                "thumbnail": "https://i.ytimg.com/vi/Jw3p_HUovik/hq720.jpg"
+            },
+            {
+                "title": "මාපාකන්දේ අතරමඟ නැවතුණ හුස්ම... |  මහ වැසි නොතකා දැඩි පරිශ්‍රමයකින් සිරුරු ඉවතට | Ada Derana",
+                "url": "https://youtube.com/watch?v=hAs2t_uW1j0",
+                "duration": "4:34",
+                "thumbnail": "https://i.ytimg.com/vi/hAs2t_uW1j0/hq720.jpg"
+            },
+            {
+                "title": "සිවුරට මුවා වී කළ මහා පරිමාණ කුෂ් ජාවාරම හෙළිවෙයි: 23ක් කූඩුවට! | The Insight",
+                "url": "https://youtube.com/watch?v=kJmUWiJl0Xo",
+                "duration": "3:37",
+                "thumbnail": "https://i.ytimg.com/vi/kJmUWiJl0Xo/hq720.jpg"
+            },
+            {
+                "title": "මහ කැලයේ හමුවන නිධන් 💥",
+                "url": "https://youtube.com/watch?v=AMi7FMVuuLU",
+                "duration": "14:47",
+                "thumbnail": "https://i.ytimg.com/vi/AMi7FMVuuLU/hq720.jpg"
+            },
+            {
+                "title": "මහා කැලෑවක් මැද්දෙ අවුරුදු 150ක් පරණ ගෙදර දිවිගෙවන වනරැජිණ|The story of the queen of a great forest",
+                "url": "https://youtube.com/watch?v=Lfzz9gQ2k-8",
+                "duration": "24:51",
+                "thumbnail": "https://i.ytimg.com/vi/Lfzz9gQ2k-8/hqdefault.jpg"
+            },
+            {
+                "title": "හෙළයේ මහා කලා මංගල්‍යය - ඓතිහාසික පෙරහැර වංශකතාව /කදුරුවෙල වෙසක් මහ පෙරහැර / perahara",
+                "url": "https://youtube.com/watch?v=BamM4oe9HPE",
+                "duration": "45:36",
+                "thumbnail": "https://i.ytimg.com/vi/BamM4oe9HPE/hq720.jpg"
+            },
+            {
+                "title": "Prince Mahaushadha Stories",
+                "url": "https://youtube.com/watch?v=GEc2neV_my8",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/GEc2neV_my8/hqdefault.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "මහණදම් පිරීමට අවශ්‍ය ගුණාංග /mahana daham pirimata awashya gunanga",
+                "url": "https://youtube.com/watch?v=qqwgitBsWXA",
+                "duration": "55:02",
+                "thumbnail": "https://i.ytimg.com/vi/qqwgitBsWXA/hq720.jpg"
+            },
+            {
+                "title": "මුල්‍ය වංචා වින්දිතයින් සමග සංජය මහවත්ත මහ බැංකුව ඉදිරිපිට උද්ඝෝෂණයක",
+                "url": "https://youtube.com/watch?v=8BvbVQK27p0",
+                "duration": "11:23",
+                "thumbnail": "https://i.ytimg.com/vi/8BvbVQK27p0/hq720.jpg"
+            },
+            {
+                "title": "මහ සයුර මැද | නිරුවතින් සිටි | විමාන ප්‍රේතිය 😱",
+                "url": "https://youtube.com/watch?v=1221HNpH94k",
+                "duration": "41:26",
+                "thumbnail": "https://i.ytimg.com/vi/1221HNpH94k/hq720.jpg"
+            },
+            {
+                "title": "අතීසාරය, උදරාබාධ, වණ ඇතුළු රෝග රැසකට ගුණ දෙන මහ උඳුපියලිය",
+                "url": "https://youtube.com/watch?v=A__PFhklz1c",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/A__PFhklz1c/hq720.jpg"
+            },
+            {
+                "title": "මහා මුද්‍රා ගීතය විචාර දේශනාව | SEKHA Sinhala Dhamma Sermons | maha muddra githaya vichara deshanava",
+                "url": "https://youtube.com/watch?v=wzrHqbT_TiU",
+                "duration": "1:04:15",
+                "thumbnail": "https://i.ytimg.com/vi/wzrHqbT_TiU/hq720.jpg"
+            },
+            {
+                "title": "මහදුරු වල විශ්මිත ගුණ - Amazing quality of fennel for a healthy life",
+                "url": "https://youtube.com/watch?v=yu87jayqE8U",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/yu87jayqE8U/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල 10ක ගුණ දැනගමුද? | Benifits of 10 Herbal Plants | Ceylon Agri",
+                "url": "https://youtube.com/watch?v=Cpdzcr3fXu0",
+                "duration": "1:11",
+                "thumbnail": "https://i.ytimg.com/vi/Cpdzcr3fXu0/hq720.jpg"
+            },
+            {
+                "title": "තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ.  Health benefits of Thulasi.",
+                "url": "https://youtube.com/watch?v=kKukenrdq0k",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/kKukenrdq0k/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා මාර්ග ආශ්‍රිත රෝග සදහා ගුණ මොනවද මේ මැල්ල | About Malla Tree | CM Plants Store Sri Lanka",
+                "url": "https://youtube.com/watch?v=CgrRKua4jH0",
+                "duration": "4:22",
+                "thumbnail": "https://i.ytimg.com/vi/CgrRKua4jH0/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා  මාරාන්තිකයි [Hari Tv ][Lahiru mudalige]",
+                "url": "https://youtube.com/watch?v=FObeIYHmROY",
+                "duration": "7:01",
+                "thumbnail": "https://i.ytimg.com/vi/FObeIYHmROY/hq720.jpg"
+            },
+            {
+                "title": "දෙවියන් එවූ විශ්මිත ඔසු වැල රසකිඳ |heart leaved |moon seed | rasakida 2021 | hela osu samaga ama",
+                "url": "https://youtube.com/watch?v=-JqlYZeQqYQ",
+                "duration": "6:08",
+                "thumbnail": "https://i.ytimg.com/vi/-JqlYZeQqYQ/hqdefault.jpg"
+            },
+            {
+                "title": "🤯 මෙච්චර කල් ඔබ නොදැන සිටි විඤ්ඤාණයේ අරුමය! මධුපිණ්ඩික සූත්‍රය │ Ven. Wanduramba Sangananda Thero",
+                "url": "https://youtube.com/watch?v=p_Z7km7_e8w",
+                "duration": "59:12",
+                "thumbnail": "https://i.ytimg.com/vi/p_Z7km7_e8w/hq720.jpg"
+            },
+            {
+                "title": "මධුපිණ්ඩික සූත්‍රය",
+                "url": "https://youtube.com/watch?v=nYpGBxQs6Nk",
+                "duration": "3:56:44",
+                "thumbnail": "https://i.ytimg.com/vi/nYpGBxQs6Nk/hq720.jpg"
+            },
+            {
+                "title": "සුව නොවන සමේ රෝග සුවකරදෙන ලේ පිරිසිදු කර ප්‍රතිශක්තිය වඩන මහා මංජිෂ්ඨාදී ක්වාතයේ ආයුර්වේදීය ගුණ",
+                "url": "https://youtube.com/watch?v=WMdD3Ytwugk",
+                "duration": "12:33",
+                "thumbnail": "https://i.ytimg.com/vi/WMdD3Ytwugk/hq720.jpg"
+            },
+            {
+                "title": "පුලතිසි සෘෂිගේ මහා බලසම්පන්න ඖෂධ උයන මැදිරිගිරියෙන් සොයා ගනී | The powerful medicinal garden",
+                "url": "https://youtube.com/watch?v=X1ZpkpyhgPo",
+                "duration": "8:52",
+                "thumbnail": "https://i.ytimg.com/vi/X1ZpkpyhgPo/hq720.jpg"
+            },
+            {
+                "title": "මහියංගන දේශනාව (කේශ ධාතු, ග්‍රීවා ධාතු ස්තූප වර්ණනාව) | Welimada Saddaseela Thero",
+                "url": "https://youtube.com/watch?v=jbqoRnikpFI",
+                "duration": "1:58:33",
+                "thumbnail": "https://i.ytimg.com/vi/jbqoRnikpFI/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ  වර්ග 344ක්  එකට එකතු කරලා හදන ලෝකයම පුදුම කරවූ අපේ විශ්මිත ඔසුව",
+                "url": "https://youtube.com/watch?v=mes0a8hb8fw",
+                "duration": "44:40",
+                "thumbnail": "https://i.ytimg.com/vi/mes0a8hb8fw/hq720.jpg"
+            },
+            {
+                "title": "මහසෙන් අරණ Mahasen Arana සියලුම පාදවල වේදනා වලට ,අත්තික්කා ශාකයේ ගුණ",
+                "url": "https://youtube.com/watch?v=iHO593WN-d8",
+                "duration": "2:07",
+                "thumbnail": "https://i.ytimg.com/vi/iHO593WN-d8/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ඔබ මෙතෙක් දැන නොසිටි මේ ලෝකයේ ඇති ප්‍රබලම ප්‍රතිශක්තී කරන ඖෂධය...",
+                "url": "https://youtube.com/watch?v=mhpVkYiUh-0",
+                "duration": "5:09",
+                "thumbnail": "https://i.ytimg.com/vi/mhpVkYiUh-0/hqdefault.jpg"
+            },
+            {
+                "title": "මහසෙන් අරණ Mahasen Arana  ''නියපොතු නරක් වෙලාද ? \"",
+                "url": "https://youtube.com/watch?v=0VvOPa9fkKU",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/0VvOPa9fkKU/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව, අහිතකර මේදය අඩු කරන ප්‍රබල සොභාවික ඖෂධයක් වන මාදං ශාකයේ ඔබ දැනගතයුතුම ආයුර්වේදය රහස්",
+                "url": "https://youtube.com/watch?v=8aTQyRhLVjA",
+                "duration": "13:08",
+                "thumbnail": "https://i.ytimg.com/vi/8aTQyRhLVjA/hq720.jpg"
+            },
+            {
+                "title": "මේක කළොත් ඕනම ගෙයක් දියුණු වෙනවා!",
+                "url": "https://youtube.com/watch?v=dQ8FL4ciwAA",
+                "duration": "10:22",
+                "thumbnail": "https://i.ytimg.com/vi/dQ8FL4ciwAA/hq720.jpg"
+            },
+            {
+                "title": "kokmota | කොක් මොට | මුත්‍රා දැවිල්ලට කියාපු ඖෂධය | Eriocaulon ceylanicum | pitta",
+                "url": "https://youtube.com/watch?v=s10NuYMfp6M",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/s10NuYMfp6M/hq720.jpg"
+            },
+            {
+                "title": "suvisi maha guna - සූවිසි මහා ගුණ සජ්ජායනය",
+                "url": "https://youtube.com/watch?v=k-eL7jMiUF8",
+                "duration": "10:38",
+                "thumbnail": "https://i.ytimg.com/vi/k-eL7jMiUF8/hq720.jpg"
+            },
+            {
+                "title": "Maha Moggallana Thera Bojjanga Piritha - මහා මොග්ගල්ලානතෙර බොජ්ජංග පිරිත (MKS)",
+                "url": "https://youtube.com/watch?v=v9DSmIUAXEk",
+                "duration": "6:50",
+                "thumbnail": "https://i.ytimg.com/vi/v9DSmIUAXEk/hq720.jpg"
+            },
+            {
+                "title": "සූවිසි මහා ගුණ නිවැරදිව අර්ථ සහිතව දැන වඩමු |Suvisi maha guna|මා මෙසේ ඇසුවෙමි|ma mese esuwemi",
+                "url": "https://youtube.com/watch?v=n2Pl9tCLSwM",
+                "duration": "31:56",
+                "thumbnail": "https://i.ytimg.com/vi/n2Pl9tCLSwM/hq720.jpg"
+            },
+            {
+                "title": "මෛත්‍රී බුදු ගුණ වන්දනාව හා මෛත්‍රී බුද්ධ ශාසනයේ පිරිත ( භාවනාවකට යොමු වී ශ්‍රවණයකරන්න)",
+                "url": "https://youtube.com/watch?v=z0LIKAeAa5Y",
+                "duration": "31:22",
+                "thumbnail": "https://i.ytimg.com/vi/z0LIKAeAa5Y/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ද|ashwagandha|අමුක්කරා|Amukkara|Dr.Chaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=vZt8nsZnG-8",
+                "duration": "18:32",
+                "thumbnail": "https://i.ytimg.com/vi/vZt8nsZnG-8/hq720.jpg"
+            },
+            {
+                "title": "සුගන්ධ මහ රහතන් වහන්සේ විසින් සිදු කළ බුද්ධාලම්බන ප්‍රීතිය උපදවන අසිරිමත් බුදුගුණ වර්ණනාව...",
+                "url": "https://youtube.com/watch?v=4yEnU0rnU3g",
+                "duration": "42:14",
+                "thumbnail": "https://i.ytimg.com/vi/4yEnU0rnU3g/hq720.jpg"
+            },
+            {
+                "title": "මහානුභාව සම්පන්න උතුම් සූවිසි මහා ගුණ පිරිත නොවරදවාම අසන්න ...suvisi guna piritha damsilu TV sinhala",
+                "url": "https://youtube.com/watch?v=9whe9QUs-4U",
+                "duration": "36:12",
+                "thumbnail": "https://i.ytimg.com/vi/9whe9QUs-4U/hqdefault.jpg"
+            },
+            {
+                "title": "MAHA PIRITHA (sinhala meaning)",
+                "url": "https://youtube.com/watch?v=9tOIJEjVgnQ",
+                "duration": "57:18",
+                "thumbnail": "https://i.ytimg.com/vi/9tOIJEjVgnQ/hqdefault.jpg"
+            },
+            {
+                "title": "මහා සඟරුවන විසින් දේශිත බලගතු මූල මහා පිරිත...mula maha piritha...",
+                "url": "https://youtube.com/watch?v=7QHpAMVucM4",
+                "duration": "1:04:44",
+                "thumbnail": "https://i.ytimg.com/vi/7QHpAMVucM4/hqdefault.jpg"
+            },
+            {
+                "title": "මහා වනයේ ඇතුන්ගෙන් උපස්ථාන ලබමින් හුදෙකලාවේ වැඩසිටි අඤ්ඤාකොණ්ඩඤ්ඤ මහරහතන් වහන්සේගේ අසිරිමත් මුනි ගුණ",
+                "url": "https://youtube.com/watch?v=Wg8krKq5NHo",
+                "duration": "7:19",
+                "thumbnail": "https://i.ytimg.com/vi/Wg8krKq5NHo/hq720.jpg"
+            },
+            {
+                "title": "මහා ත්‍රිපිටක සජ්ඣායනාව /La grande récitation du Tipitaka / The great recitation of Tipitaka",
+                "url": "https://youtube.com/watch?v=l6nMxwpitK8",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/l6nMxwpitK8/hq720.jpg"
+            },
+            {
+                "title": "Mahasamaya Suthraya - මහාසමය සූත්‍රය",
+                "url": "https://youtube.com/watch?v=SqK9HbFXr_Y",
+                "duration": "58:23",
+                "thumbnail": "https://i.ytimg.com/vi/SqK9HbFXr_Y/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha | මහ පිරිත",
+                "url": "https://youtube.com/watch?v=7uwO_vukHZE",
+                "duration": "7:41:37",
+                "thumbnail": "https://i.ytimg.com/vi/7uwO_vukHZE/hqdefault.jpg"
+            },
+            {
+                "title": "මදන මෝදක - ආයුර්වේද ගුණ - An ayurvedic medicine",
+                "url": "https://youtube.com/watch?v=jFXq07T7WhY",
+                "duration": "2:12",
+                "thumbnail": "https://i.ytimg.com/vi/jFXq07T7WhY/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "ලෝකය ශූන්‍ය වශයෙන් බලන අයුරු (මොඝරාජ සූත්‍රය) - Meemure Dhammawansha Thero",
+                "url": "https://youtube.com/watch?v=KW7pDgIcNmk",
+                "duration": "1:06:36",
+                "thumbnail": "https://i.ytimg.com/vi/KW7pDgIcNmk/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha | මහ පිරිත | විචිත්‍රභාණක වත්තල සීලරතන නායක ස්වාමින්ද්‍රයන්වහන්සේ",
+                "url": "https://youtube.com/watch?v=8uWmHJrktDE",
+                "duration": "58:52",
+                "thumbnail": "https://i.ytimg.com/vi/8uWmHJrktDE/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Piritha   මහ පිරිත  (තුන් සූත්‍රය)   Thun Suthraya",
+                "url": "https://youtube.com/watch?v=2PkbYtGIDFk",
+                "duration": "17:37",
+                "thumbnail": "https://i.ytimg.com/vi/2PkbYtGIDFk/hqdefault.jpg"
+            },
+            {
+                "title": "Maha Piritha මහ පිරිත | Thun Suthra Deshanawa | තුන් සූත්‍රය Mahamangala | Rathana |Karaneeyameththa",
+                "url": "https://youtube.com/watch?v=FbjB503Oqz0",
+                "duration": "53:52",
+                "thumbnail": "https://i.ytimg.com/vi/FbjB503Oqz0/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha | මහ පිරිත | Thun Suthraya | තුන් සූත්‍රය",
+                "url": "https://youtube.com/watch?v=jnZ_dhR1a-o",
+                "duration": "53:50",
+                "thumbnail": "https://i.ytimg.com/vi/jnZ_dhR1a-o/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha - Siri Vajiragnana Dharmayathanaya | මහ පිරිත - සිරි වජිරඤාණ ධර්මායතනය",
+                "url": "https://youtube.com/watch?v=A7T9w9hHRCs",
+                "duration": "46:21",
+                "thumbnail": "https://i.ytimg.com/vi/A7T9w9hHRCs/hq720.jpg"
+            },
+            {
+                "title": "maha piritha | thun suthraya | rathana suthraya | maha mangala suthraya | karaneeyameththa suthraya",
+                "url": "https://youtube.com/watch?v=EWPKPi1R-m4",
+                "duration": "1:03:22",
+                "thumbnail": "https://i.ytimg.com/vi/EWPKPi1R-m4/hq720.jpg"
+            },
+            {
+                "title": "Maha Mangala Suthraya - මහා මංගල සූත්‍රය (MKS)",
+                "url": "https://youtube.com/watch?v=waMcSYfSIsk",
+                "duration": "5:03",
+                "thumbnail": "https://i.ytimg.com/vi/waMcSYfSIsk/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha - මහ පිරිත (තුන් සූත්‍රය - මහා මංගල සූත්‍රය,රතන සූත්‍රය,කරණීය මෙත්ත සූත්‍රය)",
+                "url": "https://youtube.com/watch?v=ma7Cv_jtn9c",
+                "duration": "36:34",
+                "thumbnail": "https://i.ytimg.com/vi/ma7Cv_jtn9c/hq720.jpg"
+            },
+            {
+                "title": "මහාසෑය ලඟ මොනවා හිතලද වඳින්නේ...  | Venerable Welimada Saddaseela Thero",
+                "url": "https://youtube.com/watch?v=gKrqalQV-Uw",
+                "duration": "2:47:22",
+                "thumbnail": "https://i.ytimg.com/vi/gKrqalQV-Uw/hq720.jpg"
+            },
+            {
+                "title": "මහා මංගල සූත්‍රය (සිංහල තේරුම සහිතව) | Maha Mangala Suthraya with Sinhala Meaning | Pirith Chanting",
+                "url": "https://youtube.com/watch?v=vbC0wngLJjI",
+                "duration": "14:18",
+                "thumbnail": "https://i.ytimg.com/vi/vbC0wngLJjI/hq720.jpg"
+            },
+            {
+                "title": "මහ පිරිත Maha Piritha | තුන් සූත්‍ර Thun Suthra | මහා මංගල, රතන, කරණීය මෙත්ත සූත්‍රය | Life & Living",
+                "url": "https://youtube.com/watch?v=Tpbxf6S7s_A",
+                "duration": "53:54",
+                "thumbnail": "https://i.ytimg.com/vi/Tpbxf6S7s_A/hq720.jpg"
+            },
+            {
+                "title": "Maha Piritha   Pirith   Paritta Recording   Thun Suthraya   Buddhist Pirith Chantings",
+                "url": "https://youtube.com/watch?v=KPBvbFm5U8s",
+                "duration": "8:56:22",
+                "thumbnail": "https://i.ytimg.com/vi/KPBvbFm5U8s/hq720.jpg"
+            },
+            {
+                "title": "Moola Maha Piritha |  මහ සඟරුවන විසින් දේශිත බලගතු මූල මහ පිරිත",
+                "url": "https://youtube.com/watch?v=omgawFO3PMs",
+                "duration": "47:58",
+                "thumbnail": "https://i.ytimg.com/vi/omgawFO3PMs/hqdefault.jpg"
+            },
+            {
+                "title": "Madan fruit (Syzygium cumini)#madan fruit #ayurvedic remedy මාදං #දියවැඩියාව නසන දිව ඔසුව මාදං",
+                "url": "https://youtube.com/watch?v=QyJ4jPYprVU",
+                "duration": "10:53",
+                "thumbnail": "https://i.ytimg.com/vi/QyJ4jPYprVU/hq720.jpg"
+            },
+            {
+                "title": "වද මල් යුෂ මගින් ලැබෙන සෞඛ්‍ය ප්‍රතිලාභ 9ක් - 9 Health Benefits of Hibiscus Tea",
+                "url": "https://youtube.com/watch?v=xRInp9A-z18",
+                "duration": "11:52",
+                "thumbnail": "https://i.ytimg.com/vi/xRInp9A-z18/hq720.jpg"
+            },
+            {
+                "title": "මුරුංගා කොළ කුඩු දවස් 14ක් බිව්වොත් වෙන විස්මිත දේ! | Benefits of Moringa Powder (Sinhala)",
+                "url": "https://youtube.com/watch?v=n2bpVCsvkfM",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/n2bpVCsvkfM/hq720.jpg"
+            },
+            {
+                "title": "මුස්සැන්ද කෑවොත් ලැබෙන දේවල් මෙන්න : Mussanda Leafy Green Benefits (Mussaenda frondosa) [NEW] 2019",
+                "url": "https://youtube.com/watch?v=5mOc-tO_mkk",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/5mOc-tO_mkk/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම දිනන රහස!බුදු දහමින් විස්මිත් මඟක්!Life Changing  Dhamma Tips..",
+                "url": "https://youtube.com/watch?v=WgmIbB9eGAY",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/WgmIbB9eGAY/hqdefault.jpg"
+            },
+            {
+                "title": "මහසෙන් අරණ Mahasen Arana ''දියවැඩියාවද ? මාසෙන් හොද කරගන්න\"",
+                "url": "https://youtube.com/watch?v=1DtDni_H10k",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/1DtDni_H10k/hq720.jpg"
+            },
+            {
+                "title": "මුකුණුවැන්න කනවා නම් මේවාත් දැනගෙන ඉන්න : Mukunuwenna Benefits",
+                "url": "https://youtube.com/watch?v=iHP60R9f_M0",
+                "duration": "2:18",
+                "thumbnail": "https://i.ytimg.com/vi/iHP60R9f_M0/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ඔබ මෙතෙක් දැන නොසිටි මේ ලෝකයේ ඇති ප්‍රබලම ප්‍රතිශක්තී කරන ඖෂධය...",
+                "url": "https://youtube.com/watch?v=gqOknLK3ow4",
+                "duration": "5:09",
+                "thumbnail": "https://i.ytimg.com/vi/gqOknLK3ow4/hqdefault.jpg"
+            },
+            {
+                "title": "මල කඳකට පවා පණ දෙන පුලස්ථි වෙද මහතා | ඕනම ලෙඩක් සුව කරන්න පුළුවන්",
+                "url": "https://youtube.com/watch?v=dKUscHCGbzI",
+                "duration": "46:05",
+                "thumbnail": "https://i.ytimg.com/vi/dKUscHCGbzI/hq720.jpg"
+            },
+            {
+                "title": "🔴 mahogany • The Amazing Benefits of mahogany || Plant World",
+                "url": "https://youtube.com/watch?v=ifsTZaXroEw",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/ifsTZaXroEw/hq720.jpg"
+            },
+            {
+                "title": "ඔබට තිබෙන ඕනෑම ලෙඩරෝගයක් නිට්ටාවටම සුවකර ගැනීමට මේ විදියට කරන්න | Mathara Mahinda Thero Bana 2023",
+                "url": "https://youtube.com/watch?v=foz83D2dyGQ",
+                "duration": "42:16",
+                "thumbnail": "https://i.ytimg.com/vi/foz83D2dyGQ/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ රෝග හැමදාටම ඉවරයි! මහසෙන් අරණේ රහස් තැම්බුන් හොද්ද මෙන්න.\"",
+                "url": "https://youtube.com/watch?v=WLazXfjrgkQ",
+                "duration": "2:00",
+                "thumbnail": "https://i.ytimg.com/vi/WLazXfjrgkQ/hqdefault.jpg"
+            },
+            {
+                "title": "වද මල් බොන එකේ ඇත්ත නැත්ත | Hibiscus Tea & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=vj2RlbqQtco",
+                "duration": "8:15",
+                "thumbnail": "https://i.ytimg.com/vi/vj2RlbqQtco/hq720.jpg"
+            },
+            {
+                "title": "කම්මැලිකම නැති කරන - ශක්තිමත් බව වැඩි කරන Mg වල සුපිරි ගුන 12 ක් | පලවන කොටස",
+                "url": "https://youtube.com/watch?v=8ZGM1xh3go4",
+                "duration": "8:38",
+                "thumbnail": "https://i.ytimg.com/vi/8ZGM1xh3go4/hqdefault.jpg"
+            },
+            {
+                "title": "හැමදාම මුරුංගා කොළ යුෂ කෝප්පයක් බිව්වොත් ශරීරයට සිදුවන විශ්මිත දේවල් - Health Benefits of Moringa",
+                "url": "https://youtube.com/watch?v=eJvVlXTMwjI",
+                "duration": "10:04",
+                "thumbnail": "https://i.ytimg.com/vi/eJvVlXTMwjI/hq720.jpg"
+            },
+            {
+                "title": "කිසිම ඖෂධයක් නැතිව රෝග මූලය සොයා නිල වෙදකමෙන් ඕනම ලෙඩක් සුව කරන වෙද මහත්තයා",
+                "url": "https://youtube.com/watch?v=1kJ-m01kByc",
+                "duration": "26:04",
+                "thumbnail": "https://i.ytimg.com/vi/1kJ-m01kByc/hq720.jpg"
+            },
+            {
+                "title": "'සමුද්‍රවිජය' යුද නෞකාව ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවය",
+                "url": "https://youtube.com/watch?v=FOW2dzafaHU",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FOW2dzafaHU/hq720.jpg"
+            },
+            {
+                "title": "සිරුර පෘෂ්ටිමත් වීමට පමණක් නොව ශ්වසන ආබාධ සදහා ද ගුණ දෙන කුෂ්මාණ්ඩ ‍රසායන බෙහෙත | Kushmaand Rasayan",
+                "url": "https://youtube.com/watch?v=LDl93JcFs1o",
+                "duration": "19:08",
+                "thumbnail": "https://i.ytimg.com/vi/LDl93JcFs1o/hq720.jpg"
+            },
+            {
+                "title": "🙏🙏 අදම අසන්න | මහා මංගල සූත්‍රය | වාසනා සෙත ආශීර්වාද ලැබෙන බලගතු පිරිත 🙏✨",
+                "url": "https://youtube.com/watch?v=1aNEGxLnFIA",
+                "duration": "1:28:01",
+                "thumbnail": "https://i.ytimg.com/vi/1aNEGxLnFIA/hq720.jpg"
+            },
+            {
+                "title": "ජූනි 04: ව්‍යාපාර දියුණුව සහ ධන වාසනාව ගෙනෙන මෝර පිරිත සමඟ විභීෂණ-පත්තිනි ආශිර්වාදය",
+                "url": "https://youtube.com/watch?v=uEHLtSVEr88",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/uEHLtSVEr88/hq720.jpg"
+            },
+            {
+                "title": "🙏සෞභාග්‍යය උදා කරන අති පූජනීය මන්ත්‍ර බලය - මුදල් අවශ්‍ය අයට ලැබෙන මහා දායාදයක්✨",
+                "url": "https://youtube.com/watch?v=chpLYucN-8Y",
+                "duration": "1:32:12",
+                "thumbnail": "https://i.ytimg.com/vi/chpLYucN-8Y/hq720.jpg"
+            },
+            {
+                "title": "මහා සැයට මහා පුජාවක් කරද්දී මේ වැරදි කරන්න එපා.. @niwanmagabuduguna   #niwanmaga #buduguna #budubana",
+                "url": "https://youtube.com/watch?v=2GPqvFHDUqk",
+                "duration": "53:38",
+                "thumbnail": "https://i.ytimg.com/vi/2GPqvFHDUqk/hq720.jpg"
+            },
+            {
+                "title": "මිහිපිට දෙව්ලොවක් බඳු වූ විශාලා මහනුවර ආරම්භය සහ දුර්භීක්ෂය | Rathana Sutra | Banakatha",
+                "url": "https://youtube.com/watch?v=KaaEXpCECB4",
+                "duration": "1:06:40",
+                "thumbnail": "https://i.ytimg.com/vi/KaaEXpCECB4/hq720.jpg"
+            },
+            {
+                "title": "The Hidden Power of This Leaf – 108 Secrets Inside | Ancient Remedy Proven to Kill Cancer Cells",
+                "url": "https://youtube.com/watch?v=6Wjf2xQGWI8",
+                "duration": "22:55",
+                "thumbnail": "https://i.ytimg.com/vi/6Wjf2xQGWI8/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Boils and Abscesses",
-      "sinhala": "ගෙඩි සහ සැරව ගෙඩි",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Plant ashes"
-  ],
-  "images": [
-    {
-      "image_id": "2732",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/LjTMJhC/plant01272-02732.jpg"
-    },
-    {
-      "image_id": "2733",
-      "caption": "Inflorescence (PMR)",
-      "url": "https://i.ibb.co/Wvs16Zzm/plant01272-02733.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

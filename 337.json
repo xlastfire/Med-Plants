@@ -1,114 +1,215 @@
 {
-  "scientificName": "Ipomoea batatas (L.) Lam.",
-  "synonyms": [
-    "Batatas batatas (L.) H.Karst.",
-    "Convolvulus batatas L.",
-    "Convolvulus esculentus Salisb.",
-    "Ipomoea chrysorrhiza Hook.f."
-  ],
-  "familyName": "CONVOLVULACEAE",
-  "englishNames": [
-    "Sweet Potato",
-    "Brazilian Arrowroot"
-  ],
-  "sinhalaName": "Batala (බතල)",
-  "description": "වැල් වර්ගයකි; කඳ සාමාන්‍යයෙන් තරමක් මාංසල (succulent) වුවද ඇතැම් විට සිහින් සහ පැළෑටිමය (herbaceous) වේ; බහුවාර්ෂික ශාකයකි, රෝම රහිත (glabrous) හෝ රෝම සහිත (pubescent) වේ. පත්‍ර විවිධ හැඩයන්ගෙන් යුක්ත වන අතර, හෘදයාකාර (cordate) හෝ බිත්තරාකාර (ovate) හැඩයෙන් යුක්තව සෙන්ටිමීටර 5-10ක් දිගු වේ, රෝම රහිත (glabrous) හෝ රෝම සහිත (pubescent) වේ. පුෂ්ප මංජරි තනි මල් ලෙස හෝ මල් කිහිපයකින් යුත් සයිම (cymes) ලෙස පවතී, රෝම රහිත (glabrous) වේ. ඇතැම් ප්‍රභේදවල මල් හට නොගන්නා අතර, මල් පවතින්නේ නම් ඒවා සෙන්ටිමීටර 3-12ක් දිගු පුෂ්ප වෘන්ත (pedicels) මත පිහිටයි; කොරොල්ලා (corolla) ලා දම් පැහැයේ සිට තද දම් පැහැයට හුරු වන අතර සෙන්ටිමීටර 4-7ක් දිගු වේ. ඵල හටගැනීම දුර්ලභ වන අතර, ඒවා බිත්තරාකාර (ovoid) සහ රෝම රහිත (glabrous) වේ.",
-  "treatments": [
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
+    "scientificName": "Ipomoea batatas (L.) Lam.",
+    "synonyms": [
+        "Batatas batatas (L.) H.Karst.",
+        "Convolvulus batatas L.",
+        "Convolvulus esculentus Salisb.",
+        "Ipomoea chrysorrhiza Hook.f."
+    ],
+    "familyName": "CONVOLVULACEAE",
+    "englishNames": [
+        "Sweet Potato",
+        "Brazilian Arrowroot"
+    ],
+    "sinhalaName": "Batala (බතල)",
+    "description": "වැල් වර්ගයකි; කඳ සාමාන්‍යයෙන් තරමක් මාංසල (succulent) වුවද ඇතැම් විට සිහින් සහ පැළෑටිමය (herbaceous) වේ; බහුවාර්ෂික ශාකයකි, රෝම රහිත (glabrous) හෝ රෝම සහිත (pubescent) වේ. පත්‍ර විවිධ හැඩයන්ගෙන් යුක්ත වන අතර, හෘදයාකාර (cordate) හෝ බිත්තරාකාර (ovate) හැඩයෙන් යුක්තව සෙන්ටිමීටර 5-10ක් දිගු වේ, රෝම රහිත (glabrous) හෝ රෝම සහිත (pubescent) වේ. පුෂ්ප මංජරි තනි මල් ලෙස හෝ මල් කිහිපයකින් යුත් සයිම (cymes) ලෙස පවතී, රෝම රහිත (glabrous) වේ. ඇතැම් ප්‍රභේදවල මල් හට නොගන්නා අතර, මල් පවතින්නේ නම් ඒවා සෙන්ටිමීටර 3-12ක් දිගු පුෂ්ප වෘන්ත (pedicels) මත පිහිටයි; කොරොල්ලා (corolla) ලා දම් පැහැයේ සිට තද දම් පැහැයට හුරු වන අතර සෙන්ටිමීටර 4-7ක් දිගු වේ. ඵල හටගැනීම දුර්ලභ වන අතර, ඒවා බිත්තරාකාර (ovoid) සහ රෝම රහිත (glabrous) වේ.",
+    "treatments": [
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Atherosclerosis",
+            "sinhala": "ධමනි දැඩි වීම (ඇතරෝස්ක්ලෙරෝසිස්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nausea and Vomiting",
+            "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Miscarriage",
+            "sinhala": "ගබ්සා වීම (ගර්භස්‍රාව / ගර්භපාත)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Tuber"
+    ],
+    "images": [
+        {
+            "image_id": "2019",
+            "caption": "Habit (PMR)",
+            "url": "https://i.ibb.co/h1t9KCKs/plant00337-02019.jpg"
+        },
+        {
+            "image_id": "2020",
+            "caption": "Flower (PMR)",
+            "url": "https://i.ibb.co/pjCYCkSd/plant00337-02020.jpg"
+        },
+        {
+            "image_id": "2021",
+            "caption": "Leaves (PMR)",
+            "url": "https://i.ibb.co/hx84ZNkb/plant00337-02021.jpg"
+        },
+        {
+            "image_id": "2022",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/8DJJxTnW/plant00337-02022.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "දම් පාට බතල \"බතල කඳු හදන්නේ ඇයි\" - තිලක් කන්දේගම / Purple Sweet Potato Sri Lanka - Thilak Kandegama",
+                "url": "https://youtube.com/watch?v=G6KQdKBkXKw",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/G6KQdKBkXKw/hq720.jpg"
+            },
+            {
+                "title": "බතල වගාව සාර්ථකව සිදුකරමු  | Sweet potato cultivation | bathala wagawa",
+                "url": "https://youtube.com/watch?v=vV4o0mKAfQc",
+                "duration": "27:00",
+                "thumbnail": "https://i.ytimg.com/vi/vV4o0mKAfQc/hq720.jpg"
+            },
+            {
+                "title": "Sweet Potato |අලුත්ම චීන බතල | දින 45 න් බඳුනක ඵලදාව දෙන රස ගුණපිරි බතල| Ceylon Agri | Episode 19",
+                "url": "https://youtube.com/watch?v=DwzniwUIu5g",
+                "duration": "12:32",
+                "thumbnail": "https://i.ytimg.com/vi/DwzniwUIu5g/hq720.jpg"
+            },
+            {
+                "title": "බතල වගාව ඔබේ ගෙවත්තටත් බතල වගාවක් එකතුකරගන්න How to grow sweet potatoes in the garden",
+                "url": "https://youtube.com/watch?v=QtxGQndBjNE",
+                "duration": "3:51",
+                "thumbnail": "https://i.ytimg.com/vi/QtxGQndBjNE/hq720.jpg"
+            },
+            {
+                "title": "බතල වගවේ රොග හා අස්වනු නෙලිම | Krushi Tv",
+                "url": "https://youtube.com/watch?v=WyvSvZktCOY",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/WyvSvZktCOY/hq720.jpg"
+            },
+            {
+                "title": "කාලා තියනවද මේ අලුත් බතල? | Chinese Sweet Potato | Ceylon Agri | Episode 312",
+                "url": "https://youtube.com/watch?v=SSNBWwB251E",
+                "duration": "11:42",
+                "thumbnail": "https://i.ytimg.com/vi/SSNBWwB251E/hq720.jpg"
+            },
+            {
+                "title": "මාස 6න් මෙච්චර ලොකු බතල අලයක් ? | purple sweet potato | Ceylon Agri | Episode 404",
+                "url": "https://youtube.com/watch?v=wxSniqEEyiQ",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/wxSniqEEyiQ/hq720.jpg"
+            },
+            {
+                "title": "ලෙඩ නැතුව ඉන්න, පොඩි ඉඩක වවා ගන්න, වස විස නැති බතල | Purple Sweet Potato | Ceylon Agri | Episode 165",
+                "url": "https://youtube.com/watch?v=qGfy2NShn8I",
+                "duration": "11:44",
+                "thumbnail": "https://i.ytimg.com/vi/qGfy2NShn8I/hq720.jpg"
+            },
+            {
+                "title": "බතල වගාවේ දළු සිටවීම ☘️😍 | Planting of leaves in sweet potato plantation | Village Farm",
+                "url": "https://youtube.com/watch?v=jk_J0sJfCxA",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/jk_J0sJfCxA/hq720.jpg"
+            },
+            {
+                "title": "බතල වගාව | Sweet potato cultivation | Agri Life with Dilupa Akalanka",
+                "url": "https://youtube.com/watch?v=UXjDNyZWMVQ",
+                "duration": "9:01",
+                "thumbnail": "https://i.ytimg.com/vi/UXjDNyZWMVQ/hq720.jpg"
+            },
+            {
+                "title": "හාල් මල්ලේ බතල වගාව | home garden | ගෙවතු වගාව | bathala wagaawa | sweet potato in polisac bag",
+                "url": "https://youtube.com/watch?v=IXSHRd1lbrQ",
+                "duration": "19:02",
+                "thumbnail": "https://i.ytimg.com/vi/IXSHRd1lbrQ/hqdefault.jpg"
+            },
+            {
+                "title": "බතල අලය සාර්තකව පැල කරන හැටි - sweet potato root properation",
+                "url": "https://youtube.com/watch?v=8wMMPeG1HxU",
+                "duration": "9:07",
+                "thumbnail": "https://i.ytimg.com/vi/8wMMPeG1HxU/hqdefault.jpg"
+            },
+            {
+                "title": "බතල වල ඇති ඖෂධීය ගුණ 😱😱👍",
+                "url": "https://youtube.com/watch?v=_Y3s9J7mMPQ",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/_Y3s9J7mMPQ/hq720.jpg"
+            },
+            {
+                "title": "පෝර මල්ලේන් බතල මල්ලක් ලෙසියෙන් බදුනක බතල වවමු  How to build a sweet potato tower?",
+                "url": "https://youtube.com/watch?v=4q6y1UADY24",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/4q6y1UADY24/hqdefault.jpg"
+            },
+            {
+                "title": "ඌරු මීයන්ගෙන් බේරගන්න පදුරු බතල how to grow sweet potatoes in containers",
+                "url": "https://youtube.com/watch?v=Eqd93fWHg88",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/Eqd93fWHg88/hq720.jpg"
+            },
+            {
+                "title": "බතල වගාව බතල අල පැලකිරිමෙන් Sweet potato cultivation by planting sweet potato tubers  உருளைக்கிழங்கு",
+                "url": "https://youtube.com/watch?v=cwQ1W4XRFSI",
+                "duration": "15:17",
+                "thumbnail": "https://i.ytimg.com/vi/cwQ1W4XRFSI/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Atherosclerosis",
-      "sinhala": "ධමනි දැඩි වීම (ඇතරෝස්ක්ලෙරෝසිස්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nausea and Vomiting",
-      "sinhala": "ඔක්කාරය සහ වමනය (ඡර්දි)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Miscarriage",
-      "sinhala": "ගබ්සා වීම (ගර්භස්‍රාව / ගර්භපාත)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Tuber"
-  ],
-  "images": [
-    {
-      "image_id": "2019",
-      "caption": "Habit (PMR)",
-      "url": "https://i.ibb.co/h1t9KCKs/plant00337-02019.jpg"
-    },
-    {
-      "image_id": "2020",
-      "caption": "Flower (PMR)",
-      "url": "https://i.ibb.co/pjCYCkSd/plant00337-02020.jpg"
-    },
-    {
-      "image_id": "2021",
-      "caption": "Leaves (PMR)",
-      "url": "https://i.ibb.co/hx84ZNkb/plant00337-02021.jpg"
-    },
-    {
-      "image_id": "2022",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/8DJJxTnW/plant00337-02022.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

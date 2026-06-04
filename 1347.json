@@ -1,205 +1,312 @@
 {
-  "scientificName": "",
-  "synonyms": [
-    "Asclepias argentata Noronha",
-    "Asclepias gigantea L.",
-    "Madorius giganteus (L.) Kuntze",
-    "Periploca chinensis Decne.",
-    "Periploca cochinchinensis Lour.",
-    "Streptocaulon cochinchinense (Lour.) G.Don"
-  ],
-  "familyName": "",
-  "englishNames": [
-    "Rubber Bush",
-    "Wild Gigantic Swallow Water",
-    "Crown Flower",
-    "Giant Indian Milkweed",
-    "Giant Milkweed",
-    "Ivory Plant",
-    "Swallow-wort",
-    "Asclepiad Tree"
-  ],
-  "sinhalaName": "Ela wara (එළ වරා)",
-  "description": "",
-  "treatments": [
-    {
-      "treatment": "Wounds",
-      "sinhala": "තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
+    "scientificName": "",
+    "synonyms": [
+        "Asclepias argentata Noronha",
+        "Asclepias gigantea L.",
+        "Madorius giganteus (L.) Kuntze",
+        "Periploca chinensis Decne.",
+        "Periploca cochinchinensis Lour.",
+        "Streptocaulon cochinchinense (Lour.) G.Don"
+    ],
+    "familyName": "",
+    "englishNames": [
+        "Rubber Bush",
+        "Wild Gigantic Swallow Water",
+        "Crown Flower",
+        "Giant Indian Milkweed",
+        "Giant Milkweed",
+        "Ivory Plant",
+        "Swallow-wort",
+        "Asclepiad Tree"
+    ],
+    "sinhalaName": "Ela wara (එළ වරා)",
+    "description": "",
+    "treatments": [
+        {
+            "treatment": "Wounds",
+            "sinhala": "තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Abdominal Disorders",
+            "sinhala": "උදර ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Fistula-in-ano",
+            "sinhala": "භගන්දරය (ගුද මාර්ගයේ හටගන්නා වණ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Headache",
+            "sinhala": "හිසරදය (ශිරෝ රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Migraine",
+            "sinhala": "ඉරුවාරදය (අර්ධාවභේදක)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Nervous System & Mental Health Disorders",
+                "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Venomous Reptile Bites",
+            "sinhala": "විෂ සහිත උරග දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Rabies",
+            "sinhala": "ජලභීතිකාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Spider Bites",
+            "sinhala": "මකුළු දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "General Pain",
+            "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Alopecia",
+            "sinhala": "කෙස් හැලී යාම (තට්ටය පෑදීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Flowers",
+        "Twigs",
+        "Latex of the stem"
+    ],
+    "images": [
+        {
+            "image_id": "319",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/FLfcv1PY/plant01347-00319.jpg"
+        },
+        {
+            "image_id": "320",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/67GLdmWm/plant01347-00320.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "නිවසේ සියලු දෝෂ දුරු කරන එළවරා ශාකය | Wasthu Dosha Apala Walata Ela Wara",
+                "url": "https://youtube.com/watch?v=jVTONj_8UIU",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/jVTONj_8UIU/hq720.jpg"
+            },
+            {
+                "title": "(calotropis gigantea) වරා මල් වරා ශාකයෙන්  #shot video#",
+                "url": "https://youtube.com/watch?v=YzBNg1bl4lM",
+                "duration": "0:26",
+                "thumbnail": "https://i.ytimg.com/vi/YzBNg1bl4lM/hqdefault.jpg"
+            },
+            {
+                "title": "සර්ප විෂ, සුදු කබර ඇතුළු රෝග රැසකට ගුණ දෙන වටිනා ශාකය | වරා (Wara) | (වරා ගස, වරා)",
+                "url": "https://youtube.com/watch?v=uFu3FzPgA6g",
+                "duration": "9:49",
+                "thumbnail": "https://i.ytimg.com/vi/uFu3FzPgA6g/hq720.jpg"
+            },
+            {
+                "title": "එළවරා භුමියේ වස්තු දොස් නසනා ගෙදරට වාසනාව ඔසුවකි",
+                "url": "https://youtube.com/watch?v=i8MR4zDRDaM",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/i8MR4zDRDaM/hq720.jpg"
+            },
+            {
+                "title": "එළවරා ශාකය - calotropis gigantea",
+                "url": "https://youtube.com/watch?v=uzxve_K7LPM",
+                "duration": "11:03",
+                "thumbnail": "https://i.ytimg.com/vi/uzxve_K7LPM/hq720.jpg"
+            },
+            {
+                "title": "නිවසේ සියලු දෝෂ දුරු කරන එළවරා ශාකය | Wasthu Dosha Apala Walata Ela Wara",
+                "url": "https://youtube.com/watch?v=Uxxr8xdC1EA",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/Uxxr8xdC1EA/frame0.jpg"
+            },
+            {
+                "title": "# රෝග රැසකට සුවය සාදන එළ වරා #",
+                "url": "https://youtube.com/watch?v=yr2B00syFMA",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/yr2B00syFMA/hqdefault.jpg"
+            },
+            {
+                "title": "පැණි වරා එහෙමත් නැත්නම් නාග වරා කියන වර්ගය දැකලා තියෙනවද? | Pani Waraa Plant , Naaga Waraa",
+                "url": "https://youtube.com/watch?v=9pJcrwx757Y",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/9pJcrwx757Y/hq720.jpg"
+            },
+            {
+                "title": "(calotropis gigantea) වරා මල් වරා ශාකයෙන්  #shot video#",
+                "url": "https://youtube.com/watch?v=qWlzSvQtm0o",
+                "duration": "0:26",
+                "thumbnail": "https://i.ytimg.com/vi/qWlzSvQtm0o/frame0.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුණ රැසක් සහිත වරා ශාකය | Calotropis gigantea / wara | Episode 30",
+                "url": "https://youtube.com/watch?v=3StW_-_5r9U",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/3StW_-_5r9U/hq720.jpg"
+            },
+            {
+                "title": "ඖෂදිය ගුණ ඇති වරා ශාකයෙන් ගත හැකි ප්‍රයෝජන - calotropis gigantea / Wara",
+                "url": "https://youtube.com/watch?v=zZvrg5FXEsE",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/zZvrg5FXEsE/hq720.jpg"
+            },
+            {
+                "title": "Sinhala Ath Beheth | Ela Wara | story eka",
+                "url": "https://youtube.com/watch?v=sROBdqIFo-A",
+                "duration": "1:16",
+                "thumbnail": "https://i.ytimg.com/vi/sROBdqIFo-A/hq720.jpg"
+            },
+            {
+                "title": "වරා මල් දැකලා තිබුනට වරා ගෙඩි දැකලා තියනවද #wara #waragedi #helaosu #sinhalabeheth",
+                "url": "https://youtube.com/watch?v=qRpE0rj5htc",
+                "duration": "3:06",
+                "thumbnail": "https://i.ytimg.com/vi/qRpE0rj5htc/hq720.jpg"
+            },
+            {
+                "title": "වරා ( Calotropis gigantea)",
+                "url": "https://youtube.com/watch?v=B7mUPnoC7Yg",
+                "duration": "9:10",
+                "thumbnail": "https://i.ytimg.com/vi/B7mUPnoC7Yg/hq720.jpg"
+            },
+            {
+                "title": "වරා (Wara) | Calotropis gigantea",
+                "url": "https://youtube.com/watch?v=lCWmwqpsgNA",
+                "duration": "1:20",
+                "thumbnail": "https://i.ytimg.com/vi/lCWmwqpsgNA/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධීය ගුන ඇති වරා | රෝග රැසකට ගුන දෙන වරා | waraa",
+                "url": "https://youtube.com/watch?v=VRrR4BW8opE",
+                "duration": "6:14",
+                "thumbnail": "https://i.ytimg.com/vi/VRrR4BW8opE/hqdefault.jpg"
+            },
+            {
+                "title": "Calotropis gigantean /Ela wara/Herbal plants of Sri Lanka",
+                "url": "https://youtube.com/watch?v=X4p740p8A9Y",
+                "duration": "1:17",
+                "thumbnail": "https://i.ytimg.com/vi/X4p740p8A9Y/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Abdominal Disorders",
-      "sinhala": "උදර ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Fistula-in-ano",
-      "sinhala": "භගන්දරය (ගුද මාර්ගයේ හටගන්නා වණ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Headache",
-      "sinhala": "හිසරදය (ශිරෝ රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Migraine",
-      "sinhala": "ඉරුවාරදය (අර්ධාවභේදක)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Nervous System & Mental Health Disorders",
-        "sinhala": "ස්නායු පද්ධතිය සහ මානසික සෞඛ්‍ය ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Venomous Reptile Bites",
-      "sinhala": "විෂ සහිත උරග දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Rabies",
-      "sinhala": "ජලභීතිකාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Spider Bites",
-      "sinhala": "මකුළු දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "General Pain",
-      "sinhala": "සාමාන්‍ය ශාරීරික වේදනාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    },
-    {
-      "treatment": "Alopecia",
-      "sinhala": "කෙස් හැලී යාම (තට්ටය පෑදීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Flowers",
-    "Twigs",
-    "Latex of the stem"
-  ],
-  "images": [
-    {
-      "image_id": "319",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/FLfcv1PY/plant01347-00319.jpg"
-    },
-    {
-      "image_id": "320",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/67GLdmWm/plant01347-00320.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

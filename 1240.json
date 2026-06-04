@@ -1,23 +1,544 @@
 {
-  "scientificName": "Torenia travancorica Gamble",
-  "synonyms": [],
-  "familyName": "LINDERNIACEAE",
-  "englishNames": [],
-  "sinhalaName": "Kotala wel (කොටල වැල්)",
-  "description": "",
-  "treatments": [],
-  "partsUsed": [],
-  "images": [
-    {
-      "image_id": "3129",
-      "caption": "Flower 1 (PMR)",
-      "url": "https://i.ibb.co/qY3Wy32c/plant01240-03129.jpg"
+    "scientificName": "Torenia travancorica Gamble",
+    "synonyms": [],
+    "familyName": "LINDERNIACEAE",
+    "englishNames": [],
+    "sinhalaName": "Kotala wel (කොටල වැල්)",
+    "description": "",
+    "treatments": [],
+    "partsUsed": [],
+    "images": [
+        {
+            "image_id": "3129",
+            "caption": "Flower 1 (PMR)",
+            "url": "https://i.ibb.co/qY3Wy32c/plant01240-03129.jpg"
+        },
+        {
+            "image_id": "3130",
+            "caption": "Flower 2 (PMR)",
+            "url": "https://i.ibb.co/CpT6twXb/plant01240-03130.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "වැල්වල හැදෙන පලතුරු",
+                "url": "https://youtube.com/watch?v=pPuv1_VoYV8",
+                "duration": "0:35",
+                "thumbnail": "https://i.ytimg.com/vi/pPuv1_VoYV8/hq720.jpg"
+            },
+            {
+                "title": "වෙනිවැල් - තිත්ත වැල් \"කොහොමද හොයන්නේ \" / Herbal Plants - Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=e37sZqGCbfM",
+                "duration": "4:39",
+                "thumbnail": "https://i.ytimg.com/vi/e37sZqGCbfM/hq720.jpg"
+            },
+            {
+                "title": "ගොඩක් දෙනා දැකල තියෙන වැල් වර්ගයක් තමයි මේකත් | මොනවද මේ පෝර වැල්",
+                "url": "https://youtube.com/watch?v=gYNbQTVMXbU",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/gYNbQTVMXbU/hq720.jpg"
+            },
+            {
+                "title": "බුලත් වැල් 20කින් මාසෙකට ලොකු ආදායමක් .Let's get a big monthly income from 20 betel plants.#beetle",
+                "url": "https://youtube.com/watch?v=i0K-_bUL9mY",
+                "duration": "9:25",
+                "thumbnail": "https://i.ytimg.com/vi/i0K-_bUL9mY/hq720.jpg"
+            },
+            {
+                "title": "අද කාලේ ළමයි දැකලවත් නැති, ඔසු පිනිසද යොදාගන්න වන පලතුර | වැල් කෑලිය",
+                "url": "https://youtube.com/watch?v=T5fcgR3y3PQ",
+                "duration": "3:49",
+                "thumbnail": "https://i.ytimg.com/vi/T5fcgR3y3PQ/hq720.jpg"
+            },
+            {
+                "title": "phanika කොට ඉඹුල. කොට කිඹුලා. වල් අට්ටික්කා.හඳුනා ගන්න මේ බෙහෙත් පැලය අට්ටික්කා නෙවෙයි. හඳුනා ගන්න.",
+                "url": "https://youtube.com/watch?v=JS_JW-ZDKrM",
+                "duration": "9:02",
+                "thumbnail": "https://i.ytimg.com/vi/JS_JW-ZDKrM/hqdefault.jpg"
+            },
+            {
+                "title": "poota wela is medical  plant  පෝටා වැල් වටිනා ඔසු වැලකි.",
+                "url": "https://youtube.com/watch?v=S6LGTdy6tSc",
+                "duration": "5:29",
+                "thumbnail": "https://i.ytimg.com/vi/S6LGTdy6tSc/hqdefault.jpg"
+            },
+            {
+                "title": "\" කැලේ හැදෙන ලස්සන වැලක් \" / A medicinal plant that grows in the forest @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=rME6x2nqyQw",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/rME6x2nqyQw/hq720.jpg"
+            },
+            {
+                "title": "වල් කොත්තමල්ලි|Scoparia dulcis Sirlank",
+                "url": "https://youtube.com/watch?v=UounQ5OkR9k",
+                "duration": "3:54",
+                "thumbnail": "https://i.ytimg.com/vi/UounQ5OkR9k/hqdefault.jpg"
+            },
+            {
+                "title": "Welpenela Benefits : පිරිමි ගෙදරම තියාගන්න ගහපු වැල් පෙනෙල ගැටේ මෙන්න",
+                "url": "https://youtube.com/watch?v=gjqX33rzqng",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/gjqX33rzqng/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂ ශක්තිය වඩවන වැල් පෙණල කොළ කැඳ - Herbal Plants Of Sri Lanka Wel Penela Juice",
+                "url": "https://youtube.com/watch?v=sRWYctWfRjE",
+                "duration": "1:53",
+                "thumbnail": "https://i.ytimg.com/vi/sRWYctWfRjE/hq720.jpg"
+            },
+            {
+                "title": "Wal koththamalli|රෝග  රැසකට ගුණදෙන වල් කොත්තමල්ලි පැළැටියේ විශ්මිත ඖෂධිය ගුණ",
+                "url": "https://youtube.com/watch?v=ky8SextNuXc",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/ky8SextNuXc/hq720.jpg"
+            },
+            {
+                "title": "නුවර අය දන්න ත්‍රීකුණාමලේ අය දන්නෙනැති පොටිච්ව වැල්🤭",
+                "url": "https://youtube.com/watch?v=4rNRrSp5QLE",
+                "duration": "16:05",
+                "thumbnail": "https://i.ytimg.com/vi/4rNRrSp5QLE/hqdefault.jpg"
+            },
+            {
+                "title": "කොට කිඹුල( Kotakibula)",
+                "url": "https://youtube.com/watch?v=jwW400Dnijs",
+                "duration": "0:43",
+                "thumbnail": "https://i.ytimg.com/vi/jwW400Dnijs/hq720.jpg"
+            },
+            {
+                "title": "Kothalahibutu |Salacia reticulata |වටිනා ඔසුවක් වූ කොතලහිඹුටු |Ceylon Agri|Gasaka Waruna Episode 07",
+                "url": "https://youtube.com/watch?v=SMDNLzYWkEk",
+                "duration": "2:39",
+                "thumbnail": "https://i.ytimg.com/vi/SMDNLzYWkEk/hqdefault.jpg"
+            },
+            {
+                "title": "වල් පැළෑටියක් යැයි සිතා ගලවා දමන මහා ඖෂධ ගුණ පිරි ඔසුව - Health Benefits of Stone Breaker",
+                "url": "https://youtube.com/watch?v=kW8LYRHv0RE",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/kW8LYRHv0RE/hq720.jpg"
+            },
+            {
+                "title": "ඇයි වැල් දකුණටම එතෙන්නේ - තිලක් කන්දේගම / Vine spin direction @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=Yp9zqJ8U51Y",
+                "duration": "3:10",
+                "thumbnail": "https://i.ytimg.com/vi/Yp9zqJ8U51Y/hq720.jpg"
+            },
+            {
+                "title": "වැටකොළු වැලක් තරුණ කරන රහස.",
+                "url": "https://youtube.com/watch?v=O3pxj6nCliU",
+                "duration": "7:54",
+                "thumbnail": "https://i.ytimg.com/vi/O3pxj6nCliU/hq720.jpg"
+            },
+            {
+                "title": "ඉබේ හැදෙන මේ වැල මෙච්චර වටිනවා කියලා දැනම් හිටියද? - පෝටා වැල් (Pota Wel)",
+                "url": "https://youtube.com/watch?v=co_a4WEHm0c",
+                "duration": "6:16",
+                "thumbnail": "https://i.ytimg.com/vi/co_a4WEHm0c/hq720.jpg"
+            },
+            {
+                "title": "Sinhala Wal Katha Official Channel| First Logo Video |Sinhala Wal Katha|Wala Katha|Hukanawa|Story",
+                "url": "https://youtube.com/watch?v=FryO84IPrDk",
+                "duration": "0:05",
+                "thumbnail": "https://i.ytimg.com/vi/FryO84IPrDk/hqdefault.jpg"
+            },
+            {
+                "title": "පඩ වගේ නැති පඩ වැල් pada wel දැල් බටු #manutv #science",
+                "url": "https://youtube.com/watch?v=y0oM61k7MTA",
+                "duration": "0:34",
+                "thumbnail": "https://i.ytimg.com/vi/y0oM61k7MTA/hqdefault.jpg"
+            },
+            {
+                "title": "පඩ වැල් | Pada wel | Udahalu | Wild Water Melon | Stinking Passionflower",
+                "url": "https://youtube.com/watch?v=JG_CMyFr3wg",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/JG_CMyFr3wg/hq720.jpg"
+            },
+            {
+                "title": "\"මොනවද මේ වැල වරකා\" - තිලක් කන්දේගම / Wild fruits Sri Lanka @ThilakKandegama",
+                "url": "https://youtube.com/watch?v=kUm-4R5-EZY",
+                "duration": "2:47",
+                "thumbnail": "https://i.ytimg.com/vi/kUm-4R5-EZY/hq720.jpg"
+            },
+            {
+                "title": "වැල් පෙනෙල ගැන ඔබ නොදන් දේ.  health benefits of welpenela",
+                "url": "https://youtube.com/watch?v=MNM-79Lgw7o",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/MNM-79Lgw7o/hq720.jpg"
+            },
+            {
+                "title": "ලිංගික බෙලහීනතාවය දුරලා ධාතු ශක්තිය වර්ධනය කරන නොටිටූ වැල් /nottu wal medical",
+                "url": "https://youtube.com/watch?v=Rt3Mp7EQ71w",
+                "duration": "7:51",
+                "thumbnail": "https://i.ytimg.com/vi/Rt3Mp7EQ71w/hq720.jpg"
+            },
+            {
+                "title": "වතුපාලු හෙවත් ලෝකපාලු බෙහෙත් කියලා දන්නවද/Climbing Hempweed",
+                "url": "https://youtube.com/watch?v=HtyNR--DR6c",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/HtyNR--DR6c/hqdefault.jpg"
+            },
+            {
+                "title": "Ath Beheth Sinhala | Wel Thubbotu | story eka",
+                "url": "https://youtube.com/watch?v=loPJNmxclfs",
+                "duration": "1:31",
+                "thumbnail": "https://i.ytimg.com/vi/loPJNmxclfs/hq720.jpg"
+            },
+            {
+                "title": "goiwel ඔබ නොදැකපු ගොයි වැල් පිලිබඳ විස්තරය",
+                "url": "https://youtube.com/watch?v=-7ae-RCJSps",
+                "duration": "2:32",
+                "thumbnail": "https://i.ytimg.com/vi/-7ae-RCJSps/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා රෝග නැති කරන වීස් එකට ගුණ පුදුම රස පෝට වැල් කාල තියනවද",
+                "url": "https://youtube.com/watch?v=9-7fjL5Etu0",
+                "duration": "6:09",
+                "thumbnail": "https://i.ytimg.com/vi/9-7fjL5Etu0/hq720.jpg"
+            },
+            {
+                "title": "වැල් කහඹිලියා ගැන ඔබ නොදත් දේ",
+                "url": "https://youtube.com/watch?v=D2msDqXHsE8",
+                "duration": "3:33",
+                "thumbnail": "https://i.ytimg.com/vi/D2msDqXHsE8/hqdefault.jpg"
+            },
+            {
+                "title": "පිළිකා, දියවැඩියාව ඇතුළු රෝග රැසකට ගුණ වල් කොත්තමල්ලි | වල් කොත්තමල්ලි | Wal Koththamalli Plant",
+                "url": "https://youtube.com/watch?v=F-Eb7gnhF2I",
+                "duration": "7:56",
+                "thumbnail": "https://i.ytimg.com/vi/F-Eb7gnhF2I/hq720.jpg"
+            },
+            {
+                "title": "very best medical plant පෝටා වැල් බෙහෙත් ඖෂධීය ශාකය poota wal #Shorts",
+                "url": "https://youtube.com/watch?v=bm6eBenyh8k",
+                "duration": "0:14",
+                "thumbnail": "https://i.ytimg.com/vi/bm6eBenyh8k/hq720_2.jpg"
+            },
+            {
+                "title": "කෝටි ගණන් නිවසට කැන්දන ලොව වාසනාවන්තම පැළෑටි 7 #srilanka #asmr  #sinhalasong  #karaoke #slnews",
+                "url": "https://youtube.com/watch?v=WNnzVKEmYzU",
+                "duration": "0:56",
+                "thumbnail": "https://i.ytimg.com/vi/WNnzVKEmYzU/hq720.jpg"
+            },
+            {
+                "title": "වැටවල් දිගේ තණකොළ  ගාල් අස්සේ හොඳින් වැඩෙන මෙයා උඩහලු නැත්නම් පඩ වැල්",
+                "url": "https://youtube.com/watch?v=R1WHCO-U_gM",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/R1WHCO-U_gM/hq720_2.jpg"
+            },
+            {
+                "title": "ලංකාවට ආවේණික බෙහෙත් පැළෑටි කිහිපයක්😯🤗Native to Sri Lanka Some herbs #shortvideo #wildsrilanka",
+                "url": "https://youtube.com/watch?v=wV_letskurc",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/wV_letskurc/hq720.jpg"
+            },
+            {
+                "title": "ගෙදර ඇතුළත වාතය පිරිසිදු කරන හොඳම ශාක වර්ග 8ක් | Best air purifying indoor plants | #facts #indoor",
+                "url": "https://youtube.com/watch?v=4i8w6xuWO90",
+                "duration": "0:32",
+                "thumbnail": "https://i.ytimg.com/vi/4i8w6xuWO90/hq720.jpg"
+            },
+            {
+                "title": "නිදන කාමරයේ තබා ගැනීමට සුදුසුම විසිතුරු පැල 07 ක් 😍🌷#sinhala #science #short",
+                "url": "https://youtube.com/watch?v=GTJCkIzoSLQ",
+                "duration": "0:49",
+                "thumbnail": "https://i.ytimg.com/vi/GTJCkIzoSLQ/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල 32ක් | වල් පැල කියල ගලවලා විසිකරන වටිනා ඔසු | Osu Pela 32 k Menna | ඖෂධීය ශාක හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=Fy5R3h2W1kw",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/Fy5R3h2W1kw/hq720.jpg"
+            },
+            {
+                "title": "පැළෑටි, ගස්, වැල්, පඳුරු යන ශාක වර්ග 4 නිවැරදිව වෙන් කර හඳුනා ගැනීම     https://youtu.be/Gcth_cIDkbg",
+                "url": "https://youtube.com/watch?v=UmxvUOIUu9U",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/UmxvUOIUu9U/hq720_2.jpg"
+            },
+            {
+                "title": "වටිනා දේශීය ඖෂධ කිහිපයක් (deshiya aushada warga )",
+                "url": "https://youtube.com/watch?v=goJTRaJfZTY",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/goJTRaJfZTY/hq2.jpg"
+            },
+            {
+                "title": "रानभाजी कपाळ फोडी | Ranbhaji Kapalfodi | Cardiospermum halicacabum | Balloon vine #health",
+                "url": "https://youtube.com/watch?v=01h1mJWzhg4",
+                "duration": "0:57",
+                "thumbnail": "https://i.ytimg.com/vi/01h1mJWzhg4/hq720_2.jpg"
+            },
+            {
+                "title": "කොළ කොඩ වීමට එකම විසඳුම Miracle bio green",
+                "url": "https://youtube.com/watch?v=qCw05h8pHoA",
+                "duration": "0:12",
+                "thumbnail": "https://i.ytimg.com/vi/qCw05h8pHoA/hq720_2.jpg"
+            },
+            {
+                "title": "කප්පරක් ගුණ  දෙන ඔසු පැලේ කප්පරවල්ලිය #osu #plant #coleusplant #shorts",
+                "url": "https://youtube.com/watch?v=Hh3gbDKCDQE",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/Hh3gbDKCDQE/hq720_2.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "තුඹ කරවිල වගාව",
+                "url": "https://youtube.com/watch?v=5JsoWM0Admk",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/5JsoWM0Admk/hq720_2.jpg"
+            },
+            {
+                "title": "Baloon vine ( uzhinja , indravallari , niravalli ) medicinal",
+                "url": "https://youtube.com/watch?v=3CVU40rtiOU",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/3CVU40rtiOU/hq720_2.jpg"
+            },
+            {
+                "title": "දිලීර ආසාදනය වී තිබූ අක්කර 4 ක කොමඩු වගාවකට miracle bio green  භාවිතා කිරීමෙන් පසු ලබාගත් සාර්ථකත්වය",
+                "url": "https://youtube.com/watch?v=kZoPE7kjWZI",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/kZoPE7kjWZI/hq720_2.jpg"
+            },
+            {
+                "title": "වල් පැලයක්යැයි 🌱 සිතූ වටිනා ඔසුව 🍀 #sinhala #shorts #health",
+                "url": "https://youtube.com/watch?v=bKbDv3TCllI",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/bKbDv3TCllI/hq720.jpg"
+            },
+            {
+                "title": "දේශීය වැල් අල,කහ,ඉගුරු බීජ හා පැල ලබාගැනීම සදහා දැන්ම අමතන්න.0718391269",
+                "url": "https://youtube.com/watch?v=SJW4htrGRc4",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/SJW4htrGRc4/hq720_2.jpg"
+            },
+            {
+                "title": "වැල් කොහිල ශාකය ගැන දැනගමු | Wel kohila | Syngonium angustatum🌿✅",
+                "url": "https://youtube.com/watch?v=lEuvSECe6wE",
+                "duration": "3:05",
+                "thumbnail": "https://i.ytimg.com/vi/lEuvSECe6wE/hqdefault.jpg"
+            },
+            {
+                "title": "වැල් දොඩම් කොළ මැල්ලුම ගුණ කෝට්යයි | passion fruit leaves benefits🌿",
+                "url": "https://youtube.com/watch?v=_uot4bZ4r0U",
+                "duration": "4:01",
+                "thumbnail": "https://i.ytimg.com/vi/_uot4bZ4r0U/hqdefault.jpg"
+            },
+            {
+                "title": "දියවැඩියාව සඳහා හෙළ ඔසුවක් | වල් කොත්තමල්ලි | Scoparia dulcis | #helaosu",
+                "url": "https://youtube.com/watch?v=ql_MYHbpcRg",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/ql_MYHbpcRg/hq720.jpg"
+            },
+            {
+                "title": "වැල් මී වල ගුන",
+                "url": "https://youtube.com/watch?v=KDjjZfuAt5o",
+                "duration": "10:31",
+                "thumbnail": "https://i.ytimg.com/vi/KDjjZfuAt5o/hqdefault.jpg"
+            },
+            {
+                "title": "Local potato varieties ...දේශිය අල වර්ග....",
+                "url": "https://youtube.com/watch?v=AV40V5sy2pQ",
+                "duration": "1:27",
+                "thumbnail": "https://i.ytimg.com/vi/AV40V5sy2pQ/hqdefault.jpg"
+            },
+            {
+                "title": "උෂ්ණය අවම කර දරු පල ලගා කර දෙන කැලේ හැදෙන වැල් . උදර,අක්මා වකුගඩු රෝග  ඔසුව",
+                "url": "https://youtube.com/watch?v=cIJk9SkEygA",
+                "duration": "6:25",
+                "thumbnail": "https://i.ytimg.com/vi/cIJk9SkEygA/hqdefault.jpg"
+            },
+            {
+                "title": "වෙනිවැල් ගැටේ පුදුම ඖෂධීය ගුණ | Weniwel Gata Benefits in Sinhala",
+                "url": "https://youtube.com/watch?v=uJiRKPX4SFg",
+                "duration": "4:43",
+                "thumbnail": "https://i.ytimg.com/vi/uJiRKPX4SFg/hq720.jpg"
+            },
+            {
+                "title": "හිසතෙල් ගාන්න වගේම දියවැඩියාව ඇතුළු රෝග රැසකට ගුණ කොලොං/කොලොන් | Kolon Tree",
+                "url": "https://youtube.com/watch?v=zD30x-2Iy_I",
+                "duration": "11:45",
+                "thumbnail": "https://i.ytimg.com/vi/zD30x-2Iy_I/hq720.jpg"
+            },
+            {
+                "title": "Cholesterol simplified in 2 and a half minutes - Sinhala Medical Channel (Oba Nodanna Medicine)",
+                "url": "https://youtube.com/watch?v=3pSXBu_I6Ao",
+                "duration": "3:25",
+                "thumbnail": "https://i.ytimg.com/vi/3pSXBu_I6Ao/hq720.jpg"
+            },
+            {
+                "title": "නිල් කටරොළු පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 6ක් | Health Benefits Of Butterfly Pea Tea",
+                "url": "https://youtube.com/watch?v=lwZGAN8NJaM",
+                "duration": "9:22",
+                "thumbnail": "https://i.ytimg.com/vi/lwZGAN8NJaM/hq720.jpg"
+            },
+            {
+                "title": "Pota wel|කැඩුම් බිදුම් වෙදකමට නැතුවම බැරි පෝටා වැලේ ඖෂධිය ගුණ 🌿",
+                "url": "https://youtube.com/watch?v=RZatkDtYRwI",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/RZatkDtYRwI/hq720.jpg"
+            },
+            {
+                "title": "දණහිසේ කාටිලේජ වේගයෙන් වර්ධනය කරන සුපිරිම ආහාර 08 | 7 Foods that Help Rebuild Cartilage",
+                "url": "https://youtube.com/watch?v=V-TVL5tMWSI",
+                "duration": "9:47",
+                "thumbnail": "https://i.ytimg.com/vi/V-TVL5tMWSI/hq720.jpg"
+            },
+            {
+                "title": "ඖෂධ ගුණයක් ඇති  කොටුකල ගැන විස්තර",
+                "url": "https://youtube.com/watch?v=xfzU2eTtAmU",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/xfzU2eTtAmU/hq720.jpg"
+            },
+            {
+                "title": "The Healing Power of Bael Fruit for Gut Health",
+                "url": "https://youtube.com/watch?v=MLCxywMfZvs",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/MLCxywMfZvs/hq720.jpg"
+            },
+            {
+                "title": "🔴 Live ශ්‍රී ලංකා නාවික හමුදාව යටතේ අධිකාරියට පත්කිරීමේ නිල උත්සවයජනපති අනුරගේ සහභාගිත්වයෙන්",
+                "url": "https://youtube.com/watch?v=j5aduSaLOKI",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/j5aduSaLOKI/hq720.jpg"
+            },
+            {
+                "title": "Gotukola and Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=LcQ_lwSLdIA",
+                "duration": "9:59",
+                "thumbnail": "https://i.ytimg.com/vi/LcQ_lwSLdIA/hq720.jpg"
+            },
+            {
+                "title": "කොටස් වෙළඳපොලේ මුදල් සොයන්නේ කොහොමද ? (කොටස් වෙළඳපොල - i)",
+                "url": "https://youtube.com/watch?v=iazHr3dn1b4",
+                "duration": "21:58",
+                "thumbnail": "https://i.ytimg.com/vi/iazHr3dn1b4/hq720.jpg"
+            },
+            {
+                "title": "කොතල හිඹුටු  | Salacia reticulata - ප්‍රාණජිව | දේශීය ඔසු පැළ හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=_SOlHZT6gAI",
+                "duration": "6:06",
+                "thumbnail": "https://i.ytimg.com/vi/_SOlHZT6gAI/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "වැටකොළු කෑවොත් වෙන දේ මෙන්න : Benefits of Luffa (Ridge Gourd)",
+                "url": "https://youtube.com/watch?v=Me5YrS9yvRw",
+                "duration": "2:19",
+                "thumbnail": "https://i.ytimg.com/vi/Me5YrS9yvRw/hq720.jpg"
+            },
+            {
+                "title": "කොතල හිඹුටු කියන්නේ මොනවද?",
+                "url": "https://youtube.com/watch?v=cMS5BmYph0w",
+                "duration": "6:34",
+                "thumbnail": "https://i.ytimg.com/vi/cMS5BmYph0w/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල ශාකයේ ගුණ අගුණ නිවැරදිව දැනගමු | Health benefits of katupila | කටුපිල | Katupila",
+                "url": "https://youtube.com/watch?v=LnoPt_czJkM",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/LnoPt_czJkM/hqdefault.jpg"
+            },
+            {
+                "title": "උණට, පාචනයට, අතීසාරයට ගුණ වගේම ගොපලු ගුලියේ ප්‍රධානම බෙහෙත කොන්තාලම් Konthalam",
+                "url": "https://youtube.com/watch?v=L8YX0V02QZg",
+                "duration": "11:40",
+                "thumbnail": "https://i.ytimg.com/vi/L8YX0V02QZg/hq720.jpg"
+            },
+            {
+                "title": "තල තෙල් ගෑවොත් ලොකු කරගන්න පුලුවන්ද? - Dr. Namal Wijesinghe",
+                "url": "https://youtube.com/watch?v=7Mk-Qu5-j4s",
+                "duration": "10:01",
+                "thumbnail": "https://i.ytimg.com/vi/7Mk-Qu5-j4s/hq720.jpg"
+            },
+            {
+                "title": "වේදනා විඳින අර්ශස් රෝග සුවයට වැල් කොහිල",
+                "url": "https://youtube.com/watch?v=yiFTQIGvwFE",
+                "duration": "0:48",
+                "thumbnail": "https://i.ytimg.com/vi/yiFTQIGvwFE/hq720_2.jpg"
+            },
+            {
+                "title": "එදා වේල කන්න නැතුව ඉන්න මිනිස්සුන්ට රුපියල් 95,000ක් දීලා බෙහෙත් ගන්නේ කොහොමද - Hiru News",
+                "url": "https://youtube.com/watch?v=ii8I0Hs-LWo",
+                "duration": "0:41",
+                "thumbnail": "https://i.ytimg.com/vi/ii8I0Hs-LWo/hq720_2.jpg"
+            },
+            {
+                "title": "වතු වල ඉබේ හැදෙන වල් පැල කියලා ගලවන වටිනා ශාකයක් | බලන්න දන්නවද කියලා",
+                "url": "https://youtube.com/watch?v=fwQ5WNjxLo0",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/fwQ5WNjxLo0/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාවට කොතලහිඹුටු ? | Sitha FM",
+                "url": "https://youtube.com/watch?v=SD0s9z1JyUY",
+                "duration": "1:41",
+                "thumbnail": "https://i.ytimg.com/vi/SD0s9z1JyUY/hq720.jpg"
+            },
+            {
+                "title": "ලේ වල නරක කොලෙස්ට්‍රෝල් , ට්‍රයිග්ලිසරයිඩ් ඉවත් කරන හොඳ කොලෙස්ට්‍රෝල් ගැන හරියටම දැනගමු",
+                "url": "https://youtube.com/watch?v=Z68BtPPVffA",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/Z68BtPPVffA/hq720.jpg"
+            },
+            {
+                "title": "සොබාවික පපඩම් ගහේ වටිනාකම දන්නවද? | මුස්සැන්ද කියන්නේ මොනවද",
+                "url": "https://youtube.com/watch?v=FF5O7NnrFyw",
+                "duration": "5:01",
+                "thumbnail": "https://i.ytimg.com/vi/FF5O7NnrFyw/hqdefault.jpg"
+            },
+            {
+                "title": "ලෝකයේ ප්‍රෝටීන් බහුල ආහාර ඔබේ ආහාර වේලටත් අදම එකතු කරගන්න | Flogram20",
+                "url": "https://youtube.com/watch?v=VnsjRA1sivI",
+                "duration": "1:05",
+                "thumbnail": "https://i.ytimg.com/vi/VnsjRA1sivI/hq720.jpg"
+            },
+            {
+                "title": "දියවැඩියාව පාලනය කරන වටිනා ඔසුවක් වගේම ගෙඩි අගනා පළතුරක් | කොතල හිඹුටු",
+                "url": "https://youtube.com/watch?v=W7bp_6wcjn4",
+                "duration": "6:34",
+                "thumbnail": "https://i.ytimg.com/vi/W7bp_6wcjn4/hq720.jpg"
+            },
+            {
+                "title": "මාසෙන් කොලෙස්ටරෝල් පාලනය කරන කරපිංචා චුර්ණය | How to reduce cholesterol in natural method",
+                "url": "https://youtube.com/watch?v=_drtBmIiAC8",
+                "duration": "2:29",
+                "thumbnail": "https://i.ytimg.com/vi/_drtBmIiAC8/hq720.jpg"
+            },
+            {
+                "title": "අද දවස -  විපක්ෂයට විකල්පයක්?  ‍| අද දවස | Dawasa | 04.06.2026",
+                "url": "https://youtube.com/watch?v=x_Ad7dX9yF0",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_Ad7dX9yF0/hq720.jpg"
+            },
+            {
+                "title": "🇱🇰 නීරෝගීව ඉන්න දෙවියන් ලබා දුන් මිහිරි රසැති  කොළ මැල්ලුම Miracle of Sauropus Androgynus by Kusala",
+                "url": "https://youtube.com/watch?v=eb_kziGe_y4",
+                "duration": "8:06",
+                "thumbnail": "https://i.ytimg.com/vi/eb_kziGe_y4/hq720.jpg"
+            },
+            {
+                "title": "කොලෙස්ටරෝල් බොරු බය නැතිකර කන්න හොද නරක දේ| Dr vajira explains | හොදට කන්න බය නැතුව",
+                "url": "https://youtube.com/watch?v=J0SOPg5brpo",
+                "duration": "12:06",
+                "thumbnail": "https://i.ytimg.com/vi/J0SOPg5brpo/hq720.jpg"
+            }
+        ]
     },
-    {
-      "image_id": "3130",
-      "caption": "Flower 2 (PMR)",
-      "url": "https://i.ibb.co/CpT6twXb/plant01240-03130.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

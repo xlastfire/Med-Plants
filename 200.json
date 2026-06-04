@@ -1,185 +1,652 @@
 {
-  "scientificName": "Ageratum conyzoides L.",
-  "synonyms": [
-    "Ageratum album Steud.",
-    "Ageratum arsenei B.L.Rob.",
-    "Ageratum brachystephanum Regel",
-    "Ageratum ciliare L.",
-    "Ageratum coeruleum Desf.",
-    "Ageratum conyzoides subsp. latifolium (Cav.) M.F.Johnson",
-    "Ageratum conyzoides var. inaequipaleaceum Hieron.",
-    "Ageratum conyzoides var. obtusifolium (Lam.) DC.",
-    "Ageratum cordifolium Roxb.",
-    "Ageratum hirsutum Poir.",
-    "Ageratum hirtum Lam.",
-    "Ageratum humile Larrañaga",
-    "Ageratum humile Salisb.",
-    "Ageratum latifolium Cav.",
-    "Ageratum latifolium var. galapageium B.L.Rob.",
-    "Ageratum muticum Griseb.",
-    "Ageratum nanum Sch.Bip.",
-    "Ageratum obtusifolium Lam.",
-    "Ageratum odoratum E.Vilm.",
-    "Ageratum sandwicense H.Lév.",
-    "Ageratum suffruticosum Regel",
-    "Alomia coelestina B.L.Rob.",
-    "Caelestina suffruticosa Sweet",
-    "Carelia brachystephana Kuntze",
-    "Carelia conyzoides (L.) Kuntze",
-    "Carelia mutica Kuntze",
-    "Eupatorium conyzoides (L.) E.H.L.Krause",
-    "Eupatorium paleaceum Sessé & Moc.",
-    "Phalacraea coelestina Regel",
-    "Sparganophorus obtusifolius Lag."
-  ],
-  "familyName": "ASTERACEAE",
-  "englishNames": [
-    "Billy Goat Weed",
-    "Ageratum",
-    "Invading Ageratum",
-    "Chickweed",
-    "Goatweed"
-  ],
-  "sinhalaName": "Hulanthala (හුළංතලා)",
-  "description": "අප්‍රසන්න ගන්ධයකින් යුත් වාර්ෂික පැළෑටි, සෙ.මී. 10 - 100 ක් උසැතිය. පත්‍ර සෙ.මී. 5 ක් දක්වා දිගැති රළු රෝම සහිත වෘන්ත (hirsute petioles) මත පිහිටයි. පත්‍ර තලය සෙ.මී. 2 - 8 X 1.5 - 6 ක් වන අතර, අග්‍රය මොට (obtuse) හෝ තරමක් උල් (subacute) වේ. පත්‍ර පාදය කැපූ ආකාරයේ (truncate), වටකුරු (rounded) හෝ කුඤ්ඤාකාර (cuneate) වේ. පත්‍ර දාරය දළ සහිත (crenate) වන අතර, පෘෂ්ඨ දෙකෙහිම දිගු විහිදුණු රෝම සහිත (hirsute) වේ. පුෂ්ප මංජරිය (capitula) මි.මී. 3 - 4 ක විෂ්කම්භයකින් යුක්ත වන අතර, 5 - 15 කින් යුත් සමූහ (corymbs) ලෙස පවතී. මේවා සෙ.මී. 0.5 - 2 ක් දිගැති රෝම සහිත (pubescent) පුෂ්ප දණ්ඩ (peduncles) මත පිහිටන අතර, එහි කෙටි රේඛීය උපපත්‍ර (bracts) දක්නට ලැබේ. පැපස් (pappus) කොරපොතු 5 ක් ඇත, ඒවා මි.මී. 2 ක් පමණ දිගැති, ලේන්සාකාර (lanceolate) වන අතර, දාරවල සියුම් රළු බවක් (scabrous) සහිතව, කටුවක් වැනි අග්‍රයකින් (acuminate) අවසන් වේ.",
-  "treatments": [
-    {
-      "treatment": "Venomous stings / bites",
-      "sinhala": "විෂ සහිත දෂ්ටන",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
+    "scientificName": "Ageratum conyzoides L.",
+    "synonyms": [
+        "Ageratum album Steud.",
+        "Ageratum arsenei B.L.Rob.",
+        "Ageratum brachystephanum Regel",
+        "Ageratum ciliare L.",
+        "Ageratum coeruleum Desf.",
+        "Ageratum conyzoides subsp. latifolium (Cav.) M.F.Johnson",
+        "Ageratum conyzoides var. inaequipaleaceum Hieron.",
+        "Ageratum conyzoides var. obtusifolium (Lam.) DC.",
+        "Ageratum cordifolium Roxb.",
+        "Ageratum hirsutum Poir.",
+        "Ageratum hirtum Lam.",
+        "Ageratum humile Larrañaga",
+        "Ageratum humile Salisb.",
+        "Ageratum latifolium Cav.",
+        "Ageratum latifolium var. galapageium B.L.Rob.",
+        "Ageratum muticum Griseb.",
+        "Ageratum nanum Sch.Bip.",
+        "Ageratum obtusifolium Lam.",
+        "Ageratum odoratum E.Vilm.",
+        "Ageratum sandwicense H.Lév.",
+        "Ageratum suffruticosum Regel",
+        "Alomia coelestina B.L.Rob.",
+        "Caelestina suffruticosa Sweet",
+        "Carelia brachystephana Kuntze",
+        "Carelia conyzoides (L.) Kuntze",
+        "Carelia mutica Kuntze",
+        "Eupatorium conyzoides (L.) E.H.L.Krause",
+        "Eupatorium paleaceum Sessé & Moc.",
+        "Phalacraea coelestina Regel",
+        "Sparganophorus obtusifolius Lag."
+    ],
+    "familyName": "ASTERACEAE",
+    "englishNames": [
+        "Billy Goat Weed",
+        "Ageratum",
+        "Invading Ageratum",
+        "Chickweed",
+        "Goatweed"
+    ],
+    "sinhalaName": "Hulanthala (හුළංතලා)",
+    "description": "අප්‍රසන්න ගන්ධයකින් යුත් වාර්ෂික පැළෑටි, සෙ.මී. 10 - 100 ක් උසැතිය. පත්‍ර සෙ.මී. 5 ක් දක්වා දිගැති රළු රෝම සහිත වෘන්ත (hirsute petioles) මත පිහිටයි. පත්‍ර තලය සෙ.මී. 2 - 8 X 1.5 - 6 ක් වන අතර, අග්‍රය මොට (obtuse) හෝ තරමක් උල් (subacute) වේ. පත්‍ර පාදය කැපූ ආකාරයේ (truncate), වටකුරු (rounded) හෝ කුඤ්ඤාකාර (cuneate) වේ. පත්‍ර දාරය දළ සහිත (crenate) වන අතර, පෘෂ්ඨ දෙකෙහිම දිගු විහිදුණු රෝම සහිත (hirsute) වේ. පුෂ්ප මංජරිය (capitula) මි.මී. 3 - 4 ක විෂ්කම්භයකින් යුක්ත වන අතර, 5 - 15 කින් යුත් සමූහ (corymbs) ලෙස පවතී. මේවා සෙ.මී. 0.5 - 2 ක් දිගැති රෝම සහිත (pubescent) පුෂ්ප දණ්ඩ (peduncles) මත පිහිටන අතර, එහි කෙටි රේඛීය උපපත්‍ර (bracts) දක්නට ලැබේ. පැපස් (pappus) කොරපොතු 5 ක් ඇත, ඒවා මි.මී. 2 ක් පමණ දිගැති, ලේන්සාකාර (lanceolate) වන අතර, දාරවල සියුම් රළු බවක් (scabrous) සහිතව, කටුවක් වැනි අග්‍රයකින් (acuminate) අවසන් වේ.",
+    "treatments": [
+        {
+            "treatment": "Venomous stings / bites",
+            "sinhala": "විෂ සහිත දෂ්ටන",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Arthritis",
+            "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Ear Diseases",
+            "sinhala": "කන් ආශ්‍රිත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Heart Diseases",
+            "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Cardiovascular & Circulatory Diseases",
+                "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
+            }
+        },
+        {
+            "treatment": "Liver Diseases",
+            "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Nasopharyngeal Disorders",
+            "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Gastric Disorders",
+            "sinhala": "ආමාශගත රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Eye Diseases",
+            "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Mucosal Disorders",
+            "sinhala": "ශ්ලේෂ්මල පටල ආශ්‍රිත රෝග සහ ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "ENT & Ophthalmic Diseases",
+                "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Leaves",
+        "Roots",
+        "Flowers"
+    ],
+    "images": [
+        {
+            "image_id": "1432",
+            "caption": "Habit",
+            "url": "https://i.ibb.co/qFB6VGSq/plant00200-01432.jpg"
+        },
+        {
+            "image_id": "1433",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/Vcd6MXnP/plant00200-01433.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "[Sri Lanka Wildflowers]#열대식물#Ageratum conyzoides#goatweed#Hulanthala (හුළංතලා)#Pumpillu#Visamustih",
+                "url": "https://youtube.com/watch?v=WxhGC5E8m7k",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/WxhGC5E8m7k/hq720.jpg"
+            },
+            {
+                "title": "Hulanthala ∣ Ageratum conyzoides Introduction by Thilak Kandegama",
+                "url": "https://youtube.com/watch?v=02LMK4iSIak",
+                "duration": "1:29",
+                "thumbnail": "https://i.ytimg.com/vi/02LMK4iSIak/hqdefault.jpg"
+            },
+            {
+                "title": "[Sri Lanka Wildflowers]#열대식물#Synedrella#Cinderella Weed#Hulanthala(හුළංතලා )#Mudiyan pachchai",
+                "url": "https://youtube.com/watch?v=ufprXn0iy-g",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/ufprXn0iy-g/hq720.jpg"
+            },
+            {
+                "title": "අඟුණ කොළ සලාදය හෝ මැල්ලුම ආහාරයට ගැනීමෙන් ලැබෙන  ගුණය   - ආයුර්වේද වෛද්‍ය මහාචාර්ය සජීවා හරපත්දෙනිය",
+                "url": "https://youtube.com/watch?v=CcEpH4cmi1g",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/CcEpH4cmi1g/hq720.jpg"
+            },
+            {
+                "title": "හුලංකීරිය ගුණ. Hulankeeriya.",
+                "url": "https://youtube.com/watch?v=HncGlXMnwNA",
+                "duration": "4:35",
+                "thumbnail": "https://i.ytimg.com/vi/HncGlXMnwNA/hq720.jpg"
+            },
+            {
+                "title": "බැල තණ (Gooes Grass) වල තියන විශ්මිත ගුනය දන්නවද?",
+                "url": "https://youtube.com/watch?v=VbVpVf5sw3Y",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/VbVpVf5sw3Y/hq720.jpg"
+            },
+            {
+                "title": "ඔබ මවිතයට පත් කරන සිංහල බෙහෙත් පැලෑටි හා ඒවායේ ගුණ - Amazing herbs and their medicinal properties",
+                "url": "https://youtube.com/watch?v=i896z5EG4KU",
+                "duration": "1:23",
+                "thumbnail": "https://i.ytimg.com/vi/i896z5EG4KU/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ ඇති අපේ හෙල ඔසු / Medicinal Plants of Sri Lanka",
+                "url": "https://youtube.com/watch?v=HdxDnJVMfuo",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/HdxDnJVMfuo/hq720.jpg"
+            },
+            {
+                "title": "පෙති තෝර ශාකයේ ඇති ගුණ|sicklesenna.sirlanka",
+                "url": "https://youtube.com/watch?v=KlHmOc7zygU",
+                "duration": "2:49",
+                "thumbnail": "https://i.ytimg.com/vi/KlHmOc7zygU/hqdefault.jpg"
+            },
+            {
+                "title": "හුලංතලා Ageratum conyzoids වගාවේ මාරයා",
+                "url": "https://youtube.com/watch?v=IS563qCziFM",
+                "duration": "5:18",
+                "thumbnail": "https://i.ytimg.com/vi/IS563qCziFM/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල්  වල විශ්මිත ගුණ. නිතර භාවිතයෙන් දියවැඩියාව, හදවත්රෝග, උදරාබාධ වලක්වා ගනිමු.",
+                "url": "https://youtube.com/watch?v=k8BgLZgVdxQ",
+                "duration": "7:28",
+                "thumbnail": "https://i.ytimg.com/vi/k8BgLZgVdxQ/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා උදෑසන උළු හාල් වතුර වීදුරුවකින් දවස පටන් ගත්තොත් ඔබට ලැබෙන වටිනා වාසි 10 ක්",
+                "url": "https://youtube.com/watch?v=YghdyV7tigk",
+                "duration": "4:36",
+                "thumbnail": "https://i.ytimg.com/vi/YghdyV7tigk/hqdefault.jpg"
+            },
+            {
+                "title": "''කලාඳුරු අල '' ගුණ අගුණ. රෝග රැසකට ගුණදෙන විශ්මිත ඖෂධ.",
+                "url": "https://youtube.com/watch?v=lKIPz0tGmWc",
+                "duration": "6:41",
+                "thumbnail": "https://i.ytimg.com/vi/lKIPz0tGmWc/hq720.jpg"
+            },
+            {
+                "title": "හිසේ උෂ්ණය අඩු කරන හිසට ඉතාමත් ගුණ භෘංගාමාලක තෛලයේ සුවිශේෂී රහස්",
+                "url": "https://youtube.com/watch?v=Y0Lpv76QyZ8",
+                "duration": "12:27",
+                "thumbnail": "https://i.ytimg.com/vi/Y0Lpv76QyZ8/hq720.jpg"
+            },
+            {
+                "title": "දේශයේ විටමින් ගස - ලාවලු | සුමනදේව හිමි",
+                "url": "https://youtube.com/watch?v=6TJm8gybdx4",
+                "duration": "5:08",
+                "thumbnail": "https://i.ytimg.com/vi/6TJm8gybdx4/hq720.jpg"
+            },
+            {
+                "title": "කලුකැම්මේරිය විශ්මිත ගුණ , රෝග රැසකට එක් ඔසුවක්.",
+                "url": "https://youtube.com/watch?v=CmQImWwL4Hw",
+                "duration": "5:28",
+                "thumbnail": "https://i.ytimg.com/vi/CmQImWwL4Hw/hq720.jpg"
+            },
+            {
+                "title": "හිඟුරල සහ ඇඟිලි අල වෙන් කර හඳුනා ගන්නා ක්‍රමය",
+                "url": "https://youtube.com/watch?v=SNAzaCQfIpw",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/SNAzaCQfIpw/hq720.jpg"
+            },
+            {
+                "title": "තුබ කරවිල වැල් වලින් කඩලා රසට උයමු  Fresh Thuba Karavila Picked from the Garden and Cooked",
+                "url": "https://youtube.com/watch?v=0m6Ke6l5bGc",
+                "duration": "2:24",
+                "thumbnail": "https://i.ytimg.com/vi/0m6Ke6l5bGc/hq720_2.jpg"
+            },
+            {
+                "title": "උගුඩු කවිය ♥️🍃 ලංකාවට ආවේණික, උගුඩු හල් 🔴 Symplocos coronata Thwaites",
+                "url": "https://youtube.com/watch?v=ZD9oYpnF8Gc",
+                "duration": "0:39",
+                "thumbnail": "https://i.ytimg.com/vi/ZD9oYpnF8Gc/hq720_2.jpg"
+            },
+            {
+                "title": "List of 100 Medicinal Plants in Sinhala | Sri Lanka | Arunalu Plants",
+                "url": "https://youtube.com/watch?v=korVbddGbIw",
+                "duration": "13:39",
+                "thumbnail": "https://i.ytimg.com/vi/korVbddGbIw/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍රා ගල් ඇතිවෙන්නේ මෙහෙමයි... | සුව අරණ | Channel One",
+                "url": "https://youtube.com/watch?v=B_GT76Hp9nU",
+                "duration": "24:45",
+                "thumbnail": "https://i.ytimg.com/vi/B_GT76Hp9nU/hq720.jpg"
+            },
+            {
+                "title": "The Hosta secret every gardener should know #herbalist #gardeningtips #plantmedicine",
+                "url": "https://youtube.com/watch?v=x_-RiRpoBBk",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/x_-RiRpoBBk/hq720_2.jpg"
+            },
+            {
+                "title": "හැමදාම තරුණව ඉන්න රෑට මේවා බොන්න | Top 10 Night Anti-Aging Drinks #health #shorts",
+                "url": "https://youtube.com/watch?v=gIerJkG5OD8",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/gIerJkG5OD8/hq720.jpg"
+            },
+            {
+                "title": "Little ironweed #weeds #wildflowers #nature #naturelovers #naturephotography #purpleflower",
+                "url": "https://youtube.com/watch?v=8BVzy7MHJgk",
+                "duration": "0:22",
+                "thumbnail": "https://i.ytimg.com/vi/8BVzy7MHJgk/hq720.jpg"
+            },
+            {
+                "title": "👅ස්වභාවික වර්ණක භාවිතයේදී හැමෝම වරද්දන තැන් 4ක්! | 4 Mistakes to Avoid with Natural Food Coloring 🎨🌱",
+                "url": "https://youtube.com/watch?v=IOpwvzQWIP8",
+                "duration": "0:38",
+                "thumbnail": "https://i.ytimg.com/vi/IOpwvzQWIP8/hq720_2.jpg"
+            },
+            {
+                "title": "Growing HUGE Yellow Sweet Potatoes in an Old Basin පරණ බේසමෙන් ලොකු කහ බතල අස්වැන්නක්#shorts🌿🌿🌿",
+                "url": "https://youtube.com/watch?v=KsZtXotkrz4",
+                "duration": "0:59",
+                "thumbnail": "https://i.ytimg.com/vi/KsZtXotkrz4/hq720.jpg"
+            },
+            {
+                "title": "srilankan healthy foods අපිට අගේ නැති වුණාට විදේශිකයෝ හොයන Careya arborea 🌿",
+                "url": "https://youtube.com/watch?v=fxYyVouLgHk",
+                "duration": "2:15",
+                "thumbnail": "https://i.ytimg.com/vi/fxYyVouLgHk/hq720.jpg"
+            },
+            {
+                "title": "මොණරකුඩුම්බිය  ඔයාලා කනවද?",
+                "url": "https://youtube.com/watch?v=swaNK6R9SYc",
+                "duration": "9:30",
+                "thumbnail": "https://i.ytimg.com/vi/swaNK6R9SYc/hq720.jpg"
+            },
+            {
+                "title": "ඔසු පැල 32ක් | වල් පැල කියල ගලවලා විසිකරන වටිනා ඔසු | Osu Pela 32 k Menna | ඖෂධීය ශාක හදුනා ගනිමු",
+                "url": "https://youtube.com/watch?v=Fy5R3h2W1kw",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/Fy5R3h2W1kw/hq720.jpg"
+            },
+            {
+                "title": "ඇට්ටමුරා (ඇටඹුරු) දේශීය හෙළ වෙදකමේ මහාර්ඝ ඔසුව - #Ettamura #Medicinal #Plant",
+                "url": "https://youtube.com/watch?v=R-O8lYlimRQ",
+                "duration": "0:50",
+                "thumbnail": "https://i.ytimg.com/vi/R-O8lYlimRQ/hq720_2.jpg"
+            },
+            {
+                "title": "ඔලුවේ උදුගොව්වා කෑම දින 7න් නවත්වන සුපිරිම ක්‍රම 10 | Udugovva Kema Treatment Sri Lanka",
+                "url": "https://youtube.com/watch?v=kw0UJcr0bLA",
+                "duration": "0:46",
+                "thumbnail": "https://i.ytimg.com/vi/kw0UJcr0bLA/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "Cyanthillium cinereum/Monara Kudumbiya මොනරකුඩුම්බිය☺️😍 #youtubeshorts #shorts #trending #plant",
+                "url": "https://youtube.com/watch?v=VkemXRlgt6w",
+                "duration": "0:09",
+                "thumbnail": "https://i.ytimg.com/vi/VkemXRlgt6w/hq720_2.jpg"
+            },
+            {
+                "title": "ලේ අඩුකමට සහ දියවැඩියාවට ගුණ දෙන තිබ්බටු වල පුදුම ගුණ | Thibbatu wala guna | Turkey Berry Benefits",
+                "url": "https://youtube.com/watch?v=62svYDozlzQ",
+                "duration": "2:25",
+                "thumbnail": "https://i.ytimg.com/vi/62svYDozlzQ/hq720.jpg"
+            },
+            {
+                "title": "ශක්තිය වඩවන දිව්‍යමය ඖෂධය ||The divine potion that increases strength #Amukkara",
+                "url": "https://youtube.com/watch?v=JNtQ2Yhl1iM",
+                "duration": "3:45",
+                "thumbnail": "https://i.ytimg.com/vi/JNtQ2Yhl1iM/hqdefault.jpg"
+            },
+            {
+                "title": "උලුහාල් වල ඇති විශ්මිත ගුණ ගැන ඔබ නොදත්දේ",
+                "url": "https://youtube.com/watch?v=9i7g1nKKljY",
+                "duration": "3:29",
+                "thumbnail": "https://i.ytimg.com/vi/9i7g1nKKljY/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල් වතුර බිව්වම වකුගඩු නරක් වෙනවද? වකුගඩු රෝගීන්ට උළුහාල් බොන්න පුලුවන් ද?",
+                "url": "https://youtube.com/watch?v=Od3FueIVsgc",
+                "duration": "6:28",
+                "thumbnail": "https://i.ytimg.com/vi/Od3FueIVsgc/hqdefault.jpg"
+            },
+            {
+                "title": "උළු හාල් වතුර වීදුරුවක් දිනපතා පානය කිරීමෙන් ඔබේ ශරීරයට සිදු වෙන දේවල් 06ක් | 06 benefits of Uluhal",
+                "url": "https://youtube.com/watch?v=y_-acBKhFTo",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/y_-acBKhFTo/hq720.jpg"
+            },
+            {
+                "title": "uluhal guna-දියවැඩියාවට ගුණ දෙන උළුහාල්",
+                "url": "https://youtube.com/watch?v=o-yN-slEvbo",
+                "duration": "2:50",
+                "thumbnail": "https://i.ytimg.com/vi/o-yN-slEvbo/hq720.jpg"
+            },
+            {
+                "title": "හිගුරල|hingurala|higurala wala guna|drchaya|Suwahasclinic",
+                "url": "https://youtube.com/watch?v=FNl7ZRiIWQ0",
+                "duration": "20:35",
+                "thumbnail": "https://i.ytimg.com/vi/FNl7ZRiIWQ0/hq720.jpg"
+            },
+            {
+                "title": "සුදු ලූණු වල විශ්මිත ගුණ. Health benefits of Garlic. Ayurvedic value of Garlic.",
+                "url": "https://youtube.com/watch?v=OUw-y0JCwgE",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/OUw-y0JCwgE/hq720.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "හැම ලෙඩකටම හොඳ උලුහාල් වල විද්‍යාත්මකව තහවුරු කල ගුන #fenugreekbenefits",
+                "url": "https://youtube.com/watch?v=Pk0W8TjxCzs",
+                "duration": "4:11",
+                "thumbnail": "https://i.ytimg.com/vi/Pk0W8TjxCzs/hqdefault.jpg"
+            },
+            {
+                "title": "Uses of the Wind | සුළඟින් ඇති ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=tKS-53cEqRk",
+                "duration": "7:30",
+                "thumbnail": "https://i.ytimg.com/vi/tKS-53cEqRk/hqdefault.jpg"
+            },
+            {
+                "title": "සුළගෙන්  ඇති ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=JJaPxvBMGYQ",
+                "duration": "0:21",
+                "thumbnail": "https://i.ytimg.com/vi/JJaPxvBMGYQ/hqdefault.jpg"
+            },
+            {
+                "title": "සූර්යාලෝකයෙන් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=eIAX-iPabsY",
+                "duration": "0:58",
+                "thumbnail": "https://i.ytimg.com/vi/eIAX-iPabsY/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "පහ වසර ශිෂ්‍යත්වයට /සුලඟේ ප්‍රයෝජන - for grade 5 scholarship",
+                "url": "https://youtube.com/watch?v=JHMqo39M4Sk",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/JHMqo39M4Sk/hq720.jpg"
+            },
+            {
+                "title": "The 3 Magical Months of Hingurala Growth | Plant This Treasure – You Won’t Regret It",
+                "url": "https://youtube.com/watch?v=WzMMIBlTazk",
+                "duration": "25:55",
+                "thumbnail": "https://i.ytimg.com/vi/WzMMIBlTazk/hq720.jpg"
+            },
+            {
+                "title": "හිගුරල|හාතාවාරිය|Hathawariyaguna|higuralaguna|suwahasclinic",
+                "url": "https://youtube.com/watch?v=nKSpQzGrwyc",
+                "duration": "16:17",
+                "thumbnail": "https://i.ytimg.com/vi/nKSpQzGrwyc/hq720.jpg"
+            },
+            {
+                "title": "මේ විදියට උළුහාල් වතුර පානය කරොත් සම වේගයෙන් තිරිහන් වෙනවා | Your Natural Secret for Glowing Skin",
+                "url": "https://youtube.com/watch?v=aRFwr7oAbrs",
+                "duration": "9:14",
+                "thumbnail": "https://i.ytimg.com/vi/aRFwr7oAbrs/hq720.jpg"
+            },
+            {
+                "title": "උළුහාල් වතුර විදුරුවක් පානය කිරිමෙන් ලැබෙන සෞඛ්‍යමය වාසි 10ක් | Fenugreek Water | Uluhal Panaya",
+                "url": "https://youtube.com/watch?v=4I9iiMoxzNM",
+                "duration": "10:05",
+                "thumbnail": "https://i.ytimg.com/vi/4I9iiMoxzNM/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන/1/2/3 පරිසරය",
+                "url": "https://youtube.com/watch?v=fdkFguB2xVY",
+                "duration": "1:25",
+                "thumbnail": "https://i.ytimg.com/vi/fdkFguB2xVY/hqdefault.jpg"
+            },
+            {
+                "title": "Uluhal | Amazing benefits that you get from fenugreek | AAYU TV",
+                "url": "https://youtube.com/watch?v=j-PapmILwsA",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/j-PapmILwsA/hq720.jpg"
+            },
+            {
+                "title": "3 ශ්‍රේණිය - පරිසරය -  පැළෑටි හා ගස්වැල් - ක්‍රියාකාරකම 6 - ශාකවලින් ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=ddfZ2OGNLf0",
+                "duration": "5:39",
+                "thumbnail": "https://i.ytimg.com/vi/ddfZ2OGNLf0/hqdefault.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "නීරෝගී ලස්සනටම හැදුනු පැල ඔයාලට ගන්න පුලුවන්#anthuriumwagawasinhala#fypviral#plants0765647812",
+                "url": "https://youtube.com/watch?v=5sUz5dj8UGM",
+                "duration": "5:56",
+                "thumbnail": "https://i.ytimg.com/vi/5sUz5dj8UGM/hqdefault.jpg"
+            },
+            {
+                "title": "උළුහාල් වල විශ්මිත ගුණ - Amazing properties of fenugreek For a healthy life",
+                "url": "https://youtube.com/watch?v=J_Tddx76e_w",
+                "duration": "4:21",
+                "thumbnail": "https://i.ytimg.com/vi/J_Tddx76e_w/hq720.jpg"
+            },
+            {
+                "title": "The Powerful Healer Hiding In Your Backyard",
+                "url": "https://youtube.com/watch?v=Sxzqg_BclSE",
+                "duration": "9:26",
+                "thumbnail": "https://i.ytimg.com/vi/Sxzqg_BclSE/hq720.jpg"
+            },
+            {
+                "title": "Namirembe/Adwolo/Billygoat weed/Gathenge/Chickweed/Ageratum Conyzoides#herb#medicine#organic#botany",
+                "url": "https://youtube.com/watch?v=DFfJM3vDacA",
+                "duration": "5:15",
+                "thumbnail": "https://i.ytimg.com/vi/DFfJM3vDacA/hq720.jpg"
+            },
+            {
+                "title": "Spiritual Benefits Of WhiteWeed ~ Ageratum Conyzoides Leaves",
+                "url": "https://youtube.com/watch?v=KBqVl20Sp5k",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/KBqVl20Sp5k/hq720.jpg"
+            },
+            {
+                "title": "Amazing Herbal Plant - Incredible Health Benefits of Whiteweed",
+                "url": "https://youtube.com/watch?v=qby4o4V78XA",
+                "duration": "3:30",
+                "thumbnail": "https://i.ytimg.com/vi/qby4o4V78XA/hq720.jpg"
+            },
+            {
+                "title": "3 Wild Medicinal Plants You Should Know | Natural Herbal Benefits | Greenmed 🌿",
+                "url": "https://youtube.com/watch?v=KTo8Pp4UAtg",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/KTo8Pp4UAtg/hq720.jpg"
+            },
+            {
+                "title": "health benefits of ageratum conyzoides - imi esu- goat weed plant",
+                "url": "https://youtube.com/watch?v=S0qN1xrw2GY",
+                "duration": "2:13",
+                "thumbnail": "https://i.ytimg.com/vi/S0qN1xrw2GY/hq720.jpg"
+            },
+            {
+                "title": "maduruthala benifits/තුල්සි හෙවත් මදුරුතලා වල විශේෂිත ගුණ/holy basil/maduruthala benifits",
+                "url": "https://youtube.com/watch?v=X9RTUq2p1E8",
+                "duration": "11:36",
+                "thumbnail": "https://i.ytimg.com/vi/X9RTUq2p1E8/hqdefault.jpg"
+            },
+            {
+                "title": "ඔබේ අතෙත් තියෙන ජීවිතයම ගොඩදාන මේ සලකුණ දැන්ම බලන්න!",
+                "url": "https://youtube.com/watch?v=Hp2b1nmFH3Q",
+                "duration": "16:12",
+                "thumbnail": "https://i.ytimg.com/vi/Hp2b1nmFH3Q/hq720.jpg"
+            },
+            {
+                "title": "අතිවිශිෂ්ඨ ගුණ වලින් හෙබි අපේ ඔසුව | Ithana | Ceylon Agri | Episode 142",
+                "url": "https://youtube.com/watch?v=SOCAHEP3yTA",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/SOCAHEP3yTA/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ සහිත මොණරකුඩුම්බිය",
+                "url": "https://youtube.com/watch?v=VYuAFAA-7DI",
+                "duration": "5:00",
+                "thumbnail": "https://i.ytimg.com/vi/VYuAFAA-7DI/hq720.jpg"
+            },
+            {
+                "title": "පුරුෂයින්ගේ ලිංගික ශක්තිය වැඩි කරන, ඉක්මනින් ධාතු පිටවීමට හොදම ප්‍රතිකාරයක් වන බිංතල් වල ඖෂධීය ගුණ",
+                "url": "https://youtube.com/watch?v=LHYxIfW9T4M",
+                "duration": "14:36",
+                "thumbnail": "https://i.ytimg.com/vi/LHYxIfW9T4M/hq720.jpg"
+            },
+            {
+                "title": "Polpala|මුත්‍ර රෝග ඇතුළු රෝග රැසකට ගුණදෙන -පොල්පලා|Ouret lanata",
+                "url": "https://youtube.com/watch?v=iWT3-PK01yc",
+                "duration": "3:15",
+                "thumbnail": "https://i.ytimg.com/vi/iWT3-PK01yc/hq720.jpg"
+            },
+            {
+                "title": "හෝමියෝපති තුලින් කොදු ඇටපෙළ ආශ්‍රිත රෝග පූර්ණ සුවය ලබමු",
+                "url": "https://youtube.com/watch?v=Ebxco3bWuGY",
+                "duration": "56:06",
+                "thumbnail": "https://i.ytimg.com/vi/Ebxco3bWuGY/hqdefault.jpg"
+            },
+            {
+                "title": "වසර 12 කට සැරයක් මල් පිපෙන, ශ්‍රී ලංකාවට ආවේණික “නෙළු” විශේෂයක් 🔴 Strobilanthes rhamnifolia",
+                "url": "https://youtube.com/watch?v=r-hOM3xXga4",
+                "duration": "5:33",
+                "thumbnail": "https://i.ytimg.com/vi/r-hOM3xXga4/hq720.jpg"
+            },
+            {
+                "title": "Types of flowers that prey on animals | DR.HAYESHIKA FERNANDO",
+                "url": "https://youtube.com/watch?v=7bBJtN_P3bA",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/7bBJtN_P3bA/hq720.jpg"
+            },
+            {
+                "title": "ජලයෙන් ඇති ප්‍රයෝජන - Benefits of Water",
+                "url": "https://youtube.com/watch?v=kt5Lgg90GcA",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/kt5Lgg90GcA/hq720.jpg"
+            },
+            {
+                "title": "මිනිස් සිරුරේ රෝග ගණනකට සුවය ගෙනදෙන ඇහැල | Cassia fistula plant | ehela tree🌿",
+                "url": "https://youtube.com/watch?v=GK4j0XSQQAM",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/GK4j0XSQQAM/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Arthritis",
-      "sinhala": "හන්දිපත් රුදාව (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Ear Diseases",
-      "sinhala": "කන් ආශ්‍රිත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Heart Diseases",
-      "sinhala": "හෘද රෝග (හෘද රෝගී තත්ත්වයන්)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Cardiovascular & Circulatory Diseases",
-        "sinhala": "හෘද වාහිනී සහ රුධිර සංසරණ පද්ධති රෝග"
-      }
-    },
-    {
-      "treatment": "Liver Diseases",
-      "sinhala": "අක්මාව ආශ්‍රිත රෝග (යකෘත් රෝග)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Nasopharyngeal Disorders",
-      "sinhala": "නාසා-ග්‍රසනිකා ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Gastric Disorders",
-      "sinhala": "ආමාශගත රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Eye Diseases",
-      "sinhala": "අක්ෂි රෝග (ඇස් ආශ්‍රිත ආබාධ)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Mucosal Disorders",
-      "sinhala": "ශ්ලේෂ්මල පටල ආශ්‍රිත රෝග සහ ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "ENT & Ophthalmic Diseases",
-        "sinhala": "ඇස්, කන්, නාසා සහ උගුර ආශ්‍රිත රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Leaves",
-    "Roots",
-    "Flowers"
-  ],
-  "images": [
-    {
-      "image_id": "1432",
-      "caption": "Habit",
-      "url": "https://i.ibb.co/qFB6VGSq/plant00200-01432.jpg"
-    },
-    {
-      "image_id": "1433",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/Vcd6MXnP/plant00200-01433.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

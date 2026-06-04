@@ -1,223 +1,504 @@
 {
-  "scientificName": "Curcuma longa L.",
-  "synonyms": [
-    "Amomum curcuma Jacq.",
-    "Curcuma brog Valeton",
-    "Curcuma domestica Valeton",
-    "Curcuma longa var. vanaharidra Velay., Pandrav., J.K.George & Varapr.",
-    "Curcuma ochrorhiza Valeton",
-    "Curcuma soloensis Valeton",
-    "Curcuma tinctoria Guibourt",
-    "Kua domestica Medik.",
-    "Stissera curcuma Giseke"
-  ],
-  "familyName": "ZINGIBERACEAE",
-  "englishNames": [
-    "Turmeric"
-  ],
-  "sinhalaName": "Kaha (කහ)",
-  "description": "රයිසෝම සහිත (rhizomatous) පැළෑටි වේ. රයිසෝමය ඇතුළතින් තැඹිලි පැහැතිය. පත්‍ර පොකුර මීටර 1ක් දක්වා උසය; පත්‍ර තලය (lamina) කොළ පැහැති වන අතර ප්‍රමාණය සෙන්ටිමීටර 50 x 8 දක්වා වේ. පුෂ්ප මංජරිය (inflorescence) සෙන්ටිමීටර 10-15 x 5-7 ප්‍රමාණයෙන් යුක්තය. අග්‍රස්ථ පත්‍රිකා (coma bracts) සුදු සහ කොළ පැහැතිය. සරු පත්‍රිකා (fertile bracts) කොළ පැහැති වන අතර සෙන්ටිමීටර 5-6ක් දිගය. උප පත්‍රිකා (bracteoles) සෙන්ටිමීටර 3.5ක් දක්වා දිගය. කොරොල්ලා (corolla) සුදු පැහැතිය; ලැබෙලම (labellum) මධ්‍යයේ කහ පැහැති පටියක් ඇත.",
-  "treatments": [
-    {
-      "treatment": "Bruises",
-      "sinhala": "තැලීම් තුවාල",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Curcuma longa L.",
+    "synonyms": [
+        "Amomum curcuma Jacq.",
+        "Curcuma brog Valeton",
+        "Curcuma domestica Valeton",
+        "Curcuma longa var. vanaharidra Velay., Pandrav., J.K.George & Varapr.",
+        "Curcuma ochrorhiza Valeton",
+        "Curcuma soloensis Valeton",
+        "Curcuma tinctoria Guibourt",
+        "Kua domestica Medik.",
+        "Stissera curcuma Giseke"
+    ],
+    "familyName": "ZINGIBERACEAE",
+    "englishNames": [
+        "Turmeric"
+    ],
+    "sinhalaName": "Kaha (කහ)",
+    "description": "රයිසෝම සහිත (rhizomatous) පැළෑටි වේ. රයිසෝමය ඇතුළතින් තැඹිලි පැහැතිය. පත්‍ර පොකුර මීටර 1ක් දක්වා උසය; පත්‍ර තලය (lamina) කොළ පැහැති වන අතර ප්‍රමාණය සෙන්ටිමීටර 50 x 8 දක්වා වේ. පුෂ්ප මංජරිය (inflorescence) සෙන්ටිමීටර 10-15 x 5-7 ප්‍රමාණයෙන් යුක්තය. අග්‍රස්ථ පත්‍රිකා (coma bracts) සුදු සහ කොළ පැහැතිය. සරු පත්‍රිකා (fertile bracts) කොළ පැහැති වන අතර සෙන්ටිමීටර 5-6ක් දිගය. උප පත්‍රිකා (bracteoles) සෙන්ටිමීටර 3.5ක් දක්වා දිගය. කොරොල්ලා (corolla) සුදු පැහැතිය; ලැබෙලම (labellum) මධ්‍යයේ කහ පැහැති පටියක් ඇත.",
+    "treatments": [
+        {
+            "treatment": "Bruises",
+            "sinhala": "තැලීම් තුවාල",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Sprains",
+            "sinhala": "උළුක්කු වීම්",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Wound",
+            "sinhala": "තුවාලය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Leech Bites",
+            "sinhala": "කූඩැල්ලන් දෂ්ට කිරීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Snake Bite",
+            "sinhala": "සර්ප දෂ්ටනය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Toxicology, Bites & Poisonings",
+                "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
+            }
+        },
+        {
+            "treatment": "Diarrhea",
+            "sinhala": "අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dysentery",
+            "sinhala": "ලේ අතීසාරය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Flatulence",
+            "sinhala": "බඩ පිපුම (වාතය පිරීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Jaundice",
+            "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Diabetes Mellitus",
+            "sinhala": "දියවැඩියාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Endocrine, Metabolic & Nutritional Disorders",
+                "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Amenorrhea",
+            "sinhala": "ඔසප් වීම නතර වීම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        },
+        {
+            "treatment": "Common Cold",
+            "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Fever",
+            "sinhala": "උණ රෝග",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Infectious & Febrile Diseases",
+                "sinhala": "බෝවන රෝග සහ උණ වර්ග"
+            }
+        },
+        {
+            "treatment": "Catarrh",
+            "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Rheumatism",
+            "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Musculoskeletal & Orthopedic Disorders",
+                "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Bronchial Disorders",
+            "sinhala": "ශ්වාසනාල ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Skin Disorders",
+            "sinhala": "චර්ම රෝග (Skin Disorders)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Rhizome"
+    ],
+    "images": [
+        {
+            "image_id": "307",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/4nJxcxHP/plant01343-00307.jpg"
+        },
+        {
+            "image_id": "308",
+            "caption": "Inflorescence",
+            "url": "https://i.ibb.co/xKQcx8sw/plant01343-00308.jpg"
+        },
+        {
+            "image_id": "1228",
+            "caption": "Rhizome",
+            "url": "https://i.ibb.co/HLJ49R8J/plant01343-01228.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "හැමදාම රෑට කහ වතුර බීවොත් වෙන දේ ඔබ දැන සිටියාද?",
+                "url": "https://youtube.com/watch?v=YbsRh2xNBfw",
+                "duration": "9:55",
+                "thumbnail": "https://i.ytimg.com/vi/YbsRh2xNBfw/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම කහ පාරිබෝජනය කළොත් ඔබේ ශරීරයට සිදුවන විශ්මිත දේවල් 12ක් | Proven Health Benefits of Turmeric",
+                "url": "https://youtube.com/watch?v=KyBtVasewK8",
+                "duration": "12:02",
+                "thumbnail": "https://i.ytimg.com/vi/KyBtVasewK8/hq720.jpg"
+            },
+            {
+                "title": "✔තම්බ තම්බ වද විදින්නෙ නැතුව කහ කුඩු හදමු | Turmeric powder |👩‍🍳 Easy kitchen 👩‍🍳",
+                "url": "https://youtube.com/watch?v=uDEHKlF2fEM",
+                "duration": "4:41",
+                "thumbnail": "https://i.ytimg.com/vi/uDEHKlF2fEM/hqdefault.jpg"
+            },
+            {
+                "title": "සුද්දො කහ වලට වහ වැටිලද? | The Hidden Power of Turmeric (Curcumin) | Sam's Talk",
+                "url": "https://youtube.com/watch?v=xqEKN19ZX-c",
+                "duration": "15:30",
+                "thumbnail": "https://i.ytimg.com/vi/xqEKN19ZX-c/hq720.jpg"
+            },
+            {
+                "title": "✔ 100% සුපිරිසිදු කහ කුඩු අඩු මුදලකින් ගෙදරදී kaha kudu 100% pure turmeric  powder by Apé Amma",
+                "url": "https://youtube.com/watch?v=3B-orF-e4Jo",
+                "duration": "11:30",
+                "thumbnail": "https://i.ytimg.com/vi/3B-orF-e4Jo/hq720.jpg"
+            },
+            {
+                "title": "කහ ලාබ වුණු කාලේ කහ කුඩු හරියටම මේ විදියට හදා ගනිමු / How to make turmeric powder at home by Kusala",
+                "url": "https://youtube.com/watch?v=aWHBDCXJJN8",
+                "duration": "7:57",
+                "thumbnail": "https://i.ytimg.com/vi/aWHBDCXJJN8/hq720.jpg"
+            },
+            {
+                "title": "මේ විදිහට භාවිතා  කලොත්, හරියට හරි! ලෙඩ 10 ක් සනීප කරන, සම පැහැපත් කරන, ලෝකයේ වටිනාම ඖෂධය අපෙන්!",
+                "url": "https://youtube.com/watch?v=qMBivTnOSgI",
+                "duration": "14:43",
+                "thumbnail": "https://i.ytimg.com/vi/qMBivTnOSgI/hq720.jpg"
+            },
+            {
+                "title": "මේ විදියට කහ ගෑවොත් ඔයාව ලස්සන වෙනවා | Turmeric Honey Pack for Skin Glowing",
+                "url": "https://youtube.com/watch?v=TWP0ddf8TXI",
+                "duration": "9:02",
+                "thumbnail": "https://i.ytimg.com/vi/TWP0ddf8TXI/hq720.jpg"
+            },
+            {
+                "title": "අමුවෙන් කහ වේලනවනම් මේ වීඩියෝව අනිවාර්යයෙන්ම බලන්න.[Wrong Turmeric Processing]",
+                "url": "https://youtube.com/watch?v=kKMTFB_tJrU",
+                "duration": "13:02",
+                "thumbnail": "https://i.ytimg.com/vi/kKMTFB_tJrU/hq720.jpg"
+            },
+            {
+                "title": "රත්තරන් වලට වඩා වටින අරුම පුදුම කහ ගැන හැමදේම දැනගන්න",
+                "url": "https://youtube.com/watch?v=bKCY74Oprkc",
+                "duration": "9:14",
+                "thumbnail": "https://i.ytimg.com/vi/bKCY74Oprkc/hqdefault.jpg"
+            },
+            {
+                "title": "හැමදාම රෑට කහ වතුර බීවොත් වෙන දේ ඔබ දැන සිටියාද?",
+                "url": "https://youtube.com/watch?v=PUBDWDrohDE",
+                "duration": "9:55",
+                "thumbnail": "https://i.ytimg.com/vi/PUBDWDrohDE/frame0.jpg"
+            },
+            {
+                "title": "කහ වල ඇති ඔෳෂධිය ගුණ 15ක්|Turmeric15 medicinal properties of",
+                "url": "https://youtube.com/watch?v=_eRkyprVr4o",
+                "duration": "2:27",
+                "thumbnail": "https://i.ytimg.com/vi/_eRkyprVr4o/hqdefault.jpg"
+            },
+            {
+                "title": "දිනපතා කහ බෙහෙතක් ලෙස ලබාගැනීමෙන් අපිට ලැබෙන විද්‍යාත්මකව තහවුරු කල වාසි රැසක්",
+                "url": "https://youtube.com/watch?v=HdwxhKFl_QU",
+                "duration": "12:12",
+                "thumbnail": "https://i.ytimg.com/vi/HdwxhKFl_QU/hqdefault.jpg"
+            },
+            {
+                "title": "කහවල ගුණ|Turmeric",
+                "url": "https://youtube.com/watch?v=B2JewPwa2fo",
+                "duration": "4:00",
+                "thumbnail": "https://i.ytimg.com/vi/B2JewPwa2fo/hqdefault.jpg"
+            },
+            {
+                "title": "\"කහ\" විශ්මිත බලය  සහ ගුණ අගුණ ගැන දැනගන්න",
+                "url": "https://youtube.com/watch?v=wsZDIxhskwY",
+                "duration": "10:14",
+                "thumbnail": "https://i.ytimg.com/vi/wsZDIxhskwY/hq720.jpg"
+            },
+            {
+                "title": "කහ දාලා කන හැම කෙනාම  දැනගන්නම ඕන කතාවක් | Turmaric By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=S1K57qVaS68",
+                "duration": "13:45",
+                "thumbnail": "https://i.ytimg.com/vi/S1K57qVaS68/hq720.jpg"
+            },
+            {
+                "title": "මේ විශ්මිත ප්‍රයෝජන 10 කහ වල තියෙනවා කියල ඔයා දන්නවද? - 10 Proven Health Benefits of Turmeric",
+                "url": "https://youtube.com/watch?v=Ehpqn_ftZGQ",
+                "duration": "3:24",
+                "thumbnail": "https://i.ytimg.com/vi/Ehpqn_ftZGQ/hq720.jpg"
+            },
+            {
+                "title": "කහ ගහේ ගුණ.....",
+                "url": "https://youtube.com/watch?v=ahwbRSgQdiU",
+                "duration": "3:04",
+                "thumbnail": "https://i.ytimg.com/vi/ahwbRSgQdiU/hq720.jpg"
+            },
+            {
+                "title": "කහ සත්කාරයේ සුපිරි බලය ඔබ නොදන්නා මේ කහ වල  ඇති ගුණ දැනගන්න",
+                "url": "https://youtube.com/watch?v=ltLRl4AajrI",
+                "duration": "3:58",
+                "thumbnail": "https://i.ytimg.com/vi/ltLRl4AajrI/hq720.jpg"
+            },
+            {
+                "title": "කහ වල විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=0mxeDVljOXk",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/0mxeDVljOXk/hq720.jpg"
+            },
+            {
+                "title": "ලොව ඔසු ගුණ වැඩිම මුළුතැන්ගෙයි ඔසුව |kaha|ඔසු ගුණ | amazing Tumeric",
+                "url": "https://youtube.com/watch?v=2A2_jjDO9hs",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/2A2_jjDO9hs/hq720.jpg"
+            },
+            {
+                "title": "kaha shakaya -කහ ශාකයේ ඖෂධීය ගුණ/Tamaric plants",
+                "url": "https://youtube.com/watch?v=5JZD8bHWTLc",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/5JZD8bHWTLc/hq720.jpg"
+            },
+            {
+                "title": "කහ ශාකයේ ඖෂධීය ගුණ | Turmeric plants | Isira Ayurveda",
+                "url": "https://youtube.com/watch?v=cg4QbVmav5A",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/cg4QbVmav5A/hq720.jpg"
+            },
+            {
+                "title": "හැමදාම කහ බිව්වොත් මොකද වෙන්නේ? | What Happens When You Drink Turmeric Tonic Daily?",
+                "url": "https://youtube.com/watch?v=J7fQw1Dubb4",
+                "duration": "7:48",
+                "thumbnail": "https://i.ytimg.com/vi/J7fQw1Dubb4/hq720.jpg"
+            },
+            {
+                "title": "කහ කෑල්ලක් මේ විදියට කෑවොත් මතක ශක්තිය වේගයෙන් වැඩි වෙනවා | Turmaric Secret Health Tips",
+                "url": "https://youtube.com/watch?v=3qE0U22zewQ",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/3qE0U22zewQ/hq720.jpg"
+            },
+            {
+                "title": "Curcuma longa | Turmeric |ලොවක් මවිත කල  \"කහ\" - ගසක වරුණ |  Episode 04  List of herbs in Sri Lanka",
+                "url": "https://youtube.com/watch?v=dpdInFlAFqY",
+                "duration": "2:02",
+                "thumbnail": "https://i.ytimg.com/vi/dpdInFlAFqY/hq720.jpg"
+            },
+            {
+                "title": "ඉක්මනින් පැහැපත් වෙන්න මේක බොන්න🥰|කහ පානය හදන හරිම විදිය🥣",
+                "url": "https://youtube.com/watch?v=_H1XVh9am5k",
+                "duration": "2:36",
+                "thumbnail": "https://i.ytimg.com/vi/_H1XVh9am5k/hqdefault.jpg"
+            },
+            {
+                "title": "✔ පිරිසිදුවට ලාබෙට කහ කොටමු ‍Homemade turmeric powder by Apé Amma (kaha)",
+                "url": "https://youtube.com/watch?v=zKU4as12OxU",
+                "duration": "5:53",
+                "thumbnail": "https://i.ytimg.com/vi/zKU4as12OxU/hq720.jpg"
+            },
+            {
+                "title": "කහ වගාව - Turmeric Cultivation in srilanka",
+                "url": "https://youtube.com/watch?v=kx1-i_HtjiM",
+                "duration": "1:56",
+                "thumbnail": "https://i.ytimg.com/vi/kx1-i_HtjiM/hq720.jpg"
+            },
+            {
+                "title": "කහ නිවැරදිව තම්බා පරිබෝජනය සදහා සකස් කර ගනිමු | How to make Turmeric",
+                "url": "https://youtube.com/watch?v=NjWqnC3hYGY",
+                "duration": "12:30",
+                "thumbnail": "https://i.ytimg.com/vi/NjWqnC3hYGY/hq720.jpg"
+            },
+            {
+                "title": "දේශීය කහ වල විශ්මිත ගුණ | අපේ රටේ කහ වගාකිරීමේ වටිනාකම | Turmeric | kaha wala osu guna | kaha wagawa",
+                "url": "https://youtube.com/watch?v=0CijGAqTwqA",
+                "duration": "3:53",
+                "thumbnail": "https://i.ytimg.com/vi/0CijGAqTwqA/hq720.jpg"
+            },
+            {
+                "title": "කහ ගැන ඔබ නොදන්න දේවල් - Here are some important things you may not know about Turmeric Powder",
+                "url": "https://youtube.com/watch?v=WOb5KpvgiHU",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/WOb5KpvgiHU/hq720.jpg"
+            },
+            {
+                "title": "කහ වගාවට හොදම පොහොර / turmeric fertilizer / kaha wagawa sinhal / කහ වගාව / gewathu wagawa sinhala",
+                "url": "https://youtube.com/watch?v=IMv3WndwbwI",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/IMv3WndwbwI/hq720.jpg"
+            },
+            {
+                "title": "කහ වලින් විශ්මිත ප්‍රතිකාර රැසක් මෙන්න | Turmeric Health Benefits",
+                "url": "https://youtube.com/watch?v=3fjAId7IU1E",
+                "duration": "1:57",
+                "thumbnail": "https://i.ytimg.com/vi/3fjAId7IU1E/hq720.jpg"
+            },
+            {
+                "title": "kaha shakaya -කහ ශාකයේ ඖෂධීය ගුණ/Tamaric plants",
+                "url": "https://youtube.com/watch?v=qpBOrLt_Xy0",
+                "duration": "3:14",
+                "thumbnail": "https://i.ytimg.com/vi/qpBOrLt_Xy0/frame0.jpg"
+            },
+            {
+                "title": "කහ වල ඇති ඖෂධීය ගුණ (2025) || Benifits of Turmeric",
+                "url": "https://youtube.com/watch?v=-cq6lwNrS0A",
+                "duration": "1:22",
+                "thumbnail": "https://i.ytimg.com/vi/-cq6lwNrS0A/hqdefault.jpg"
+            },
+            {
+                "title": "කහ වල මේ විශ්මිත ප්‍රයෝජන 10 ඔයත් දන්නෙ නෑ නේද - 10 Proven Health Benefits of Turmeric",
+                "url": "https://youtube.com/watch?v=3_Xw_eFTLYo",
+                "duration": "3:31",
+                "thumbnail": "https://i.ytimg.com/vi/3_Xw_eFTLYo/hq720.jpg"
+            },
+            {
+                "title": "කහ වල  ප්‍රයෝජන | කහ වගාව | kaha vagava | turmeric cultivation |#agriculture | #homegarden  #වගාව",
+                "url": "https://youtube.com/watch?v=8Y7i0PYET2Q",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/8Y7i0PYET2Q/hqdefault.jpg"
+            },
+            {
+                "title": "කහ ගලවන්න කලින් මෙි ගැනත් හිතන්න | thuru tv",
+                "url": "https://youtube.com/watch?v=B59jRscSDkU",
+                "duration": "1:59",
+                "thumbnail": "https://i.ytimg.com/vi/B59jRscSDkU/hqdefault.jpg"
+            },
+            {
+                "title": "ලස්සන 😍වෙන්න මෙි විදියට😍 කහ බොන්න/Turmeric Water Benefits#Randi beauty",
+                "url": "https://youtube.com/watch?v=owJg3AEu7Js",
+                "duration": "3:21",
+                "thumbnail": "https://i.ytimg.com/vi/owJg3AEu7Js/hq720.jpg"
+            },
+            {
+                "title": "කහ වතුර බොන හරිම ක්‍රමය ❤️ Turmeric Water Benefits",
+                "url": "https://youtube.com/watch?v=fl4N7_3iEvA",
+                "duration": "9:44",
+                "thumbnail": "https://i.ytimg.com/vi/fl4N7_3iEvA/hq720.jpg"
+            },
+            {
+                "title": "උණු වතුර වීදුරුවකට කහ තේ හැඳි කාලක් මිශ්‍රකර  පානය කරන්න",
+                "url": "https://youtube.com/watch?v=KuR5BzixPRg",
+                "duration": "2:21",
+                "thumbnail": "https://i.ytimg.com/vi/KuR5BzixPRg/hq720.jpg"
+            },
+            {
+                "title": "නින්දට පෙර බොන්න හොඳම කහ පානයේ සම්පූර්ණ කතාව | The story of Golden Latte",
+                "url": "https://youtube.com/watch?v=cWlo4fdj1kw",
+                "duration": "6:54",
+                "thumbnail": "https://i.ytimg.com/vi/cWlo4fdj1kw/hqdefault.jpg"
+            },
+            {
+                "title": "Let's make turmeric powder at home without poison කහ කුඩු වසවිස නැතිව  ගෙදරදීම හදාගමු",
+                "url": "https://youtube.com/watch?v=jAqHcx4NUhk",
+                "duration": "4:17",
+                "thumbnail": "https://i.ytimg.com/vi/jAqHcx4NUhk/hq720.jpg"
+            },
+            {
+                "title": "කහ කිරි බිවුවම ඇත්තටම හම සුදු වෙනවද? 🧐  The Truth About Golden Milk",
+                "url": "https://youtube.com/watch?v=gD9oS5yP6gI",
+                "duration": "9:54",
+                "thumbnail": "https://i.ytimg.com/vi/gD9oS5yP6gI/hq720.jpg"
+            },
+            {
+                "title": "Turmeric Water Benefits In The Evening | 10 Health Benefits of Turmeric Water Doctors Never Tell You",
+                "url": "https://youtube.com/watch?v=RsCITGR3IPQ",
+                "duration": "8:58",
+                "thumbnail": "https://i.ytimg.com/vi/RsCITGR3IPQ/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Sprains",
-      "sinhala": "උළුක්කු වීම්",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Wound",
-      "sinhala": "තුවාලය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Leech Bites",
-      "sinhala": "කූඩැල්ලන් දෂ්ට කිරීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Snake Bite",
-      "sinhala": "සර්ප දෂ්ටනය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Toxicology, Bites & Poisonings",
-        "sinhala": "විෂ විද්‍යාව, දෂ්ටන සහ විෂවීම්"
-      }
-    },
-    {
-      "treatment": "Diarrhea",
-      "sinhala": "අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dysentery",
-      "sinhala": "ලේ අතීසාරය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Flatulence",
-      "sinhala": "බඩ පිපුම (වාතය පිරීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Jaundice",
-      "sinhala": "කාමලා රෝගය (ඇස් සහ සම කහ වීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Diabetes Mellitus",
-      "sinhala": "දියවැඩියාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Endocrine, Metabolic & Nutritional Disorders",
-        "sinhala": "හෝමෝන, පරිවෘත්තීය සහ පෝෂණ ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Amenorrhea",
-      "sinhala": "ඔසප් වීම නතර වීම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    },
-    {
-      "treatment": "Common Cold",
-      "sinhala": "සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Fever",
-      "sinhala": "උණ රෝග",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Infectious & Febrile Diseases",
-        "sinhala": "බෝවන රෝග සහ උණ වර්ග"
-      }
-    },
-    {
-      "treatment": "Catarrh",
-      "sinhala": "පීනස සහ සෙම්ප්‍රතිශ්‍යාව",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Rheumatism",
-      "sinhala": "වාත රෝග (සන්ධි ප්‍රදාහය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Musculoskeletal & Orthopedic Disorders",
-        "sinhala": "අස්ථි, සන්ධි සහ මාංශ පේශි ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Bronchial Disorders",
-      "sinhala": "ශ්වාසනාල ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Skin Disorders",
-      "sinhala": "චර්ම රෝග (Skin Disorders)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Rhizome"
-  ],
-  "images": [
-    {
-      "image_id": "307",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/4nJxcxHP/plant01343-00307.jpg"
-    },
-    {
-      "image_id": "308",
-      "caption": "Inflorescence",
-      "url": "https://i.ibb.co/xKQcx8sw/plant01343-00308.jpg"
-    },
-    {
-      "image_id": "1228",
-      "caption": "Rhizome",
-      "url": "https://i.ibb.co/HLJ49R8J/plant01343-01228.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

@@ -1,48 +1,455 @@
 {
-  "scientificName": "Panicum repens L.",
-  "synonyms": [
-    "Panicum arenarium Brot.",
-    "Panicum chromatostigma Pilg.",
-    "Panicum convolutum P.Beauv. ex Spreng.",
-    "Panicum grossarium Forssk.",
-    "Panicum ischaemoides Retz.",
-    "Panicum kiensieleense Vanderyst",
-    "Panicum kinshasaense Vanderyst",
-    "Panicum leiogonum Delile",
-    "Panicum littorale C.Mohr ex Vasey",
-    "Panicum nyanzense K.Schum.",
-    "Panicum pauciflorum Bory ex Nees",
-    "Panicum polyphyllum Peter",
-    "Panicum polystachion Ucria",
-    "Panicum repens var. ischaemoides (Retz.) Boerl.",
-    "Panicum tuberosum Llanos"
-  ],
-  "familyName": "POACEAE",
-  "englishNames": [
-    "Panic Grass",
-    "Torpedo Grass",
-    "Bullet Grass",
-    "Couch Panicum",
-    "Creeping Panic Grass",
-    "Quack Grass"
-  ],
-  "sinhalaName": "Etora (ඇටෝර)",
-  "description": "රයිසෝම සහිත බහුවාර්ෂික ශාකයකි; රයිසෝමය පුළුල් ලෙස පැතිරේ, අග්‍රය උල් වූ අතර පත්‍ර තල රහිත කොපු (bladeless sheaths) වලින් වැසී ඇත; කඳන් සෙ.මී. 10 - 100 ක් උසය, කෙලින් හෝ පාදස්ථයෙන් දණහිසක් මෙන් නැමුණු (geniculate) ස්වභාවයක් ගනී, අතු රහිතය, ගැට රෝම රහිතය (glabrous). පත්‍ර කොපු පිටුපසින් වටකුරුය, රෝම රහිතය (glabrous), සමහර විට මෘදු රෝම සහිතය (pubescent), දාරය පක්ෂ්මල (ciliate) වේ, කොලරය රෝම රහිතය (glabrous); පත්‍ර දිව (ligule) පක්ෂ්මල පටලයකින් සමන්විතය, රෝම පටලයට වඩා කෙටි වේ; පත්‍ර තල සෙ.මී. 4 - 15 X මි.මී. 2 - 8 ප්‍රමාණයෙන් යුක්තය, පැතලි හෝ ඇතුළට නැමුණු (involute), රේඛීය වේ. පුෂ්ප මංජරිය (panicle) සෙ.මී. 3 - 19 ක් දිගය, අතු ඉහළට නැඹුරු වේ, සමහර විට පැතිරී පවතී; කරල් (spikelets) රෝම රහිතය (glabrous), පිදුරු පැහැතිය (stramineous), සමහර විට දම් පැහැයට හුරුය; ඉහළ පුෂ්පිකාව (floret) ඉලිප්සාකාරය (elliptic), සිනිඳුය, දිලිසෙන සුළුය, සුදු පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Menstrual Disorders",
-      "sinhala": "ඔසප් චක්‍රයේ අක්‍රමිකතා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Reproductive & Gynecological Disorders",
-        "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Rhizome"
-  ],
-  "images": [],
-  "special": []
+    "scientificName": "Panicum repens L.",
+    "synonyms": [
+        "Panicum arenarium Brot.",
+        "Panicum chromatostigma Pilg.",
+        "Panicum convolutum P.Beauv. ex Spreng.",
+        "Panicum grossarium Forssk.",
+        "Panicum ischaemoides Retz.",
+        "Panicum kiensieleense Vanderyst",
+        "Panicum kinshasaense Vanderyst",
+        "Panicum leiogonum Delile",
+        "Panicum littorale C.Mohr ex Vasey",
+        "Panicum nyanzense K.Schum.",
+        "Panicum pauciflorum Bory ex Nees",
+        "Panicum polyphyllum Peter",
+        "Panicum polystachion Ucria",
+        "Panicum repens var. ischaemoides (Retz.) Boerl.",
+        "Panicum tuberosum Llanos"
+    ],
+    "familyName": "POACEAE",
+    "englishNames": [
+        "Panic Grass",
+        "Torpedo Grass",
+        "Bullet Grass",
+        "Couch Panicum",
+        "Creeping Panic Grass",
+        "Quack Grass"
+    ],
+    "sinhalaName": "Etora (ඇටෝර)",
+    "description": "රයිසෝම සහිත බහුවාර්ෂික ශාකයකි; රයිසෝමය පුළුල් ලෙස පැතිරේ, අග්‍රය උල් වූ අතර පත්‍ර තල රහිත කොපු (bladeless sheaths) වලින් වැසී ඇත; කඳන් සෙ.මී. 10 - 100 ක් උසය, කෙලින් හෝ පාදස්ථයෙන් දණහිසක් මෙන් නැමුණු (geniculate) ස්වභාවයක් ගනී, අතු රහිතය, ගැට රෝම රහිතය (glabrous). පත්‍ර කොපු පිටුපසින් වටකුරුය, රෝම රහිතය (glabrous), සමහර විට මෘදු රෝම සහිතය (pubescent), දාරය පක්ෂ්මල (ciliate) වේ, කොලරය රෝම රහිතය (glabrous); පත්‍ර දිව (ligule) පක්ෂ්මල පටලයකින් සමන්විතය, රෝම පටලයට වඩා කෙටි වේ; පත්‍ර තල සෙ.මී. 4 - 15 X මි.මී. 2 - 8 ප්‍රමාණයෙන් යුක්තය, පැතලි හෝ ඇතුළට නැමුණු (involute), රේඛීය වේ. පුෂ්ප මංජරිය (panicle) සෙ.මී. 3 - 19 ක් දිගය, අතු ඉහළට නැඹුරු වේ, සමහර විට පැතිරී පවතී; කරල් (spikelets) රෝම රහිතය (glabrous), පිදුරු පැහැතිය (stramineous), සමහර විට දම් පැහැයට හුරුය; ඉහළ පුෂ්පිකාව (floret) ඉලිප්සාකාරය (elliptic), සිනිඳුය, දිලිසෙන සුළුය, සුදු පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Menstrual Disorders",
+            "sinhala": "ඔසප් චක්‍රයේ අක්‍රමිකතා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Reproductive & Gynecological Disorders",
+                "sinhala": "ප්‍රජනක පද්ධතිය සහ ස්ත්‍රී රෝග"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Rhizome"
+    ],
+    "images": [
+        {
+            "image_id": "",
+            "caption": "",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGK724_rIhFCpnnvYcS8B2gtXfrJoejUkaQ&s"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "Aththora-සමේ රෝග සුව කරන ඇත්තෝර ඔසු ගුණ same roga nasana Aththora",
+                "url": "https://youtube.com/watch?v=V4MAp3SNC7c",
+                "duration": "2:53",
+                "thumbnail": "https://i.ytimg.com/vi/V4MAp3SNC7c/hq720.jpg"
+            },
+            {
+                "title": "දධ කුෂ්ඨ අලුහම් සුව කරන ඇත්තෝර |eththora | aththora | cassia alata",
+                "url": "https://youtube.com/watch?v=haoEjG0IDDk",
+                "duration": "1:09",
+                "thumbnail": "https://i.ytimg.com/vi/haoEjG0IDDk/hqdefault.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණ | Winged ring worm plant benefits | Cassia didymobotrya benefits",
+                "url": "https://youtube.com/watch?v=Wulixhh-eNA",
+                "duration": "3:41",
+                "thumbnail": "https://i.ytimg.com/vi/Wulixhh-eNA/hqdefault.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණයන් (Cassia alata/Senna alata)",
+                "url": "https://youtube.com/watch?v=GmfRvZQOKQU",
+                "duration": "13:48",
+                "thumbnail": "https://i.ytimg.com/vi/GmfRvZQOKQU/hq720.jpg"
+            },
+            {
+                "title": "Cassia Alata | සමේ රෝග නසන \"ඇත්තෝර\" | Indika Koralage",
+                "url": "https://youtube.com/watch?v=uDPs-mNlCFc",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/uDPs-mNlCFc/hq720.jpg"
+            },
+            {
+                "title": "කුෂ්ඨ ,දද ,පීනසට ඇත්තෝර කොළ කැද",
+                "url": "https://youtube.com/watch?v=HFZ3cBed5zY",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/HFZ3cBed5zY/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර ශාකයේ ගුණ-දද,අළුහම්,හිස්සොරි සහ තවත් දේවල් - උපුටගත්තකි.",
+                "url": "https://youtube.com/watch?v=RBB5_oyLdOc",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/RBB5_oyLdOc/hqdefault.jpg"
+            },
+            {
+                "title": "ජපන් බටු කොළ ආහාරයට ගැනීමෙන් ඇතිවන අතුරු ආබාධ සහ එහි ගුණ | Sauropus androgynus benefits🌿♻",
+                "url": "https://youtube.com/watch?v=5scMowv8HaU",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/5scMowv8HaU/hqdefault.jpg"
+            },
+            {
+                "title": "හීං අරත්ත | heen Araththa | ඔසු ගුණ",
+                "url": "https://youtube.com/watch?v=O8-hUoMgxqs",
+                "duration": "3:34",
+                "thumbnail": "https://i.ytimg.com/vi/O8-hUoMgxqs/hq720.jpg"
+            },
+            {
+                "title": "ඇත්තෝර: දිව්‍ය ඖෂධයක් බඳු ඇත්තෝර පිළිබඳ විවරණයක් - ආයුර්වේද වෛද්‍ය තාරක සමන්ත ශ්‍රී මැතිතුමා සමග",
+                "url": "https://youtube.com/watch?v=C-qu6Mxk0FA",
+                "duration": "1:50",
+                "thumbnail": "https://i.ytimg.com/vi/C-qu6Mxk0FA/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටිස් තත්ව පවා ඇතිවෙන්න හේතු වෙන රුධිරයේ යූරික් ඇසිඩ් මට්ටම ඉහල යාම |Lower Your Uric Acid Levels",
+                "url": "https://youtube.com/watch?v=OgOaf9HC2IM",
+                "duration": "8:55",
+                "thumbnail": "https://i.ytimg.com/vi/OgOaf9HC2IM/hq720.jpg"
+            },
+            {
+                "title": "ගැට තුඹ පැලෑටියේ විශ්මිත ඔසු ගුණ | gata thumba | A worth herb for many diseases",
+                "url": "https://youtube.com/watch?v=rJtI4iaIM6k",
+                "duration": "4:28",
+                "thumbnail": "https://i.ytimg.com/vi/rJtI4iaIM6k/hq720.jpg"
+            },
+            {
+                "title": "Aththana-Datura metel Health benift අත්තන ශාකයේ ඔසු ගුණ ( osu -ඔසු )",
+                "url": "https://youtube.com/watch?v=UQpcUtPdnvI",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/UQpcUtPdnvI/hq720.jpg"
+            },
+            {
+                "title": "ඇට්ටමුරා/ඇටඹුරු [Ettamura/Eetaburu] වර්ග දෙකක්ද? | (Fagraea ceilanica/Cansjera rheedii)",
+                "url": "https://youtube.com/watch?v=Dxe9Bpw0kmc",
+                "duration": "2:26",
+                "thumbnail": "https://i.ytimg.com/vi/Dxe9Bpw0kmc/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple And Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=yohNiUutzUc",
+                "duration": "24:38",
+                "thumbnail": "https://i.ytimg.com/vi/yohNiUutzUc/hq720.jpg"
+            },
+            {
+                "title": "Aththora-සමේ රෝග නසන ඇත්තෝර | Cassia alata|Aththorawala guna",
+                "url": "https://youtube.com/watch?v=_LmfEVZ7x4A",
+                "duration": "3:09",
+                "thumbnail": "https://i.ytimg.com/vi/_LmfEVZ7x4A/hq720.jpg"
+            },
+            {
+                "title": "Pawatta|Adathoda|කැස්ස ඇදුම ඇතුළු රෝග බොහෝමයකට ගුණදෙන -පාවට්ටා(ආඩතෝඩා )",
+                "url": "https://youtube.com/watch?v=ddPZKZjtGco",
+                "duration": "3:44",
+                "thumbnail": "https://i.ytimg.com/vi/ddPZKZjtGco/hq720.jpg"
+            },
+            {
+                "title": "Wood Apple & Health By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=U1vcS9YwBsw",
+                "duration": "13:15",
+                "thumbnail": "https://i.ytimg.com/vi/U1vcS9YwBsw/hq720.jpg"
+            },
+            {
+                "title": "තිබ්බටු වල තිත්ත ඇත්ත | Turkey Berry & Bitter Truth By Nutritionist Hiroshan Jayaranga",
+                "url": "https://youtube.com/watch?v=Yxcn99C76YM",
+                "duration": "9:06",
+                "thumbnail": "https://i.ytimg.com/vi/Yxcn99C76YM/hq720.jpg"
+            },
+            {
+                "title": "ath thora/ඇත්තෝර/cassia alata/",
+                "url": "https://youtube.com/watch?v=4ugWogyhMlA",
+                "duration": "4:59",
+                "thumbnail": "https://i.ytimg.com/vi/4ugWogyhMlA/hq720.jpg"
+            },
+            {
+                "title": "කිරිපණු ගායට කදිම ඖෂධය ඇත්තෝර |  Senna alata medicinal plant | Eththora",
+                "url": "https://youtube.com/watch?v=VdSld4p6W-I",
+                "duration": "4:09",
+                "thumbnail": "https://i.ytimg.com/vi/VdSld4p6W-I/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටීස් සුවකරන හොඳම ආහාර 10 මෙන්න | මේ ලක්ෂණ ඔබට තිබෙනවා නම් ඔබටත් ආතරයිටීස් හැදෙනවා නියතයි!",
+                "url": "https://youtube.com/watch?v=Y3TNh5VZrWw",
+                "duration": "21:45",
+                "thumbnail": "https://i.ytimg.com/vi/Y3TNh5VZrWw/hq720.jpg"
+            },
+            {
+                "title": "රෝග රැසකට ගුණ දෙන හාතවාරිය. Health benefits of Hathavariya.",
+                "url": "https://youtube.com/watch?v=eMksXl8t5k8",
+                "duration": "8:31",
+                "thumbnail": "https://i.ytimg.com/vi/eMksXl8t5k8/hq720.jpg"
+            },
+            {
+                "title": "මරණයෙන් පවා බේරන දිව්‍ය ඖෂධය - අඩතොඩා | Adhatoda Plant",
+                "url": "https://youtube.com/watch?v=IKTXcZFP96U",
+                "duration": "1:26",
+                "thumbnail": "https://i.ytimg.com/vi/IKTXcZFP96U/hq720.jpg"
+            },
+            {
+                "title": "ලේ නහර සුද්දකර හෘදයාබාධ වළක්වන අමතක වූ අමුද්‍රව්‍ය 3නේ පානය | The Truth About Cholesterol",
+                "url": "https://youtube.com/watch?v=TwKNlyMc8mw",
+                "duration": "10:18",
+                "thumbnail": "https://i.ytimg.com/vi/TwKNlyMc8mw/hq720.jpg"
+            },
+            {
+                "title": "දවස් 5න් ඇස් පෙනීම වැඩි කරන බලගතු දේශීය ඔසු 11 |Herbs that help your Health and Eye sight in Sinhala",
+                "url": "https://youtube.com/watch?v=fVNutwFTXNY",
+                "duration": "8:03",
+                "thumbnail": "https://i.ytimg.com/vi/fVNutwFTXNY/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටිස් රෝගයෙන් බේරී ඉන්න නම් මේ ආහාර 10 අනුභව කරන්න | 10 Best Foods to Eat If You Have Arthritis",
+                "url": "https://youtube.com/watch?v=tqZN5DyE6Jc",
+                "duration": "11:14",
+                "thumbnail": "https://i.ytimg.com/vi/tqZN5DyE6Jc/hq720.jpg"
+            },
+            {
+                "title": "දිනපතා ආමන්ඩ් ඇට අනුභව කළොත් ඔබේ ශරීරයට සිදු වෙන විශ්මිත දේවල් 12ක් | 12 Health Benefits of Almonds",
+                "url": "https://youtube.com/watch?v=Fd8_EKAo9QU",
+                "duration": "10:24",
+                "thumbnail": "https://i.ytimg.com/vi/Fd8_EKAo9QU/hq720.jpg"
+            },
+            {
+                "title": "පාවට්ටා /ආඩතෝඩා/අගල්ආධාර. Medicinal value of Pavatta",
+                "url": "https://youtube.com/watch?v=lcyrrINSThE",
+                "duration": "6:17",
+                "thumbnail": "https://i.ytimg.com/vi/lcyrrINSThE/hq720.jpg"
+            },
+            {
+                "title": "මේ සියළු රෝග සුවකර ඔබව පැහැපත් කර තරුණ කරන ලොව හොදම පානය.. Turmeric Tea Benefits & Recipe.",
+                "url": "https://youtube.com/watch?v=XnH1pCjnbNo",
+                "duration": "12:08",
+                "thumbnail": "https://i.ytimg.com/vi/XnH1pCjnbNo/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටීස් ඉක්මනින්ම අදුරගන්න පුළුවන් සරල රෝග ලක්ෂණ - ආතරයිටීස් සුවකරන හොඳම ආහාර මෙන්න",
+                "url": "https://youtube.com/watch?v=ffFttVwNHfA",
+                "duration": "18:27",
+                "thumbnail": "https://i.ytimg.com/vi/ffFttVwNHfA/hq720.jpg"
+            },
+            {
+                "title": "මේ ආහාර නිතරම කන අයගේ මතක ශක්තිය වේගයෙන් වර්ධනය වෙනවා! - මතක ශක්තිය වැඩි කරන රහස් ක්‍රම",
+                "url": "https://youtube.com/watch?v=Zlwu4hHejCI",
+                "duration": "17:14",
+                "thumbnail": "https://i.ytimg.com/vi/Zlwu4hHejCI/hq720.jpg"
+            },
+            {
+                "title": "ආතරයිටිස් තිබෙනවානම් භාවිතයට ගතයුතුම ආහාර වර්ග සහ කාටිලේජ වර්ධනයට ඉතාමත් ගුණ ආහාර පිලිබදව දනුවත්වෙමු",
+                "url": "https://youtube.com/watch?v=v5tDn-LZPb0",
+                "duration": "15:35",
+                "thumbnail": "https://i.ytimg.com/vi/v5tDn-LZPb0/hq720.jpg"
+            },
+            {
+                "title": "ශාක මගින් අපට ලැබෙන ප්‍රයෝජන",
+                "url": "https://youtube.com/watch?v=AZhXCDZ98N4",
+                "duration": "0:08",
+                "thumbnail": "https://i.ytimg.com/vi/AZhXCDZ98N4/hq720.jpg"
+            },
+            {
+                "title": "සිරුරට ගුණ දෙන ඖෂධීය ශාක - Medicinal plants - Sanda Asapuwa",
+                "url": "https://youtube.com/watch?v=PsWgSyO64zM",
+                "duration": "2:03",
+                "thumbnail": "https://i.ytimg.com/vi/PsWgSyO64zM/hqdefault.jpg"
+            },
+            {
+                "title": "සතුන්ගෙන් මිනිසාට ඇති ප්‍රයෝජන, අප අවට සත්තු,sathungen minisata athi preyojana, Apa awata saththu,",
+                "url": "https://youtube.com/watch?v=QKzQ_lIBcr4",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/QKzQ_lIBcr4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්‍රයෝජන...",
+                "url": "https://youtube.com/watch?v=9Va9D41DX5Q",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/9Va9D41DX5Q/hqdefault.jpg"
+            },
+            {
+                "title": "Benefits of Sunlight | Grade 2 | Dr. Hayeshika Fernando",
+                "url": "https://youtube.com/watch?v=xjF9kZgOMfM",
+                "duration": "1:54",
+                "thumbnail": "https://i.ytimg.com/vi/xjF9kZgOMfM/hq720.jpg"
+            },
+            {
+                "title": "නිවස ඇතුලත තියන්න හොඳම ශාකය | Oxigen Plant | Snake Plant | Ceylon Agri | Episode 161",
+                "url": "https://youtube.com/watch?v=tXaQkLW-uGo",
+                "duration": "6:58",
+                "thumbnail": "https://i.ytimg.com/vi/tXaQkLW-uGo/hq720.jpg"
+            },
+            {
+                "title": "Uses of trees #ගස් වලින් ඇති ප්‍රයෝජන #Benifitsofplantingtrees #Advantagesofgrowingtrees",
+                "url": "https://youtube.com/watch?v=kfnRiCEr5RE",
+                "duration": "1:21",
+                "thumbnail": "https://i.ytimg.com/vi/kfnRiCEr5RE/hqdefault.jpg"
+            },
+            {
+                "title": "ඇස්පැරගස් (හාතාවාරිය) කාන්තාවන්ට කරන දේ : Health benefits of Asparagus",
+                "url": "https://youtube.com/watch?v=6e-eOoS8gH4",
+                "duration": "2:59",
+                "thumbnail": "https://i.ytimg.com/vi/6e-eOoS8gH4/hq720.jpg"
+            },
+            {
+                "title": "ගස් වැල් වලින් ලැබෙන ප්රයෝජන | ශාක වලින් අපට ලැබෙන ප්රයෝජන | uses of trees | benefits of trees 2024",
+                "url": "https://youtube.com/watch?v=ydP0keeT2bI",
+                "duration": "2:52",
+                "thumbnail": "https://i.ytimg.com/vi/ydP0keeT2bI/hqdefault.jpg"
+            },
+            {
+                "title": "රස ගුණ සපිරි ඖෂධීය පාන වර්ග ගැන දැනගනිමු",
+                "url": "https://youtube.com/watch?v=B3fZlPbm4rE",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/B3fZlPbm4rE/hq720.jpg"
+            },
+            {
+                "title": "ශාක වලින් සතුන්ට ලැබෙන ප්රයෝජන | ශාක වලින් සතුන්ට ඇති ප්රයෝජන | uses of trees for animals #essay",
+                "url": "https://youtube.com/watch?v=dQtoC102y8k",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/dQtoC102y8k/hqdefault.jpg"
+            },
+            {
+                "title": "ශරීරයේ පවතින ඌනතාවයන් 2 ක් සම්පුර්ණ කරගෙන, ආතරයිටිස් වලින් මිදෙන්නේ මෙන්න මෙහෙමයි!",
+                "url": "https://youtube.com/watch?v=3xELArFGzBA",
+                "duration": "14:28",
+                "thumbnail": "https://i.ytimg.com/vi/3xELArFGzBA/hq720.jpg"
+            },
+            {
+                "title": "ආඩතෝඩා සහ පාවට්ටා යනු එකක්ද ??",
+                "url": "https://youtube.com/watch?v=Rm_xh1-0qCs",
+                "duration": "3:18",
+                "thumbnail": "https://i.ytimg.com/vi/Rm_xh1-0qCs/hqdefault.jpg"
+            },
+            {
+                "title": "වැඩිපුර කැරට් කෑවොත් වෙන දේ මෙන්න. 😱🥕 | #facts #science #food #biology #educational #trending",
+                "url": "https://youtube.com/watch?v=bzNpRohMjoI",
+                "duration": "4:32",
+                "thumbnail": "https://i.ytimg.com/vi/bzNpRohMjoI/hq720.jpg"
+            },
+            {
+                "title": "අශ්වගන්ධ – ඔබ නොදත් පුදුමාකාර ගුණ 10ක්",
+                "url": "https://youtube.com/watch?v=pCvBzAe48ak",
+                "duration": "7:54",
+                "thumbnail": "https://i.ytimg.com/vi/pCvBzAe48ak/hq720.jpg"
+            },
+            {
+                "title": "ආක්‍රමණශීලී ශාක විශේෂ හඳුනා ගනිමු|Annona glabra - වෙල් ආත්තා",
+                "url": "https://youtube.com/watch?v=BCDF2A-H538",
+                "duration": "2:09",
+                "thumbnail": "https://i.ytimg.com/vi/BCDF2A-H538/hqdefault.jpg"
+            },
+            {
+                "title": "🔴 Upcoming LIVE | හවස හෑල්ල LIVE | (2026.06.04)",
+                "url": "https://youtube.com/watch?v=FDIhyBC6Pkg",
+                "duration": "0:00",
+                "thumbnail": "https://i.ytimg.com/vi/FDIhyBC6Pkg/hq720.jpg"
+            },
+            {
+                "title": "Amazing Arugula: 6 Benefits",
+                "url": "https://youtube.com/watch?v=veel2QMC-Xc",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/veel2QMC-Xc/hq720.jpg"
+            },
+            {
+                "title": "Ashitaba Plant: Health Benefits (Tomorrow Leaf)",
+                "url": "https://youtube.com/watch?v=pxJLhqXJS3Q",
+                "duration": "3:03",
+                "thumbnail": "https://i.ytimg.com/vi/pxJLhqXJS3Q/hq720.jpg"
+            },
+            {
+                "title": "අදින් පසුව ඔබ අලිගැටපේර ඇට ඉවත දමන එකක් නෑ - Avocado Seeds Benefits",
+                "url": "https://youtube.com/watch?v=C3jFp__HfQs",
+                "duration": "1:43",
+                "thumbnail": "https://i.ytimg.com/vi/C3jFp__HfQs/hqdefault.jpg"
+            },
+            {
+                "title": "@Ayusrilanka - Health Benefits of Egg Fruit (Canistel fruit)",
+                "url": "https://youtube.com/watch?v=pO1sK_NhwKQ",
+                "duration": "1:45",
+                "thumbnail": "https://i.ytimg.com/vi/pO1sK_NhwKQ/hq720.jpg"
+            },
+            {
+                "title": "Atsuete benefits | halaman gamot",
+                "url": "https://youtube.com/watch?v=IJWZ7OG8Tso",
+                "duration": "5:17",
+                "thumbnail": "https://i.ytimg.com/vi/IJWZ7OG8Tso/hqdefault.jpg"
+            },
+            {
+                "title": "Annatto Seed Health Benefits | IN ONE MINUTE!",
+                "url": "https://youtube.com/watch?v=f6RrGvERm5o",
+                "duration": "0:47",
+                "thumbnail": "https://i.ytimg.com/vi/f6RrGvERm5o/hq720.jpg"
+            },
+            {
+                "title": "Exploring Annatto's Holistic Benefits 🌼🌶️💫",
+                "url": "https://youtube.com/watch?v=A07A9KyGq5s",
+                "duration": "5:12",
+                "thumbnail": "https://i.ytimg.com/vi/A07A9KyGq5s/hq720.jpg"
+            },
+            {
+                "title": "10 Incredible Health Benefits of Arugula: What Happens When You Eat It Daily!",
+                "url": "https://youtube.com/watch?v=VxR-dCiwdgs",
+                "duration": "11:12",
+                "thumbnail": "https://i.ytimg.com/vi/VxR-dCiwdgs/hq720.jpg"
+            },
+            {
+                "title": "8 Benefits of Artichokes You Need To Know About",
+                "url": "https://youtube.com/watch?v=-o_UTjDQINE",
+                "duration": "8:02",
+                "thumbnail": "https://i.ytimg.com/vi/-o_UTjDQINE/hq720.jpg"
+            },
+            {
+                "title": "Ashitaba Plant (Tomorrow Leaf) Uses and Benefits: How This Japanese Herb Can Transform Your Health",
+                "url": "https://youtube.com/watch?v=swC0qs2eze8",
+                "duration": "8:12",
+                "thumbnail": "https://i.ytimg.com/vi/swC0qs2eze8/hq720.jpg"
+            },
+            {
+                "title": "Careful about this when taking Arugula | Top 10 Health Benefits of Arugula | Arugula Salad",
+                "url": "https://youtube.com/watch?v=_zT1iJLTHeE",
+                "duration": "5:43",
+                "thumbnail": "https://i.ytimg.com/vi/_zT1iJLTHeE/hq720.jpg"
+            },
+            {
+                "title": "Health Benefits of Taro Root | Boost Immunity and get Glowing Skin",
+                "url": "https://youtube.com/watch?v=wW-XcI9kLr4",
+                "duration": "4:31",
+                "thumbnail": "https://i.ytimg.com/vi/wW-XcI9kLr4/hq720.jpg"
+            },
+            {
+                "title": "7 Surprising Health Benefits of Arugula You Need to Know for a Healthier You!",
+                "url": "https://youtube.com/watch?v=zZP10V58cX4",
+                "duration": "4:13",
+                "thumbnail": "https://i.ytimg.com/vi/zZP10V58cX4/hq720.jpg"
+            },
+            {
+                "title": "One Potato Rebuilds Your Gut. How The $200B Bread Industry Erased This Wild Yeast Protocol.",
+                "url": "https://youtube.com/watch?v=ECmnv-rSeyM",
+                "duration": "17:23",
+                "thumbnail": "https://i.ytimg.com/vi/ECmnv-rSeyM/hq720.jpg"
+            },
+            {
+                "title": "The Surprising Health Benefits of Otoe Harvest 🍠🌱 | Taro Root Benefits",
+                "url": "https://youtube.com/watch?v=RuQwuIgqYgo",
+                "duration": "5:22",
+                "thumbnail": "https://i.ytimg.com/vi/RuQwuIgqYgo/hq720.jpg"
+            },
+            {
+                "title": "Amazing Arugula: 6 Benefits",
+                "url": "https://youtube.com/watch?v=4V1xkj2dFDU",
+                "duration": "3:50",
+                "thumbnail": "https://i.ytimg.com/vi/4V1xkj2dFDU/frame0.jpg"
+            }
+        ]
+    },
+    "status": "already_filtered"
 }

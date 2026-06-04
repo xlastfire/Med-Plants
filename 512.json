@@ -1,110 +1,277 @@
 {
-  "scientificName": "Flueggea leucopyrus Willd.",
-  "synonyms": [
-    "Acidoton leucopyrus (Willd.) Kuntze",
-    "Cicca leucopyrus (Willd.) Kurz",
-    "Flueggea wallichiana Baill.",
-    "Flueggea xerocarpa A.Juss.",
-    "Phyllanthus albicans Benth.",
-    "Phyllanthus leucopyrus (Willd.) J.Koenig ex Roxb.",
-    "Phyllanthus lucena B.Heyne ex Roth",
-    "Securinega leucopyrus (Willd.) Müll.Arg.",
-    "Xylophylla lucena Roth"
-  ],
-  "familyName": "PHYLLANTHACEAE",
-  "englishNames": [
-    "Purple Tephrosia",
-    "Bushweed",
-    "Cool Pot",
-    "Indian Snow Berry",
-    "Thermacole Plant",
-    "Shivano"
-  ],
-  "sinhalaName": "Katupila (කටුපිල)",
-  "description": "මීටර් 2-5ක් උසැති කටු සහිත පඳුරු; කටු සෙන්ටිමීටර 2-3.5ක් දිගය. පත්‍ර සෙන්ටිමීටර 2.5-8.0 x 1.5-4.0 ප්‍රමාණයෙන් යුක්තය; පත්‍ර වෘන්ත (petioles) මිලිමීටර 3.5-8ක් දිගය. පුෂ්ප මංජරි (cymes) පොකුරු වශයෙන් පිහිටන අතර බොහෝ විට කටු මත හටගනී. මල් මිලිමීටර 4ක් පළල වන අතර සුදු පැහැතිය. කරල් (capsules) මිලිමීටර 10-12 x 8-9 ප්‍රමාණයෙන් යුක්ත වන අතර කුටීර 3කින් (3-celled) සමන්විතය. බීජ මිලිමීටර 2.5-3.5 x 2-2.5 ප්‍රමාණයෙන් යුක්ත වන අතර රතු පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Anorexia",
-      "sinhala": "කෑම අරුචිය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
+    "scientificName": "Flueggea leucopyrus Willd.",
+    "synonyms": [
+        "Acidoton leucopyrus (Willd.) Kuntze",
+        "Cicca leucopyrus (Willd.) Kurz",
+        "Flueggea wallichiana Baill.",
+        "Flueggea xerocarpa A.Juss.",
+        "Phyllanthus albicans Benth.",
+        "Phyllanthus leucopyrus (Willd.) J.Koenig ex Roxb.",
+        "Phyllanthus lucena B.Heyne ex Roth",
+        "Securinega leucopyrus (Willd.) Müll.Arg.",
+        "Xylophylla lucena Roth"
+    ],
+    "familyName": "PHYLLANTHACEAE",
+    "englishNames": [
+        "Purple Tephrosia",
+        "Bushweed",
+        "Cool Pot",
+        "Indian Snow Berry",
+        "Thermacole Plant",
+        "Shivano"
+    ],
+    "sinhalaName": "Katupila (කටුපිල)",
+    "description": "මීටර් 2-5ක් උසැති කටු සහිත පඳුරු; කටු සෙන්ටිමීටර 2-3.5ක් දිගය. පත්‍ර සෙන්ටිමීටර 2.5-8.0 x 1.5-4.0 ප්‍රමාණයෙන් යුක්තය; පත්‍ර වෘන්ත (petioles) මිලිමීටර 3.5-8ක් දිගය. පුෂ්ප මංජරි (cymes) පොකුරු වශයෙන් පිහිටන අතර බොහෝ විට කටු මත හටගනී. මල් මිලිමීටර 4ක් පළල වන අතර සුදු පැහැතිය. කරල් (capsules) මිලිමීටර 10-12 x 8-9 ප්‍රමාණයෙන් යුක්ත වන අතර කුටීර 3කින් (3-celled) සමන්විතය. බීජ මිලිමීටර 2.5-3.5 x 2-2.5 ප්‍රමාණයෙන් යුක්ත වන අතර රතු පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Anorexia",
+            "sinhala": "කෑම අරුචිය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Dyspepsia",
+            "sinhala": "අජීර්ණය",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Biliary Disorders",
+            "sinhala": "පිත් ආශ්‍රිත ආබාධ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Hepatic & Biliary Disorders",
+                "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Visceral Obstructions",
+            "sinhala": "අභ්‍යන්තර ඉන්ද්‍රියයන්ගේ (අක්මාව, ප්ලීහාව, වකුගඩු) අවහිරතා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cancer",
+            "sinhala": "පිළිකා",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Roots",
+        "Leaves",
+        "Bark"
+    ],
+    "images": [
+        {
+            "image_id": "478",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/TxwTVTj3/plant00512-00478.jpg"
+        },
+        {
+            "image_id": "479",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/23ZZF4G4/plant00512-00479.jpg"
+        },
+        {
+            "image_id": "480",
+            "caption": "Fruits",
+            "url": "https://i.ibb.co/zhSqdL0K/plant00512-00480.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "පිළිකාව නසන කටුපිල | Katupila | Ceylon Agri | Episode 386",
+                "url": "https://youtube.com/watch?v=e3CyQBaAepk",
+                "duration": "5:33",
+                "thumbnail": "https://i.ytimg.com/vi/e3CyQBaAepk/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල ශාකයේ ගුණ අගුණ නිවැරදිව දැනගමු | Health benefits of katupila | කටුපිල | Katupila",
+                "url": "https://youtube.com/watch?v=LnoPt_czJkM",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/LnoPt_czJkM/hqdefault.jpg"
+            },
+            {
+                "title": "පිලිකාවට තිත තියන, කටුපිල කොළ කැද.",
+                "url": "https://youtube.com/watch?v=y4qoiR7dbRA",
+                "duration": "8:41",
+                "thumbnail": "https://i.ytimg.com/vi/y4qoiR7dbRA/hqdefault.jpg"
+            },
+            {
+                "title": "Katupila | පිළිකාව නසන කටුපිල | Ceylon Agri | Episode 71",
+                "url": "https://youtube.com/watch?v=tIILGpfgLGM",
+                "duration": "6:43",
+                "thumbnail": "https://i.ytimg.com/vi/tIILGpfgLGM/hq720.jpg"
+            },
+            {
+                "title": "Katupila|katupila best uses|Dr.Chaya|Suwahasclinic |ayurveda|katupilauses",
+                "url": "https://youtube.com/watch?v=YlrcBbUc7eE",
+                "duration": "16:47",
+                "thumbnail": "https://i.ytimg.com/vi/YlrcBbUc7eE/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල ශාක‍යේ ඉහළ ප්‍රතිඔක්සිකාරක ගුණයක් තියෙන බව තහවුරුයි#viral #srilanka #herbal #cancer #medicine",
+                "url": "https://youtube.com/watch?v=5uiViOlsI40",
+                "duration": "43:26",
+                "thumbnail": "https://i.ytimg.com/vi/5uiViOlsI40/hq720.jpg"
+            },
+            {
+                "title": "Katupila that kills cancer. How to make katupila sambal for lunch.",
+                "url": "https://youtube.com/watch?v=PKKQ6voWl_A",
+                "duration": "3:39",
+                "thumbnail": "https://i.ytimg.com/vi/PKKQ6voWl_A/hq720.jpg"
+            },
+            {
+                "title": "කටුපිළ ශාකය Katupila",
+                "url": "https://youtube.com/watch?v=c8OaP4umd1Q",
+                "duration": "1:55",
+                "thumbnail": "https://i.ytimg.com/vi/c8OaP4umd1Q/hqdefault.jpg"
+            },
+            {
+                "title": "පිළිකාවට හොඳම බෙහෙත කටුපිල...",
+                "url": "https://youtube.com/watch?v=-ykrpBIzX18",
+                "duration": "1:46",
+                "thumbnail": "https://i.ytimg.com/vi/-ykrpBIzX18/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල වල විශ්මිත ගුණ",
+                "url": "https://youtube.com/watch?v=vBxCyPGk2hg",
+                "duration": "3:47",
+                "thumbnail": "https://i.ytimg.com/vi/vBxCyPGk2hg/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල කැඳ නිවැරදිව සාදා පානය කිරීම තුළින් පිළිකාව සුවපත් කර ගැනීමේ හැකියාව ඇත.",
+                "url": "https://youtube.com/watch?v=cdi4jKeSfKQ",
+                "duration": "11:28",
+                "thumbnail": "https://i.ytimg.com/vi/cdi4jKeSfKQ/hqdefault.jpg"
+            },
+            {
+                "title": "පිලිකාව නසන කටුපිල | දිව ඔසුවක් බදු කටුපිල | කටුපිල ශාකය | කටුපිල | katupila | 2024",
+                "url": "https://youtube.com/watch?v=aHQSr4LSJWQ",
+                "duration": "6:05",
+                "thumbnail": "https://i.ytimg.com/vi/aHQSr4LSJWQ/hqdefault.jpg"
+            },
+            {
+                "title": "ඔයාගේ බත් පිගාන රස වගේම ගුණ කරගන්න | katu pila sambol | sambol",
+                "url": "https://youtube.com/watch?v=qiFEU0IqCPg",
+                "duration": "4:45",
+                "thumbnail": "https://i.ytimg.com/vi/qiFEU0IqCPg/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල(katupila )/(plueggea leucopyrus)/  හීන් කටුපිල(heen katupila )/water caltrop,purple tephrosia",
+                "url": "https://youtube.com/watch?v=LYmZDVTpGe8",
+                "duration": "7:47",
+                "thumbnail": "https://i.ytimg.com/vi/LYmZDVTpGe8/hqdefault.jpg"
+            },
+            {
+                "title": "පිලිකා නසන කටුපිල /Fluggea leucopyrus/Red spike thorn",
+                "url": "https://youtube.com/watch?v=dSIDmCesrhY",
+                "duration": "1:14",
+                "thumbnail": "https://i.ytimg.com/vi/dSIDmCesrhY/hqdefault.jpg"
+            },
+            {
+                "title": "katupila/කටුපිල",
+                "url": "https://youtube.com/watch?v=r8Exj8le208",
+                "duration": "1:13",
+                "thumbnail": "https://i.ytimg.com/vi/r8Exj8le208/hq720.jpg"
+            },
+            {
+                "title": "මේ ගහ ගෙදර තිබුණොත් පිළිකාවලින් මැරෙන් නෑ | පිළිකා | Dinesh Muthugala | Episode 131",
+                "url": "https://youtube.com/watch?v=EgdN1UosHj4",
+                "duration": "5:38",
+                "thumbnail": "https://i.ytimg.com/vi/EgdN1UosHj4/hq720.jpg"
+            },
+            {
+                "title": "කටුපිල ශාකයේ ගුණ අගුණ නිවැරදිව දැනගමු | Health benefits of katupila | කටුපිල | Katupila",
+                "url": "https://youtube.com/watch?v=0upzgr1DJGs",
+                "duration": "8:53",
+                "thumbnail": "https://i.ytimg.com/vi/0upzgr1DJGs/frame0.jpg"
+            },
+            {
+                "title": "කටුපිල #පිළිකා ආශ්‍රිත රෝග වලට ගුණදායක 🤩🤩",
+                "url": "https://youtube.com/watch?v=q9AUVE008Ic",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/q9AUVE008Ic/hq720_2.jpg"
+            },
+            {
+                "title": "කටුපිල,Katupila,(Flueggea leucopyrus)Medicinal Plants of Srilanka🌿🌱#trending# #shortvideo# #herbal#",
+                "url": "https://youtube.com/watch?v=6pcBEQtkfwg",
+                "duration": "0:16",
+                "thumbnail": "https://i.ytimg.com/vi/6pcBEQtkfwg/hq720_2.jpg"
+            },
+            {
+                "title": "Katupila අපූරු බෙහෙතක් තමයි කටුපිල කියන්නේ.",
+                "url": "https://youtube.com/watch?v=CxSb1VlLQNQ",
+                "duration": "0:53",
+                "thumbnail": "https://i.ytimg.com/vi/CxSb1VlLQNQ/hq720_2.jpg"
+            },
+            {
+                "title": "පාරම්පරික වෛද්‍යයේ රහසක් 🌿 කටුපිල ගැන දැනගන්න! #health #villagelife #nature #medical #shortvideo",
+                "url": "https://youtube.com/watch?v=YlkHROZvhiI",
+                "duration": "0:15",
+                "thumbnail": "https://i.ytimg.com/vi/YlkHROZvhiI/hq720_2.jpg"
+            },
+            {
+                "title": "KATUPILA - A medicine for Cancer..  #natural #foods #village 🍀 🌿🌿🌿🌿පිළිකා නසන කටුපිල ☘️2025",
+                "url": "https://youtube.com/watch?v=yVTg_yCFKTY",
+                "duration": "1:00",
+                "thumbnail": "https://i.ytimg.com/vi/yVTg_yCFKTY/hq720.jpg"
+            },
+            {
+                "title": "මේ කටුපිල කෑවොත් පිළිකා සෛල විනාශ වෙයිද? 😱🌿 #shorts",
+                "url": "https://youtube.com/watch?v=NEw3IDm8bhQ",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/NEw3IDm8bhQ/hq720_2.jpg"
+            },
+            {
+                "title": "පිළිකාවට වැට. දේශීය ඖෂධ වට්ටෝරුවක් අනුසාරයෙන් නව කැප්සියුලයක් කොළඹ විශ්වවිද්‍යායෙන්",
+                "url": "https://youtube.com/watch?v=SZhiGMTOx9A",
+                "duration": "1:35",
+                "thumbnail": "https://i.ytimg.com/vi/SZhiGMTOx9A/hq720.jpg"
+            },
+            {
+                "title": "විශ්මිත ගුණ දෙන කටු පිළ katupila#ak nature tv",
+                "url": "https://youtube.com/watch?v=Gf6JS6EuhtU",
+                "duration": "3:35",
+                "thumbnail": "https://i.ytimg.com/vi/Gf6JS6EuhtU/hq720.jpg"
+            },
+            {
+                "title": "මොන සාගතේදිත් අපිත් එක්ක ඉන්න. දියවැඩියාවට, අපේ හදවතට ගුණ දෙන කටු පදුර",
+                "url": "https://youtube.com/watch?v=bGlGlLfOMQw",
+                "duration": "6:47",
+                "thumbnail": "https://i.ytimg.com/vi/bGlGlLfOMQw/hq720.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Dyspepsia",
-      "sinhala": "අජීර්ණය",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Biliary Disorders",
-      "sinhala": "පිත් ආශ්‍රිත ආබාධ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Hepatic & Biliary Disorders",
-        "sinhala": "අක්මාව සහ පිත ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Visceral Obstructions",
-      "sinhala": "අභ්‍යන්තර ඉන්ද්‍රියයන්ගේ (අක්මාව, ප්ලීහාව, වකුගඩු) අවහිරතා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cancer",
-      "sinhala": "පිළිකා",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Roots",
-    "Leaves",
-    "Bark"
-  ],
-  "images": [
-    {
-      "image_id": "478",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/TxwTVTj3/plant00512-00478.jpg"
-    },
-    {
-      "image_id": "479",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/23ZZF4G4/plant00512-00479.jpg"
-    },
-    {
-      "image_id": "480",
-      "caption": "Fruits",
-      "url": "https://i.ibb.co/zhSqdL0K/plant00512-00480.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }

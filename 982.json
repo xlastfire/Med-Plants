@@ -1,104 +1,319 @@
 {
-  "scientificName": "Hemidesmus indicus (L.) R.Br.",
-  "synonyms": [
-    "Hemidesmus indicus var. pubescens (Wight & Arn.) Hook.f.",
-    "Hemidesmus pubescens Wight & Arn.",
-    "Periploca cordata Dennst.",
-    "Periploca indica L.",
-    "Periploca malabarica Burm. ex Decne."
-  ],
-  "familyName": "APOCYNACEAE",
-  "englishNames": [
-    "Indian sarsparilla"
-  ],
-  "sinhalaName": "Iramusu (ඉරමුසු)",
-  "description": "මෙය සිහින්, කිරි සහිත (laticiferous), බිම දිගේ වැවෙන (prostrate), පැටලී වැඩෙන (twining) පැළෑටියකි, නැතහොත් සමහර විට අර්ධ වශයෙන් කෙලින් වැඩෙන පඳුරකි; මුල් දැවමය සහ සුවඳවත්ය; කඳන් බොහෝමයක් ඇත, සිහින්ය, සිලින්ඩරාකාරය (terete), ගැට ස්ථානවලින් ඝනකම් වී ඇත. පත්‍ර අභිමුඛව පිහිටයි (opposite), කෙටි වෘන්ත සහිතය (short-petiolated), ඉතා විචල්‍ය වේ, ඉලිප්සාකාර-දීර්ඝ (elliptic-oblong) සිට රේඛීය-ලන්සාකාර (linear-lanceolate) දක්වා හැඩයන් ගනී. පුෂ්ප මංජරි සයිමස් (cymes) ආකාර වේ. මල් පත්‍ර කක්ෂවල හටගනී (axillary), පිටතින් කොළ පැහැතිය, ඇතුළතින් දම් පැහැතිය.",
-  "treatments": [
-    {
-      "treatment": "Edema",
-      "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Pediatrics & General Symptoms",
-        "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
-      }
+    "scientificName": "Hemidesmus indicus (L.) R.Br.",
+    "synonyms": [
+        "Hemidesmus indicus var. pubescens (Wight & Arn.) Hook.f.",
+        "Hemidesmus pubescens Wight & Arn.",
+        "Periploca cordata Dennst.",
+        "Periploca indica L.",
+        "Periploca malabarica Burm. ex Decne."
+    ],
+    "familyName": "APOCYNACEAE",
+    "englishNames": [
+        "Indian sarsparilla"
+    ],
+    "sinhalaName": "Iramusu (ඉරමුසු)",
+    "description": "මෙය සිහින්, කිරි සහිත (laticiferous), බිම දිගේ වැවෙන (prostrate), පැටලී වැඩෙන (twining) පැළෑටියකි, නැතහොත් සමහර විට අර්ධ වශයෙන් කෙලින් වැඩෙන පඳුරකි; මුල් දැවමය සහ සුවඳවත්ය; කඳන් බොහෝමයක් ඇත, සිහින්ය, සිලින්ඩරාකාරය (terete), ගැට ස්ථානවලින් ඝනකම් වී ඇත. පත්‍ර අභිමුඛව පිහිටයි (opposite), කෙටි වෘන්ත සහිතය (short-petiolated), ඉතා විචල්‍ය වේ, ඉලිප්සාකාර-දීර්ඝ (elliptic-oblong) සිට රේඛීය-ලන්සාකාර (linear-lanceolate) දක්වා හැඩයන් ගනී. පුෂ්ප මංජරි සයිමස් (cymes) ආකාර වේ. මල් පත්‍ර කක්ෂවල හටගනී (axillary), පිටතින් කොළ පැහැතිය, ඇතුළතින් දම් පැහැතිය.",
+    "treatments": [
+        {
+            "treatment": "Edema",
+            "sinhala": "ශෝථය (ශරීරයේ දියර පිරීම / ඉදිමීම)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Pediatrics & General Symptoms",
+                "sinhala": "ළමා රෝග සහ පොදු රෝග ලක්ෂණ"
+            }
+        },
+        {
+            "treatment": "Skin Rashes",
+            "sinhala": "සමේ පළු දැමීම / කුෂ්ඨ",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Dermatological & Skin Conditions",
+                "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
+            }
+        },
+        {
+            "treatment": "Cough",
+            "sinhala": "කැස්ස",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Asthma",
+            "sinhala": "ඇදුම",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Respiratory System Diseases",
+                "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
+            }
+        },
+        {
+            "treatment": "Hemorrhoids",
+            "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
+            "procedure": "",
+            "links": [],
+            "mainCategory": {
+                "english": "Gastrointestinal & Digestive Disorders",
+                "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
+            }
+        }
+    ],
+    "partsUsed": [
+        "Whole plant is used"
+    ],
+    "images": [
+        {
+            "image_id": "889",
+            "caption": "Habit of the species",
+            "url": "https://i.ibb.co/YBZYYcTX/plant00982-00889.jpg"
+        },
+        {
+            "image_id": "890",
+            "caption": "Flower",
+            "url": "https://i.ibb.co/KSCZMf0/plant00982-00890.jpg"
+        },
+        {
+            "image_id": "3867",
+            "caption": "Flower Buds (PMR)",
+            "url": "https://i.ibb.co/gFj9svL3/plant00982-03867.jpg"
+        },
+        {
+            "image_id": "3868",
+            "caption": "Fruits (PMR)",
+            "url": "https://i.ibb.co/RkZJrLnH/plant00982-03868.jpg"
+        },
+        {
+            "image_id": "3869",
+            "caption": "Twig (PMR)",
+            "url": "https://i.ibb.co/WvsczDGJ/plant00982-03869.jpg"
+        },
+        {
+            "image_id": "3870",
+            "caption": "Mature stage Leaf -  (PMR)",
+            "url": "https://i.ibb.co/1YNyd9P5/plant00982-03870.jpg"
+        }
+    ],
+    "special": [],
+    "links": {
+        "youtube": [
+            {
+                "title": "ඉරමුසු ශාකය ගැන සම්පූර්ණ විස්තරයක්",
+                "url": "https://youtube.com/watch?v=SXovXT0DxOY",
+                "duration": "5:42",
+                "thumbnail": "https://i.ytimg.com/vi/SXovXT0DxOY/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු පානය කිරීමෙන් ලැබෙන විශ්මිත ප්‍රතිඵල ඇහුවොත් පුදුම වෙයි | Sinhala",
+                "url": "https://youtube.com/watch?v=F10dJnQEgjw",
+                "duration": "2:54",
+                "thumbnail": "https://i.ytimg.com/vi/F10dJnQEgjw/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු | උෂ්ණ දවස්වල හොයාගන්නම වටින ඖෂධයක් | Iramusu | Isira Ayurveda",
+                "url": "https://youtube.com/watch?v=dLwux3iCIjI",
+                "duration": "4:12",
+                "thumbnail": "https://i.ytimg.com/vi/dLwux3iCIjI/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු ශාකයේ ඇති ගුණ",
+                "url": "https://youtube.com/watch?v=_G0TFxrj-O0",
+                "duration": "2:14",
+                "thumbnail": "https://i.ytimg.com/vi/_G0TFxrj-O0/hqdefault.jpg"
+            },
+            {
+                "title": "ඉරමුසු බීවද....එහෙනම් අනිවාර්යයෙන් මේක බලන්න  Iramusu",
+                "url": "https://youtube.com/watch?v=BA7amgpuJqc",
+                "duration": "3:38",
+                "thumbnail": "https://i.ytimg.com/vi/BA7amgpuJqc/hqdefault.jpg"
+            },
+            {
+                "title": "ඉරමුසු .  ප්‍රණීත ඉරමුසු පානය.   Iramusu drink",
+                "url": "https://youtube.com/watch?v=3FK3mOlIVvE",
+                "duration": "1:30",
+                "thumbnail": "https://i.ytimg.com/vi/3FK3mOlIVvE/hqdefault.jpg"
+            },
+            {
+                "title": "ඉරමුසු/ඇඟ නිවන බෙහෙතක්/Iramusu/ Hemidesmus indicus/Herbal plants of sri lanka",
+                "url": "https://youtube.com/watch?v=5gTbcc1wisg",
+                "duration": "1:47",
+                "thumbnail": "https://i.ytimg.com/vi/5gTbcc1wisg/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු ගැන මේවා දන්නවා ද - Amazing Ayruvedic Herbal – Iramusu",
+                "url": "https://youtube.com/watch?v=tWI_JaKn8iI",
+                "duration": "2:31",
+                "thumbnail": "https://i.ytimg.com/vi/tWI_JaKn8iI/hq720.jpg"
+            },
+            {
+                "title": "ගර්භාෂය සිසිල් කරන | Iramusu | ඉරමුසු  @osu-1380",
+                "url": "https://youtube.com/watch?v=S41Ir_rzKoA",
+                "duration": "4:27",
+                "thumbnail": "https://i.ytimg.com/vi/S41Ir_rzKoA/hq720.jpg"
+            },
+            {
+                "title": "✔️ ඉරමුසු පානය ( ඉරමුසු තේ ) | Iramusu Drink ( iramusu tea ) #iramusu #ඉරමුසු",
+                "url": "https://youtube.com/watch?v=a5TioUsQCb0",
+                "duration": "4:46",
+                "thumbnail": "https://i.ytimg.com/vi/a5TioUsQCb0/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු ශාකය ගැන සම්පූර්ණ විස්තරයක්",
+                "url": "https://youtube.com/watch?v=erzP05YhHmI",
+                "duration": "5:42",
+                "thumbnail": "https://i.ytimg.com/vi/erzP05YhHmI/frame0.jpg"
+            },
+            {
+                "title": "ඉරමුසු Iramusu",
+                "url": "https://youtube.com/watch?v=_UTJqnGT6r4",
+                "duration": "8:09",
+                "thumbnail": "https://i.ytimg.com/vi/_UTJqnGT6r4/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු Hemidesmus indicus",
+                "url": "https://youtube.com/watch?v=YWSPK0wwSrs",
+                "duration": "0:23",
+                "thumbnail": "https://i.ytimg.com/vi/YWSPK0wwSrs/hq720.jpg"
+            },
+            {
+                "title": "තේ වෙනුවට පානයකර රෝග නිවාරණය කලහැකි, සිරුරේ උෂ්ණ ගතිය සමනය කරන ගෙදර තිබිය යුතුම සුවිශේෂී ඖෂධය ඉරමුසු",
+                "url": "https://youtube.com/watch?v=Ft9wUSfO5Lc",
+                "duration": "16:58",
+                "thumbnail": "https://i.ytimg.com/vi/Ft9wUSfO5Lc/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු ගැන ඔබ නොදත් විස්මිත රහස්",
+                "url": "https://youtube.com/watch?v=gDGGkd4EI0A",
+                "duration": "0:52",
+                "thumbnail": "https://i.ytimg.com/vi/gDGGkd4EI0A/hqdefault.jpg"
+            },
+            {
+                "title": "ඉරමුසු හා සස්සඳ  හඳුනා ගන්න...",
+                "url": "https://youtube.com/watch?v=RuGt4SOGcKs",
+                "duration": "2:42",
+                "thumbnail": "https://i.ytimg.com/vi/RuGt4SOGcKs/hq720.jpg"
+            },
+            {
+                "title": "දිව්‍යමය  ඖෂධීය ගුණ රැසක් පිරි ඉරමුසු පානය|‎Iramusu medicinal properties|‎@Villagecookingbro",
+                "url": "https://youtube.com/watch?v=VnDZ2O6fkfI",
+                "duration": "3:11",
+                "thumbnail": "https://i.ytimg.com/vi/VnDZ2O6fkfI/hqdefault.jpg"
+            },
+            {
+                "title": "ඉරමුසු කැදවල ඖෂධීය ගුණය |Medicinal properties of Iramusu pods @helaosuarana",
+                "url": "https://youtube.com/watch?v=cHKTCbrySfs",
+                "duration": "3:32",
+                "thumbnail": "https://i.ytimg.com/vi/cHKTCbrySfs/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු ශාකයේ ඖෂධීය ගුණ 😱😱",
+                "url": "https://youtube.com/watch?v=woeUA9YwiKg",
+                "duration": "8:42",
+                "thumbnail": "https://i.ytimg.com/vi/woeUA9YwiKg/hq720.jpg"
+            },
+            {
+                "title": "තේ වෙනුවට බොන්න පුළුවන් ඉබේ හැදෙන ඉරමුසු වල ගුණ 14ක් | Iramusu wala guna | Sakala waga",
+                "url": "https://youtube.com/watch?v=wcg4xXditqU",
+                "duration": "3:19",
+                "thumbnail": "https://i.ytimg.com/vi/wcg4xXditqU/hqdefault.jpg"
+            },
+            {
+                "title": "රස ගුණ මුසු - ඉරමුසු බොමු",
+                "url": "https://youtube.com/watch?v=-aCGNcVqd5w",
+                "duration": "0:30",
+                "thumbnail": "https://i.ytimg.com/vi/-aCGNcVqd5w/hq720.jpg"
+            },
+            {
+                "title": "මුත්‍ර රෝග නසන, කොළ කැද වලට ඕනම ඔසුව | Iramusu | Ceylon Agri | Episode 147",
+                "url": "https://youtube.com/watch?v=jAHJVwmgqu8",
+                "duration": "8:41",
+                "thumbnail": "https://i.ytimg.com/vi/jAHJVwmgqu8/hq720.jpg"
+            },
+            {
+                "title": "සරිරගත ලෙඩ රෝග සමනය කරන ඖෂධ  ඉරමුසු පානය /how to iramusu panaya",
+                "url": "https://youtube.com/watch?v=CjXDMBmZ3Mk",
+                "duration": "8:17",
+                "thumbnail": "https://i.ytimg.com/vi/CjXDMBmZ3Mk/hq720.jpg"
+            },
+            {
+                "title": "මිදුලේ හැදෙන මේ පැලේ මෙහෙම ගුණයක්",
+                "url": "https://youtube.com/watch?v=yj6N5p5Mz28",
+                "duration": "5:20",
+                "thumbnail": "https://i.ytimg.com/vi/yj6N5p5Mz28/hqdefault.jpg"
+            },
+            {
+                "title": "මේ ඉරමූසූ ශාකයේ ඖෂධීය වටිනාකම නොදන්න අපි භාවිතා කරන විදිහ වැරදියි/iramusu Kada",
+                "url": "https://youtube.com/watch?v=CRtLHLCBRuM",
+                "duration": "9:36",
+                "thumbnail": "https://i.ytimg.com/vi/CRtLHLCBRuM/hq720.jpg"
+            },
+            {
+                "title": "ඉරමුසු පානය, ඉරමුසු පැලේ හොඳම කොටස,iramusu",
+                "url": "https://youtube.com/watch?v=oEqzsFeV0GA",
+                "duration": "5:03",
+                "thumbnail": "https://i.ytimg.com/vi/oEqzsFeV0GA/hqdefault.jpg"
+            },
+            {
+                "title": "10 Benefits of Hemidesmus Indicus Eramusu Anantamoola -A best herbal for curing so many diseases",
+                "url": "https://youtube.com/watch?v=TzP1CQv-uOo",
+                "duration": "1:37",
+                "thumbnail": "https://i.ytimg.com/vi/TzP1CQv-uOo/hq720.jpg"
+            },
+            {
+                "title": "Benefits Of Iramusu!!!!!!",
+                "url": "https://youtube.com/watch?v=05VGC85gGYY",
+                "duration": "3:36",
+                "thumbnail": "https://i.ytimg.com/vi/05VGC85gGYY/hqdefault.jpg"
+            },
+            {
+                "title": "ශරීරය සිසිල් කරන ඉරමුසු පානය",
+                "url": "https://youtube.com/watch?v=_URCUAVXTUs",
+                "duration": "6:10",
+                "thumbnail": "https://i.ytimg.com/vi/_URCUAVXTUs/hq720.jpg"
+            },
+            {
+                "title": "Iramusu    ඉරමුසු    Hemidesmus indicus   நறு நெட்டி",
+                "url": "https://youtube.com/watch?v=JJu8TBnEWZE",
+                "duration": "0:57",
+                "thumbnail": "https://i.ytimg.com/vi/JJu8TBnEWZE/hqdefault.jpg"
+            },
+            {
+                "title": "Iramusu (ඉරමුසු) |  Hemidesmus indicus | #herbal #srilanka #aurvedic",
+                "url": "https://youtube.com/watch?v=ud9myugJ6s4",
+                "duration": "1:22",
+                "thumbnail": "https://i.ytimg.com/vi/ud9myugJ6s4/hqdefault.jpg"
+            },
+            {
+                "title": "ඉරමුසු | ඉරමුසු ගැන මේවා දන්නවාද | ඉරමුසු කැද | Iramusu sinhala | 2021",
+                "url": "https://youtube.com/watch?v=h9meOR60W4E",
+                "duration": "7:55",
+                "thumbnail": "https://i.ytimg.com/vi/h9meOR60W4E/hqdefault.jpg"
+            },
+            {
+                "title": "පාරිසරික විෂබීජ වෛරස මර්දනය කරන ඖෂධ පානය/ඉරමුසු/ඉරමූසූ",
+                "url": "https://youtube.com/watch?v=4bocNMXf6fg",
+                "duration": "3:07",
+                "thumbnail": "https://i.ytimg.com/vi/4bocNMXf6fg/hq720.jpg"
+            },
+            {
+                "title": "Iramusu Kola Kenda Hadamu - ඉරමුසු කොළ කැඳ එකක් හදමු",
+                "url": "https://youtube.com/watch?v=YeZm91X1g2A",
+                "duration": "5:46",
+                "thumbnail": "https://i.ytimg.com/vi/YeZm91X1g2A/hq720.jpg"
+            },
+            {
+                "title": "Medicinal value of iramusu  -medicinal plant -  iramusu - Plant Technology",
+                "url": "https://youtube.com/watch?v=O96P8aTyhvw",
+                "duration": "9:10",
+                "thumbnail": "https://i.ytimg.com/vi/O96P8aTyhvw/hqdefault.jpg"
+            }
+        ]
     },
-    {
-      "treatment": "Skin Rashes",
-      "sinhala": "සමේ පළු දැමීම / කුෂ්ඨ",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Dermatological & Skin Conditions",
-        "sinhala": "චර්ම රෝග සහ සමේ ආබාධ"
-      }
-    },
-    {
-      "treatment": "Cough",
-      "sinhala": "කැස්ස",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Asthma",
-      "sinhala": "ඇදුම",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Respiratory System Diseases",
-        "sinhala": "ශ්වසන පද්ධතිය ආශ්‍රිත රෝග"
-      }
-    },
-    {
-      "treatment": "Hemorrhoids",
-      "sinhala": "අර්ශස් (අර්ශස් රෝගය)",
-      "procedure": "",
-      "links": [],
-      "mainCategory": {
-        "english": "Gastrointestinal & Digestive Disorders",
-        "sinhala": "ආමාශ සහ ජීරණ පද්ධති ආශ්‍රිත ආබාධ"
-      }
-    }
-  ],
-  "partsUsed": [
-    "Whole plant is used"
-  ],
-  "images": [
-    {
-      "image_id": "889",
-      "caption": "Habit of the species",
-      "url": "https://i.ibb.co/YBZYYcTX/plant00982-00889.jpg"
-    },
-    {
-      "image_id": "890",
-      "caption": "Flower",
-      "url": "https://i.ibb.co/KSCZMf0/plant00982-00890.jpg"
-    },
-    {
-      "image_id": "3867",
-      "caption": "Flower Buds (PMR)",
-      "url": "https://i.ibb.co/gFj9svL3/plant00982-03867.jpg"
-    },
-    {
-      "image_id": "3868",
-      "caption": "Fruits (PMR)",
-      "url": "https://i.ibb.co/RkZJrLnH/plant00982-03868.jpg"
-    },
-    {
-      "image_id": "3869",
-      "caption": "Twig (PMR)",
-      "url": "https://i.ibb.co/WvsczDGJ/plant00982-03869.jpg"
-    },
-    {
-      "image_id": "3870",
-      "caption": "Mature stage Leaf -  (PMR)",
-      "url": "https://i.ibb.co/1YNyd9P5/plant00982-03870.jpg"
-    }
-  ],
-  "special": []
+    "status": "already_filtered"
 }
